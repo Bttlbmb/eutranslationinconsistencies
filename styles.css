@@ -90,9 +90,10 @@ summary { cursor: pointer; }
 .source-context-heading, .source-annex-heading { font: 600 12px/1.4 var(--sans); letter-spacing: .035em; }
 .source-context-heading + .source-context-heading { margin-top: -.4em; }
 .source-annex-heading { margin-top: 1.1em; margin-bottom: .3em; }
-.source-clause, .source-point { display: grid; grid-template-columns: 1.7em minmax(0, 1fr); column-gap: .35em; }
-.source-point { padding-left: 1.25em; grid-template-columns: 2em minmax(0, 1fr); }
-.source-marker { font-variant-numeric: tabular-nums; }
+.source-clause, .source-point { display: grid; grid-template-columns: max-content minmax(0, 1fr); column-gap: .35em; }
+.source-point { padding-left: 1.25em; }
+.source-marker { min-width: 1.7em; font-variant-numeric: tabular-nums; }
+.source-point .source-marker { min-width: 2em; }
 .source-blank { min-height: .5em; margin: 0; }
 .passage-highlight { padding: 1px 1px; background: var(--highlight-soft); box-decoration-break: clone; -webkit-box-decoration-break: clone; color: inherit; text-decoration: none; }
 .passage-highlight:hover { background: var(--highlight); }

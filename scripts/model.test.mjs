@@ -142,3 +142,12 @@ test('numbered clauses and clear inline lists get readable rows without changing
   assert.equal(source.slice(rows[4].start, rows[4].contentEnd), '(a) first item; ');
   assert.equal(passageRows('A reference to Article 3(3)(a) remains prose.', 'Context').length, 1);
 });
+
+test('definition numbers and annex bullets stay beside their source text', () => {
+  const source = '(28)\n‘common specification’ means a technical specification;\n1.\nFirst annex item\n—\nRelated detail';
+  const rows = passageRows(source, 'Article 3');
+  assert.deepEqual(rows.map(row => row.kind), ['point', 'clause', 'point']);
+  assert.equal(rows.map(row => source.slice(row.start, row.end)).join(''), source);
+  assert.equal(source.slice(rows[0].start, rows[0].markerEnd), '(28)\n');
+  assert.equal(source.slice(rows[1].markerEnd, rows[1].contentEnd), 'First annex item');
+});

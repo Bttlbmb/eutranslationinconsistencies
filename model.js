@@ -107,15 +107,16 @@ export function passageRows(text, label = '') {
       if (label.startsWith('Annex ')) return 'annex-heading';
     }
     if (/^\d+[a-z]{0,3}\.\s+\S/i.test(value)) return 'clause';
-    if (/^\([a-z]{1,3}\)\s+\S/i.test(value) || /^\d+\)\s+\S/.test(value)) return 'point';
+    if (/^\((?:[a-z]{1,3}|\d{1,3})\)\s+\S/i.test(value) || /^\d+\)\s+\S/.test(value) || /^—\s+\S/.test(value)) return 'point';
     return 'paragraph';
   };
+  const isMarkerLine = value => /^(?:\((?:[a-z]{1,3}|\d{1,3})\)|\d+[a-z]{0,3}[.)]|—)\s*$/i.test(value);
   for (let index = 0; index < lines.length; index++) {
     const line = lines[index];
-    const markerOnly = /^(?:\([a-z]{1,3}\)|\d+\))\s*$/i.test(line.value);
-    if (markerOnly && index + 1 < lines.length && lines[index + 1].value.trim()) {
+    if (isMarkerLine(line.value) && index + 1 < lines.length && lines[index + 1].value.trim() && !isMarkerLine(lines[index + 1].value)) {
       const next = lines[++index];
-      rows.push({kind: 'point', start: line.start, markerEnd: line.end, contentEnd: next.contentEnd, end: next.end});
+      rows.push({kind: /^\d+[a-z]{0,3}\.$/i.test(line.value.trim()) ? 'clause' : 'point',
+        start: line.start, markerEnd: line.end, contentEnd: next.contentEnd, end: next.end});
       continue;
     }
     // The archive flattens some official list grids into one line. Break only
@@ -134,7 +135,7 @@ export function passageRows(text, label = '') {
     starts.forEach((start, partIndex) => {
       const contentEnd = starts[partIndex + 1] ?? line.contentEnd;
       const value = text.slice(start, contentEnd);
-      const marker = value.match(/^(?:\([a-z]{1,3}\)|\d+\)|\d+[a-z]{0,3}\.)\s+/i);
+      const marker = value.match(/^(?:\((?:[a-z]{1,3}|\d{1,3})\)|\d+[a-z]{0,3}[.)]|—)\s+/i);
       rows.push({kind: partIndex ? 'point' : kindOf(value, index), start,
         markerEnd: marker ? start + marker[0].length : null,
         contentEnd, end: partIndex === starts.length - 1 ? line.end : contentEnd});
