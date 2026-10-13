@@ -250,7 +250,10 @@ function renderComparison() {
       const list = node('div', 'findings-index');
       findings.forEach((finding, index) => {
         const item = button('', 'finding-index-item', () => changeSelection(act, finding, {scroll: true}));
-        append(item, node('span', 'finding-index-number', String(index + 1).padStart(2, '0')), append(node('span'), node('strong', '', finding.title), node('small', '', plural(finding.variants.length, 'language'))));
+        const matchingVariants = state.language ? finding.variants.filter(variant => variant.language === state.language) : finding.variants;
+        const title = state.language && matchingVariants.length === 1 ? matchingVariants[0].finding_title || finding.title : finding.title;
+        const context = state.language ? plural(matchingVariants.length, 'difference') : plural(new Set(matchingVariants.map(variant => variant.language)).size, 'language');
+        append(item, node('span', 'finding-index-number', String(index + 1).padStart(2, '0')), append(node('span'), node('strong', '', title), node('small', '', context)));
         list.append(item);
       });
       panel.append(list);

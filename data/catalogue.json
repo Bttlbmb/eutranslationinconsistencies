@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T01:56:53.010094Z",
+  "generated_at": "2026-10-13T02:05:44.230623Z",
   "legislation": [
     {
       "id": "32006R1924",
@@ -3948,7 +3948,7 @@
       "version": "2026-07-24",
       "version_label": "Consolidated text",
       "retrieved_at": "2026-10-13T01:20:41.330128+00:00",
-      "status": "analyzing",
+      "status": "partial",
       "subject": "",
       "languages": [
         {
@@ -4172,7 +4172,7 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 3910,
-        "reviewed_units": 48,
+        "reviewed_units": 76,
         "total_languages": 24,
         "reviewed_languages": 0
       },
@@ -8336,7 +8336,7 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 7866,
-        "reviewed_units": 24,
+        "reviewed_units": 40,
         "total_languages": 24,
         "reviewed_languages": 0
       },
