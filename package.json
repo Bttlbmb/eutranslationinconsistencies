@@ -5,9 +5,11 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node --test scripts/model.test.mjs",
+    "test": "node --test scripts/*.test.mjs",
     "check": "node scripts/check.mjs",
     "start": "node scripts/serve.mjs"
   },
-  "engines": {"node": ">=20"}
+  "engines": {
+    "node": ">=20"
+  }
 }

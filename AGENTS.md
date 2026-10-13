@@ -2,6 +2,11 @@
 
 This directory is an independent Git repository. The neighboring `../backend/` is the local Python service and owns source ingestion, analysis, SQLite storage, and export generation.
 
+Read `README.md` for the module map and verification checklist. Keep evidence and
+grouping rules pure in `model.js`, stateless DOM helpers in `view.js`, and selection
+state in `app.js`. `scripts/snapshot.mjs` validates the public boundary; both check
+and build use it. Add new browser assets to the explicit build allowlist.
+
 - Keep this website static and read-only. Browser requests must not call the local backend or run model analysis.
 - `data/catalogue.json` implements the self-contained v1 contract in `SCHEMA.md`. It contains the current real public export, which backend exports replace. Do not invent findings, translations, coverage, review completion, or legislation metadata.
 - Render source text safely as text nodes. Highlights must match an exact English passage substring. Publish only agent-reviewed supported findings.

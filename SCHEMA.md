@@ -38,7 +38,7 @@ This document describes the v1 interface consumed by this repository. Additive o
 
 - `imported`: sources are preserved; no completed analysis is claimed.
 - `analyzing`: analysis is in progress; already reviewed findings may be present in a snapshot.
-- `complete`: the analysis completed for the selected comparable source scope and available official language expressions.
+- `complete`: the analysis completed for the selected comparable source scope and available official language expressions. Both reviewed totals equal their expected totals, with no failed retrievals or incomplete language expressions.
 - `partial`: some units, languages or source expressions remain incomplete. Preserved mixed-language expressions do not become fully reviewed language coverage.
 - `failed`: the analysis was interrupted or failed; any preserved evidence remains available.
 
@@ -71,6 +71,8 @@ Unavailable-language and failed-language objects each contain `code`, `name`, an
 
 The current exporter computes `total_units` as the number of English passages multiplied by `max(0, total_languages - 1)`. Completed batch coverage is counted once per language/passage pair. Incomplete or mixed-language expressions stay in the denominator but are excluded from fully reviewed language/passage counts. A missing language must not disappear from the denominator merely because its download failed.
 
+For a segmented review, every expected fragment must finish before its parent passage/language pair counts as reviewed. Once a segmented full-act plan exists, its batches supersede older focused studies for public coverage and findings. Reviewed counts cannot exceed expected counts, and `total_languages` must equal preserved languages plus failed official retrievals. The website validator enforces these totals.
+
 ## Passage
 
 | Field | Type | Meaning |
@@ -98,6 +100,8 @@ Passages remain in reading order. The backend validates each passage against the
 
 Rejected, uncertain, invalid-evidence and unreviewed candidates remain private in the backend. They must not be included as public findings. Publication checks reject a finding whose English quote does not match, whose variant quote does not occur in its language archive, or whose variant evidence is incomplete.
 
+Accepted candidates from a batch whose coverage review has not completed remain preliminary and are excluded from the export. A publication hold suppresses all findings for the act without hiding its source texts or coverage. The backend's local hold flag itself is not a public field.
+
 ### Variant
 
 | Field | Type | Meaning |
@@ -108,6 +112,8 @@ Rejected, uncertain, invalid-evidence and unreviewed candidates remain private i
 | `translation` | non-empty string | English translation of that quotation, identified as a translation in the interface. |
 | `explanation` | non-empty string | Difference and its potential effect in the relevant context. |
 | `source_url` | HTTPS URL | Official EU source supporting the original quotation. |
+
+The variant language must be a preserved non-English language. Its source URL must match that language's archived source URL; an official link to a different act or version does not validate the quotation.
 
 ### Review
 
@@ -121,7 +127,7 @@ Rejected, uncertain, invalid-evidence and unreviewed candidates remain private i
 
 The stored finding records remain separate. For display, the reader groups records with the same `passage_id` and exact `english_quote`, lists all reviewed language variants, and preserves each record's title on its language card. Each original finding ID remains a valid alias for the grouped view.
 
-Links use `#act=<encoded-id>&finding=<encoded-finding-id>`. Missing or unknown finding IDs open the act without a selected finding. Unknown act IDs fall back to the first available act; an empty catalogue has an explicit empty state.
+Links use `#act=<encoded-id>&finding=<encoded-finding-id>`, with optional `&lang=<language-code>` to filter by a language with substantial findings. The requested finding must belong to the selected act, and the language must occur in its variants. Unknown act IDs fall back to the first available act; an empty catalogue has an explicit empty state. On initial load, a missing or unknown finding selects the first visible finding when available. Browser Back to the finding index restores the view without a selected finding.
 
 The v1 contract has no quote offset. Every exact non-overlapping occurrence is highlighted when wording repeats within a passage. The comparison states the occurrence count and directs the reader to the explanation for the affected context. Highlight repetition must not be described as proof that every matching occurrence is separately discrepant. Overlapping distinct quotes retain separate finding choices.
 
@@ -130,3 +136,5 @@ The v1 contract has no quote offset. Every exact non-overlapping occurrence is h
 Source links must use HTTPS on `europa.eu` or its subdomains. Text and explanations are rendered as text, never executable markup. English is a navigation reference; it has no higher authority than the other official versions.
 
 Do not export private model prompts or traces, credentials, local filesystem paths, account information, internal exception messages, rejected candidate quotations, or localhost control endpoints. Public notes must be deliberately sanitized. The website is read-only; submissions, source retrieval, SQLite storage, model calls and publication credentials belong in the local backend.
+
+`scripts/snapshot.mjs` checks the public evidence for both check and build. A build copies the exact catalogue and archive bytes that passed validation, rather than reading them again afterward. Archive paths resolving outside `data/texts/`, including symlinks to external files, are rejected. Only the explicit browser assets and referenced text files enter `dist/`. Older unreferenced public text copies may be pruned after the backend verifies that their original bytes remain in the private source archive.
