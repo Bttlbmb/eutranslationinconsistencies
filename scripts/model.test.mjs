@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {catalogueLegislation, publicFindings, groupedFindings, highlightedSegments, sourceOccurrences, overlappingFindings, officialURL, archiveURL, selectedFromHash, completionMessage} from '../model.js';
+import {catalogueLegislation, publicFindings, substantialLanguageIndex, groupedFindings, highlightedSegments, sourceOccurrences, overlappingFindings, officialURL, archiveURL, selectedFromHash, completionMessage} from '../model.js';
 
 // Artificial strings below are unit-test fixtures, never published source data.
 const act = {id:'test-act', title:'Test act', status:'partial', passages:[{id:'p1', text:'alpha beta gamma delta'}], findings:[{id:'test-finding', passage_id:'p1', english_quote:'beta gamma', status:'agent_reviewed', variants:[{language:'fr'}]}], coverage:{total_units:12,reviewed_units:3}};
@@ -10,6 +10,21 @@ test('only supported reviewed findings become public highlights', () => {
   const missingQuote = {...act.findings[0], id:'unmatched', english_quote:'not in source'};
   const emptyQuote = {...act.findings[0], id:'empty', english_quote:''};
   assert.equal(publicFindings({...act, findings:[...act.findings,draft,missingQuote,emptyQuote]}).length, 1);
+});
+
+test('language index counts substantial finding records without double-counting a language', () => {
+  const first = {...act.findings[0], severity:'substantial', variants:[{language:'nl',language_name:'Dutch'},{language:'nl',language_name:'Dutch'},{language:'de',language_name:'German'}]};
+  const second = {...first, id:'second', variants:[{language:'nl',language_name:'Dutch'}]};
+  const unsupported = {...first, id:'draft', status:'candidate', variants:[{language:'fr',language_name:'French'}]};
+  const lowerSeverity = {...first, id:'minor', severity:'minor', variants:[{language:'it',language_name:'Italian'}]};
+  const document = {...act, findings:[first,second,unsupported,lowerSeverity]};
+  assert.deepEqual(substantialLanguageIndex(document), [
+    {code:'de',name:'German',count:1,findingIds:['test-finding']},
+    {code:'nl',name:'Dutch',count:2,findingIds:['test-finding','second']}
+  ]);
+  assert.equal(selectedFromHash('#act=test-act&lang=nl', [document]).language, 'nl');
+  assert.equal(selectedFromHash('#act=test-act&lang=fr', [document]).language, null);
+  assert.equal(selectedFromHash('#act=test-act&finding=test-finding&lang=de', [document]).language, 'de');
 });
 
 test('overlapping highlights preserve every source character and both findings', () => {

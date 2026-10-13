@@ -16,6 +16,26 @@ export function publicFindings(act) {
   );
 }
 
+/** Languages with publishable substantial findings, counted by finding record. */
+export function substantialLanguageIndex(act) {
+  const archivedNames = new Map((act?.languages || []).map(language => [language.code, language.name]));
+  const languages = new Map();
+  for (const finding of publicFindings(act)) {
+    if (finding.severity !== 'substantial') continue;
+    const seen = new Set();
+    for (const variant of finding.variants) {
+      const code = variant?.language;
+      if (typeof code !== 'string' || !/^[a-z]{2}$/.test(code) || seen.has(code)) continue;
+      seen.add(code);
+      if (!languages.has(code)) languages.set(code, {code, name: variant.language_name || archivedNames.get(code) || code.toUpperCase(), count: 0, findingIds: []});
+      const language = languages.get(code);
+      language.count += 1;
+      language.findingIds.push(finding.id);
+    }
+  }
+  return [...languages.values()].sort((a, b) => a.code.localeCompare(b.code));
+}
+
 /** Present each English anchor once while preserving every reviewed language record. */
 export function groupedFindings(act) {
   const groups = new Map();
@@ -84,7 +104,10 @@ export function selectedFromHash(hash, legislation) {
   const params = new URLSearchParams(hash.replace(/^#/, ''));
   const act = legislation.find(item => item.id === params.get('act')) || legislation[0] || null;
   const finding = act ? groupedFindings(act).find(item => item.aliases.includes(params.get('finding'))) || null : null;
-  return {act, finding};
+  const requestedLanguage = params.get('lang');
+  const language = act && substantialLanguageIndex(act).some(item => item.code === requestedLanguage) &&
+    (!finding || finding.variants.some(variant => variant.language === requestedLanguage)) ? requestedLanguage : null;
+  return {act, finding, language};
 }
 
 export function completionMessage(act, findings) {

@@ -4,35 +4,32 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow, noarchive">
-  <meta name="description" content="Read EU legislation across languages. Explore source-backed, independently reviewed potential differences between official language versions.">
+  <meta name="description" content="Read EU legislation and reviewed potential differences between its official language versions.">
   <meta name="theme-color" content="#f5f3ed">
-  <title>Concordance — EU language observatory</title>
+  <title>EU Translation Inconsistencies</title>
   <link rel="icon" type="image/svg+xml" href="./favicon.svg">
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=2">
   <script type="module" src="./app.js"></script>
 </head>
 <body>
   <a class="skip-link" href="#reader">Skip to legislation</a>
   <header class="site-header">
-    <a class="brand" href="./" aria-label="Concordance home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span>Concordance<small>EU LANGUAGE OBSERVATORY</small></span></a>
-    <div class="header-right"><span class="edition-label">A closer reading of European law</span><button class="text-button" id="method-button" aria-haspopup="dialog">How to read <span aria-hidden="true">↗</span></button></div>
+    <a class="brand" href="./">EU Translation Inconsistencies</a>
+    <button class="text-button" id="method-button" aria-haspopup="dialog">Method</button>
   </header>
 
   <main class="workspace">
     <aside class="library" aria-label="Legislation library">
-      <div class="library-title"><h1>Legislation</h1><span class="count-pill" id="library-count">0</span></div>
-      <p class="library-description">A shared text.<br>A multilingual perspective.</p>
+      <div class="library-title"><h2>Legislation</h2></div>
       <label class="search-box"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 4.5 4.5"></path></svg><input type="search" id="search" placeholder="Find legislation…" aria-label="Search legislation"></label>
-      <div class="filter-row" role="group" aria-label="Filter legislation"><button type="button" class="filter active" id="filter-all" aria-pressed="true">All legislation</button><button type="button" class="filter" id="filter-findings" aria-pressed="false">With findings</button></div>
       <nav id="legislation-list" class="legislation-list" aria-label="Choose legislation"><div class="loading-state">Loading the collection…</div></nav>
-      <div class="library-foot"><span class="small-symbol" aria-hidden="true">✳</span><p>Official sources.<br>Independent cross-checks.<br>Open to closer examination.</p><div class="snapshot-date" id="snapshot-date"></div></div>
     </aside>
 
     <section class="document-area" aria-label="Legislation comparison">
       <div id="document-heading" class="document-heading"></div>
       <div id="reader-toolbar" class="reader-toolbar" hidden></div>
       <div class="reading-workspace" id="reading-workspace">
-        <section class="reader" id="reader" aria-label="English legislation" tabindex="-1"><div class="collection-empty"><span class="empty-glyph" aria-hidden="true">≋</span><p class="eyebrow">THE COLLECTION</p><h2>Every language.<br>The same attention.</h2><p>Preparing the legislation library…</p></div></section>
+        <section class="reader" id="reader" aria-label="English legislation" tabindex="-1"><div class="collection-empty"><p>Loading legislation…</p></div></section>
         <aside class="comparison" id="comparison" aria-label="Language differences"></aside>
       </div>
     </section>
@@ -41,12 +38,9 @@
   <p id="selection-status" class="visually-hidden" role="status" aria-live="polite"></p>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
   <dialog id="method-dialog" class="method-dialog" aria-labelledby="method-title">
-    <div class="dialog-top"><span class="eyebrow">ABOUT CONCORDANCE</span><button class="icon-button" id="close-method" aria-label="Close reading guide">×</button></div>
-    <h2 id="method-title">One law.<br>Many language versions.</h2>
-    <p>Concordance helps you explore potential differences in legal meaning between official EU language versions. English provides a shared starting point for reading; it has no higher authority than the other official versions.</p>
-    <ol class="method-steps"><li><strong>Read the source.</strong><span>The English text sits alongside the exact version and links to the official EUR-Lex record.</span></li><li><strong>Follow a highlight.</strong><span>Gold passages open original-language evidence, an English translation, and a concise account of the potential difference.</span></li><li><strong>Examine the finding.</strong><span>Two independent model analyses are cross-checked by a reviewer. Only supported findings are published. Each finding shows its review details.</span></li></ol>
-    <div class="method-note"><strong>A starting point for scrutiny</strong><p>Findings are machine-assisted research, not adjudicated errors or legal advice. An analysis with no findings does not establish that every version is equivalent. Coverage and completion status are shown for each act.</p></div>
-    <p class="method-footer">This is a read-only snapshot. The owner imports and analyzes legislation locally; no submissions or analysis run in your browser.</p>
+    <div class="dialog-top"><h2 id="method-title">Method</h2><button class="icon-button" id="close-method" aria-label="Close method">×</button></div>
+    <p>The English text is a reading reference. All official language versions have equal authority. Select highlighted text to see original wording, an English translation, and the potential difference.</p>
+    <p>Published findings are supported by independent model analyses and evidence review. They identify possible differences in meaning, not adjudicated errors or legal advice. An act with no findings is not necessarily equivalent across languages; check its review coverage and source version.</p>
   </dialog>
 </body>
 </html>
