@@ -307,7 +307,9 @@ function renderComparison() {
     const detailExplanation = state.language && variants.length === 1 ? variants[0].explanation || selected.explanation : selected.explanation;
     append(detail, node('h2', '', detailTitle));
     const anchor = node('details', 'english-anchor');
-    append(anchor, node('summary', '', 'English passage'), node('blockquote', '', selected.english_quote));
+    const englishQuote = node('blockquote', 'evidence-quote', selected.english_quote);
+    englishQuote.lang = 'en';
+    append(anchor, node('summary', '', 'English passage'), englishQuote);
     const passage = act.passages.find(item => item.id === selected.passage_id);
     const occurrences = sourceOccurrences(passage?.text || '', selected.english_quote).length;
     if (occurrences > 1) append(anchor, node('p', 'repeated-wording-note', `This wording occurs ${occurrences} times in this passage; see the explanation for the affected context.`));
@@ -330,10 +332,14 @@ function renderComparison() {
       const card = node('article', 'variant-card');
       const top = node('div', 'variant-title');
       append(top, append(node('div', 'variant-language'), node('span', 'language-monogram', (variant.language || '?').toUpperCase()), node('h3', '', `${variant.language_name || variant.language} · original wording`)), externalLink('EUR-Lex ↗', variant.source_url, 'source-link', `Read the official ${variant.language_name || variant.language} source`));
-      const quote = node('blockquote', 'original-quote', variant.quote);
+      const quote = node('blockquote', 'original-quote evidence-quote', variant.quote);
       quote.lang = variant.language || '';
       const variantTitle = variant.finding_title && variant.finding_title !== detailTitle ? node('h4', 'variant-finding-title', variant.finding_title) : null;
-      append(card, top, variantTitle, quote, node('div', 'translation-label', 'ENGLISH TRANSLATION'), node('p', 'translated-quote', variant.translation));
+      const originalExcerpt = append(node('section', 'quote-excerpt'), top, quote);
+      const translation = node('blockquote', 'translated-quote evidence-quote', variant.translation);
+      translation.lang = 'en';
+      const translatedExcerpt = append(node('section', 'quote-excerpt'), node('div', 'translation-label', 'English translation'), translation);
+      append(card, variantTitle, originalExcerpt, translatedExcerpt);
       append(card, append(node('div', 'difference-explanation'), node('span', '', 'EXPLANATION'), node('p', '', variant.explanation || detailExplanation)));
       detail.append(card);
     });
