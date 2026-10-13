@@ -1,0 +1,446 @@
+EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EG) nr 1924/2006
+av den 20 december 2006
+om näringspåståenden och hälsopåståenden om livsmedel
+
+EUROPAPARLAMENTET OCH EUROPEISKA UNIONENS RÅD HAR ANTAGIT DENNA FÖRORDNING
+med beaktande av fördraget om upprättandet av Europeiska gemenskapen, särskilt artikel 95,
+med beaktande av kommissionens förslag,
+med beaktande av Europeiska ekonomiska och sociala kommitténs yttrande ( 1 ),
+i enlighet med förfarandet i artikel 251 i fördraget ( 2 ), och
+(1) | Allt fler av de livsmedel som säljs och marknadsförs i gemenskapen är försedda med näringspåståenden och hälsopåståenden. För att säkerställa en hög nivå på konsumentskyddet och underlätta konsumenternas val bör de produkter som släpps ut på marknaden, inbegripet importerade produkter, vara säkra och korrekt märkta. En mångsidig och balanserad kost är en förutsättning för god hälsa, och enskilda produkter bör ses i relation till kosten som helhet.
+(2) | Skillnader mellan de nationella bestämmelserna om sådana påståenden kan hindra den fria rörligheten för livsmedel och skapa ojämlika konkurrensförhållanden. De påverkar därigenom direkt den inre marknadens funktion. Man måste därför anta gemenskapsbestämmelser om användningen av näringspåståenden och hälsopåståenden om livsmedel.
+(3) | Allmänna märkningsbestämmelser finns i Europaparlamentets och rådets direktiv 2000/13/EG av den 20 mars 2000 om tillnärmning av medlemsstaternas lagstiftning om märkning och presentation av livsmedel samt om reklam för livsmedel ( 3 ). I direktiv 2000/13/EG finns ett allmänt förbud mot användning av information som skulle kunna vilseleda köparen eller som tillskriver livsmedel medicinska egenskaper. Denna förordning bör komplettera de allmänna principerna i direktiv 2000/13/EG och föreskriva särskilda bestämmelser om användning av näringspåståenden och hälsopåståenden om livsmedel som skall levereras som sådana till konsumenten.
+(4) | Denna förordning bör tillämpas på alla näringspåståenden och hälsopåståenden i kommersiella meddelanden, inbegripet bland annat generisk reklam för livsmedel och reklamkampanjer, exempelvis sådana som helt eller delvis stöds av offentliga myndigheter. Den bör inte gälla sådana påståenden som inte är kommersiella meddelanden, som exempelvis riktlinjer eller kostråd utfärdade av offentliga folkhälsomyndigheter eller organ, och inte heller icke-kommersiella meddelanden och information i pressen och i vetenskapliga publikationer. Denna förordning bör också gälla varumärken och andra märkesnamn som kan tolkas som näringspåståenden eller hälsopåståenden.
+(5) | Generiskt hållna beskrivningar (beteckningar) som traditionellt har använts för att ange en egenskap hos en kategori av livsmedel eller drycker som skulle kunna antyda en effekt på människors hälsa, såsom ”digestiv” eller ”hostkarameller”, bör undantas från denna förordnings tillämpningsområde.
+(6) | Ogynnsamma näringspåståenden omfattas inte av tillämpningsområdet för denna förordning. Medlemsstater som avser att införa nationella ordningar beträffande ogynnsamma näringspåståenden bör anmäla sådana ordningar till kommissionen och till medlemsstaterna i enlighet med Europaparlamentets och rådets direktiv 98/34/EG av den 22 juni 1998 om ett informationsförfarande beträffande tekniska standarder och föreskrifter och beträffande föreskrifter för informationssamhällets tjänster ( 4 ).
+(7) | På det internationella planet antog Codex Alimentarius 1991 allmänna riktlinjer för användningen av påståenden och 1997 riktlinjer för användningen av näringspåståenden. En ändring av de senare antogs 2004 av Codex Alimentarius-kommissionen. Denna ändring gäller införande av hälsopåståenden i riktlinjerna från 1997. De definitioner och villkor som anges i Codexriktlinjerna beaktas vederbörligen.
+(8) | Möjligheten att använda påståendet ”med låg fetthalt” om bredbara fetter i enlighet med rådets förordning (EG) nr 2991/94 av den 5 december 1994 om regler för bredbara fetter ( 5 ) bör så snart som möjligt anpassas till bestämmelserna i den här förordningen. Under tiden är förordning (EG) nr 2991/94 tillämplig för de produkter som den omfattar.
+(9) | Det finns ett stort antal näringsämnen och andra ämnen, bland annat vitaminer, mineralämnen inklusive spårämnen, aminosyror, essentiella fettsyror, kostfibrer, olika växt- och örtextrakt, med näringsmässiga eller fysiologiska effekter som kan finnas i ett livsmedel och bli föremål för ett påstående. Därför bör det fastställas allmänna principer som gäller samtliga påståenden om livsmedel, i syfte att säkerställa en hög konsumentskyddsnivå och ge konsumenterna tillräckligt med information för att de skall kunna göra sina val med fullständig tillgång till alla fakta samt för att skapa likvärdiga konkurrensvillkor för livsmedelsindustrin.
+(10) | Konsumenterna kan tro att livsmedel som saluförs med påståenden har näringsmässiga, fysiologiska eller andra hälsorelaterade fördelar jämfört med liknande eller andra produkter till vilka sådana näringsämnen och andra ämnen inte tillsatts. Detta kan uppmuntra konsumenterna att göra val som direkt påverkar deras totala intag av enskilda näringsämnen eller andra ämnen på ett sätt som skulle strida mot vetenskapliga rekommendationer. För att motverka denna potentiella oönskade effekt bör vissa begränsningar införas när det gäller produkter som är försedda med påståenden. Faktorer som förekomsten av vissa ämnen eller en produkts näringsprofil är lämpliga kriterier för att bestämma om en produkt kan förses med ett påstående. Även om användningen av sådana kriterier är motiverad på nationell nivå eftersom den ger konsumenterna möjlighet att göra välgrundade näringsval, kan den förmodas leda till hinder för handeln inom gemenskapen och bör därför harmoniseras på gemenskapsnivå. Hälsoinformation och hälsokommunikation i linje med meddelanden från nationella myndigheter eller gemenskapen om riskerna med alkoholmissbruk bör inte omfattas av denna förordning.
+(11) | Användningen av näringsprofiler som kriterium skulle syfta till att undvika en situation där näringspåståenden eller hälsopåståenden döljer en livsmedelsprodukts samlade näringsegenskaper, vilket kan vilseleda konsumenter som försöker göra ett sunt val i fråga om en balanserad kost. Näringsprofilerna enligt denna förordning bör endast vara avsedda att fastställa under vilka omständigheter påståenden får göras. De bör grundas på allmänt vedertagna vetenskapliga fakta om sambandet mellan kost och hälsa. Profilerna bör emellertid även ge utrymme för produktinnovation och ta hänsyn till variationer i kostvanor och traditioner och till att enskilda produkter kan spela en viktig roll inom ramen för ett samlat kostintag.
+(12) | När man fastställer näringsprofiler bör man beakta innehållet av olika näringsämnen och ämnen med en näringsmässig eller fysiologisk effekt, särskilt fett, mättat fett, transfettsyror, salt/natrium och sockerarter, som enligt rekommendationerna inte bör utgöra en alltför stor del av den totala kosten, samt fleromättade och enkelomättade fetter, andra tillgängliga kolhydrater än sockerarter, vitaminer, mineralämnen, proteiner och kostfibrer. När näringsprofilerna bestäms bör de olika kategorierna av livsmedel och deras roll och betydelse för den totala kosten beaktas, och vederbörlig hänsyn bör tas till de olika kostvanor och konsumtionsmönster som förekommer i medlemsstaterna. Det kan bli nödvändigt att bevilja undantag från kravet att respektera etablerade näringsprofiler när det gäller vissa livsmedel eller kategorier av livsmedel beroende på deras roll och betydelse för befolkningens kost. Detta är tekniskt komplicerat, och kommissionen bör ges i uppdrag att anta de relevanta bestämmelserna och därvid ta hänsyn till råden från Europeiska myndigheten för livsmedelssäkerhet.
+(13) | Kosttillskott enligt Europaparlamentets och rådets direktiv 2002/46/EG av den 10 juni 2002 om tillnärmning av medlemsstaternas lagstiftning om kosttillskott ( 6 ), i flytande form och med ett innehåll på mer än 1,2 volymprocent alkohol betraktas inte som drycker enligt denna förordning.
+(14) | Det finns en mångfald olika påståenden som för närvarande används vid märkning av och i reklamen för livsmedel i vissa medlemsstater och som gäller ämnen som inte påvisats vara gynnsamma eller om vilka det för närvarande inte råder tillräcklig vetenskaplig enighet. Det måste garanteras att en gynnsam näringsmässig eller fysiologisk effekt har påvisats för de ämnen för vilka det görs ett påstående.
+(15) | För att säkerställa att påståendena är sanningsenliga måste det ämne som påståendet gäller förekomma i tillräckligt stora mängder i slutprodukten, eller måste ämnet saknas eller förekomma i lämpligen minskad mängd, för att ge upphov till den påstådda näringsmässiga eller fysiologiska effekten. Ämnet bör också kunna tillgodogöras av kroppen. Dessutom bör vid behov en betydande mängd av det ämne som skall ge den påstådda näringsmässiga eller fysiologiska effekten kunna erhållas från en sådan mängd av livsmedlet som rimligtvis kommer att konsumeras.
+(16) | Det är viktigt att påståenden om livsmedel kan förstås av konsumenten, och konsumenterna bör skyddas mot vilseledande påståenden. Efter antagandet av rådets direktiv 84/450/EEG av den 10 september 1984 om vilseledande och jämförande reklam ( 7 ) har Europeiska gemenskapernas domstol vid avgöranden som rört reklam emellertid funnit det nödvändigt att bedöma deras inverkan på en tänkt typisk konsument. I enlighet med proportionalitetsprincipen, och för att de skyddsåtgärder som förordningen föreskriver faktiskt skall kunna förverkligas, utgår denna förordning från en genomsnittskonsument som är skäligen välinformerad samt skäligen uppmärksam och upplyst med beaktande av sociala, kulturella och språkliga faktorer i enlighet med domstolens tolkning, men förordningen innehåller också bestämmelser för att förhindra exploatering av konsumenter vars personliga egenskaper gör dem särskilt sårbara för vilseledande påståenden. Om ett påstående är särskilt riktat till en viss konsumentgrupp, exempelvis barn, är det önskvärt att påståendets inverkan bedöms ur ett perspektiv som är representativt för den genomsnittliga medlemmen i denna grupp. Metoden med användning av en genomsnittskonsument som utgångspunkt är inte en statistisk metod. De nationella domstolarna och myndigheterna måste använda sitt eget omdöme, med beaktande av domstolens rättspraxis, när de fastställer genomsnittskonsumentens typiska reaktion i ett givet fall.
+(17) | Vetenskapliga belägg bör vara den viktigaste aspekten att beakta vid användningen av näringspåståenden och hälsopåståenden, och de livsmedelsföretagare som använder påståenden bör motivera dem. Ett påstående bör vara vetenskapligt underbyggt genom att hänsyn tas till alla tillgängliga vetenskapliga fakta och att dessa vägs mot varandra.
+(18) | Ett näringspåstående eller hälsopåstående bör inte göras om det är oförenligt med allmänt vedertagna närings- och hälsoprinciper eller uppmanar till eller tolererar överdriven konsumtion av något livsmedel eller nedvärderar goda kostvanor.
+(19) | Med tanke på den positiva image som livsmedel med näringspåståenden eller hälsopåståenden får och den potentiella påverkan som dessa livsmedel kan ha på kostvanor och det totala näringsintaget, bör konsumenterna kunna bedöma deras totala näringskvalitet. Näringsvärdesdeklarationer bör därför vara obligatoriska och de bör vara utförliga på alla livsmedel som är försedda med hälsopåståenden.
+(20) | Allmänna bestämmelser om näringsvärdesdeklaration återfinns i rådets direktiv 90/496/EEG av den 24 september 1990 om näringsvärdesdeklaration för livsmedel ( 8 ). När ett näringspåstående förekommer i märkning, presentation eller reklam, med undantag för generisk reklam, skall enligt det direktivet en näringsvärdesdeklaration vara obligatorisk. När ett näringspåstående görs för sockerarter, mättade fettsyror, kostfibrer eller natrium, skall den information som lämnas motsvara grupp 2 i enlighet med artikel 4.1 i direktiv 90/496/EEG. För att uppnå en hög konsumentskyddsnivå bör denna skyldighet att lämna den information som motsvarar grupp 2 också gälla om ett hälsopåstående görs, med undantag för generisk reklam.
+(21) | En förteckning över tillåtna näringspåståenden och villkoren för användning av dem bör också upprättas, med utgångspunkt i de villkor för användningen av sådana påståenden som man kommit överens om nationellt eller internationellt och som fastställs i gemenskapslagstiftningen. Alla påståenden som anses ha samma innebörd för konsumenten som ett näringspåstående som ingår i den ovannämnda förteckningen bör omfattas av samma villkor för användning som anges där. Exempelvis skall påståenden om tillsats av vitaminer och mineraler, såsom ”med ...”, ”återställd …”, ”tillsatt ...” eller ”berikad”, omfattas av samma villkor som för påståendet ”källa till ...”. Förteckningen bör uppdateras regelbundet för att beakta den vetenskapliga och tekniska utvecklingen. När det gäller jämförande påståenden måste det vidare tydligt anges för slutkonsumenten vilka produkter som jämförs med varandra.
+(22) | Villkor för påståenden som ”laktosfri” eller ”glutenfri”, vilka riktar sig till konsumenter med särskilda störningar, bör behandlas i rådets direktiv 89/398/EEG av den 3 maj 1989 om tillnärmning av medlemsstaternas lagstiftning om specialdestinerade livsmedel ( 9 ). I det direktivet föreskrivs dessutom möjligheten att för livsmedel som är avsedda för normal konsumtion ange huruvida de är lämpliga för dessa konsumentgrupper om livsmedlet uppfyller villkoren för sådana påståenden. Fram till dess att villkoren för sådana påståenden fastställts inom gemenskapen får medlemsstaterna behålla eller anta relevanta nationella åtgärder.
+(23) | Hälsopåståenden bör endast godkännas för användning i gemenskapen efter en vetenskaplig bedömning av högsta möjliga standard. För att säkerställa en harmoniserad vetenskaplig bedömning av dessa påståenden bör Europeiska myndigheten för livsmedelssäkerhet göra dessa bedömningar. Sökanden bör på begäran kunna få ta del av de handlingar som rör honom för att se hur ärendet framskridit.
+(24) | Det finns många andra faktorer än de kostrelaterade som påverkar de psykologiska och beteendemässiga funktionerna. Det är därför mycket komplicerat att informera om dessa funktioner, och det är svårt att förmedla ett allsidigt, sanningsenligt och meningsfullt budskap i ett kortfattat påstående som skall användas på märkning och i reklam för livsmedel. Det är därför lämpligt att kräva vetenskapliga belägg för psykologiska och beteenderelaterade påståenden.
+(25) | Mot bakgrund av kommissionens direktiv 96/8/EG av den 26 februari 1996 om livsmedel avsedda att användas i energibegränsade dieter för viktminskning ( 10 ), enligt vilket det är förbjudet att vid märkning, presentation och i reklam för produkter som omfattas av direktivet ange hur snabbt eller hur mycket man kan gå ner i vikt om man använder dessa produkter, bör denna begränsning utvidgas till alla livsmedel.
+(26) | Andra hälsopåståenden än sådana som avser minskad sjukdomsrisk och barns utveckling och hälsa, och som bygger på allmänt vedertagna vetenskapliga fakta, bör genomgå ett annat slags bedömning och godkännande. En gemenskapsförteckning över sådana tillåtna påståenden måste därför antas efter samråd med Europeiska myndigheten för livsmedelssäkerhet. I innovationsfrämjande syfte bör dessutom sådana hälsopåståenden som bygger på nyligen framtagna vetenskapliga fakta genomgå ett påskyndat godkännandeförfarande.
+(27) | Den förteckning som avses ovan bör alltid vid behov ses över snabbt, så att den står i överensstämmelse med den vetenskapliga och tekniska utvecklingen. En sådan översyn är en genomförandeåtgärd av teknisk art, och det bör därför anförtros kommissionen att besluta om dessa åtgärder för att förenkla och påskynda förfarandet.
+(28) | Kosten är en av de många faktorer som påverkar uppkomsten av sjukdomar hos människor. Andra faktorer som ålder, genetiska anlag, fysisk aktivitet, bruk av tobak och andra droger, miljöfaktorer och stress kan alla påverka uppkomsten av mänskliga sjukdomar. Särskilda märkningskrav bör därför gälla för påståenden om minskad risk för sjukdom.
+(29) | För att säkerställa att hälsopåståendena är sanningsenliga, tydliga, tillförlitliga och meningsfulla för konsumenternas val av en hälsosam kost bör formuleringen och presentationen av hälsopåståendet beaktas i yttrandet från Europeiska myndigheten för livsmedelssäkerhet och i de efterföljande förfarandena.
+(30) | I vissa fall kan enbart vetenskapliga riskbedömningar inte ge all den information som bör ligga till grund för ett riskhanteringsbeslut. Andra berättigade faktorer av betydelse för den aktuella frågan bör därför beaktas.
+(31) | Av öppenhetsskäl och för att undvika upprepade ansökningar om påståenden som redan har bedömts bör ett offentligt register som innehåller förteckningarna över sådana påståenden upprättas och uppdateras av kommissionen.
+(32) | För att uppmuntra forskning och utveckling inom livsmedelsindustrin bör de investeringar skyddas som innovatörer gjort i samband med insamling av information och uppgifter som bildar underlaget för en ansökan enligt denna förordning. Detta skydd bör emellertid begränsas tidsmässigt för att undvika onödig upprepning av undersökningar och försök samt för att små och medelstora företag, som sällan har ekonomiska möjligheter att bedriva forskningsverksamhet, lättare skall få tillgång till påståenden.
+(33) | De små och medelstora företagen tillför den europeiska livsmedelsindustrin ett viktigt mervärde i fråga om kvalitet och bevarande av olika kostvanor. För att underlätta tillämpningen av denna förordning bör Europeiska myndigheten för livsmedelssäkerhet i god tid tillhandahålla lämplig teknisk rådgivning och lämpliga redskap, särskilt för dessa företag.
+(34) | Eftersom livsmedel som är försedda med påståenden är av en speciell karaktär bör övervakningsorganen förfoga över ytterligare medel utöver de gängse för att underlätta en effektiv övervakning av dessa produkter.
+(35) | Lämpliga övergångsåtgärder behövs för att livsmedelsföretagare skall kunna anpassa sig till kraven i denna förordning.
+(36) | Eftersom målen för denna förordning, nämligen att säkerställa en väl fungerande inre marknad beträffande näringspåståenden och hälsopåståenden och att samtidigt trygga en hög konsumentskyddsnivå, inte i tillräcklig utsträckning kan uppnås av medlemsstaterna och de därför bättre kan uppnås på gemenskapsnivå, kan gemenskapen vidta åtgärder i enlighet med subsidiaritetsprincipen i artikel 5 i fördraget. I enlighet med proportionalitetsprincipen i samma artikel går förordningen inte utöver vad som är nödvändigt för att uppnå dessa mål.
+(37) | De åtgärder som krävs för tillämpningen av denna förordning bör antas i enlighet med rådets beslut 1999/468/EG av den 28 juni 1999 om de förfaranden som skall tillämpas vid utövandet av kommissionens genomförandebefogenheter ( 11 ),
+HÄRIGENOM FÖRESKRIVS FÖLJANDE.
+
+KAPITEL I
+SYFTE, TILLÄMPNINGSOMRÅDE OCH DEFINITIONER
+
+Artikel 1
+Syfte och tillämpningsområde
+1. Denna förordning harmoniserar de bestämmelser som fastställs i medlemsstaternas lagar och andra författningar och som gäller näringspåståenden och hälsopåståenden, för att säkerställa en väl fungerande inre marknad och en hög konsumentskyddsnivå.
+2. Denna förordning skall tillämpas på näringspåståenden och hälsopåståenden i kommersiella meddelanden, oavsett om dessa är i form av märkning och presentation av eller reklam för livsmedel som skall levereras som sådana till slutkonsumenten.
+Artikel 7 och artikel 10.2 a och b ska inte gälla oförpackade livsmedel (inbegripet färskvaror såsom frukt, grönsaker eller bröd) som säljs till slutkonsumenten eller till storhushåll och inte heller livsmedel som på begäran av köparen förpackas på försäljningsstället eller färdigförpackas för omedelbar försäljning. Nationella föreskrifter får tillämpas fram till dess att gemenskapsåtgärder, som avser att ändra eller komplettera icke väsentliga delar i denna förordning, slutligen har antagits i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3.
+Denna förordning skall också tillämpas på livsmedel avsedda att levereras till restauranger, sjukhus, skolor, matsalar och liknande storhushåll.
+3. Ett varumärke, märkesnamn eller fantasinamn som förekommer i märkningen eller presentationen, eller i reklamen för ett livsmedel och som kan tolkas som ett näringspåstående eller ett hälsopåstående får användas utan att genomgå de godkännandeförfaranden som föreskrivs i denna förordning, under förutsättning att det åtföljs av ett därtill hörande näringspåstående eller hälsopåstående i märkningen, presentationen eller reklamen, som uppfyller bestämmelserna i denna förordning.
+4. För generiskt hållna beskrivningar (beteckningar) som traditionellt har använts för att ange en egenskap hos en kategori av livsmedel eller drycker som skulle kunna antyda en effekt på människors hälsa, får undantag från punkt 3, som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, beviljas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3, efter ansökan från de berörda livsmedelsföretagarna. Ansökan ska sändas till den behöriga nationella myndigheten i en medlemsstat, som utan dröjsmål ska vidarebefordra den till kommissionen. Kommissionen ska anta och offentliggöra de bestämmelser som ska gälla för livsmedelsföretagare om hur sådana ansökningar ska göras, för att säkerställa att ansökningarna handläggs på ett sätt som medger insyn och inom skälig tid.
+5. Denna förordning skall inte påverka tillämpningen av följande gemenskapsbestämmelser:
+a) Direktiv 89/398/EEG och direktiv som antagits om specialdestinerade livsmedel.
+b) Rådets direktiv 80/777/EEG av den 15 juli 1980 om tillnärmning av medlemsstaternas lagstiftning om utvinning och saluförande av naturliga mineralvatten ( 12 ).
+c) Rådets direktiv 98/83/EG av den 3 november 1998 om kvaliteten på dricksvatten ( 13 ).
+d) Direktiv 2002/46/EG.
+
+Artikel 2
+Definitioner
+1. I denna förordning skall
+a) definitionerna av livsmedel , livsmedelsföretagare , utsläppande på marknaden och slutkonsument enligt artikel 2, artikel 3.3, 3.8 och 3.18 i Europaparlamentets och rådets förordning (EG) nr 178/2002 av den 28 januari 2002 om allmänna principer och krav för livsmedelslagstiftning, om inrättande av Europeiska myndigheten för livsmedelssäkerhet och om förfaranden i frågor som gäller livsmedelssäkerhet ( 14 ) gälla,
+b) definitionen av kosttillskott i direktiv 2002/46/EG gälla,
+c) definitionerna av näringsvärdesdeklaration , protein , kolhydrater , sockerarter , fett , mättade fettsyror , enkelomättade fettsyror , fleromättade fettsyror , kostfibrer i direktiv 90/496/EEG gälla,
+d) definitionen av märkning enligt artikel 1.3 a i direktiv 2000/13/EG gälla.
+2. Följande definitioner skall också gälla:
+1. påstående : varje budskap eller framställning som inte är obligatorisk enligt gemenskapens eller medlemsstaternas lagstiftning, inbegripet framställningar bestående av bilder, grafik eller symboler, oavsett form, och som anger, låter förstå eller antyder att ett livsmedel har särskilda egenskaper.
+2. näringsämne : protein, kolhydrater, fett, kostfibrer, natrium, vitaminer och mineralämnen som anges i bilagan till direktiv 90/496/EEG samt ämnen som hör till eller utgör beståndsdelar av en av dessa kategorier.
+3. annat ämne : ett ämne som inte är ett näringsämne men som har näringsmässiga eller fysiologiska effekter.
+4. näringspåstående : varje påstående som anger, låter förstå eller antyder att ett livsmedel har särskilda gynnsamma näringsmässiga egenskaper på grund av
+a) den energi (det kalorivärde) det
+i) ger,
+ii) ger i minskad eller ökad grad, eller
+iii) inte ger, och/eller
+b) de näringsämnen eller andra ämnen det
+i) innehåller,
+ii) innehåller i mindre eller större omfattning, eller
+iii) inte innehåller.
+5. hälsopåstående : varje påstående som anger, låter förstå eller antyder att det finns ett samband mellan en kategori av livsmedel, ett livsmedel eller en av dess beståndsdelar och hälsa.
+6. påstående om minskad sjukdomsrisk : varje hälsopåstående som anger, låter förstå eller antyder att konsumtion av en kategori av livsmedel, ett livsmedel eller av en av dess beståndsdelar väsentligt minskar en riskfaktor för utveckling av sjukdom hos människor.
+7. myndigheten : Europeiska myndigheten för livsmedelssäkerhet som inrättats genom förordning (EG) nr 178/2002.
+
+KAPITEL II
+ALLMÄNNA PRINCIPER
+
+Artikel 3
+Allmänna principer för samtliga påståenden
+Näringspåståenden och hälsopåståenden får användas på märkning och presentation av och i reklam för livsmedel som släpps ut på marknaden i gemenskapen endast om de är förenliga med bestämmelserna i denna förordning.
+Utan att det påverkar tillämpningen av direktiven 2000/13/EG och 84/450/EEG får användningen av näringspåståenden och hälsopåståenden inte
+a) vara felaktig, tvetydig eller vilseledande,
+b) föranleda tvivel om andra livsmedels säkerhet och/eller näringsmässiga lämplighet,
+c) uppmuntra eller tolerera överkonsumtion av ett livsmedel,
+d) ange, låta förstå eller antyda att en balanserad och varierad kost inte kan ge lämpliga mängder av näringsämnen i allmänhet. Undantag för näringsämnen där tillräckliga mängder inte kan fås med en balanserad och varierad kost, liksom tillämpningsvillkor för dessa, som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, får antas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3, med beaktande av de särskilda omständigheterna i medlemsstaterna.
+e) hänvisa till förändringar av de fysiologiska funktionerna, vare sig i text eller framställningar i form av bilder, grafik eller symboler som skulle kunna ge upphov till eller utnyttja rädsla hos konsumenterna.
+
+Artikel 4
+Villkor för användning av näringspåståenden och hälsopåståenden
+1. Senast den 19 januari 2009 ska kommissionen fastställa särskilda näringsprofiler, inklusive undantag, som livsmedel eller vissa kategorier av livsmedel måste uppfylla för att förses med näringspåståenden eller hälsopåståenden samt villkoren för användningen av näringspåståenden eller hälsopåståenden om livsmedel eller kategorier av livsmedel med hänsyn till näringsprofilerna. Sådana åtgärder som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den ska antas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3.
+Näringsprofilerna för livsmedel och/eller vissa kategorier av livsmedel skall fastställas med beaktande särskilt av
+a) kvantiteterna av vissa näringsämnen och andra ämnen i livsmedlet, exempelvis fett, mättade fettsyror, transfettsyror, sockerarter och salt/natrium,
+b) livsmedlets (eller livsmedelskategoriernas) roll och betydelse i och bidrag till kosten för befolkningen i allmänhet eller, i förekommande fall, för vissa riskgrupper, inbegripet barn,
+c) livsmedlets totala näringssammansättning och förekomsten av näringsämnen som vetenskapligt erkänts ha en hälsoeffekt.
+Näringsprofilerna skall grundas på vetenskapliga rön om kost och näring samt deras förhållande till hälsa.
+När näringsprofilerna fastställs skall kommissionen uppmana myndigheten att inom 12 månader avge relevanta vetenskapliga utlåtanden, särskilt inriktade på
+i) huruvida profiler bör fastställas för livsmedel i allmänhet och/eller för livsmedelskategorier,
+ii) valet av och avvägningen mellan näringsämnen som skall beaktas,
+iii) valet av referensmängd/utgångspunkt för profiler,
+iv) tillvägagångssättet för beräkningen av profilerna, och
+v) genomförbarhet och utprovning av ett förslag till system.
+När näringsprofilerna fastställs skall kommissionen samråda med berörda parter, särskilt livsmedelsföretagare och konsumentgrupper.
+Näringsprofilerna och villkoren för deras användning, som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, ska, efter samråd med de berörda parterna och framför allt livsmedelsföretagare och konsumentgrupper, uppdateras med hänsyn till den relevanta vetenskapliga utvecklingen i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3.
+2. Med avvikelse från punkt 1 skall näringspåståenden
+a) som gäller en minskad mängd fett, mättade fettsyror, transfettsyror, sockerarter och salt/natrium tillåtas utan hänvisning till en profil för det eller de särskilda näringsämnen som påståendet gäller, under förutsättning att de uppfyller villkoren i denna förordning ,
+b) tillåtas om ett enskilt näringsämne överskrider näringsprofilen, förutsatt att uppgifter om detta näringsämne finns angivna i omedelbar anslutning till och på samma sida som påståendet och framträder lika tydligt som detta. Uppgifterna skall vara utformade på följande sätt: ”Hög halt av ( 15 )”.
+3. Drycker som innehåller mer än 1,2 volymprocent alkohol får inte förses med hälsopåståenden.
+Näringspåståenden om drycker som innehåller mer än 1,2 volymprocent alkohol skall tillåtas endast om de gäller låga alkoholhalter eller minskad alkoholhalt eller energihalt.
+4. Om det inte finns några särskilda gemenskapsbestämmelser om näringspåståenden som gäller låga alkoholhalter eller minskad halt eller avsaknad av alkohol eller energi i drycker som normalt innehåller alkohol, får sådana nationella bestämmelser tillämpas i enlighet med fördraget.
+5. Åtgärder för att fastställa andra livsmedel eller kategorier av livsmedel, än de som avses i punkt 3, för vilka näringspåståenden eller hälsopåståenden ska begränsas eller förbjudas, och som avser att ändra icke väsentliga delar i denna förordning, får antas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3 och med beaktande av vetenskaplig dokumentation.
+
+Artikel 5
+Allmänna villkor
+1. Det skall vara tillåtet att använda näringspåståenden och hälsopåståenden endast om följande villkor uppfylls:
+a) Det har påvisats att förekomsten, avsaknaden eller den minskade mängden i ett livsmedel eller en livsmedelskategori av ett näringsämne eller annat ämne som påståendet gäller, har en gynnsam näringsmässig eller fysiologisk effekt enligt allmänt vedertagen vetenskaplig dokumentation.
+b) Det näringsämne eller annat ämne som påståendet gäller
+i) ingår i slutprodukten i betydande mängd i enlighet med vad som fastställs i gemenskapslagstiftningen eller, om sådana bestämmelser inte finns, i en mängd som enligt allmänt vedertagen vetenskaplig dokumentation kommer att ge den näringsmässiga eller fysiologiska effekt som påstås, eller
+ii) ingår inte eller ingår i en minskad mängd som enligt allmänt vedertagen vetenskaplig dokumentation kommer att ge den näringsmässiga eller fysiologiska effekt som påstås.
+c) I tillämpliga fall, det näringsämne eller annat ämne som påståendet gäller föreligger i en form som kan tillgodogöras av kroppen.
+d) Den mängd av produkten som rimligtvis kommer att konsumeras ger en betydande mängd av det näringsämne eller annat ämne som påståendet gäller, i enlighet med gemenskapslagstiftningen eller, om sådana bestämmelser inte finns, en betydande mängd som enligt allmänt vedertagen vetenskaplig dokumentation kommer att ge den näringsmässiga eller fysiologiska effekt som påstås.
+e) De är förenliga med de särskilda villkor som anges i kapitel III eller kapitel IV, alltefter omständigheterna.
+2. Det skall vara tillåtet att använda näringspåståenden och hälsopåståenden endast om genomsnittskonsumenten kan förväntas förstå de gynnsamma effekter som anges i påståendet.
+3. Näringspåståenden och hälsopåståenden skall gälla livsmedel som är färdiga för konsumtion enligt tillverkarens anvisningar.
+
+Artikel 6
+Vetenskapliga belägg för påståenden
+1. Näringspåståenden och hälsopåståenden skall grundas på och styrkas med hjälp av allmänt vedertagen vetenskaplig dokumentation.
+2. En livsmedelsföretagare som gör ett näringspåstående eller hälsopåstående skall motivera användningen av påståendet.
+3. De behöriga myndigheterna i medlemsstaterna får begära att en livsmedelsföretagare eller en person som släpper ut en produkt på marknaden lägger fram all relevant dokumentation och alla relevanta uppgifter som bekräftar överensstämmelse med denna förordning.
+
+Artikel 7
+Information om näringsvärdet
+Näringsdeklarationer ska vara obligatoriska för produkter på vilka ett näringspåstående och/eller hälsopåstående görs, med undantag för allmänt hållen reklam. Den information som ska lämnas ska bestå av det som anges i artikel 30.1 i Europaparlamentets och rådets förordning (EU) nr 1169/2011 av den 25 oktober 2011 om tillhandahållande av livsmedelsinformation till konsumenterna ( 16 ). Om ett näringspåstående och/eller hälsopåstående görs om ett näringsämne som avses i artikel 30.2 i förordning (EU) nr 1169/2011 ska mängden av detta näringsämne deklareras i enlighet med artiklarna 31–34 i den förordningen.
+Mängderna av det eller de ämnen som ett näringspåstående eller hälsopåstående gäller ska, om de inte ingår i näringsdeklarationen, anges inom samma synfält som näringsdeklarationen och uttryckas i enlighet med artiklarna 31, 32 och 33 i förordning (EU) nr 1169/2011. De måttenheter som används för att uttrycka mängden av ett ämne ska vara lämpligt för de enskilda ämnena de gäller.
+När det gäller kosttillskott skall näringsvärdesdeklarationen lämnas i enlighet med artikel 8 i direktiv 2002/46/EG.
+
+KAPITEL III
+NÄRINGSPÅSTÅENDEN
+
+Artikel 8
+Särskilda villkor
+1. Näringspåståenden skall endast tillåtas om de är förtecknade i bilagan och uppfyller villkoren i denna förordning.
+2. Ändringar av bilagan ska antas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3 och, när så är lämpligt, efter samråd med myndigheten. Kommissionen ska, när så är lämpligt, samråda med berörda parter, särskilt livsmedelsföretagare och konsumentgrupper, för att utvärdera hur påståendena i fråga uppfattas och förstås.
+
+Artikel 9
+Jämförande påståenden
+1. Utan att det påverkar tillämpningen av direktiv 84/450/EEG får en jämförelse endast göras mellan livsmedel inom samma kategori, med beaktande av ett urval livsmedel inom denna kategori. Skillnaden i mängd av ett näringsämne och/eller i energivärde skall anges, och jämförelsen skall gälla samma mängd livsmedel.
+2. Jämförande näringspåståenden skall jämföra sammansättningen av livsmedlet i fråga med ett urval livsmedel i samma kategori, som inte har en sammansättning som tillåter att de förses med ett påstående, inbegripet livsmedel av andra varumärken.
+
+KAPITEL IV
+HÄLSOPÅSTÅENDEN
+
+Artikel 10
+Särskilda villkor
+1. Hälsopåståenden skall förbjudas om de inte uppfyller de allmänna kraven i kapitel II och de särskilda kraven i detta kapitel och är godkända i enlighet med denna förordning och ingår i de förteckningar över godkända påståenden som föreskrivs i artiklarna 13 och 14.
+2. Hälsopåståenden skall endast tillåtas om följande uppgifter anges i märkningen eller, om ingen sådan märkning finns, i presentationen och reklamen:
+a) Ett uttalande om vikten av en mångsidig och balanserad kost och en hälsosam livsstil.
+b) Den mängd livsmedel och det konsumtionsmönster som krävs för att den påstådda gynnsamma effekten skall uppnås.
+c) I tillämpliga fall, ett konstaterande riktat till personer som bör undvika att använda produkten, och
+d) en lämplig varning i fråga om produkter som vid överdriven konsumtion kan utgöra en hälsorisk.
+3. Hänvisningar till en allmän, icke specificerad gynnsam effekt av näringsämnet eller livsmedlet för allmän hälsa eller hälsorelaterat välbefinnande får göras endast om de åtföljs av ett bestämt hälsopåstående som ingår i de förteckningar som föreskrivs i artikel 13 eller 14.
+4. Vid behov skall riktlinjer för genomförande av denna artikel antas i enlighet med det förfarande som avses i artikel 25.2 och, om det är nödvändigt, i samråd med berörda parter, särskilt livsmedelsföretagare och konsumentgrupper.
+
+Artikel 11
+Nationella sammanslutningar av fackmän inom medicin, nutrition eller dietetik samt välgörenhetsorganisationer med hälsoanknytning
+Om det inte finns särskilda gemenskapsbestämmelser om rekommendationer eller stöd från nationella sammanslutningar av fackmän inom medicin, nutrition eller dietetik och välgörenhetsorganisationer med hälsoanknytning, får relevanta nationella bestämmelser tillämpas i överensstämmelse med bestämmelserna i fördraget.
+
+Artikel 12
+Restriktioner för användningen av vissa hälsopåståenden
+Följande hälsopåståenden är inte tillåtna:
+a) Påståenden som ger intryck av att hälsan skulle kunna påverkas negativt om man inte konsumerar livsmedlet.
+b) Påståenden som hänvisar till hur snabbt eller hur mycket man kan gå ner i vikt.
+c) Påståenden som hänvisar till rekommendationer av enskilda läkare eller fackmän på hälsoområdet och andra sammanslutningar som inte avses i artikel 11.
+
+Artikel 13
+Andra hälsopåståenden än sådana som avser minskad sjukdomsrisk och barns utveckling och hälsa
+1. Hälsopåståenden som beskriver eller hänvisar till
+a) ett näringsämnes eller annat ämnes betydelse för kroppens tillväxt, utveckling och funktioner, eller
+b) psykologiska och beteendemässiga funktioner, eller
+c) bantning eller viktkontroll eller nedsatt hungerkänsla eller ökad mättnadskänsla, eller en minskning av kostens energiinnehåll, utan att det påverkar tillämpningen av direktiv 96/8/EG,
+och som anges i den förteckning som avses i punkt 3, får göras utan att genomgå de förfaranden som föreskrivs i artiklarna 15–19, förutsatt att de
+i) bygger på allmänt vedertagen vetenskaplig dokumentation och
+ii) förstås väl av genomsnittskonsumenten.
+2. Medlemsstaterna skall till kommissionen lämna förteckningar över de påståenden som avses i punkt 1 senast den 31 januari 2008, vilka skall åtföljas av de villkor som gäller för dem och av hänvisningar till relevant vetenskaplig motivering.
+3. Efter samråd med myndigheten ska kommissionen, i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3, anta en gemenskapsförteckning, som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, över de tillåtna påståenden som avses i punkt 1 och alla nödvändiga villkor för användningen av dessa påståenden senast den 31 januari 2010.
+4. Varje ändring av den förteckning som avses i punkt 3 som grundar sig på allmänt vedertagen vetenskaplig dokumentation och som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, ska antas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3, efter samråd med myndigheten, antingen på kommissionens eget initiativ eller på begäran av en medlemsstat.
+5. Andra påståenden, som grundar sig på nyligen framtagen vetenskaplig dokumentation och/eller som innehåller en begäran om skydd av äganderättsligt skyddade data, skall tas upp i den förteckning som avses i punkt 3 i enlighet med det förfarande som anges i artikel 18, utom påståenden om barns utveckling och hälsa, vilka skall godkännas i enlighet med det förfarande som anges i artiklarna 15, 16, 17 och 19.
+
+Artikel 14
+Påståenden om minskad sjukdomsrisk och påståenden om barns utveckling och hälsa
+1. Trots vad som sägs artikel 2.1 b i direktiv 2000/13/EG får följande påståenden göras om de i enlighet med det förfarande som avses i artiklarna 15, 16, 17 och 19 i denna förordning har godkänts för att tas upp i en gemenskapsförteckning över sådana tillåtna påståenden tillsammans med alla nödvändiga villkor för användning av dessa påståenden:
+a) Påståenden om minskad sjukdomsrisk.
+b) Påståenden om barns utveckling och hälsa.
+2. Utöver de allmänna bestämmelser som fastställs i denna förordning och de särskilda bestämmelserna i punkt 1, skall i fråga om påståenden om minskad sjukdomsrisk märkningen eller, om ingen sådan märkning finns, presentationen eller reklamen också innehålla en uppgift om att en mängd riskfaktorer finns för den sjukdom som påståendet avser och att en ändring av någon av dessa riskfaktorer kan, men behöver inte ha en gynnsam effekt.
+
+Artikel 15
+Ansökan om godkännande
+1. När det hänvisas till denna artikel skall en ansökan om tillstånd lämnas in i enlighet med följande punkter.
+2. Ansökan skall skickas in till den nationella behöriga myndigheten i en medlemsstat.
+a) Den nationella behöriga myndigheten skall göra följande:
+i) Skriftligen bekräfta att ansökan tagits emot inom 14 dagar från mottagandet. I bekräftelsen skall dagen för mottagandet av ansökan anges.
+ii) Utan dröjsmål underrätta myndigheten.
+iii) Ge myndigheten tillgång till ansökan och all kompletterande information som sökanden lämnat in.
+b) Myndigheten skall göra följande:
+i) Utan dröjsmål underrätta de övriga medlemsstaterna och kommissionen om ansökan, samt ge dem tillgång till ansökan och all kompletterande information som sökanden lämnat in.
+ii) Ge allmänheten tillgång till den sammanfattning av ansökan som nämns i punkt 3 g.
+3. Ansökan skall innehålla följande:
+a) Sökandens namn och adress.
+b) Det näringsämne eller annat ämne, livsmedel eller den kategori av livsmedel som hälsopåståendet gäller och de särskilda egenskaperna i fråga.
+c) En kopia av de undersökningar, inbegripet oberoende fackgranskade undersökningar, om sådana finns, som utförts när det gäller hälsopåståendet samt allt annat material som är tillgängligt och som kan påvisa att hälsopåståendet är förenligt med de kriterier som anges i denna förordning.
+d) I förekommande fall, angivande av de data som skall betraktas som äganderättsligt skyddade tillsammans med en verifierbar motivering.
+e) En kopia av andra vetenskapliga undersökningar som är relevanta för hälsopåståendet.
+f) Ett förslag till formulering av det hälsopåstående som ansökan om godkännande gäller samt, i tillämpliga fall, av särskilda villkor för användningen.
+g) En sammanfattning av ansökan.
+4. Efter att först ha samrått med myndigheten skall kommissionen i enlighet med det förfarande som avses i artikel 25.2 fastställa genomförandebestämmelserna för tillämpningen av denna artikel, inbegripet bestämmelser om hur ansökan skall utarbetas och läggas fram.
+5. Kommissionen skall i nära samarbete med myndigheten tillhandahålla lämplig teknisk rådgivning och lämpliga redskap för att hjälpa livsmedelsföretagare, särskilt små och medelstora företag, att utarbeta och lägga fram ansökningar för vetenskaplig bedömning.
+
+Artikel 16
+Myndighetens yttrande
+1. Livsmedelsmyndigheten skall avge sitt yttrande inom fem månader från den dag då en giltig ansökan togs emot. Om myndigheten begär att sökanden lämnar kompletterande uppgifter i enlighet med punkt 2, skall denna tidsfrist förlängas med högst två månader, räknat från den dag då de uppgifter som begärts av sökanden har mottagits.
+2. Myndigheten, eller en nationell behörig myndighet genom myndighetens förmedling, får vid behov begära att sökanden kompletterar uppgifterna i ansökan inom en fastställd tidsfrist.
+3. För att utarbeta sitt yttrande skall myndigheten kontrollera
+a) att hälsopåståendet kan styrkas med vetenskaplig dokumentation,
+b) att formuleringen av hälsopåståendet uppfyller de kriterier som fastställs i denna förordning.
+4. Om yttrandet om godkännande av hälsopåståendet är positivt, skall yttrandet innehålla följande uppgifter:
+a) Sökandens namn och adress.
+b) Det näringsämne eller annat ämne, livsmedel eller kategori av livsmedel som hälsopåståendet gäller och dess särskilda egenskaper.
+c) Ett förslag till formulering av hälsopåståendet samt, i tillämpliga fall, särskilda villkor för användningen.
+d) I tillämpliga fall, villkor eller begränsningar för användning av livsmedlet och/eller ett kompletterande uttalande eller en varning som bör förekomma tillsammans med hälsopåståendet på etiketten och i reklamen.
+5. Myndigheten skall översända sitt yttrande till kommissionen, medlemsstaterna och sökanden med en rapport som beskriver dess bedömning av hälsopåståendet och anger skälen för sitt yttrande samt de uppgifter som yttrandet grundar sig på.
+6. Myndigheten skall i överensstämmelse med artikel 38.1 i förordning (EG) nr 178/2002 offentliggöra sitt yttrande.
+Sökanden eller allmänheten får lämna synpunkter till kommissionen inom 30 dagar från detta offentliggörande.
+
+Artikel 17
+Godkännande från gemenskapen
+1. Kommissionen skall, inom två månader efter det att den har fått myndighetens yttrande, till den kommitté som avses i artikel 23.2 lämna ett utkast till beslut om förteckningarna över tillåtna hälsopåståenden, med beaktande av myndighetens yttrande, alla tillämpliga bestämmelser i gemenskapslagstiftningen och andra berättigade faktorer som är relevanta för det ärende som behandlas. Om utkastet till beslut inte överensstämmer med myndighetens yttrande, skall kommissionen motivera avvikelserna.
+2. Alla utkast till beslut om ändring av förteckningarna över tillåtna hälsopåståenden skall innehålla de uppgifter som anges i artikel 16.4.
+3. Ett slutligt beslut om ansökan som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, ska antas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3.
+Om en sökande begär skydd av äganderättsligt skyddade data och kommissionen föreslår att användningen av påståendet ska begränsas till förmån för sökanden ska emellertid följande gälla:
+a) Beslut om godkännande av påståendet ska fattas i enlighet med det föreskrivande förfarande som avses i artikel 25.2. Godkännandet ska om det beviljas gälla i fem år.
+b) Kommissionen ska, om påståendet fortfarande uppfyller de villkor som fastställs i förordningen, före utgången av femårsperioden lägga fram ett utkast till åtgärder, som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, för godkännande av påståendet utan begränsning av användningen vilket ska beslutas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3.
+4. Kommissionen skall utan dröjsmål underrätta sökanden om beslutet och offentliggöra uppgifter om beslutet i Europeiska unionens officiella tidning .
+5. Hälsopåståenden som ingår i de förteckningar som avses i artiklarna 13 och 14 får, i överensstämmelse med de villkor som de omfattas av, användas av alla livsmedelsföretagare, såvida användningen av dem inte är begränsad i enlighet med bestämmelserna i artikel 21.
+6. Att godkännande beviljats skall inte minska någon livsmedelsföretagares allmänna civilrättsliga och straffrättsliga ansvar med avseende på det berörda livsmedlet.
+
+Artikel 18
+Påståenden som avses i artikel 13.5
+1. En livsmedelsföretagare som avser att använda ett hälsopåstående som inte ingår i den förteckning som anges i artikel 13.3 får ansöka om att påståendet tas upp i den förteckningen.
+2. Ansökan om ett sådant upptagande skall lämnas till den nationella behöriga myndigheten i en medlemsstat, som inom 14 dagar från mottagandet skriftligen skall bekräfta att ansökan tagits emot. I bekräftelsen skall dagen för mottagande av ansökan anges. Ansökan skall innehålla de uppgifter som anges i artikel 15.3 och skälen för begäran.
+3. En giltig ansökan, som överensstämmer med den vägledning som avses i artikel 15.5, och all annan information som sökanden lämnar skall utan dröjsmål skickas till myndigheten för en vetenskaplig bedömning och till kommissionen och medlemsstaterna för kännedom. Myndigheten skall avge sitt yttrande inom fem månader från den dag då begäran togs emot. Denna tidsfrist får förlängas med upp till en månad om myndigheten anser det nödvändigt att be sökanden om kompletterande uppgifter. I sådant fall skall sökanden lämna de begärda uppgifterna inom 15 dagar från den dag då myndighetens begäran togs emot.
+Det förfarande som fastställs i artikel 16.3 a, 16.3 b, 16.5 och 16.6 skall gälla i tillämpliga delar.
+4. Inom två månader från det att kommissionen har mottagit ett yttrande från myndigheten som efter en vetenskaplig bedömning är positivt till att ett påstående skall föras in i den lista som avses i artikel 13.3, skall kommissionen konsultera medlemsstaterna och därefter fatta ett beslut om ansökan; kommissionen skall i sitt beslut ta hänsyn till myndighetens yttrande, alla tillämpliga bestämmelser i gemenskapslagstiftningen och andra berättigade faktorer som har betydelse för den aktuella frågan.
+5. Om myndigheten avger ett yttrande som inte stöder att påståendet tas upp i den förteckning som avses i punkt 4, ska ett beslut om ansökan, som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, fattas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3.
+Om en sökande begär skydd av äganderättsligt skyddade data och kommissionen föreslår att användningen av påståendet ska begränsas till förmån för sökanden ska emellertid följande gälla:
+a) Beslut om godkännande av påståendet ska fattas i enlighet med det föreskrivande förfarande som avses i artikel 25.2. Godkännandet ska om det beviljas gälla i fem år.
+b) Kommissionen ska, om påståendet fortfarande uppfyller de villkor som fastställs i förordningen, före utgången av femårsperioden lägga fram ett utkast till åtgärder, som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, för godkännande av påståendet utan begränsning av användningen vilket ska beslutas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3.
+
+Artikel 19
+Ändring samt tillfällig och permanent indragning av godkännanden
+1. Sökanden/användaren av ett påstående som är upptaget i någon av de förteckningar som anges i artiklarna 13 och 14 får ansöka om en ändring av förteckningen. Förfarandena enligt artiklarna 15–18 skall gälla i tillämpliga delar.
+2. Myndigheten skall på eget initiativ eller på begäran av en medlemsstat eller av kommissionen avge ett yttrande om huruvida ett hälsopåstående som finns upptaget i de förteckningar som anges i artiklarna 13 och 14 fortfarande uppfyller de krav som fastställs i denna förordning.
+Den skall genast översända sitt yttrande till kommissionen, medlemsstaterna och, i förekommande fall, till den sökande som ursprungligen ansökte om godkännande av påståendet i fråga. Myndigheten skall, i enlighet med artikel 38.1 i förordning (EG) nr 178/2002, offentliggöra sitt yttrande.
+Sökanden/användaren och allmänheten får lämna synpunkter till kommissionen inom 30 dagar efter ett sådant offentliggörande.
+Kommissionen skall så snart som möjligt granska myndighetens yttrande och eventuella synpunkter som kommit in. Om så är lämpligt skall godkännandet ändras eller tillfälligt eller permanent dras in i enlighet med de förfaranden som fastställs i artiklarna 17 och 18.
+
+KAPITEL V
+ALLMÄNNA BESTÄMMELSER OCH SLUTBESTÄMMELSER
+
+Artikel 20
+Gemenskapsregister
+1. Kommissionen skall skapa och upprätthålla ett gemenskapsregister över näringspåståenden och hälsopåståenden om livsmedel, nedan kallat ”registret”.
+2. Registret skall innehålla följande uppgifter:
+a) Näringspåståendena och de villkor som gäller för dem och som fastställs i bilagan.
+b) Begränsningar som antagits i enlighet med artikel 4.5.
+c) De godkända hälsopåståendena och de villkor som gäller för dem och som fastställs i artiklarna 13.3, 13.5, 14.1, 19.2, 21, 24.2 och 28.6 och de nationella åtgärder som avses i artikel 23.3.
+d) En förteckning över hälsopåståenden som inte har godkänts och skälen till att de inte har godkänts.
+Hälsopåståenden som har godkänts på grundval av äganderättsligt skyddade data skall förtecknas i en separat bilaga till registret, tillsammans med följande information:
+1. Det datum då kommissionen godkände hälsopåståendet och namnet på den sökande för vilken godkännandet ursprungligen beviljades.
+2. Att kommissionen godkände hälsopåståendet på grundval av äganderättsligt skyddade data och begränsad användning.
+3. Att hälsopåståendet godkändes för en begränsad tid i de fall som avses i artikel 17.3 andra stycket och i artikel 18.5 andra stycket.
+3. Allmänheten skall ha tillgång till registret.
+
+Artikel 21
+Dataskydd
+1. De vetenskapliga data och övrig information i ansökan som krävs enligt artikel 15.3 får inte användas till förmån för en senare sökande under en femårsperiod räknat från dagen för godkännandet, om inte den senare sökanden har kommit överens med den tidigare sökanden om att nämnda data och information får användas. Detta gäller om
+a) nämnda vetenskapliga data och övrig information har förklarats äganderättsligt skyddade av den tidigare sökanden när den tidigare ansökan lämnades in,
+b) den tidigare sökanden hade ensamrätt att använda de äganderättsligt skyddade uppgifterna när den tidigare ansökan lämnades in, och
+c) hälsopåståendet inte kunde ha godkänts utan de äganderättsligt skyddade data som lämnats in av den tidigare sökanden.
+2. Fram till slutet på den femårsperiod som avses i punkt 1 skall ingen senare sökande ha rätt att hänvisa till data som förklarats äganderättsligt skyddade av en tidigare sökande, om inte kommissionen först fattar ett beslut om huruvida ett påstående skulle kunna eller skulle ha kunnat ingå i den förteckning som anges i artikel 14 eller, i förekommande fall, artikel 13 utan inlämnande av data som förklarats äganderättsligt skyddade av den tidigare sökanden.
+
+Artikel 22
+Nationella bestämmelser
+Utan att det påverkar tillämpningen av fördraget, särskilt artiklarna 28 och 30, får medlemsstaterna inte begränsa eller förbjuda handel med eller reklam för livsmedel som är förenliga med denna förordning genom tillämpning av icke-harmoniserade nationella bestämmelser om påståenden om vissa livsmedel eller om livsmedel i allmänhet.
+
+Artikel 23
+Anmälningsförfarande
+1. Om en medlemsstat anser det nödvändigt att införa ny lagstiftning, skall den underrätta kommissionen och övriga medlemsstater om de planerade åtgärderna och ange vilka skäl som ligger till grund för dem.
+2. Kommissionen skall samråda med ständiga kommittén för livsmedelskedjan och djurhälsa, som inrättats genom artikel 58.1 i förordning (EG) nr 178/2002 (nedan kallad ”kommittén”), om den anser att ett sådant samråd är ändamålsenligt eller om en medlemsstat begär det, och skall avge ett yttrande om de åtgärder som planeras.
+3. Den berörda medlemsstaten får vidta de planerade åtgärderna sex månader efter den underrättelse som avses i punkt 1, förutsatt att kommissionens yttrande inte är negativt.
+Om kommissionens yttrande är negativt, skall den i enlighet med det förfarande som avses i artikel 25.2 och inom den period som anges i första stycket i denna punkt avgöra om de planerade åtgärderna kan genomföras. Kommissionen får begära att vissa ändringar görs i fråga om de planerade åtgärderna.
+
+Artikel 24
+Skyddsåtgärder
+1. Om en medlemsstat har goda skäl att anse att ett påstående inte är förenligt med denna förordning eller att de vetenskapliga belägg som föreskrivs i artikel 6 inte är tillräckliga, får den medlemsstaten tillfälligt förbjuda användningen av det påståendet inom sitt territorium.
+Medlemsstaten skall underrätta övriga medlemsstater och kommissionen och ange skälen för det tillfälliga förbudet.
+2. I enlighet med det förfarande som avses i artikel 25.2, skall ett beslut i tillämpliga fall fattas efter det att ett yttrande har inhämtats från myndigheten.
+Kommissionen får inleda detta förfarande på eget initiativ.
+3. Den medlemsstat som avses i punkt 1 får upprätthålla det tillfälliga förbudet till dess att den har underrättats om det beslut som avses i punkt 2.
+
+Artikel 25
+Kommittéförfarande
+1. Kommissionen ska biträdas av kommittén.
+2. När det hänvisas till denna punkt ska artiklarna 5 och 7 i beslut 1999/468/EG tillämpas, med beaktande av bestämmelserna i artikel 8 i det beslutet.
+Den tid som avses i artikel 5.6 i beslut 1999/468/EG ska vara tre månader.
+3. När det hänvisas till denna punkt ska artikel 5a.1–5a.4 och artikel 7 i beslut 1999/468/EG tillämpas, med beaktande av bestämmelserna i artikel 8 i det beslutet.
+
+Artikel 26
+Övervakning
+För att underlätta en effektiv övervakning av livsmedel som är försedda med näringspåståenden eller hälsopåståenden får medlemsstaterna kräva att tillverkaren eller den som släpper ut sådana livsmedel på marknaden inom deras territorium, informerar den behöriga myndigheten om detta genom att lämna in en modell av den märkning som används för produkten.
+
+Artikel 27
+Utvärdering
+Senast den 19 januari 2013 skall kommissionen till Europaparlamentet och rådet överlämna en rapport om tillämpningen av denna förordning, särskilt om utvecklingen av marknaden för livsmedel när det gäller vilka näringspåståenden eller hälsopåståenden som gjorts och om påståendenas begriplighet för konsumenterna, vid behov åtföljd av ett förslag till ändringar. Rapporten skall även innehålla en bedömning av denna förordnings inverkan på kostval och av den potentiella inverkan på förekomsten av fetma och icke smittsamma sjukdomar.
+
+Artikel 28
+Övergångsåtgärder
+1. Livsmedel som släpps ut på marknaden eller som märks före tillämpningsdagen för denna förordning och som inte är förenliga med denna förordning får saluföras fram till sista hållbarhetsdatum, dock längst till och med den 31 juli 2009. När det gäller bestämmelserna i artikel 4.1 får livsmedel saluföras under högst tjugofyra månader efter antagandet av de relevanta näringsprofilerna och villkoren för användningen av dem.
+2. Produkter med varumärken eller märkesnamn som fanns före den 1 januari 2005 och som inte är förenliga med denna förordning får fortsätta att saluföras fram till och med den 19 januari 2022 varefter bestämmelserna i denna förordning skall tillämpas.
+3. Näringspåståenden som har använts i en medlemsstat före den 1 januari 2006 i överensstämmelse med tillämpliga nationella bestämmelser och som inte är upptagna i bilagan får fortsätta att användas fram till den 19 januari 2010, på livsmedelsföretagarens ansvar och utan att det påverkar antagandet av de skyddsåtgärder som avses i artikel 24.
+4. För sådana näringspåståenden i form av bilder, grafik eller symboler som är förenliga med denna förordnings allmänna principer, och som inte ingår i bilagan och används i enlighet med särskilda krav och kriterier som utarbetats genom nationella bestämmelser eller regler skall följande gälla:
+a) Medlemsstaterna skall senast den 31 januari 2008 underrätta kommissionen om sådana näringspåståenden och tillämpliga nationella bestämmelser eller regler, åtföljt av vetenskapliga data till stöd för sådana bestämmelser eller regler.
+b) Kommissionen ska, i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3, anta ett beslut som gäller användningen av sådana påståenden och som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den.
+Näringspåståenden som inte godkänns i enlighet med detta förfarande får fortsätta att användas i tolv månader efter antagandet av beslutet.
+5. Sådana hälsopåståenden som avses i artikel 13.1 a får göras från och med den dag då denna förordning träder i kraft till och med den dag då den förteckning som avses i artikel 13.3 antas, på livsmedelsföretagarens ansvar, under förutsättning att de är förenliga med denna förordning och med gällande tillämpliga nationella bestämmelser, utan att det påverkar antagandet av de skyddsåtgärder som avses i artikel 24.
+6. ►M2 Andra hälsopåståenden än de som avses i artikel 13.1 a och artikel 14.1 a och som i enlighet med nationella bestämmelser har använts före den dag då denna förordning träder i kraft ska omfattas av följande: ◄
+a) Hälsopåståenden som har bedömts och godkänts i en medlemsstat skall godkännas enligt följande:
+i) Medlemsstaterna skall senast den 31 januari 2008 underrätta kommissionen om dessa påståenden, åtföljt av en rapport som utvärderar de vetenskapliga data som stöder påståendet.
+ii) Efter att ha samrått med myndigheten ska kommissionen, i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 25.3, anta ett beslut som gäller de hälsopåståenden som godkänts på detta sätt och som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den.
+Hälsopåståenden som inte godkänns enligt detta förfarande får fortsätta att användas i sex månader efter antagandet av beslutet.
+b) Hälsopåståenden som inte har bedömts och godkänts i en medlemsstat får fortsätta att användas under förutsättning att en ansökan görs i enlighet med denna förordning före den 19 januari 2008; hälsopåståenden som inte godkänns enligt detta förfarande får fortsätta att användas i sex månader efter det att ett beslut har fattats enligt artikel 17.3.
+
+Artikel 29
+Ikraftträdande
+Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i Europeiska unionens officiella tidning .
+Den skall tillämpas från och med 1 juli 2007.
+Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.
+
+BILAGA
+Näringspåståenden och villkor för användningen av dem
+LÅGT ENERGIINNEHÅLL
+Ett påstående om att ett livsmedel har ett lågt energiinnehåll, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten inte innehåller mer än 40 kcal (170 kJ)/100 g för livsmedel i fast form eller mer än 20 kcal (80 kJ)/100 ml för livsmedel i flytande form. För bordssötningsmedel gäller gränsen 4 kcal (17 kJ)/portion, med sötande egenskaper som motsvarar 6 g sackaros (cirka 1 tesked sackaros).
+ENERGIREDUCERAD
+Ett påstående om att ett livsmedel är energireducerat, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om energivärdet är minskat med minst 30 % och om de egenskaper anges som gör att livsmedlets totala energivärde minskats.
+ENERGIFRI
+Ett påstående om att ett livsmedel är energifritt, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten inte innehåller mer än 4 kcal (17 kJ)/100 ml. För bordssötningsmedel gäller gränsen 0,4 kcal (1,7 kJ)/portion, med sötande egenskaper som motsvarar 6 g sackaros (cirka 1 tesked sackaros).
+LÅG FETTHALT
+Ett påstående om att ett livsmedel har låg fetthalt, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller högst 3 g fett per 100 g för livsmedel i fast form eller 1,5 g fett per 100 ml för livsmedel i flytande form (1,8 g fett per 100 ml för mellanmjölk).
+FETTFRI
+Ett påstående om att ett livsmedel är fettfritt, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller högst 0,5 g fett per 100 g eller 100 ml. Påståenden som formuleras enligt modellen ”X % fettfri” är förbjudna.
+LÅG HALT AV MÄTTAT FETT
+Ett påstående om att ett livsmedel har lågt innehåll av mättat fett, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om summan av mättade fettsyror och transfettsyror i produkten inte överstiger 1,5 g per 100 g för livsmedel i fast form eller 0,75 g/100 ml för livsmedel i flytande form. I båda fallen får summan av mättade fettsyror och transfettsyror inte ge mer än 10 % av energiinnehållet.
+FRI FRÅN MÄTTAT FETT
+Ett påstående om att ett livsmedel inte innehåller mättat fett, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om summan av mättat fett och transfettsyror inte överstiger 0,1 g mättat fett per 100 g eller 100 ml.
+LÅG SOCKERHALT
+Ett påstående om att ett livsmedel har låg sockerhalt, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller högst 5 g sockerarter per 100 g för livsmedel i fast form eller 2,5 g sockerarter per 100 ml för livsmedel i flytande form.
+SOCKERFRI
+Ett påstående om att ett livsmedel är sockerfritt, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller högst 0,5 g sockerarter per 100 g eller 100 ml.
+UTAN TILLSATT SOCKER
+Ett påstående om att sockerarter inte tillsattas ett livsmedel, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten inte innehåller några tillsatta mono- eller disackarider eller något annat livsmedel som används på grund av sina sötande egenskaper. Om sockerarter förekommer naturligt i livsmedlet, bör även följande uppgift finnas på märkningen: ”INNEHÅLLER NATURLIGT FÖREKOMMANDE SOCKER”.
+LÅG NATRIUMHALT/LÅG SALTHALT
+Ett påstående om att ett livsmedel har låg natriumhalt/salthalt, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller högst 0,12 g natrium, eller motsvarande värde för salt, per 100 g eller per 100 ml. För annat vatten än naturliga mineralvatten som omfattas av direktiv 80/777/EEG bör detta värde inte överstiga 2 mg natrium/100 ml.
+MYCKET LÅG NATRIUMHALT/MYCKET LÅG SALTHALT
+Ett påstående om att ett livsmedel har mycket låg natrium/salthalt, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller högst 0,04 g natrium, eller motsvarande värde för salt, per 100 g eller per 100 ml. Detta påstående får inte användas om naturliga mineralvatten och annat vatten.
+NATRIUMFRI eller SALTFRI
+Ett påstående om att ett livsmedel är natriumfritt eller saltfritt, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller högst 0,005 g natrium, eller motsvarande värde för salt, per 100 g.
+UTAN TILLSATT NATRIUM/SALT
+Ett påstående om att natrium/salt inte tillsatts ett livsmedel, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten inte innehåller något tillsatt natrium/salt eller någon annan ingrediens som innehåller tillsatt natrium/salt och produkten innehåller högst 0,12 g natrium, eller motsvarande värde för salt, per 100 g eller 100 ml.
+KOSTFIBERKÄLLA
+Ett påstående om att ett livsmedel är en kostfiberkälla, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller minst 3 g kostfibrer per 100 g eller minst 1,5 g kostfibrer per 100 kcal.
+HÖGT KOSTFIBERINNEHÅLL
+Ett påstående om att ett livsmedel har ett högt innehåll av kostfibrer, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller minst 6 g kostfibrer per 100 g eller minst 3 g kostfibrer per 100 kcal.
+PROTEINKÄLLA
+Ett påstående om att ett livsmedel är en proteinkälla, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om minst 12 % av livsmedlets energivärde kommer från proteiner.
+HÖGT PROTEININNEHÅLL
+Ett påstående om att ett livsmedel har ett högt innehåll av protein, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om minst 20 % av livsmedlets energivärde kommer från proteiner.
+[NAMN PÅ VITAMINET/VITAMINERNA]- OCH/ELLER [NAMN PÅ MINERALÄMNET/MINERALÄMNENA] KÄLLA
+Ett påstående om att ett livsmedel är en källa till vitaminer och/eller mineralämnen, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller minst en betydande mängd enligt bilagan till direktiv 90/496/EEG eller en mängd som anges i undantag som beviljats i enlighet med artikel 6 i Europaparlamentets och rådets förordning (EG) nr 1925/2006 av den 20 december 2006 om tillsättning av vitaminer och mineralämnen samt vissa andra ämnen i livsmedel ( 17 ).
+HÖGT INNEHÅLL AV [NAMN PÅ VITAMINET/VITAMINERNA] OCH/ELLER [NAMN PÅ MINERALÄMNET/MINERALÄMNENA]
+Ett påstående om att ett livsmedel har ett högt innehåll av vitaminer och/eller mineralämnen, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller minst dubbelt så mycket som en produkt som är en ”[NAMN PÅ VITAMINET/VITAMINERNA]- och/eller [NAMN PÅ MINERALÄMNET/MINERALÄMNENA] källa”
+INNEHÅLLER [NAMN PÅ NÄRINGSÄMNET ELLER ANNAT ÄMNE]
+Ett påstående om att ett livsmedel innehåller ett näringsämne eller ett annat ämne för vilket inga särskilda villkor fastställs i denna förordning, eller varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten är förenlig med alla tillämpliga bestämmelser i förordningen, särskilt artikel 5. När det gäller vitaminer och mineralämnen skall kraven för påståendet ”källa” gälla.
+ÖKAT INNEHÅLL AV [NAMN PÅ NÄRINGSÄMNET]
+Ett påstående om att innehållet av ett eller flera näringsämnen, förutom vitaminer och mineralämnen, har ökats, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten uppfyller kraven för påståendet ”källa” och innehållet har ökats med minst 30 % jämfört med en liknande produkt.
+MINSKAT INNEHÅLL AV [NAMN PÅ NÄRINGSÄMNET]
+Ett påstående om att innehållet av ett eller flera näringsämnen har minskats, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om innehållet har minskats med minst 30 % jämfört med en liknande produkt utom i fråga om mikronäringsämnen där en skillnad på 10 % från de referensvärden som anges i direktiv 90/496/EEG godtas, samt för natrium, eller motsvarande värde för salt, där en skillnad på 25 % godtas.
+Påståendet ”minskat innehåll av mättat fett”, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras
+a) om summan av mättade fettsyror och transfettsyror i den produkt som är försedd med påståendet är minst 30 % lägre än summan av mättade fettsyror och transfettsyror i en liknande produkt, och
+b) om innehållet av transfettsyror i den produkt som är försedd med påståendet är lika högt som eller lägre än innehållet i en liknande produkt.
+Påståendet ”minskat innehåll av socker”, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om energiinnehållet i den produkt som är försedd med påståendet är lika högt som eller lägre än energiinnehållet i en liknande produkt.
+LÄTT/LIGHT
+Ett påstående om att en produkt är ”lätt” eller ”light”, och varje annat påstående som kan antas ha samma innebörd för konsumenten, skall uppfylla samma villkor som de som gäller för begreppet ”minskat”. Påståendet skall åtföljas av uppgifter om den eller de egenskaper som gör produkten ”lätt” eller ”light”.
+NATURLIG/T
+Om ett livsmedel naturligt uppfyller villkoren enligt denna bilaga för användningen av ett näringspåstående, får formuleringen ”naturlig/t” läggas till före påståendet.
+KÄLLA TILL OMEGA 3-FETTSYROR
+Ett påstående om att ett livsmedel är en källa till omega 3-fettsyror, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller minst 0,3 g alfa-linolensyra per 100 g och per 100 kcal eller minst 40 mg av summan av eikosapentaensyra och dokosahexaensyra per 100 g och per 100 kcal.
+HÖGT INNEHÅLL AV OMEGA 3-FETTSYROR
+Ett påstående om att ett livsmedel har ett högt innehåll av omega 3-fettsyror, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om produkten innehåller minst 0,6 g alfa-linolensyra per 100 g och per 100 kcal eller minst 80 mg av summan av eikosapentaensyra och dokosahexaensyra per 100 g och per 100 kcal.
+HÖGT INNEHÅLL AV ENKELOMÄTTAT FETT
+Ett påstående om att ett livsmedel har ett högt innehåll av enkelomättat fett, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om minst 45 % av fettsyrorna i produkten kommer från enkelomättat fett och om enkelomättat fett står för mer än 20 % av produktens energiinnehåll.
+HÖGT INNEHÅLL AV FLEROMÄTTAT FETT
+Ett påstående om att ett livsmedel har ett högt innehåll av fleromättat fett, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om minst 45 % av fettsyrorna i produkten kommer från fleromättat fett och om fleromättat fett står för mer än 20 % av produktens energiinnehåll.
+HÖGT INNEHÅLL AV OMÄTTAT FETT
+Ett påstående om att ett livsmedel har ett högt innehåll av omättat fett, och varje annat påstående som kan antas ha samma innebörd för konsumenten, får endast göras om minst 70 % av fettsyrorna i produkten kommer från omättat fett och om omättat fett står för mer än 20 % av produktens energiinnehåll.
+
+( 1 ) EUT C 110, 30.4.2004, s. 18.
+( 2 ) Europaparlamentets yttrande av den 26 maj 2005 (EUT C 117 E, 18.5.2006, s. 187), rådets gemensamma ståndpunkt av den 8 december 2005 (EUT C 80 E, 4.4.2006, s. 43) och Europaparlamentets ståndpunkt av den 16 maj 2006 (ännu ej offentliggjord i EUT). Rådets beslut av den 12 oktober 2006.
+( 3 ) EGT L 109, 6.5.2000, s. 29. Direktivet senast ändrat genom direktiv 2003/89/EG (EUT L 308, 25.11.2003, s. 15).
+( 4 ) EGT L 204, 21.7.1998, s. 37. Direktivet senast ändrat genom 2003 års anslutningsakt.
+( 5 ) EGT L 316, 9.12.1994, s. 2.
+( 6 ) EGT L 183, 12.7.2002, s. 51. Direktivet ändrat genom kommissionens direktiv 2006/37/EG (EUT L 94, 1.4.2006, s. 32).
+( 7 ) EGT L 250, 19.9.1984, s. 17. Direktivet senast ändrat genom Europaparlamentets och rådets direktiv 2005/29/EG (EUT L 149, 11.6.2005, s. 22).
+( 8 ) EGT L 276, 6.10.1990, s. 40. Direktivet senast ändrat genom kommissionens direktiv 2003/120/EG (EUT L 333, 20.12.2003, s. 51).
+( 9 ) EGT L 186, 30.6.1989, s. 27. Direktivet senast ändrat genom Europaparlamentets och rådets förordning (EG) nr 1882/2003 (EUT L 284, 31.10.2003, s. 1).
+( 10 ) EGT L 55, 6.3.1996, s. 22.
+( 11 ) EGT L 184, 17.7.1999, s. 23.
+( 12 ) EGT L 229, 30.8.1980, s. 1. Direktivet senast ändrat genom förordning (EG) nr 1882/2003.
+( 13 ) EGT L 330, 5.12.1998, s. 32. Direktivet ändrat genom förordning (EG) nr 1882/2003.
+( 14 ) EGT L 31, 1.2.2002, s. 1. Förordningen senast ändrad genom kommissionens förordning (EG) nr 575/2006 (EUT L 100, 8.4.2006, s. 43).
+( 15 ) Namnet på det näringsämne som överskrider profilen.
+( 16 ) EUT L 304, 22.11.2011, s. 18.
+( 17 ) EUT L 404, 30.12.2006, s. 26.

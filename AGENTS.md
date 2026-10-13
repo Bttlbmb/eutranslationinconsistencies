@@ -1,0 +1,12 @@
+# Concordance static reader
+
+This directory is an independent Git repository. The neighboring `../backend/` is the local Python service and owns source ingestion, analysis, SQLite storage, and export generation.
+
+- Keep this website static and read-only. Browser requests must not call the local backend or run model analysis.
+- `data/catalogue.json` implements the self-contained v1 contract in `SCHEMA.md`. It contains the current real public export, which backend exports replace. Do not invent findings, translations, coverage, review completion, or legislation metadata.
+- Render source text safely as text nodes. Highlights must match an exact English passage substring. Publish only agent-reviewed supported findings.
+- English is a reading anchor, not a privileged official language. Preserve partial, unavailable, empty, and interrupted states.
+- No account tokens, model prompts, local paths, or remote credentials belong in the site, data exports, commits, or logs.
+- Keep `noindex` metadata and `robots.txt`. Link sharing is not authentication.
+- The root owner controls `.openai/hosting.json` and Sites registration/deployment. Preserve its project identity.
+- Run `npm test`, `npm run check`, and `npm run build` after relevant changes. There are no external packages to install.
