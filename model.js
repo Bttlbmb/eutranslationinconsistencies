@@ -87,6 +87,62 @@ export function highlightedSegments(text, findings) {
   });
 }
 
+/** Visual rows over exact source offsets. No source characters are rewritten. */
+export function passageRows(text, label = '') {
+  const lines = [];
+  for (let start = 0; start < text.length;) {
+    const newline = text.indexOf('\n', start);
+    const contentEnd = newline < 0 ? text.length : newline;
+    const end = newline < 0 ? text.length : newline + 1;
+    lines.push({start, contentEnd, end, value: text.slice(start, contentEnd)});
+    start = end;
+  }
+  const rows = [];
+  const kindOf = (value, index) => {
+    if (!value.trim()) return 'blank';
+    if (index === 0 && label === value.trim() && /^Article\s+\d/i.test(label)) return 'heading';
+    if (index === 1 && rows[0]?.kind === 'heading' && value.length < 100 && !/[.:;!?]$/.test(value.trim())) return 'subtitle';
+    if (/^[A-Z][A-Z\d\s,./()[\]–—-]*$/.test(value.trim()) && value.trim().length < 100) {
+      if (label === 'Document context') return 'context-heading';
+      if (label.startsWith('Annex ')) return 'annex-heading';
+    }
+    if (/^\d+[a-z]{0,3}\.\s+\S/i.test(value)) return 'clause';
+    if (/^\([a-z]{1,3}\)\s+\S/i.test(value) || /^\d+\)\s+\S/.test(value)) return 'point';
+    return 'paragraph';
+  };
+  for (let index = 0; index < lines.length; index++) {
+    const line = lines[index];
+    const markerOnly = /^(?:\([a-z]{1,3}\)|\d+\))\s*$/i.test(line.value);
+    if (markerOnly && index + 1 < lines.length && lines[index + 1].value.trim()) {
+      const next = lines[++index];
+      rows.push({kind: 'point', start: line.start, markerEnd: line.end, contentEnd: next.contentEnd, end: next.end});
+      continue;
+    }
+    // The archive flattens some official list grids into one line. Break only
+    // a clear sequence of list items, keeping every character at its offset.
+    const candidates = [...line.value.matchAll(/(?:[:;]) (?=(\([a-z]\)|\d+\))\s)/g)]
+      .map(match => ({start: line.start + match.index + match[0].length, marker: match[1]}));
+    const ordered = candidates.filter(({marker}) => /^\([a-z]\)$/.test(marker) || /^\d+\)$/.test(marker));
+    const first = ordered[0]?.marker;
+    const second = ordered[1]?.marker;
+    const sequence = first && second && (
+      (/^\([a-z]\)$/.test(first) && second === `(${String.fromCharCode(first.charCodeAt(1) + 1)})`) ||
+      (/^\d+\)$/.test(first) && Number(second.slice(0, -1)) === Number(first.slice(0, -1)) + 1)
+    );
+    const cuts = sequence ? ordered.map(item => item.start) : [];
+    const starts = [line.start, ...cuts];
+    starts.forEach((start, partIndex) => {
+      const contentEnd = starts[partIndex + 1] ?? line.contentEnd;
+      const value = text.slice(start, contentEnd);
+      const marker = value.match(/^(?:\([a-z]{1,3}\)|\d+\)|\d+[a-z]{0,3}\.)\s+/i);
+      rows.push({kind: partIndex ? 'point' : kindOf(value, index), start,
+        markerEnd: marker ? start + marker[0].length : null,
+        contentEnd, end: partIndex === starts.length - 1 ? line.end : contentEnd});
+    });
+  }
+  return rows;
+}
+
 export function officialURL(value) {
   try {
     const url = new URL(value);

@@ -1,4 +1,4 @@
-import {catalogueLegislation, substantialLanguageIndex, groupedFindings, highlightedSegments, sourceOccurrences, overlappingFindings, officialURL, archiveURL, selectedFromHash, completionMessage} from './model.js';
+import {catalogueLegislation, substantialLanguageIndex, groupedFindings, highlightedSegments, passageRows, sourceOccurrences, overlappingFindings, officialURL, archiveURL, selectedFromHash, completionMessage} from './model.js';
 
 const $ = selector => document.querySelector(selector);
 const state = {legislation: [], act: null, finding: null, language: null, query: '', highlightsOnly: false};
@@ -109,7 +109,8 @@ function markSelectedHighlight() {
   document.querySelectorAll('.passage-highlight').forEach(highlight => {
     const active = highlight.dataset.findings.split(',').includes(state.finding?.id);
     highlight.classList.toggle('selected', active);
-    highlight.setAttribute('aria-pressed', String(active));
+    if (active) highlight.setAttribute('aria-current', 'true');
+    else highlight.removeAttribute('aria-current');
   });
   document.querySelectorAll('.passage-anchor').forEach(anchor => anchor.setAttribute('aria-pressed', String(anchor.dataset.finding === state.finding?.id)));
 }
@@ -190,21 +191,52 @@ function renderReader() {
       });
       section.append(anchors);
     }
-    const label = node('div', 'passage-label');
-    append(label, node('h3', '', passage.label || 'Passage'));
-    section.append(label);
-    const paragraph = node('p', 'passage-text');
-    highlightedSegments(passage.text || '', related).forEach(segment => {
-      if (!segment.ids.length) paragraph.append(document.createTextNode(segment.text));
-      else {
+    const text = passage.text || '';
+    const rows = passageRows(text, passage.label);
+    if (rows[0]?.kind !== 'heading') {
+      const label = node('div', 'passage-label');
+      append(label, node('h3', '', passage.label || 'Passage'));
+      section.append(label);
+    }
+    let offset = 0;
+    const segments = highlightedSegments(text, related).map(segment => {
+      const positioned = {...segment, start: offset, end: offset + segment.text.length};
+      offset = positioned.end;
+      return positioned;
+    });
+    const appendSourceRange = (parent, start, end) => {
+      for (const segment of segments) {
+        if (segment.end <= start) continue;
+        if (segment.start >= end) break;
+        const slice = text.slice(Math.max(start, segment.start), Math.min(end, segment.end));
+        if (!segment.ids.length || !slice.trim()) { parent.append(document.createTextNode(slice)); continue; }
         const first = related.find(finding => finding.id === segment.ids[0]);
-        const highlight = button(segment.text, 'passage-highlight', () => changeSelection(act, first, {scroll: !window.matchMedia('(min-width: 901px)').matches}), `${segment.text}. Read finding: ${first.title}${segment.ids.length > 1 ? `; ${segment.ids.length} findings share this wording` : ''}`);
+        const params = new URLSearchParams({act: act.id, finding: first.id});
+        const highlight = node('a', 'passage-highlight', slice);
+        highlight.href = `#${params}`;
+        highlight.addEventListener('click', event => {
+          event.preventDefault();
+          changeSelection(act, first, {scroll: !window.matchMedia('(min-width: 901px)').matches});
+        });
+        highlight.setAttribute('aria-label', `${slice}. Read finding: ${first.title}${segment.ids.length > 1 ? `; ${segment.ids.length} findings share this wording` : ''}`);
         highlight.dataset.findings = segment.ids.join(',');
         highlight.setAttribute('aria-controls', 'comparison');
-        paragraph.append(highlight);
+        parent.append(highlight);
       }
+    };
+    const body = node('div', 'passage-text');
+    rows.forEach(row => {
+      const line = node(row.kind === 'heading' ? 'h3' : 'p', `source-line source-${row.kind}`);
+      if (row.markerEnd != null) {
+        const marker = node('span', 'source-marker');
+        const content = node('span', 'source-content');
+        appendSourceRange(marker, row.start, row.markerEnd);
+        appendSourceRange(content, row.markerEnd, row.end);
+        append(line, marker, content);
+      } else appendSourceRange(line, row.start, row.end);
+      body.append(line);
     });
-    append(section, paragraph);
+    append(section, body);
     reader.append(section);
   });
   markSelectedHighlight();

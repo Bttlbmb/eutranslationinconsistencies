@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {catalogueLegislation, publicFindings, substantialLanguageIndex, groupedFindings, highlightedSegments, sourceOccurrences, overlappingFindings, officialURL, archiveURL, selectedFromHash, completionMessage} from '../model.js';
+import {catalogueLegislation, publicFindings, substantialLanguageIndex, groupedFindings, highlightedSegments, passageRows, sourceOccurrences, overlappingFindings, officialURL, archiveURL, selectedFromHash, completionMessage} from '../model.js';
 
 // Artificial strings below are unit-test fixtures, never published source data.
 const act = {id:'test-act', title:'Test act', status:'partial', passages:[{id:'p1', text:'alpha beta gamma delta'}], findings:[{id:'test-finding', passage_id:'p1', english_quote:'beta gamma', status:'agent_reviewed', variants:[{language:'fr'}]}], coverage:{total_units:12,reviewed_units:3}};
@@ -122,4 +122,23 @@ test('overlap boundaries never create whitespace-only interactive highlights', (
   const segments = highlightedSegments('alpha beta', [{id:'wide',english_quote:'alpha beta'},{id:'first',english_quote:'alpha'},{id:'last',english_quote:'beta'}]);
   assert.deepEqual(segments.find(segment => segment.text === ' ').ids, []);
   assert.equal(segments.map(segment => segment.text).join(''), 'alpha beta');
+});
+
+test('article layout joins standalone point markers while preserving exact source offsets', () => {
+  const source = 'Article 3\nGeneral principles\nIntroductory sentence.\n(a)\nFirst point;\n(b)\nSecond point.';
+  const rows = passageRows(source, 'Article 3');
+  assert.deepEqual(rows.map(row => row.kind), ['heading', 'subtitle', 'paragraph', 'point', 'point']);
+  assert.equal(rows.map(row => source.slice(row.start, row.end)).join(''), source);
+  assert.equal(source.slice(rows[3].start, rows[3].markerEnd), '(a)\n');
+  assert.equal(source.slice(rows[3].markerEnd, rows[3].contentEnd), 'First point;');
+});
+
+test('numbered clauses and clear inline lists get readable rows without changing quotations', () => {
+  const source = 'Article 8\nSpecific conditions\n2. Amendments shall be adopted.\n3. Conditions include: (a) first item; (b) second item.';
+  const rows = passageRows(source, 'Article 8');
+  assert.deepEqual(rows.map(row => row.kind), ['heading', 'subtitle', 'clause', 'clause', 'point', 'point']);
+  assert.equal(rows.map(row => source.slice(row.start, row.end)).join(''), source);
+  assert.equal(source.slice(rows[2].markerEnd, rows[2].contentEnd), 'Amendments shall be adopted.');
+  assert.equal(source.slice(rows[4].start, rows[4].contentEnd), '(a) first item; ');
+  assert.equal(passageRows('A reference to Article 3(3)(a) remains prose.', 'Context').length, 1);
 });
