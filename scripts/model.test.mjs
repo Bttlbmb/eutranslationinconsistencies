@@ -4,6 +4,7 @@ import {
   catalogueLegislation,
   publicFindings,
   substantialLanguageIndex,
+  focusLanguageIndex,
   groupedFindings,
   highlightedSegments,
   passageRows,
@@ -88,6 +89,34 @@ test('language index counts substantial finding records without double-counting 
     selectedFromHash('#act=test-act&finding=test-finding&lang=de', [document]).language,
     'de'
   );
+});
+
+test('focus language links retain zero-finding and unavailable languages without a mismatched finding', () => {
+  const document = {
+    ...act,
+    languages: [
+      { code: 'en', name: 'English' },
+      { code: 'de', name: 'German' },
+      { code: 'fr', name: 'French' }
+    ],
+    unavailable_languages: [{ code: 'ga', name: 'Irish', reason: 'No expression for this version.' }],
+    failed_languages: [{ code: 'es', name: 'Spanish', reason: 'Retrieval failed.' }],
+    findings: [
+      { ...act.findings[0], severity: 'substantial', variants: [{ language: 'de' }] }
+    ]
+  };
+  assert.deepEqual(focusLanguageIndex(document).map(({ code, availability }) => [code, availability]), [
+    ['fr', 'archived'],
+    ['de', 'archived'],
+    ['ga', 'unavailable'],
+    ['es', 'failed']
+  ]);
+  assert.equal(selectionHash({ act: document, finding: null, language: 'fr' }), 'act=test-act&lang=fr');
+  assert.deepEqual(selectedFromHash('#act=test-act&lang=fr', [document]).language, 'fr');
+  assert.equal(selectedFromHash('#act=test-act&lang=ga', [document]).language, 'ga');
+  assert.equal(selectedFromHash('#act=test-act&finding=test-finding&lang=fr', [document]).finding, null);
+  assert.equal(selectedFromHash('#act=test-act&lang=en', [document]).language, null);
+  assert.equal(selectedFromHash('#act=test-act&lang=xx', [document]).language, null);
 });
 
 test('overlapping highlights preserve every source character and both findings', () => {

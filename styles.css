@@ -247,6 +247,25 @@ summary {
   min-width: 0;
   flex: 1;
 }
+.focus-language-control {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  flex: none;
+  color: var(--muted);
+  font-size: 11px;
+  white-space: nowrap;
+}
+.focus-language-select {
+  width: 142px;
+  max-width: 100%;
+  padding: 4px 22px 4px 7px;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 12px var(--sans);
+}
 .document-meta {
   color: var(--muted);
   font-size: 11px;
@@ -301,8 +320,7 @@ summary {
   min-width: 0;
   min-height: 0;
 }
-.reader-toolbar,
-.language-selector-heading {
+.reader-toolbar {
   height: 38px;
   min-height: 38px;
   display: flex;
@@ -487,64 +505,6 @@ summary {
 }
 .reading-workspace:has(.comparison:empty) {
   grid-template-columns: 1fr;
-}
-.language-selector {
-  border-bottom: 1px solid var(--line);
-}
-.language-selector-heading {
-  padding: 0 17px;
-}
-.language-selector-heading h2 {
-  font: 600 12px/1.2 var(--sans);
-}
-.language-heading-actions {
-  display: flex;
-  align-items: center;
-  gap: 9px;
-  white-space: nowrap;
-  color: var(--muted);
-  font-size: 11px;
-}
-.all-languages {
-  padding: 2px 0 2px 8px;
-  border-left: 1px solid var(--line);
-  background: transparent;
-  color: var(--accent);
-  font-size: 11px;
-}
-.language-code-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 4px;
-  padding: 8px 17px;
-}
-.language-code {
-  width: 42px;
-  min-width: 0;
-  min-height: 27px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 4px;
-  padding: 3px 2px;
-  border: 1px solid var(--line);
-  background: var(--paper);
-  font-size: 11px;
-  font-weight: 600;
-}
-.language-code:hover {
-  background: var(--highlight-soft);
-}
-.language-code[aria-pressed='true'] {
-  background: var(--highlight-soft);
-  border-color: var(--accent);
-  color: var(--accent);
-}
-.language-code small {
-  color: var(--muted);
-  font-size: 10px;
-  font-weight: 400;
-  font-variant-numeric: tabular-nums;
 }
 .comparison-intro {
   padding: 15px 17px 4px;
@@ -894,6 +854,9 @@ summary {
   }
 }
 @media (max-width: 900px) {
+  .document-meta {
+    display: none;
+  }
   .workspace {
     height: auto;
     min-height: calc(100dvh - 45px);
@@ -927,8 +890,8 @@ summary {
   .act-picker > summary {
     max-width: 46vw;
   }
-  .document-meta {
-    font-size: 10px;
+  .focus-language-label {
+    display: none;
   }
   .act-details {
     font-size: 10px;
@@ -962,13 +925,22 @@ summary {
   .document-heading {
     gap: 10px;
   }
+  .focus-language-label {
+    display: inline;
+  }
+  .focus-language-select {
+    width: 120px;
+  }
   .finding-count {
     display: none;
   }
 }
 @media (pointer: coarse) {
-  .language-code {
-    min-width: 44px;
+  .document-strip {
+    height: auto;
+    min-height: 44px;
+  }
+  .focus-language-select {
     min-height: 44px;
   }
   .passage-anchor {

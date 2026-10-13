@@ -6,7 +6,7 @@ The site is static and read-only. It keeps working while the owner's computer is
 
 ## Read the collection
 
-Choose an act from the selector at the top. Select highlighted wording to open its language comparison. The language buttons show findings for one language, and the arrows move between findings. **Highlights only** shows passages with findings. A copied finding link opens the same evidence for another reader.
+Choose an act from the selector at the top. Use **Focus language** to show only one language's findings and English-text highlights, including languages with no published findings. Select highlighted wording to open its comparison, and use the arrows to move between findings. **Highlights only** shows passages with findings. A copied finding link retains the focus language for another reader.
 
 Check **Act details**, **Review coverage**, and **Source archive** for the version, progress, and source limitations. A comparison unit is one English passage compared with one other language. A partially reviewed act can already contain supported findings from completed batches. No findings is not proof that the language versions are equivalent.
 
@@ -63,7 +63,8 @@ For interface changes, exercise the real snapshot in a browser on desktop and na
 
 - Choose different acts; search the collection.
 - Follow a highlight, switch overlapping findings, and inspect grouped language cards.
-- Filter by language, use next/previous, and follow a direct finding link.
+- Focus on a language with findings and one with none; check an unavailable source and review-status wording.
+- Use next/previous, switch acts while focused, and follow a direct finding or focus-language link.
 - Use browser Back to restore the preceding selection or finding index.
 - Expand coverage/source notes, download a text, and use the method dialog with the keyboard.
 - Check that wording is readable, no horizontal overflow appears, and requests stay within the static reader or explicit official source links.

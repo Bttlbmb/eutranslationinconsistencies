@@ -3,7 +3,7 @@
  */
 import {
   catalogueLegislation,
-  substantialLanguageIndex,
+  focusLanguageIndex,
   groupedFindings,
   highlightedSegments,
   passageRows,
@@ -44,10 +44,51 @@ function toast(message) {
 function displayedFindings(act) {
   const findings = groupedFindings(act);
   if (!state.language) return findings;
-  const language = substantialLanguageIndex(act).find((item) => item.code === state.language);
-  if (!language) return [];
-  const ids = new Set(language.findingIds);
-  return findings.filter((finding) => finding.aliases.some((id) => ids.has(id)));
+  return findings.filter((finding) =>
+    finding.variants.some((variant) => variant.language === state.language)
+  );
+}
+function focusedLanguage(act = state.act) {
+  return focusLanguageIndex(act).find((language) => language.code === state.language) || null;
+}
+function focusedEmptyState(act, language) {
+  const name = language.name;
+  if (language.availability === 'unavailable')
+    return {
+      title: `${name} source unavailable`,
+      message: language.reason || 'No official expression is available for this source version.',
+      summary: `${name} source unavailable`
+    };
+  if (language.availability === 'failed')
+    return {
+      title: `${name} source retrieval failed`,
+      message: language.reason || 'The official expression could not be preserved for this snapshot.',
+      summary: `${name} source retrieval failed`
+    };
+  const title = `No ${name} findings`;
+  if (language.coverageIncomplete)
+    return {
+      title,
+      message: 'No supported finding has been published for this language. The archived source has incomplete language coverage; check Source archive below.',
+      summary: `No ${name} findings published · source incomplete`
+    };
+  if (act.status === 'complete')
+    return {
+      title,
+      message: 'No supported substantial difference was found for this language in the completed review. This does not establish equivalence.',
+      summary: `No ${name} findings · review complete`
+    };
+  const reviewState = {
+    partial: ['The review is partial', 'partial review'],
+    analyzing: ['The review is in progress', 'review in progress'],
+    failed: ['The review was interrupted', 'review interrupted'],
+    imported: ['The review has not started', 'review pending']
+  }[act.status] || ['The review is incomplete', 'review incomplete'];
+  return {
+    title,
+    message: `No supported finding has been published for this language. ${reviewState[0]}; check Review coverage below.`,
+    summary: `No ${name} findings published · ${reviewState[1]}`
+  };
 }
 // Finding groups have a canonical ID plus aliases for older shared links.
 function updateSelectionHash() {
@@ -66,13 +107,11 @@ function changeSelection(act, finding = null, { scroll = false } = {}) {
   const fromLibrary = Boolean(trigger?.classList.contains('legislation-item'));
   const fromPassage = Boolean(trigger?.classList.contains('passage-highlight'));
   const changedAct = state.act?.id !== act?.id;
-  if (changedAct && !finding) finding = groupedFindings(act)[0] || null;
-  const changedFinding = state.finding?.id !== finding?.id;
   state.act = act;
-  state.finding = finding;
   if (changedAct) {
     state.highlightsOnly = false;
-    state.language = null;
+    if (state.language && !focusedLanguage(act)) state.language = null;
+    if (!finding) finding = displayedFindings(act)[0] || null;
   }
   if (
     finding &&
@@ -80,6 +119,9 @@ function changeSelection(act, finding = null, { scroll = false } = {}) {
     !finding.variants.some((variant) => variant.language === state.language)
   )
     state.language = null;
+  const changedFinding = state.finding?.id !== finding?.id;
+  state.finding = finding;
+  if ($('#focus-language-select')) $('#focus-language-select').value = state.language || '';
   updateSelectionHash();
   renderLibrary();
   if (changedAct) renderAct();
@@ -111,25 +153,24 @@ function changeSelection(act, finding = null, { scroll = false } = {}) {
     : `${act?.short_title || act?.title || 'Collection'} selected.`;
 }
 function changeLanguage(code) {
-  const languages = substantialLanguageIndex(state.act);
+  const languages = focusLanguageIndex(state.act);
   if (code && !languages.some((language) => language.code === code)) return;
   state.language = code;
   const visibleFindings = displayedFindings(state.act);
   if (!state.finding || !visibleFindings.some((finding) => finding.id === state.finding.id))
     state.finding = visibleFindings[0] || null;
+  if (!visibleFindings.length) state.highlightsOnly = false;
   updateSelectionHash();
+  renderLibrary();
   renderToolbar();
   renderReader();
   renderComparison();
   $('#comparison').scrollTop = 0;
   if (state.finding) scrollToFinding(state.finding);
-  (code
-    ? $(`#comparison .language-code[data-language="${code}"]`)
-    : $('#comparison .all-languages')
-  )?.focus({ preventScroll: true });
+  $('#focus-language-select')?.focus({ preventScroll: true });
   const selected = languages.find((language) => language.code === code);
   $('#selection-status').textContent = selected
-    ? `${selected.name}: ${plural(selected.count, 'substantial difference')} shown.`
+    ? `${selected.name}: ${plural(visibleFindings.length, 'finding')} shown.`
     : 'Findings in all languages shown.';
 }
 function scrollToFinding(finding, { behavior = 'smooth' } = {}) {
@@ -190,7 +231,27 @@ function renderLibrary() {
       );
   }
   filtered.forEach((act) => {
-    const findings = groupedFindings(act);
+    const findings = displayedFindings(act);
+    const focus = focusedLanguage(act);
+    let summary;
+    if (state.language)
+      summary = focus
+        ? findings.length
+          ? plural(findings.length, `${focus.name} finding`)
+          : focusedEmptyState(act, focus).summary
+        : `${focusedLanguage()?.name || state.language.toUpperCase()} not listed for this act`;
+    else
+      summary = findings.length
+        ? plural(findings.length, 'finding')
+        : act.status === 'complete'
+          ? 'Review complete · no findings'
+          : act.status === 'partial'
+            ? 'Partially reviewed'
+            : act.status === 'analyzing'
+              ? 'Review in progress'
+              : act.status === 'failed'
+                ? 'Review interrupted'
+                : 'Awaiting analysis';
     const item = button('', `legislation-item${act.id === state.act?.id ? ' selected' : ''}`, () =>
       changeSelection(act)
     );
@@ -198,21 +259,7 @@ function renderLibrary() {
     append(item, node('span', 'legislation-name', act.short_title || act.title));
     append(
       item,
-      node(
-        'span',
-        'legislation-item-bottom',
-        findings.length
-          ? plural(findings.length, 'finding')
-          : act.status === 'complete'
-            ? 'Review complete · no findings'
-            : act.status === 'partial'
-              ? 'Partially reviewed'
-              : act.status === 'analyzing'
-                ? 'Review in progress'
-                : act.status === 'failed'
-                  ? 'Review interrupted'
-                  : 'Awaiting analysis'
-      )
+      node('span', 'legislation-item-bottom', summary)
     );
     container.append(item);
   });
@@ -235,6 +282,29 @@ function renderAct() {
       `${act.version_label || 'Source version'}${act.version ? ` · ${prettyDate(act.version)}` : ''}`
     )
   );
+  const focus = node('label', 'focus-language-control');
+  const select = node('select', 'focus-language-select');
+  select.id = 'focus-language-select';
+  select.setAttribute('aria-label', 'Focus language');
+  append(select, node('option', '', 'All languages'));
+  select.options[0].value = '';
+  focusLanguageIndex(act).forEach((language) => {
+    const suffix =
+      language.availability === 'unavailable'
+        ? ' · unavailable'
+        : language.availability === 'failed'
+          ? ' · retrieval failed'
+          : language.coverageIncomplete
+            ? ' · incomplete source'
+            : '';
+    const option = node('option', '', `${language.name}${suffix}`);
+    option.value = language.code;
+    select.append(option);
+  });
+  select.value = state.language || '';
+  select.addEventListener('change', () => changeLanguage(select.value || null));
+  append(focus, node('span', 'focus-language-label', 'Focus language'), select);
+  heading.append(focus);
   const details = node('details', 'act-details');
   const detailBody = node('div', 'act-details-body');
   append(
@@ -266,8 +336,8 @@ function renderToolbar() {
     node('span', 'toolbar-title', 'English text')
   );
   const right = node('div', 'toolbar-right');
+  append(right, node('span', 'finding-count', plural(findings.length, 'finding')));
   if (findings.length) {
-    append(right, node('span', 'finding-count', plural(findings.length, 'finding')));
     const toggle = button(
       state.highlightsOnly ? 'Show full text' : 'Highlights only',
       'highlight-toggle',
@@ -349,6 +419,7 @@ function renderReader() {
         }
         const first = related.find((finding) => finding.id === segment.ids[0]);
         const params = new URLSearchParams({ act: act.id, finding: first.id });
+        if (state.language) params.set('lang', state.language);
         const highlight = node('a', 'passage-highlight', slice);
         highlight.href = `#${params}`;
         highlight.addEventListener('click', (event) => {
@@ -381,42 +452,6 @@ function renderReader() {
   });
   markSelectedHighlight();
 }
-function renderLanguageSelector(act) {
-  const languages = substantialLanguageIndex(act);
-  if (!languages.length) return null;
-  const wrapper = node('section', 'language-selector');
-  wrapper.setAttribute('aria-label', 'Languages with findings');
-  const heading = node('div', 'language-selector-heading');
-  const headingActions = node('div', 'language-heading-actions');
-  append(headingActions, node('span', '', plural(languages.length, 'language')));
-  if (state.language)
-    append(
-      headingActions,
-      button('All', 'all-languages', () => changeLanguage(null), 'Show all languages')
-    );
-  append(heading, node('h2', '', 'Languages with findings'), headingActions);
-  const codes = node('div', 'language-code-grid');
-  codes.setAttribute('role', 'group');
-  codes.setAttribute('aria-label', 'Filter findings by language');
-  languages.forEach((language) => {
-    const choice = button(
-      '',
-      'language-code',
-      () => changeLanguage(language.code),
-      `${language.name}, ${language.code.toUpperCase()}, ${plural(language.count, 'substantial difference')}`
-    );
-    choice.dataset.language = language.code;
-    choice.setAttribute('aria-pressed', String(state.language === language.code));
-    append(
-      choice,
-      node('span', '', language.code.toUpperCase()),
-      node('small', '', String(language.count))
-    );
-    codes.append(choice);
-  });
-  append(wrapper, heading, codes);
-  return wrapper;
-}
 function renderComparison() {
   const panel = $('#comparison');
   panel.replaceChildren();
@@ -424,38 +459,23 @@ function renderComparison() {
   if (!act) return;
   const findings = displayedFindings(act);
   const selected = state.finding;
-  const languageSelector = renderLanguageSelector(act);
-  if (languageSelector) panel.append(languageSelector);
   if (!selected) {
     const intro = node('div', 'comparison-intro');
-    const selectedLanguage = substantialLanguageIndex(act).find(
-      (language) => language.code === state.language
-    );
-    append(
-      intro,
-      node(
-        'h2',
-        '',
-        findings.length
-          ? selectedLanguage
-            ? `${selectedLanguage.name} findings`
-            : 'Findings'
-          : act.status === 'complete'
-            ? 'No findings'
-            : act.status === 'failed'
-              ? 'Review interrupted'
-              : 'Review pending'
-      )
-    );
+    const selectedLanguage = focusedLanguage(act);
+    const emptyState = selectedLanguage ? focusedEmptyState(act, selectedLanguage) : null;
+    const title = findings.length
+      ? selectedLanguage ? `${selectedLanguage.name} findings` : 'Findings'
+      : emptyState?.title || (act.status === 'complete' ? 'No findings' : act.status === 'failed' ? 'Review interrupted' : 'Review pending');
+    append(intro, node('h2', '', title));
     const message = findings.length
       ? 'Select a finding to compare language versions.'
-      : act.status === 'complete'
+      : emptyState?.message || (act.status === 'complete'
         ? 'No supported substantial difference was found in the completed review. This does not establish equivalence across languages.'
         : act.status === 'partial'
           ? 'This is a partial review. No supported findings have been published for the text reviewed so far.'
           : act.status === 'failed'
             ? 'The analysis was interrupted; no complete comparison is claimed.'
-            : 'The source texts are archived. Findings will appear after review.';
+            : 'The source texts are archived. Findings will appear after review.');
     append(intro, node('p', '', message));
     panel.append(intro);
     if (findings.length) {

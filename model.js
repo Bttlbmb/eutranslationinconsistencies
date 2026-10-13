@@ -57,6 +57,30 @@ export function substantialLanguageIndex(act) {
   return [...languages.values()].sort((a, b) => a.code.localeCompare(b.code));
 }
 
+/** Every language the act accounts for, including zero findings and missing sources. */
+export function focusLanguageIndex(act) {
+  const languages = new Map();
+  const add = (language, availability) => {
+    const code = language?.code;
+    if (typeof code !== 'string' || !/^[a-z]{2}$/.test(code) || code === 'en') return;
+    languages.set(code, {
+      code,
+      name: language.name || code.toUpperCase(),
+      availability,
+      coverageIncomplete: Boolean(language.coverage_incomplete),
+      reason: language.reason || ''
+    });
+  };
+  for (const language of act?.languages || []) add(language, 'archived');
+  for (const language of act?.unavailable_languages || []) add(language, 'unavailable');
+  for (const language of act?.failed_languages || []) add(language, 'failed');
+  // Public variants always have an archive; this also supports minimal test data.
+  for (const language of substantialLanguageIndex(act))
+    if (!languages.has(language.code))
+      add({ code: language.code, name: language.name }, 'archived');
+  return [...languages.values()].sort((a, b) => a.name.localeCompare(b.name));
+}
+
 /** Present each English anchor once while preserving every reviewed language record. */
 export function groupedFindings(act) {
   const groups = new Map();
@@ -271,16 +295,16 @@ export function selectionHash({ act, finding, language }) {
 export function selectedFromHash(hash, legislation) {
   const params = new URLSearchParams(hash.replace(/^#/, ''));
   const act = legislation.find((item) => item.id === params.get('act')) || legislation[0] || null;
-  const finding = act
+  let finding = act
     ? groupedFindings(act).find((item) => item.aliases.includes(params.get('finding'))) || null
     : null;
   const requestedLanguage = params.get('lang');
   const language =
-    act &&
-    substantialLanguageIndex(act).some((item) => item.code === requestedLanguage) &&
-    (!finding || finding.variants.some((variant) => variant.language === requestedLanguage))
+    act && focusLanguageIndex(act).some((item) => item.code === requestedLanguage)
       ? requestedLanguage
       : null;
+  if (finding && language && !finding.variants.some((variant) => variant.language === language))
+    finding = null;
   return { act, finding, language };
 }
 
