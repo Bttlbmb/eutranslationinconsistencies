@@ -62,6 +62,7 @@ function changeSelection(act, finding = null, {scroll = false} = {}) {
   const fromLibrary = Boolean(trigger?.classList.contains('legislation-item'));
   const fromPassage = Boolean(trigger?.classList.contains('passage-highlight') || trigger?.classList.contains('passage-finding-link'));
   const changedAct = state.act?.id !== act?.id;
+  if (changedAct && !finding) finding = groupedFindings(act)[0] || null;
   const changedFinding = state.finding?.id !== finding?.id;
   state.act = act;
   state.finding = finding;
@@ -72,34 +73,36 @@ function changeSelection(act, finding = null, {scroll = false} = {}) {
   if (changedAct) renderAct();
   else { renderToolbar(); renderComparison(); markSelectedHighlight(); }
   if (changedFinding) $('#comparison').scrollTop = 0;
-  if (fromLibrary) $('.legislation-item[aria-current="true"]')?.focus({preventScroll: true});
+  if (fromLibrary) { $('#act-picker').open = false; $('#act-picker-label').focus({preventScroll: true}); }
   if (fromComparison || fromPassage) {
     const heading = $('#comparison .finding-detail > h2, #comparison .comparison-intro > h2');
     if (heading) heading.tabIndex = -1;
     const navigation = navigationLabel ? $(`#comparison button[aria-label="${navigationLabel}"]:not(:disabled)`) : null;
     (navigation || heading)?.focus({preventScroll: true});
   }
-  if (scroll && finding) scrollToFinding(finding);
   if (changedAct) $('#reader').scrollTop = 0;
+  if ((scroll || changedAct) && finding) requestAnimationFrame(() => scrollToFinding(finding, {behavior: changedAct ? 'auto' : 'smooth'}));
   $('#selection-status').textContent = finding ? `${finding.title}. Language comparison updated.` : `${act?.short_title || act?.title || 'Collection'} selected.`;
 }
 function changeLanguage(code) {
   const languages = substantialLanguageIndex(state.act);
   if (code && !languages.some(language => language.code === code)) return;
   state.language = code;
-  if (state.finding && code && !displayedFindings(state.act).some(finding => finding.id === state.finding.id)) state.finding = null;
+  const visibleFindings = displayedFindings(state.act);
+  if (!state.finding || !visibleFindings.some(finding => finding.id === state.finding.id)) state.finding = visibleFindings[0] || null;
   updateSelectionHash();
   renderToolbar();
   renderReader();
   renderComparison();
   $('#comparison').scrollTop = 0;
-  $(`#comparison .language-code[data-language="${code || 'all'}"]`)?.focus({preventScroll: true});
+  if (state.finding) scrollToFinding(state.finding);
+  (code ? $(`#comparison .language-code[data-language="${code}"]`) : $('#comparison .all-languages'))?.focus({preventScroll: true});
   const selected = languages.find(language => language.code === code);
   $('#selection-status').textContent = selected ? `${selected.name}: ${plural(selected.count, 'substantial difference')} shown.` : 'Findings in all languages shown.';
 }
 function scrollToFinding(finding, {behavior = 'smooth'} = {}) {
   const highlight = [...document.querySelectorAll('.passage-highlight')].find(item => item.dataset.findings.split(',').includes(finding.id));
-  if (highlight && window.matchMedia('(min-width: 1051px)').matches) highlight.scrollIntoView({behavior, block: 'center'});
+  if (highlight && window.matchMedia('(min-width: 901px)').matches) highlight.scrollIntoView({behavior, block: 'center'});
   else ($('#comparison .finding-detail > h2, #comparison .comparison-intro > h2') || $('#comparison')).scrollIntoView({behavior: 'auto', block: 'start'});
 }
 function markSelectedHighlight() {
@@ -108,6 +111,7 @@ function markSelectedHighlight() {
     highlight.classList.toggle('selected', active);
     highlight.setAttribute('aria-pressed', String(active));
   });
+  document.querySelectorAll('.passage-anchor').forEach(anchor => anchor.setAttribute('aria-pressed', String(anchor.dataset.finding === state.finding?.id)));
 }
 function renderLibrary() {
   const container = $('#legislation-list');
@@ -127,20 +131,20 @@ function renderLibrary() {
     append(item, node('span', 'legislation-item-bottom', findings.length ? plural(findings.length, 'finding') : act.status === 'complete' ? 'Review complete · no findings' : act.status === 'partial' ? 'Partially reviewed' : act.status === 'analyzing' ? 'Review in progress' : act.status === 'failed' ? 'Review interrupted' : 'Awaiting analysis'));
     container.append(item);
   });
-  if (window.matchMedia('(max-width: 680px)').matches) {
-    const selected = container.querySelector('.legislation-item.selected');
-    if (selected) container.scrollLeft += selected.getBoundingClientRect().left - container.getBoundingClientRect().left - 19;
-  }
 }
 function renderAct() {
   const act = state.act;
   const heading = $('#document-heading');
   heading.replaceChildren();
+  $('#act-picker-label').textContent = act?.short_title || act?.title || 'Choose legislation';
   if (!act) { renderEmptyCollection(); return; }
   document.title = 'EU Translation Inconsistencies';
-  const titleRow = node('div', 'document-title-row');
-  append(titleRow, node('h2', '', act.short_title || act.title), externalLink('View on EUR-Lex ↗', act.source_url, 'official-button'));
-  append(heading, node('p', `status-label status-${act.status || 'imported'}`, completionMessage(act, groupedFindings(act))), titleRow, node('p', 'document-subtitle', act.title), node('p', 'document-meta', `${act.version_label || 'Source version'}${act.version ? ` · ${prettyDate(act.version)}` : ''}`));
+  append(heading, node('span', 'document-meta', `${act.version_label || 'Source version'}${act.version ? ` · ${prettyDate(act.version)}` : ''}`));
+  const details = node('details', 'act-details');
+  const detailBody = node('div', 'act-details-body');
+  append(detailBody, node('strong', '', act.title), node('p', `status-label status-${act.status || 'imported'}`, completionMessage(act, groupedFindings(act))), externalLink('View on EUR-Lex ↗', act.source_url, 'source-link'));
+  append(details, node('summary', '', 'Act details'), detailBody);
+  append(heading, details);
   renderToolbar();
   renderReader();
   renderComparison();
@@ -168,7 +172,6 @@ function renderReader() {
   const act = state.act;
   if (!act) return;
   const findings = displayedFindings(act);
-  if (findings.length) append(reader, node('p', 'reader-legend', 'Highlighted text opens a finding'));
   const passages = Array.isArray(act.passages) ? act.passages : [];
   if (!passages.length) append(reader, node('p', 'reader-no-text', 'The English text is not yet available in this snapshot. Follow the official source link above to read the legislation.'));
   passages.forEach(passage => {
@@ -176,16 +179,26 @@ function renderReader() {
     if (state.highlightsOnly && !related.length) return;
     const section = node('section', 'passage');
     section.id = `passage-${passage.id}`;
+    if (related.length) {
+      const anchors = node('div', 'passage-anchors');
+      related.forEach(finding => {
+        const number = String(findings.findIndex(item => item.id === finding.id) + 1).padStart(2, '0');
+        const marker = button(number, 'passage-anchor', () => changeSelection(act, finding), `Read finding ${number}: ${finding.title}`);
+        marker.dataset.finding = finding.id;
+        marker.setAttribute('aria-pressed', String(finding.id === state.finding?.id));
+        anchors.append(marker);
+      });
+      section.append(anchors);
+    }
     const label = node('div', 'passage-label');
     append(label, node('h3', '', passage.label || 'Passage'));
-    if (related.length) append(label, button(`${related.length} ${related.length === 1 ? 'finding' : 'findings'} ↗`, 'passage-finding-link', () => changeSelection(act, related[0], {scroll: true})));
     section.append(label);
     const paragraph = node('p', 'passage-text');
     highlightedSegments(passage.text || '', related).forEach(segment => {
       if (!segment.ids.length) paragraph.append(document.createTextNode(segment.text));
       else {
         const first = related.find(finding => finding.id === segment.ids[0]);
-        const highlight = button(segment.text, 'passage-highlight', () => changeSelection(act, first, {scroll: !window.matchMedia('(min-width: 1051px)').matches}), `${segment.text}. Read finding: ${first.title}${segment.ids.length > 1 ? `; ${segment.ids.length} findings share this wording` : ''}`);
+        const highlight = button(segment.text, 'passage-highlight', () => changeSelection(act, first, {scroll: !window.matchMedia('(min-width: 901px)').matches}), `${segment.text}. Read finding: ${first.title}${segment.ids.length > 1 ? `; ${segment.ids.length} findings share this wording` : ''}`);
         highlight.dataset.findings = segment.ids.join(',');
         highlight.setAttribute('aria-controls', 'comparison');
         paragraph.append(highlight);
@@ -199,20 +212,16 @@ function renderReader() {
 function renderLanguageSelector(act) {
   const languages = substantialLanguageIndex(act);
   if (!languages.length) return null;
-  const substantialIds = new Set(languages.flatMap(language => language.findingIds));
-  const total = substantialIds.size;
-  const passageCount = groupedFindings(act).filter(finding => finding.aliases.some(id => substantialIds.has(id))).length;
   const wrapper = node('section', 'language-selector');
-  wrapper.setAttribute('aria-label', 'Languages with substantial findings');
+  wrapper.setAttribute('aria-label', 'Languages with findings');
   const heading = node('div', 'language-selector-heading');
-  append(heading, node('h2', '', 'Languages with substantial findings'), node('span', '', plural(languages.length, 'language')));
+  const headingActions = node('div', 'language-heading-actions');
+  append(headingActions, node('span', '', plural(languages.length, 'language')));
+  if (state.language) append(headingActions, button('All', 'all-languages', () => changeLanguage(null), 'Show all languages'));
+  append(heading, node('h2', '', 'Languages with findings'), headingActions);
   const codes = node('div', 'language-code-grid');
   codes.setAttribute('role', 'group');
   codes.setAttribute('aria-label', 'Filter findings by language');
-  const all = button('All', 'language-code', () => changeLanguage(null), `All languages, ${plural(total, 'substantial difference')} in ${plural(passageCount, 'passage')}`);
-  all.dataset.language = 'all';
-  all.setAttribute('aria-pressed', String(!state.language));
-  codes.append(all);
   languages.forEach(language => {
     const choice = button('', 'language-code', () => changeLanguage(language.code), `${language.name}, ${language.code.toUpperCase()}, ${plural(language.count, 'substantial difference')}`);
     choice.dataset.language = language.code;
@@ -220,14 +229,7 @@ function renderLanguageSelector(act) {
     append(choice, node('span', '', language.code.toUpperCase()), node('small', '', String(language.count)));
     codes.append(choice);
   });
-  const selected = languages.find(language => language.code === state.language);
-  const selectedPassages = selected ? displayedFindings(act).length : passageCount;
-  const differenceCount = selected?.count || total;
-  const passageDetail = differenceCount === selectedPassages ? '' : ` in ${plural(selectedPassages, 'passage')}`;
-  const current = node('p', 'language-selector-current', `${selected ? `${selected.name} (${selected.code.toUpperCase()})` : 'All languages'} · ${plural(differenceCount, 'difference')}${passageDetail}`);
-  const key = node('details', 'language-selector-key');
-  append(key, node('summary', '', 'Language names'), node('p', '', languages.map(language => `${language.code.toUpperCase()} ${language.name}`).join(' · ')));
-  append(wrapper, heading, codes, current, key);
+  append(wrapper, heading, codes);
   return wrapper;
 }
 function renderComparison() {
@@ -271,15 +273,15 @@ function renderComparison() {
     const variants = state.language ? selected.variants.filter(variant => variant.language === state.language) : selected.variants;
     const detailTitle = state.language && variants.length === 1 ? variants[0].finding_title || selected.title : selected.title;
     const detailExplanation = state.language && variants.length === 1 ? variants[0].explanation || selected.explanation : selected.explanation;
-    append(detail, node('h2', '', detailTitle), node('p', 'finding-explanation', detailExplanation));
+    append(detail, node('h2', '', detailTitle));
     const anchor = node('details', 'english-anchor');
     append(anchor, node('summary', '', 'English passage'), node('blockquote', '', selected.english_quote));
     const passage = act.passages.find(item => item.id === selected.passage_id);
     const occurrences = sourceOccurrences(passage?.text || '', selected.english_quote).length;
     if (occurrences > 1) append(anchor, node('p', 'repeated-wording-note', `This wording occurs ${occurrences} times in this passage; see the explanation for the affected context.`));
-    append(detail, anchor);
     const visibleIds = new Set(findings.map(finding => finding.id));
     const overlaps = overlappingFindings(act, selected).filter(finding => visibleIds.has(finding.id));
+    let relatedDisclosure;
     if (overlaps.length > 1) {
       const disclosure = node('details', 'overlap-disclosure');
       append(disclosure, node('summary', '', `Related findings (${overlaps.length})`));
@@ -290,20 +292,20 @@ function renderComparison() {
         append(choices, choice);
       });
       append(disclosure, choices);
-      append(detail, disclosure);
+      relatedDisclosure = disclosure;
     }
-    append(detail, node('div', 'variant-heading', plural(variants.length, 'language version')));
     variants.forEach(variant => {
       const card = node('article', 'variant-card');
       const top = node('div', 'variant-title');
-      append(top, append(node('div', 'variant-language'), node('span', 'language-monogram', (variant.language || '?').toUpperCase()), node('h3', '', variant.language_name || variant.language)), externalLink('Source ↗', variant.source_url, 'source-link', `Read the official ${variant.language_name || variant.language} source`));
+      append(top, append(node('div', 'variant-language'), node('span', 'language-monogram', (variant.language || '?').toUpperCase()), node('h3', '', `${variant.language_name || variant.language} · original wording`)), externalLink('EUR-Lex ↗', variant.source_url, 'source-link', `Read the official ${variant.language_name || variant.language} source`));
       const quote = node('blockquote', 'original-quote', variant.quote);
       quote.lang = variant.language || '';
       const variantTitle = variant.finding_title && variant.finding_title !== detailTitle ? node('h4', 'variant-finding-title', variant.finding_title) : null;
       append(card, top, variantTitle, quote, node('div', 'translation-label', 'ENGLISH TRANSLATION'), node('p', 'translated-quote', variant.translation));
-      if (variant.explanation?.trim() !== detailExplanation?.trim()) append(card, append(node('div', 'difference-explanation'), node('span', '', 'POTENTIAL DIFFERENCE'), node('p', '', variant.explanation)));
+      append(card, append(node('div', 'difference-explanation'), node('span', '', 'EXPLANATION'), node('p', '', variant.explanation || detailExplanation)));
       detail.append(card);
     });
+    append(detail, anchor, relatedDisclosure);
     const review = node('div', 'review-note');
     append(review, node('strong', '', selected.review?.reviewed_at ? `Reviewed ${prettyDate(selected.review.reviewed_at)}` : 'Reviewed finding'));
     const method = node('details', 'review-method');
@@ -388,6 +390,7 @@ async function loadCatalogue() {
     state.act = selected.act;
     state.finding = selected.finding;
     state.language = selected.language;
+    if (!state.finding && state.act) state.finding = displayedFindings(state.act)[0] || null;
     renderLibrary();
     renderAct();
     if (state.finding) requestAnimationFrame(() => scrollToFinding(state.finding, {behavior: 'auto'}));
@@ -400,5 +403,5 @@ $('#search').addEventListener('input', event => { state.query = event.target.val
 $('#method-button').addEventListener('click', () => $('#method-dialog').showModal());
 $('#close-method').addEventListener('click', () => $('#method-dialog').close());
 $('#method-dialog').addEventListener('click', event => { if (event.target === $('#method-dialog')) { const bounds = event.target.getBoundingClientRect(); if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) event.target.close(); } });
-window.addEventListener('popstate', () => { const selected = selectedFromHash(location.hash, state.legislation); state.act = selected.act; state.finding = selected.finding; state.language = selected.language; state.highlightsOnly = false; renderLibrary(); renderAct(); if (state.finding) requestAnimationFrame(() => scrollToFinding(state.finding, {behavior: 'auto'})); });
+window.addEventListener('popstate', () => { const selected = selectedFromHash(location.hash, state.legislation); state.act = selected.act; state.finding = selected.finding; state.language = selected.language; if (!state.finding && state.language && state.act) state.finding = displayedFindings(state.act)[0] || null; state.highlightsOnly = false; renderLibrary(); renderAct(); if (state.finding) requestAnimationFrame(() => scrollToFinding(state.finding, {behavior: 'auto'})); });
 loadCatalogue();

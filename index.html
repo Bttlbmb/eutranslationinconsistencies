@@ -8,7 +8,7 @@
   <meta name="theme-color" content="#f5f3ed">
   <title>EU Translation Inconsistencies</title>
   <link rel="icon" type="image/svg+xml" href="./favicon.svg">
-  <link rel="stylesheet" href="./styles.css?v=2">
+  <link rel="stylesheet" href="./styles.css?v=3">
   <script type="module" src="./app.js"></script>
 </head>
 <body>
@@ -19,17 +19,22 @@
   </header>
 
   <main class="workspace">
-    <aside class="library" aria-label="Legislation library">
-      <div class="library-title"><h2>Legislation</h2></div>
-      <label class="search-box"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 4.5 4.5"></path></svg><input type="search" id="search" placeholder="Find legislation…" aria-label="Search legislation"></label>
-      <nav id="legislation-list" class="legislation-list" aria-label="Choose legislation"><div class="loading-state">Loading the collection…</div></nav>
-    </aside>
-
     <section class="document-area" aria-label="Legislation comparison">
-      <div id="document-heading" class="document-heading"></div>
-      <div id="reader-toolbar" class="reader-toolbar" hidden></div>
+      <div class="document-strip">
+        <details class="act-picker" id="act-picker">
+          <summary id="act-picker-label">Choose legislation</summary>
+          <div class="act-picker-menu">
+            <label class="search-box"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 4.5 4.5"></path></svg><input type="search" id="search" placeholder="Find legislation…" aria-label="Search legislation"></label>
+            <nav id="legislation-list" class="legislation-list" aria-label="Choose legislation"><div class="loading-state">Loading the collection…</div></nav>
+          </div>
+        </details>
+        <div id="document-heading" class="document-heading"></div>
+      </div>
       <div class="reading-workspace" id="reading-workspace">
-        <section class="reader" id="reader" aria-label="English legislation" tabindex="-1"><div class="collection-empty"><p>Loading legislation…</p></div></section>
+        <div class="reader-column">
+          <div id="reader-toolbar" class="reader-toolbar" hidden></div>
+          <section class="reader" id="reader" aria-label="English legislation" tabindex="-1"><div class="collection-empty"><p>Loading legislation…</p></div></section>
+        </div>
         <aside class="comparison" id="comparison" aria-label="Language differences"></aside>
       </div>
     </section>
