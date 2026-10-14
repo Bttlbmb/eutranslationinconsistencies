@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T06:46:48.240809Z",
+  "generated_at": "2026-10-14T07:06:19.476372Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4700,6 +4700,70 @@
       ],
       "impact_families": [
         {
+          "id": "impact-924b67b71c0e54c7e4bfff92",
+          "title": "Personal care and maintenance duties",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(1), particularly Article 6(1)(a), read with Article 2(2).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An age-related recruitment measure supports middle-aged applicants returning after providing personal care to an adult relative, without a legal maintenance obligation. The applicants do not independently fall within the examples of young people or older workers.",
+          "rationale": "Even assuming that Swedish confines this category to maintenance obligors, exclusion from the example does not exclude personal carers from Article 6(1). The list is expressly illustrative. Listed and unlisted measures must satisfy the same legitimate-aim, appropriateness and necessity requirements. Neither express recognition nor its absence establishes a different exemption or discrimination decision.\nCounterreading: Swedish and Danish maintenance terminology, German and Czech care terminology, and French responsibility for dependants can be reconciled around obligations toward dependent people. Their equal authority and the open list favour an inclusive interpretation; a strict maintenance-only interpretation is not established as the governing multilingual meaning.",
+          "uncertainty": "Swedish wording may exclude personal carers without a legal maintenance duty from this express example. Article 6(1)(a) is non-exhaustive and the general legitimate-aim and necessity test remains available. A distinct legal entitlement or changed justification outcome has not been established from the example's wording alone.",
+          "assessed_at": "2026-10-14T06:55:17.483233Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "453d155e5ac09d4b8a4f51cf"
+          ]
+        },
+        {
+          "id": "impact-b1bda881d668296a6f075a16",
+          "title": "Remuneration and recommendations",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(1), particularly Article 6(1)(a), read with Article 2(2).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A national measure establishes age-related starting pay for young workers to promote vocational integration. Alternatively, a measure regulates employment recommendations according to age.",
+          "rationale": "Even if recomendación retains its literal recommendation meaning, remuneration remains within the broader employment-conditions wording. Employment recommendations can likewise fall within access-to-employment conditions. Both measures remain subject to the same general justification test, and the examples are non-exhaustive. Neither removal of the express pay example nor addition of recommendations establishes a changed legal outcome.\nCounterreading: The surrounding employment terms and the remuneration wording in French, German and Portuguese strongly support reading the provision consistently as addressing pay. That conclusion follows from textual coherence and the provision's function, rather than treating English as controlling. The literal recommendation reading is unlikely to govern multilingual interpretation.",
+          "uncertainty": "The Spanish noun may change which conditions are named in Article 6(1)(a), but that provision lists non-exhaustive examples subject to the general legitimate-aim and necessity test. An age-related pay rule or employment-recommendation rule can still be assessed under that test. No changed justification result follows from the example's wording alone.",
+          "assessed_at": "2026-10-14T06:55:17.483040Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "69047c19152d416f100400be"
+          ]
+        },
+        {
+          "id": "impact-a3b28ee7346bf83b92376230",
+          "title": "Completed correction of discriminatory provisions",
+          "legal_anchor": "Directive 2000/78/EC, Article 16(b)'s invalidation and amendment alternatives, read with Article 2.",
+          "impact_level": "high",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An undertaking retains a recruitment rule established to constitute prohibited discrimination, with no applicable exception. An effective judicial invalidation procedure exists, but the rule has not been invalidated or amended and is not automatically void.",
+          "rationale": "If completed invalidation or amendment is required, providing an effective invalidation procedure alone ceases to satisfy Article 16(b). Actual amendment remains an alternative, and Article 16(a) does not independently remove this private rule. The change is substantial because it alters the required corrective result across the provision's categories, without requiring a subsequent discriminatory act.\nCounterreading: The authentic versions have equal authority. Polish can describe the result secured by an effective legal framework, including invalidation on application. French, German and Dutch expressly accommodate that possibility; Lithuanian, Croatian and Romanian use result-focused wording. Reading the provision as requiring an effective corrective framework could reconcile these formulations. A universal requirement for completed intervention is therefore not established.",
+          "uncertainty": "This is a conditional difference in the Member State's compliance obligation. It establishes neither an actual national failure nor a particular entitlement to compensation. Effective automatic invalidity would remove the distinction; continued appearance of words in a document alone would not prove non-compliance.\nUnresolved: No additional dependency prevents the stated conditional difference, provided the provision is within scope, established as discriminatory, and remains legally intact despite an effective invalidation route.",
+          "assessed_at": "2026-10-14T07:01:33.989496Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "9552d8b4c921cb9fc0f3e0af"
+          ]
+        },
+        {
+          "id": "impact-7d16fd65de6cead19d34b549",
+          "title": "Maintenance obligors as beneficiaries",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(1), particularly Article 6(1)(a), read with Article 2(2).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An age-related employment protection covers middle-aged workers who owe financial maintenance to former spouses but provide no personal care. Assume they are outside the young-person and older-worker examples and that financial maintenance alone falls outside the disputed care category.",
+          "rationale": "The wording can change express inclusion, but Article 6(1)(a) creates no automatic entitlement or exemption for named groups. The opening justification test applies equally to maintenance obligors and personal carers, and the non-exhaustive list permits measures for either. A changed legal outcome therefore remains unsupported even on the assumed categorical distinction.\nCounterreading: Financial support may itself constitute a caring responsibility. Hungarian maintenance terminology, French dependants terminology and German care terminology support an interpretation encompassing different forms of responsibility for others. The authentic versions do not establish mutually exclusive beneficiary classes.",
+          "uncertainty": "Hungarian wording may expressly include financial maintenance obligors who provide no personal care. Article 6(1)(a) nevertheless gives non-exhaustive examples governed by the general legitimate-aim and necessity test. Express inclusion alone has not been shown to change the treatment of a particular measure or its legal justification.",
+          "assessed_at": "2026-10-14T06:55:17.483169Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "5506775a88990f4a11296fae"
+          ]
+        },
+        {
           "id": "impact-9e12485d031d1bc3233c7734",
           "title": "Slovenian participation criteria refer to the Directive instead of national law",
           "legal_anchor": "Directive 2000/78/EC, Article 9(2), particularly the criteria reference, legitimate interest and consent; Article 9(3).",
@@ -4713,6 +4777,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "3089eda1665244c506158dd0"
+          ]
+        },
+        {
+          "id": "impact-983f51c9eb7ca173a0d2a5d8",
+          "title": "Training agreements outside employment contracts",
+          "legal_anchor": "Directive 2000/78/EC, Articles 2, 3(1)(b) and 16(b).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A private vocational-training admission agreement contains a term established to exclude applicants because of sexual orientation, with no applicable exception. It creates no employment relationship, and the term appears in no collective, undertaking or professional rule.",
+          "rationale": "Article 3(1)(b) covers access to vocational training in the public and private sectors. If Finnish Article 16(b)'s contractual limb reaches only employment and collective agreements, this separate admission agreement loses that Article's express voiding-or-amendment duty; the Directive's substantive protection and other remedies still apply. The separate independent-professional-activity limb does not capture the stated agreement.\nCounterreading: All authentic versions have equal authority. Czech, German and Italian also use employment-contract language; French and Dutch use broader terms. A common interpretation could broaden the occupational understanding of the contractual category or retain an employment-specific limb with protection elsewhere. Finnish's broad independent-activity wording strengthens the need to examine the whole list rather than infer exclusion from the contractual phrase alone.",
+          "uncertainty": "The conditional effect depends on the agreement truly being outside employment and every other Article 16(b) category. The authentic versions may be reconciled by a broader reading of the contractual limb. No actual national failure or lawful discrimination follows.\nUnresolved: The agreement’s precise classification and the reach of the contractual limb under a multilingual reading remain open; the conditional change to the express Article 16(b) duty is otherwise identifiable.",
+          "assessed_at": "2026-10-14T07:04:49.178074Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "a9e4c507cba97ffe1d065b9b"
           ]
         },
         {
@@ -4732,6 +4812,38 @@
           ]
         },
         {
+          "id": "impact-b61c1472711977d1c5656de6",
+          "title": "Personal carers entering employment",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(1), particularly Article 6(1)(a), read with Article 2(2).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An age-related vocational-training measure benefits unemployed middle-aged applicants returning after providing unpaid personal care. They financially support nobody and do not fall within the young-person or older-person examples.",
+          "rationale": "Assuming both restrictions prevail, these applicants fall outside the named category. They remain eligible for measures justified under the open Article 6(1) test, and inclusion in the example would not remove its legitimate-aim and proportionality requirements. The broader Greek reference to older people also changes an illustration without establishing a separate exemption. No concrete changed legal decision follows from either descriptive difference.\nCounterreading: The express coverage of access to employment and vocational training resists limiting workers to people already employed. Supporting others can encompass practical care, while German care terminology and French and Italian dependants terminology support a shared concern for dependency responsibilities. A strict current-worker-and-financial-provider restriction is therefore less persuasive in the multilingual context.",
+          "uncertainty": "Greek wording may exclude unpaid personal carers who do not financially support another person from this express example. Article 6(1)(a) is non-exhaustive, however, and the same legitimate-aim and necessity test remains available. A different outcome for such a measure has not been established.",
+          "assessed_at": "2026-10-14T06:55:17.482606Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "7bb2f074ae22ecfb23326f5d"
+          ]
+        },
+        {
+          "id": "impact-aac68088dbe9cf0effba236e",
+          "title": "Express protection after termination is limited to employment relationships",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its general-access guarantee; Article 9(3); Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A former vocational trainee brings a timely discrimination claim concerning a non-employment training relationship. The employment-specific survival clause is invoked to contest access.",
+          "rationale": "Töösuhe specifies employment, whereas the English text refers to a relationship generally. Nevertheless, the Estonian paragraph independently guarantees procedures to everyone who considers themselves wronged through unequal treatment. Accepting the employment-specific meaning does not establish that former non-employees lose access. No concrete changed access outcome survives Article 9(1)'s independent guarantee, so no conditional impact tier is assigned.\nCounterreading: Isegi juhul introduces an additional assurance for ended employment, not an exhaustive condition for access. The general guarantee continues to cover everyone otherwise within the Directive.",
+          "uncertainty": "The Estonian employment-specific survival phrase may give former employees an additional assurance without excluding others. Article 3(1)(b) covers vocational training, and Article 9(1) grants access to all persons who consider themselves wronged, subject to Article 9(3) deadlines. The hypothetical assumes a timely claim on a protected ground. No identified provision removes that general access solely because a non-employment training relationship ended. A changed access outcome remains unestablished even if the disputed phrase is read narrowly.",
+          "assessed_at": "2026-10-14T06:56:30.769419Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "040d646aa6e3d0dd904d8880"
+          ]
+        },
+        {
           "id": "impact-5eb7d0b4d663f5cc97347dfb",
           "title": "Possible requirement for both judicial and administrative remedies",
           "legal_anchor": "Directive 2000/78/EC, Article 9(1), compared with Article 9(2) and subject to Article 9(3).",
@@ -4748,6 +4860,22 @@
           ]
         },
         {
+          "id": "impact-53e89c7f9c0399b0df7ab135",
+          "title": "Scheme entry versus benefit eligibility",
+          "legal_anchor": "Directive 2000/78/EC, Articles 6(2), 6(1), including 6(1)(b), and 2(2)(a).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "National law relies on Article 6(2) for an occupational retirement scheme that excludes employees under 25 from membership. Membership admission is legally distinct from eligibility for benefits; the restriction involves no actuarial calculation and neither originates in nor produces sex discrimination.",
+          "rationale": "If benefit eligibility excludes separate admission, the membership restriction loses that specific exemption. The provision concerning different ages for employee categories elaborates the covered thresholds; it does not independently exempt every age restriction. The actuarial limb does not cover a separate membership exclusion. Article 6(1), including employment advantages under paragraph (b), may provide another justification, but cannot restore eligibility under Article 6(2).\nCounterreading: Swedish eligibility language can encompass entry as a preliminary condition of obtaining future benefits. German membership terminology, French adhesion terminology and Dutch entry-age terminology expressly distinguish admission from benefit entitlement. Read together with the scheme context, these support harmonization that includes admission; the benefit-only reading is less persuasive as the ultimate multilingual interpretation.",
+          "uncertainty": "The scenario depends on an actual scheme treating membership separately from benefit eligibility. National law must exercise Article 6(2), and the age rule must satisfy its sex-discrimination condition. The multilingual interpretation may still include entry ages. Article 6(1) could provide an independent justification, so loss of this specific exemption does not establish unlawful discrimination.",
+          "assessed_at": "2026-10-14T06:55:17.483105Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "5dbcb287724743d488675771"
+          ]
+        },
+        {
           "id": "impact-2521cf9b44c7fdd535174327",
           "title": "Training-capability limb omitted; refusal outcome unresolved",
           "legal_anchor": "Directive 2000/78/EC, recital 17 and Article 2(1)–(2), including Article 2(2)(b)(i)–(ii); Articles 3 and 5 are material omitted dependencies.",
@@ -4761,6 +4889,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "3b448f0c8f9fb2a6bc1b5820"
+          ]
+        },
+        {
+          "id": "impact-8dff4b63d7232effc5d21ca2",
+          "title": "Membership before acquisition of benefit rights",
+          "legal_anchor": "Directive 2000/78/EC, Articles 6(2), 6(1), including 6(1)(b), and 2(2)(a).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "National law invokes Article 6(2) for an occupational retirement scheme admitting employees only from age 25. Admission is legally separate from the granting or acquisition of benefit rights. The rule does not calculate benefits and neither originates in nor produces sex discrimination.",
+          "rationale": "Assuming that the Polish wording excludes separate scheme admission, the entry restriction falls outside Article 6(2). The reference to different ages for employees or categories remains linked to the covered age thresholds. The benefit-calculation limb does not independently cover an admission restriction. Article 6(1) may justify an employment advantage subject to a minimum age, but its legitimate-aim and proportionality requirements constitute a separate route.\nCounterreading: Acquisition of benefit rights can begin with joining a scheme, allowing the Polish wording to encompass admission. German, French and Hungarian expressly distinguish entry from entitlement, supporting that harmonizing interpretation. A strict benefit-rights-only reading is therefore less persuasive in the multilingual context, although the authentic versions do not settle every scheme structure.",
+          "uncertainty": "Membership may itself create pension rights in an actual scheme, eliminating the stated separation from entitlement. National law must exercise the Article 6(2) option, and the rule must satisfy its sex-discrimination condition. The multilingual interpretation may encompass admission despite the narrower wording. A separate Article 6(1) justification may also remain available, so no overall discrimination outcome is determined.",
+          "assessed_at": "2026-10-14T06:55:17.482975Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "695b7ac78d82278cc7531d13"
           ]
         },
         {
@@ -4796,22 +4940,6 @@
           ]
         },
         {
-          "id": "impact-aac68088dbe9cf0effba236e",
-          "title": "Express protection after termination is limited to employment relationships",
-          "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its general-access guarantee; Article 9(3); Article 2.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "A former vocational trainee brings a timely discrimination claim concerning a non-employment training relationship. The employment-specific survival clause is invoked to contest access.",
-          "rationale": "Töösuhe specifies employment, whereas the English text refers to a relationship generally. Nevertheless, the Estonian paragraph independently guarantees procedures to everyone who considers themselves wronged through unequal treatment. Accepting the employment-specific meaning does not establish that former non-employees lose access. No concrete changed access outcome survives that independent limb on the supplied evidence, so no conditional impact tier is assigned.\nCounterreading: Isegi juhul introduces an additional assurance for ended employment, not an exhaustive condition for access. The general guarantee continues to cover everyone otherwise within the Directive.",
-          "uncertainty": "The Estonian employment-specific survival phrase may give former employees an additional assurance without excluding others. Article 3(1)(b) covers vocational training, and Article 9(1) grants access to all persons who consider themselves wronged, subject to Article 9(3) deadlines. The hypothetical assumes a timely claim on a protected ground. No identified provision removes that general access solely because a non-employment training relationship ended. A changed access outcome remains unestablished even if the disputed phrase is read narrowly.",
-          "assessed_at": "2026-10-14T06:32:44.929015Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "040d646aa6e3d0dd904d8880"
-          ]
-        },
-        {
           "id": "impact-51845fda386bfd17ad8e6798",
           "title": "Training action omitted; affirmative entitlement not established",
           "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(2)(a), (2)(b)(i)–(ii); omitted operative training and accommodation provisions in Articles 3 and 5.",
@@ -4828,6 +4956,22 @@
           ]
         },
         {
+          "id": "impact-02aa8ce89dc3febc3b89303d",
+          "title": "Completed removal of discriminatory provisions",
+          "legal_anchor": "Directive 2000/78/EC, Article 16(b)'s abolition, invalidation and amendment alternatives, read with Article 2.",
+          "impact_level": "high",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An undertaking retains a recruitment rule established to constitute prohibited discrimination, with no applicable exception. Courts can invalidate it, but no abolition, declaration of invalidity or corrective amendment has occurred, and it is not automatically void.",
+          "rationale": "If completed correction is required, an effective invalidation procedure alone no longer satisfies Article 16(b). Abolition, invalidation or an amendment removing the discriminatory content would each satisfy the stronger reading. Article 16(a) does not independently remove the private rule. The change reaches all listed categories and concerns the legal compliance requirement itself.\nCounterreading: All authentic versions have equal authority. Lithuanian's introductory duty to ensure correction could describe an effective framework operating when invoked. French, German and Dutch expressly preserve available invalidation; Polish, Croatian and Romanian use completed-result wording. A functional reading centered on effective corrective mechanisms offers a substantial reconciliation, so the stronger completed-result interpretation is not established as the ultimate meaning.",
+          "uncertainty": "No actual discriminatory application, compensation entitlement or national compliance failure is established. Automatic legal invalidity would remove the difference, and the wording does not necessarily require separate proceedings or individual administrative action against every provision.\nUnresolved: No additional dependency prevents the stated conditional compliance difference, provided the rule is within scope, established as discriminatory and remains legally intact despite an effective invalidation route.",
+          "assessed_at": "2026-10-14T07:01:33.989896Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "b3f636c5411f0b6bd7152540"
+          ]
+        },
+        {
           "id": "impact-a7df7f036a10781a7f84107f",
           "title": "Care and maintenance responsibilities",
           "legal_anchor": "Directive 2000/78/EC, Article 6(1), including Article 6(1)(a), read with Article 2(2).",
@@ -4841,6 +4985,38 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "04f3491e08cd746405b6f843"
+          ]
+        },
+        {
+          "id": "impact-0b60d2599431429ce82de983",
+          "title": "Retirement ages and scheme admission",
+          "legal_anchor": "Directive 2000/78/EC, Articles 6(2), 6(1), including 6(1)(b), and 2(2)(a).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "National law invokes Article 6(2) for an occupational pension scheme excluding employees under 25 from membership. Admission is distinct from retirement and acquisition of pension rights. The rule involves no actuarial calculation and neither originates in nor produces sex discrimination.",
+          "rationale": "If the Slovenian wording covers retirement and pension-rights ages but excludes distinct admission ages, the entry restriction loses Article 6(2) eligibility. Different ages for employee categories elaborate the covered thresholds, while the actuarial limb does not independently exempt membership exclusion. Article 6(1) may offer another justification without restoring the specific exemption. The scheme context does not establish a general exemption for compulsory dismissal.\nCounterreading: Retirement terminology can describe pension-scheme conditions, and acquiring pension rights may encompass entry. German, French and Dutch expressly distinguish membership from entitlement, supporting an interpretation that includes admission while preserving the occupational-scheme limitation. Croatian's similar retirement wording reinforces the need for contextual reconciliation but does not itself establish a dismissal exemption.",
+          "uncertainty": "The admission scenario requires an actual scheme to separate membership from pension-rights acquisition; that distinction may disappear under real scheme terms. National law must exercise Article 6(2), and the rule must neither originate in nor produce sex discrimination. The multilingual reading may still include admission, and a separate Article 6(1) justification could remain available. No compulsory-retirement or overall discrimination outcome is determined.",
+          "assessed_at": "2026-10-14T06:55:17.482808Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "71e233a60ebe897927125a79"
+          ]
+        },
+        {
+          "id": "impact-52d81b573056c5a202621a04",
+          "title": "Employment-only contractual correction",
+          "legal_anchor": "Directive 2000/78/EC, Articles 2, 3(1)(b) and 16(b).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A private vocational-training admission agreement contains a term established to exclude applicants because of sexual orientation, with no applicable exception. It creates no employment relationship, and the term appears in no collective, undertaking or professional rule.",
+          "rationale": "Article 3(1)(b) covers access to vocational training in the public and private sectors. If Czech Article 16(b)'s contractual limb reaches only employment and collective agreements, this separate admission agreement loses that Article's express voiding-or-amendment duty; the Directive's substantive protection and other remedies still apply.\nCounterreading: All authentic versions have equal authority. German, Finnish and Italian also specify employment contracts, whereas French and Dutch use broader contractual language. Harmonization could either give the contractual category a broader occupational meaning or preserve an employment-specific limb alongside protection elsewhere. The Directive's general purpose alone does not resolve that choice.",
+          "uncertainty": "The conditional effect depends on the agreement truly being outside employment and every other Article 16(b) category. The authentic versions may be reconciled by a broader reading of the contractual limb. No actual national failure or lawful discrimination follows.\nUnresolved: The agreement’s precise classification and the reach of the contractual limb under a multilingual reading remain open; the conditional change to the express Article 16(b) duty is otherwise identifiable.",
+          "assessed_at": "2026-10-14T07:04:49.177912Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "908965b1d3a87f27d978460b"
           ]
         },
         {
@@ -4873,6 +5049,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "2faa0ddca91b97896d5b5095"
+          ]
+        },
+        {
+          "id": "impact-ec28666832094326284fe8da",
+          "title": "Discriminatory origin versus consequences",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2)'s final condition, read with Articles 6(1) and 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A Member State has exercised the Article 6(2) option for an occupational pension-entitlement age. The age rule arose independently of sex discrimination but causes legally established indirect sex discrimination. Absence of discriminatory origin is assumed separately from absence of discriminatory intent.",
+          "rationale": "If the Slovenian condition tests only origin, the stated rule passes that condition; an effects-based condition excludes it from Article 6(2). The different-employee-ages and actuarial limbs remain subject to the same final condition and do not bypass it. Another age justification under Article 6(1) would not erase this change in eligibility for the specific exemption. Passing the age exemption does not authorize sex discrimination.\nCounterreading: The safeguard's protective function and the consequence-based wording in German, French and Croatian favour reading Slovenian as preventing discriminatory effects. The literal reversal of causal direction is real, but an origin-only condition is unlikely to prevail in a coherent multilingual interpretation.",
+          "uncertainty": "The scenario assumes legally established indirect sex discrimination but an age rule with an origin independent of sex discrimination; absence of discriminatory intent alone would not suffice. Article 6(2) concerns only the age exemption. Actual discriminatory effects and the rule's origin would need proof under applicable sex-equality law, and this assessment does not determine overall lawfulness under that law.",
+          "assessed_at": "2026-10-14T06:55:17.482904Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "71df8a621bcaad63f3db4872"
           ]
         },
         {
@@ -4940,6 +5132,22 @@
           ]
         },
         {
+          "id": "impact-8c31678e3f71799bcacd3209",
+          "title": "Individual contracts outside collective wording",
+          "legal_anchor": "Directive 2000/78/EC, Article 16(a)–(b), read with Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An individually negotiated employment contract contains a term established to discriminate unlawfully because of sexual orientation. The term is unconnected with any collective agreement and appears in no undertaking, professional or organisational rule.",
+          "rationale": "If the Maltese phrase covers only collective-agreement contracts, this term loses the express Article 16(b) requirement for invalidation, availability of invalidation or amendment. None of the other listed private instruments captures it as described, and Article 16(a) addresses public provisions. This is a concrete change in a specific corrective obligation even though substantive discrimination remains prohibited.\nCounterreading: All authentic versions have equal authority. Greek, Dutch and Swedish expressly include individual contracts, and Czech and Finnish expressly include employment contracts. These formulations and the provision's corrective purpose strongly support reading Maltese as encompassing individual employment contracts. Bulgarian's collective-contract wording supports the narrower textual possibility, but does not establish the common interpretation.",
+          "uncertainty": "The result does not establish that the term becomes enforceable, that other remedies disappear, or that any actual Member State has failed to comply. National law may already provide the same correction independently.\nUnresolved: No unresolved dependency prevents the stated difference in the express Article 16(b) duty. Incorporation into another listed instrument would remove the example from the disputed boundary.",
+          "assessed_at": "2026-10-14T07:01:33.989794Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "ad0b6dc071990a3829eefb02"
+          ]
+        },
+        {
           "id": "impact-6cf3eb9752177136c8ed2c4f",
           "title": "Retirement ages and scheme admission",
           "legal_anchor": "Directive 2000/78/EC, Article 6(2), including its differentiated-age and actuarial clauses; Articles 6(1), including (b), and 2(2), (5).",
@@ -4969,6 +5177,38 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "3e306e54768db8186b56df4d"
+          ]
+        },
+        {
+          "id": "impact-f51f31f9e0a0ff3f9226206f",
+          "title": "Available amendment versus completed amendment",
+          "legal_anchor": "Directive 2000/78/EC, Article 16(b)'s alternative corrective measures, read with Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "National law provides an effective judicial power to amend an undertaking's recruitment rule established to be discriminatory, but no route to declare it void. No amendment has occurred, and the rule is not automatically invalid.",
+          "rationale": "If Estonian permission extends to amendment, the effective amendment power could satisfy that alternative. A reading requiring completed amendment would not accept it while the rule remains unchanged. Available invalidation would independently satisfy Article 16(b), so its absence is essential. Article 16(a) does not correct the private rule, and Article 2's substantive prohibition remains.\nCounterreading: The authentic versions have equal authority. Estonian's infinitive construction plausibly places amendment under permission, while Slovak and Slovenian also admit a possibility extending to amendment. French, German and Finnish distinguish possible invalidation from completed amendment. The requirement to take necessary measures supports an effective corrective mechanism rather than empty permission, but does not conclusively settle whether amendment must already have occurred.",
+          "uncertainty": "The conclusion concerns this specific compliance duty, not the legality of applying the discriminatory rule or compliance with every other obligation. Ordinary freedom to negotiate an amendment may be insufficient; the scenario therefore uses an effective judicial corrective power.\nUnresolved: No further dependency prevents the stated conditional Article 16(b) difference. An available invalidation route, automatic invalidity or completed corrective amendment would eliminate it.",
+          "assessed_at": "2026-10-14T07:01:33.989612Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "ab5870850686f329b7a9b4b1"
+          ]
+        },
+        {
+          "id": "impact-a4959628593603b8589c834c",
+          "title": "Professional codes outside organisational statutes",
+          "legal_anchor": "Directive 2000/78/EC, Articles 2, 3(1)(a) and 16(a)–(b).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A private professional code contains a religion-based entry condition established to be unlawful, with no applicable exception. It is neither an organisational statute nor a contractual term, undertaking rule, or legislative, regulatory or administrative provision.",
+          "rationale": "A strict organisational-statutes reading could exclude the code from Article 16(b)'s correction duty. Article 16(a) and the remaining contractual and undertaking-rule categories do not capture the example as described. The additional Greek reference to profit-making and non-profit-making organisations does not necessarily capture a separate code or extend the Directive beyond its substantive scope.\nCounterreading: The authentic versions have equal authority. French and Danish also use statutes terminology, which can describe substantive professional regulation rather than a document's formal title. Finnish and Italian refer more broadly to rules governing independent activity, while Swedish combines association rules with professional rules. Together, these support a functional reading that could encompass the code; the restrictive Greek reading is therefore not established as the ultimate interpretation.",
+          "uncertainty": "Article 3(1)(a) covers access to occupations, including private-sector access. What remains unproven is whether a private code with real effect on entry can sit outside an organisational statute, contract, undertaking rule, public provision and every other Article 16 category. Its institutional source and legal force determine that boundary; other remedies may still apply.\nUnresolved: Can an operative non-contractual private entry code actually remain outside all those Article 16 categories?",
+          "assessed_at": "2026-10-14T07:05:53.495409Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "51798c23c882c36839e938b6"
           ]
         },
         {
@@ -5065,6 +5305,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "2ac627822eedfac820cff71f"
+          ]
+        },
+        {
+          "id": "impact-754f3e3d620e52a82f4cd51a",
+          "title": "Independent trades outside intellectual professions",
+          "legal_anchor": "Directive 2000/78/EC, Articles 2, 3(1)(a) and 16(a)–(b).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A private code contains a religion-based entry condition for an independent manual trade established to be unlawful, with no applicable exception. It is neither contractual nor an undertaking rule, public regulatory provision, or rule of a workers’ or employers’ organisation.",
+          "rationale": "If the Hungarian professional category is restricted to intellectual liberal professions, the code could escape its express correction duty. The contractual and organisational limbs remain operative, and public trade-access rules remain covered by Article 16(a). The example therefore depends on a private code genuinely outside those categories.\nCounterreading: The authentic versions have equal authority. Italian and Slovenian refer broadly to autonomous work or self-employment, and Finnish covers independent professional activity. German and French use liberal-profession terminology. A functional occupational interpretation could reconcile these formulations, although the Hungarian intellectual qualifier gives the restrictive reading a textual basis. Its ultimate acceptance remains uncertain.",
+          "uncertainty": "Article 3(1)(a) covers access to independent occupations. What remains unproven is whether a private rule governing entry to a manual trade can operate outside contracts, organisational or undertaking rules, and public regulation. Its institutional source and legal force determine that boundary; other remedies may still apply.\nUnresolved: Can an operative private trade-access code actually remain outside all those Article 16 categories?",
+          "assessed_at": "2026-10-14T07:05:53.495807Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "b15080573720390da81ca619"
           ]
         }
       ]
@@ -10663,10 +10919,11 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 6302,
-        "reviewed_units": 274,
+        "reviewed_units": 548,
         "total_languages": 24,
-        "reviewed_languages": 2,
+        "reviewed_languages": 3,
         "reviewed_language_codes": [
+          "es",
           "fr"
         ]
       },
@@ -12483,6 +12740,314 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T05:20:16.473132Z"
+          }
+        },
+        {
+          "id": "34b16a494d0d90b2f8378b2b",
+          "passage_id": "p0065",
+          "english_quote": "This Regulation does not provide the legal basis for profiling of recipients of the services with a view to the possible identification of criminal offences by providers of hosting services.",
+          "title": "Profiling clarification concerns offences committed by hosting providers",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English clarifies that the Regulation supplies no legal basis for hosting providers to profile recipients to detect crimes. Spanish expressly limits the described purpose to detecting crimes committed by hosting providers, potentially narrowing that clarification. Neither wording itself authorises profiling, and the applicable data-protection safeguards remain.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "El presente Reglamento no sienta el fundamento jurídico para elaborar perfiles de los destinatarios de los servicios con miras a la posible detección de delitos cometidos por los prestadores de servicios de alojamiento de datos.",
+              "translation": "This Regulation does not establish the legal basis for profiling recipients of the services with a view to the possible detection of criminal offences committed by providers of hosting services.",
+              "explanation": "English clarifies that the Regulation supplies no legal basis for hosting providers to profile recipients to detect crimes. Spanish expressly limits the described purpose to detecting crimes committed by hosting providers, potentially narrowing that clarification. Neither wording itself authorises profiling, and the applicable data-protection safeguards remain.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:53:09.046814Z"
+          }
+        },
+        {
+          "id": "1a6a5d627740715c1f1e7633",
+          "passage_id": "p0099",
+          "english_quote": "To this end, they should, where appropriate, conduct their risk assessments and design their risk mitigation measures with the involvement of representatives of the recipients of the service, representatives of groups potentially impacted by their services, independent experts and civil society organisations.",
+          "title": "Stakeholder participation lacks an appropriateness condition",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English makes stakeholder participation conditional on appropriateness; Spanish states the expectation without that condition. Spanish could therefore support expecting participation in every risk assessment and mitigation-design exercise. This is a difference in recital guidance, not a standalone operative duty.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "A tal efecto, deben realizar sus evaluaciones de riesgos y diseñar sus medidas de reducción del riesgo contando con la participación de representantes de los destinatarios del servicio, representantes de grupos potencialmente afectados por sus servicios, expertos independientes y organizaciones de la sociedad civil.",
+              "translation": "To this end, they should conduct their risk assessments and design their risk mitigation measures with the participation of representatives of the recipients of the service, representatives of groups potentially affected by their services, independent experts and civil society organisations.",
+              "explanation": "English makes stakeholder participation conditional on appropriateness; Spanish states the expectation without that condition. Spanish could therefore support expecting participation in every risk assessment and mitigation-design exercise. This is a difference in recital guidance, not a standalone operative duty.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:53:09.048757Z"
+          }
+        },
+        {
+          "id": "2d657fc726f5afbc71b9bd53",
+          "passage_id": "p0183",
+          "english_quote": "the number of notices processed by using automated means",
+          "title": "Automation count is limited to exclusively automated processing",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes notices processed using automation, including mixed human and automated processing. Spanish limits the count to exclusively automated processing, potentially reducing the number disclosed under Article 15(1)(b).",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "el número de notificaciones tratadas únicamente por medios automatizados",
+              "translation": "the number of notices processed solely by automated means",
+              "explanation": "English includes notices processed using automation, including mixed human and automated processing. Spanish limits the count to exclusively automated processing, potentially reducing the number disclosed under Article 15(1)(b).",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:53:09.052874Z"
+          }
+        },
+        {
+          "id": "0a943c814707408d9eb4fd00",
+          "passage_id": "p0194",
+          "english_quote": "the median time needed for completing the dispute settlement procedures",
+          "title": "Average rather than median dispute-settlement duration",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 24 requires median dispute-settlement duration in English but average duration in Spanish. If average means arithmetic mean, unusually long disputes could materially change the reported statistic.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "el tiempo medio necesario para completar los procedimientos de resolución de los litigios",
+              "translation": "the average time needed to complete the dispute settlement procedures",
+              "explanation": "Article 24 requires median dispute-settlement duration in English but average duration in Spanish. If average means arithmetic mean, unusually long disputes could materially change the reported statistic.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:53:09.054001Z"
+          }
+        },
+        {
+          "id": "2cb215525993b164d8c42434",
+          "passage_id": "p0137",
+          "english_quote": "the Board in case of issues involving at least three Member States",
+          "title": "Board-request threshold excludes issues involving exactly three States",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Recital 128 includes issues involving exactly three Member States in English, whereas Spanish requires at least four. Spanish could therefore narrow the circumstances contemplated for Board requests for investigation or enforcement.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "la Junta en caso de problemas que afecten a más de tres Estados miembros",
+              "translation": "the Board in the case of issues affecting more than three Member States",
+              "explanation": "Recital 128 includes issues involving exactly three Member States in English, whereas Spanish requires at least four. Spanish could therefore narrow the circumstances contemplated for Board requests for investigation or enforcement.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:53:09.049871Z"
+          }
+        },
+        {
+          "id": "f3470824cd2c6e8d6e267c97",
+          "passage_id": "p0183",
+          "english_quote": "the median time needed to inform the authority issuing the order, or any other authority specified in the order, of its receipt, and to give effect to the order;",
+          "title": "Average rather than median processing times in intermediary reports",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 15 specifies median processing times in English and average times in Spanish. Reading average as the arithmetic mean could produce materially different reported values for identical cases, particularly when a few cases take unusually long.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "el tiempo medio necesario para informar a la autoridad que haya dictado la orden, o a cualquier otra autoridad especificada en la orden, de su recepción, y para dar curso a la orden;",
+              "translation": "the average time needed to inform the authority that issued the order, or any other authority specified in the order, of its receipt, and to give effect to the order;",
+              "explanation": "Article 15 specifies median processing times in English and average times in Spanish. Reading average as the arithmetic mean could produce materially different reported values for identical cases, particularly when a few cases take unusually long.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:53:09.051893Z"
+          }
+        },
+        {
+          "id": "610dec55dd50619c9bb5e5f7",
+          "passage_id": "p0169",
+          "english_quote": "allows users to input queries in order to perform searches of, in principle, all websites, or all websites in a particular language",
+          "title": "Language-specific search definition omits comprehensive coverage",
+          "category": "definition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires searches covering, in principle, all websites in the chosen language. Spanish omits “all” from that alternative, potentially bringing services that search only selected websites within the definition and its associated obligations.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "permite a los usuarios introducir consultas para hacer búsquedas de, en principio, todos los sitios web, o de sitios web en un idioma concreto",
+              "translation": "allows users to enter queries to perform searches of, in principle, all websites, or of websites in a particular language",
+              "explanation": "English requires searches covering, in principle, all websites in the chosen language. Spanish omits “all” from that alternative, potentially bringing services that search only selected websites within the definition and its associated obligations.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:53:09.057807Z"
+          }
+        },
+        {
+          "id": "bcc9b5a69268f513d8ed76a8",
+          "passage_id": "p0262",
+          "english_quote": "shall not disclose information acquired or exchanged by them pursuant to this Regulation and of the kind covered by the obligation of professional secrecy.",
+          "title": "Spanish nondisclosure wording may cover non-confidential regulatory information",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English prohibits disclosure of information obtained or exchanged under the Regulation that is also covered by professional secrecy. Spanish separately prohibits disclosure of regulatory information and professionally protected information, potentially extending the prohibition to non-confidential material. The express reservation for information exchange and use still applies.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "no revelarán información adquirida o intercambiada por ellos conforme a lo dispuesto en el presente Reglamento ni información protegida por la obligación de secreto profesional.",
+              "translation": "shall not disclose information acquired or exchanged by them pursuant to this Regulation, nor information protected by the obligation of professional secrecy.",
+              "explanation": "English prohibits disclosure of information obtained or exchanged under the Regulation that is also covered by professional secrecy. Spanish separately prohibits disclosure of regulatory information and professionally protected information, potentially extending the prohibition to non-confidential material. The express reservation for information exchange and use still applies.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:56:37.583871Z"
+          }
+        },
+        {
+          "id": "83b20079ffdff227cda59c71",
+          "passage_id": "p0209",
+          "english_quote": "are independent from, and do not have any conflicts of interest with, the provider of very large online platforms or of very large online search engines concerned and any legal person connected to that provider;",
+          "title": "Auditor conflict prohibition may omit connected legal persons",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly prohibits auditor conflicts with both the provider and connected legal persons. Spanish expressly directs the general conflict prohibition only at the provider, potentially leaving some conflicts involving connected persons outside that prohibition, despite the remaining independence safeguards.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "sean independientes del prestador de plataformas en línea de muy gran tamaño o de motores de búsqueda en línea de muy gran tamaño de que se trate y de cualquier persona jurídica vinculada a él, y no tengan ningún conflicto de intereses con él;",
+              "translation": "are independent of the provider of very large online platforms or of very large online search engines concerned and of any legal person connected to that provider, and have no conflict of interests with that provider;",
+              "explanation": "English expressly prohibits auditor conflicts with both the provider and connected legal persons. Spanish expressly directs the general conflict prohibition only at the provider, potentially leaving some conflicts involving connected persons outside that prohibition, despite the remaining independence safeguards.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:56:37.584327Z"
+          }
+        },
+        {
+          "id": "026ca2d685416f4739429e54",
+          "passage_id": "p0252",
+          "english_quote": "to the Digital Services Coordinators, the Commission and the Board an action plan",
+          "title": "Spanish action-plan communication names only one coordinator",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 75(2) in English requires the provider to communicate its action plan to Digital Services Coordinators in the plural. Spanish names a single coordinator, potentially narrowing the initial distribution duty. Later Commission updates concern a separate duty.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "al coordinador de servicios digitales, a la Comisión y a la Junta un plan de acción",
+              "translation": "to the Digital Services Coordinator, the Commission and the Board an action plan",
+              "explanation": "Article 75(2) in English requires the provider to communicate its action plan to Digital Services Coordinators in the plural. Spanish names a single coordinator, potentially narrowing the initial distribution duty. Later Commission updates concern a separate duty.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:56:37.584792Z"
+          }
+        },
+        {
+          "id": "2b086000f27652661558fdca",
+          "passage_id": "p0252",
+          "english_quote": "that the implementation of the action plan is insufficient to terminate or remedy the infringement.",
+          "title": "Spanish enforcement trigger omits deficient implementation of an action plan",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly permits further enforcement under Article 75(4)(c) for insufficient implementation. Spanish instead refers to an insufficient plan, potentially allowing a provider with an adequate but poorly executed plan to dispute that particular trigger. The surrounding monitoring provisions support a harmonizing interpretation.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "que el plan de acción es insuficiente para poner fin a la infracción o subsanarla.",
+              "translation": "that the action plan is insufficient to terminate or remedy the infringement.",
+              "explanation": "English expressly permits further enforcement under Article 75(4)(c) for insufficient implementation. Spanish instead refers to an insufficient plan, potentially allowing a provider with an adequate but poorly executed plan to dispute that particular trigger. The surrounding monitoring provisions support a harmonizing interpretation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T06:56:37.585201Z"
           }
         }
       ],
