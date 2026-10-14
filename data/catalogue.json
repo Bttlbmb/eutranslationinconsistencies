@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T06:31:17.438737Z",
+  "generated_at": "2026-10-14T06:34:23.404399Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4748,6 +4748,22 @@
           ]
         },
         {
+          "id": "impact-aac68088dbe9cf0effba236e",
+          "title": "Express protection after termination is limited to employment relationships",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its general-access guarantee; Article 9(3); Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A former vocational trainee brings a timely discrimination claim concerning a non-employment training relationship. The employment-specific survival clause is invoked to contest access.",
+          "rationale": "Töösuhe specifies employment, whereas the English text refers to a relationship generally. Nevertheless, the Estonian paragraph independently guarantees procedures to everyone who considers themselves wronged through unequal treatment. Accepting the employment-specific meaning does not establish that former non-employees lose access. No concrete changed access outcome survives that independent limb on the supplied evidence, so no conditional impact tier is assigned.\nCounterreading: Isegi juhul introduces an additional assurance for ended employment, not an exhaustive condition for access. The general guarantee continues to cover everyone otherwise within the Directive.",
+          "uncertainty": "The Estonian employment-specific survival phrase may give former employees an additional assurance without excluding others. Article 3(1)(b) covers vocational training, and Article 9(1) grants access to all persons who consider themselves wronged, subject to Article 9(3) deadlines. The hypothetical assumes a timely claim on a protected ground. No identified provision removes that general access solely because a non-employment training relationship ended. A changed access outcome remains unestablished even if the disputed phrase is read narrowly.",
+          "assessed_at": "2026-10-14T06:32:44.929015Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "040d646aa6e3d0dd904d8880"
+          ]
+        },
+        {
           "id": "impact-6bb3b141a7607942a4147d0c",
           "title": "Accommodation wording diverges; changed operative outcome unresolved",
           "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(1), (2)(a), (2)(b)(i)–(ii) and (5); expressly cross-referenced Article 5.",
@@ -4876,6 +4892,22 @@
           ]
         },
         {
+          "id": "impact-8470820bd43001e24e981b02",
+          "title": "Post-relationship procedural guarantee specifies employment",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its all-persons guarantee; Article 9(3); Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A former professional-association member brings a timely discrimination claim about treatment during membership. Continued access is contested because the ended relationship was not employment.",
+          "rationale": "Työsuhde specifies employment, narrowing the express survival assurance. Nevertheless, the surrounding Finnish sentence guarantees procedures to all persons who consider themselves wronged, and the employment phrase is an inclusive parenthesis. Retaining its employment-specific meaning does not establish an exclusion from the general guarantee. A concrete changed access outcome therefore remains unresolved, and no impact tier is awarded.\nCounterreading: Myös adds an express assurance for former employees rather than limiting other claimants. Other authentic versions reinforce continuity, while the Finnish general-access wording itself supports protection without expanding työsuhde beyond employment.",
+          "uncertainty": "The Finnish employment-specific parenthesis may give former employees an additional assurance without excluding others. Article 3(1)(d) covers membership of professional organisations, and Article 9(1) grants access to all persons who consider themselves wronged, subject to Article 9(3) deadlines. The hypothetical assumes a timely claim on a protected ground. No identified provision removes that general access solely because professional-organisation membership ended. A changed access outcome remains unestablished even if the disputed phrase is read narrowly.",
+          "assessed_at": "2026-10-14T06:32:44.929173Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "6b2f7f7277996c3eca452876"
+          ]
+        },
+        {
           "id": "impact-aa5ac50ebdcadea209af800a",
           "title": "Conditional exclusion of administrative complainants",
           "legal_anchor": "Directive 2000/78/EC, Article 11; Articles 1–10, 15 and 17; recital 30.",
@@ -4892,22 +4924,6 @@
           ]
         },
         {
-          "id": "impact-8470820bd43001e24e981b02",
-          "title": "Post-relationship procedural guarantee specifies employment",
-          "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its all-persons guarantee; Article 9(3); Article 2.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "A former professional-association member brings a timely discrimination claim about treatment during membership. Continued access is contested because the ended relationship was not employment.",
-          "rationale": "Työsuhde specifies employment, narrowing the express survival assurance. Nevertheless, the surrounding Finnish sentence guarantees procedures to all persons who consider themselves wronged, and the employment phrase is an inclusive parenthesis. Retaining its employment-specific meaning does not establish an exclusion from the general guarantee. A concrete changed access outcome therefore remains unresolved, and no impact tier is awarded.\nCounterreading: Myös adds an express assurance for former employees rather than limiting other claimants. Other authentic versions reinforce continuity, while the Finnish general-access wording itself supports protection without expanding työsuhde beyond employment.",
-          "uncertainty": "The Finnish employment-specific parenthesis may give an additional assurance to former employees without excluding others. Article 3(1)(d) expressly covers membership of professional organisations; it was omitted from the compact model packet, but is present in the archived Directive. Article 9(1) still gives all persons who consider themselves wronged access to procedures, subject to Article 9(3) deadlines. The hypothetical assumes a timely protected-ground claim. No provision identified in the archived act removes that general access solely because professional-association membership ended. The changed legal outcome therefore remains unestablished even if the disputed phrase is read narrowly.",
-          "assessed_at": "2026-10-14T06:29:31.788103Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "6b2f7f7277996c3eca452876"
-          ]
-        },
-        {
           "id": "impact-f6e5bf79d59228579aa6219e",
           "title": "Conditional exclusion of administrative complainants",
           "legal_anchor": "Directive 2000/78/EC, Article 11; Articles 1–10, 15 and 17; recital 30.",
@@ -4921,22 +4937,6 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "2ac627822eedfac820cff71f"
-          ]
-        },
-        {
-          "id": "impact-aac68088dbe9cf0effba236e",
-          "title": "Express protection after termination is limited to employment relationships",
-          "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its general-access guarantee; Article 9(3); Article 2.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "A former vocational trainee brings a timely discrimination claim concerning a non-employment training relationship. The employment-specific survival clause is invoked to contest access.",
-          "rationale": "Töösuhe specifies employment, whereas the English text refers to a relationship generally. Nevertheless, the Estonian paragraph independently guarantees procedures to everyone who considers themselves wronged through unequal treatment. Accepting the employment-specific meaning does not establish that former non-employees lose access. No concrete changed access outcome survives that independent limb on the supplied evidence, so no conditional impact tier is assigned.\nCounterreading: Isegi juhul introduces an additional assurance for ended employment, not an exhaustive condition for access. The general guarantee continues to cover everyone otherwise within the Directive.",
-          "uncertainty": "The Estonian employment-specific survival phrase may be read as an additional assurance rather than an exclusion. Article 3(1)(b) expressly covers vocational training; it was omitted from the compact model packet, but is present in the archived Directive. Article 9(1) still gives all persons who consider themselves wronged access to procedures, subject to Article 9(3) deadlines. The hypothetical assumes a timely protected-ground claim. No provision identified in the archived act removes that general access solely because a non-employment training relationship ended. The changed legal outcome therefore remains unestablished even if the disputed phrase is read narrowly.",
-          "assessed_at": "2026-10-14T06:29:31.787758Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "040d646aa6e3d0dd904d8880"
           ]
         }
       ]
