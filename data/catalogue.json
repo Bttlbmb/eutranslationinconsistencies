@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T08:04:03.058388Z",
+  "generated_at": "2026-10-14T08:21:00.567248Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -10146,10 +10146,11 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 110,
-        "reviewed_units": 5,
+        "reviewed_units": 10,
         "total_languages": 23,
-        "reviewed_languages": 2,
+        "reviewed_languages": 3,
         "reviewed_language_codes": [
+          "bg",
           "fr"
         ]
       },
@@ -10324,6 +10325,482 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T07:35:30.655594Z"
+          }
+        },
+        {
+          "id": "07f918d576489e6692f33d99",
+          "passage_id": "p0005",
+          "english_quote": "The claim can be used only for cocoa beverages (with cocoa powder) or for dark chocolate which provide at least a daily intake of 200 mg of cocoa flavanols with a degree of polymerisation 1-10 ( *5 ) .",
+          "title": "Cocoa beverages and chocolate reference a different authorization period",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English links cocoa beverages and dark chocolate to the authorization dated 24 September 2013; Bulgarian links them to 21 April 2015. This could shift the historical five-year exclusive-use period, although both restrictions have expired by the supplied consolidation date.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Претенцията може да се използва само за какаови напитки (с какао на прах) или за черен шоколад, които осигуряват дневен прием на поне 200 mg какаови флаваноли със степен на полимеризация 1-10 ( *6 )",
+              "translation": "The claim may be used only for cocoa beverages (with cocoa powder) or for dark chocolate which provide a daily intake of at least 200 mg of cocoa flavanols with a degree of polymerisation 1-10 ( *6 )",
+              "explanation": "English links cocoa beverages and dark chocolate to the authorization dated 24 September 2013; Bulgarian links them to 21 April 2015. This could shift the historical five-year exclusive-use period, although both restrictions have expired by the supplied consolidation date.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.770477Z"
+          }
+        },
+        {
+          "id": "0ea233e90bf5a1e05d526ff6",
+          "passage_id": "p0005",
+          "english_quote": "Creatine increases physical performance in successive bursts of short-term, high intensity exercise",
+          "title": "Creatine claim specifies endurance rather than physical performance",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Bulgarian identifies improved endurance, while English identifies improved physical performance. Even within short, intense exercise, this could change whether improvements in power or other performance measures fall within the permitted claim.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Креатинът увеличава физическата издръжливост при последователни краткотрайни, високоинтензивни натоварвания",
+              "translation": "Creatine increases physical endurance during successive short-term, high-intensity exertions",
+              "explanation": "Bulgarian identifies improved endurance, while English identifies improved physical performance. Even within short, intense exercise, this could change whether improvements in power or other performance measures fall within the permitted claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.768372Z"
+          }
+        },
+        {
+          "id": "3525fae7b7db09766b2aaba5",
+          "passage_id": "p0005",
+          "english_quote": "Manganese | Manganese contributes to the maintenance of normal bones",
+          "title": "Manganese bone claim names magnesium",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "The Bulgarian manganese entry attributes the bone benefit to magnesium, whereas English attributes it to manganese. This could obscure or change the benefit statement permitted for foods meeting the manganese condition.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Манган | Магнезият допринасят за поддържането на нормалното състояние на костите",
+              "translation": "Manganese | Magnesium contributes to maintaining the normal condition of bones",
+              "explanation": "The Bulgarian manganese entry attributes the bone benefit to magnesium, whereas English attributes it to manganese. This could obscure or change the benefit statement permitted for foods meeting the manganese condition.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.772478Z"
+          }
+        },
+        {
+          "id": "8fbce2ad2ceab506965029a1",
+          "passage_id": "p0005",
+          "english_quote": "Melatonin contributes to the alleviation of subjective feelings of jet lag",
+          "title": "Melatonin travel claim describes bodily adaptation rather than subjective relief",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English limits the benefit to relief of subjective jet-lag feelings. Bulgarian describes adaptation of the body, potentially supporting a broader physiological benefit statement.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Мелатонинът допринася за по-лесната адаптация на организма след пътуване със смяна на часовите зони",
+              "translation": "Melatonin contributes to easier adaptation of the body after travel involving a change of time zones",
+              "explanation": "English limits the benefit to relief of subjective jet-lag feelings. Bulgarian describes adaptation of the body, potentially supporting a broader physiological benefit statement.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.773715Z"
+          }
+        },
+        {
+          "id": "2ebe16697f187746bc148b65",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food in which digestible starch has been replaced by resistant starch so that the final content of resistant starch is at least 14 % of total starch.",
+          "title": "Resistant-starch eligibility concerns solubility rather than digestibility",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Bulgarian requires replacement of soluble starch; English requires replacement of digestible starch. Because these are different properties, the formulations qualifying for the claim could differ despite the shared 14 % threshold.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Претенцията може да бъде използвана само за храни, в които разтворимото нишесте е било заместено с устойчиво, така че крайното съдържание на устойчиво нишесте е най-малко 14 % от общото съдържание на нишесте.",
+              "translation": "The claim may be used only for foods in which soluble starch has been replaced by resistant starch, so that the final content of resistant starch is at least 14 % of the total starch content.",
+              "explanation": "Bulgarian requires replacement of soluble starch; English requires replacement of digestible starch. Because these are different properties, the formulations qualifying for the claim could differ despite the shared 14 % threshold.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.774048Z"
+          }
+        },
+        {
+          "id": "06fb58b341b0b1d6d896ddcc",
+          "passage_id": "p0005",
+          "english_quote": "the beneficial effect is obtained with a daily intake of at least 0,8 g of plant sterols/stanols.",
+          "title": "Plant sterol instructions omit the minimum-dose qualifier",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires information identifying 0.8 g as a minimum effective daily intake. Bulgarian gives that amount without the minimum qualification, potentially changing the dosing information that must accompany the claim.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "благотворният ефект се получава при дневен прием на 0,8 g растителни стероли/станоли.",
+              "translation": "the beneficial effect is obtained with a daily intake of 0.8 g of plant sterols/stanols.",
+              "explanation": "English requires information identifying 0.8 g as a minimum effective daily intake. Bulgarian gives that amount without the minimum qualification, potentially changing the dosing information that must accompany the claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.774431Z"
+          }
+        },
+        {
+          "id": "7d3335a80f24a19e711e1cd4",
+          "passage_id": "p0005",
+          "english_quote": "the claimed effect is obtained with a daily intake of at least 10 g of wheat bran fibre.",
+          "title": "Wheat bran instructions omit the minimum-dose qualifier",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires consumers to be told that 10 g is a minimum daily intake. Bulgarian states 10 g without that qualification, potentially changing the information required for the intestinal-transit claim.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "благотворният ефект се получава при дневен прием на 10 g влакнини от пшенични трици.",
+              "translation": "the beneficial effect is obtained with a daily intake of 10 g of wheat bran fibre.",
+              "explanation": "English requires consumers to be told that 10 g is a minimum daily intake. Bulgarian states 10 g without that qualification, potentially changing the information required for the intestinal-transit claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.774753Z"
+          }
+        },
+        {
+          "id": "df030f4540074958f01dd0e1",
+          "passage_id": "p0005",
+          "english_quote": "The claim can be used only for capsules or tablets containing high-flavanol cocoa extract which provide at least a daily intake of 200 mg of cocoa flavanols with a degree of polymerisation 1-10 ( *6 ) .",
+          "title": "Cocoa extract lacks the high-flavanol qualification",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Bulgarian omits English’s qualification that the cocoa extract be high in flavanols. This could broaden eligible capsules or tablets to less concentrated extracts supplied in larger quantities, while retaining the dose and polymerisation requirements.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Претенцията може да се използва само за капсули или таблетки, съдържащи екстракт от какао, които осигуряват дневен прием на поне 200 mg какаови флаваноли със степен на полимеризация 1-10 ( *6 )",
+              "translation": "The claim may be used only for capsules or tablets containing cocoa extract which provide a daily intake of at least 200 mg of cocoa flavanols with a degree of polymerisation 1-10 ( *6 )",
+              "explanation": "Bulgarian omits English’s qualification that the cocoa extract be high in flavanols. This could broaden eligible capsules or tablets to less concentrated extracts supplied in larger quantities, while retaining the dose and polymerisation requirements.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.770102Z"
+          }
+        },
+        {
+          "id": "18079b8313feaa5f1653ef0b",
+          "passage_id": "p0005",
+          "english_quote": "the beneficial effect is obtained by consuming 4 g of HPMC as part of the meal.",
+          "title": "HPMC glucose instructions add a daily-intake qualification",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English relates the effective 4 g dose to the particular meal; Bulgarian additionally describes it as a daily intake. This could change the required consumption instructions, especially where the product is used with more than one meal.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "благотворният ефект се получава при дневен прием на 4 g HPMC като част от храненето.",
+              "translation": "the beneficial effect is obtained with a daily intake of 4 g of HPMC as part of the meal.",
+              "explanation": "English relates the effective 4 g dose to the particular meal; Bulgarian additionally describes it as a daily intake. This could change the required consumption instructions, especially where the product is used with more than one meal.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.770873Z"
+          }
+        },
+        {
+          "id": "e2e6fafa8c8da32e0056dd02",
+          "passage_id": "p0005",
+          "english_quote": "the beneficial effect is obtained by consuming 10 g of pectins as part of the meal.",
+          "title": "Pectin glucose instructions add a daily-intake qualification",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English ties the effective 10 g dose to a meal. Bulgarian additionally frames it as daily intake, potentially changing the required instructions for consumption with multiple meals.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "благотворният ефект се получава при дневен прием на 10 g пектини като част от храненето.",
+              "translation": "the beneficial effect is obtained with a daily intake of 10 g of pectins as part of the meal.",
+              "explanation": "English ties the effective 10 g dose to a meal. Bulgarian additionally frames it as daily intake, potentially changing the required instructions for consumption with multiple meals.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.771545Z"
+          }
+        },
+        {
+          "id": "e431035d9a9244b9fe6d0432",
+          "passage_id": "p0005",
+          "english_quote": "the beneficial effect is obtained by consuming 50 g of meat or fish together with food(s) containing non-haem iron.",
+          "title": "Iron-absorption instructions specify inorganic rather than non-haem iron",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Bulgarian identifies accompanying foods containing inorganic iron, while English identifies non-haem iron. This could narrow the mandatory instruction by excluding foods whose non-haem iron is present in organic complexes.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "благотворният ефект се получава при консумация на 50 g месо или риба, заедно с храна(и), съдържаща(и) неорганично желязо.",
+              "translation": "the beneficial effect is obtained by consuming 50 g of meat or fish together with food(s) containing inorganic iron.",
+              "explanation": "Bulgarian identifies accompanying foods containing inorganic iron, while English identifies non-haem iron. This could narrow the mandatory instruction by excluding foods whose non-haem iron is present in organic complexes.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.773352Z"
+          }
+        },
+        {
+          "id": "16197d19086d51e44690eedc",
+          "passage_id": "p0005",
+          "english_quote": "Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.",
+          "title": "Older-adult creatine claim identifies endurance rather than resistance training",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Bulgarian repeatedly identifies endurance training where English identifies resistance training. This could change the qualifying exercise programme and intended users, although the shared maximum-load intensity requirement substantially constrains that difference.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Ежедневният прием на креатин може да засили ефекта от тренировките за издръжливост върху мускулната сила на хора над 55-годишна възраст.",
+              "translation": "Daily creatine intake can enhance the effect of endurance training on muscle strength in people over 55 years of age.",
+              "explanation": "Bulgarian repeatedly identifies endurance training where English identifies resistance training. This could change the qualifying exercise programme and intended users, although the shared maximum-load intensity requirement substantially constrains that difference.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.769270Z"
+          }
+        },
+        {
+          "id": "6923dd06a489880a50565e5e",
+          "passage_id": "p0005",
+          "english_quote": "which allows an increase in the workload over time",
+          "title": "Creatine training progression concerns duration rather than workload",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English permits progression through increasing workload, including greater resistance. Bulgarian specifically describes extending exertion duration, potentially requiring different consumer instructions and excluding progression achieved solely through heavier loads.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "които позволяват продължителността на натоварването да се удължава с времето",
+              "translation": "which allow the duration of the exertion to be extended over time",
+              "explanation": "English permits progression through increasing workload, including greater resistance. Bulgarian specifically describes extending exertion duration, potentially requiring different consumer instructions and excluding progression achieved solely through heavier loads.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.769705Z"
+          }
+        },
+        {
+          "id": "0ce4afcfcb21828ce7489b56",
+          "passage_id": "p0005",
+          "english_quote": "restricted to the use of GlaxoSmithKline Services Unlimited and its affiliates",
+          "title": "Historical exclusive-use restriction identifies branches rather than affiliates",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes affiliated companies, while Bulgarian identifies branches. This could narrow the entities entitled to use the reformulated-drink claim during the historical five-year exclusive period.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "ограничена за използване от GlaxoSmithKline Services Unlimited и неговите клонове",
+              "translation": "restricted to use by GlaxoSmithKline Services Unlimited and its branches",
+              "explanation": "English includes affiliated companies, while Bulgarian identifies branches. This could narrow the entities entitled to use the reformulated-drink claim during the historical five-year exclusive period.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.775354Z"
+          }
+        },
+        {
+          "id": "1067248b78fb0b2bc4194fde",
+          "passage_id": "p0005",
+          "english_quote": "(ii) fresh green kiwifruits which have only been peeled and/or cut providing a minimum of 200 g of kiwi flesh.",
+          "title": "Prepared kiwifruit lacks the express restriction to peeling and cutting",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly confines preparation to peeling and/or cutting. Bulgarian could also cover peeled or cut kiwifruit receiving additional treatment compatible with freshness, while retaining the 200 g requirement.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "ii) прясно зелено киви, обелено и/или нарязано, с минимум 200 g месеста част от плода киви.",
+              "translation": "ii) fresh green kiwifruit, peeled and/or cut, with a minimum of 200 g of kiwifruit flesh.",
+              "explanation": "English expressly confines preparation to peeling and/or cutting. Bulgarian could also cover peeled or cut kiwifruit receiving additional treatment compatible with freshness, while retaining the 200 g requirement.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.775991Z"
+          }
+        },
+        {
+          "id": "23c558c3a7bf936a547c4972",
+          "passage_id": "p0005",
+          "english_quote": "sugar replacers, i.e. intense sweeteners, xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, erythritol, sucralose or polydextrose, or a combination of them",
+          "title": "Glucose-response sugar-replacer condition lists sucrose",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Bulgarian expressly includes sucrose where English names sucralose, potentially changing eligible replacement mixtures for the glucose-response claim. Sugar reduction remains required, and sucralose may still fall within the generic category of intense sweeteners.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "заместители на захарта, т.е. интензивни подсладители, ксилитол, сорбитол, манитол. малтитол, лактитол, изомалт, еритритол, захароза или полидекстроза, или комбинация от тях",
+              "translation": "sugar replacers, i.e. intense sweeteners, xylitol, sorbitol, mannitol. maltitol, lactitol, isomalt, erythritol, sucrose or polydextrose, or a combination of them",
+              "explanation": "Bulgarian expressly includes sucrose where English names sucralose, potentially changing eligible replacement mixtures for the glucose-response claim. Sugar reduction remains required, and sucralose may still fall within the generic category of intense sweeteners.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.776657Z"
+          }
+        },
+        {
+          "id": "b12f028b594717580f69ac04",
+          "passage_id": "p0005",
+          "english_quote": "sugar replacers, i.e. intense sweeteners, xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, erythritol, D-tagatose, isomaltulose, sucralose or polydextrose, or a combination of them",
+          "title": "Tooth-mineralisation sugar-replacer condition lists sucrose",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Bulgarian lists sucrose where English lists sucralose, potentially changing eligible replacement mixtures for the tooth-mineralisation claim. Every formulation must still satisfy the shared plaque-pH requirement.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "заместители на захарта, т.е. интензивни подсладители, ксилитол, сорбитол, манитол. малтитол, лактитол, изомалт, еритритол, D-тагатоза, изомалтулоза, захароза или полидекстроза, или комбинация от тях",
+              "translation": "sugar replacers, i.e. intense sweeteners, xylitol, sorbitol, mannitol. maltitol, lactitol, isomalt, erythritol, D-tagatose, isomaltulose, sucrose or polydextrose, or a combination of them",
+              "explanation": "Bulgarian lists sucrose where English lists sucralose, potentially changing eligible replacement mixtures for the tooth-mineralisation claim. Every formulation must still satisfy the shared plaque-pH requirement.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:20:58.777017Z"
           }
         }
       ],
@@ -11612,7 +12089,7 @@
       "version": "2022-10-19",
       "version_label": "Original act",
       "retrieved_at": "2026-10-14T00:39:12.355408+00:00",
-      "status": "analyzing",
+      "status": "partial",
       "subject": "",
       "languages": [
         {
