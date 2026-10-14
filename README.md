@@ -6,6 +6,8 @@ The site is static and read-only. It keeps working while the owner's computer is
 
 ## Read the collection
 
+The front page lists the collection with each act's review status, source version, English word count, language findings, and available impact proposals. Partially reviewed acts show a yellow badge such as **89.9% reviewed**, using the percentage of recorded passage–language comparisons reviewed, rounded to one decimal place without rounding unfinished coverage up to 100%. Word counts use the preserved English text shown in the reader, including introductory text, annexes and footnotes where available; whitespace separates words, numbers count, and standalone punctuation is excluded. Language findings count published records; the reader combines records sharing an English quotation in the same passage into grouped comparisons. Expand a language list to see names and counts. Impact bars appear when at least one preliminary rating is available; unranked issue proposals are linked separately.
+
 Choose an act from the selector at the top. Use **Focus language** to show only one language's findings and English-text highlights, including languages with no published findings. Select highlighted wording to open its comparison, and use the arrows to move between findings. **Highlights only** shows passages with findings. A copied finding link retains the focus language for another reader.
 
 Check **Act details**, **Review coverage**, and **Source archive** for the version, progress, and source limitations. A comparison unit is one English passage compared with one other language. A partially reviewed act can already contain supported findings from completed batches. No findings is not proof that the language versions are equivalent.
