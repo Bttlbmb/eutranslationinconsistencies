@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T06:01:51.081408Z",
+  "generated_at": "2026-10-14T06:23:43.212662Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4713,6 +4713,70 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "2253cad173c44f9872fbea10"
+          ]
+        },
+        {
+          "id": "impact-6bb3b141a7607942a4147d0c",
+          "title": "Accommodation wording diverges; changed operative outcome unresolved",
+          "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(1), (2)(a), (2)(b)(i)–(ii) and (5); expressly cross-referenced Article 5.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Test case: a disabled employee can perform essential functions with an appropriate adjustment but is dismissed following an assessment without that adjustment. The disputed reading treats present, unadjusted capability as sufficient for the recital's employment limitation.",
+          "rationale": "The Slovak phrase 'bez ohľadu na' supports 'regardless of', creating genuine tension with formulations expressly preserving accommodation. Nevertheless, accepting that meaning does not establish permission to disregard a separate operative duty. The supplied Slovak Article 2(2)(b)(ii) expressly connects appropriate measures to Article 5. Article 2 also retains direct-discrimination comparability and indirect-discrimination justification requirements. The recital's statement that employment is not required is not itself an operative derogation. The proposed dismissal therefore remains legally unresolved even on the disputed reading.\nCounterreading: The strongest harmonization treats qualification requirements and accommodation as coexisting: the Directive does not guarantee employment irrespective of essential-function capability, while capability must be assessed consistently with applicable accommodation obligations. German 'unbeschadet', French 'sans préjudice' and the Slovak Article 2 cross-reference support this construction through legal coherence, not language counting or English priority.",
+          "uncertainty": "Conditional effect: Article 5's complete duty and limitations are absent; the finding's description of that provision is not a substitute for its text. Ultimate interpretation: preserving accommodation is strongly supported by the supplied multilingual wording and the operative cross-reference, so a reading authorizing disregard appears unlikely to prevail. The complete act has not been supplied, preventing a definitive full-context conclusion.\nUnresolved: What does the complete Slovak Article 5 require for the proposed assessment, and what limitations apply? Is any protected-ground discrimination or accommodation breach established independently of the recital? comparator_omissions is empty; no reported comparator omission affects the assessment. Missing operative context is a separate, decisive gap despite context_limited being false.",
+          "assessed_at": "2026-10-14T06:16:41.975902Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "2822fa30a08fadd987a85d65"
+          ]
+        },
+        {
+          "id": "impact-51845fda386bfd17ad8e6798",
+          "title": "Training action omitted; affirmative entitlement not established",
+          "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(2)(a), (2)(b)(i)–(ii); omitted operative training and accommodation provisions in Articles 3 and 5.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Test case: a disabled trainee cannot satisfy essential course requirements even with appropriate adjustments. The trainee argues that the recital's qualification limitation excludes only recruitment, promotion and continued employment, so cannot justify ending training.",
+          "rationale": "The Polish list genuinely omits provision of training, although its preceding capability clause expressly includes continuing the relevant training. Giving the action-list omission substantive effect would remove an express recital argument; it would not itself supply an entitlement. Article 2(2)(a) still requires comparable circumstances and protected-ground less favourable treatment. Article 2(2)(b)(i) independently permits justified neutral requirements. For someone unable to meet essential course requirements after adjustments, these provisions may sustain exclusion regardless of the omission. The reviews' example therefore does not establish a changed result.\nCounterreading: The strongest harmonization reads 'lub kontynuacji danego kształcenia' as evidence that the qualification principle concerns training too. Czech and German make both sides of that connection explicit. Even if this harmonization is rejected, the ordinary operative discrimination tests remain applicable and may produce the same outcome.",
+          "uncertainty": "Conditional effect: no supplied operative rule is shown to require training in the proposed incapacity scenario once independent grounds for exclusion are considered. Ultimate interpretation: the internal reference to continuing training and the express training actions in other authentic versions support harmonization. Whether the omission has any residual interpretive significance remains open.\nUnresolved: Which operative duty would require continued training despite the stated incapacity? Why would comparability or objectively justified essential prerequisites not independently sustain exclusion? What limits follow from Article 5? comparator_omissions is empty; the decisive gaps concern operative entitlement and exceptions, not missing reported comparators.",
+          "assessed_at": "2026-10-14T06:16:41.976745Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "79d9158fdd380c3b062191ee"
+          ]
+        },
+        {
+          "id": "impact-2521cf9b44c7fdd535174327",
+          "title": "Training-capability limb omitted; refusal outcome unresolved",
+          "legal_anchor": "Directive 2000/78/EC, recital 17 and Article 2(1)–(2), including Article 2(2)(b)(i)–(ii); Articles 3 and 5 are material omitted dependencies.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Test case: an applicant whose disability engages the Directive can undertake vocational training but cannot yet perform the intended job. Admission is refused solely because the applicant lacks current job capability.",
+          "rationale": "Italian expressly includes training among the actions but attaches only the essential-job-functions test; it lacks the separate capacity-to-undergo-training limb present in the supplied German, French and other versions. This supports the alleged textual difference. However, even accepting a current-job-capability reading leaves the expressly preserved accommodation duty intact. Article 2 requires a protected-ground discrimination analysis; a neutral admission prerequisite remains subject to legitimate-aim, appropriateness and necessity requirements. Neither the omission nor 'né prevede la formazione' independently establishes an operative permission to refuse otherwise protected training.\nCounterreading: Read the recital's competence limitation in relation to the activity requested. Training ordinarily develops capabilities not yet possessed; requiring completed job competence before training would need contextual justification. The Italian accommodation safeguard and Article 2's Article 5 cross-reference reinforce that harmonization without treating another authentic language as controlling.",
+          "uncertainty": "Conditional effect: the supplied evidence does not show whether operative training protection permits the proposed prerequisite or defeats it. Ultimate interpretation: assessing capability relative to the training sought is strongly supported by the multilingual training limbs and training's preparatory function. The isolated Italian reading is therefore unlikely to determine the result, but the complete Articles 3 and 5 are unavailable for a full-context conclusion.\nUnresolved: What training does Article 3 cover, and what does Article 5 require of this provider or employer? Could the particular prerequisite satisfy Article 2(2)(b)(i), and would another applicable exception matter? comparator_omissions is empty. The omitted operative provisions, rather than a reported comparator omission, prevent establishing the conditional outcome.",
+          "assessed_at": "2026-10-14T06:16:41.976553Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3b448f0c8f9fb2a6bc1b5820"
+          ]
+        },
+        {
+          "id": "impact-95e891637f331b2c6670c6bc",
+          "title": "Willingness differs from availability; alternative grounds prevent a demonstrated outcome",
+          "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(2)(a), (2)(b)(i)–(ii) and (5); omitted scope and occupational-requirement provisions.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Test case: an otherwise qualified and willing applicant cannot attend a required weekly shift because of religious observance. The employer rejects the applicant under a neutral attendance requirement.",
+          "rationale": "Greek 'πρόθυμο' expresses willingness or readiness and does not expressly reproduce temporal availability. But accepting that distinction leaves 'κατάλληλο' and 'ικανό', suitability and capability, operative within the same sentence. Inability to attend genuinely essential shifts may fall within those limbs. Article 2(2)(b)(i) also independently permits appropriate and necessary scheduling requirements serving a legitimate aim. Conversely, if the shift is unnecessary, the availability formulations tied to essential functions do not obviously create an unrestricted refusal defence. Neither branch establishes a different hiring outcome merely from the lexical difference.\nCounterreading: Read willingness as readiness to perform the particular duties in their actual setting, while keeping suitability and capability as separate requirements. For disability-related restrictions, the express accommodation safeguard remains; the religious-observance example does not itself trigger that disability-specific safeguard. Article 2(5) requires qualifying measures laid down by national law and cannot simply be assumed to validate an employer's roster.",
+          "uncertainty": "Conditional effect: the necessity of attendance, remaining qualification limbs and objective justification are unresolved. Ultimate interpretation: practical readiness to perform actual essential duties offers a strong harmonization with the availability formulations. The Estonian 'valmis' also cautions against reducing the multilingual comparison to one uniform temporal expression. The complete act remains necessary for a definitive interpretation.\nUnresolved: Is attendance at the specified time essential, and could another schedule achieve the legitimate aim? Do suitability or capability independently resolve the case? Does an applicable Article 4 rule matter, subject to its actual conditions? comparator_omissions is empty; no reported omission determines the result. Missing factual and operative dependencies still prevent a conditional tier.",
+          "assessed_at": "2026-10-14T06:16:41.976807Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "8999f701dc5667b8ceda62f1"
           ]
         },
         {
@@ -11996,12 +12060,180 @@
           "source_id": null
         }
       ],
-      "findings": [],
+      "findings": [
+        {
+          "id": "f6667d2033b85225c70d501c",
+          "passage_id": "p0174",
+          "english_quote": "Providers of intermediary services shall not be deemed ineligible for the exemptions from liability referred to in Articles 4, 5 and 6 solely because they, in good faith and in a diligent manner, carry out voluntary own-initiative investigations into, or take other measures aimed at detecting, identifying and removing, or disabling access to, illegal content, or take the necessary measures to comply with the requirements of Union law and national law in compliance with Union law, including the requirements set out in this Regulation.",
+          "title": "Protection against disqualification becomes denial of automatic entitlement",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 7 states in English that providers “shall not be deemed ineligible for the exemptions from liability”, whereas French says they “ne sont pas réputés avoir droit aux exemptions de responsabilité” merely because they undertake the listed activities. English expressly prevents those activities alone from defeating eligibility; French denies automatic entitlement. This could affect protection for voluntary moderation, although recital 26 supports preserving eligibility in both languages.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "Les fournisseurs de services intermédiaires ne sont pas réputés avoir droit aux exemptions de responsabilité prévues aux articles 4, 5 et 6 du simple fait qu’ils procèdent de leur propre initiative, de bonne foi et avec diligence, à des enquêtes volontaires ou prennent d’autres mesures destinées à détecter, à identifier et à retirer des contenus illicites, ou à rendre l’accès à ces contenus impossible, ou qu’ils prennent les mesures nécessaires pour se conformer aux exigences du droit de l’Union et du droit national conforme au droit de l’Union, y compris les exigences énoncées dans le présent règlement.",
+              "translation": "Providers of intermediary services are not deemed entitled to the exemptions from liability provided for in Articles 4, 5 and 6 merely because they conduct voluntary investigations on their own initiative, in good faith and diligently, or take other measures intended to detect, identify and remove illegal content, or disable access to that content, or because they take the necessary measures to comply with the requirements of Union law and national law consistent with Union law, including the requirements laid down in this Regulation.",
+              "explanation": "Article 7 states in English that providers “shall not be deemed ineligible for the exemptions from liability”, whereas French says they “ne sont pas réputés avoir droit aux exemptions de responsabilité” merely because they undertake the listed activities. English expressly prevents those activities alone from defeating eligibility; French denies automatic entitlement. This could affect protection for voluntary moderation, although recital 26 supports preserving eligibility in both languages.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:20:16.475776Z"
+          }
+        },
+        {
+          "id": "0ff80eed62a0138e649f55d9",
+          "passage_id": "p0079",
+          "english_quote": "Consequently, online platforms should consistently ensure that recipients of their service are appropriately informed about how recommender systems impact the way information is displayed, and can influence how information is presented to them.",
+          "title": "French recital attributes influence over presentation to recommender systems",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "In recital 70, English says recipients are informed “and can influence how information is presented to them.” French instead describes how “les systèmes de recommandation ont un effet sur la manière dont l’information est affichée et peuvent influencer la manière dont les informations leur sont présentées.” This could weaken the recital’s support for recipient control by describing system influence instead. Article 27 provides matching operative safeguards in English and French.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "Par conséquent, les plateformes en ligne devraient veiller en permanence à ce que les destinataires de leur service soient correctement informés de la manière dont les systèmes de recommandation ont un effet sur la manière dont l’information est affichée et peuvent influencer la manière dont les informations leur sont présentées.",
+              "translation": "Consequently, online platforms should continually ensure that recipients of their service are properly informed about how recommender systems affect the way information is displayed and can influence how information is presented to them.",
+              "explanation": "In recital 70, English says recipients are informed “and can influence how information is presented to them.” French instead describes how “les systèmes de recommandation ont un effet sur la manière dont l’information est affichée et peuvent influencer la manière dont les informations leur sont présentées.” This could weaken the recital’s support for recipient control by describing system influence instead. Article 27 provides matching operative safeguards in English and French.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:20:16.471362Z"
+          }
+        },
+        {
+          "id": "1b6c71e23488d5248f3f15ca",
+          "passage_id": "p0253",
+          "english_quote": "periodic penalty payments not exceeding 5 % of the average daily income or worldwide annual turnover in the preceding financial year per day",
+          "title": "Article 76: annual versus average daily turnover",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "French Article 76(1) caps daily penalties by reference to average daily income or average daily worldwide turnover. English could instead permit using annual worldwide turnover directly, producing a substantially higher daily ceiling. Article 52(4) supports a harmonizing daily-average reading but does not remove the express wording difference.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "des astreintes jusqu’à concurrence de 5 % des revenus ou du chiffre d’affaires mondial journaliers moyens de l’exercice précédent par jour",
+              "translation": "periodic penalty payments of up to 5 % of the average daily income or average daily worldwide turnover in the preceding financial year per day",
+              "explanation": "French Article 76(1) caps daily penalties by reference to average daily income or average daily worldwide turnover. English could instead permit using annual worldwide turnover directly, producing a substantially higher daily ceiling. Article 52(4) supports a harmonizing daily-average reading but does not remove the express wording difference.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:23:34.700627Z"
+          }
+        },
+        {
+          "id": "ae2759b084df0158581acc3d",
+          "passage_id": "p0213",
+          "english_quote": "That compliance function shall have sufficient authority, stature and resources, as well as access to the management body of the provider of the very large online platform or of the very large online search engine to monitor the compliance of that provider with this Regulation.",
+          "title": "Article 41: compliance function size versus organisational standing",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "French Article 41(1) expressly requires sufficient organisational size; English requires sufficient organisational standing. This could change the compliance assessment by emphasizing staffing or scale in French and institutional status in English, despite their shared safeguards.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "La fonction de contrôle de la conformité dispose d’une autorité, d’une taille et de ressources suffisantes, ainsi que de l’accès à l’organe de direction du fournisseur de la très grande plateforme en ligne ou du très grand moteur de recherche en ligne nécessaire pour contrôler le respect du présent règlement par ce fournisseur.",
+              "translation": "The compliance monitoring function shall have sufficient authority, size and resources, as well as the access to the management body of the provider of the very large online platform or of the very large online search engine necessary to monitor that provider’s compliance with this Regulation.",
+              "explanation": "French Article 41(1) expressly requires sufficient organisational size; English requires sufficient organisational standing. This could change the compliance assessment by emphasizing staffing or scale in French and institutional status in English, despite their shared safeguards.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:23:34.697665Z"
+          }
+        },
+        {
+          "id": "4179a64439844b15b52d1929",
+          "passage_id": "p0137",
+          "english_quote": "The Digital Services Coordinator of destination, in particular on the basis of complaints received or of the input of other national competent authorities where appropriate, or the Board in case of issues involving at least three Member States, should be able to ask the Digital Services Coordinator of establishment to take investigatory or enforcement actions with regard to a provider under its competence.",
+          "title": "Different threshold and requesting role for the Board",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Recital 128 names an independent requester in English: “or the Board in case of issues involving at least three Member States”. French instead refers to “de la contribution d’autres autorités nationales compétentes ou du comité, dans le cas de questions concernant plus de trois États membres”. This could exclude exactly three-state cases and make Board involvement dependent on a destination Coordinator’s request.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "Le coordinateur pour les services numériques de l’État membre de destination, en particulier sur la base de plaintes reçues ou, le cas échéant, de la contribution d’autres autorités nationales compétentes ou du comité, dans le cas de questions concernant plus de trois États membres, devrait pouvoir demander au coordinateur pour les services numériques de l’État membre d’établissement de prendre des mesures d’enquête ou d’exécution à l’égard d’un fournisseur relevant de sa compétence.",
+              "translation": "The Digital Services Coordinator of the Member State of destination, in particular on the basis of complaints received or, where appropriate, the contribution of other competent national authorities or of the Board, in the case of issues concerning more than three Member States, should be able to ask the Digital Services Coordinator of the Member State of establishment to take investigatory or enforcement measures regarding a provider falling within its competence.",
+              "explanation": "Recital 128 names an independent requester in English: “or the Board in case of issues involving at least three Member States”. French instead refers to “de la contribution d’autres autorités nationales compétentes ou du comité, dans le cas de questions concernant plus de trois États membres”. This could exclude exactly three-state cases and make Board involvement dependent on a destination Coordinator’s request.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:20:16.474283Z"
+          }
+        },
+        {
+          "id": "dc056ba99c5029c35307207f",
+          "passage_id": "p0114",
+          "english_quote": "In particular, the codes of conduct could ensure that the information is presented in a perceivable, operable, understandable and robust way and that forms and measures provided pursuant to this Regulation are made available in a manner that is easy to find and accessible to persons with disabilities.",
+          "title": "Accessibility guidance substitutes clarity for robustness",
+          "category": "other",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Recital 105 describes presentation as “perceivable, operable, understandable and robust” in English, but “perceptible, utilisable, compréhensible et claire” in French. Replacing robustness with clarity could shift accessibility codes toward comprehensibility and away from reliable technical accessibility. Both languages retain the broader accessibility objective and compliance with Union and national law.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "Les codes de conduite pourraient notamment faire en sorte que les informations soient présentées d’une manière perceptible, utilisable, compréhensible et claire et que les formulaires et mesures prévus dans le présent règlement soient faciles à trouver et accessibles aux personnes handicapées.",
+              "translation": "The codes of conduct could in particular ensure that information is presented in a perceivable, usable, understandable and clear manner and that the forms and measures provided for in this Regulation are easy to find and accessible to persons with disabilities.",
+              "explanation": "Recital 105 describes presentation as “perceivable, operable, understandable and robust” in English, but “perceptible, utilisable, compréhensible et claire” in French. Replacing robustness with clarity could shift accessibility codes toward comprehensibility and away from reliable technical accessibility. Both languages retain the broader accessibility objective and compliance with Union and national law.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:20:16.473132Z"
+          }
+        }
+      ],
       "notes": [
         "English is a navigation anchor; no language version is treated as legally authoritative over another.",
         "The selected official version was resolved at import time. This MVP does not monitor subsequent changes.",
         "This import explicitly uses the original Official Journal act. A later consolidated work (02022R2065-20221027) exists but is outside this review; later corrigenda or amendments may not be reflected.",
-        "Complete multilingual review is in progress. Preliminary findings remain private until the full review is finished.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared.",
         "1 candidate(s) failed exact source-quotation validation and were excluded from publication; local audit records retain these candidates."
