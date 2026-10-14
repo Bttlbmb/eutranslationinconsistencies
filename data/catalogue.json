@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T08:40:03.271596Z",
+  "generated_at": "2026-10-14T08:53:07.397519Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4700,6 +4700,22 @@
       ],
       "impact_families": [
         {
+          "id": "impact-e201874500a7f4ca7b7b15d6",
+          "title": "Compulsion beyond an instruction",
+          "legal_anchor": "Directive 2000/78/EC, Articles 2(4), 3(1)(a) and 17, read with Articles 2(2)–(3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An external recruitment adviser gives an explicit operational instruction to exclude gay applicants from ordinary secular administrative jobs. The adviser has no power to enforce compliance and applies no coercive pressure. The recruiter rejects the instruction before any policy, applicant treatment or working environment changes. An authority empowered by the assumed national implementing law learns of the message. Assume that law permits the authority to sanction the issuer when that communication counts as discrimination, even if the recruiter rejects it; no independent national prohibition covers the message.",
+          "rationale": "If “zmuszaniu” requires coercion beyond communicating an instruction, the conduct falls outside Article 2(4), whereas an instruction-based interpretation captures it immediately. An ignored instruction does not necessarily establish comparative mistreatment or an adopted discriminatory policy. The scenario also excludes a neutral disadvantageous practice and harassment. Article 2(5) provides no reservation for this conduct.\nCounterreading: “Zmuszaniu” could encompass the pressure inherent in directing another person to act. Finnish “käskyä tai ohjetta” covers commands or instructions, while French ordering and Czech inducement language support intervention before compelled compliance. These formulations and Article 2(4)'s independent operation weigh against requiring additional coercion.\nPractical result: Article 3(1)(a) covers access to employment and recruitment conditions. Under the assumed national implementing rule, the broader Article 2(4) classification permits a sanction against the issuer; the narrower classification does not. Article 17 requires effective, proportionate and dissuasive sanctions for infringements of implementing provisions, but does not prescribe a particular enforcement procedure. No completed hiring discrimination is needed for this conditional issuer-liability difference.",
+          "uncertainty": "The conditional narrowing is plausible, but a separate coercion requirement is less persuasive in the multilingual context. The outcome concerns the initiating communication, not immunity for any subsequent discriminatory treatment.\nUnresolved: The common rule's treatment of non-coercive instructions remains an interpretive question. A manager's instruction would be a weaker example because managerial authority may itself constitute pressure. No national sanction or remedy is established. The type and availability of an actual sanction depend on national implementing law, the authority’s powers and proof of the communication. An Article 9 victim claim or compensation entitlement is not established by these hypothetical facts.",
+          "assessed_at": "2026-10-14T08:48:03.942577Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "bd3e0a32c2fb53c6d67be506"
+          ]
+        },
+        {
           "id": "impact-8548b8ca5e315a82b6734ab2",
           "title": "Organisational support in an existing complaint",
           "legal_anchor": "Directive 2000/78/EC, Articles 9(1)–(3) and 10(4), read with Recital 29 and Article 2.",
@@ -4828,6 +4844,22 @@
           ]
         },
         {
+          "id": "impact-a73b11d9fa60c7430c4fc561",
+          "title": "Legislative recognition of religious practices",
+          "legal_anchor": "Directive 2000/78/EC, Article 4(2), first sentence and its alternative legislative routes; Articles 4(1) and 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A Member State enacts a religious occupational exception after adoption of the Directive, incorporating a national practice demonstrably existing on 27 November 2000 but lacking legislative recognition then. The legislation confines the exception to requirements satisfying Article 4(2)'s occupational and constitutional safeguards.",
+          "rationale": "Bulgarian describes future legal practices incorporating legislation, reversing the relationship expressed in the English, French and German texts. If this is read to require a pre-existing legislative basis, a historical non-statutory practice cannot support the later Article 4(2) exception. The concrete effect is loss of that permitted legislative route. Establishing a particular dismissal or discrimination violation is unnecessary to identify this change in the exception's availability.\nCounterreading: The first limb preserves existing legislation; the second naturally allows later legislation reflecting existing practice. French reprenant des pratiques nationales and German bestehende einzelstaatliche Gepflogenheiten widerspiegeln expressly preserve that distinction. Their structure supplies a strong harmonizing reading of the Bulgarian sentence, with no priority accorded to English.",
+          "uncertainty": "The Bulgarian syntax is awkward and does not unambiguously impose a pre-existing-legislation requirement. The conditional assessment addresses that narrower construction. Actual application requires proof of the historical practice and absence of qualifying legislation at adoption.\nUnresolved: The existing-legislation limb cannot cover the stated absence of legislation. Article 4(1) may independently protect individual determining and proportionate requirements, but does not restore the distinct Article 4(2) legislative route. Any claim that particular employment treatment becomes unlawful would additionally require excluding Article 4(1) and other applicable protections. The loyalty paragraph remains conditional on compliance and does not independently recreate the historical legislative route.",
+          "assessed_at": "2026-10-14T08:51:08.707000Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "44bc7f009d623c3eed83954a"
+          ]
+        },
+        {
           "id": "impact-ce5c0035f5f2526412165702",
           "title": "Conditional additional malice requirement",
           "legal_anchor": "Directive 2000/78/EC, Article 11; Articles 1–10, 15 and 17; recital 30.",
@@ -4873,6 +4905,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "06dcde9453416711d358b187"
+          ]
+        },
+        {
+          "id": "impact-175da50d5426ce1969397bff",
+          "title": "Non-directive encouragement",
+          "legal_anchor": "Directive 2000/78/EC, Articles 2(4), 3(1)(a) and 17, read with Articles 2(2)–(3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "In recruitment for an ordinary secular administrative job, a colleague privately encourages a recruiter to exclude gay applicants. The communication is persuasion without an instruction. The recruiter refuses; no applicant receives different treatment, no recruitment policy changes, and no harassment occurs. An authority empowered by the assumed national implementing law learns of the message. Assume that law permits the authority to sanction the issuer when that communication counts as discrimination, even if the recruiter rejects it; no independent national prohibition covers the message.",
+          "rationale": "If “подтик” includes this encouragement, the communication itself becomes discrimination. Under an instruction-only reading it does not qualify under Article 2(4). Neither comparative mistreatment nor an apparently neutral disadvantageous practice supplies an alternative classification under Article 2(2). The facts also exclude Article 2(3), and private encouragement is not a necessary statutory measure under Article 2(5). This supports a substantive change under one rule.\nCounterreading: The strongest harmonizing interpretation treats the different terms as conduct actively procuring discrimination. Bulgarian and Czech inducement language could broaden the shared concept, or “подтик” could be confined to encouragement functioning as a direction. An instruction need not be formal or backed by managerial authority.\nPractical result: Article 3(1)(a) covers access to employment and recruitment conditions. Under the assumed national implementing rule, the broader Article 2(4) classification permits a sanction against the issuer; the narrower classification does not. Article 17 requires effective, proportionate and dissuasive sanctions for infringements of implementing provisions, but does not prescribe a particular enforcement procedure. No completed hiring discrimination is needed for this conditional issuer-liability difference.",
+          "uncertainty": "The conditional classification change is supported; whether the broader interpretation would prevail remains open. The authentic texts express both inducement and direction, and none has priority merely because of its language.\nUnresolved: The decisive interpretive question is whether persuasion without any directive function falls within the common rule. No actual national enforcement rule or authority powers are established for any Member State. The type and availability of an actual sanction depend on national implementing law, the authority’s powers and proof of the communication. An Article 9 victim claim or compensation entitlement is not established by these hypothetical facts.",
+          "assessed_at": "2026-10-14T08:48:03.942228Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "a09ab7cdff6cfd15b80f5fd9"
           ]
         },
         {
@@ -4924,6 +4972,22 @@
           ]
         },
         {
+          "id": "impact-053d660201d5483c8cb1688c",
+          "title": "Encouragement against a named applicant",
+          "legal_anchor": "Directive 2000/78/EC, Articles 2(4), 3(1)(a) and 17, read with Articles 2(2)–(3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A colleague privately encourages a recruiter to reject a named gay applicant for an ordinary secular administrative job. The communication contains no instruction. The recruiter refuses, the applicant remains unaware of it, no discriminatory policy is adopted, and no unequal treatment or harassment occurs. An authority empowered by the assumed national implementing law learns of the message. Assume that law permits the authority to sanction the issuer when that communication counts as discrimination, even if the recruiter rejects it; no independent national prohibition covers the message.",
+          "rationale": "If “Poticanje” includes encouragement beyond instructions, Article 2(4) independently classifies the communication as discrimination. The same communication falls outside an instruction-only reading. The absence of comparative mistreatment, a neutral disadvantageous practice and harassment prevents Article 2(2)–(3) from supplying the same result. Article 2(5)'s reservation for necessary statutory measures does not apply.\nCounterreading: Croatian encouragement language can be harmonized with French and Italian order language as active procurement or direction of discrimination. Bulgarian, Latvian and Czech formulations also support a broader shared concept. The text does not settle whether persuasion lacking a directive function belongs within that concept.\nPractical result: Article 3(1)(a) covers access to employment and recruitment conditions. Under the assumed national implementing rule, the broader Article 2(4) classification permits a sanction against the issuer; the narrower classification does not. Article 17 requires effective, proportionate and dissuasive sanctions for infringements of implementing provisions, but does not prescribe a particular enforcement procedure. No completed hiring discrimination is needed for this conditional issuer-liability difference.",
+          "uncertainty": "The conditional change is supported for the specifically targeted applicant. Neither the broader interpretation's ultimate acceptance nor the treatment of untargeted appeals is established.\nUnresolved: The principal interpretive question concerns the boundary between encouragement and direction. Wider national liability and remedies cannot be determined from Article 2 alone. The type and availability of an actual sanction depend on national implementing law, the authority’s powers and proof of the communication. An Article 9 victim claim or compensation entitlement is not established by these hypothetical facts.",
+          "assessed_at": "2026-10-14T08:48:03.942494Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "b9d2fc85a0f4450962a38551"
+          ]
+        },
+        {
           "id": "impact-5eb7d0b4d663f5cc97347dfb",
           "title": "Possible requirement for both judicial and administrative remedies",
           "legal_anchor": "Directive 2000/78/EC, Article 9(1), compared with Article 9(2) and subject to Article 9(3).",
@@ -4953,6 +5017,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "28a998f7369dee5a8a91a163"
+          ]
+        },
+        {
+          "id": "impact-ffb522f447dfe601b29fe414",
+          "title": "Object of proportionality",
+          "legal_anchor": "Directive 2000/78/EC, Article 4(1), particularly the genuine-and-determining condition, read with Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A secular employer requires a protected characteristic for a specialist assignment, then extends that requirement to duties or periods for which it is unnecessary. It argues that Maltese Article 4(1) requires only the aim to be legitimate and proportionate.",
+          "rationale": "Grammatically, leġittimu u proporzjonat both qualify l-għan, the aim. This differs from the express proportionality condition on the requirement in other authentic texts. Nevertheless, the Maltese provision still demands a genuine and determining occupational requirement arising from the activities or their context. An unnecessarily extensive restriction may already fail that condition. Accepting the disputed grammatical reading therefore does not by itself establish eligibility for an otherwise excluded restriction.\nCounterreading: A proportionate aim can be understood relationally, through the requirement used to pursue it. French expressly requires the requirement to be proportionate; Dutch expressly relates its proportionality to the aim. These equally authoritative formulations and the work-specific condition strongly support scrutiny of the requirement itself.",
+          "uncertainty": "The available extracts do not reproduce recital 23, so its asserted wording cannot establish an additional constraint. They also do not establish the content or application of any independent proportionality rule.\nUnresolved: Can a concrete restriction satisfy the genuine-and-determining condition while failing only proportionality? Neither excessive duration nor excessive coverage establishes that distinction without further facts. Article 4(2) does not assist the secular employer. For an apparently neutral restriction, Article 2(2)(b)(i) separately retains appropriate-and-necessary scrutiny.",
+          "assessed_at": "2026-10-14T08:51:08.699702Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "1f07aedb230db6ab7f42141b"
           ]
         },
         {
@@ -5017,6 +5097,38 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "5dbcb287724743d488675771"
+          ]
+        },
+        {
+          "id": "impact-dcfe342a2f27e05e6fa912bc",
+          "title": "Appeals to discriminate",
+          "legal_anchor": "Directive 2000/78/EC, Articles 2(4), 3(1)(a) and 17, read with Articles 2(2)–(3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A colleague privately appeals to a recruiter to exclude gay applicants from ordinary secular administrative jobs. The appeal has no directive function, is rejected, and produces no discriminatory policy, unequal applicant treatment or harassment. An authority empowered by the assumed national implementing law learns of the message. Assume that law permits the authority to sanction the issuer when that communication counts as discrimination, even if the recruiter rejects it; no independent national prohibition covers the message.",
+          "rationale": "If “Aicinājumu” includes such an appeal, it is itself deemed discrimination even though nobody implements it. An instruction-only interpretation would exclude it from Article 2(4). Article 2(2) does not independently capture the stipulated facts: there is neither comparative mistreatment nor a neutral disadvantageous practice. Article 2(3)'s conditions are absent, and Article 2(5) does not reserve this private conduct.\nCounterreading: An appeal or request can function as an instruction without imperative wording. German direction language and Latvian, Bulgarian and Czech inducement language can therefore converge on actively procuring discrimination. Their equal authority prevents treating the English expression as a controlling limit.\nPractical result: Article 3(1)(a) covers access to employment and recruitment conditions. Under the assumed national implementing rule, the broader Article 2(4) classification permits a sanction against the issuer; the narrower classification does not. Article 17 requires effective, proportionate and dissuasive sanctions for infringements of implementing provisions, but does not prescribe a particular enforcement procedure. No completed hiring discrimination is needed for this conditional issuer-liability difference.",
+          "uncertainty": "The conditional effect is a change in a substantive discrimination category. Whether the common multilingual rule actually distinguishes appeals from instructions remains unsettled.\nUnresolved: Does the common concept extend to persuasion that has no directive function? The answer affects which reading prevails, rather than the consequence if the broader reading prevails. No specific national claim or sanction is established. The type and availability of an actual sanction depend on national implementing law, the authority’s powers and proof of the communication. An Article 9 victim claim or compensation entitlement is not established by these hypothetical facts.",
+          "assessed_at": "2026-10-14T08:48:03.942395Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "a357efa9bdd3fe33e6ed0e02"
+          ]
+        },
+        {
+          "id": "impact-a5cf8a268891d19bae9cc5f6",
+          "title": "Admission before pension entitlement",
+          "legal_anchor": "Directive 2000/78/EC, Articles 3(1)(c), 3(3), 6(1)–(2) and 2(5), read with the Article 6(2) sex-discrimination proviso.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A private employer’s occupational pension scheme qualifies as pay under Article 3(1)(c) and sets an age threshold for admission that is legally separate from its pension-entitlement age. National law exercises the Article 6(2) option; the rule causes no sex discrimination. The admission threshold has no objectively and reasonably justified legitimate aim, or its means are not appropriate and necessary under Article 6(1), and no Article 2(5) measure applies. Assume the disputed reading excludes this distinct admission threshold from Article 6(2).",
+          "rationale": "Finnish Article 6(2) describes age conditions for receiving pension or invalidity benefits without separately naming admission. If that wording excludes a standalone admission threshold, the subsequent employee-group wording stays linked to benefit conditions and the actuarial limb covers calculations. On the broader reading, Article 6(2) allows the Member State to treat the admission threshold as non-discriminatory despite its failure under Article 6(1). On the assumed narrower reading, Article 6(2) no longer protects that same threshold; Article 6(1) and Article 2(5) have been ruled out in the scenario, so direct age discrimination follows. This is a conditional change in the legal result for a specific rule, not merely a different route of justification. Article 3(3) excludes State or similar-scheme payments, which the private pay-qualifying scenario avoids.\nCounterreading: Admission may be a prerequisite for later benefit entitlement, and other authentic versions expressly include admission. A harmonising interpretation could therefore protect the rule under Article 6(2) despite the narrower Finnish phrasing. The Court of Justice in HK Danmark v Experian (C-476/11, paragraphs 40–49) reads Article 6(2) across authentic versions and treats admission ages in old-age or invalidity schemes as one of its listed cases. That strongly favours inclusion when the versions are interpreted together; the rating describes only the result if the narrower reading nevertheless prevailed.",
+          "uncertainty": "The conditional result requires a private pay-qualifying pension, a legally separate admission age, national exercise of Article 6(2), no sex discrimination, failure of Article 6(1), and no applicable Article 2(5) measure. None is established for an actual scheme, and the Finnish wording may ultimately be harmonised with the other authentic versions. The Court’s multilingual interpretation strongly disfavors the narrow reading in an actual dispute.",
+          "assessed_at": "2026-10-14T08:42:40.533641Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "c414111c238e59fbf2e8e612"
           ]
         },
         {
@@ -5196,6 +5308,22 @@
           ]
         },
         {
+          "id": "impact-ec9b1979704d386bde6f6d3d",
+          "title": "Alternative harassment harms",
+          "legal_anchor": "Directive 2000/78/EC, Article 2(3), including its national-definition sentence, read with Article 2(2)(a), (2)(b), (4) and (5).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An isolated harmful and unwanted religious insult at work violates an employee's dignity but neither aims to create nor creates an intimidating, hostile, degrading, humiliating or offensive environment.",
+          "rationale": "Assuming the disjunctive interpretation prevails, dignity violation could suffice under Article 2(3). However, a religion-based insult may already be less favourable treatment under Article 2(2)(a), including against a hypothetical comparator. A separate consequence of classifying it specifically as harassment is not established. Article 2(2)(b), (4) and (5) provide no evident alternative determination on these facts.\nCounterreading: German, French and Swedish, alongside English, connect dignity violation and environmental harm cumulatively. Read with the common structure of Article 2(3), these equally authoritative texts support an integrated harassment standard; Finnish cannot be resolved merely by counting conjunctions. Harmful conduct may also describe the contextual injury associated with unwanted harassment.",
+          "uncertainty": "An isolated incident can itself create an offensive environment, so isolation does not prove that the cumulative condition fails. The scenario satisfies both harmfulness and unwantedness, leaving the independent effect of their difference unestablished.\nUnresolved: Can a concrete incident satisfy only one harm while falling outside direct discrimination? Would classification specifically as harassment change an applicable legal consequence? The national-definition clause requires attention but does not itself establish unrestricted power to displace the Directive's common minimum.",
+          "assessed_at": "2026-10-14T08:44:02.264612Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "f11b9793eacfe0dd8bc637a1"
+          ]
+        },
+        {
           "id": "impact-75c2e02a601119da6bb509d0",
           "title": "Protection of the worker’s own health",
           "legal_anchor": "Directive 2000/78/EC, Article 2(5), read with Articles 2(2), 4, 5, 6(1), 7(2) and 8(1).",
@@ -5225,22 +5353,6 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "908965b1d3a87f27d978460b"
-          ]
-        },
-        {
-          "id": "impact-d045375889e62ac8d8a945f4",
-          "title": "Access to other occupational benefits",
-          "legal_anchor": "Directive 2000/78/EC, Articles 6(2), 6(1) and 2(2); application also depends on the Directive's scope provisions.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "An employer-linked sickness-benefit scheme provides neither retirement nor invalidity benefits and excludes new members above age 50. National law invokes Article 6(2), and no sex discrimination results. The proposed broader reading would treat access to this scheme as eligible for the specific exception.",
-          "rationale": "Danish refers generally to access to occupational social security schemes without expressly specifying retirement or invalidity benefits. Reading access to include benefit entitlement can resolve the admission-versus-entitlement issue, but does not itself restrict the benefit categories. The different-employee-age clause elaborates access conditions, and the actuarial limb does not independently justify the standalone admission ban. Article 6(1) remains a possible justification route. More fundamentally, the available extracts do not establish whether the proposed sickness scheme is governed by the Directive, so even the conditional change in exemption eligibility remains unresolved.\nCounterreading: Danish 'adgang' can encompass access to benefits as well as initial membership. German, French and Finnish expressly connect the exception to retirement or invalidity benefits, supporting a corresponding limitation when interpreting Danish. English's admission limb can itself raise an attachment question about the benefit qualification. The equally authoritative versions therefore require a contextual interpretation, rather than treating the Danish general wording or English formulation as decisive.",
-          "uncertainty": "The available text contains Articles 2 and 6 but not the scope provisions needed to establish coverage of this different benefit category. No conclusion about an exclusion under those provisions, or about a resulting violation, is established.\nUnresolved: Does the Directive cover the proposed sickness-benefit arrangement, and is that arrangement legally distinct from invalidity provision? The relevant scope text and scheme characteristics are needed before a changed exemption outcome can be established.",
-          "assessed_at": "2026-10-14T08:37:34.006203Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "b5d765d83cd3035125c4c88b"
           ]
         },
         {
@@ -5289,6 +5401,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "8a8a3c3fe57542d8484d1d1a"
+          ]
+        },
+        {
+          "id": "impact-f2626db0c3b3d4934e940904",
+          "title": "Pension scheme admission ages",
+          "legal_anchor": "Directive 2000/78/EC, Articles 3(1)(c), 3(3), 6(1)–(2) and 2(5), read with the Article 6(2) sex-discrimination proviso.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A private employer’s occupational pension scheme qualifies as pay under Article 3(1)(c) and sets an age threshold for admission that is legally separate from its pension-entitlement age. National law exercises the Article 6(2) option; the rule causes no sex discrimination. The admission threshold has no objectively and reasonably justified legitimate aim, or its means are not appropriate and necessary under Article 6(1), and no Article 2(5) measure applies. Assume the disputed reading excludes this distinct admission threshold from Article 6(2).",
+          "rationale": "Croatian Article 6(2) refers to retirement and acquisition of pension rights without expressly identifying admission. A separate admission age is therefore the precise conditional gap. The following employee-group wording elaborates the age conditions, and the actuarial limb concerns calculations rather than a separate membership exclusion. On the broader reading, Article 6(2) allows the Member State to treat the admission threshold as non-discriminatory despite its failure under Article 6(1). On the assumed narrower reading, Article 6(2) no longer protects that same threshold; Article 6(1) and Article 2(5) have been ruled out in the scenario, so direct age discrimination follows. This is a conditional change in the legal result for a specific rule, not merely a different route of justification. Article 3(3) excludes State or similar-scheme payments, which the private pay-qualifying scenario avoids.\nCounterreading: The occupational-scheme setting and the reference to employee groups can support a reading of the Croatian provision that includes admission. Other authentic versions expressly name it, favouring that harmonising interpretation. The Court of Justice in HK Danmark v Experian (C-476/11, paragraphs 40–49) reads Article 6(2) across authentic versions and treats admission ages in old-age or invalidity schemes as one of its listed cases. That strongly favours inclusion when the versions are interpreted together; the rating describes only the result if the narrower reading nevertheless prevailed.",
+          "uncertainty": "No actual scheme or national rule is identified. The conditional result requires a truly separate admission threshold, a private pension qualifying as pay, national exercise of Article 6(2), no sex discrimination, failure of Article 6(1), and no Article 2(5) measure. Whether Croatian wording would ultimately be read narrowly remains open. The Court’s multilingual interpretation strongly disfavors the narrow reading in an actual dispute.",
+          "assessed_at": "2026-10-14T08:42:40.533199Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "97d630328f9c116030e2e846"
           ]
         },
         {
@@ -5404,38 +5532,6 @@
           ]
         },
         {
-          "id": "impact-a5cf8a268891d19bae9cc5f6",
-          "title": "Admission before pension entitlement",
-          "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Article 6(1), including point (b), and Article 2(2)(a).",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "An occupational pension scheme within the Directive's scope admits employees only from age 25, independently of its benefit-entitlement age. National law exercises the Article 6(2) option and the condition causes no sex discrimination. Assume the disputed reading excludes this distinct admission condition from conditions for receiving benefits.",
-          "rationale": "Finnish expressly describes age limits as conditions for receiving pension or invalidity benefits. If that wording excludes standalone admission conditions, the membership rule loses the specific Article 6(2) protection. The subsequent employee-group wording remains linked to those benefit conditions; the actuarial limb covers calculations rather than admission bans. Article 6(1)(b) may describe a minimum age for an employment advantage, but does not remove the opening justification requirements. The resulting need for another justification is a concrete change under the specific exception, without establishing an actual violation.\nCounterreading: A condition for receiving benefits can include prior membership, even where admission and payment occur at different ages. German, French and Dutch expressly distinguish membership from benefit entitlement and support that inclusive interpretation. Estonian and Swedish emphasize obtaining or qualifying for benefits, supporting the linguistic plausibility of the Finnish formulation. All versions have equal authority; the conditional effect does not establish that a benefit-only interpretation would prevail.",
-          "uncertainty": "The hypothetical distinction must exist in the particular scheme: a different pension-payment age alone does not prove that membership is legally separate from benefit eligibility. National implementation, the sex-discrimination proviso, general justification and any applicable Article 2(5) measure also matter to actual legality.\nUnresolved: Does the actual admission rule regulate membership separately, or operate as a condition for eventual benefit receipt? The supported conditional consequence is confined to a genuinely separate admission rule.",
-          "assessed_at": "2026-10-14T08:37:34.006258Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "c414111c238e59fbf2e8e612"
-          ]
-        },
-        {
-          "id": "impact-f2626db0c3b3d4934e940904",
-          "title": "Pension scheme admission ages",
-          "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Article 6(1), including point (b), and Article 2(2)(a).",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "An occupational pension scheme within the Directive's scope refuses membership before age 25, while separately setting the age for pension entitlement. National law exercises the Article 6(2) option, and the admission rule causes no sex discrimination. Assume the disputed reading excludes this distinct admission condition from the pension-entitlement wording.",
-          "rationale": "Croatian refers to retirement and acquisition of pension rights without expressly identifying admission. If that narrower reading prevails, the standalone admission condition loses Article 6(2)'s specific protection and needs another justification. The reference to different ages for employee groups elaborates the preceding category; it does not independently exempt all age restrictions. The actuarial limb concerns calculations, not a standalone membership exclusion. Article 6(1)(b) can encompass minimum ages for employment advantages, but remains subject to the opening legitimate-aim and proportionality requirements. The changed availability of the specific exception supports a moderate conditional effect without establishing that the restriction ultimately violates the Directive.\nCounterreading: Admission can be understood as an initial condition for acquiring pension rights. German expressly distinguishes membership from benefit receipt, French distinguishes adhesion from benefit eligibility, and Dutch distinguishes admission age from benefit-entitlement age. These equally authoritative texts support including admission when interpreting Croatian in context. Conversely, Slovenian uses retirement wording similar to Croatian. The multilingual text therefore supports harmonization but does not conclusively establish which reading would prevail. The occupational-scheme qualification also weighs against treating the Croatian retirement wording as a standalone authorization for compulsory dismissal.",
-          "uncertainty": "The scenario is hypothetical. Application requires national exercise of the option, absence of sex discrimination, and a genuine distinction between admission and pension entitlement. Actual legality also depends on general justification and any applicable Article 2(5) measure.\nUnresolved: For any actual scheme, does the admission condition independently regulate membership, and can it satisfy Article 6(1)? No compulsory-termination outcome is established by the quoted provisions.",
-          "assessed_at": "2026-10-14T08:37:34.004547Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "97d630328f9c116030e2e846"
-          ]
-        },
-        {
           "id": "impact-c08696fa75b9de82c25d7395",
           "title": "Organisations’ procedural entitlement is framed as initiating proceedings",
           "legal_anchor": "Directive 2000/78/EC, Article 9(2), read with Article 9(1) and (3).",
@@ -5449,6 +5545,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "1f1af25dfd61af3fa6f51de6"
+          ]
+        },
+        {
+          "id": "impact-10ff6106b0beb15a9d3e9d7e",
+          "title": "Custom in religious employment",
+          "legal_anchor": "Directive 2000/78/EC, Article 4(2), including its historical legislative conditions, occupational safeguards and loyalty paragraph; Article 4(1).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Under qualifying legislation already in force at adoption, an ecumenical religious organisation introduces an interfaith outreach role requiring a particular minority-faith affiliation. Assume the requirement genuinely arises from the duties and ethos, is legitimate and justified, and satisfies the constitutional and general-principles safeguards, but lacks established occupational usage.",
+          "rationale": "If įprastas demands customary status, the organisation loses Article 4(2) eligibility solely because the requirement is not established practice. The historical condition concerns the legislative basis or national practice at adoption; it does not expressly require every later occupational application to be customary. Legitimacy, justification and the connection to the work remain independent safeguards, so custom alone cannot justify religious selection.\nCounterreading: The activity-specific causal wording supports an objective occupational connection. French essentielle, Finnish todellinen and Croatian stvarni reinforce an essential or genuine requirement rather than established usage. Considering these equally authoritative texts together favours the harmonizing reading over a separate customary-status condition.",
+          "uncertainty": "The hypothetical role's occupational justification and genuinely noncustomary character require proof; a new job title alone would not suffice. The historical legislative basis must cover the role. No actual recruitment decision or violation is established.\nUnresolved: Lithuanian Article 4(1) also uses įprastas. If the customary-status construction applies consistently, that alternative cannot rescue the same noncustomary requirement, even if it is determining and proportionate. If the construction were confined to Article 4(2), a changed overall discrimination outcome would additionally require failure of Article 4(1). The loyalty paragraph does not independently authorize religious selection and remains subject to compliance with the Directive.",
+          "assessed_at": "2026-10-14T08:51:08.707109Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "453dfcb575b841a33abe675b"
           ]
         },
         {
@@ -5580,6 +5692,22 @@
           ]
         },
         {
+          "id": "impact-e600f146d22aa68cfaf7d9d3",
+          "title": "Membership and pension qualification",
+          "legal_anchor": "Directive 2000/78/EC, Articles 3(1)(c), 3(3), 6(1)–(2) and 2(5), read with the Article 6(2) sex-discrimination proviso.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A private employer’s occupational pension scheme qualifies as pay under Article 3(1)(c) and sets an age threshold for admission that is legally separate from its pension-entitlement age. National law exercises the Article 6(2) option; the rule causes no sex discrimination. The admission threshold has no objectively and reasonably justified legitimate aim, or its means are not appropriate and necessary under Article 6(1), and no Article 2(5) measure applies. Assume the disputed reading excludes this distinct admission threshold from Article 6(2).",
+          "rationale": "Latvian Article 6(2) describes ages for receiving or qualifying for pension or invalidity benefits without expressly naming admission to the scheme. If it excludes a separate admission threshold, the employee-group clause remains tied to the preceding conditions and the actuarial limb does not protect a standalone membership ban. On the broader reading, Article 6(2) allows the Member State to treat the admission threshold as non-discriminatory despite its failure under Article 6(1). On the assumed narrower reading, Article 6(2) no longer protects that same threshold; Article 6(1) and Article 2(5) have been ruled out in the scenario, so direct age discrimination follows. This is a conditional change in the legal result for a specific rule, not merely a different route of justification. Article 3(3) excludes State or similar-scheme payments, which the private pay-qualifying scenario avoids.\nCounterreading: Scheme admission may be functionally connected to qualifying for later benefits. Other authentic versions expressly name admission, favouring a harmonising reading that includes it. The Court of Justice in HK Danmark v Experian (C-476/11, paragraphs 40–49) reads Article 6(2) across authentic versions and treats admission ages in old-age or invalidity schemes as one of its listed cases. That strongly favours inclusion when the versions are interpreted together; the rating describes only the result if the narrower reading nevertheless prevailed.",
+          "uncertainty": "The example is hypothetical. An actual application would require a private pay-qualifying pension, a legally distinct admission rule, national use of the option, no sex discrimination, failure of Article 6(1), and no applicable Article 2(5) measure. The multilingual interpretation of the Latvian wording remains unsettled. The Court’s multilingual interpretation strongly disfavors the narrow reading in an actual dispute.",
+          "assessed_at": "2026-10-14T08:42:40.533421Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "b090df671f8613dfabd05e46"
+          ]
+        },
+        {
           "id": "impact-f51f31f9e0a0ff3f9226206f",
           "title": "Available amendment versus completed amendment",
           "legal_anchor": "Directive 2000/78/EC, Article 16(b)'s alternative corrective measures, read with Article 2.",
@@ -5625,22 +5753,6 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "32ce347a5633a9dbd4a45766"
-          ]
-        },
-        {
-          "id": "impact-e600f146d22aa68cfaf7d9d3",
-          "title": "Membership and pension qualification",
-          "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Article 6(1), including point (b), and Article 2(2)(a).",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "An occupational pension scheme within the Directive's scope excludes new members below age 25 while separately specifying pension-entitlement conditions. National law exercises the Article 6(2) option and no sex discrimination results. Assume the disputed reading treats the membership restriction as outside receiving or qualifying for benefits.",
-          "rationale": "Latvian describes ages for receiving or qualifying for pension or invalidity benefits without separately naming scheme admission. Under the assumed narrower reading, the admission restriction loses the specific Article 6(2) exception. The employee-group clause remains an elaboration of the preceding age conditions, and the calculation limb does not independently protect a membership ban. Article 6(1)(b) expressly contemplates minimum ages for employment advantages, but remains conditional on the general justification test. The supported change is therefore the availability of the specific exception, not an automatic conclusion that the admission rule is unlawful.\nCounterreading: Qualifying for a pension can include admission to the scheme through which rights accrue. German, French and Dutch expressly distinguish admission from benefit entitlement and support that harmonizing interpretation. Spanish also frames the exception through access or qualification for benefits, showing that Latvian's formulation is not isolated. Equal authority requires reconciling these formulations; the text does not establish that the restrictive Latvian reading would ultimately prevail.",
-          "uncertainty": "This is a hypothetical boundary case. Actual application depends on the scheme's membership and benefit rules, national exercise of the option, and the sex-discrimination proviso. General justification or an applicable Article 2(5) measure could preserve the restriction's legality.\nUnresolved: For a particular scheme, is the entry age a separate membership condition or itself a condition of qualifying for benefits? The conditional assessment assumes the former and does not decide the scheme's ultimate legality.",
-          "assessed_at": "2026-10-14T08:37:34.006142Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "b090df671f8613dfabd05e46"
           ]
         },
         {
@@ -5740,6 +5852,38 @@
           ]
         },
         {
+          "id": "impact-d045375889e62ac8d8a945f4",
+          "title": "Access to other occupational benefits",
+          "legal_anchor": "Directive 2000/78/EC, Articles 3(1)(c), 3(3) and 6(1)–(2), read with the Article 6(2) sex-discrimination proviso.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An employer-funded occupational sickness-benefit scheme provides neither retirement nor invalidity benefits and sets a sex-neutral admission age. Assume its benefits count as pay under Article 3(1)(c) and it is not a State or similar scheme under Article 3(3). The question is whether Danish Article 6(2) gives its admission age a broader exception than the other authentic versions.",
+          "rationale": "Danish Article 6(2) mentions admission to occupational social-security schemes without expressly naming retirement or invalidity benefits. The Court of Justice addressed this very Danish omission in HK Danmark v Experian (C-476/11, paragraphs 40–48). Reading the authentic versions together, it held that Article 6(2) applies only to occupational schemes covering old-age or invalidity risks and to the listed age-setting cases. A sickness-only scheme therefore cannot gain this specific exception through the Danish wording. Article 3(1)(c) may cover a private employment benefit qualifying as pay, while Article 3(3) excludes payments connected with State or similar schemes; neither changes the Article 6(2) restriction. Article 6(1) remains a possible justification on its own conditions. The wording difference consequently has no demonstrated legal effect in this scenario.\nCounterreading: The Danish admission wording must be interpreted uniformly with the other authentic versions and the Court’s restrictive construction, rather than as a free-standing exception for every occupational scheme.",
+          "uncertainty": "Whether any actual sickness benefit qualifies as pay, falls outside Article 3(3), or is objectively justified under Article 6(1) depends on its terms. Those questions do not make a sickness-only scheme eligible for the Article 6(2) exception under the Court’s interpretation. No impact rating is assigned for this wording difference.",
+          "assessed_at": "2026-10-14T08:42:40.533534Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "b5d765d83cd3035125c4c88b"
+          ]
+        },
+        {
+          "id": "impact-5a110ff14dda3eda277fb7b3",
+          "title": "Customary occupational requirements",
+          "legal_anchor": "Directive 2000/78/EC, Article 4(1), read with Article 2(1)–(2), Article 2(5) and Article 4(2).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A secular organisation introduces a specialist peer-support occupation requiring a particular sexual orientation. Assume that the characteristic genuinely determines the work, the objective is legitimate, the requirement is proportionate, and national law provides the occupational exception. The requirement has no established occupational usage, rather than merely being new to this employer.",
+          "rationale": "Lithuanian įprastas supports a customary or usual meaning. If established usage becomes a necessary condition, the hypothetical requirement loses Article 4(1) protection despite satisfying its remaining conditions. This changes eligibility for the exception to direct discrimination. Conversely, custom alone cannot establish eligibility: the work-related connection, determining character, legitimacy and proportionality remain necessary.\nCounterreading: The requirement must arise from the particular activities or their context. French essentielle et déterminante and Finnish todellinen ja ratkaiseva support substantive occupational necessity, without a separate historical-usage condition. Read together as equally authoritative texts, these provisions favour that harmonizing interpretation; the customary-status reading is less persuasive.",
+          "uncertainty": "The example is hypothetical. Actual application requires proof of the occupational necessity, absence of established usage and national provision for the exception. These factual assumptions do not establish any actual discriminatory conduct.\nUnresolved: Article 4(2) does not cover the secular employer. Article 2(2)(b)'s justification concerns apparently neutral criteria, whereas the example expressly selects by a protected characteristic. No necessary statutory measure under Article 2(5) is assumed. The remaining application questions concern proof of the stated facts.",
+          "assessed_at": "2026-10-14T08:51:08.688588Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "1b39148c738474593187507c"
+          ]
+        },
+        {
           "id": "impact-eff22a4d0dea93368165b362",
           "title": "Actual benefit calculation exemption",
           "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Articles 6(1) and 2(2), (5).",
@@ -5753,6 +5897,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "2336e90d4d4f7e10554ec88f"
+          ]
+        },
+        {
+          "id": "impact-81dc9e29c51e86527337c453",
+          "title": "Source of loyalty obligations",
+          "legal_anchor": "Directive 2000/78/EC, Article 4(2), final paragraph, read with the preceding occupational conditions and Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A religious charity that has imposed no loyalty condition seeks to discipline an employee for public criticism, arguing that the Directive itself supplies the missing obligation.",
+          "rationale": "Romanian makes prezenta directivă the apparent subject of poate impune. That supports a shift in the apparent source of authority. However, may impose does not establish that an obligation has actually been imposed, its content, or a disciplinary consequence. Even accepting the disputed subject, the proposed employment outcome requires an additional legal step that the quoted provisions do not establish.\nCounterreading: The same sentence expressly preserves the organisations' right and requires conformity with national constitutional and legislative provisions. German and Portuguese directly identify the organisations as entitled to require loyalty; French expresses preservation of their right. Together, these equally authoritative texts strongly support an employer's conditional power to require loyalty.",
+          "uncertainty": "The available extracts do not establish applicable national employment rules, an implementing measure, contractual duties or a route for enforcing the apparent permission. No conclusion about a Directive-based employee duty or lawful discipline follows from the syntax alone.\nUnresolved: What act converts the apparent permission into an employee obligation, and what authorizes discipline for its breach? The continuing compliance condition and the prohibition on justifying discrimination on another ground remain operative. The loyalty sentence does not expressly displace Article 2 or the occupational safeguards in Article 4.",
+          "assessed_at": "2026-10-14T08:51:08.707187Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "9b50eff298757517d5ffd7c0"
           ]
         },
         {
@@ -5897,6 +6057,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "f2194a0f48a5408143bfdb84"
+          ]
+        },
+        {
+          "id": "impact-3e830b922d1554392e12b80d",
+          "title": "Individual health reservation",
+          "legal_anchor": "Directive 2000/78/EC, Article 2(5), including the independent protection-of-rights-and-freedoms limb; Article 2(2)(b)(ii)'s reference to Article 5.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "National legislation restricts a disabled employee's duties solely to prevent serious injury to that employee, without a public-safety or population-health purpose. The proposed distinction concerns whether the health reservation can preserve that restriction.",
+          "rationale": "Even assuming public health excludes this individual protection, losing the health limb does not establish loss of Article 2(5)'s reservation. Protecting the employee's rights may independently qualify: the employee can be another person relative to the authority imposing the measure. Necessity and accommodation also remain unresolved. A disability-specific restriction is not automatically an apparently neutral measure eligible for Article 2(2)(b)'s justification route.\nCounterreading: Romanian “sănătății publice” and Dutch “volksgezondheid” can describe a public system protecting health through individual applications. English, German and French use unqualified health language. A common interpretation may cover the same necessary protective measures without distinguishing individual applications from collective protection.",
+          "uncertainty": "Whether public health excludes organized protection of individual workers is interpretively uncertain. Separately, even under that exclusion, the measure's legal treatment depends on alternative grounds and necessity.\nUnresolved: Would the rights-and-freedoms limb preserve the restriction? Is it necessary after considering accommodation, and do occupational-requirement rules affect it? Article 5 and the wider justification provisions are not reproduced, and no concrete national measure establishes these conditions.",
+          "assessed_at": "2026-10-14T08:44:02.264556Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "be3d75c05698bcf7cf2512ea"
           ]
         },
         {
@@ -10085,7 +10261,7 @@
       "version": "2025-08-20",
       "version_label": "Consolidated text",
       "retrieved_at": "2026-10-14T07:28:02.313588+00:00",
-      "status": "analyzing",
+      "status": "partial",
       "subject": "",
       "languages": [
         {
@@ -10306,15 +10482,17 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 110,
-        "reviewed_units": 30,
+        "reviewed_units": 40,
         "total_languages": 23,
-        "reviewed_languages": 7,
+        "reviewed_languages": 9,
         "reviewed_language_codes": [
           "bg",
           "cs",
           "da",
           "de",
           "el",
+          "es",
+          "et",
           "fr"
         ]
       },
@@ -11526,6 +11704,426 @@
             ],
             "reviewed_at": "2026-10-14T08:39:40.930891Z"
           }
+        },
+        {
+          "id": "a02b82d79036a1bb596e7ccf",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food which contains at least 8 g of arabinoxylan (AX)-rich fibre produced from wheat endosperm (at least 60 % AX by weight) per 100 g of available carbohydrates in a quantified portion as part of the meal.",
+          "title": "Arabinoxylan eligibility may use a broader carbohydrate denominator in Spanish",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English limits the denominator to available carbohydrates; Spanish refers to carbohydrates present. Counting non-available carbohydrates under the Spanish wording could increase the fibre required for eligibility. A shared nutritional interpretation could reconcile the provisions.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "Esta declaración solo puede utilizarse respecto a alimentos que contengan, como mínimo, 8 g de fibra con alto contenido de arabinoxilanos producidos a partir del albumen de trigo (al menos un 60 % de arabinoxilanos en peso) por 100 g de hidratos de carbono presentes en una porción cuantificada en una comida.",
+              "translation": "This claim may be used only for foods containing at least 8 g of fibre rich in arabinoxylans produced from wheat endosperm (at least 60 % arabinoxylans by weight) per 100 g of carbohydrates present in a quantified portion in a meal.",
+              "explanation": "English limits the denominator to available carbohydrates; Spanish refers to carbohydrates present. Counting non-available carbohydrates under the Spanish wording could increase the fibre required for eligibility. A shared nutritional interpretation could reconcile the provisions.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:43:37.387944Z"
+          }
+        },
+        {
+          "id": "ec341e380508f7dc3391d019",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food which contains at least 4 g of beta-glucans from oats or barley for each 30 g of available carbohydrates in a quantified portion as part of the meal.",
+          "title": "Beta-glucan eligibility may use a broader carbohydrate denominator in Spanish",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English calculates the beta-glucan minimum against available carbohydrates. Spanish could encompass additional carbohydrates present in the portion, increasing the quantity of beta-glucans needed to qualify. The nutritional context permits a harmonizing interpretation.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "Esta declaración solo puede utilizarse respecto a alimentos que contienen un mínimo de 4 g de betaglucanos procedentes de avena o cebada por cada 30 g de hidratos de carbono presentes en una porción cuantificada como parte de la comida.",
+              "translation": "This claim may be used only for foods containing a minimum of 4 g of beta-glucans from oats or barley for every 30 g of carbohydrates present in a quantified portion as part of the meal.",
+              "explanation": "English calculates the beta-glucan minimum against available carbohydrates. Spanish could encompass additional carbohydrates present in the portion, increasing the quantity of beta-glucans needed to qualify. The nutritional context permits a harmonizing interpretation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:43:37.390027Z"
+          }
+        },
+        {
+          "id": "0db77c655c9ff78564b6a191",
+          "passage_id": "p0005",
+          "english_quote": "Sugar replacers, i.e. intense sweeteners; xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, erythritol, sucralose and polydextrose; D-tagatose and isomaltulose",
+          "title": "Spanish sugar-replacer provisions name isomaltose instead of isomalt",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Spanish names isomaltose where English names isomalt in the blood-glucose and tooth-mineralisation provisions. This could change which ingredient qualifies, subject to the remaining conditions of each claim.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "Sustitutos del azúcar, es decir, edulcorantes intensos; xilitol, sorbitol, manitol, maltitol, lactitol, isomaltosa, eritritol, sucralosa y polidextrosa; D-tagatosa e isomaltulosa",
+              "translation": "Sugar replacers, that is, intense sweeteners; xylitol, sorbitol, mannitol, maltitol, lactitol, isomaltose, erythritol, sucralose and polydextrose; D-tagatose and isomaltulose",
+              "explanation": "Spanish names isomaltose where English names isomalt in the blood-glucose and tooth-mineralisation provisions. This could change which ingredient qualifies, subject to the remaining conditions of each claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:43:37.390952Z"
+          }
+        },
+        {
+          "id": "ad7472df2ba2773f896b412a",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim information shall be given to the consumer that the claimed effect is obtained with a daily intake of at least 10 g of wheat bran fibre.",
+          "title": "Spanish wheat-bran information omits the minimum-intake qualifier",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires consumer information presenting 10 g as a minimum daily intake; Spanish states a daily intake of 10 g without that qualifier. This could affect whether information expressing a broader intake range satisfies the claim’s conditions, although neither text imposes a maximum.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "Para que un producto pueda llevar esta declaración, se informará al consumidor de que el efecto beneficioso se obtiene con una ingesta diaria de 10 g de fibra de salvado de trigo.",
+              "translation": "For a product to bear this claim, the consumer shall be informed that the beneficial effect is obtained with a daily intake of 10 g of wheat bran fibre.",
+              "explanation": "English requires consumer information presenting 10 g as a minimum daily intake; Spanish states a daily intake of 10 g without that qualifier. This could affect whether information expressing a broader intake range satisfies the claim’s conditions, although neither text imposes a maximum.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:43:37.391870Z"
+          }
+        },
+        {
+          "id": "3c60a9b19e3f87ba34232697",
+          "passage_id": "p0005",
+          "english_quote": "Consumption of foods/drinks containing <name of all used non-digestible carbohydrates> instead of sugars induces a lower blood glucose rise after their consumption compared to sugar-containing foods/drinks.",
+          "title": "Spanish non-digestible carbohydrate claim refers to hyperglycaemia",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English authorizes a comparison of blood-glucose rises, including rises within normal levels. Spanish describes lower hyperglycaemia, potentially changing the permitted message to a comparison involving abnormally elevated blood glucose. The common consumption context may support a harmonizing reading.",
+          "variants": [
+            {
+              "language": "es",
+              "language_name": "Spanish",
+              "quote": "Tras consumir alimentos o bebidas que contienen <nombre de todos los hidratos de carbono no digeribles utilizados> en lugar de azúcares se induce una hiperglucemia menor que cuando se consumen alimentos o bebidas que contienen azúcar.",
+              "translation": "After consuming foods or drinks containing <name of all the non-digestible carbohydrates used> instead of sugars, lower hyperglycaemia is induced than when foods or drinks containing sugar are consumed.",
+              "explanation": "English authorizes a comparison of blood-glucose rises, including rises within normal levels. Spanish describes lower hyperglycaemia, potentially changing the permitted message to a comparison involving abnormally elevated blood glucose. The common consumption context may support a harmonizing reading.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:43:37.392899Z"
+          }
+        },
+        {
+          "id": "28a27ff857e20522e1af5b9d",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim each piece of sugar-free chewing gum should contain at least 20 mg carbamide.",
+          "title": "Carbamide minimum differs by a factor of 1,000",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Estonian specifies a minimum of 20 g per piece, compared with 20 mg in English. This could impose a 1,000-fold higher threshold for using the claim.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Et toode oleks väitega kooskõlas, peab iga tükk suhkruvaba närimiskummi sisaldama vähemalt 20 g karbamiidi.",
+              "translation": "For the product to comply with the claim, each piece of sugar-free chewing gum must contain at least 20 g of carbamide.",
+              "explanation": "Estonian specifies a minimum of 20 g per piece, compared with 20 mg in English. This could impose a 1,000-fold higher threshold for using the claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.295826Z"
+          }
+        },
+        {
+          "id": "cac5a7a7159b8d94393b7234",
+          "passage_id": "p0005",
+          "english_quote": "When the claim is used on food supplements and/or fortified foods information shall also be given to consumers not to exceed a supplemental daily intake of 5 g of EPA and DHA combined.",
+          "title": "EPA and DHA warning omits the supplemental-intake limitation",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For the DHA triglyceride claim and both combined DHA/EPA claims, English requires a warning about supplemental intake. Estonian could require the 5 g warning to cover ordinary dietary intake as well.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Kui väidet kasutatakse toidulisandite ja/või rikastatud toidu kohta, tuleb tarbijat teavitada, et päevane EPA ja DHA kogus kokku ei tohi ületada 5 g.",
+              "translation": "When the claim is used for food supplements and/or fortified foods, the consumer must be informed that the combined daily amount of EPA and DHA must not exceed 5 g.",
+              "explanation": "For the DHA triglyceride claim and both combined DHA/EPA claims, English requires a warning about supplemental intake. Estonian could require the 5 g warning to cover ordinary dietary intake as well.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.297531Z"
+          }
+        },
+        {
+          "id": "d55f335ad12b91d39ef6d408",
+          "passage_id": "p0005",
+          "english_quote": "Calcium has a role in the process of cell division and specialisation",
+          "title": "Calcium claim omits cell specialisation",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly includes cell division and specialisation. Estonian includes only division, potentially narrowing the health benefit expressly authorised for calcium.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Kaltsium osaleb rakkude jagunemise protsessis",
+              "translation": "Calcium participates in the process of cell division",
+              "explanation": "English expressly includes cell division and specialisation. Estonian includes only division, potentially narrowing the health benefit expressly authorised for calcium.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.298288Z"
+          }
+        },
+        {
+          "id": "aa0638431916d93b0a91cedf",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim information shall be given to the consumer that the claimed effect is obtained with a daily intake of at least 10 g of wheat bran fibre.",
+          "title": "Wheat-bran advice measures bran instead of its fibre",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires advice specifying at least 10 g of wheat bran fibre daily; Estonian specifies 10 g of wheat bran. This could communicate a lower fibre intake for obtaining the claimed effect.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Et toode oleks väitega kooskõlas, tuleb tarbijat teavitada, et väidetav mõju avaldub siis, kui päevas tarbitakse vähemalt 10 g nisukliisid.",
+              "translation": "For the product to comply with the claim, the consumer must be informed that the claimed effect occurs when at least 10 g of wheat bran is consumed per day.",
+              "explanation": "English requires advice specifying at least 10 g of wheat bran fibre daily; Estonian specifies 10 g of wheat bran. This could communicate a lower fibre intake for obtaining the claimed effect.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.298842Z"
+          }
+        },
+        {
+          "id": "4d80445994ae762df070850a",
+          "passage_id": "p0005",
+          "english_quote": "Lactase enzyme improves lactose digestion in individuals who have difficulty digesting lactose",
+          "title": "Lactase claim describes absorption instead of digestion",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Estonian describes increased lactose absorption, while English describes improved digestion. This could change the authorised benefit and the difficulty used to identify its target population.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Laktaasiensüüm tõstab laktoosi imendumist inimestel, kellel esineb raskusi laktoosi imendumisega",
+              "translation": "Lactase enzyme increases lactose absorption in people who have difficulty absorbing lactose",
+              "explanation": "Estonian describes increased lactose absorption, while English describes improved digestion. This could change the authorised benefit and the difficulty used to identify its target population.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.299545Z"
+          }
+        },
+        {
+          "id": "875e64f4543dbd4ff4d1ec6b",
+          "passage_id": "p0005",
+          "english_quote": "Live cultures in yoghurt or fermented milk improve lactose digestion of the product in individuals who have difficulty digesting lactose",
+          "title": "Yoghurt-culture claim describes absorption instead of digestion",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Estonian describes improved lactose absorption and absorption difficulties; English describes digestion and digestive difficulties. This could change the authorised health representation and its stated target population.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Eluskultuurid jogurtis või fermenteeritud piimas parandavad tootes sisalduva laktoosi imendumist inimestel, kellel esineb raskusi laktoosi imendumisega",
+              "translation": "Live cultures in yoghurt or fermented milk improve absorption of the lactose contained in the product in people who have difficulty absorbing lactose",
+              "explanation": "Estonian describes improved lactose absorption and absorption difficulties; English describes digestion and digestive difficulties. This could change the authorised health representation and its stated target population.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.300316Z"
+          }
+        },
+        {
+          "id": "668e1a1f4a5ff1550999e85c",
+          "passage_id": "p0005",
+          "english_quote": "Creatine increases physical performance in successive bursts of short-term, high intensity exercise",
+          "title": "Creatine claim omits the successive-bursts qualification",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English confines the stated benefit to successive bursts of exercise. Estonian could support a broader claim covering an isolated short, intense effort.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Kreatiin tõstab füüsilist suutlikkust lühiajaliste, suure intensiivsusega füüsiliste pingutuste puhul",
+              "translation": "Creatine increases physical performance during short-term, high-intensity physical efforts",
+              "explanation": "English confines the stated benefit to successive bursts of exercise. Estonian could support a broader claim covering an isolated short, intense effort.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.301457Z"
+          }
+        },
+        {
+          "id": "d1ffe46ac31988e6d925864a",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim, information shall be given to the consumer that the beneficial effect is obtained by consuming 10 g of lactitol in one daily dose",
+          "title": "Lactitol consumer information omits the single-dose instruction",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires consumers to be told to take 10 g in one daily dose. Estonian specifies only the daily amount, potentially allowing instructions that omit taking it together.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Et toode oleks väitega kooskõlas, tuleb tarbijat teavitada, et kasulik toime avaldub siis, kui päevas tarbitakse 10 g laktitooli.",
+              "translation": "For the product to comply with the claim, the consumer must be informed that the beneficial effect occurs when 10 g of lactitol is consumed per day.",
+              "explanation": "English requires consumers to be told to take 10 g in one daily dose. Estonian specifies only the daily amount, potentially allowing instructions that omit taking it together.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.301902Z"
+          }
+        },
+        {
+          "id": "23298c65907b0dad7c2748c4",
+          "passage_id": "p0005",
+          "english_quote": "( *3 ) Authorised on 24.9.2013 restricted to the use of GlaxoSmithKline Services Unlimited and its affiliates, GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom, for a period of five years.",
+          "title": "Historical exclusive-use restriction covers a subsidiary rather than affiliates",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For the five-year restriction beginning in September 2013, English includes affiliates whereas Estonian names a subsidiary. Estonian could therefore cover fewer companies entitled to use the reformulated acidic-drink claim. The possible effect concerns historical eligibility.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "( *3 ) Luba antud 24.9.2013, väidet võib viie aasta jooksul kasutada üksnes GlaxoSmithKline Services Unlimited ja selle tütarettevõte, GSK House, 980 Great West Road, Brentford, TW89GS, Ühendkuningriik.",
+              "translation": "( *3 ) Authorisation granted on 24 September 2013; for five years the claim may be used only by GlaxoSmithKline Services Unlimited and its subsidiary, GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom.",
+              "explanation": "For the five-year restriction beginning in September 2013, English includes affiliates whereas Estonian names a subsidiary. Estonian could therefore cover fewer companies entitled to use the reformulated acidic-drink claim. The possible effect concerns historical eligibility.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.302288Z"
+          }
+        },
+        {
+          "id": "721952abfd6e8bb1f4b1ce6c",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food which contains at least 8 g of arabinoxylan (AX)-rich fibre produced from wheat endosperm (at least 60 % AX by weight) per 100 g of available carbohydrates in a quantified portion as part of the meal.",
+          "title": "Arabinoxylan quantity omits the minimum qualifier",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly allows at least 8 g of the specified fibre per 100 g of available carbohydrates. Estonian states 8 g, which could be read as an exact ratio and exclude higher amounts.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Väidet võib kasutada üksnes toidu kohta, mis sisaldab 8 g nisu endospermist toodetud arabinoksülaani (AX) rikkaid kiudaineid (vähemalt 60 % AX kogukaalus) 100 g omastatavate süsivesikute kohta määratletud portsjonis söögikorra osana.",
+              "translation": "The claim may be used only for food containing 8 g of arabinoxylan (AX)-rich fibre produced from wheat endosperm (at least 60 % AX by total weight) per 100 g of available carbohydrates in a quantified portion as part of the meal.",
+              "explanation": "English expressly allows at least 8 g of the specified fibre per 100 g of available carbohydrates. Estonian states 8 g, which could be read as an exact ratio and exclude higher amounts.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:48:07.302682Z"
+          }
         }
       ],
       "notes": [
@@ -11535,7 +12133,7 @@
         "The selected official consolidation omits recitals. Analysis coverage concerns the preserved consolidation's articles, annexes and included notes; it is not a complete review of the act's historical preamble.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared.",
-        "1 candidate(s) failed exact source-quotation validation and were excluded from publication; local audit records retain these candidates."
+        "3 candidate(s) failed exact source-quotation validation and were excluded from publication; local audit records retain these candidates."
       ],
       "impact_families": []
     },
