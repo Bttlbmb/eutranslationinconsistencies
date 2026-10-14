@@ -696,7 +696,10 @@ summary {
 .impact-effect,
 .impact-rule,
 .impact-rationale,
-.impact-uncertainty,
+.impact-uncertainty {
+  margin-top: 7px;
+  font: 400 var(--comparison-text-size) / 1.55 var(--sans);
+}
 .impact-explanation p,
 .issue-evidence-intro {
   margin-top: 7px;
