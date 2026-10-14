@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T06:23:43.212662Z",
+  "generated_at": "2026-10-14T06:31:17.438737Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4716,6 +4716,38 @@
           ]
         },
         {
+          "id": "impact-9e12485d031d1bc3233c7734",
+          "title": "Slovenian participation criteria refer to the Directive instead of national law",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(2), particularly the criteria reference, legitimate interest and consent; Article 9(3).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An equality association excluded by an additional national eligibility criterion seeks participation with the claimant's consent, arguing that only Directive-defined criteria may govern.",
+          "rationale": "The Slovenian text expressly refers to criteria defined in this Directive rather than national law. However, the supplied provisions establish no replacement organisational eligibility test. Even accepting that reference, neither admission of this association nor displacement of its particular national restriction follows. Legitimate interest remains required. The change in wording therefore does not yet support a concrete changed standing outcome or an awarded impact tier.\nCounterreading: Directive-defined criteria can describe the standards whose compliance the organisation seeks to secure, without exhaustively regulating procedural eligibility or excluding national criteria. This reading harmonizes the provision's functions without silently treating English as superior.",
+          "uncertainty": "Ultimate interpretation: the Slovenian syntax places the criteria phrase within the description of ensuring compliance, permitting a substantive-compliance reading. German and Croatian expressly connect national criteria to legitimate interest. Conditional effect: independently of that interpretive dispute, the replacement criteria and their effect on eligibility remain unidentified.\nUnresolved: Which Directive-defined criteria govern organisational eligibility, and how would they affect the disputed national condition? The remaining act is omitted. Article 2 defines discrimination, not a standing test; Article 9(1) protects individual access rather than supplying organisational standing. Consent, legitimate interest and deadlines remain independent conditions. comparator_omissions is empty and context_limited is false, but neither flag supplies the missing eligibility mechanism.",
+          "assessed_at": "2026-10-14T06:25:58.688515Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3089eda1665244c506158dd0"
+          ]
+        },
+        {
+          "id": "impact-c08696fa75b9de82c25d7395",
+          "title": "Organisations’ procedural entitlement is framed as initiating proceedings",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(2), read with Article 9(1) and (3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An organisation meeting national legitimate-interest criteria obtains consent to support an employee's pending, timely direct-discrimination case. Hypothetical national rules permit organisational initiation but exclude participation after the claimant has filed.",
+          "rationale": "Aloittaa means to begin or initiate. If that limits the guaranteed organisational role to commencement, later participation falls outside the Article 9(2) minimum. Under a participation-inclusive construction, the same exclusion would conflict with the protected role. Article 9(1)'s individual-access guarantee does not supply that organisational entitlement. Moderate reflects a concrete procedural difference without assuming loss of the underlying claim.\nCounterreading: Häntä tukeakseen can encompass continuing assistance, and starting an intervention may itself constitute initiating a procedure. This reading could preserve access to an existing case despite aloittaa. The rating assumes a narrower construction excluding that possibility.",
+          "uncertainty": "Ultimate interpretation remains genuinely contested by the supplied authentic formulations. German and Swedish describe participation, while Spanish and Italian describe initiation. The common purpose of acting for or supporting the complainant supports harmonization, rather than treating either linguistic group as controlling.\nUnresolved: None material within the hypothetical: eligibility, consent and deadlines are satisfied. The claim concerns current employment, so paragraph 1's employment-specific survival phrase creates no additional dependency. Article 2's definitions, exceptions and accommodation cross-reference do not independently grant the organisation a procedural role. comparator_omissions is empty and context_limited is false; actual national practice is not established or needed for this conditional comparison.",
+          "assessed_at": "2026-10-14T06:25:58.688465Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "1f1af25dfd61af3fa6f51de6"
+          ]
+        },
+        {
           "id": "impact-6bb3b141a7607942a4147d0c",
           "title": "Accommodation wording diverges; changed operative outcome unresolved",
           "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(1), (2)(a), (2)(b)(i)–(ii) and (5); expressly cross-referenced Article 5.",
@@ -4764,6 +4796,54 @@
           ]
         },
         {
+          "id": "impact-98040d5f53511ae4e68bf2b3",
+          "title": "Associations’ procedural entitlement may cover initiation only",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(2), read with Article 9(1) and (3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A nationally eligible organisation, with the claimant's consent, seeks to support a pending, timely direct-discrimination employment case. Hypothetical national procedure allows organisations to initiate cases but excludes later participation.",
+          "rationale": "Iniția expressly describes initiation. If it exhausts the guaranteed organisational role, later participation is outside the Article 9(2) minimum; a participation-inclusive reading would protect that role. Paragraph 1's individual-access obligation, including its reference to both procedural categories, does not independently confer organisational participation. This supports moderate procedural impact without establishing loss of the claimant's action or any merits outcome.\nCounterreading: În sprijinul reclamantului can support an ongoing role, and initiating an intervention could satisfy iniția without initiating the principal case. A broader procedural meaning could therefore eliminate the proposed difference.",
+          "uncertainty": "Ultimate interpretation remains open. German and Croatian expressly describe participation, while Spanish and French use initiation formulations. The shared support language provides a substantial harmonizing basis; the supplied versions cannot be resolved by counting them or privileging English.\nUnresolved: None material once the initiation-only construction is assumed and eligibility, consent and deadlines are satisfied. The separate Romanian indirect-discrimination justification wording in Article 2(2)(b)(i) does not govern this direct-discrimination scenario. No Article 2 exception or Article 5 cross-reference supplies an alternative organisational participation right. comparator_omissions is empty and context_limited is false; no identified omission defeats the conditional minimum.",
+          "assessed_at": "2026-10-14T06:25:58.688566Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3e306e54768db8186b56df4d"
+          ]
+        },
+        {
+          "id": "impact-5eb7d0b4d663f5cc97347dfb",
+          "title": "Possible requirement for both judicial and administrative remedies",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(1), compared with Article 9(2) and subject to Article 9(3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A hypothetical Member State provides judicial enforcement for timely, covered direct-discrimination complaints but no administrative enforcement route.",
+          "rationale": "Romanian și is conjunctive, whereas the supplied English permits either category or both. If paragraph 1 requires both categories to be available, the hypothetical system must add administrative access. Paragraph 2's și/sau concerns organisational participation and is not an express exception to paragraph 1. This supports a moderate change in the required procedural provision, without establishing a right to duplicate litigation, cumulative remedies or a different discrimination decision.\nCounterreading: Procedurile judiciare și administrative can name the relevant classes collectively rather than require every system to establish both. The provision's accessibility focus supports this harmonization.",
+          "uncertainty": "Ultimate interpretation: the collective reading is strong. Romanian paragraph 2 uses and/or, and Spanish and Czech paragraph 1 expressly use alternatives. Together they support understanding paragraph 1 as ensuring accessibility of whichever enforcement routes are provided. A mandatory dual-route interpretation therefore remains uncertain.\nUnresolved: None material once a mandatory-both-categories construction is assumed. Paragraph 3 preserves deadlines. The supplied Romanian Article 2(2)(b)(i) contains a separate divergence concerning indirect-discrimination justification; a direct-discrimination scenario avoids reliance on it. Article 5's accommodation cross-reference does not determine this route requirement. comparator_omissions is empty and context_limited is false; no identified omission blocks the conditional procedural outcome.",
+          "assessed_at": "2026-10-14T06:25:58.688410Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "1edd29be4c858d88543d0cd1"
+          ]
+        },
+        {
+          "id": "impact-4029955815b1d4bda0666572",
+          "title": "Conciliation is included without an appropriateness condition",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(1), subject to Article 9(3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A hypothetical Member State provides judicial enforcement for timely, covered workplace-discrimination complaints but makes no conciliation procedure available because it considers conciliation inappropriate.",
+          "rationale": "The Estonian inclusion contains no equivalent to the express appropriateness qualification. If it requires conciliation availability unconditionally, providing judicial access alone would not satisfy that additional requirement. The administrative-or-judicial wording does not expressly make the included conciliation optional. A distinct procedural avenue therefore changes under the disputed construction, supporting moderate impact without assuming compulsory settlement or any different merits result.\nCounterreading: Kaasa arvatud may include conciliation within the procedures whose accessibility must be ensured when available, without requiring its creation in every system. Reading that phrase with the other authentic qualifications preserves discretion.",
+          "uncertainty": "Ultimate interpretation: the mandatory construction is textually possible but faces a strong harmonizing reading. Finnish, German and Slovenian expressly preserve an appropriateness assessment, coherently explaining conciliation as a qualified supplement to enforcement procedures. The packet does not establish that the Estonian construction would prevail.\nUnresolved: None material once the unconditional-availability construction is assumed. Article 9(2) governs organisations and does not discharge the paragraph 1 obligation; paragraph 3 preserves deadlines. Article 2's definitions and merits exceptions do not supply a procedural substitute or an express exemption from conciliation availability. comparator_omissions is empty and context_limited is false; no identified omission prevents the conditional outcome.",
+          "assessed_at": "2026-10-14T06:25:58.688346Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "14e2c26c4c5aab2faa67fa31"
+          ]
+        },
+        {
           "id": "impact-95e891637f331b2c6670c6bc",
           "title": "Willingness differs from availability; alternative grounds prevent a demonstrated outcome",
           "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(2)(a), (2)(b)(i)–(ii) and (5); omitted scope and occupational-requirement provisions.",
@@ -4777,6 +4857,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "8999f701dc5667b8ceda62f1"
+          ]
+        },
+        {
+          "id": "impact-f67b855d8d07e0a0bc77b63a",
+          "title": "Initiating proceedings versus participating in proceedings",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(2), read with Article 9(1) and (3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "In a hypothetical national system, a qualifying organisation may initiate proceedings but cannot enter an existing case. With the claimant's approval, it seeks to support a timely, otherwise covered direct-discrimination claim already filed by an employee.",
+          "rationale": "Iniciar expressly describes initiation. If an initiation-only minimum prevails, Article 9(2) would not require access for later supporting participation; a participation-inclusive construction would protect that role. This is a concrete change in the required procedural protection. Article 9(1) preserves the individual's access but does not independently confer the organisation's role. The supported consequence is moderate: a specific participation entitlement changes, without evidence that the claim or its merits necessarily change.\nCounterreading: An organisation can initiate an intervention within existing proceedings, and en su apoyo can encompass assistance throughout a case. Thus iniciar need not confine protection to whoever commenced the principal action. The conditional rating assumes that stronger harmonization does not prevail.",
+          "uncertainty": "Ultimate interpretation remains open. German beteiligen and Portuguese intervir support participation, while French engager toute procédure and Italian avviare support initiation language. These are competing authentic formulations, not votes. The shared support function provides a substantial basis for harmonization.\nUnresolved: No material dependency remains within the stated hypothetical: national legitimate-interest criteria, consent and applicable deadlines are satisfied. Article 2's discrimination definitions and exceptions do not independently confer organisational participation; the scenario uses direct discrimination and invokes no Article 2(5) measure. comparator_omissions is empty and context_limited is false. Omitted national procedure prevents an actual-country finding, not assessment of this conditional minimum.",
+          "assessed_at": "2026-10-14T06:25:58.688145Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "08489c6fe07c45cca226e947"
           ]
         },
         {
@@ -4796,6 +4892,22 @@
           ]
         },
         {
+          "id": "impact-8470820bd43001e24e981b02",
+          "title": "Post-relationship procedural guarantee specifies employment",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its all-persons guarantee; Article 9(3); Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A former professional-association member brings a timely discrimination claim about treatment during membership. Continued access is contested because the ended relationship was not employment.",
+          "rationale": "Työsuhde specifies employment, narrowing the express survival assurance. Nevertheless, the surrounding Finnish sentence guarantees procedures to all persons who consider themselves wronged, and the employment phrase is an inclusive parenthesis. Retaining its employment-specific meaning does not establish an exclusion from the general guarantee. A concrete changed access outcome therefore remains unresolved, and no impact tier is awarded.\nCounterreading: Myös adds an express assurance for former employees rather than limiting other claimants. Other authentic versions reinforce continuity, while the Finnish general-access wording itself supports protection without expanding työsuhde beyond employment.",
+          "uncertainty": "The Finnish employment-specific parenthesis may give an additional assurance to former employees without excluding others. Article 3(1)(d) expressly covers membership of professional organisations; it was omitted from the compact model packet, but is present in the archived Directive. Article 9(1) still gives all persons who consider themselves wronged access to procedures, subject to Article 9(3) deadlines. The hypothetical assumes a timely protected-ground claim. No provision identified in the archived act removes that general access solely because professional-association membership ended. The changed legal outcome therefore remains unestablished even if the disputed phrase is read narrowly.",
+          "assessed_at": "2026-10-14T06:29:31.788103Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "6b2f7f7277996c3eca452876"
+          ]
+        },
+        {
           "id": "impact-f6e5bf79d59228579aa6219e",
           "title": "Conditional exclusion of administrative complainants",
           "legal_anchor": "Directive 2000/78/EC, Article 11; Articles 1–10, 15 and 17; recital 30.",
@@ -4809,6 +4921,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "2ac627822eedfac820cff71f"
+          ]
+        },
+        {
+          "id": "impact-aac68088dbe9cf0effba236e",
+          "title": "Express protection after termination is limited to employment relationships",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its general-access guarantee; Article 9(3); Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A former vocational trainee brings a timely discrimination claim concerning a non-employment training relationship. The employment-specific survival clause is invoked to contest access.",
+          "rationale": "Töösuhe specifies employment, whereas the English text refers to a relationship generally. Nevertheless, the Estonian paragraph independently guarantees procedures to everyone who considers themselves wronged through unequal treatment. Accepting the employment-specific meaning does not establish that former non-employees lose access. No concrete changed access outcome survives that independent limb on the supplied evidence, so no conditional impact tier is assigned.\nCounterreading: Isegi juhul introduces an additional assurance for ended employment, not an exhaustive condition for access. The general guarantee continues to cover everyone otherwise within the Directive.",
+          "uncertainty": "The Estonian employment-specific survival phrase may be read as an additional assurance rather than an exclusion. Article 3(1)(b) expressly covers vocational training; it was omitted from the compact model packet, but is present in the archived Directive. Article 9(1) still gives all persons who consider themselves wronged access to procedures, subject to Article 9(3) deadlines. The hypothetical assumes a timely protected-ground claim. No provision identified in the archived act removes that general access solely because a non-employment training relationship ended. The changed legal outcome therefore remains unestablished even if the disputed phrase is read narrowly.",
+          "assessed_at": "2026-10-14T06:29:31.787758Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "040d646aa6e3d0dd904d8880"
           ]
         }
       ]
@@ -10183,7 +10311,7 @@
       "version": "2022-10-19",
       "version_label": "Original act",
       "retrieved_at": "2026-10-14T00:39:12.355408+00:00",
-      "status": "analyzing",
+      "status": "partial",
       "subject": "",
       "languages": [
         {
