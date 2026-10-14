@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T07:53:31.757898Z",
+  "generated_at": "2026-10-14T08:02:12.292015Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4700,6 +4700,22 @@
       ],
       "impact_families": [
         {
+          "id": "impact-8548b8ca5e315a82b6734ab2",
+          "title": "Organisational support in an existing complaint",
+          "legal_anchor": "Directive 2000/78/EC, Articles 9(1)–(3) and 10(4), read with Recital 29 and Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A qualifying organisation obtains a complainant’s approval to support a timely discrimination proceeding within the Directive’s scope. National law allows organisational initiation but excludes involvement once the complainant has begun proceedings, without an intervention mechanism or independent participation right.",
+          "rationale": "An initiation-only interpretation of “jistgħu jibdew” could permit that restriction under Article 9(2). A participation interpretation would require an effective route for organisational involvement. This is a specific procedural entitlement change; the complainant’s personal access under Article 9(1) remains and no merits outcome follows.\nCounterreading: “Bħala sostenn” expressly recognises support. Initiating an intervention can preserve that function while respecting the verb “jibdew”. German participation and Portuguese intervention wording favour effective assistance in pending cases, while Spanish initiation wording supports the competing textual emphasis. Reading these equally authoritative versions together favours reconciliation over a categorical exclusion based on when the case began. Recital 29 supports association engagement on behalf of or in support of a complainant while preserving national rules on representation and defence. Article 10(4) also refers to proceedings commenced under Article 9(2), confirming that initiation is part of the scheme. Neither provision dictates a particular intervention form; the conditional gap arises where all effective support after filing is barred.",
+          "uncertainty": "The national restriction is hypothetical. Neither wording establishes every possible procedural role, and independent national rights could prevent an actual loss of assistance. Recital 29 supports effective association participation, subject to national procedural rules.\nUnresolved: Eligibility, approval and Article 9(3) deadlines are satisfied in the scenario. Article 2’s substantive definitions and exceptions do not independently guarantee organisational participation. Available national intervention mechanisms would need confirmation before drawing conclusions about a real proceeding.",
+          "assessed_at": "2026-10-14T08:01:58.161143Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "eb5e243a36e923e5ebc1353a"
+          ]
+        },
+        {
           "id": "impact-924b67b71c0e54c7e4bfff92",
           "title": "Personal care and maintenance duties",
           "legal_anchor": "Directive 2000/78/EC, Article 6(1), particularly Article 6(1)(a), read with Article 2(2).",
@@ -4761,6 +4777,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "5506775a88990f4a11296fae"
+          ]
+        },
+        {
+          "id": "impact-932465e949e679b9abe1dc5d",
+          "title": "Association assistance in pending litigation",
+          "legal_anchor": "Directive 2000/78/EC, Articles 9(1)–(3) and 10(4), read with Recital 29 and Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An association satisfying national legitimate-interest criteria seeks, with consent, to support a claimant’s timely discrimination case within the Directive’s scope. National law permits associations to initiate cases but excludes their participation in existing ones, with neither an intervention route nor another participation entitlement.",
+          "rationale": "If “mogły wszczynać” protects initiation alone, the restriction could satisfy Article 9(2). A participation interpretation would require an effective means of organisational involvement in the existing case. The claimant’s own access under Article 9(1) remains, but does not replace this distinct procedural guarantee.\nCounterreading: “Lub ją wspierając” expressly envisages support, and commencing an intervention may satisfy initiation wording. German participation and Portuguese intervention wording reinforce that reconciliation; Italian also speaks of starting a procedure. Equal authority requires interpreting these formulations together. Their shared support function favours assistance in pending proceedings, although the precise procedural entitlement remains open. Recital 29 supports association engagement on behalf of or in support of a complainant while preserving national rules on representation and defence. Article 10(4) also refers to proceedings commenced under Article 9(2), confirming that initiation is part of the scheme. Neither provision dictates a particular intervention form; the conditional gap arises where all effective support after filing is barred.",
+          "uncertainty": "No actual national exclusion is established. The change concerns minimum procedural protection, not automatic admission in a particular role, success on the merits or compensation.\nUnresolved: The scenario satisfies eligibility, consent and Article 9(3) time limits. Article 2’s definitions and exceptions concern the underlying discrimination rules and supply no independent participation right. Whether national law treats intervention as initiation would be decisive in an actual dispute.",
+          "assessed_at": "2026-10-14T08:01:58.161059Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "c75e71d5500578700c5df56a"
           ]
         },
         {
@@ -4921,6 +4953,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "74ec19b2a7e8208f640a5764"
+          ]
+        },
+        {
+          "id": "impact-ce6ed356d3f957b535249c4f",
+          "title": "Organisational support after filing",
+          "legal_anchor": "Directive 2000/78/EC, Articles 9(1)–(3) and 10(4), read with Recital 29 and Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A complainant has filed a timely discrimination case within the Directive’s scope. An organisation meeting national legitimate-interest criteria obtains consent to support it. National law permits organisational filing but bars organisational involvement in pending cases, including intervention, and supplies no independent participation entitlement.",
+          "rationale": "If “procedures kunnen aanspannen” guarantees only bringing proceedings, the restriction could meet that narrower obligation. A participation guarantee would require access to the existing case in some effective form. The change concerns procedural assistance under Article 9(2), without establishing loss of the claimant’s own Article 9(1) access or a different substantive discrimination outcome.\nCounterreading: “Ter ondersteuning” expressly recognises support, and initiating an intervention may fall within bringing proceedings. German participation wording and Danish entry as a party reinforce a reading covering pending cases; Spanish initiation wording shows that the narrower vocabulary is not unique to Dutch. Reading these equally authoritative versions through the support function favours effective participation over a categorical temporal restriction, but does not conclusively settle its procedural form. Recital 29 supports association engagement on behalf of or in support of a complainant while preserving national rules on representation and defence. Article 10(4) also refers to proceedings commenced under Article 9(2), confirming that initiation is part of the scheme. Neither provision dictates a particular intervention form; the conditional gap arises where all effective support after filing is barred.",
+          "uncertainty": "The wording does not establish an entitlement to every requested procedural role. Actual consequences depend on national participation rights; none is demonstrated here. No infringement by a particular Member State is established.\nUnresolved: National eligibility, consent and Article 9(3) deadlines are satisfied in the scenario. Article 2’s substantive definitions and exceptions neither confer organisational standing nor independently cure its exclusion. Any available intervention route would need examination before applying this conclusion to an actual case.",
+          "assessed_at": "2026-10-14T08:01:58.160952Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "a0aeed11adb42dc422200ce4"
           ]
         },
         {
@@ -5193,6 +5241,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "8a8a3c3fe57542d8484d1d1a"
+          ]
+        },
+        {
+          "id": "impact-b693319dd2edf0948f9117f2",
+          "title": "Conciliation conditioned on necessity",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(1)–(3), with Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A Member State expressly considers conciliation appropriate for a category of timely employment discrimination complaints, but regards it as unnecessary because judicial and administrative enforcement remain available. It withholds conciliation solely because a strict necessity condition is not met.",
+          "rationale": "Assuming necessity is a distinct, stricter condition, Romanian wording would not require conciliation in this scenario. The appropriateness formulation would trigger its inclusion once the State considers it appropriate. The changed outcome is the minimum obligation to make an additional enforcement route accessible. Judicial or administrative access remains protected, but does not itself discharge a separately triggered conciliation obligation.\nCounterreading: “Dacă este necesar” can express contextual need within the State’s procedural assessment. Lithuanian combines necessity with what Member States consider necessary, while French and German expressly preserve their appropriateness assessment. Read as equally authoritative expressions of procedural judgment, these formulations favour harmonisation rather than an independent objective necessity test. The strict distinction is therefore contestable.",
+          "uncertainty": "The scenario assumes an express distinction between appropriate and necessary; no actual national policy is established. The text neither defines necessity nor identifies an independent decision-maker for it. No entitlement to settlement or favourable resolution follows.\nUnresolved: The scenario fixes the State’s assessment and satisfaction of applicable deadlines. Article 9(2) supplies organisational assistance, not a substitute conciliation route; Article 2 does not define when conciliation is necessary. A claim that necessity compels conciliation against the State’s assessment would require additional justification.",
+          "assessed_at": "2026-10-14T08:00:20.448752Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "b9bca9c2bfca6811a639b083"
           ]
         },
         {
@@ -5484,6 +5548,22 @@
           ]
         },
         {
+          "id": "impact-5f7437ed36b60f5e26bbf2dd",
+          "title": "Organisational defence after proceedings begin",
+          "legal_anchor": "Directive 2000/78/EC, Articles 9(1)–(3) and 10(4), read with Recital 29 and Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An eligible organisation has a claimant’s approval to assist in a timely discrimination case within the Directive’s scope. National rules permit organisations to initiate proceedings but prohibit their involvement in pending cases, with no possibility of initiating an intervention and no independent participation entitlement.",
+          "rationale": "If “μπορούν να κινήσουν” guarantees initiation alone, the national restriction could satisfy that obligation. A participation interpretation would require an effective means of organisational involvement in the existing proceeding. The changed outcome is procedural protection under Article 9(2); Article 9(1) continues to protect the claimant’s own access.\nCounterreading: The express defence role, “προς υπεράσπισή του”, supports involvement beyond filing. Commencing an intervention is a strong harmonising interpretation of initiating a procedure. German participation, Portuguese intervention and Danish entry as a party reinforce that reading, while Spanish initiation wording supports the competing emphasis. Their equal authority and shared assistance function favour reconciliation, without conclusively determining each procedural mechanism. Recital 29 supports association engagement on behalf of or in support of a complainant while preserving national rules on representation and defence. Article 10(4) also refers to proceedings commenced under Article 9(2), confirming that initiation is part of the scheme. Neither provision dictates a particular intervention form; the conditional gap arises where all effective support after filing is barred.",
+          "uncertainty": "No actual national restriction is demonstrated. Procedural classification is especially important: initiating an intervention could eliminate the difference. The provision does not establish an unrestricted right to a particular form of participation or a different discrimination judgment.\nUnresolved: The scenario satisfies national legitimate-interest criteria, approval and Article 9(3) deadlines. Article 2’s substantive definitions and exceptions do not independently restore organisational participation. Actual application requires identifying whether an effective intervention route already exists.",
+          "assessed_at": "2026-10-14T08:01:58.161225Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "ff318aa2c803416215c98889"
+          ]
+        },
+        {
           "id": "impact-8470820bd43001e24e981b02",
           "title": "Post-relationship procedural guarantee specifies employment",
           "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its all-persons guarantee; Article 9(3); Article 2.",
@@ -5609,6 +5689,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "aaef6bfd0a7786cbabb908a0"
+          ]
+        },
+        {
+          "id": "impact-0d430d064936b28bb7ae50e3",
+          "title": "Association participation after proceedings begin",
+          "legal_anchor": "Directive 2000/78/EC, Articles 9(1)–(3) and 10(4), read with Recital 29 and Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An eligible association has the claimant’s consent to support a timely discrimination claim within the Directive’s scope. National rules permit associations to bring proceedings but exclude all organisational participation after the claimant has filed, with no intervention procedure or independent participation right available.",
+          "rationale": "Assuming an initiation-only interpretation prevails, the national restriction could satisfy Article 9(2). An interpretation guaranteeing participation would require a route for organisational involvement in the pending case. This changes a procedural entitlement under a specific rule. Article 9(1) preserves the claimant’s own access but does not replace that entitlement; Article 2’s definitions and exceptions do not independently provide it.\nCounterreading: The strongest reconciliation treats initiating an intervention as initiating a procedure and gives effect to “na podporu”. German expressly provides participation and Portuguese intervention, whereas Spanish also uses initiation wording. These equally authoritative formulations support a functional reading covering effective organisational assistance, rather than treating English as controlling. That reading is stronger than a categorical exclusion of pending cases. Recital 29 supports association engagement on behalf of or in support of a complainant while preserving national rules on representation and defence. Article 10(4) also refers to proceedings commenced under Article 9(2), confirming that initiation is part of the scheme. Neither provision dictates a particular intervention form; the conditional gap arises where all effective support after filing is barred.",
+          "uncertainty": "No actual national restriction or exclusion is established. The broader interpretation does not necessarily guarantee a particular form of intervention, separate party status or unrestricted submissions. Liability and compensation cannot be inferred.\nUnresolved: For an actual dispute, eligibility, consent, applicable deadlines and available intervention mechanisms would require confirmation. Those conditions are fixed in the scenario; the conditional change concerns the minimum participation guarantee.",
+          "assessed_at": "2026-10-14T08:01:58.160791Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "823914ce96ce517734bef189"
           ]
         },
         {
@@ -9829,7 +9925,7 @@
       "version": "2025-08-20",
       "version_label": "Consolidated text",
       "retrieved_at": "2026-10-14T07:28:02.313588+00:00",
-      "status": "partial",
+      "status": "analyzing",
       "subject": "",
       "languages": [
         {
