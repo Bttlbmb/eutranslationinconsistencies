@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T07:35:48.093362Z",
+  "generated_at": "2026-10-14T07:44:08.456465Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -5292,6 +5292,22 @@
           ]
         },
         {
+          "id": "impact-5f34ba38b20224828bd0df7a",
+          "title": "Proof protection in representative proceedings",
+          "legal_anchor": "Directive 2000/78/EC, Articles 9(2) and 10(1)–(5).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An organisation pursues a worker's civil discrimination claim under Article 9(2). Reading Latvian paragraph 4 as confined to criminal proceedings removes the express extension to that civil action, but does not necessarily remove its burden shift.",
+          "rationale": "Latvian expressly says criminal proceedings. Nevertheless, paragraph 1 generally protects wronged persons presenting indicative facts before a court or competent authority. Narrowing paragraph 4 therefore does not itself establish that a represented person loses protection. Paragraph 3 also remains applicable: paragraph 4 cannot be read as introducing the burden shift into criminal proceedings.\nCounterreading: The strongest harmonising reading treats paragraph 4 as extending the proof provisions to proceedings generally under Article 9(2), while preserving the criminal exclusion. Independently, paragraph 1 may already cover a worker acting through an organisation even under a literal reading of paragraph 4.",
+          "uncertainty": "The conditional loss of protection remains unresolved. Separately, a criminal-only interpretation is difficult to sustain alongside paragraph 1, paragraph 3 and the general extension expressed in the other authentic versions.\nUnresolved: Article 9(2) permits qualifying associations, with the complainant’s approval, to act on behalf of or support the complainant in judicial or administrative enforcement. Article 10(1) may still shift proof in a represented claim. No proceeding has been identified where paragraph 4 alone supplies that protection; paragraphs 2 and 5 may also affect the result.",
+          "assessed_at": "2026-10-14T07:43:07.657927Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "09b716f9e1c78b8c82399c03"
+          ]
+        },
+        {
           "id": "impact-6cf3eb9752177136c8ed2c4f",
           "title": "Retirement ages and scheme admission",
           "legal_anchor": "Directive 2000/78/EC, Article 6(2), including its differentiated-age and actuarial clauses; Articles 6(1), including (b), and 2(2), (5).",
@@ -5321,6 +5337,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "3e306e54768db8186b56df4d"
+          ]
+        },
+        {
+          "id": "impact-831d810e7d2bce147c4d22d4",
+          "title": "Proof rules where courts investigate facts",
+          "legal_anchor": "Directive 2000/78/EC, Article 10(1)–(3) and (5), read with Recital 32.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A non-criminal judicial procedure assigns fact-finding to the court, while national law retains the burden shift described in paragraph 1. A prohibitory interpretation of Polish paragraph 5 prevents applying paragraph 1, but the same protection might survive through a national rule permitted by paragraph 2.",
+          "rationale": "Polish 'nie mogą stosować' expresses prohibition rather than permission to dispense with the rule. However, paragraph 2 expressly accommodates more favourable evidentiary rules. Prohibiting application of paragraph 1 does not, without resolving that relationship, establish that an equivalent national protection must disappear.\nCounterreading: Reading paragraph 5 as relieving states of an obligation preserves both national discretion and paragraph 2's permission. Even on a literal prohibitory reading, paragraph 2 could sustain an independent national burden shift because paragraph 5 names only paragraph 1. Recital 32 describes proceedings in which the court investigates the facts and the claimant need not prove them, supporting the optional-exception reading.",
+          "uncertainty": "Even assuming the prohibitory wording prevails, the practical allocation of proof remains unresolved. Separately, the discretionary wording of other authentic versions and paragraph 2 strongly favour an optional exception in the multilingual context.\nUnresolved: Does the prohibition reach equivalent national evidence rules, or only application of paragraph 1 as such? The answer is necessary before concluding that a claimant loses protection. Paragraph 3 independently excludes criminal proceedings.",
+          "assessed_at": "2026-10-14T07:43:07.657747Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "5c47ce582d3ec9ff73b4ec50"
           ]
         },
         {
@@ -5404,6 +5436,22 @@
           ]
         },
         {
+          "id": "impact-a5a3a06cd8b3d91256955347",
+          "title": "Cumulative discrimination threshold",
+          "legal_anchor": "Directive 2000/78/EC, Article 10(1)–(5), read with Article 2(1)–(2) and Recitals 15 and 31.",
+          "impact_level": "high",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A worker establishes facts suggesting dismissal expressly because of sexual orientation, without an apparently neutral provision or practice suggesting indirect discrimination. In ordinary civil proceedings, a cumulative reading would withhold the mandatory burden shift because the facts indicate only direct discrimination.",
+          "rationale": "Requiring both forms removes a central evidentiary protection from single-form claims, supporting a substantial conditional effect. Article 2 separately defines and prohibits each form, but does not independently allocate proof. The example excludes criminal proceedings and court-led fact-finding and assumes no national rule under paragraph 2 already preserves the shift.\nCounterreading: Polish Article 2(1) expressly uses 'lub' between the forms, and Article 2(2) defines them separately. Reading 'i' as collectively identifying the two protected categories, rather than requiring their simultaneous presence, reconciles Article 10 with those definitions and the alternative wording in other equally authoritative versions. Recital 15 likewise refers to facts from which direct or indirect discrimination may be inferred, while Recital 31 requires a prima facie evidential case before the burden shifts.",
+          "uncertainty": "The cumulative reading is strongly disfavoured by the surrounding text. Its conditional procedural effect is nevertheless clear; losing the mandatory shift does not establish that a claimant would lose the action.\nUnresolved: No additional dependency prevents the stated conditional loss of mandatory protection. Actual consequences depend on whether independent national evidence rules preserve it and whether the facts support one or both forms. Article 2's justification and accommodation limbs remain relevant to indirect-discrimination claims.",
+          "assessed_at": "2026-10-14T07:43:58.569240Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "efa2f0f480a8fe8c9f38bfd3"
+          ]
+        },
+        {
           "id": "impact-eff22a4d0dea93368165b362",
           "title": "Actual benefit calculation exemption",
           "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Articles 6(1) and 2(2), (5).",
@@ -5417,6 +5465,38 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "2336e90d4d4f7e10554ec88f"
+          ]
+        },
+        {
+          "id": "impact-dd6eb1c878a94d5080ba70a3",
+          "title": "Alleging facts to shift proof",
+          "legal_anchor": "Directive 2000/78/EC, Article 10(1)–(5), read with Article 2(1)–(2) and Recitals 15 and 31.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "In an ordinary civil dismissal claim, a worker alleges specific statements connecting dismissal to sexual orientation. The account satisfies the disputed lower threshold but has not established the statements under the competing threshold. If that lower reading prevails, the employer must prove absence of discrimination at this earlier stage.",
+          "rationale": "The changed outcome is an earlier mandatory allocation of proof to the respondent. The example assumes no equivalent national rule under paragraph 2 and excludes criminal proceedings and proceedings subject to the paragraph 5 exception. Article 2 still determines what constitutes discrimination; shifting proof does not establish liability.\nCounterreading: Spanish still requires facts permitting a presumption. French 'établit' and German 'glaubhaft machen', alongside presentation language in other equally authoritative versions, support a common preliminary assessment of a credible factual basis. This harmonising interpretation is stronger than an automatic shift on unsupported assertion. Recitals 15 and 31 assign factual appraisal to the competent body and require an evidential prima facie case before the shift; an unsupported allegation does not suffice even if the preliminary threshold is lower.",
+          "uncertainty": "Whether 'alegue' actually lowers the threshold is separate from its conditional effect. The text does not establish that a bare accusation or facts incapable of supporting a presumption suffice.\nUnresolved: No additional provision is needed to identify the conditional procedural change under the stated assumptions. National evidentiary standards and the particular factual account determine whether an actual claim falls between the two thresholds.",
+          "assessed_at": "2026-10-14T07:43:07.657835Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "1df6fc4282529f0587b79323"
+          ]
+        },
+        {
+          "id": "impact-85d2f4313fc932ba5ee42d67",
+          "title": "Invoking facts to shift proof",
+          "legal_anchor": "Directive 2000/78/EC, Article 10(1)–(5), read with Article 2(1)–(2) and Recitals 15 and 31.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A worker challenging dismissal invokes specific statements linking it to sexual orientation. Those statements have not been established under the competing evidentiary threshold, but the account meets the disputed invocation threshold and supports a presumption. On that reading, the employer's proof obligation arises sooner.",
+          "rationale": "Hungarian describes the ability to invoke facts and then assigns proof to the respondent. If this entails a lower preliminary showing, the procedural consequence follows directly. The example excludes criminal proceedings and the paragraph 5 exception and assumes no equivalent national protection under paragraph 2. Article 2's substantive discrimination requirements remain applicable.\nCounterreading: The facts must still permit a presumption. French establishment language, German credibility language and presentation language elsewhere support a common preliminary evidentiary assessment across equally authoritative versions. This makes a substantive divergence less persuasive than the isolated verb suggests. Recitals 15 and 31 assign factual appraisal to the competent body and require an evidential prima facie case before the shift; an unsupported allegation does not suffice even if the preliminary threshold is lower.",
+          "uncertainty": "The wording may concern presentation of facts rather than a different evidentiary standard. Neither invocation alone nor the resulting burden shift establishes that discrimination occurred.\nUnresolved: The conditional procedural effect requires no further legal premise beyond the stated lower-threshold reading and exclusions. Whether any particular account qualifies depends on its content and the applicable national evidentiary standard.",
+          "assessed_at": "2026-10-14T07:43:07.657646Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "85f9ad52c8138cd122120c6a"
           ]
         },
         {
@@ -5513,6 +5593,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "80274f6ff7d2337278373fd2"
+          ]
+        },
+        {
+          "id": "impact-724f73b8ba56bd223f1c13a1",
+          "title": "Setting out facts to shift proof",
+          "legal_anchor": "Directive 2000/78/EC, Article 10(1)–(5), read with Article 2(1)–(2) and Recitals 15 and 31.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "In a civil dismissal claim, a worker sets out specific statements connecting dismissal to sexual orientation. The account meets a less demanding presentation threshold and supports a presumption, but the statements have not been established under the competing threshold. The lower reading would require the employer to disprove discrimination at that stage.",
+          "rationale": "If 'espongono' permits the lower showing, paragraph 1 changes when the respondent must carry the burden of proof. This is a concrete procedural outcome for an identifiable group. The example assumes ordinary non-criminal proceedings outside paragraph 5 and no equivalent national rule under paragraph 2; it does not establish liability under Article 2.\nCounterreading: Italian retains the requirement that the facts support a presumption. Reading 'espongono' as presenting sufficiently substantiated facts harmonises it with French establishment language, German credibility language and other authentic versions using presentation language. The wording alone does not compel a lower standard. Recitals 15 and 31 assign factual appraisal to the competent body and require an evidential prima facie case before the shift; an unsupported allegation does not suffice even if the preliminary threshold is lower.",
+          "uncertainty": "Setting out facts may already entail substantiation sufficient for the common preliminary standard. National procedure may therefore produce identical results under both formulations.\nUnresolved: No additional legal dependency prevents the conditional change under the stated assumptions. Actual application requires a factual account satisfying the proposed lower threshold but failing the competing standard.",
+          "assessed_at": "2026-10-14T07:43:07.657545Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "e491fed49f36914d94294fdb"
           ]
         },
         {
