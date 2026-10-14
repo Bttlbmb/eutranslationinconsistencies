@@ -178,6 +178,26 @@ test('focus language links retain zero-finding and unavailable languages without
   assert.equal(selectedFromHash('#act=test-act&lang=xx', [document]).language, null);
 });
 
+test('focus language index distinguishes a completed zero-finding language in a partial act', () => {
+  const document = {
+    ...act,
+    status: 'partial',
+    coverage: { reviewed_language_codes: ['fr'] },
+    languages: [
+      { code: 'en', name: 'English' },
+      { code: 'fr', name: 'French' },
+      { code: 'de', name: 'German' }
+    ],
+    findings: []
+  };
+  const states = Object.fromEntries(focusLanguageIndex(document)
+    .map(({ code, reviewState }) => [code, reviewState]));
+  assert.deepEqual(states, { fr: 'complete', de: 'incomplete' });
+  document.status = 'imported';
+  document.coverage.reviewed_language_codes = [];
+  assert.equal(focusLanguageIndex(document).find(({ code }) => code === 'de').reviewState, 'pending');
+});
+
 test('overlapping highlights preserve every source character and both findings', () => {
   const findings = [...act.findings, { id: 'second', english_quote: 'gamma delta' }];
   const segments = highlightedSegments(act.passages[0].text, findings);
@@ -247,7 +267,7 @@ test('impact families stay distinct within a shared quote and can span two quote
   assert.equal(selectedFromHash('#act=test-act&lang=da&view=impact&issue=calories', [document]).issue, null);
 });
 
-test('impact index includes preliminary and unranked proposals with valid references', () => {
+test('impact index includes model-reviewed and unranked proposals with valid references', () => {
   const family = {
     id: 'test', title: 'Test', effect: 'Could change reach.', impact_level: 'high',
     finding_ids: ['test-finding']

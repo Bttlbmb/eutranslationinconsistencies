@@ -60,6 +60,8 @@ export function substantialLanguageIndex(act) {
 /** Every language the act accounts for, including zero findings and missing sources. */
 export function focusLanguageIndex(act) {
   const languages = new Map();
+  const reviewedCodes = Array.isArray(act?.coverage?.reviewed_language_codes)
+    ? new Set(act.coverage.reviewed_language_codes) : null;
   const add = (language, availability) => {
     const code = language?.code;
     if (typeof code !== 'string' || !/^[a-z]{2}$/.test(code) || code === 'en') return;
@@ -68,6 +70,11 @@ export function focusLanguageIndex(act) {
       name: language.name || code.toUpperCase(),
       availability,
       coverageIncomplete: Boolean(language.coverage_incomplete),
+      reviewState: availability !== 'archived' || language.coverage_incomplete
+        ? 'unavailable'
+        : reviewedCodes
+          ? reviewedCodes.has(code) ? 'complete' : act?.status === 'imported' ? 'pending' : 'incomplete'
+          : act?.status === 'complete' ? 'complete' : 'unknown',
       reason: language.reason || ''
     });
   };

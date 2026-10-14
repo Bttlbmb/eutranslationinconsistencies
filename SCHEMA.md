@@ -32,7 +32,7 @@ This document describes the v1 interface consumed by this repository. Additive o
 | `coverage` | coverage object | Explicit review denominator and completed coverage. |
 | `passages` | array of passage objects | Ordered English source units forming the reader text. |
 | `findings` | array of finding objects | Supported, agent-reviewed findings only; can be empty at any status. |
-| `impact_families` | array of impact-family objects, optional | Current potential-impact proposals linked to original finding IDs. Preliminary model reviews are labeled; empty or absent means no proposal is available for this act. |
+| `impact_families` | array of impact-family objects, optional | Current potential-impact proposals linked to original finding IDs. Assigned levels and unranked issues are displayed; empty or absent means no proposal is available for this act. |
 | `notes` | array of strings | Public-safe context, source scope and analysis limitations. |
 
 ### Status rules
@@ -69,10 +69,12 @@ Unavailable-language and failed-language objects each contain `code`, `name`, an
 | `reviewed_units` | non-negative integer | Distinct comparison pairs whose independent scans and evidence review have completed. |
 | `total_languages` | non-negative integer | Number of official expressions expected for this selected version, including English and failed retrievals. |
 | `reviewed_languages` | non-negative integer | Languages with completed review coverage; English is included after a comparable non-English review completes. |
+| `reviewed_language_codes` | array of unique non-English language codes, optional for older v1 snapshots | Archived target languages whose every English passage has completed review. An incomplete source cannot appear here. New exports include this field even when empty. |
 
 The current exporter computes `total_units` as the number of English passages multiplied by `max(0, total_languages - 1)`. Completed batch coverage is counted once per language/passage pair. Incomplete or mixed-language expressions stay in the denominator but are excluded from fully reviewed language/passage counts. A missing language must not disappear from the denominator merely because its download failed.
 
 For a segmented review, every expected fragment must finish before its parent passage/language pair counts as reviewed. Once a segmented full-act plan exists, its batches supersede older focused studies for public coverage and findings. Reviewed counts cannot exceed expected counts, and `total_languages` must equal preserved languages plus failed official retrievals. The website validator enforces these totals.
+When `reviewed_language_codes` is present, `reviewed_languages` must equal its length plus English if at least one target language is complete. A language omitted from the list may still have some reviewed passages; it has not completed an act-wide review.
 
 ## Passage
 
@@ -105,9 +107,9 @@ Accepted candidates from a batch whose coverage review has not completed remain 
 
 ## Potential-impact assessment
 
-`impact_families` is a separate model-reviewed layer. It asks: **If this reading prevails after all authentic versions are interpreted in context, how large could the change in legal outcome be?** MVP proposals need no separate editorial approval; their `review_state` must be displayed. They do not establish that a version is legally wrong, that any product or person is actually affected, or that a market effect occurred. The existing finding `severity: substantial` is the publication threshold and is not a rank on this scale.
+`impact_families` is a separate model-reviewed layer. It asks: **If this reading prevails after all authentic versions are interpreted in context, how large could the change in legal outcome be?** MVP proposals need no separate editorial approval; their `review_state` is retained in the export, and unranked issues must be displayed as such. They do not establish that a version is legally wrong, that any product or person is actually affected, or that a market effect occurred. The existing finding `severity: substantial` is the publication threshold and is not a rank on this scale.
 
-Display `high` as **High potential impact**, `moderate` as **Moderate**, and `limited` as **Limited**. Label `provisional` levels as preliminary. A `needs_review` proposal has `impact_level: null` and displays **Impact under review** in the issue index. A finding without an assigned level appears under **No impact rating yet**, including when a needs-review explanation exists. That is a derived filter state, not a fourth `impact_level`. Never infer `limited` from a missing level or `high` from the finding's `substantial` publication threshold.
+Display `high` as **High potential impact**, `moderate` as **Moderate**, and `limited` as **Limited**. Display assigned `provisional` levels using the same level labels. A `needs_review` proposal has `impact_level: null` and displays **Impact under review** in the issue index. A finding without an assigned level appears under **No impact rating yet**, including when a needs-review explanation exists. That is a derived filter state, not a fourth `impact_level`. Never infer `limited` from a missing level or `high` from the finding's `substantial` publication threshold.
 
 Each object describes one legal issue, which may link several language findings and several English-quote display groups. A display group may also contain different issues. The reader must join by original finding ID, never infer family membership from a shared English quote. A finding can belong to at most one published family. Partial acts may contain proposals without implying complete act-wide impact coverage.
 
@@ -119,12 +121,12 @@ Each object describes one legal issue, which may link several language findings 
 | `finding_ids` | non-empty array of strings | Unique original finding IDs in this same act, all present in its published `findings`. |
 | `impact_level` | string or null | `high`, `moderate`, or `limited` for an assigned conditional level; null only when `review_state` is `needs_review`. |
 | `confidence` | string | `high`, `medium`, or `low`; separate from impact. |
-| `effect` | non-empty string | Description of the possible changed outcome. Preliminary proposals use the critical review's scenario. |
+| `effect` | non-empty string | Description of the possible changed outcome. Automated proposals use the critical review's scenario. |
 | `rationale` | non-empty string | Explanation of the conditional level or unranked hypothesis. |
 | `uncertainty` | non-empty string | Main limitation or unresolved interpretive question. |
 | `rubric_version` | non-empty string | Version of the assessment method. |
 | `assessed_at` | UTC ISO-8601 string | When this assessment was made. |
-| `review_state` | string | `provisional`, `needs_review`, or `confirmed`; the reader labels preliminary and unranked states. |
+| `review_state` | string | `provisional`, `needs_review`, or `confirmed`; the reader displays assigned levels and identifies unranked issues. |
 
 The backend exports current provisional and needs-review proposals without a separate editorial approval. An existing confirmed assessment retains its separately approved public wording. The exporter rechecks the source and finding revisions and verifies that none of the members is held or missing from the exported act. Stale automated protocol runs are excluded. If no assessment passes, export `[]` or omit the field. The website validator rejects unexpected fields, inconsistent state and level pairs, and invalid or cross-act references. A missing or empty array means **No impact rating yet** for each published finding; it never means `limited` impact or no possible difference.
 

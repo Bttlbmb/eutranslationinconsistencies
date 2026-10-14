@@ -129,6 +129,20 @@ export async function validateSnapshot(catalogue, readArchive) {
         coverage.reviewed_languages <= coverage.total_languages,
       `Coverage does not reconcile for ${act.id}`
     );
+    if (Object.hasOwn(coverage, 'reviewed_language_codes')) {
+      const codes = coverage.reviewed_language_codes;
+      const archivedTargets = new Set(act.languages
+        .filter((language) => language.code !== 'en' && !language.coverage_incomplete)
+        .map((language) => language.code));
+      requireValid(
+        Array.isArray(codes) &&
+          codes.every((code) => archivedTargets.has(code)) &&
+          new Set(codes).size === codes.length &&
+          coverage.reviewed_languages === codes.length + (codes.length ? 1 : 0) &&
+          coverage.reviewed_units >= codes.length * act.passages.length,
+        `Reviewed language codes do not reconcile for ${act.id}`
+      );
+    }
     requireValid(
       act.status !== 'complete' ||
         (coverage.reviewed_units === coverage.total_units &&

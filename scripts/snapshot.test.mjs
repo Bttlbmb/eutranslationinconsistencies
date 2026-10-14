@@ -96,13 +96,39 @@ test('snapshot checks preserve the exact approved bytes and accept an empty coll
   );
 });
 
+test('snapshot accepts explicit reviewed target languages in a partial act', async () => {
+  const { catalogue, files } = fixture();
+  const act = catalogue.legislation[0];
+  act.status = 'partial';
+  act.coverage.reviewed_language_codes = ['fr'];
+  await validateSnapshot(catalogue, (url) => files.get(url));
+});
+
+for (const [name, codes, reviewedLanguages] of [
+  ['duplicate code', ['fr', 'fr'], 2],
+  ['English code', ['en'], 2],
+  ['unknown code', ['de'], 2],
+  ['count mismatch', [], 2]
+]) {
+  test(`snapshot rejects ${name} in reviewed language codes`, async () => {
+    const { catalogue, files } = fixture();
+    const act = catalogue.legislation[0];
+    act.coverage.reviewed_language_codes = codes;
+    act.coverage.reviewed_languages = reviewedLanguages;
+    await assert.rejects(
+      validateSnapshot(catalogue, (url) => files.get(url)),
+      /Reviewed language codes do not reconcile/
+    );
+  });
+}
+
 test('snapshot accepts an approved issue family linked to an original published finding', async () => {
   const { catalogue, files } = fixture();
   catalogue.legislation[0].impact_families = [approvedImpactFamily()];
   await validateSnapshot(catalogue, (url) => files.get(url));
 });
 
-test('snapshot accepts a preliminary rating and an unranked issue proposal', async () => {
+test('snapshot accepts a model-reviewed rating and an unranked issue proposal', async () => {
   const { catalogue, files } = fixture();
   catalogue.legislation[0].impact_families = [
     { ...approvedImpactFamily(), review_state: 'provisional' }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T04:18:00.644909Z",
+  "generated_at": "2026-10-14T06:01:51.081408Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -11,7 +11,7 @@
       "version": "2000-11-27",
       "version_label": "Original act",
       "retrieved_at": "2026-10-14T00:31:39.068743+00:00",
-      "status": "partial",
+      "status": "complete",
       "subject": "",
       "languages": [
         {
@@ -234,9 +234,33 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 1342,
-        "reviewed_units": 1267,
+        "reviewed_units": 1342,
         "total_languages": 23,
-        "reviewed_languages": 19
+        "reviewed_languages": 23,
+        "reviewed_language_codes": [
+          "bg",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "es",
+          "et",
+          "fi",
+          "fr",
+          "hr",
+          "hu",
+          "it",
+          "lt",
+          "lv",
+          "mt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "sk",
+          "sl",
+          "sv"
+        ]
       },
       "passages": [
         {
@@ -1000,6 +1024,34 @@
           }
         },
         {
+          "id": "dde5ea0c17baec7aef1531c6",
+          "passage_id": "p0059",
+          "english_quote": "In the light of the information received, this report shall include, if necessary, proposals to revise and update this Directive.",
+          "title": "Necessary revision proposals may be discretionary",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 19(2) requires revision and updating proposals when necessary. Estonian could allow the Commission to omit those proposals even when their necessity has been established.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Vastavalt saadud andmetele võib see aruanne vajaduse korral sisaldada ettepanekuid käesolev direktiiv läbi vaadata ja ajakohastada.",
+              "translation": "In accordance with the information received, this report may, if necessary, include proposals to review and update this Directive.",
+              "explanation": "English Article 19(2) requires revision and updating proposals when necessary. Estonian could allow the Commission to omit those proposals even when their necessity has been established.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:23:59.688175Z"
+          }
+        },
+        {
           "id": "a9e4c507cba97ffe1d065b9b",
           "passage_id": "p0056",
           "english_quote": "any provisions contrary to the principle of equal treatment which are included in contracts or collective agreements",
@@ -1081,6 +1133,34 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T03:55:58.857933Z"
+          }
+        },
+        {
+          "id": "22b65711f8b3e3f937401014",
+          "passage_id": "p0046",
+          "english_quote": "the fixing for occupational social security schemes of ages for admission or entitlement to retirement or invalidity benefits",
+          "title": "Age-limit exception omits admission to occupational schemes",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly permits age limits for scheme admission as well as benefit entitlement. Estonian specifies age limits for obtaining benefits, potentially leaving entry-age restrictions outside this particular exception to age-discrimination protection.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "vanusepiiride kehtestamist kutsealaste sotsiaalkindlustuskavade pensioni- või invaliidsushüvitiste saamiseks",
+              "translation": "the setting of age limits for receiving retirement or invalidity benefits under occupational social security schemes",
+              "explanation": "English expressly permits age limits for scheme admission as well as benefit entitlement. Estonian specifies age limits for obtaining benefits, potentially leaving entry-age restrictions outside this particular exception to age-discrimination protection.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:57:30.836431Z"
           }
         },
         {
@@ -1644,6 +1724,34 @@
           }
         },
         {
+          "id": "84f1ef406430e1dd7cbad7a0",
+          "passage_id": "p0051",
+          "english_quote": "Member States shall introduce into their national legal systems such measures as are necessary to protect employees against dismissal or other adverse treatment by the employer as a reaction to a complaint within the undertaking or to any legal proceedings aimed at enforcing compliance with the principle of equal treatment.",
+          "title": "Latvian retaliation protection may exclude non-criminal proceedings",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires protection against employer retaliation for any legal proceedings enforcing equal treatment. Latvian expressly refers to criminal proceedings, potentially leaving retaliation for civil or administrative proceedings outside the required protection where no internal complaint is involved.",
+          "variants": [
+            {
+              "language": "lv",
+              "language_name": "Latvian",
+              "quote": "Dalībvalstis savā tiesību sistēmā ievieš pasākumus, kas vajadzīgi, lai pasargātu darbiniekus no atlaišanas vai citām negatīvām darba devēja izraisītām sekām, kas ir reakcija uz sūdzību uzņēmumā vai uz kriminālprocesiem, kuri vērsti uz to, lai ievērotu vienlīdzīgas attieksmes principu.",
+              "translation": "Member States shall introduce into their legal systems the measures necessary to protect employees against dismissal or other negative consequences caused by the employer in reaction to a complaint within the undertaking or to criminal proceedings aimed at ensuring observance of the principle of equal treatment.",
+              "explanation": "English requires protection against employer retaliation for any legal proceedings enforcing equal treatment. Latvian expressly refers to criminal proceedings, potentially leaving retaliation for civil or administrative proceedings outside the required protection where no internal complaint is involved.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:25:49.216670Z"
+          }
+        },
+        {
           "id": "b3f636c5411f0b6bd7152540",
           "passage_id": "p0056",
           "english_quote": "are, or may be, declared null and void or are amended.",
@@ -1669,6 +1777,34 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T02:09:57.655887Z"
+          }
+        },
+        {
+          "id": "69b638eae643af89a08393eb",
+          "passage_id": "p0057",
+          "english_quote": "The sanctions, which may comprise the payment of compensation to the victim, must be effective, proportionate and dissuasive.",
+          "title": "Compensation appears mandatory rather than optional",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly allows sanctions to include compensation. Latvian states that sanctions include compensation, potentially requiring Member States to provide that remedy rather than leaving its inclusion optional.",
+          "variants": [
+            {
+              "language": "lv",
+              "language_name": "Latvian",
+              "quote": "Sankcijām, kas ietver kompensācijas maksājumu upurim, jābūt efektīvām, proporcionālām un preventīvām.",
+              "translation": "Sanctions, which include a compensation payment to the victim, must be effective, proportionate and preventive.",
+              "explanation": "English expressly allows sanctions to include compensation. Latvian states that sanctions include compensation, potentially requiring Member States to provide that remedy rather than leaving its inclusion optional.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:27:14.161056Z"
           }
         },
         {
@@ -1700,6 +1836,34 @@
           }
         },
         {
+          "id": "09b716f9e1c78b8c82399c03",
+          "passage_id": "p0050",
+          "english_quote": "4. Paragraphs 1, 2 and 3 shall also apply to any legal proceedings commenced in accordance with Article 9(2).",
+          "title": "Extension of proof provisions specifies criminal proceedings only",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 10(4) extends the proof provisions to any legal proceedings commenced under Article 9(2). Latvian names only criminal proceedings, potentially removing the express assurance for civil and administrative proceedings involving representative organisations. Article 10(1) may independently preserve protection, and paragraph 3 still excludes criminal proceedings from its burden-of-proof rule.",
+          "variants": [
+            {
+              "language": "lv",
+              "language_name": "Latvian",
+              "quote": "4. Šā panta 1., 2. un 3. punktu piemēro arī jebkuriem kriminālprocesiem, ko īsteno saskaņā ar 9. panta 2. punktu.",
+              "translation": "4. Paragraphs 1, 2 and 3 of this Article also apply to any criminal proceedings conducted in accordance with Article 9(2).",
+              "explanation": "English Article 10(4) extends the proof provisions to any legal proceedings commenced under Article 9(2). Latvian names only criminal proceedings, potentially removing the express assurance for civil and administrative proceedings involving representative organisations. Article 10(1) may independently preserve protection, and paragraph 3 still excludes criminal proceedings from its burden-of-proof rule.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:00:10.046992Z"
+          }
+        },
+        {
           "id": "bd3e0a32c2fb53c6d67be506",
           "passage_id": "p0042",
           "english_quote": "An instruction to discriminate against persons on any of the grounds referred to in Article 1 shall be deemed to be discrimination within the meaning of paragraph 1.",
@@ -1725,6 +1889,118 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T03:50:39.478707Z"
+          }
+        },
+        {
+          "id": "1a59a8370e9944fb9d352918",
+          "passage_id": "p0046",
+          "english_quote": "the use, in the context of such schemes, of age criteria in actuarial calculations",
+          "title": "Age exception covers benefit calculations instead of actuarial calculations",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 6(2) specifies “actuarial calculations” in English and “obliczania wysokości świadczeń” in Polish. Polish could exclude actuarial calculations concerning contributions or funding while covering benefit calculations that are not actuarial, changing which uses of age criteria receive the express exception.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "wykorzystania, w ramach tych systemów, kryteriów wieku do obliczania wysokości świadczeń",
+              "translation": "the use, within these schemes, of age criteria to calculate the amount of benefits",
+              "explanation": "Article 6(2) specifies “actuarial calculations” in English and “obliczania wysokości świadczeń” in Polish. Polish could exclude actuarial calculations concerning contributions or funding while covering benefit calculations that are not actuarial, changing which uses of age criteria receive the express exception.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:03:42.998198Z"
+          }
+        },
+        {
+          "id": "efa2f0f480a8fe8c9f38bfd3",
+          "passage_id": "p0050",
+          "english_quote": "facts from which it may be presumed that there has been direct or indirect discrimination",
+          "title": "Potentially cumulative condition for shifting the burden of proof",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 10(1) requires facts suggesting “direct or indirect discrimination”; Polish uses “bezpośredniej i pośredniej dyskryminacji”. If read cumulatively, Polish could deny the burden shift where only one form is indicated. Its definitions and recital 15 support treating the forms as alternatives.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "fakty, które nasuwają przypuszczenie o zaistnieniu bezpośredniej i pośredniej dyskryminacji",
+              "translation": "facts that give rise to a presumption that direct and indirect discrimination has occurred",
+              "explanation": "English Article 10(1) requires facts suggesting “direct or indirect discrimination”; Polish uses “bezpośredniej i pośredniej dyskryminacji”. If read cumulatively, Polish could deny the burden shift where only one form is indicated. Its definitions and recital 15 support treating the forms as alternatives.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:03:43.010550Z"
+          }
+        },
+        {
+          "id": "5c47ce582d3ec9ff73b4ec50",
+          "passage_id": "p0050",
+          "english_quote": "Member States need not apply paragraph 1 to proceedings in which it is for the court or competent body to investigate the facts of the case.",
+          "title": "Discretion to omit the burden shift becomes a prohibition on applying it",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 10(5) states “Member States need not apply paragraph 1”; Polish states “Państwa Członkowskie nie mogą stosować przepisu ust. 1”. English permits omission of the burden shift where the adjudicating body investigates the facts; Polish could prohibit retaining it. Polish recital 32 supports a harmonising, discretionary reading.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "Państwa Członkowskie nie mogą stosować przepisu ust. 1 do procedur sądowych, w których ustalenie okoliczności faktycznych sprawy należy do sądu lub właściwego organu.",
+              "translation": "Member States may not apply the provision of paragraph 1 to judicial procedures in which establishing the facts of the case is the responsibility of the court or competent authority.",
+              "explanation": "English Article 10(5) states “Member States need not apply paragraph 1”; Polish states “Państwa Członkowskie nie mogą stosować przepisu ust. 1”. English permits omission of the burden shift where the adjudicating body investigates the facts; Polish could prohibit retaining it. Polish recital 32 supports a harmonising, discretionary reading.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:03:43.005472Z"
+          }
+        },
+        {
+          "id": "80274f6ff7d2337278373fd2",
+          "passage_id": "p0055",
+          "english_quote": "the provisions on religion or belief in this Directive shall not apply to the recruitment of teachers in schools in Northern Ireland in so far as this is expressly authorised by national legislation.",
+          "title": "Potential reversal of national authorisation condition for teacher recruitment",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English makes the exclusion of teacher recruitment from the Directive’s religion or belief provisions conditional on express national legislative authorisation. Polish states non-application unless national provisions expressly permit this. Read literally, Polish could exclude recruitment even where national legislation is silent, potentially reducing protection against discrimination.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "przepisy niniejszej dyrektywy dotyczące religii lub przekonań nie mają zastosowania do rekrutacji nauczycieli do szkół w Irlandii Północnej, chyba że w wyraźny sposób zezwalają na to przepisy krajowe.",
+              "translation": "The provisions of this Directive concerning religion or belief do not apply to the recruitment of teachers to schools in Northern Ireland, unless national provisions expressly permit this.",
+              "explanation": "English makes the exclusion of teacher recruitment from the Directive’s religion or belief provisions conditional on express national legislative authorisation. Polish states non-application unless national provisions expressly permit this. Read literally, Polish could exclude recruitment even where national legislation is silent, potentially reducing protection against discrimination.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:04:12.705192Z"
           }
         },
         {
@@ -1812,6 +2088,90 @@
           }
         },
         {
+          "id": "79fe4aa2eeef66086cdb1441",
+          "passage_id": "p0033",
+          "english_quote": "However, it is not for the respondent to prove that the plaintiff adheres to a particular religion or belief, has a particular disability, is of a particular age or has a particular sexual orientation.",
+          "title": "Possible restriction on evidence concerning protected characteristics",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English says “it is not for the respondent to prove”; Romanian says “pârâtul nu are posibilitatea să folosească drept probă dovada”. Romanian could therefore support restricting defence evidence concerning protected characteristics, whereas English addresses who bears the burden of proving them.",
+          "variants": [
+            {
+              "language": "ro",
+              "language_name": "Romanian",
+              "quote": "cu toate acestea, pârâtul nu are posibilitatea să folosească drept probă dovada că partea reclamantă aparține unei anumite religii, are anumite convingeri, prezintă un anumit handicap, are o anumită vârstă sau orientare sexuală.",
+              "translation": "Nevertheless, the respondent cannot use as evidence proof that the claimant belongs to a particular religion, holds particular beliefs, has a particular disability, is of a particular age or has a particular sexual orientation.",
+              "explanation": "English says “it is not for the respondent to prove”; Romanian says “pârâtul nu are posibilitatea să folosească drept probă dovada”. Romanian could therefore support restricting defence evidence concerning protected characteristics, whereas English addresses who bears the burden of proving them.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:05:48.446647Z"
+          }
+        },
+        {
+          "id": "0c0cd8623765af6625b51373",
+          "passage_id": "p0042",
+          "english_quote": "that provision, criterion or practice is objectively justified by a legitimate aim and the means of achieving that aim are appropriate and necessary",
+          "title": "Negation reverses the means test for indirect discrimination",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires that the means “are appropriate and necessary”; Romanian states “nu sunt adecvate și necesare”. Read literally, Romanian could extend the exception to measures failing that test and withhold it from measures satisfying it.",
+          "variants": [
+            {
+              "language": "ro",
+              "language_name": "Romanian",
+              "quote": "această dispoziție, acest criteriu sau această practică este obiectiv justificată de un obiectiv legitim, iar mijloacele de realizare a acestui obiectiv nu sunt adecvate și necesare",
+              "translation": "that provision, criterion or practice is objectively justified by a legitimate aim, and the means of achieving that aim are not appropriate and necessary",
+              "explanation": "English requires that the means “are appropriate and necessary”; Romanian states “nu sunt adecvate și necesare”. Read literally, Romanian could extend the exception to measures failing that test and withhold it from measures satisfying it.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:05:48.452851Z"
+          }
+        },
+        {
+          "id": "9b50eff298757517d5ffd7c0",
+          "passage_id": "p0044",
+          "english_quote": "Provided that its provisions are otherwise complied with, this Directive shall thus not prejudice the right of churches and other public or private organisations, the ethos of which is based on religion or belief, acting in conformity with national constitutions and laws, to require individuals working for them to act in good faith and with loyalty to the organisation's ethos.",
+          "title": "Power to require staff loyalty is attributed to the Directive",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English preserves the organisations’ right “to require individuals working for them to act in good faith and with loyalty to the organisation's ethos.” Romanian makes the Directive the apparent subject of “poate impune personalului care lucrează pentru ele o atitudine de bună-credință și de loialitate față de etica organizației.” This could suggest a Directive-based requirement instead of an employer’s choice to impose one.",
+          "variants": [
+            {
+              "language": "ro",
+              "language_name": "Romanian",
+              "quote": "Cu condiția ca dispozițiile să fie respectate în restul situațiilor, prezenta directivă, fără a aduce atingere dreptului bisericilor și al altor organizații publice sau private a căror etică este bazată pe religie sau convingeri, acționând în conformitate cu dispozițiile constituționale și legislative naționale, poate impune personalului care lucrează pentru ele o atitudine de bună-credință și de loialitate față de etica organizației.",
+              "translation": "Provided that the provisions are complied with in the remaining situations, this Directive, without prejudice to the right of churches and other public or private organisations whose ethos is based on religion or belief, acting in accordance with national constitutional and legislative provisions, may require the staff working for them to adopt an attitude of good faith and loyalty towards the organisation’s ethos.",
+              "explanation": "English preserves the organisations’ right “to require individuals working for them to act in good faith and with loyalty to the organisation's ethos.” Romanian makes the Directive the apparent subject of “poate impune personalului care lucrează pentru ele o atitudine de bună-credință și de loialitate față de etica organizației.” This could suggest a Directive-based requirement instead of an employer’s choice to impose one.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:05:48.459231Z"
+          }
+        },
+        {
           "id": "e18538449ff52d0bbe66fbc2",
           "passage_id": "p0031",
           "english_quote": "To provide a more effective level of protection, associations or legal entities should also be empowered to engage in proceedings, as the Member States so determine, either on behalf or in support of any victim, without prejudice to national rules of procedure concerning representation and defence before the courts.",
@@ -1837,6 +2197,90 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T02:21:55.065826Z"
+          }
+        },
+        {
+          "id": "9552d8b4c921cb9fc0f3e0af",
+          "passage_id": "p0056",
+          "english_quote": "(b) any provisions contrary to the principle of equal treatment which are included in contracts or collective agreements, internal rules of undertakings or rules governing the independent occupations and professions and workers' and employers' organisations are, or may be, declared null and void or are amended.",
+          "title": "Possible requirement for actual invalidation or amendment of discriminatory provisions",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 16(b) in English requires that discriminatory provisions “are, or may be, declared null and void or are amended.” Polish states “zostały uznane za nieważne lub zostały zmienione.” Polish could therefore require actual invalidation or amendment, whereas English expressly allows compliance through making invalidation legally available.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "b) przepisy sprzeczne z zasadą równego traktowania zawarte w umowach lub układach zbiorowych, regulaminach wewnętrznych przedsiębiorstw, jak również w statutach regulujących wykonywanie wolnych zawodów oraz w statutach organizacji pracowników i pracodawców, zostały uznane za nieważne lub zostały zmienione.",
+              "translation": "b) provisions contrary to the principle of equal treatment contained in contracts or collective agreements, internal rules of undertakings, as well as in statutes governing the practice of the liberal professions and in the statutes of workers' and employers' organisations, are declared null and void or are amended.",
+              "explanation": "Article 16(b) in English requires that discriminatory provisions “are, or may be, declared null and void or are amended.” Polish states “zostały uznane za nieważne lub zostały zmienione.” Polish could therefore require actual invalidation or amendment, whereas English expressly allows compliance through making invalidation legally available.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:31:19.108232Z"
+          }
+        },
+        {
+          "id": "e72288f83ca7156a19d7d906",
+          "passage_id": "p0043",
+          "english_quote": "including the benefits provided for by such organisations.",
+          "title": "Organisational benefits are described as received rather than provided",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes “the benefits provided for by such organisations.” Romanian instead includes “avantajele obținute de acest tip de organizație.” This could obscure express protection for benefits supplied to members and shift attention towards benefits received by organisations.",
+          "variants": [
+            {
+              "language": "ro",
+              "language_name": "Romanian",
+              "quote": "inclusiv avantajele obținute de acest tip de organizație.",
+              "translation": "including the benefits obtained by this type of organisation.",
+              "explanation": "English includes “the benefits provided for by such organisations.” Romanian instead includes “avantajele obținute de acest tip de organizație.” This could obscure express protection for benefits supplied to members and shift attention towards benefits received by organisations.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:05:48.457429Z"
+          }
+        },
+        {
+          "id": "be3d75c05698bcf7cf2512ea",
+          "passage_id": "p0042",
+          "english_quote": "for the protection of health",
+          "title": "Possible narrowing of the health-protection reservation",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English reserves measures “for the protection of health”; Romanian specifies “protecția sănătății publice”. Romanian could narrow the reservation for national measures protecting individual health without a public-health purpose.",
+          "variants": [
+            {
+              "language": "ro",
+              "language_name": "Romanian",
+              "quote": "protecția sănătății publice",
+              "translation": "the protection of public health",
+              "explanation": "English reserves measures “for the protection of health”; Romanian specifies “protecția sănătății publice”. Romanian could narrow the reservation for national measures protecting individual health without a public-health purpose.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:05:48.454857Z"
           }
         },
         {
@@ -2092,6 +2536,34 @@
           }
         },
         {
+          "id": "040d646aa6e3d0dd904d8880",
+          "passage_id": "p0049",
+          "english_quote": "even after the relationship in which the discrimination is alleged to have occurred has ended.",
+          "title": "Express protection after termination is limited to employment relationships",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly preserves access to remedies after any relevant relationship ends. Estonian specifies an employment relationship, potentially weakening the express guarantee after a vocational-training or professional-membership relationship ends, although its general access provision supports continued protection.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "isegi juhul, kui see töösuhe, millega väidetav diskrimineerimine kaasnes, on lõppenud.",
+              "translation": "even where the employment relationship with which the alleged discrimination was associated has ended.",
+              "explanation": "English expressly preserves access to remedies after any relevant relationship ends. Estonian specifies an employment relationship, potentially weakening the express guarantee after a vocational-training or professional-membership relationship ends, although its general access provision supports continued protection.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:57:30.842036Z"
+          }
+        },
+        {
           "id": "6b2f7f7277996c3eca452876",
           "passage_id": "p0049",
           "english_quote": "even after the relationship in which the discrimination is alleged to have occurred has ended.",
@@ -2148,6 +2620,34 @@
           }
         },
         {
+          "id": "14e2c26c4c5aab2faa67fa31",
+          "passage_id": "p0049",
+          "english_quote": "including where they deem it appropriate conciliation procedures",
+          "title": "Conciliation is included without an appropriateness condition",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English leaves inclusion of conciliation to Member States’ assessment of its appropriateness. Estonian includes conciliation without that qualification, potentially requiring its availability irrespective of that assessment.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "kaasa arvatud lepitusmenetlust",
+              "translation": "including conciliation proceedings",
+              "explanation": "English leaves inclusion of conciliation to Member States’ assessment of its appropriateness. Estonian includes conciliation without that qualification, potentially requiring its availability irrespective of that assessment.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:57:30.840362Z"
+          }
+        },
+        {
           "id": "c4eff7902924a25f7fabd700",
           "passage_id": "p0020",
           "english_quote": "with regard to the legitimate objective of preserving the operational capacity of those services.",
@@ -2201,6 +2701,90 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T02:09:57.662528Z"
+          }
+        },
+        {
+          "id": "2336e90d4d4f7e10554ec88f",
+          "passage_id": "p0046",
+          "english_quote": "the use, in the context of such schemes, of age criteria in actuarial calculations",
+          "title": "Benefit calculations replace actuarial calculations",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 6(2) specifies actuarial calculations, whereas Latvian refers to actually calculating benefits. Latvian could consequently exempt non-actuarial age-based benefit calculations while leaving actuarial calculations of contributions or funding outside the exception's express wording.",
+          "variants": [
+            {
+              "language": "lv",
+              "language_name": "Latvian",
+              "quote": "šādu sistēmu sakarā vecuma kritēriju izmantošana, lai faktiski aprēķinātu pabalstus",
+              "translation": "the use of age criteria in connection with such schemes to actually calculate benefits",
+              "explanation": "English Article 6(2) specifies actuarial calculations, whereas Latvian refers to actually calculating benefits. Latvian could consequently exempt non-actuarial age-based benefit calculations while leaving actuarial calculations of contributions or funding outside the exception's express wording.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:00:10.044254Z"
+          }
+        },
+        {
+          "id": "4b0f797fff976e3cb369c18a",
+          "passage_id": "p0057",
+          "english_quote": "Member States shall notify those provisions to the Commission by 2 December 2003 at the latest and shall notify it without delay of any subsequent amendment affecting them.",
+          "title": "Different condition for notifying subsequent amendments",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English ties notification to amendments affecting the sanctions provisions. Latvian instead specifies amendments affecting Member States. Even within the sanctions framework, this could change the test for deciding which subsequent amendments must be notified.",
+          "variants": [
+            {
+              "language": "lv",
+              "language_name": "Latvian",
+              "quote": "Dalībvalstis vēlākais līdz 2003. gada 2. decembrim par šiem noteikumiem paziņo Komisijai un tūlīt paziņo tai par jebkādiem turpmākiem grozījumiem, kas ietekmē dalībvalstis.",
+              "translation": "Member States shall notify the Commission of these provisions by 2 December 2003 at the latest and shall immediately notify it of any subsequent amendments that affect Member States.",
+              "explanation": "English ties notification to amendments affecting the sanctions provisions. Latvian instead specifies amendments affecting Member States. Even within the sanctions framework, this could change the test for deciding which subsequent amendments must be notified.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:27:14.164199Z"
+          }
+        },
+        {
+          "id": "86c4a10f5e0a080162e12067",
+          "passage_id": "p0059",
+          "english_quote": "In accordance with the principle of gender mainstreaming, this report shall, inter alia, provide an assessment of the impact of the measures taken on women and men.",
+          "title": "Gender-impact assessment may exclude generally applicable measures",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires assessing the effects of the measures taken on women and men. Latvian describes the measures to be assessed as those directed against men and women. Even understood neutrally as targeting them, this could exclude generally applicable measures whose effects differ between women and men.",
+          "variants": [
+            {
+              "language": "lv",
+              "language_name": "Latvian",
+              "quote": "Saskaņā ar principu par vienlīdzīgu iespēju nodrošināšanu abiem dzimumiem, inter alia šajā ziņojumā novērtē to pasākumu ietekmi, kuri vērsti pret vīriešiem un sievietēm.",
+              "translation": "In accordance with the principle of ensuring equal opportunities for both sexes, this report shall, among other things, assess the impact of those measures that are directed against men and women.",
+              "explanation": "English requires assessing the effects of the measures taken on women and men. Latvian describes the measures to be assessed as those directed against men and women. Even understood neutrally as targeting them, this could exclude generally applicable measures whose effects differ between women and men.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:27:14.165827Z"
           }
         },
         {
@@ -2509,6 +3093,62 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T03:36:49.261724Z"
+          }
+        },
+        {
+          "id": "2253cad173c44f9872fbea10",
+          "passage_id": "p0051",
+          "english_quote": "dismissal or other adverse treatment by the employer",
+          "title": "Malicious treatment may narrow retaliation protection",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English covers adverse treatment in response to a complaint or proceedings. Estonian’s reference to malicious treatment could require employees challenging treatment other than dismissal to establish malice as well as the retaliatory connection.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "töölt vabastamise või muu pahatahtliku kohtlemise eest",
+              "translation": "against dismissal or other malicious treatment",
+              "explanation": "English covers adverse treatment in response to a complaint or proceedings. Estonian’s reference to malicious treatment could require employees challenging treatment other than dismissal to establish malice as well as the retaliatory connection.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:59:04.213500Z"
+          }
+        },
+        {
+          "id": "e14d901a28d1d8d3293677ae",
+          "passage_id": "p0055",
+          "english_quote": "the provisions on religion or belief in this Directive shall not apply to the recruitment of teachers in schools in Northern Ireland in so far as this is expressly authorised by national legislation.",
+          "title": "Teacher recruitment exception omits school and express-authorisation limits",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English limits the exception to teachers recruited in schools and requires express legislative authorisation. Estonian states neither limit, potentially extending the exception to teaching posts outside schools or to cases supported only by implied legislative permission.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "ei kohaldata käesoleva direktiivi usutunnistust või veendumusi käsitlevaid sätteid Põhja-Iirimaal õpetajate töölevõtmise suhtes, kui see on lubatud siseriiklike õigusaktidega.",
+              "translation": "the provisions of this Directive concerning religion or belief do not apply to the recruitment of teachers in Northern Ireland if this is permitted by national legislation.",
+              "explanation": "English limits the exception to teachers recruited in schools and requires express legislative authorisation. Estonian states neither limit, potentially extending the exception to teaching posts outside schools or to cases supported only by implied legislative permission.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:59:04.211992Z"
           }
         },
         {
@@ -3044,6 +3684,34 @@
           }
         },
         {
+          "id": "c75e71d5500578700c5df56a",
+          "passage_id": "p0049",
+          "english_quote": "may engage, either on behalf or in support of the complainant, with his or her approval, in any judicial and/or administrative procedure provided for the enforcement of obligations under this Directive.",
+          "title": "Organisations’ procedural guarantee concerns initiation rather than participation",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 9(2) uses “may engage” in English and “mogły wszczynać” in Polish. English expressly accommodates organisations participating in existing proceedings; the Polish guarantee may be read as covering only their initiation, potentially leaving intervention in a claimant’s pending case unprotected.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "mogły wszczynać, na rzecz osoby występującej z powództwem lub ją wspierając, za jej zgodą, postępowania sądowe i/lub procedury administracyjne przewidziane w celu spowodowania stosowania niniejszej dyrektywy.",
+              "translation": "may initiate, on behalf of the person bringing an action or in support of that person, with that person’s consent, judicial proceedings and/or administrative procedures provided for the purpose of securing application of this Directive.",
+              "explanation": "Article 9(2) uses “may engage” in English and “mogły wszczynać” in Polish. English expressly accommodates organisations participating in existing proceedings; the Polish guarantee may be read as covering only their initiation, potentially leaving intervention in a claimant’s pending case unprotected.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:03:42.999655Z"
+          }
+        },
+        {
           "id": "0b2098828d51bb3e76589861",
           "passage_id": "p0033",
           "english_quote": "The rules on the burden of proof must be adapted when there is a prima facie case of discrimination and, for the principle of equal treatment to be applied effectively, the burden of proof must shift back to the respondent when evidence of such discrimination is brought.",
@@ -3268,6 +3936,34 @@
           }
         },
         {
+          "id": "b090df671f8613dfabd05e46",
+          "passage_id": "p0046",
+          "english_quote": "the fixing for occupational social security schemes of ages for admission or entitlement to retirement or invalidity benefits",
+          "title": "Occupational scheme admission ages lose express coverage",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 6(2) expressly covers ages for admission to occupational social security schemes. Latvian instead describes receiving or qualifying for benefits. This could narrow the exception by leaving scheme membership ages outside its express coverage where membership and benefit eligibility are separate.",
+          "variants": [
+            {
+              "language": "lv",
+              "language_name": "Latvian",
+              "quote": "vecuma noteikšana profesionālajām sociālā nodrošinājuma sistēmām, lai persona saņemtu pensiju vai invaliditātes pabalstu vai varētu pretendēt uz pensiju vai invaliditātes pabalstu",
+              "translation": "the fixing of ages for occupational social security schemes so that a person receives a pension or an invalidity benefit or can qualify for a pension or an invalidity benefit",
+              "explanation": "English Article 6(2) expressly covers ages for admission to occupational social security schemes. Latvian instead describes receiving or qualifying for benefits. This could narrow the exception by leaving scheme membership ages outside its express coverage where membership and benefit eligibility are separate.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:00:10.042283Z"
+          }
+        },
+        {
           "id": "b8d3ea8b4dfac9a3e8da1b2b",
           "passage_id": "p0003",
           "english_quote": "as guaranteed by the European Convention for the Protection of Human Rights and Fundamental Freedoms and as they result from the constitutional traditions common to the Member States",
@@ -3433,6 +4129,34 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T03:42:20.209175Z"
+          }
+        },
+        {
+          "id": "ab5870850686f329b7a9b4b1",
+          "passage_id": "p0056",
+          "english_quote": "are, or may be, declared null and void or are amended.",
+          "title": "Permission to amend discriminatory provisions may suffice",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Estonian Article 16(b) could allow a Member State to satisfy the amendment alternative by permitting amendment of discriminatory provisions. English requires actual amendment under that alternative, although it separately allows provisions to be capable of being declared void.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "kehtetuks tunnistamine või luba need kehtetuks tunnistada või neid muuta.",
+              "translation": "Declaration of invalidity or permission to declare them invalid or amend them.",
+              "explanation": "Estonian Article 16(b) could allow a Member State to satisfy the amendment alternative by permitting amendment of discriminatory provisions. English requires actual amendment under that alternative, although it separately allows provisions to be capable of being declared void.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:23:59.682781Z"
           }
         },
         {
@@ -3660,6 +4384,34 @@
           }
         },
         {
+          "id": "1edd29be4c858d88543d0cd1",
+          "passage_id": "p0049",
+          "english_quote": "judicial and/or administrative procedures",
+          "title": "Possible requirement for both judicial and administrative remedies",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 9(1) in English permits judicial remedies, administrative remedies, or both. Romanian could require access to both categories, increasing Member States’ obligations to provide remedies.",
+          "variants": [
+            {
+              "language": "ro",
+              "language_name": "Romanian",
+              "quote": "procedurile judiciare și administrative",
+              "translation": "judicial and administrative procedures",
+              "explanation": "Article 9(1) in English permits judicial remedies, administrative remedies, or both. Romanian could require access to both categories, increasing Member States’ obligations to provide remedies.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:06:53.261177Z"
+          }
+        },
+        {
           "id": "7bb2f074ae22ecfb23326f5d",
           "passage_id": "p0046",
           "english_quote": "for young people, older workers and persons with caring responsibilities",
@@ -3770,16 +4522,232 @@
             ],
             "reviewed_at": "2026-10-14T04:06:04.544278Z"
           }
+        },
+        {
+          "id": "04f3491e08cd746405b6f843",
+          "passage_id": "p0046",
+          "english_quote": "persons with caring responsibilities",
+          "title": "Special employment conditions expressly identify dependants’ providers rather than carers",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 6(1)(a) identifies “persons with caring responsibilities” in English and “osób mających na utrzymaniu inne osoby” in Polish. Carers without responsibility for maintenance may lose express recognition, while providers who perform no care may gain it. Neither version makes the examples exhaustive.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "osób mających na utrzymaniu inne osoby",
+              "translation": "persons who have other persons dependent on them for maintenance",
+              "explanation": "Article 6(1)(a) identifies “persons with caring responsibilities” in English and “osób mających na utrzymaniu inne osoby” in Polish. Carers without responsibility for maintenance may lose express recognition, while providers who perform no care may gain it. Neither version makes the examples exhaustive.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:03:43.008039Z"
+          }
+        },
+        {
+          "id": "695b7ac78d82278cc7531d13",
+          "passage_id": "p0046",
+          "english_quote": "ages for admission or entitlement to retirement or invalidity benefits",
+          "title": "Scheme admission ages are not expressly included in the Polish exception",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 6(2) covers “ages for admission or entitlement to retirement or invalidity benefits”; Polish specifies “wieku przyznania lub nabycia praw do świadczeń emerytalnych lub inwalidzkich”. Where admission to a scheme is separate from acquiring benefit rights, its age limit may fall outside the Polish version’s express exception.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "wieku przyznania lub nabycia praw do świadczeń emerytalnych lub inwalidzkich",
+              "translation": "the age for the granting or acquisition of rights to retirement or invalidity benefits",
+              "explanation": "English Article 6(2) covers “ages for admission or entitlement to retirement or invalidity benefits”; Polish specifies “wieku przyznania lub nabycia praw do świadczeń emerytalnych lub inwalidzkich”. Where admission to a scheme is separate from acquiring benefit rights, its age limit may fall outside the Polish version’s express exception.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:03:43.009324Z"
+          }
+        },
+        {
+          "id": "05f3588305a137add1eec354",
+          "passage_id": "p0051",
+          "english_quote": "or to any legal proceedings aimed at enforcing compliance with the principle of equal treatment.",
+          "title": "Retaliation protection may exclude administrative proceedings",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English protects employees responding to any legal enforcement proceedings; Estonian specifies court proceedings. The Estonian wording could leave employees pursuing administrative enforcement without Article 11 protection against retaliation.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "või kohtumenetlusele, mille eesmärk on tagada võrdse kohtlemise põhimõtte järgimine.",
+              "translation": "or to court proceedings whose purpose is to ensure compliance with the principle of equal treatment.",
+              "explanation": "English protects employees responding to any legal enforcement proceedings; Estonian specifies court proceedings. The Estonian wording could leave employees pursuing administrative enforcement without Article 11 protection against retaliation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:59:04.207161Z"
+          }
+        },
+        {
+          "id": "8a8a3c3fe57542d8484d1d1a",
+          "passage_id": "p0055",
+          "english_quote": "differences in treatment regarding recruitment into that service, including its support staff, shall not constitute discrimination insofar as those differences in treatment are expressly authorised by national legislation.",
+          "title": "Police recruitment exception omits express authorisation",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English confines the police recruitment exception to differential treatment expressly authorised by legislation. Estonian could permit reliance on implied legislative permission, broadening the circumstances in which differential recruitment treatment escapes the discrimination prohibition.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "ei peeta Põhja-Iirimaa politsei- või abipersonali töölevõtmisel ilmnevat erinevat kohtlemist diskrimineerimiseks, kui see on lubatud siseriiklike õigusaktidega.",
+              "translation": "differences in treatment arising in the recruitment of Northern Ireland police or support staff are not regarded as discrimination if this is permitted by national legislation.",
+              "explanation": "English confines the police recruitment exception to differential treatment expressly authorised by legislation. Estonian could permit reliance on implied legislative permission, broadening the circumstances in which differential recruitment treatment escapes the discrimination prohibition.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T04:59:04.219406Z"
+          }
+        },
+        {
+          "id": "b9bca9c2bfca6811a639b083",
+          "passage_id": "p0049",
+          "english_quote": "including where they deem it appropriate conciliation procedures",
+          "title": "Necessity replaces national assessment of conciliation’s appropriateness",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 9(1) expressly leaves conciliation’s inclusion to Member States’ assessment of appropriateness. Romanian instead conditions inclusion on necessity, potentially requiring conciliation when necessary while allowing its omission when merely appropriate.",
+          "variants": [
+            {
+              "language": "ro",
+              "language_name": "Romanian",
+              "quote": "inclusiv proceduri de conciliere, dacă este necesar",
+              "translation": "including conciliation procedures, if necessary",
+              "explanation": "English Article 9(1) expressly leaves conciliation’s inclusion to Member States’ assessment of appropriateness. Romanian instead conditions inclusion on necessity, potentially requiring conciliation when necessary while allowing its omission when merely appropriate.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:06:53.265407Z"
+          }
+        },
+        {
+          "id": "3e306e54768db8186b56df4d",
+          "passage_id": "p0049",
+          "english_quote": "may engage, either on behalf or in support of the complainant, with his or her approval, in any judicial and/or administrative procedure provided for the enforcement of obligations under this Directive.",
+          "title": "Associations’ procedural entitlement may cover initiation only",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 9(2) guarantees eligible organisations the ability to engage in proceedings, potentially including joining an existing case. Romanian expressly guarantees initiation, potentially narrowing the protected role of organisations supporting a complainant after proceedings have begun.",
+          "variants": [
+            {
+              "language": "ro",
+              "language_name": "Romanian",
+              "quote": "să poată iniția, în numele sau în sprijinul reclamantului, cu aprobarea sa, orice procedură judiciară și/sau administrativă prevăzută, în vederea respectării obligațiilor care decurg din prezenta directivă.",
+              "translation": "may initiate, on behalf of or in support of the complainant, with the complainant's approval, any judicial and/or administrative procedure provided for, with a view to compliance with the obligations arising from this Directive.",
+              "explanation": "English Article 9(2) guarantees eligible organisations the ability to engage in proceedings, potentially including joining an existing case. Romanian expressly guarantees initiation, potentially narrowing the protected role of organisations supporting a complainant after proceedings have begun.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T05:06:53.267553Z"
+          }
         }
       ],
       "notes": [
         "English is a navigation anchor; no language version is treated as legally authoritative over another.",
         "The selected official version was resolved at import time. This MVP does not monitor subsequent changes.",
         "This import explicitly uses the original Official Journal act. A later consolidated work (02000L0078-20001202) exists but is outside this review; later corrigenda or amendments may not be reflected.",
-        "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
-        "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
+        "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors."
       ],
-      "impact_families": []
+      "impact_families": [
+        {
+          "id": "impact-ce5c0035f5f2526412165702",
+          "title": "Conditional additional malice requirement",
+          "legal_anchor": "Directive 2000/78/EC, Article 11; Articles 1–10, 15 and 17; recital 30.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Following an internal equality complaint, an ordinary civilian employer withdraws a modest discretionary benefit to recoup complaint-handling costs. Objective disadvantage and employer counteraction are established, but distinct malicious intent is not proved. There is no dismissal, independent protected-ground discrimination or harassment, and no additional national protection.",
+          "rationale": "The Estonian override retains pahatahtliku, suggesting malicious treatment where English requires adversity. The surrounding clause preserves employer causation; it does not expressly define malice. The internal complaint satisfies the alternative trigger regardless of court-only wording. No relevant exception applies, and Articles 9, 10 and 17 do not eliminate an assumed substantive malice requirement. Both reviewers identify this mechanism; their different benefit and shift examples do not establish different legal thresholds.\nCounterreading: Read pahatahtliku as wrongful retaliatory disadvantage, consistently with the employer-response clause, recital 30 and other authentic adverse-treatment formulations. That interpretation removes the additional intent threshold.",
+          "uncertainty": "Malice may add nothing beyond proven retaliatory counteraction. A protective-purpose shift change, as in reviewer B, also requires care to establish counteraction; the selected scenario expressly establishes that limb. No automatic Article 10 burden shift for every victimisation claim is assumed.\nUnresolved: Whether malice is independently required and how it is established; whether national law supplies broader protection.",
+          "assessed_at": "2026-10-14T05:18:39.559016Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "2253cad173c44f9872fbea10"
+          ]
+        },
+        {
+          "id": "impact-aa5ac50ebdcadea209af800a",
+          "title": "Conditional exclusion of administrative complainants",
+          "legal_anchor": "Directive 2000/78/EC, Article 11; Articles 1–10, 15 and 17; recital 30.",
+          "impact_level": "high",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A qualified civilian employee brings a timely administrative claim about sexual-orientation discrimination, without an internal complaint or judicial proceedings. The employer dismisses them solely for initiating enforcement. Assume no independent protected-ground discrimination in the dismissal and no additional national protection.",
+          "rationale": "The Estonian override confirms court-specific kohtumenetlusele. Employee status, employer action, causation and enforcement purpose are satisfied; dismissal independently satisfies the treatment limb. The internal-complaint alternative is absent. No Articles 2–7 or 15 exception applies. Articles 9 and 17 do not independently supply the missing retaliation trigger; Article 8 does not guarantee additional protection. Assuming the court-only reading survives harmonisation, the Directive's protection changes.\nCounterreading: Article 9, English Article 10(4), broader German and Dutch wording, and effective enforcement support inclusive protection. Conversely, several authentic versions use judicial terminology, and English 'legal proceedings' can mean litigation. Recital 30 concerns judicial protection against retaliation, rather than expressly restricting its trigger.",
+          "uncertainty": "The multilingual interpretation remains open; English is not controlling. This interpretive doubt does not undermine the stipulated conditional consequence.\nUnresolved: Whether harmonisation includes administrative proceedings and whether national law independently protects the employee.",
+          "assessed_at": "2026-10-14T05:18:39.558636Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "05f3588305a137add1eec354"
+          ]
+        },
+        {
+          "id": "impact-f6e5bf79d59228579aa6219e",
+          "title": "Conditional exclusion of administrative complainants",
+          "legal_anchor": "Directive 2000/78/EC, Article 11; Articles 1–10, 15 and 17; recital 30.",
+          "impact_level": "high",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A qualified civilian employee brings a timely administrative sexual-orientation discrimination claim, without an internal complaint or judicial proceedings. The employer dismisses them solely for initiating enforcement. Assume no independent protected-ground discrimination in that dismissal and no additional national protection.",
+          "rationale": "The Czech override confirms judicial soudní řízení while Article 9 separately recognises administrative proceedings. Employee status, dismissal by the employer, responsive causation and equality-enforcement purpose are satisfied. Neither narrower trigger applies. No relevant Articles 2–7 or 15 exception intervenes; Articles 9 and 17 do not expressly replace the missing trigger, and Article 8 does not ensure additional protection. The conditional loss therefore survives the remaining-limb check.\nCounterreading: Czech Article 10(4) covers all Article 9(2) proceedings; Article 9, effective enforcement and broader German and Dutch wording support inclusive Article 11 protection. Court-specific authentic versions and English's possible litigation meaning support the competing interpretation. Recital 30 does not expressly restrict protected initiating proceedings.",
+          "uncertainty": "Whether the apparent linguistic difference survives harmonisation remains uncertain. The complete Czech and English context supplies no independent operative protection defeating this stipulated scenario.\nUnresolved: Whether harmonised Article 11 includes administrative enforcement and whether national law independently protects the dismissal.",
+          "assessed_at": "2026-10-14T05:18:39.559088Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "2ac627822eedfac820cff71f"
+          ]
+        }
+      ]
     },
     {
       "id": "32009L0024",
@@ -4013,7 +4981,31 @@
         "total_units": 946,
         "reviewed_units": 946,
         "total_languages": 23,
-        "reviewed_languages": 23
+        "reviewed_languages": 23,
+        "reviewed_language_codes": [
+          "bg",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "es",
+          "et",
+          "fi",
+          "fr",
+          "hr",
+          "hu",
+          "it",
+          "lt",
+          "lv",
+          "mt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "sk",
+          "sl",
+          "sv"
+        ]
       },
       "passages": [
         {
@@ -5292,22 +6284,6 @@
       ],
       "impact_families": [
         {
-          "id": "impact-57fc0035472a8650fff7afa1",
-          "title": "Hungarian Article 7(1)(c): missing unauthorised-purpose qualification",
-          "legal_anchor": "Directive 2009/24/EC, Article 7(1)(c), its reservation for Articles 4–6, and Article 7(3); Articles 4–6 and 8 provide interpretive context.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "A supplier circulates a dedicated utility whose sole intended purpose is removing a computer program’s technical protection. The rightholder expressly authorizes both that removal and distribution of the utility. Assume no infringing program copy is circulated or commercially possessed and no independent infringement occurs. A reading covering authorized removal could bring the supplier within Article 7(1)(c); a reading requiring unauthorized removal would exclude this transaction from that limb.",
-          "rationale": "Rechecking the supplied original-language passages confirms that Hungarian states a sole intended purpose of removal or circumvention but expresses neither the unauthorized-character limitation nor facilitation. German expressly qualifies both removal and circumvention as unauthorized, while French and English also express an authorization limitation. This is a textual discrepancy, not proof of a different operative legal rule. The scenario isolates the potential boundary because Article 7(1)(a) and (b) require an infringing program copy, absent on the stated facts. I retain the reviewers’ conditional moderate assessment: if the broader interpretation prevailed, an identifiable class could become subject to remedies under one rule. I also accept their rejection of a separately established facilitation-based narrowing: an intended circumvention purpose can encompass assistance. I disagree with treating the mechanism as medium-confidence while the strongest contextual counterreading remains unresolved; under the supplied rubric, low confidence is more appropriate. Reviewer B’s references to exhaustion and Article 1 provide background but do not independently determine the authorization boundary for tools.\nCounterreading: The strongest harmonizing interpretation reads the Hungarian provision as protecting against unauthorized interference only. The express limitations in other authentic versions, Article 7’s protective function, and its reservation for Articles 4–6 support that reading. Article 4 recognizes rightholder authorization, while Articles 5–6 preserve specified permitted acts. Requiring remedies against a supplier for a transaction expressly approved by the protected rightholder would be difficult to reconcile with that structure. This reasoning rests on text, function and context, not a count of language versions. Nevertheless, Articles 4–6 principally address acts involving programs and do not expressly resolve every transaction involving circumvention tools; their reservation alone does not conclusively settle the scenario.",
-          "uncertainty": "context_limited is true, so assigned_level must remain needs_review despite complete English context. I rechecked the original-language text reproduced in the packet; independent retrieval from the cited URLs was unavailable. Full Hungarian contextual provisions and recitals have not been checked. Unlike a settled outcome boundary, an omitted qualifier may be supplied through harmonized interpretation. This unresolved counterreading explains the confidence disagreement with both reviewers. Article 8, cited by both, invalidates specified contrary contractual terms but does not itself establish a general exemption for authorized tools. The omission of facilitation is real, but its independent legal effect remains unproved. National implementation and remedies are also unknown; the Hungarian wording cannot simply be treated as creating a separate territorially applicable EU rule.\nUnresolved: Does the complete Hungarian context confirm an implicit authorization limitation? After interpreting the authentic versions together, can the expressly authorized transaction plausibly remain within Article 7(1)(c)? An editor must supply and check the missing context before assigning an impact level. Specific national remedies would require further evidence before claiming a more serious consequence.",
-          "assessed_at": "2026-10-14T04:05:37.932185Z",
-          "rubric_version": "potential-impact-pilot-2",
-          "finding_ids": [
-            "088af572197cf54f11197244"
-          ]
-        },
-        {
           "id": "impact-18f0e2856fcf7c89405cfd27",
           "title": "Article 5(3): possible contractual prerequisite for observation, study or testing",
           "legal_anchor": "Directive 2009/24/EC, Article 5(3), aligned across supplied versions by source_id art_5, read with Articles 1(2), 4(1)(a), 5(1), 6 and 8 and recitals 13–16.",
@@ -5372,6 +6348,38 @@
           ]
         },
         {
+          "id": "impact-f3a52940d2ab722dd900ff42",
+          "title": "Potential qualification of the normal-exploitation prohibition",
+          "legal_anchor": "Directive 2009/24/EC, Article 6(3), read with Article 6(1)–(2), its Berne reference and recital 15.",
+          "impact_level": null,
+          "confidence": "medium",
+          "review_state": "needs_review",
+          "effect": "Decompilation satisfies Article 6(1)–(2) but conflicts with normal exploitation. If that interference is considered justified and does not unreasonably prejudice legitimate interests, the Romanian shared qualifier could preserve the exception.",
+          "rationale": "Romanian places both coordinated objects under 'aduce atingere în mod nejustificat', whereas English states a separate, unqualified exploitation limb. Both reviewers identify the same conditional expansion and no material disagreement. Ordinary competition or lost sales alone cannot establish the required conflict with legally defined normal exploitation.\nCounterreading: The express Berne reference, separate safeguards in other authentic versions and English recital 15 favor preserving an autonomous exploitation prohibition. Context could treat conflict with normal exploitation as necessarily unjustified, eliminating the proposed difference.",
+          "uncertainty": "Whether a legally recognized exploitation conflict could nevertheless be justified remains unresolved. Romanian recital 15 is not supplied, despite earlier packet commentary invoking it. Context_limited is true.\nUnresolved: Does complete Romanian context preserve the independent prohibition, and can a concrete justified conflict survive both the legitimate-interests limb and every other Article 6 condition?",
+          "assessed_at": "2026-10-14T04:35:20.960235Z",
+          "rubric_version": "potential-impact-pilot-2",
+          "finding_ids": [
+            "c1db59a6234769b364fabcdc"
+          ]
+        },
+        {
+          "id": "impact-86318a39f51815db7affe9dd",
+          "title": "Potential removal of the unreasonable-prejudice threshold",
+          "legal_anchor": "Directive 2009/24/EC, Article 6(3), read with Article 6(1)–(2), Article 4(1) and recital 15.",
+          "impact_level": null,
+          "confidence": "medium",
+          "review_state": "needs_review",
+          "effect": "Otherwise qualifying decompilation causes reasonable prejudice to a legally legitimate interest without conflicting with normal exploitation. Finnish's unqualified harm wording could exclude reliance on Article 6.",
+          "rationale": "Finnish 'aiheuttaa haittaa' states harm without expressly requiring unreasonableness. Both reviewers correctly preserve the independent normal-exploitation prohibition: conduct already caught there cannot demonstrate this omission's effect. Their assessments contain no material disagreement.\nCounterreading: The express Berne reference, qualified wording in other authentic versions and the exception's purpose support restoring the threshold through interpretation. 'Legitimate interests' itself limits cognizable harm. English recital 15 also uses unqualified prejudice, showing that abbreviated wording need not establish a different standard.",
+          "uncertainty": "No concrete example establishes reasonable harm to a legitimate interest outside the normal-exploitation prohibition. Full Finnish context is absent, and context_limited is true.\nUnresolved: Does complete Finnish context preserve the reasonableness threshold, and what qualifying harm survives the separate normal-exploitation test?",
+          "assessed_at": "2026-10-14T04:35:20.960107Z",
+          "rubric_version": "potential-impact-pilot-2",
+          "finding_ids": [
+            "8f4316ebdfde8267401c39eb"
+          ]
+        },
+        {
           "id": "impact-67cf9c8eea3106d06b8ab041",
           "title": "Employer title versus exclusive exercise of economic rights",
           "legal_anchor": "Directive 2009/24/EC, Article 2(3), aligned by source_id art_2 across the supplied authentic versions, including Croatian p0023; read with Article 2(1)–(2), Articles 3–6 and 8.",
@@ -5417,6 +6425,70 @@
           "rubric_version": "potential-impact-pilot-2",
           "finding_ids": [
             "27c46d1048f4620aaf3cecc9"
+          ]
+        },
+        {
+          "id": "impact-f7ae3dd34013b80372d826c9",
+          "title": "Prior provision potentially substitutes for ready availability",
+          "legal_anchor": "Directive 2009/24/EC, Article 6(1)(b), subject to Article 6(1)'s opening necessity requirement and Article 6(2)–(3).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Information is nominally supplied through an inaccessible mechanism, never becomes readily available, and decompilation remains the only possible means of obtaining it. A difference arises only if Bulgarian nevertheless treats that nominal supply as prior provision.",
+          "rationale": "Bulgarian lacks an express accessibility qualifier, but its opening paragraph requires decompilation to be the 'only possible way'. Actual usable receipt normally defeats necessity under either version. Reviewer B treats a surviving boundary as plausible enough for medium confidence; reviewer A identifies the unresolved compatibility of prior provision with that necessity requirement. The packet does not resolve this, supporting low confidence.\nCounterreading: 'Предоставена' can mean effectively made available. Read with necessity and the interoperability purpose, it can exclude merely nominal delivery. Conversely, readily available but unsolicited information generally defeats indispensability, so non-delivery alone does not establish broader permission.",
+          "uncertainty": "A burdensome supply process alone proves neither indispensability nor a changed outcome. The disagreement concerns this missing causal step, not the wording. Bulgarian context outside Article 6 is missing, and context_limited is true.\nUnresolved: Can inaccessible delivery legally count as provision while decompilation remains the only possible means of obtaining the necessary information?",
+          "assessed_at": "2026-10-14T04:35:20.960176Z",
+          "rubric_version": "potential-impact-pilot-2",
+          "finding_ids": [
+            "a37dedfe62b0d21e4808d44d"
+          ]
+        },
+        {
+          "id": "impact-cceb7f1618c2b40cf9ef8942",
+          "title": "Potential expansion of the similarity restriction",
+          "legal_anchor": "Directive 2009/24/EC, Article 6(2)(c), read with Articles 1(2), 5(3), 6(1)–(3) and recitals 10–11 and 15.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A lawful licensee independently develops an internal scheduling program with substantially similar functionality to the licensed original but materially different protected expression. It must exchange scheduling information with existing licensed installations and mutually use that information. The protocol information has never been available; authorised observation and testing cannot reveal it. The licensee must reproduce and translate only the indispensable interface code, using the information exclusively for interoperability and disclosing it to nobody. These acts are unnecessary for the original program's intended use or error correction, are not backup creation, and exceed observation during authorised operations. The original is protected, the relevant rights belong to the claimant, and no separate authorisation covers the extraction. Existing licensed installations remain necessary; the internal implementation neither displaces licensing opportunities nor otherwise conflicts with normal exploitation or unreasonably prejudices legitimate interests. No other infringement or independently applicable restriction is involved. The expression-limited reading permits this extraction-and-use workflow; the disputed functional-similarity reading prevents reliance on Article 6 for that workflow.",
+          "rationale": "Rechecking the supplied original-language provisions confirms the missing Latvian qualifier. The conditional scenario satisfies Article 6(1): independent creation, indispensability, eligible actor, unavailable information and confinement to necessary parts. Both reproduction and translation occur, avoiding dependence on the conjunction differences between versions. Recital 10's interoperability definition and Article 6(2)(a)–(b) are satisfied; materially different expression and no separate infringement satisfy the expression-qualified Article 6(2)(c). Article 6(3) is addressed expressly. Article 5 supplies no alternative permission; distribution exhaustion does not authorise these reproductions or translations. Article 8 preserves other legal regimes but invalidates contractual provisions contrary to Article 6. I reach moderate independently of the reviewers' agreement. Their central mechanism is supported, with two qualifications: Article 6 does not create a general prohibition on functionally similar programs, and review B's 'without ... copying protected expression' must concern the resulting program, since the preliminary reproduction and translation are precisely the protected acts requiring an exception. The changed outcome is loss of permission for the specified extraction-and-use workflow, not automatic infringement by the resulting program or an established damages entitlement.\nCounterreading: The strongest harmonising interpretation reads Latvian substantial similarity as similarity in protected expression. Latvian Article 1(2) excludes underlying ideas and principles, and recital 11 expressly distinguishes their expression. Recitals 10 and 15 support interoperability between independently created programs. Article 6(2)(c)'s concluding reference to 'any other act' infringing copyright further connects the restriction to copyright-protected subject matter. The explicit expression limitations in English, French and German reinforce that reading without deciding the issue by counting languages. Nevertheless, Article 6 independently limits uses of extracted information, so Article 1(2) alone does not logically preclude a broader condition on this exception. Assuming that broader condition survives harmonisation, the stated outcome changes.",
+          "uncertainty": "There is substantial doubt that the broader reading would survive harmonised interpretation. Both reviewers recognise this, and it does not defeat the conditional tier. Their Article 6(3) conclusions are hypothetical conditions, not demonstrated facts about an actual implementation; continued licensing alone would not establish compliance with that safeguard. Likewise, independent authorship alone does not establish materially different expression. The scenario expressly requires both findings. The supplied complete English and Latvian acts provide the relevant context; omission of complete acts in other languages identifies no additional operative blocker here. Source text was rechecked within the packet, without independent live retrieval. National implementation, remedies and actual affected-product frequency remain unestablished.\nUnresolved: No operative limb remains unresolved within the expressly conditioned scenario. An actual case would require proof of indispensability, substantial functional similarity, distinct expression and compliance with Article 6(3). Whether the broader interpretation ultimately prevails remains an interpretive question. Sale-versus-marketing wording and other Article 6 divergences are outside this finding.",
+          "assessed_at": "2026-10-14T05:14:04.351927Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "7ad3906261a741141bd0def7"
+          ]
+        },
+        {
+          "id": "impact-57fc0035472a8650fff7afa1",
+          "title": "Hungarian Article 7(1)(c): missing unauthorised-purpose qualification",
+          "legal_anchor": "Directive 2009/24/EC, Article 7(1)(c), its reservation for Articles 4–6, and Article 7(3); Articles 4–6 and 8 provide interpretive context.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An independent supplier commercially circulates a hardware service tool whose sole intended purpose is directly to disable an external technical device actually protecting an original computer program created after 1993. The program's eligible rightholder expressly authorizes both tool distribution and every intended removal operation. The tool contains no protected program expression, and its distribution and operation neither reproduce nor alter the protected program. Removal is elective retirement of protection, unnecessary for program use, error correction, backup, observation, testing or interoperability. No infringing program copy is circulated or commercially possessed. Under the authorization-qualified reading, Article 7(1)(c) does not require remedial coverage for this conduct. Assuming the unqualified Hungarian reading prevails, the supplier's circulation of this exclusively removal-purpose tool enters the category for which Member States must provide appropriate remedies.",
+          "rationale": "Rechecking the supplied original-language passages and complete English and Hungarian acts confirms that Hungarian Article 7(1)(c) describes an exclusive intended purpose of removal or circumvention ('eltávolítása vagy megkerülése') without expressly qualifying it as unauthorized. English expressly says 'to facilitate the unauthorised removal or circumvention'; German, French and Swedish likewise express an authorization boundary. Their relevance is interpretive, not a vote among versions. The scenario satisfies protected subject matter, eligible rights ownership, actual program protection, circulation and exclusive intended purpose. Direct removal also satisfies the English facilitation formulation, so omission of 'facilitate' does not independently drive this outcome. Article 4 supplies no competing infringement ground because no protected-program act occurs. Article 4(2) exhaustion is therefore immaterial. Articles 5 and 6 do not independently protect the stipulated standalone tool circulation, and their necessary-use, backup, observation and interoperability predicates are absent. Article 7(1)(a)–(b) and 7(2) are inapplicable because there is no infringing copy. Article 8 preserves other law but supplies no separate exception for this tool. The conditional result is a substantive expansion of remedial coverage for an identifiable group, supporting moderate impact. There is no material disagreement with either reviewer's conditional tier or rejection of an independently established facilitation discrepancy. I use the narrower, no-program-act scenario to avoid review B's unnecessary reliance on authorization of possible reproduction or alteration. Neither reviewer establishes mandatory seizure, damages or an actual claim against this supplier, and none is inferred.\nCounterreading: The strongest harmonizing interpretation reads Hungarian removal or circumvention as implicitly unauthorized. Article 7 provides special protection within a copyright scheme whose Article 4 rights include authorization, and its opening reservation preserves Articles 4–6. Recitals 13–16 reinforce protection of lawful uses and carefully bounded exceptions. Express authorization limitations in other authentic versions clarify the same boundary. That interpretation plausibly eliminates the discrepancy altogether. However, if the unqualified reading survives that interpretive exercise as stipulated, authorization of an independent hardware tool is not itself an express Article 4–6 exception to tool circulation.",
+          "uncertainty": "The strongest uncertainty is whether the unqualified reading could survive harmonized interpretation: the protective purpose, express authorization language elsewhere, and Article 7's reservation for Articles 4–6 strongly favor reading an authorization limitation into Hungarian. This concerns interpretive success, not the conditional tier. Both reviewers appropriately distinguish those questions. Their statements that the reservation does not independently defeat the scenario are sustainable only for the carefully confined standalone-tool facts; they should not be generalized to removal necessary for protected uses under Articles 5 or 6. National law, consent, standing and remedial discretion could prevent a particular enforcement outcome. Accordingly, the supported consequence is expanded required coverage, not an automatic remedy against a consenting rightholder's supplier. Complete acts in languages other than English and Hungarian are omitted, but no specific unresolved contextual limb has been identified that defeats this confined coverage change once the disputed reading is assumed.\nUnresolved: The ultimate harmonized interpretation and the form of national remedies remain open. Article 7(3) makes seizure provisions optional; broader classification would expand the referenced category without compelling seizure. No unresolved operative predicate prevents the stated conditional coverage change. The packet marks context_limited false and supplies complete English and Hungarian context, so its incomplete whole-act coverage across other languages does not alone require needs_review.",
+          "assessed_at": "2026-10-14T05:10:45.112036Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "088af572197cf54f11197244"
+          ]
+        },
+        {
+          "id": "impact-ac6ec114b9599f45b7473d0d",
+          "title": "Article 8: potentially narrower preservation of other legal provisions",
+          "legal_anchor": "Directive 2009/24/EC, Article 8, first paragraph, aligned across authentic versions by source_id art_8; read with Article 8, second paragraph, Articles 1 and 4–6, and recitals 6 and 16–19.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An otherwise applicable rule in an unlisted legal field requires an act restricted by the Directive. A changed outcome would arise only if an exhaustive reading of Article 8 left that rule displaced, while an illustrative reading preserved it, after checking substantive scope, exceptions and other safeguards. No rule meeting those conditions is established in the packet.",
+          "rationale": "Rechecking the supplied legal text, English expressly introduces examples through ‘any other legal provisions such as’; Slovenian refers to other provisions ‘ki se nanašajo’ to the listed fields without an express illustrative marker. This supports a textual ambiguity, not an established exhaustive legal boundary. Alignment is by art_8, including Croatian p0029 alongside other versions’ p0036. French ‘notamment’, German ‘so für’ and Croatian ‘kao što su’ provide interpretive evidence of exemplification, without resolving the issue by counting versions. I disagree with the underlying finding insofar as its ‘substantial’ severity implies an established consequential narrowing. Both reviewers correctly distinguish omission from a safeguard from actual displacement. Their moderate conditional assessment is defensible only as a hypothesis about a specific changed legal outcome; neither establishes that outcome. Reviewer B’s inspection example adds specificity but no supporting legal rule. Reviewer A’s abstract scenario avoids that unsupported detail but still leaves the decisive conflict unidentified. The issue is confined to whether the first-paragraph list is exhaustive; terminology within listed fields and contractual invalidity are separate questions.\nCounterreading: The strongest harmonizing interpretation reads Slovenian ‘drugih pravnih predpisov’ and its following list as identifying examples of other applicable laws. The absence of an explicit equivalent to ‘such as’ does not itself require exhaustiveness. Express exemplification in other authentic versions, the bounded copyright framework described in recital 6, and recital 16’s recognition of other forms of protection support this reading. Recitals 17–19 reinforce contextual compatibility with additional rules. Article 8’s second paragraph nevertheless expressly invalidates contracts contrary to Article 6 or Article 5(2)–(3); the preservation clause cannot erase those limits. This harmonizing interpretation could eliminate the alleged outcome difference entirely.",
+          "uncertainty": "context_limited is true, so assigned_level must remain needs_review. I rechecked the original wording reproduced in the packet; independent retrieval of the linked pages was unavailable. Complete Slovenian contextual provisions are not supplied. Reviewer B’s proposed disclosure duty does not necessarily engage a restricted act: disclosure alone is not automatically reproduction or distribution to the public under Article 4. Copying could engage Article 4, but the applicable duty, authorization, exceptions and conflict would still need identification. Both reviewers’ references to recitals 17–19 require qualification: those recitals provide contextual support for continued application of specified rules, not a general operative preservation clause covering every unlisted field. Neither the English word ‘any’ nor an illustrative list establishes unconditional priority over the Directive’s mandatory provisions.\nUnresolved: Does complete Slovenian context reinforce exemplification? Which concrete unlisted rule requires preservation by Article 8? What restricted act and genuine legal conflict arise? After applying the Directive’s scope, exceptions and other safeguards, would exhaustiveness change the result or merely remove express reassurance?",
+          "assessed_at": "2026-10-14T04:19:18.484350Z",
+          "rubric_version": "potential-impact-pilot-2",
+          "finding_ids": [
+            "4ea5402ab4bf51a69482c971"
           ]
         }
       ]
@@ -5653,7 +6725,31 @@
         "total_units": 1408,
         "reviewed_units": 1408,
         "total_languages": 23,
-        "reviewed_languages": 23
+        "reviewed_languages": 23,
+        "reviewed_language_codes": [
+          "bg",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "es",
+          "et",
+          "fi",
+          "fr",
+          "hr",
+          "hu",
+          "it",
+          "lt",
+          "lv",
+          "mt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "sk",
+          "sl",
+          "sv"
+        ]
       },
       "passages": [
         {
@@ -7980,7 +9076,31 @@
         "total_units": 1232,
         "reviewed_units": 1232,
         "total_languages": 23,
-        "reviewed_languages": 23
+        "reviewed_languages": 23,
+        "reviewed_language_codes": [
+          "bg",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "es",
+          "et",
+          "fi",
+          "fr",
+          "hr",
+          "hu",
+          "it",
+          "lt",
+          "lv",
+          "mt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "sk",
+          "sl",
+          "sv"
+        ]
       },
       "passages": [
         {
@@ -8749,168 +9869,243 @@
       ],
       "impact_families": [
         {
-          "id": "2019-343-maltese-barley-malt",
-          "title": "Maltese barley versus malt",
-          "legal_anchor": "Annex, first six food-class rows in the Maltese language version",
+          "id": "impact-f7ed85ec52412985a934c697",
+          "title": "Provisional conditional narrowing of descriptor-exemption eligibility",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex rows 2–7; Article 2 governs qualifying sugars.",
           "impact_level": "moderate",
           "confidence": "medium",
           "review_state": "provisional",
-          "effect": "A sweet whose only candidate listed ingredient is unmalted barley in a non-extract form might meet the Maltese wording but not the English malt alternative, provided it contains no honey or other qualifying extract.",
-          "rationale": "Barley and malt can denote different ingredient states, potentially changing the eligibility boundary.",
-          "uncertainty": "The example is hypothetical; barley extracts may already fit the shared plant-extract alternative. Product composition and legal interpretation need confirmation.",
-          "assessed_at": "2026-10-13T23:05:46.540212Z",
-          "rubric_version": "potential-impact-pilot-2",
-          "finding_ids": [
-            "3f362a1486759d3cf94447d8"
-          ]
-        },
-        {
-          "id": "2019-343-plant-versus-herbal-syrup",
-          "title": "Plant-origin versus herbal syrup ingredients",
-          "legal_anchor": "Annex, Austrian Hustensirup row in Swedish and Latvian versions",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "An otherwise qualifying Austrian Hustensirup confectionery syrup whose only added botanical ingredient is non-herbal and plant-derived might meet a broad plant-origin formulation but not a narrower herbal condition.",
-          "rationale": "The proposed broader class could alter eligibility if the languages remain distinct after contextual reading.",
-          "uncertainty": "Similar wording in other languages was marked uncertain in the underlying review. The saved rationales do not yet explain a language-specific basis for accepting these two findings.",
-          "assessed_at": "2026-10-13T23:05:46.540339Z",
-          "rubric_version": "potential-impact-pilot-2",
-          "finding_ids": [
-            "612b712d071f83a556d4f25a",
-            "7980b4ca86d35365bb169473"
-          ]
-        },
-        {
-          "id": "2019-343-low-versus-reduced-calories",
-          "title": "Low calorie versus calorie reduced",
-          "legal_anchor": "Annex, first six common-sweets rows and seventh Finnish sweets row in four language versions",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "A product with reduced energy content that is not low in energy might meet one version's descriptor condition and fail another's.",
-          "rationale": "Low energy and energy reduction express different conditions, creating a plausible exemption boundary.",
-          "uncertainty": "The product is hypothetical. The Annex descriptions must be interpreted in their own context; numerical thresholds for other claim types are not assumed to apply automatically.",
-          "assessed_at": "2026-10-13T23:08:20.936328Z",
-          "rubric_version": "potential-impact-pilot-2",
-          "finding_ids": [
-            "619660bdb9ea77221646efbd",
-            "6be1dc90e6c48341246418fc",
-            "7f96ad97292ecee5b040cc76",
-            "b8c04eaef2fb9e2c9de2346a"
-          ]
-        },
-        {
-          "id": "2019-343-finnish-soft-sweets",
-          "title": "Finnish soft sweets included",
-          "legal_anchor": "Annex, Finnish sweets descriptor",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "A soft sweet using the Finnish descriptor might qualify for the Article 1(3) generic-descriptor exemption under the Estonian or Dutch wording but fall outside the narrower wording.",
-          "rationale": "The possible difference concerns a condition of exemption eligibility, which could change a compliance outcome for that class.",
-          "uncertainty": "The example is hypothetical; product formulation, descriptor use, and the harmonised legal reading have not been verified.",
-          "assessed_at": "2026-10-13T23:05:46.539863Z",
-          "rubric_version": "potential-impact-pilot-2",
-          "finding_ids": [
-            "3d6908dcc2991dd5d246c74a",
-            "e3374408b67d30890cf0a4e6"
-          ]
-        },
-        {
-          "id": "2019-343-maltese-crisp-bakery",
-          "title": "Maltese crisp versus rusk-type bakery",
-          "legal_anchor": "Annex, Biscotto salute descriptor for Italy",
-          "impact_level": "moderate",
-          "confidence": "low",
-          "review_state": "provisional",
-          "effect": "A crisp bakery product that is not rusk-type might fall within the broader Maltese wording but outside the narrower description.",
-          "rationale": "The lexical difference could change the product category covered by the exemption.",
-          "uncertainty": "Recitals describing Italy's traditional rusk-type product may narrow the contextual reading; this requires review before confirmation.",
-          "assessed_at": "2026-10-13T23:05:46.540170Z",
-          "rubric_version": "potential-impact-pilot-2",
-          "finding_ids": [
-            "ec6fc78b6e87e0361c421910"
-          ]
-        },
-        {
-          "id": "2019-343-slovak-ingredient-expansion",
-          "title": "Slovak ingredient condition expanded",
-          "legal_anchor": "Annex, first six food-class rows in the Slovak language version",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "An otherwise qualifying sweet whose only candidate listed ingredient is an unextracted herb or fruit might meet the Slovak wording but not the English extract-based alternative, provided it contains no honey or malt.",
-          "rationale": "The apparent alternative ingredient source could affect whether a product meets a condition of the exemption.",
-          "uncertainty": "The precise ingredient boundary and any real product example need legal-linguistic verification.",
-          "assessed_at": "2026-10-13T23:05:46.540130Z",
-          "rubric_version": "potential-impact-pilot-2",
-          "finding_ids": [
-            "e287fb3c0fe1a31ef29b120f"
-          ]
-        },
-        {
-          "id": "2019-343-danish-malt-omission",
-          "title": "Danish malt condition omitted",
-          "legal_anchor": "Annex, first six food-class rows in the Danish language version",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "A sweet whose only listed qualifying ingredient is malt might satisfy the English condition but fall outside the Danish wording, which omits the malt alternative.",
-          "rationale": "Omission of the malt alternative could exclude an identifiable class that the English list expressly includes.",
-          "uncertainty": "The example is hypothetical; no other listed ingredient may supply eligibility, and the common interpretation of the Annex remains open.",
-          "assessed_at": "2026-10-13T23:05:46.539983Z",
-          "rubric_version": "potential-impact-pilot-2",
+          "effect": "A hard sweet based on qualifying sugars is marketed in Germany as Hustenbonbon. Its only potentially qualifying additional ingredient is ground, unextracted malt; it contains no honey or botanical extract, including any extract produced during manufacture. If the ingredient list excludes malt as an independent alternative, the product loses eligibility for this descriptor exemption.",
+          "rationale": "The Danish wording lists extracts of botanical materials and honey without a separate malt alternative. Malt's botanical origin does not itself make unextracted malt an extract. Article 1 makes the Annex conditions operative, so the isolated ingredient difference can change exemption eligibility. Sugar-based status satisfies the base-product condition but does not independently dispense with the ingredient condition. Finland's ingredient-independent row concerns different descriptors and territory and cannot preserve this German Hustenbonbon exemption. This is a substantive eligibility change under a specific rule, supporting moderate rather than limited impact; the packet establishes neither broad market reach nor serious downstream consequences supporting high.\nCounterreading: The strongest harmonizing reading understands the Danish omission in light of equally authoritative versions expressly including malt, such as English, German and French. Malt extract can also satisfy the Danish botanical-extract limb without harmonization. Those readings defeat a malt-extract example, but they do not defeat the stipulated unextracted-malt example if the restrictive ingredient reading prevails.",
+          "uncertainty": "Actual manufacture could introduce a qualifying extract and eliminate the difference. Loss of this exemption does not establish unlawful labelling or a sanction: the substantive requirements of the referenced Regulation 1924/2006 are outside the supplied evidence.\nUnresolved: No independent outcome dependency remains for the specified unextracted-malt scenario. Article 2 compliance is held constant rather than inferred from an external definition. comparator_omissions is empty and context_limited is false. Omitted provisions limit conclusions about downstream labelling obligations, but do not prevent the conditional Annex-eligibility comparison.",
+          "assessed_at": "2026-10-14T05:52:09.617803Z",
+          "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "ce9694df0030f2bc86e6da4c"
           ]
         },
         {
-          "id": "2019-343-dutch-crystalline-glucose",
-          "title": "Dutch crystalline glucose versus starch syrup",
-          "legal_anchor": "Annex, Austrian Hustensirup row in the Dutch language version",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "An otherwise qualifying Austrian Hustensirup confectionery syrup whose only candidate listed glucose ingredient is a starch syrup other than dissolved crystalline glucose might meet the English limb but not the Dutch wording, if the adjacent sugar-solution limb does not cover it.",
-          "rationale": "The two ingredient terms could cover different inputs, potentially changing exemption eligibility.",
-          "uncertainty": "The same operative description also mentions solutions of sugar, which may erase the alleged difference. The Directive's dextrose terminology is not identical to the Dutch Annex phrase.",
-          "assessed_at": "2026-10-13T23:05:46.540291Z",
-          "rubric_version": "potential-impact-pilot-2",
-          "finding_ids": [
-            "76c19cfad65d99f92ae203a9"
-          ]
-        },
-        {
-          "id": "2019-343-estonian-malt-extract",
-          "title": "Estonian malt extract condition",
-          "legal_anchor": "Annex, first six food-class rows in the Estonian language version",
+          "id": "impact-07237910d6ff252439db022e",
+          "title": "Provisional conditional expansion of descriptor-exemption eligibility",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex row 11: Biscotto salute, Italy.",
           "impact_level": "moderate",
           "confidence": "medium",
           "review_state": "provisional",
-          "effect": "A sweet whose only listed qualifying ingredient is unextracted malt might satisfy the English ingredient condition but fail the Estonian malt-extract condition.",
-          "rationale": "Malt and malt extract can describe different ingredients, so the narrower wording could alter eligibility.",
-          "uncertainty": "The example is hypothetical; exact product composition and harmonised interpretation remain unverified.",
-          "assessed_at": "2026-10-13T23:05:46.540032Z",
-          "rubric_version": "potential-impact-pilot-2",
+          "effect": "A crisp baked biscuit outside the rusk-type category is marketed in Italy using Biscotto salute. If the Maltese food category independently encompasses crisp bakery products generally, the product satisfies the category condition and gains eligibility for the listed descriptor exemption.",
+          "rationale": "The supplied Maltese wording describes a crisp type, while the English wording specifies a rusk type. Article 1 makes the listed food category a condition of the exemption. Assuming the broader category reading prevails, the complete row supplies no additional rusk requirement that defeats the scenario. Article 2's sugar definitions provide no independent restriction on this bakery category. Although confined to one descriptor and territory, the difference changes substantive eligibility for an identifiable product group, supporting moderate impact rather than an ancillary, limited effect.\nCounterreading: The strongest harmonizing reading treats crispness as describing the same rusk-like category identified by the named Italian descriptor and by the Italian, French and German formulations. All versions have equal authority. That context may defeat the broad interpretation, but it is not a separate supplied eligibility condition that remains unsatisfied once the broad category reading is assumed to prevail.",
+          "uncertainty": "The culinary scope of qarmeċ and the rusk-type classification of any actual product remain interpretive or factual questions. The assessment establishes no actual affected product, permission for additional claims, or general right to market a product under this name.\nUnresolved: No independent dependency preventing the conditional exemption change is established in the supplied rules. comparator_omissions is empty and context_limited is false. Omitted recitals could inform interpretation of the category, but the packet identifies no omitted rule independently limiting eligibility to rusks after the broader interpretation is assumed. External marketing and claims consequences remain outside the assessment.",
+          "assessed_at": "2026-10-14T05:52:09.618065Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "ec6fc78b6e87e0361c421910"
+          ]
+        },
+        {
+          "id": "impact-12871a7e1b69cc2dc1d58b0c",
+          "title": "Provisional conditional expansion of descriptor-exemption eligibility",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex rows 2–7; Article 2 governs qualifying sugars.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A soft sweet based on qualifying sugars is marketed in Austria as Hustenzuckerl. It contains chopped, unextracted herbs but no botanical extracts, honey or malt. If the Slovak phrase makes herbs an independent ingredient alternative, the product becomes eligible for the descriptor exemption despite failing an extraction requirement.",
+          "rationale": "The supplied Slovak text places alebo, meaning or, between extracts and herbs. On the disputed reading, that creates an independent herb alternative. The specified product therefore meets the broader ingredient condition and fails the extract-based condition. The sugar-based limb does not itself waive the ingredient requirement, and the ingredient-independent Finnish row does not cover Hustenzuckerl in Austria. The change concerns substantive exemption eligibility for an identifiable group under one rule, supporting moderate impact. No assessment of extracts from unspecified sources is needed to establish this narrower, concrete mechanism.\nCounterreading: The strongest harmonizing reading treats the Slovak sequence as an awkward enumeration of the botanical sources of extracts. Czech, French and English expressly connect extraction to the botanical list, supporting that contextual reading without giving any version superior authority. If that interpretation prevails, the proposed expansion disappears; if the independent-herb reading prevails, the scenario survives the other supplied conditions.",
+          "uncertainty": "The multilingual interpretation remains open. Actual processing must leave the herbs unextracted and introduce no other qualifying ingredient. Neither actual product prevalence nor downstream illegality is established.\nUnresolved: No independent outcome dependency remains for the specified unextracted-herb scenario with qualifying sugar held constant. The separate possibility of unrestricted extract sources remains unassessed. comparator_omissions is empty and context_limited is false. The omitted substantive sugar definitions and external claims rules do not defeat this ingredient-only comparison, but cannot support further legal consequences.",
+          "assessed_at": "2026-10-14T05:52:09.617990Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "e287fb3c0fe1a31ef29b120f"
+          ]
+        },
+        {
+          "id": "impact-7ece83172e7c306c9f11721e",
+          "title": "Dutch wording includes soft sweets",
+          "legal_anchor": "Regulation (EU) 2019/343, Article 1 and Annex row for Kurkkupastilli/Halspastill in Finland",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Consider an otherwise qualifying ordinary sugar-based soft sweet using Kurkkupastilli/Halspastill in Finland. The Dutch wording includes soft sweets; if that broader reading prevailed, the product could qualify for this Article 1 exemption. Under the hard-sweets reading it would not qualify through this Annex row.",
+          "rationale": "The Dutch Annex cell expressly includes soft sweets, while the English cell specifies hard sweets. Article 1 makes the Annex conditions determine eligibility for an exemption from Article 1(3) of Regulation (EC) No 1924/2006. A change in that eligibility is a legal outcome for an identifiable class, supporting Moderate conditional impact. This does not claim that any real product violates the underlying rule. Recital 22 and many other authentic versions point toward a hard-sweets reading; that bears on which interpretation ultimately prevails, not on the size of the outcome if the broader reading does prevail.",
+          "uncertainty": "All authentic versions have equal authority. Recital 22 and the wider multilingual context strongly support harmonizing the category as hard sweets, so the broader reading may not prevail. Specific duties under Article 1(3) of Regulation (EC) No 1924/2006, any separate permission, and actual market use were not established in this trial. The hypothetical assumes the product meets other Annex conditions and the incorporated sugar definition; this rating concerns this Regulation’s exemption eligibility only.",
+          "assessed_at": "2026-10-14T06:01:47.903024Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3d6908dcc2991dd5d246c74a"
+          ]
+        },
+        {
+          "id": "impact-00d5b90659953f25f16d04f2",
+          "title": "Calorie-condition narrowing unresolved",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex rows 2–8; Article 2 incorporates sugar definitions, not an express calorie threshold.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A polyol-based Hustenperle in Germany contains herbal extract and has reduced but still high calories. Test both a sugar-free formulation and one containing incidental sugar that is not sugar-based.",
+          "rationale": "Mazkaloriju supports an ordinary low-calorie reading distinct from relative calorie reduction. Nevertheless, the sugar-free example changes outcome only under cumulative variant conditions. Under separate classes it remains exempt. The incidental-sugar example requires separate calorie-reduced eligibility and exclusion from the sugar-based limb. A narrower calorie meaning alone therefore does not establish a changed outcome for either formulation. The moderate field indicates prospective scale only.\nCounterreading: Mazkaloriju could denote relatively reduced-calorie variants in context. Alternatively, sugar-free status could independently preserve eligibility even if mazkaloriju retains an absolute low-calorie meaning.",
+          "uncertainty": "The packet supplies no numerical calorie standard. No comparator omissions are recorded. Lithuanian separates sugar-free sweets from reduced-calorie sweets, while Bulgarian uses an express alternative; these authentic texts strengthen the independent-route counterreading without resolving the common interpretation by a vote.\nUnresolved: Does the variant phrase impose cumulative conditions or identify separate classes? Which concrete formulation satisfies the initial route without another route preserving eligibility, and what calorie standard applies?",
+          "assessed_at": "2026-10-14T05:46:43.806272Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "6be1dc90e6c48341246418fc"
+          ]
+        },
+        {
+          "id": "impact-0ee969e1321ee5790230f1a4",
+          "title": "Calorie-condition narrowing unresolved",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex rows 2–8; Article 2 incorporates sugar definitions but supplies no calorie standard.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Test two polyol-based Keelpastille formulations in the Netherlands, both containing herbal extract and having reduced but still high calories: one is sugar-free; the other contains incidental sugar and is stipulated not to be sugar-based.",
+          "rationale": "The sugar-free formulation loses eligibility only if sugar-free and calorie-qualified are cumulative requirements. If the phrase lists separate variant classes, it remains eligible. The incidental-sugar formulation avoids that rescue only if calorie-reduced variants are independently eligible in the first place and the sugar-based limb does not cover it. Thus assuming caloriearme imposes a narrower calorie condition still leaves the changed outcome dependent on another unresolved issue. Moderate describes prospective scale, not an assigned tier.\nCounterreading: Caloriearme may mean relatively lower-calorie variants in context. Even retaining its narrower meaning, independently sufficient sugar-free eligibility may harmonize the practical outcome for Review A's example.",
+          "uncertainty": "No numerical threshold or incorporation of nutrition-claim thresholds is established. No comparator omissions are recorded. The separate-class wording in Lithuanian and alternatives in Hungarian materially support an independent sugar-free route. Dutch row 8 also includes soft sweets, but that separate discrepancy does not resolve the selected Keelpastille scenario.\nUnresolved: Are the variant conditions cumulative or alternative, and can an identified formulation escape both the sugar-free and sugar-based routes while qualifying under the calorie-reduced route? What calorie standard governs?",
+          "assessed_at": "2026-10-14T05:46:43.806210Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "619660bdb9ea77221646efbd"
+          ]
+        },
+        {
+          "id": "impact-d0663007f3bbe7d7ac28af51",
+          "title": "Provisional expansion to non-herbal plant additions",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex row 9, Hustensirup in Austria; Article 2 incorporates sugar definitions.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A confectionery syrup marketed as Hustensirup in Austria uses a honey-and-water base with added pear purée, remains in syrup form, and contains no herbal ingredients.",
+          "rationale": "Pear purée meets the plant-origin addition condition but fails a condition restricted to herbal ingredients. The expressly permitted honey base satisfies the separate base requirement without depending on starch-syrup classification. The other base alternatives do not waive the addition requirement. This supports a concrete conditional change in descriptor-exemption eligibility under one specific rule.\nCounterreading: Read augucilmes in this context as confined to herbal additions, consistent with Polish ziołowych. Conversely, Swedish växtbaserade supports a broad botanical reading, and English herbal might receive that broader contextual meaning. Each is an equal-authority harmonizing possibility.",
+          "uncertainty": "The ultimate botanical-versus-herbal interpretation remains open. No comparator omissions are recorded. Missing sugar definitions do not prevent the selected honey-base scenario.\nUnresolved: No additional unresolved dependency defeats the stated outcome once the disputed plant-origin boundary is assumed.",
+          "assessed_at": "2026-10-14T05:46:43.806377Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "7980b4ca86d35365bb169473"
+          ]
+        },
+        {
+          "id": "impact-dec4698fa2072c51281dd310",
+          "title": "Estonian wording includes soft sweets",
+          "legal_anchor": "Regulation (EU) 2019/343, Article 1 and Annex row for Kurkkupastilli/Halspastill in Finland",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Consider an otherwise qualifying ordinary sugar-based soft sweet using Kurkkupastilli/Halspastill in Finland. The Estonian wording includes soft sweets; if that broader reading prevailed, the product could qualify for this Article 1 exemption. Under the hard-sweets reading it would not qualify through this Annex row.",
+          "rationale": "The Estonian Annex cell expressly includes soft sweets, while the English cell specifies hard sweets. Article 1 makes the Annex conditions determine eligibility for an exemption from Article 1(3) of Regulation (EC) No 1924/2006. A change in that eligibility is a legal outcome for an identifiable class, supporting Moderate conditional impact. This does not claim that any real product violates the underlying rule. Recital 22 and many other authentic versions point toward a hard-sweets reading; that bears on which interpretation ultimately prevails, not on the size of the outcome if the broader reading does prevail.",
+          "uncertainty": "All authentic versions have equal authority. Recital 22 and the wider multilingual context strongly support harmonizing the category as hard sweets, so the broader reading may not prevail. Specific duties under Article 1(3) of Regulation (EC) No 1924/2006, any separate permission, and actual market use were not established in this trial. The hypothetical assumes the product meets other Annex conditions and the incorporated sugar definition; this rating concerns this Regulation’s exemption eligibility only.",
+          "assessed_at": "2026-10-14T06:01:47.903215Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "e3374408b67d30890cf0a4e6"
+          ]
+        },
+        {
+          "id": "impact-f0f43ead2c1f18ccac23fc0d",
+          "title": "Provisional conditional narrowing of descriptor-exemption eligibility",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex rows 2–7; Article 2 governs qualifying sugars.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A hard sweet based on qualifying sugars is marketed in the Netherlands as Hoestbonbon. It contains ground, unextracted malt but no malt extract, other botanical extract or honey, including any qualifying extract generated during manufacture. If malt must be present as malt extract, the product loses eligibility for this descriptor exemption.",
+          "rationale": "The Estonian text expressly identifies linnaseekstrakti, malt extract, where the English and several other supplied versions identify malt. Unextracted malt does not satisfy an extraction requirement merely because it comes from plants. The general botanical-extract limb therefore does not rescue the specified scenario; neither does honey, which is absent. The parenthetical menthol example remains within the extract wording and supplies no independent whole-malt alternative. Sugar-based status does not waive the ingredient condition, and Finland's ingredient-independent row cannot supply an exemption for Hoestbonbon in the Netherlands. A conditional change in substantive exemption eligibility supports moderate impact.\nCounterreading: The strongest harmonizing reading understands the Estonian malt-extract expression within the broader malt category expressly supplied by equally authoritative English, German, Dutch and Finnish versions. Separately, malt extract may already qualify under the general plant-extract limb. That overlap eliminates a changed outcome for extracted-malt products but does not cover whole, unextracted malt if the restrictive reading prevails.",
+          "uncertainty": "The actual product and manufacturing process must establish the absence of qualifying extracts. Ultimate multilingual interpretation remains open. The packet supports an eligibility comparison, not an automatic prohibition, penalty or demonstrated enforcement consequence.\nUnresolved: No independent outcome dependency remains for the stipulated unextracted-malt scenario, with qualifying sugar held constant. comparator_omissions is empty and context_limited is false. Omitted external definitions and claims rules limit downstream conclusions but do not prevent this isolated ingredient comparison.",
+          "assessed_at": "2026-10-14T05:52:09.618123Z",
+          "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "f673f7740df31735a642e4e2"
           ]
         },
         {
-          "id": "2019-343-german-other-sweeteners",
-          "title": "German other sweeteners",
-          "legal_anchor": "Annex, first six common-sweets rows and seventh Finnish sweets row in the German language version",
+          "id": "impact-b598aba266d1eb4914062277",
+          "title": "Sweetener-category expansion unresolved",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex rows 2–8; Article 2 incorporates sugar definitions whose text is outside the packet.",
           "impact_level": null,
           "confidence": "low",
           "review_state": "needs_review",
-          "effect": "If the German reference to other sweeteners admits a lawful additive outside the listed classes, a product using it could satisfy the German condition but fail the narrower reading.",
-          "rationale": "An open-ended sweetener class could affect exemption eligibility if it survives contextual interpretation.",
-          "uncertainty": "No admissible counterexample outside polyols and intense sweeteners is established. The parenthetical list may be non-exhaustive, and sugar replacements outside the food-additive definition cannot simply be assumed to qualify.",
-          "assessed_at": "2026-10-13T23:08:20.936429Z",
-          "rubric_version": "potential-impact-pilot-2",
+          "effect": "A hard Hustenbonbon in Germany contains herbal extract and meets the applicable variant conditions, using a sweetener outside both the polyol and intense-sweetener classes. Eligibility would change only if it also falls outside the ordinary sugar-based route.",
+          "rationale": "The German parenthesis literally extends beyond intense sweeteners. However, accepting that broader meaning does not establish a concrete additional qualifying formulation. The packet identifies no ingredient demonstrably outside the two named classes that satisfies the variant conditions without independently qualifying through the sugar-based limb. The exemption mechanism is clear, but the boundary group remains unsubstantiated. The moderate conditional-impact field describes the prospective scale only; no impact tier is assigned.\nCounterreading: Both parentheses could illustrate the intended sweetener classes, or 'andere Süßungsmittel' could mean other sweeteners within the intense-sweetener class in context. The French 'édulcorants intenses' supports that harmonization without having superior authority.",
+          "uncertainty": "Whether either parenthesis is exhaustive is an interpretive uncertainty. Separately, ingredient classification and alternative eligibility remain unresolved. No comparator omissions are recorded, but the incorporated sugar definitions are not supplied.\nUnresolved: Which identifiable sweetener and formulation would meet the remaining conditions while falling outside both specified classes and the sugar-based alternative?",
+          "assessed_at": "2026-10-14T05:46:43.805837Z",
+          "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "1ef480720b1163bc17d0cff4"
+          ]
+        },
+        {
+          "id": "impact-f6470894d329f2dd61e073c3",
+          "title": "Unresolved conditional change in descriptor-exemption eligibility",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex rows 2–8; Article 2 incorporates definitions of sugars from Directive 2001/111/EC, whose substantive definitions are not supplied.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A polyol-based hard sweet marketed in Finland as Halspastill contains some sugar and has reduced calories relative to an ordinary counterpart, while allegedly falling outside an absolute low-calorie category. Exclusion under the Bulgarian calorie wording would change exemption eligibility only if neither the sugar-free alternative nor the ordinary sugar-based sweets limb covers it.",
+          "rationale": "The Bulgarian text expresses low caloric content, whereas the English text expresses reduction. These concepts can differ, but that linguistic distinction alone does not establish a surviving eligibility change. Review A stipulates that its sugar-containing product is neither sugar-free nor sugar-based; the packet does not establish the legal boundary needed to support the latter classification. It also supplies no operative calorie criteria. Article 2 identifies an incorporated source but does not provide its definitions. Accordingly, even assuming an absolute-low-calorie interpretation prevails, the proposed product's exclusion remains unresolved. Moderate describes the potential effect if those dependencies are resolved; no impact tier is assigned.\nCounterreading: The strongest harmonizing reading treats low-calorie and calorie-reduced formulations as descriptions of the same intended sweetener-based variants. Italian and Dutch supply low-calorie formulations, while French and other supplied versions express reduction; Hungarian expressly separates sugar-free and reduced-energy alternatives. These equally authoritative texts support contextual interpretation rather than treating English as controlling. Independently, the sugar-free or sugar-based limb could preserve eligibility.",
+          "uncertainty": "No numerical calorie threshold or external nutrition-claim criterion is imported. The coordination of sugar-free and calorie-reduced variants also requires contextual interpretation: the authentic versions include both conjunctive and alternative formulations. No actual affected product or market reach is established.\nUnresolved: What criteria establish that a sugar-containing, sweetener-based variant falls outside the sugar-based limb? What criteria separate low caloric content from calorie reduction here, and are the variant categories independent alternatives? comparator_omissions is empty and context_limited is false, but the omitted incorporated definitions and unresolved category boundaries still prevent a concrete conditional outcome.",
+          "assessed_at": "2026-10-14T05:52:09.617528Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "b8c04eaef2fb9e2c9de2346a"
+          ]
+        },
+        {
+          "id": "impact-2a33b1b5351973f409f05e3c",
+          "title": "Provisional expansion to non-extracted unmalted barley",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex rows 2–7; Article 2 governs the separate sugar-base condition.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A hard Hustenbonbon marketed in Germany has an otherwise qualifying sucrose base and contains milled unmalted barley, but no plant extracts, honey or malt.",
+          "rationale": "If xgħir includes unmalted barley, the scenario satisfies the ingredient condition and gains the Article 1 derogation. Milled grain avoids the shared plant-extract alternative. The sugar-based limb supplies the base requirement; it does not dispense with the additional ingredient condition. This is an identifiable formulation group under a specific exemption, supporting moderate impact without evidence of wider consequences.\nCounterreading: Read xgħir contextually as malted barley or malt, consistent with Maltese food terminology in this setting and comparator wording such as Italian malto. Alternatively, a barley extract already qualifies through the botanical-extract limb and would show no changed outcome. The scenario therefore uses unmalted meal.",
+          "uncertainty": "The ultimate contextual meaning of xgħir remains open. No comparator omissions are recorded. The supplied concordance is not uniform: the Danish ingredient list omits malt, but still supplies no independent route for the stipulated non-extracted barley formulation.\nUnresolved: No additional packet dependency defeats the specified conditional ingredient-boundary outcome. It establishes exemption eligibility only, not general permission to market the product.",
+          "assessed_at": "2026-10-14T05:46:43.806083Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3f362a1486759d3cf94447d8"
+          ]
+        },
+        {
+          "id": "impact-2d055a20e761580318ed45a9",
+          "title": "Calorie-condition narrowing unresolved",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex rows 2–8; Article 2 incorporates sugar definitions without establishing a calorie threshold.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A polyol-based Hustenzuckerl in Austria contains herbal extract and has reduced but still high calories. Compare a sugar-free formulation with one containing incidental sugar and falling outside the sugar-based category.",
+          "rationale": "A basso contenuto calorico can impose a narrower condition than relative calorie reduction. However, a sugar-free formulation loses the exemption only if both variant conditions are cumulative. If they identify independent classes, it remains eligible. The incidental-sugar formulation avoids that rescue only if the calorie-reduced class is independent and the ordinary sugar-based route is unavailable. The conditional outcome therefore remains unresolved even accepting the narrower calorie meaning. Moderate indicates prospective scale, not an assigned tier.\nCounterreading: The Italian expression may refer contextually to reduced-calorie variants. Alternatively, the coordinated phrase may list sugar-free and low-calorie classes independently, preserving exemption eligibility for sugar-free products despite a narrower calorie condition.",
+          "uncertainty": "The packet establishes no numerical calorie cutoff or express incorporation of nutrition-claim thresholds. No comparator omissions are recorded. Lithuanian's separately described sweets and Hungarian's express alternative materially support separate categories; they cannot simply be displaced by the Italian conjunction.\nUnresolved: Are the conditions cumulative or alternative? Can an identified formulation establish initial calorie-reduced eligibility while excluding both other routes, and what standard governs calorie qualification?",
+          "assessed_at": "2026-10-14T05:46:43.806429Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "7f96ad97292ecee5b040cc76"
+          ]
+        },
+        {
+          "id": "impact-80f4c34fc9235521be45a802",
+          "title": "Provisional expansion to non-herbal plant additions",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex row 9, Hustensirup in Austria; Article 2 concerns sugar definitions.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A confectionery product marketed as Hustensirup in Austria remains in syrup form, uses a honey-and-water base, and contains added apple purée but no herbal ingredients.",
+          "rationale": "Under a plant-based addition condition, apple purée qualifies; under a condition restricted to herbal additions, the stipulated formulation fails. Honey is an expressly listed base, avoiding the disputed starch-syrup classification. The base alternatives do not displace the separate added-ingredient requirement, and the sweets rows do not provide another route for this syrup descriptor. The resulting change concerns eligibility for the Article 1 derogation.\nCounterreading: Swedish växtbaserade could be restricted contextually to herbal ingredients, supported by Finnish yrttiainesosia. Conversely, German pflanzlichen Bestandteilen supports broader plant additions. English herbal could itself receive a broad contextual meaning. These equal-authority readings might harmonize the texts; they concern whether the disputed boundary ultimately survives.",
+          "uncertainty": "The eventual multilingual meaning of herbal and plant-based remains open. No comparator omissions are recorded. The omitted sugar definitions do not determine the selected honey-base route.\nUnresolved: No additional unresolved condition defeats the stated scenario once the broader plant-versus-herbal boundary is assumed.",
+          "assessed_at": "2026-10-14T05:46:43.806150Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "612b712d071f83a556d4f25a"
+          ]
+        },
+        {
+          "id": "impact-48c71d7a88c2106cc90d4be7",
+          "title": "Syrup-base substitution has unresolved alternative coverage",
+          "legal_anchor": "Regulation 2019/343, Article 1 and Annex row 9; Article 2 expressly incorporates Directive 2001/111/EC, Annex A, whose definitions are not supplied.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An Austrian Hustensirup confectionery syrup contains herbal ingredients and uses liquid starch-derived glucose syrup as its sole sweetening base, without crystalline glucose, separately added sucrose, invert sugar or honey.",
+          "rationale": "Kristalglucose does not express the same ingredient description as starch syrup. Yet absence of crystalline glucose cannot establish exclusion if the formulation already qualifies through 'oplossingen van suiker'. Article 2 makes the omitted definitions directly relevant to that overlap. Conversely, dissolved crystalline glucose cannot be assumed to create an expansion: it too may already fall within sugar solutions or the starch-syrup category. Neither direction yields a concrete changed outcome on this packet. Moderate represents prospective scale only.\nCounterreading: Read kristalglucose contextually as referring to the glucose-syrup base expressed in Italian sciroppo di glucosio, or retain its literal meaning while recognizing overlapping coverage through the separate sugar-solutions limb.",
+          "uncertainty": "No comparator omissions are recorded, but the incorporated definitions are a decisive omitted dependency. The packet establishes their incorporation, not their contents or their application to a particular syrup.\nUnresolved: Does the selected starch-derived syrup qualify through the incorporated sugar definitions and the sugar-solutions limb? Can any identified formulation establish either exclusion or expansion after that overlap is checked?",
+          "assessed_at": "2026-10-14T05:46:43.806324Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "76c19cfad65d99f92ae203a9"
           ]
         }
       ]
@@ -8924,7 +10119,7 @@
       "version": "2022-10-19",
       "version_label": "Original act",
       "retrieved_at": "2026-10-14T00:39:12.355408+00:00",
-      "status": "imported",
+      "status": "analyzing",
       "subject": "",
       "languages": [
         {
@@ -9148,9 +10343,12 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 6302,
-        "reviewed_units": 0,
+        "reviewed_units": 274,
         "total_languages": 24,
-        "reviewed_languages": 0
+        "reviewed_languages": 2,
+        "reviewed_language_codes": [
+          "fr"
+        ]
       },
       "passages": [
         {
@@ -10805,7 +12003,8 @@
         "This import explicitly uses the original Official Journal act. A later consolidated work (02022R2065-20221027) exists but is outside this review; later corrigenda or amendments may not be reflected.",
         "Complete multilingual review is in progress. Preliminary findings remain private until the full review is finished.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
-        "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
+        "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared.",
+        "1 candidate(s) failed exact source-quotation validation and were excluded from publication; local audit records retain these candidates."
       ],
       "impact_families": []
     }

@@ -85,7 +85,7 @@ export function renderReviewSources(act, { review } = {}) {
   append(guide, node('summary', '', 'Reading guide'),
     node('p', '', 'Language findings are published finding records. Grouped comparisons combine records with the same English quotation in the same source passage; a group may contain several distinct issues.'),
     node('p', '', 'Underlining marks differences in wording between the English reference and a translation into English. It is a reading aid, not an assessment of legal significance or impact.'),
-    node('p', '', 'No impact rating yet means no level has been assigned. A preliminary issue explanation may exist. It does not mean limited impact.'));
+    node('p', '', 'No impact rating yet means no level has been assigned. An issue explanation may exist. It does not mean limited impact.'));
   append(body, guide);
   append(details, body);
   return details;
@@ -121,6 +121,11 @@ export function renderCoverage(act, { compact = false } = {}) {
         `${coverage.reviewed_languages || 0} of ${coverage.total_languages} languages fully reviewed`
       )
     );
+  if (Array.isArray(coverage.reviewed_language_codes) && coverage.reviewed_language_codes.length) {
+    const names = new Map((act.languages || []).map((language) => [language.code, language.name]));
+    append(content, node('p', 'coverage-languages',
+      `Completed target languages: ${coverage.reviewed_language_codes.map((code) => names.get(code) || code.toUpperCase()).join(', ')}`));
+  }
   const incompleteLanguages = (act.languages || []).filter(
     (language) => language.coverage_incomplete
   );

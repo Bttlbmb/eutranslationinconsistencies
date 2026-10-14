@@ -33,7 +33,7 @@ test('front-page counts retain separate finding records at a shared English anch
   ]);
 });
 
-test('impact totals count confirmed and preliminary issues separately from finding records', () => {
+test('impact totals count confirmed and model-reviewed issues separately from finding records', () => {
   const family = {
     id: 'issue', title: 'Test issue', effect: 'Synthetic possible effect',
     review_state: 'confirmed', impact_level: 'high', finding_ids: ['a', 'b']

@@ -99,7 +99,7 @@ function focusedEmptyState(act, language) {
       message: 'No supported finding has been published for this language. The archived source has incomplete language coverage; check Source archive.',
       summary: `No ${name} findings published · source incomplete`
     };
-  if (act.status === 'complete')
+  if (language.reviewState === 'complete')
     return {
       title,
       message: 'No supported substantial difference was found for this language in the completed review. This does not establish equivalence.',
@@ -407,27 +407,28 @@ function renderFocusControls(act) {
   const languages = focusLanguageIndex(act).map(language => ({
     ...language, count: findingCounts(availableFindings, language.code).findings
   }));
-  const choices = languages.filter(language => language.count > 0);
   append(select, node('option', '', `All languages (${findingCounts(availableFindings).findings})`));
   select.options[0].value = '';
-  choices.forEach((language) => {
-    const suffix = language.coverageIncomplete ? ' · incomplete source' : '';
+  languages.forEach((language) => {
+    const suffix = language.availability === 'unavailable'
+      ? ' · source unavailable'
+      : language.availability === 'failed'
+        ? ' · source retrieval failed'
+        : language.coverageIncomplete
+          ? ' · incomplete source'
+          : language.reviewState === 'complete'
+            ? ' · review complete'
+            : language.reviewState === 'pending'
+              ? ' · review pending'
+            : language.reviewState === 'incomplete'
+              ? ' · review incomplete'
+              : ' · check coverage';
     const option = node('option', '', `${language.name} (${language.count})${suffix}`);
     option.value = language.code;
     select.append(option);
   });
-  // A shared link can still focus a zero-finding or unavailable language. Show
-  // that current value without offering it as a choice in the language menu.
-  const linkedLanguage = languages.find(language => language.code === state.language && !language.count);
-  if (linkedLanguage) {
-    const current = node('option', '', `${linkedLanguage.name} (0)`);
-    current.value = linkedLanguage.code;
-    current.disabled = true;
-    current.hidden = true;
-    select.append(current);
-  }
   select.value = state.language || '';
-  select.disabled = !choices.length && !state.language;
+  select.disabled = !languages.length;
   select.addEventListener('change', () => changeLanguage(select.value || null));
   append(focus, node('span', 'focus-language-label', 'Language'), select);
   const impactFocus = node('label', 'focus-impact-control');
@@ -468,7 +469,7 @@ function renderFocusControls(act) {
     controls,
     filters,
     languageCountNote,
-    node('span', 'visually-hidden', 'No impact rating yet means no level has been assigned. A preliminary issue explanation may exist. It does not mean limited impact.')
+    node('span', 'visually-hidden', 'No impact rating yet means no level has been assigned. An issue explanation may exist. It does not mean limited impact.')
   );
   controls.lastChild.id = 'impact-focus-note';
   if (!hasRatings && groupedFindings(act).length)
@@ -613,7 +614,7 @@ function impactFocusLabel(level) {
 function impactIssueLabel(family) {
   return family.review_state === 'needs_review'
     ? 'Impact under review'
-    : `${impactDisplayLabel(family.impact_level)}${family.review_state === 'provisional' ? ' · preliminary' : ''}`;
+    : impactDisplayLabel(family.impact_level);
 }
 function renderImpactSummary(family, { select = false, memberId = null } = {}) {
   const block = node('section', 'impact-summary');
@@ -637,7 +638,6 @@ function renderImpactSummary(family, { select = false, memberId = null } = {}) {
   if (family.rationale) append(explanation, node('p', '', family.rationale));
   if (family.uncertainty) append(explanation, node('p', '', `Uncertainty: ${family.uncertainty}`));
   const review = [
-    family.review_state === 'provisional' ? 'Preliminary estimate; no editorial confirmation' : '',
     family.review_state === 'needs_review' ? 'No impact level assigned; context review needed' : '',
     family.confidence ? `Confidence: ${family.confidence}` : '',
     family.assessed_at ? `Assessed ${prettyDate(family.assessed_at)}` : '',
@@ -673,7 +673,7 @@ function renderImpactIndex(panel, act) {
   }
   append(
     intro,
-    node('p', '', 'These are preliminary impact proposals. Ratings describe a possible effect if a reading prevails; issues without enough context remain unranked. None establishes a legal error.')
+    node('p', '', 'Ratings describe a possible effect if a reading prevails; issues without enough context remain unranked. None establishes a legal error.')
   );
   const guide = node('details', 'impact-scale-guide');
   append(guide, node('summary', '', 'How ratings work'));

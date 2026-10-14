@@ -50,7 +50,7 @@ function reviewStatus(act, summary) {
 
 function renderImpactDistribution(act, summary) {
   const wrapper = node('div', 'catalogue-impact-distribution');
-  append(wrapper, node('p', 'catalogue-impact-label', 'Potential impact · preliminary ratings'));
+  append(wrapper, node('p', 'catalogue-impact-label', 'Potential impact'));
   const bar = node('div', 'catalogue-impact-bar');
   bar.setAttribute('role', 'img');
   bar.setAttribute('aria-label', `Potential impact among ${summary.count} published finding records: ${summary.distribution.map(segment => `${segment.label}: ${segment.count}`).join('; ')}.`);
@@ -125,7 +125,7 @@ async function loadCatalogue() {
     $('#catalogue-total').textContent = `${plural(summary.acts, 'act')} · ${number(summary.findings)} language findings · ${plural(summary.complete, 'complete review')}`;
     $('#catalogue-date').textContent = catalogue.generated_at ? `Snapshot ${prettyDate(catalogue.generated_at)}` : '';
     $('#catalogue-impact-note').textContent = summary.impact
-      ? 'Potential impact is assessed separately by legal issue. MVP ratings are preliminary; unranked issues remain under review.'
+      ? 'Potential impact is assessed separately by legal issue. Unranked issues remain under review.'
       : summary.findings
         ? 'No impact rating yet. An impact explanation may still be in progress.'
         : 'Potential impact is assessed separately when reviewed findings are available.';
