@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T06:34:23.404399Z",
+  "generated_at": "2026-10-14T06:46:48.240809Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4700,6 +4700,22 @@
       ],
       "impact_families": [
         {
+          "id": "impact-9e12485d031d1bc3233c7734",
+          "title": "Slovenian participation criteria refer to the Directive instead of national law",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(2), particularly the criteria reference, legitimate interest and consent; Article 9(3).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An equality association excluded by an additional national eligibility criterion seeks participation with the claimant's consent, arguing that only Directive-defined criteria may govern.",
+          "rationale": "The Slovenian text expressly refers to criteria defined in this Directive rather than national law. However, the supplied provisions establish no replacement organisational eligibility test. Even accepting that reference, neither admission of this association nor displacement of its particular national restriction follows. Legitimate interest remains required. The change in wording therefore does not yet support a concrete changed standing outcome or an awarded impact tier.\nCounterreading: Directive-defined criteria can describe the standards whose compliance the organisation seeks to secure, without exhaustively regulating procedural eligibility or excluding national criteria. This reading harmonizes the provision's functions without silently treating English as superior.",
+          "uncertainty": "The Slovenian criteria phrase may describe the Directive's substantive compliance standards rather than replace national rules for an organisation's legitimate interest. The Directive identifies no alternative organisational eligibility test that would decide this association's standing. Consent and applicable time limits also remain conditions, so a changed standing outcome is unestablished.",
+          "assessed_at": "2026-10-14T06:44:49.814441Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3089eda1665244c506158dd0"
+          ]
+        },
+        {
           "id": "impact-ce5c0035f5f2526412165702",
           "title": "Conditional additional malice requirement",
           "legal_anchor": "Directive 2000/78/EC, Article 11; Articles 1–10, 15 and 17; recital 30.",
@@ -4716,35 +4732,67 @@
           ]
         },
         {
-          "id": "impact-9e12485d031d1bc3233c7734",
-          "title": "Slovenian participation criteria refer to the Directive instead of national law",
-          "legal_anchor": "Directive 2000/78/EC, Article 9(2), particularly the criteria reference, legitimate interest and consent; Article 9(3).",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "An equality association excluded by an additional national eligibility criterion seeks participation with the claimant's consent, arguing that only Directive-defined criteria may govern.",
-          "rationale": "The Slovenian text expressly refers to criteria defined in this Directive rather than national law. However, the supplied provisions establish no replacement organisational eligibility test. Even accepting that reference, neither admission of this association nor displacement of its particular national restriction follows. Legitimate interest remains required. The change in wording therefore does not yet support a concrete changed standing outcome or an awarded impact tier.\nCounterreading: Directive-defined criteria can describe the standards whose compliance the organisation seeks to secure, without exhaustively regulating procedural eligibility or excluding national criteria. This reading harmonizes the provision's functions without silently treating English as superior.",
-          "uncertainty": "Ultimate interpretation: the Slovenian syntax places the criteria phrase within the description of ensuring compliance, permitting a substantive-compliance reading. German and Croatian expressly connect national criteria to legitimate interest. Conditional effect: independently of that interpretive dispute, the replacement criteria and their effect on eligibility remain unidentified.\nUnresolved: Which Directive-defined criteria govern organisational eligibility, and how would they affect the disputed national condition? The remaining act is omitted. Article 2 defines discrimination, not a standing test; Article 9(1) protects individual access rather than supplying organisational standing. Consent, legitimate interest and deadlines remain independent conditions. comparator_omissions is empty and context_limited is false, but neither flag supplies the missing eligibility mechanism.",
-          "assessed_at": "2026-10-14T06:25:58.688515Z",
+          "id": "impact-5eb7d0b4d663f5cc97347dfb",
+          "title": "Possible requirement for both judicial and administrative remedies",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(1), compared with Article 9(2) and subject to Article 9(3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A hypothetical Member State provides judicial enforcement for timely, covered direct-discrimination complaints but no administrative enforcement route.",
+          "rationale": "Romanian și is conjunctive, whereas the supplied English permits either category or both. If paragraph 1 requires both categories to be available, the hypothetical system must add administrative access. Paragraph 2's și/sau concerns organisational participation and is not an express exception to paragraph 1. This supports a moderate change in the required procedural provision, without establishing a right to duplicate litigation, cumulative remedies or a different discrimination decision.\nCounterreading: Procedurile judiciare și administrative can name the relevant classes collectively rather than require every system to establish both. The provision's accessibility focus supports this harmonization.",
+          "uncertainty": "Romanian 'judicial and administrative' may name procedural categories collectively. Its Article 9(2) uses 'and/or', and Spanish and Czech Article 9(1) expressly allow alternatives, making a mandatory dual-route reading uncertain. Moderate addresses only the conditional duty to add an administrative route in the stated hypothetical; it does not imply duplicate remedies or an actual breach.",
+          "assessed_at": "2026-10-14T06:44:49.814613Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
-            "3089eda1665244c506158dd0"
+            "1edd29be4c858d88543d0cd1"
           ]
         },
         {
-          "id": "impact-c08696fa75b9de82c25d7395",
-          "title": "Organisations’ procedural entitlement is framed as initiating proceedings",
+          "id": "impact-2521cf9b44c7fdd535174327",
+          "title": "Training-capability limb omitted; refusal outcome unresolved",
+          "legal_anchor": "Directive 2000/78/EC, recital 17 and Article 2(1)–(2), including Article 2(2)(b)(i)–(ii); Articles 3 and 5 are material omitted dependencies.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Test case: an applicant whose disability engages the Directive can undertake vocational training but cannot yet perform the intended job. Admission is refused solely because the applicant lacks current job capability.",
+          "rationale": "Italian expressly includes training among the actions but attaches only the essential-job-functions test; it lacks the separate capacity-to-undergo-training limb present in the supplied German, French and other versions. This supports the alleged textual difference. However, even accepting a current-job-capability reading leaves the expressly preserved accommodation duty intact. Article 2 requires a protected-ground discrimination analysis; a neutral admission prerequisite remains subject to legitimate-aim, appropriateness and necessity requirements. Neither the omission nor 'né prevede la formazione' independently establishes an operative permission to refuse otherwise protected training.\nCounterreading: Read the recital's competence limitation in relation to the activity requested. Training ordinarily develops capabilities not yet possessed; requiring completed job competence before training would need contextual justification. The Italian accommodation safeguard and Article 2's Article 5 cross-reference reinforce that harmonization without treating another authentic language as controlling.",
+          "uncertainty": "Article 3(1)(b) covers vocational training, and Article 5 requires employers to accommodate disabled persons for training unless the burden is disproportionate. The example still depends on whether the provider is the responsible employer and whether present job capability is an appropriate and necessary admission criterion under Article 2. The Italian recital alone does not establish lawful refusal.",
+          "assessed_at": "2026-10-14T06:44:49.814901Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3b448f0c8f9fb2a6bc1b5820"
+          ]
+        },
+        {
+          "id": "impact-f67b855d8d07e0a0bc77b63a",
+          "title": "Initiating proceedings versus participating in proceedings",
           "legal_anchor": "Directive 2000/78/EC, Article 9(2), read with Article 9(1) and (3).",
           "impact_level": "moderate",
           "confidence": "medium",
           "review_state": "provisional",
-          "effect": "An organisation meeting national legitimate-interest criteria obtains consent to support an employee's pending, timely direct-discrimination case. Hypothetical national rules permit organisational initiation but exclude participation after the claimant has filed.",
-          "rationale": "Aloittaa means to begin or initiate. If that limits the guaranteed organisational role to commencement, later participation falls outside the Article 9(2) minimum. Under a participation-inclusive construction, the same exclusion would conflict with the protected role. Article 9(1)'s individual-access guarantee does not supply that organisational entitlement. Moderate reflects a concrete procedural difference without assuming loss of the underlying claim.\nCounterreading: Häntä tukeakseen can encompass continuing assistance, and starting an intervention may itself constitute initiating a procedure. This reading could preserve access to an existing case despite aloittaa. The rating assumes a narrower construction excluding that possibility.",
-          "uncertainty": "Ultimate interpretation remains genuinely contested by the supplied authentic formulations. German and Swedish describe participation, while Spanish and Italian describe initiation. The common purpose of acting for or supporting the complainant supports harmonization, rather than treating either linguistic group as controlling.\nUnresolved: None material within the hypothetical: eligibility, consent and deadlines are satisfied. The claim concerns current employment, so paragraph 1's employment-specific survival phrase creates no additional dependency. Article 2's definitions, exceptions and accommodation cross-reference do not independently grant the organisation a procedural role. comparator_omissions is empty and context_limited is false; actual national practice is not established or needed for this conditional comparison.",
-          "assessed_at": "2026-10-14T06:25:58.688465Z",
+          "effect": "In a hypothetical national system, a qualifying organisation may initiate proceedings but cannot enter an existing case. With the claimant's approval, it seeks to support a timely, otherwise covered direct-discrimination claim already filed by an employee.",
+          "rationale": "Iniciar expressly describes initiation. If an initiation-only minimum prevails, Article 9(2) would not require access for later supporting participation; a participation-inclusive construction would protect that role. This is a concrete change in the required procedural protection. Article 9(1) preserves the individual's access but does not independently confer the organisation's role. The supported consequence is moderate: a specific participation entitlement changes, without evidence that the claim or its merits necessarily change.\nCounterreading: An organisation can initiate an intervention within existing proceedings, and en su apoyo can encompass assistance throughout a case. Thus iniciar need not confine protection to whoever commenced the principal action. The conditional rating assumes that stronger harmonization does not prevail.",
+          "uncertainty": "Spanish 'iniciar' may include starting an intervention in an existing case, and 'en su apoyo' may allow continuing support. German and Portuguese participation wording supports harmonization. Moderate assumes an initiation-only minimum with a qualified organisation, claimant consent and a timely claim; no actual national exclusion or different merits result is established.",
+          "assessed_at": "2026-10-14T06:44:49.814727Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
-            "1f1af25dfd61af3fa6f51de6"
+            "08489c6fe07c45cca226e947"
+          ]
+        },
+        {
+          "id": "impact-2134bf840b343a914ae6518b",
+          "title": "Scheme admission age limits",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2), including its employee-category and calculation clauses; Articles 6(1), including (b), and 2(2), (5).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "National law exercises Article 6(2) for a covered occupational pension scheme. The scheme bars membership before age 25 through a standalone entry condition, distinct from benefit-entitlement ages and any actuarial calculation, without resulting sex discrimination.",
+          "rationale": "The Estonian expression ties the age limits to obtaining pension or invalidity benefits. If that benefit-only construction prevails, the standalone membership restriction loses Article 6(2) eligibility. The following 'including' clause is grammatically an elaboration of those limits, not an independent exemption for every age distinction within a scheme. A membership bar is not itself an insurance-statistical calculation. Article 6(1), including its employment-advantage example, remains subject to justification and proportionality. Its availability does not restore eligibility under Article 6(2). Neither Article 2(2)(b) nor the conditional national-measures reservation in Article 2(5) automatically supplies the missing exemption.\nCounterreading: The strongest harmonizing reading treats entering a scheme as a stage in obtaining benefits. German and Dutch expressly distinguish membership from benefit entitlement, making that distinction a substantive contextual argument for admission coverage. Finnish benefit-focused wording supports the narrower textual possibility. These conflicting formulations leave the ultimate construction open without treating English or a numerical majority as decisive.",
+          "uncertainty": "In some schemes, joining may itself confer pension rights; the hypothetical separates admission from entitlement. Whether the authentic versions can be reconciled to include admission is open. Real membership effects, scheme coverage and national adoption need checking. Article 6(1) may provide an independent justification even if Article 6(2) does not apply, so no discrimination outcome is determined.",
+          "assessed_at": "2026-10-14T06:41:56.506122Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "22b65711f8b3e3f937401014"
           ]
         },
         {
@@ -4764,22 +4812,6 @@
           ]
         },
         {
-          "id": "impact-6bb3b141a7607942a4147d0c",
-          "title": "Accommodation wording diverges; changed operative outcome unresolved",
-          "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(1), (2)(a), (2)(b)(i)–(ii) and (5); expressly cross-referenced Article 5.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "Test case: a disabled employee can perform essential functions with an appropriate adjustment but is dismissed following an assessment without that adjustment. The disputed reading treats present, unadjusted capability as sufficient for the recital's employment limitation.",
-          "rationale": "The Slovak phrase 'bez ohľadu na' supports 'regardless of', creating genuine tension with formulations expressly preserving accommodation. Nevertheless, accepting that meaning does not establish permission to disregard a separate operative duty. The supplied Slovak Article 2(2)(b)(ii) expressly connects appropriate measures to Article 5. Article 2 also retains direct-discrimination comparability and indirect-discrimination justification requirements. The recital's statement that employment is not required is not itself an operative derogation. The proposed dismissal therefore remains legally unresolved even on the disputed reading.\nCounterreading: The strongest harmonization treats qualification requirements and accommodation as coexisting: the Directive does not guarantee employment irrespective of essential-function capability, while capability must be assessed consistently with applicable accommodation obligations. German 'unbeschadet', French 'sans préjudice' and the Slovak Article 2 cross-reference support this construction through legal coherence, not language counting or English priority.",
-          "uncertainty": "Conditional effect: Article 5's complete duty and limitations are absent; the finding's description of that provision is not a substitute for its text. Ultimate interpretation: preserving accommodation is strongly supported by the supplied multilingual wording and the operative cross-reference, so a reading authorizing disregard appears unlikely to prevail. The complete act has not been supplied, preventing a definitive full-context conclusion.\nUnresolved: What does the complete Slovak Article 5 require for the proposed assessment, and what limitations apply? Is any protected-ground discrimination or accommodation breach established independently of the recital? comparator_omissions is empty; no reported comparator omission affects the assessment. Missing operative context is a separate, decisive gap despite context_limited being false.",
-          "assessed_at": "2026-10-14T06:16:41.975902Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "2822fa30a08fadd987a85d65"
-          ]
-        },
-        {
           "id": "impact-51845fda386bfd17ad8e6798",
           "title": "Training action omitted; affirmative entitlement not established",
           "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(2)(a), (2)(b)(i)–(ii); omitted operative training and accommodation provisions in Articles 3 and 5.",
@@ -4788,59 +4820,27 @@
           "review_state": "needs_review",
           "effect": "Test case: a disabled trainee cannot satisfy essential course requirements even with appropriate adjustments. The trainee argues that the recital's qualification limitation excludes only recruitment, promotion and continued employment, so cannot justify ending training.",
           "rationale": "The Polish list genuinely omits provision of training, although its preceding capability clause expressly includes continuing the relevant training. Giving the action-list omission substantive effect would remove an express recital argument; it would not itself supply an entitlement. Article 2(2)(a) still requires comparable circumstances and protected-ground less favourable treatment. Article 2(2)(b)(i) independently permits justified neutral requirements. For someone unable to meet essential course requirements after adjustments, these provisions may sustain exclusion regardless of the omission. The reviews' example therefore does not establish a changed result.\nCounterreading: The strongest harmonization reads 'lub kontynuacji danego kształcenia' as evidence that the qualification principle concerns training too. Czech and German make both sides of that connection explicit. Even if this harmonization is rejected, the ordinary operative discrimination tests remain applicable and may produce the same outcome.",
-          "uncertainty": "Conditional effect: no supplied operative rule is shown to require training in the proposed incapacity scenario once independent grounds for exclusion are considered. Ultimate interpretation: the internal reference to continuing training and the express training actions in other authentic versions support harmonization. Whether the omission has any residual interpretive significance remains open.\nUnresolved: Which operative duty would require continued training despite the stated incapacity? Why would comparability or objectively justified essential prerequisites not independently sustain exclusion? What limits follow from Article 5? comparator_omissions is empty; the decisive gaps concern operative entitlement and exceptions, not missing reported comparators.",
-          "assessed_at": "2026-10-14T06:16:41.976745Z",
+          "uncertainty": "Article 3(1)(b) covers vocational training, and Article 5 requires appropriate employer accommodation absent disproportionate burden. Yet a trainee unable to meet essential course requirements even after adjustment may still be excluded under the operative discrimination and justification rules. The Polish recital's reference to continuing training also supports harmonization; omitting training from its action list has not shown a changed entitlement.",
+          "assessed_at": "2026-10-14T06:44:49.814843Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "79d9158fdd380c3b062191ee"
           ]
         },
         {
-          "id": "impact-2521cf9b44c7fdd535174327",
-          "title": "Training-capability limb omitted; refusal outcome unresolved",
-          "legal_anchor": "Directive 2000/78/EC, recital 17 and Article 2(1)–(2), including Article 2(2)(b)(i)–(ii); Articles 3 and 5 are material omitted dependencies.",
+          "id": "impact-a7df7f036a10781a7f84107f",
+          "title": "Care and maintenance responsibilities",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(1), including Article 6(1)(a), read with Article 2(2).",
           "impact_level": null,
           "confidence": "low",
           "review_state": "needs_review",
-          "effect": "Test case: an applicant whose disability engages the Directive can undertake vocational training but cannot yet perform the intended job. Admission is refused solely because the applicant lacks current job capability.",
-          "rationale": "Italian expressly includes training among the actions but attaches only the essential-job-functions test; it lacks the separate capacity-to-undergo-training limb present in the supplied German, French and other versions. This supports the alleged textual difference. However, even accepting a current-job-capability reading leaves the expressly preserved accommodation duty intact. Article 2 requires a protected-ground discrimination analysis; a neutral admission prerequisite remains subject to legitimate-aim, appropriateness and necessity requirements. Neither the omission nor 'né prevede la formazione' independently establishes an operative permission to refuse otherwise protected training.\nCounterreading: Read the recital's competence limitation in relation to the activity requested. Training ordinarily develops capabilities not yet possessed; requiring completed job competence before training would need contextual justification. The Italian accommodation safeguard and Article 2's Article 5 cross-reference reinforce that harmonization without treating another authentic language as controlling.",
-          "uncertainty": "Conditional effect: the supplied evidence does not show whether operative training protection permits the proposed prerequisite or defeats it. Ultimate interpretation: assessing capability relative to the training sought is strongly supported by the multilingual training limbs and training's preparatory function. The isolated Italian reading is therefore unlikely to determine the result, but the complete Articles 3 and 5 are unavailable for a full-context conclusion.\nUnresolved: What training does Article 3 cover, and what does Article 5 require of this provider or employer? Could the particular prerequisite satisfy Article 2(2)(b)(i), and would another applicable exception matter? comparator_omissions is empty. The omitted operative provisions, rather than a reported comparator omission, prevent establishing the conditional outcome.",
-          "assessed_at": "2026-10-14T06:16:41.976553Z",
+          "effect": "An age-differentiated employment measure supports workers caring for financially independent relatives. A maintenance-only reading excludes these carers from the express example. Conversely, it includes financial providers who perform no personal care.",
+          "rationale": "The Polish wording supports a maintenance-based category, but both versions expressly make the examples non-exhaustive. Inclusion in Article 6(1)(a) does not dispense with objective and reasonable justification, a legitimate aim, and appropriate and necessary means. Exclusion does not remove access to that same general test. The other examples likewise do not turn the beneficiary list into an exhaustive eligibility condition. Neither direction of the wording difference therefore establishes a concrete changed legal outcome.\nCounterreading: The strongest harmonizing reading treats care and dependency as overlapping forms of responsibility warranting employment support. German care terminology and French dependency terminology illustrate this range without making English controlling. A narrower category could nevertheless survive within the example without narrowing Article 6(1) itself.",
+          "uncertainty": "Whether care and maintenance can be reconciled through a common broader reading is open. Even on a maintenance-only reading, Article 6(1)(a) is a non-exhaustive example governed by the same general legitimate-aim and necessity test. Exclusion from the example does not by itself change an exemption or entitlement, so the practical legal effect remains unresolved.",
+          "assessed_at": "2026-10-14T06:41:56.506302Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
-            "3b448f0c8f9fb2a6bc1b5820"
-          ]
-        },
-        {
-          "id": "impact-98040d5f53511ae4e68bf2b3",
-          "title": "Associations’ procedural entitlement may cover initiation only",
-          "legal_anchor": "Directive 2000/78/EC, Article 9(2), read with Article 9(1) and (3).",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "A nationally eligible organisation, with the claimant's consent, seeks to support a pending, timely direct-discrimination employment case. Hypothetical national procedure allows organisations to initiate cases but excludes later participation.",
-          "rationale": "Iniția expressly describes initiation. If it exhausts the guaranteed organisational role, later participation is outside the Article 9(2) minimum; a participation-inclusive reading would protect that role. Paragraph 1's individual-access obligation, including its reference to both procedural categories, does not independently confer organisational participation. This supports moderate procedural impact without establishing loss of the claimant's action or any merits outcome.\nCounterreading: În sprijinul reclamantului can support an ongoing role, and initiating an intervention could satisfy iniția without initiating the principal case. A broader procedural meaning could therefore eliminate the proposed difference.",
-          "uncertainty": "Ultimate interpretation remains open. German and Croatian expressly describe participation, while Spanish and French use initiation formulations. The shared support language provides a substantial harmonizing basis; the supplied versions cannot be resolved by counting them or privileging English.\nUnresolved: None material once the initiation-only construction is assumed and eligibility, consent and deadlines are satisfied. The separate Romanian indirect-discrimination justification wording in Article 2(2)(b)(i) does not govern this direct-discrimination scenario. No Article 2 exception or Article 5 cross-reference supplies an alternative organisational participation right. comparator_omissions is empty and context_limited is false; no identified omission defeats the conditional minimum.",
-          "assessed_at": "2026-10-14T06:25:58.688566Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "3e306e54768db8186b56df4d"
-          ]
-        },
-        {
-          "id": "impact-5eb7d0b4d663f5cc97347dfb",
-          "title": "Possible requirement for both judicial and administrative remedies",
-          "legal_anchor": "Directive 2000/78/EC, Article 9(1), compared with Article 9(2) and subject to Article 9(3).",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "A hypothetical Member State provides judicial enforcement for timely, covered direct-discrimination complaints but no administrative enforcement route.",
-          "rationale": "Romanian și is conjunctive, whereas the supplied English permits either category or both. If paragraph 1 requires both categories to be available, the hypothetical system must add administrative access. Paragraph 2's și/sau concerns organisational participation and is not an express exception to paragraph 1. This supports a moderate change in the required procedural provision, without establishing a right to duplicate litigation, cumulative remedies or a different discrimination decision.\nCounterreading: Procedurile judiciare și administrative can name the relevant classes collectively rather than require every system to establish both. The provision's accessibility focus supports this harmonization.",
-          "uncertainty": "Ultimate interpretation: the collective reading is strong. Romanian paragraph 2 uses and/or, and Spanish and Czech paragraph 1 expressly use alternatives. Together they support understanding paragraph 1 as ensuring accessibility of whichever enforcement routes are provided. A mandatory dual-route interpretation therefore remains uncertain.\nUnresolved: None material once a mandatory-both-categories construction is assumed. Paragraph 3 preserves deadlines. The supplied Romanian Article 2(2)(b)(i) contains a separate divergence concerning indirect-discrimination justification; a direct-discrimination scenario avoids reliance on it. Article 5's accommodation cross-reference does not determine this route requirement. comparator_omissions is empty and context_limited is false; no identified omission blocks the conditional procedural outcome.",
-          "assessed_at": "2026-10-14T06:25:58.688410Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "1edd29be4c858d88543d0cd1"
+            "04f3491e08cd746405b6f843"
           ]
         },
         {
@@ -4852,11 +4852,27 @@
           "review_state": "provisional",
           "effect": "A hypothetical Member State provides judicial enforcement for timely, covered workplace-discrimination complaints but makes no conciliation procedure available because it considers conciliation inappropriate.",
           "rationale": "The Estonian inclusion contains no equivalent to the express appropriateness qualification. If it requires conciliation availability unconditionally, providing judicial access alone would not satisfy that additional requirement. The administrative-or-judicial wording does not expressly make the included conciliation optional. A distinct procedural avenue therefore changes under the disputed construction, supporting moderate impact without assuming compulsory settlement or any different merits result.\nCounterreading: Kaasa arvatud may include conciliation within the procedures whose accessibility must be ensured when available, without requiring its creation in every system. Reading that phrase with the other authentic qualifications preserves discretion.",
-          "uncertainty": "Ultimate interpretation: the mandatory construction is textually possible but faces a strong harmonizing reading. Finnish, German and Slovenian expressly preserve an appropriateness assessment, coherently explaining conciliation as a qualified supplement to enforcement procedures. The packet does not establish that the Estonian construction would prevail.\nUnresolved: None material once the unconditional-availability construction is assumed. Article 9(2) governs organisations and does not discharge the paragraph 1 obligation; paragraph 3 preserves deadlines. Article 2's definitions and merits exceptions do not supply a procedural substitute or an express exemption from conciliation availability. comparator_omissions is empty and context_limited is false; no identified omission prevents the conditional outcome.",
-          "assessed_at": "2026-10-14T06:25:58.688346Z",
+          "uncertainty": "Estonian inclusion may describe conciliation where available rather than require every Member State to create it. Finnish, German and Slovenian expressly preserve a Member State appropriateness assessment, supporting harmonization. Moderate applies only if the Estonian wording nonetheless imposes an additional conciliation route; no actual breach or compulsory settlement is established.",
+          "assessed_at": "2026-10-14T06:44:49.814672Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "14e2c26c4c5aab2faa67fa31"
+          ]
+        },
+        {
+          "id": "impact-d88cd8580575a19da278b4a8",
+          "title": "Pension entitlement and membership ages",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2), including its employee-group and actuarial clauses; Articles 6(1), including (b), and 2(2), (5).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A covered occupational pension scheme admits employees only from age 25. This membership condition is distinct from acquiring pension entitlement and from actuarial calculations. National law exercises the Article 6(2) option and no sex discrimination results.",
+          "rationale": "Both Lithuanian alternatives concern a right to receive a pension being granted or acquired. If that entitlement-only reading prevails, the stipulated membership condition loses Article 6(2) eligibility. The phrase introduced by 'įskaitant' remains subordinate to the preceding pension-age rule; its references to employee ages, groups and categories do not clearly create a free-standing exemption for all classifications. The actuarial limb does not cover a standalone membership restriction. Article 6(1), including the example concerning employment-linked advantages, remains a separate route subject to its general conditions. Article 2(2)(b) and Article 2(5) offer no unconditional alternative exemption.\nCounterreading: The strongest harmonizing reading understands acquisition of pension rights as including admission into the arrangement that creates those rights. German and French expressly distinguish membership or adhesion from benefit entitlement, supporting admission coverage. Estonian and Finnish benefit-focused formulations support the narrower textual possibility. Neither group of authentic versions can resolve the issue by numerical weight.",
+          "uncertainty": "Membership may confer pension rights in an actual scheme; the scenario assumes a separate entry condition. The multilingual interpretation of admission remains open. Scheme coverage, the rule’s real function and national adoption must be checked in any application. Article 6(1) may independently justify an age rule even if Article 6(2) does not exempt it; this assessment does not determine unlawful discrimination.",
+          "assessed_at": "2026-10-14T06:41:56.505997Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "2faa0ddca91b97896d5b5095"
           ]
         },
         {
@@ -4868,27 +4884,107 @@
           "review_state": "needs_review",
           "effect": "Test case: an otherwise qualified and willing applicant cannot attend a required weekly shift because of religious observance. The employer rejects the applicant under a neutral attendance requirement.",
           "rationale": "Greek 'πρόθυμο' expresses willingness or readiness and does not expressly reproduce temporal availability. But accepting that distinction leaves 'κατάλληλο' and 'ικανό', suitability and capability, operative within the same sentence. Inability to attend genuinely essential shifts may fall within those limbs. Article 2(2)(b)(i) also independently permits appropriate and necessary scheduling requirements serving a legitimate aim. Conversely, if the shift is unnecessary, the availability formulations tied to essential functions do not obviously create an unrestricted refusal defence. Neither branch establishes a different hiring outcome merely from the lexical difference.\nCounterreading: Read willingness as readiness to perform the particular duties in their actual setting, while keeping suitability and capability as separate requirements. For disability-related restrictions, the express accommodation safeguard remains; the religious-observance example does not itself trigger that disability-specific safeguard. Article 2(5) requires qualifying measures laid down by national law and cannot simply be assumed to validate an employer's roster.",
-          "uncertainty": "Conditional effect: the necessity of attendance, remaining qualification limbs and objective justification are unresolved. Ultimate interpretation: practical readiness to perform actual essential duties offers a strong harmonization with the availability formulations. The Estonian 'valmis' also cautions against reducing the multilingual comparison to one uniform temporal expression. The complete act remains necessary for a definitive interpretation.\nUnresolved: Is attendance at the specified time essential, and could another schedule achieve the legitimate aim? Do suitability or capability independently resolve the case? Does an applicable Article 4 rule matter, subject to its actual conditions? comparator_omissions is empty; no reported omission determines the result. Missing factual and operative dependencies still prevent a conditional tier.",
-          "assessed_at": "2026-10-14T06:16:41.976807Z",
+          "uncertainty": "Greek willingness may be reconciled with practical readiness through the separate suitability and capability terms. The hiring result depends on whether the shift is essential and whether a neutral attendance requirement is appropriate and necessary under Article 2(2)(b)(i). Article 4(1), if invoked, has its own genuine-and-determining occupational-requirement conditions. Willingness alone establishes no changed outcome.",
+          "assessed_at": "2026-10-14T06:44:49.814785Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "8999f701dc5667b8ceda62f1"
           ]
         },
         {
-          "id": "impact-f67b855d8d07e0a0bc77b63a",
-          "title": "Initiating proceedings versus participating in proceedings",
+          "id": "impact-6bb3b141a7607942a4147d0c",
+          "title": "Accommodation wording diverges; changed operative outcome unresolved",
+          "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(1), (2)(a), (2)(b)(i)–(ii) and (5); expressly cross-referenced Article 5.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Test case: a disabled employee can perform essential functions with an appropriate adjustment but is dismissed following an assessment without that adjustment. The disputed reading treats present, unadjusted capability as sufficient for the recital's employment limitation.",
+          "rationale": "The Slovak phrase 'bez ohľadu na' supports 'regardless of', creating genuine tension with formulations expressly preserving accommodation. Nevertheless, accepting that meaning does not establish permission to disregard a separate operative duty. The supplied Slovak Article 2(2)(b)(ii) expressly connects appropriate measures to Article 5. Article 2 also retains direct-discrimination comparability and indirect-discrimination justification requirements. The recital's statement that employment is not required is not itself an operative derogation. The proposed dismissal therefore remains legally unresolved even on the disputed reading.\nCounterreading: The strongest harmonization treats qualification requirements and accommodation as coexisting: the Directive does not guarantee employment irrespective of essential-function capability, while capability must be assessed consistently with applicable accommodation obligations. German 'unbeschadet', French 'sans préjudice' and the Slovak Article 2 cross-reference support this construction through legal coherence, not language counting or English priority.",
+          "uncertainty": "Article 5 expressly requires employers to provide appropriate disability accommodation unless it imposes a disproportionate burden; Article 2(2)(b)(ii) refers to those measures. The Slovak recital can be read consistently with that duty. Its 'regardless of' wording alone has not been shown to permit an unadjusted capability assessment or change the proposed dismissal outcome.",
+          "assessed_at": "2026-10-14T06:44:49.814957Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "2822fa30a08fadd987a85d65"
+          ]
+        },
+        {
+          "id": "impact-99bef78bc7852a5c7bdeb74a",
+          "title": "Benefit amount calculation exemption",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Articles 6(1) and 2(2), (5).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A covered occupational pension scheme uses a flat age-band multiplier to reduce benefit amounts, without actuarial calculation. National law exercises Article 6(2), admission and entitlement ages remain unchanged, and no sex discrimination results.",
+          "rationale": "The Polish phrase expressly concerns calculating benefit amounts and contains no actuarial qualifier. If that reading prevails, the multiplier gains Article 6(2) exemption eligibility. The separate age-setting limb, including different ages for employee categories, does not independently cover an amount adjustment. Article 6(1) remains a conditional alternative rather than an equivalent categorical exemption. Article 2(2)(b) does not automatically justify an expressly age-based multiplier, and Article 2(5) requires additional national-measure and necessity conditions. The supported outcome is changed exemption eligibility, not a finding of unlawful discrimination.\nCounterreading: The strongest harmonizing construction treats benefit calculation as actuarial benefit valuation in this insurance context. German insurance-mathematical, French actuarial and Lithuanian actuarial terms give concrete support for retaining a technical limitation. Latvian's benefit wording supports taking the Polish lexical difference seriously, but neither formulation alone determines the common legal meaning.",
+          "uncertainty": "The finding also suggests a converse question about actuarial contribution or funding calculations, which requires separate analysis. The rated scenario concerns only a genuinely non-actuarial benefit-amount rule. Actual methodology, coverage and national adoption need verification. Article 6(1) may independently justify the age distinction even if Article 6(2) does not exempt it; this assessment establishes no violation.",
+          "assessed_at": "2026-10-14T06:41:56.506181Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "1a59a8370e9944fb9d352918"
+          ]
+        },
+        {
+          "id": "impact-c08696fa75b9de82c25d7395",
+          "title": "Organisations’ procedural entitlement is framed as initiating proceedings",
           "legal_anchor": "Directive 2000/78/EC, Article 9(2), read with Article 9(1) and (3).",
           "impact_level": "moderate",
           "confidence": "medium",
           "review_state": "provisional",
-          "effect": "In a hypothetical national system, a qualifying organisation may initiate proceedings but cannot enter an existing case. With the claimant's approval, it seeks to support a timely, otherwise covered direct-discrimination claim already filed by an employee.",
-          "rationale": "Iniciar expressly describes initiation. If an initiation-only minimum prevails, Article 9(2) would not require access for later supporting participation; a participation-inclusive construction would protect that role. This is a concrete change in the required procedural protection. Article 9(1) preserves the individual's access but does not independently confer the organisation's role. The supported consequence is moderate: a specific participation entitlement changes, without evidence that the claim or its merits necessarily change.\nCounterreading: An organisation can initiate an intervention within existing proceedings, and en su apoyo can encompass assistance throughout a case. Thus iniciar need not confine protection to whoever commenced the principal action. The conditional rating assumes that stronger harmonization does not prevail.",
-          "uncertainty": "Ultimate interpretation remains open. German beteiligen and Portuguese intervir support participation, while French engager toute procédure and Italian avviare support initiation language. These are competing authentic formulations, not votes. The shared support function provides a substantial basis for harmonization.\nUnresolved: No material dependency remains within the stated hypothetical: national legitimate-interest criteria, consent and applicable deadlines are satisfied. Article 2's discrimination definitions and exceptions do not independently confer organisational participation; the scenario uses direct discrimination and invokes no Article 2(5) measure. comparator_omissions is empty and context_limited is false. Omitted national procedure prevents an actual-country finding, not assessment of this conditional minimum.",
-          "assessed_at": "2026-10-14T06:25:58.688145Z",
+          "effect": "An organisation meeting national legitimate-interest criteria obtains consent to support an employee's pending, timely direct-discrimination case. Hypothetical national rules permit organisational initiation but exclude participation after the claimant has filed.",
+          "rationale": "Aloittaa means to begin or initiate. If that limits the guaranteed organisational role to commencement, later participation falls outside the Article 9(2) minimum. Under a participation-inclusive construction, the same exclusion would conflict with the protected role. Article 9(1)'s individual-access guarantee does not supply that organisational entitlement. Moderate reflects a concrete procedural difference without assuming loss of the underlying claim.\nCounterreading: Häntä tukeakseen can encompass continuing assistance, and starting an intervention may itself constitute initiating a procedure. This reading could preserve access to an existing case despite aloittaa. The rating assumes a narrower construction excluding that possibility.",
+          "uncertainty": "Finnish 'aloittaa' may include starting an intervention in a pending case, and its support language may allow an ongoing role. German and Swedish participation wording reinforces that harmonizing reading. The Moderate scenario assumes an initiation-only minimum, a qualified organisation, claimant consent and a timely claim; it establishes no actual national exclusion.",
+          "assessed_at": "2026-10-14T06:44:49.814552Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
-            "08489c6fe07c45cca226e947"
+            "1f1af25dfd61af3fa6f51de6"
+          ]
+        },
+        {
+          "id": "impact-6cf3eb9752177136c8ed2c4f",
+          "title": "Retirement ages and scheme admission",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2), including its differentiated-age and actuarial clauses; Articles 6(1), including (b), and 2(2), (5).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "National law exercises Article 6(2) for a covered occupational pension scheme that bars membership before age 25. The entry restriction is separate from retirement eligibility, pension-entitlement ages and actuarial calculations, and produces no sex discrimination.",
+          "rationale": "The Slovak wording links both possibility and entitlement to retirement on an old-age or invalidity pension. If that retirement-linked reading prevails, the standalone membership cutoff loses Article 6(2) eligibility. The following 'vrátane' clause elaborates the preceding age-setting rule rather than independently exempting every age restriction in a scheme. The actuarial limb does not turn a standalone membership condition into a calculation. Article 6(1), including its employment-advantage example, remains available only under its general justification conditions. Article 2(2)(b) and the necessary-national-measures reservation in Article 2(5) do not automatically restore the specific exemption.\nCounterreading: The strongest harmonizing reading interprets the retirement opportunity broadly enough to include access to the pension arrangement. German and Dutch expressly separate membership from benefit entitlement, supporting that result. Croatian and Slovenian also use retirement-focused formulations, supporting the reality of the narrower textual reading. The explicit retirement link makes harmonization an interpretive step rather than a literal synonym, and the supplied versions do not conclusively settle it.",
+          "uncertainty": "An actual membership rule may also control when pension rights arise; the scenario assumes these are separate. Whether the narrower reading would prevail across the authentic versions is open. The scheme’s functions, coverage and national adoption must be checked before applying this assessment to a real case. Even if the Article 6(2) exemption were unavailable, Article 6(1) might independently justify the age rule; no discrimination outcome is determined.",
+          "assessed_at": "2026-10-14T06:41:56.505799Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3e01b6543f2ea9e1d1db7411"
+          ]
+        },
+        {
+          "id": "impact-98040d5f53511ae4e68bf2b3",
+          "title": "Associations’ procedural entitlement may cover initiation only",
+          "legal_anchor": "Directive 2000/78/EC, Article 9(2), read with Article 9(1) and (3).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A nationally eligible organisation, with the claimant's consent, seeks to support a pending, timely direct-discrimination employment case. Hypothetical national procedure allows organisations to initiate cases but excludes later participation.",
+          "rationale": "Iniția expressly describes initiation. If it exhausts the guaranteed organisational role, later participation is outside the Article 9(2) minimum; a participation-inclusive reading would protect that role. Paragraph 1's individual-access obligation, including its reference to both procedural categories, does not independently confer organisational participation. This supports moderate procedural impact without establishing loss of the claimant's action or any merits outcome.\nCounterreading: În sprijinul reclamantului can support an ongoing role, and initiating an intervention could satisfy iniția without initiating the principal case. A broader procedural meaning could therefore eliminate the proposed difference.",
+          "uncertainty": "Romanian 'iniția' may include initiating an intervention in an existing case, while its support wording and German and Croatian participation language favour that reading. Moderate assumes an initiation-only minimum despite those counterreadings, with national eligibility, consent and time limits satisfied. No actual Member State procedure or breach has been established.",
+          "assessed_at": "2026-10-14T06:44:49.814285Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3e306e54768db8186b56df4d"
+          ]
+        },
+        {
+          "id": "impact-bcb795d3152020e5f7bccd96",
+          "title": "Integration and protection purposes",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(1), particularly its opening justification rule and Article 6(1)(a), read with Article 2(2).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An age-based dismissal safeguard protects older workers without promoting their vocational integration. A cumulative Dutch reading removes it from the express example. The converse example is an integration-only training measure.",
+          "rationale": "Dutch 'en' supports a conjunctive reading within the example. Nevertheless, 'onder meer' makes the examples non-exhaustive, and the opening rule permits a legitimate aim subject to objective and reasonable justification and appropriate and necessary means. A protection-only or integration-only measure can be assessed under that unchanged rule. Conversely, meeting both purposes does not dispense with its requirements. Even assuming the cumulative reading prevails, a changed exemption outcome is therefore unestablished.\nCounterreading: The strongest harmonizing reading treats the conjunction as a collective description of policy purposes rather than two mandatory purposes for every measure. German and French expressly use alternatives, while Lithuanian also joins the purposes conjunctively. The multilingual evidence therefore supports a real interpretive question, but the shared non-exhaustive structure and general test constrain its legal consequence.",
+          "uncertainty": "Whether the Dutch conjunction would be read cumulatively across the authentic versions is open. More decisively, Article 6(1)(a) gives a non-exhaustive example within the general legitimate-aim and necessity test. Losing the express example does not establish that a measure fails that test or changes a legal outcome, so no impact level is assigned.",
+          "assessed_at": "2026-10-14T06:41:56.505924Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "32ce347a5633a9dbd4a45766"
           ]
         },
         {
@@ -4908,6 +5004,22 @@
           ]
         },
         {
+          "id": "impact-eff22a4d0dea93368165b362",
+          "title": "Actual benefit calculation exemption",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Articles 6(1) and 2(2), (5).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A covered occupational retirement scheme applies a fixed age-based reduction when calculating benefit amounts, without actuarial valuation. National law exercises Article 6(2), entitlement and admission ages remain unchanged, and the reduction produces no sex discrimination.",
+          "rationale": "The Latvian words describe actually calculating benefits, rather than expressly requiring actuarial calculations. If that construction prevails, the specified reduction gains Article 6(2) eligibility. Changing amounts does not independently satisfy the admission or entitlement-age limb, including its employee-category elaboration. Article 6(1) supplies a separate justification route with additional conditions, not an automatic substitute. Article 2(2)(b)'s neutral-practice exception and Article 2(5)'s necessary-national-measure reservation do not automatically cover the stipulated direct age adjustment. The conditional outcome is the exemption boundary, not established discrimination liability.\nCounterreading: The strongest harmonizing reading treats the Latvian phrase as referring to actuarial calculation of benefits within the occupational-insurance context. Lithuanian, German and French expressly technical wording supports that construction. Polish benefit-amount wording provides a genuine parallel to Latvian, so the difference cannot be dismissed merely because English uses a technical term.",
+          "uncertainty": "The relevant authentic versions do not settle the boundary between actuarial and other benefit calculations. The scenario assumes a genuinely non-actuarial adjustment in a covered scheme. A real scheme’s method, coverage and national adoption require verification. An Article 6(1) justification may remain possible even if the Article 6(2) exemption is unavailable; no violation is determined.",
+          "assessed_at": "2026-10-14T06:41:56.506062Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "2336e90d4d4f7e10554ec88f"
+          ]
+        },
+        {
           "id": "impact-aa5ac50ebdcadea209af800a",
           "title": "Conditional exclusion of administrative complainants",
           "legal_anchor": "Directive 2000/78/EC, Article 11; Articles 1–10, 15 and 17; recital 30.",
@@ -4921,6 +5033,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "05f3588305a137add1eec354"
+          ]
+        },
+        {
+          "id": "impact-a6aba6cd9a0ded798dfa35ca",
+          "title": "Statistical calculation exemption",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2), including its age-setting limb and sex-discrimination condition; Articles 6(1) and 2(2), (5).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "In a covered occupational retirement scheme, national law exercises the Article 6(2) option. Benefits are reduced for an age group using descriptive workforce statistics without actuarial valuation. Admission and entitlement ages remain unchanged, and no sex discrimination results.",
+          "rationale": "If statistical calculations include ordinary age statistics, the specified calculation gains Article 6(2) exemption eligibility that an actuarial-only construction would withhold. The admission, entitlement and differentiated-age clauses concern fixing ages, not a standalone adjustment of amounts. Article 6(1) can independently justify an arrangement, but requires its own justification and proportionality conditions; it does not erase the change in Article 6(2) eligibility. Article 2(2)(b)'s neutral-practice justification does not automatically shelter an expressly age-based adjustment, and Article 2(5) requires a qualifying necessary national measure. Neither provides an unconditional alternative here.\nCounterreading: The occupational-insurance context strongly supports understanding statistical calculations as insurance statistics. German insurance-mathematical and French actuarial wording reinforce that technical construction. Polish and Latvian benefit-calculation formulations show that the multilingual wording is not uniform, but do not establish a general ordinary-statistics exemption. Harmonization could therefore remove the proposed extension.",
+          "uncertainty": "The boundary between descriptive statistics and actuarial valuation remains uncertain across the authentic versions. The scenario assumes a genuinely non-actuarial method. A real scheme’s calculation, coverage and national adoption need checking. Article 6(1) may independently justify the age distinction even if Article 6(2) does not exempt it; no discrimination outcome is determined.",
+          "assessed_at": "2026-10-14T06:41:56.506244Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "11b44801d322ab52e8e76f33"
           ]
         },
         {
