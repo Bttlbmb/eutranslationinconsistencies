@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T10:35:11.430629Z",
+  "generated_at": "2026-10-14T13:53:24.987316Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -8588,6 +8588,22 @@
           ]
         },
         {
+          "id": "impact-b6ea79304d43e043d729b4c2",
+          "title": "Prior availability and decompilation eligibility",
+          "legal_anchor": "Directive 2009/24/EC, Article 6(1)(b), read with Article 6(1)'s indispensability requirement, points (a) and (c), Article 6(2)–(3), and Article 1(2)–(3); cross-reference to Article 4(1)(a)–(b).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A licensee developing an independently created compatible program previously could obtain necessary interface information through a difficult, unindexed archive, but never obtained it. The archive has since become inaccessible, and no alternative source exists. Reproduction and translation of protected code are now indispensable to obtain that information. The acts concern only necessary program parts, satisfy Article 6(2)'s restrictions on use and disclosure, and satisfy Article 6(3)'s safeguards. A rule disqualifying any previous availability would deny the Article 6 exemption; a rule disqualifying only previous ready availability would preserve it.",
+          "rationale": "Article 6 makes its conditions cumulative and directly determines eligibility for decompilation without rightholder authorisation. The temporal scenario matters: substantial difficulty alone would not establish indispensability if another usable source remained available. The subsequent loss of access removes that objection. Points (a) and (c) and paragraphs 2–3 impose independent restrictions but do not equate difficult historical access with ready access. Article 1 excludes interface ideas and principles from copyright protection, yet that exclusion does not itself authorise reproduction or translation of protected code expression to discover them. Article 4(1)(a)–(b) identifies the restricted acts for which Article 6 can dispense with authorisation, while Article 5 may independently permit particular conduct. Article 10's repeal and correlation provisions do not alter this eligibility condition. The supported conditional outcome is loss of the Article 6 exemption, without a conclusion that infringement necessarily follows.",
+          "uncertainty": "The strict historical-availability reading is conditional: Maltese “disponibbli” may instead mean effective practical access, consistent with other authentic versions. The example assumes a difficult historical archive that is inaccessible by the time decompilation is indispensable. The changed outcome is eligibility for Article 6's exemption for the specified code acts, not an automatic finding of infringement, liability or a particular remedy. An actual case would require evidence of access history, necessity, protected code acts, compliance with the remaining Article 6 conditions, and whether Article 5 or another permission independently covers the conduct. No actual user's circumstances are established.",
+          "assessed_at": "2026-10-14T10:47:47.353051Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "de097eb96799f8df8d5035d3"
+          ]
+        },
+        {
           "id": "impact-e73f5f05b487ba0229078353",
           "title": "Pre-1993 enactments and completed acts",
           "legal_anchor": "Article 1(4), read with Article 1(1)–(3) and Article 10.",
@@ -8604,6 +8620,22 @@
           ]
         },
         {
+          "id": "impact-96f1d77af1c7f5adb5a44797",
+          "title": "Exhaustion through non-sale supply",
+          "legal_anchor": "Directive 2009/24/EC, Article 4(2), read with Article 4(1)(a)–(c), Articles 1, 5 and 6, and Recital 12; UsedSoft (C-128/11), paragraphs 42–48.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Within the Community, the rightholder transfers ownership of an original physical program copy to a service provider as part of a commercial exchange for services, under an arrangement stipulated not to be a sale and with no separate permission to resell the copy. The service provider later offers that same owned copy for outright sale to the public, without reproducing or altering it. If Portuguese “primeira comercialização” covers that genuine commercial non-sale transfer, Article 4(2) has already exhausted the distribution right in the copy; under the first-sale wording, the initial transfer has not exhausted it, and the later public distribution still needs the rightholder’s copyright authorisation.",
+          "rationale": "Portuguese Article 4(2) uses “primeira comercialização” where English, German, French and Spanish specify first sale. Article 4(2) itself makes the trigger decisive for exhaustion of the distribution right in the particular copy. Article 4(1)(c) covers the later public sale; the reservation of control over further rental does not cover that sale. This scenario transfers ownership through a genuine non-sale exchange so no lack of title explains the later disposition, and stipulates no independent resale authorisation. It also excludes new reproduction or alteration, preserving those rights separately. If the broader Portuguese trigger prevailed, the rightholder would have lost the copyright distribution objection before the later sale; if first sale alone governs, that objection remains. The direct conditional change supports Moderate impact. Counterreading: “Comercialização” may mean putting a copy on the market through a legally qualifying sale; the equally authentic versions expressly use sale. UsedSoft (C-128/11), paragraphs 42–48, gives “sale” an autonomous EU meaning and treats an unlimited-use licence for a price as a sale; it does not decide whether this exchange for services is a sale. If the exchange legally qualifies as a sale, the difference disappears.",
+          "uncertainty": "Under UsedSoft (C-128/11), paragraphs 42–48, “sale” has an autonomous EU meaning. The Court did not classify an ownership transfer in exchange for services, so whether a particular exchange is legally outside sale yet within “comercialização” remains unresolved and must be established; the scenario stipulates that boundary rather than finding an actual transaction. The full archived act includes Articles 2, 5 and 6. Those provisions do not negate the stated Article 4(2) distribution boundary when protected subject matter, lawful ownership of the physical copy, no reproduction or alteration, and no independent resale permission are stipulated. Contract, property and national remedy questions remain for an actual case.",
+          "assessed_at": "2026-10-14T10:45:40.613025Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "d2589e7b99ff0c510fd6da1b"
+          ]
+        },
+        {
           "id": "impact-7ce0774089ea927423fe1d23",
           "title": "Non-contractual acts before 1993",
           "legal_anchor": "Article 1(4), read with Article 1(1)–(3) and Article 10.",
@@ -8617,6 +8649,38 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "d0aab9e64bbb0c4fc723f0c5"
+          ]
+        },
+        {
+          "id": "impact-d15c9eae6667409419acfd94",
+          "title": "Actual belief in software infringement",
+          "legal_anchor": "Directive 2009/24/EC, Article 7(1)(a)–(b), its reservation concerning Articles 4–6, and the separate provisions in Article 7(1)(c) and 7(2)–(3); Article 1 defines protected subject matter.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A trader holds for resale an actually infringing copy of an original, protected program, reproduced without permission by another person. The trader has not circulated or reproduced it, and no Article 5 or 6 authorization or exception applies. Facts known to the trader provide objective grounds to believe the copy infringes, but the trader genuinely lacks actual knowledge or belief. Under an English grounds-for-belief threshold, Article 7(1)(b) requires appropriate remedies against that trader; if Slovak “v domnienke” requires actual belief, mere objective grounds would not trigger that particular duty.",
+          "rationale": "Slovak “v domnienke” plausibly denotes a person’s actual supposition, while English “having reason to believe” can be satisfied by objective grounds. The scenario fixes protected subject matter, infringement, awareness of the relevant facts, and the absence of authorization or an Article 5 or 6 exception. It also excludes circulation or reproduction by the holder, so another conduct limb does not supply the same person-specific Article 7(1)(b) duty. Article 7(2) still makes an infringing copy liable to seizure under national law, but that separate copy-level rule does not itself impose the same remedial duty against the holder. A changed obligation for this identifiable group is Moderate conditional impact, without implying immunity or a particular sanction.\nCounterreading: Other authentic versions, including German, French and Hungarian, support an objective component. Slovak “v domnienke” may include a legally assessed belief inferred from circumstances. That harmonizing reading could defeat the narrower threshold in an actual interpretation, but does not erase its conditional consequence if it prevailed.",
+          "uncertainty": "Whether Slovak “v domnienke” includes objectively warranted belief remains unsettled after comparing authentic versions. An actual case would require evidence of protected expression, infringement, the trader’s knowledge of relevant facts, and any Article 5 or 6 permission. National law determines the particular remedy, and Article 7(2) preserves copy-level seizure availability. No actual incidence is established.",
+          "assessed_at": "2026-10-14T10:41:44.842768Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "a97cbf23d0b6a3025852decb"
+          ]
+        },
+        {
+          "id": "impact-c8a39315f97a14871159699f",
+          "title": "Commercial custody of unused infringing copies",
+          "legal_anchor": "Directive 2009/24/EC, Article 7(1)(a)–(b) and (2), read with Articles 1 and 4–6.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A trader knowingly stores sealed physical copies of a protected computer program as stock for future sale. The copies were reproduced without rightholder permission by another person and are conclusively infringing after applying Articles 4–6. The trader has not run, reproduced, commercially used or put the copies into circulation during the assessed period. English Article 7(1)(b) requires the Member State to provide an appropriate remedy against this commercial possessor; if Lithuanian Article 7(1)(b) requires actual commercial use, that holder-specific duty would not arise merely from custody. Article 7(2) still makes the infringing copies legally liable to seizure under national law.",
+          "rationale": "English Article 7(1)(b) targets possession for commercial purposes; Lithuanian “naudoja” can require commercial use. The scenario fixes every other condition: protected expression and infringement are established; the trader knows it; no use or circulation by that trader has occurred. Article 7(1)(a) concerns circulation and therefore does not independently capture that person. Article 7(1)(c) concerns circumvention tools, not the sealed infringing copies. Article 7(2) preserves seizure availability for the copies, but does not itself require the Member State to provide the same holder-specific Article 7(1)(b) remedy. Losing that distinct remedy duty is a plausible Moderate change for an identifiable commercial holder, without implying that the copies become lawful or immune from seizure.\nCounterreading: Other authentic versions, including French and German, expressly cover commercial possession. Lithuanian use may include holding stock for commercial exploitation even before running a program. That reading could remove the divergence in an actual interpretation; the rating states the result only if a narrower actual-use requirement prevailed.",
+          "uncertainty": "Whether commercial custody counts as Lithuanian commercial use remains open. The example assumes an independently established infringing copy and no use or circulation by this trader; a real dispute would require source and conduct evidence. Article 7(2) continues to allow seizure under national law, and other national legal remedies could also apply. The specific remedy and actual prevalence are not established.",
+          "assessed_at": "2026-10-14T10:35:40.442700Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "6ffe57e72fa1ad575adbd945"
           ]
         },
         {
@@ -8700,6 +8764,22 @@
           ]
         },
         {
+          "id": "impact-49cb659ece2a5d6b8709b4d2",
+          "title": "Output similarity restricts interoperability",
+          "legal_anchor": "Directive 2009/24/EC, Article 6(1)–(3), read with Articles 1(2) and 4(1)(a)–(b); SAS Institute (C-406/10), paragraphs 37–40 and 45.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A lawful licensee reproduces and translates only the interface code indispensable to obtain otherwise unavailable information for interoperability. The licensee uses that information solely to develop an independently created connector whose functional protocol output is substantially similar to the original program’s output, while its protected program expression differs. Disclosure is limited to what interoperability requires; no other copyright infringement, unreasonable prejudice to legitimate interests, or conflict with normal exploitation is assumed.",
+          "rationale": "Estonian Article 6(2)(c) describes a program substantially similar “väljundilt” (in output), where English, German, French and Finnish refer to similarity of expression. If the Estonian wording independently disqualified substantial similarity of functional output, Article 6 would not permit use of the obtained information to develop the described connector. An expression-based reading would not exclude that use on similarity grounds. The scenario satisfies Article 6(1) and avoids paragraph 2(a)–(b), its separate copyright-infringement limb, and paragraph 3. Article 4(1)(a)–(b) reserves reproduction and adaptation but is subject to Article 6; the effect identified here is the boundary of that exception, not a conclusion that developing or marketing the connector itself infringes copyright. Article 1(2) and SAS Institute (C-406/10) distinguish functionality, programming language and data formats from protected program expression. They strongly favor an expression-based common reading but do not, by themselves, resolve the distinct hypothetical condition on use of decompilation information if an output-based reading prevailed. The conditional change under that specific rule is Moderate.",
+          "uncertainty": "The stronger harmonizing interpretation reads Estonian “väljundilt” as expressive manifestation in light of Article 1(2), the “other” copyright-infringing acts clause, other authentic versions and SAS Institute. The conditional output-based reading may therefore fail in actual multilingual interpretation. A real case would require proof that the relevant output is substantially similar, that Article 6(1) conditions and Article 6(2)–(3) safeguards hold, and whether any output or other material has separate copyright protection. Loss of Article 6 permission for the stipulated information use alone does not establish a particular infringing act, remedy or liability.",
+          "assessed_at": "2026-10-14T10:45:40.597299Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "c2ed97ef668bf5b2e4d059d3"
+          ]
+        },
+        {
           "id": "impact-f7ae3dd34013b80372d826c9",
           "title": "Prior provision potentially substitutes for ready availability",
           "legal_anchor": "Directive 2009/24/EC, Article 6(1)(b), subject to Article 6(1)'s opening necessity requirement and Article 6(2)–(3).",
@@ -8729,6 +8809,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "fad36ff0aa7025267979e5df"
+          ]
+        },
+        {
+          "id": "impact-1173cba4922c148083ef129d",
+          "title": "Necessary use after acquisition without sale",
+          "legal_anchor": "Directive 2009/24/EC, Recital 13, read with Articles 4(1)(a)–(b), 5(1) and 8.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A lawful acquirer obtains a program copy without a sale, needs an otherwise restricted reproduction or adaptation to use it as intended, and faces no specific contrary contractual provision. Reading the last Latvian sentence of Recital 13 as confined to sold copies would matter only if it could also narrow the operative Article 5(1) permission. The full Latvian Article 5(1) applies to a lawful acquirer without a sale condition, so this scenario does not establish a changed permission.",
+          "rationale": "The final Latvian sentence of Recital 13 expressly refers to lawful acquirers of sold copies, whereas English presents sale as an included case. Its opening necessary-use sentence concerns lawful acquirers generally. More decisively, Latvian Article 5(1) allows necessary Article 4(1)(a)–(b) acts by a lawful acquirer absent specific contractual provisions and contains no sale condition. The recital cannot by itself replace that operative rule with a sale-only rule. Article 8 second paragraph concerns nullity for terms contrary to Article 6 or Article 5(2)–(3), not Article 5(1); the proposed case assumes no contrary contract. The sale wording thus has a textual scope difference, but a changed legal outcome remains unsupported.",
+          "uncertainty": "An affirmative recital statement about sold copies need not exclude other lawful acquirers. No operative ambiguity has been established through which that wording would limit Article 5(1), and no concrete non-sale case shows a different result after applying Article 4 and the other exceptions. No impact level is assigned.",
+          "assessed_at": "2026-10-14T10:41:44.828865Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "f5da334f46294ba3ee1e2ad9"
           ]
         },
         {
@@ -8780,22 +8876,6 @@
           ]
         },
         {
-          "id": "impact-d15c9eae6667409419acfd94",
-          "title": "Actual belief in software infringement",
-          "legal_anchor": "Directive 2009/24/EC, Article 7(1)(a)–(b), its reservation concerning Articles 4–6, and the separate provisions in Article 7(1)(c) and 7(2)–(3); Article 1 defines protected subject matter.",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "A trader merely holds for resale an actually infringing copy of an original, protected program. The possession is not authorized or protected by an applicable exception. Facts known to the trader provide objective grounds to believe the copy infringes, but the trader genuinely lacks knowledge or belief. If actual belief is required, this trader falls outside Article 7(1)(b)'s mandatory remedial coverage; a grounds-for-belief threshold includes the trader.",
-          "rationale": "Slovak “v domnienke” plausibly describes a person's actual supposition rather than the existence of reasons for one. Assuming that restrictive reading prevails, the concrete change is the scope of the obligation to provide appropriate remedies against qualifying persons. Article 7(2) independently preserves seizure of the infringing copy, but does not erase the separate personal coverage specified in paragraph 1. Ordinary copies do not satisfy the circumvention-means limb merely because they infringe. Article 1's protection requirements are satisfied in the scenario; Article 10's repeal and reference rules do not settle the mental threshold.\nCounterreading: The strongest harmonizing reading treats “v domnienke” as encompassing a legally assessed belief based on circumstances. German and French expressly refer to grounds for belief, and Hungarian invokes what due care should have revealed. These equally authoritative formulations support an objective component. However, inferring actual belief from evidence is not identical to imposing a threshold satisfied despite genuine absence of belief. A strictly subjective Slovak reading is therefore textually plausible but is not established as the interpretation that would prevail in the full multilingual context.",
-          "uncertainty": "The available extracts do not reproduce Articles 4–6 or national remedial rules. Accordingly, no conclusion is reached about a particular sanction, the loss of every remedy, or an actual trader's liability. The conditional conclusion concerns Article 7(1)'s required coverage, with infringement and the absence of an applicable authorization or exception established as scenario facts.\nUnresolved: Does “v domnienke” carry an objective legal component in this provision? What remedies does national law provide, and would independent provisions preserve the same practical relief?",
-          "assessed_at": "2026-10-14T10:33:38.895598Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "a97cbf23d0b6a3025852decb"
-          ]
-        },
-        {
           "id": "impact-18f0e2856fcf7c89405cfd27",
           "title": "Article 5(3): possible contractual prerequisite for observation, study or testing",
           "legal_anchor": "Directive 2009/24/EC, Article 5(3), aligned across supplied versions by source_id art_5, read with Articles 1(2), 4(1)(a), 5(1), 6 and 8 and recitals 13–16.",
@@ -8809,22 +8889,6 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "3e1d9f4c746a4d8967e26de8"
-          ]
-        },
-        {
-          "id": "impact-7315d5d1f09ea8ac21dc15f9",
-          "title": "Commercial holding and multipurpose circumvention tools",
-          "legal_anchor": "Directive 2009/24/EC, Article 7(1)(c) and (3), expressly without prejudice to Articles 4–6; Article 1 governs protected subject matter.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "A supplier circulates a hardware tool deliberately intended both for legitimate diagnostics and for circumvention of protection on an original computer program. If the circumvention is unauthorised, treating it as one intended purpose rather than the exclusive intended purpose could bring the supplier within Article 7(1)(c). Separately, a business merely holding a dedicated circumvention tool could fall outside a reading requiring commercial use.",
-          "rationale": "Lithuanian uses a verb meaning use and does not expressly state exclusivity of purpose. These differences operate independently and in opposite directions. Circulation satisfies the conduct requirement for the multipurpose-tool example under either reading, so the purpose restriction remains decisive. A tool must actually be intended to facilitate unauthorised circumvention; mere technical capability is insufficient even under the broader reading. The copy-specific limbs in Article 7(1)(a)–(b) and paragraph 2 do not independently capture a hardware tool containing no infringing program copy. Paragraph 3 incorporates the disputed tool category rather than curing its boundary. Article 1 establishes protected subject matter, while Article 10's repeal and correlation provisions do not settle either distinction.\nCounterreading: All authentic versions have equal authority. French ‘détenir’ and ‘seul but’, German ‘Besitz’ and ‘allein dazu bestimmt’, and corresponding formulations elsewhere support commercial possession and an exclusive intended purpose. In that context, Lithuanian commercial use could encompass commercial exploitation through holding, while ‘skirta’ could describe a dedicated purpose. That contextual interpretation has substantial support and could eliminate both divergences; this follows from the provision's structure and meaning, not numerical predominance or English priority.",
-          "uncertainty": "The available extracts do not reproduce Articles 4–6, although Article 7 expressly preserves them. The particular circumvention activity and its relationship to those provisions are unspecified. Consequently, its unauthorised character cannot be established here. National law determines the particular remedies, and Article 7(3) does not require actual seizure.\nUnresolved: What circumvention does the tool facilitate, and do Articles 4–6 protect that activity? For the holding example, what conduct beyond passive custody occurs? These matters must be resolved before establishing an outcome that survives the preserved provisions.",
-          "assessed_at": "2026-10-14T10:28:25.527658Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "52c50ec35d9f8643a0305e67"
           ]
         },
         {
@@ -8844,19 +8908,51 @@
           ]
         },
         {
-          "id": "impact-1173cba4922c148083ef129d",
-          "title": "Necessary use after acquisition without sale",
-          "legal_anchor": "Recital 13 addresses lawful acquirers generally before referring to sold copies in its Latvian final sentence. Article 1 establishes the protected subject matter. Articles 4 and 5, including the operative necessary-use exception, are not reproduced in the available extracts; Article 10's repeal and correlation provisions do not determine eligibility for that exception.",
+          "id": "impact-c96db9be5f959401ae8aaa72",
+          "title": "Reciprocal versus comprehensive information use",
+          "legal_anchor": "Directive 2009/24/EC, Recital 10, read with Articles 1(2), 4(1)(a)–(b), and 6(1)–(3).",
           "impact_level": null,
           "confidence": "low",
           "review_state": "needs_review",
-          "effect": "A person lawfully acquires a program copy through an arrangement that is not a sale and needs to adapt protected code for its intended use. The adaptation is not loading, running or error correction, and no contractual provision addresses it. A sale condition could remove permission only if it also narrows the operative necessary-use exception and no separate authorization or exception applies.",
-          "rationale": "The Latvian wording expressly identifies lawful acquirers of sold copies, whereas the English, French and German formulations include sale within a wider category. However, an affirmative statement about sold copies does not necessarily exclude other copies. Even assuming an exclusive sale-only reading of this sentence, loss of an operative permission does not follow automatically. The broader necessary-use exception identified in Article 5(1) could preserve the same outcome.\nCounterreading: The strongest harmonizing reading treats sold copies as a specified instance of lawful acquisition. The Latvian opening sentence covers lawful acquirers generally, and its protection for loading, running and error correction contains no sale condition. French and German likewise frame sale as an included situation. These equally authoritative texts and the recital's structure favor continuity of protection across lawful acquisition arrangements. A recital cannot override an unambiguous broader operative exception.",
-          "uncertainty": "The unresolved conditional dependency is whether a sale restriction in this recital could narrow the operative exception. A particular adaptation must also involve protected expression and lack another authorization or exception. These questions remain separate from the likelihood that the sale-only interpretation would prevail.\nUnresolved: Does Article 5(1), read with Article 4 and the remaining exceptions, independently permit the particular adaptation by a lawful acquirer without a sale? Is there any operative ambiguity through which the recital's sale wording could change that entitlement?",
-          "assessed_at": "2026-10-14T10:31:12.757169Z",
+          "effect": "An independently created adapter exchanges information with an existing program but implements only selected interface functions. One could ask whether the Polish reference to comprehensive use excludes it even when the programs reciprocally use the information actually exchanged. Conversely, an adapter might make one-way use of information exchanged while the two programs still communicate. Neither description identifies a concrete Article 6 entitlement that changes once the full interoperability rule and the technical operation are applied.",
+          "rationale": "Polish Recital 10 describes “wszechstronnego wykorzystania” of exchanged information, a breadth-of-use formulation, whereas English, German, French and Italian describe mutual or reciprocal use. The distinction is textual. The complete Polish recital also describes joint functioning, mutual interconnection and interaction. Polish Article 6(1) permits indispensable code reproduction or translation for information needed to achieve interoperability of an independently created program, subject to the entitled-user, prior-access and necessary-parts conditions; Article 6(2) limits use and disclosure of that information, and paragraph 3 protects legitimate interests and normal exploitation. Neither Article 6 nor Recital 10 expressly requires every interface function or every available message to be used. An adapter can fully use the information actually exchanged while implementing selected functions. A one-way processing example may still fail the recital’s mutual-interaction context. Article 1(2) excludes underlying interface ideas and principles from program copyright, but discovering them through reproduction or translation of protected code invokes a separate Article 6 analysis. No changed decompilation eligibility follows from the lexical contrast alone.",
+          "uncertainty": "It remains unresolved what information an actual adapter exchanges, what part of that information it uses, and whether any difference between comprehensive and reciprocal use would alter the Article 6 interoperability condition after all paragraph 1–3 requirements are met. The stronger common reading treats effective use within the intended cooperative operation as sufficient. Whether the Polish phrase would receive a stricter independent meaning is a separate uncertainty. No substantive impact level is assigned.",
+          "assessed_at": "2026-10-14T10:47:47.363777Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
-            "f5da334f46294ba3ee1e2ad9"
+            "de7b888b2ca116d5948e1628"
+          ]
+        },
+        {
+          "id": "impact-838f87c206cb4852125c0b34",
+          "title": "Rental-purpose reversal after first sale",
+          "legal_anchor": "Directive 2009/24/EC, Recital 12 and Article 4(1)(c), (2), read with Articles 5 and 6.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A person owns an original physical copy of a protected computer program following an authorised first sale of that same copy in the Community. The owner actually makes the copy available to a customer through a public rental service for a limited period of use, for a fee and a profit, without making or authorising any new reproduction or alteration and outside public lending. Under the profit-purpose reading of Recital 12, this is rental: Article 4(2) preserves the rightholder’s control of further rental despite exhaustion on first sale. If the literal Polish non-profit definition governed the same Article 4(2) carveout, this profit-making transaction would not be reserved rental and the already exhausted distribution right would not support that control.",
+          "rationale": "Polish Recital 12 defines “wypożyczenie” by a non-profit purpose, while English, German, French and Spanish define the corresponding rental by a profit purpose. The Polish operative provisions use “wypożyczenie” both in Article 4(1)(c), which includes rental within public distribution, and in Article 4(2), which excepts further rental from first-sale exhaustion. The scenario fixes a qualifying first sale, so the distribution right is otherwise exhausted. It also excludes new reproduction and alteration, leaving the rental exception as the disputed copyright control. If the literal Polish definition prevailed, the rightholder would lose that Article 4(2) control of the stipulated commercial rental; under the profit-purpose definition it remains. That is a plausible Moderate conditional change for an identifiable class. Counterreading: The other equally authentic versions and the contrast with excluded public lending strongly favour reading the Polish term as profit-making rental. Whether that harmonised reading ultimately prevails is separate from the effect if the literal Polish reading did prevail.",
+          "uncertainty": "The literal Polish non-profit reading is unlikely to survive multilingual and contextual interpretation. An actual rental could involve a reproduction, a separate contractual obligation or another legal right, none of which is resolved here. The assessment concerns only Article 4(2) control of a physical copy after an authorised first sale; it does not claim the rental is lawful under every other rule or that a specific sanction follows.",
+          "assessed_at": "2026-10-14T10:45:40.612814Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "ce88ff0fade7118788c9f1aa"
+          ]
+        },
+        {
+          "id": "impact-895a35f356c13d26e8030c09",
+          "title": "Prejudice threshold for interoperability decompilation",
+          "legal_anchor": "Directive 2009/24/EC, Article 6(1)–(3), read with Article 1(2)–(3) and the references to Article 4(1)(a)–(b) and the Berne Convention.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A lawful licensee reproduces and translates only the indispensable interface-related portions of an original, protected program to connect an independently created tool. The necessary information is not readily available. It remains within the authorized development team and is used solely for interoperability, without substantially similar expression or another copyright infringement. Examining confidential implementation details creates a modest risk to a legitimate confidentiality interest. Assume that risk is reasonable and does not conflict with normal exploitation. A prohibition on any capacity to harm would exclude this activity from Article 6; a prohibition confined to unreasonable prejudice would preserve the exemption.",
+          "rationale": "Portuguese expressly addresses capacity to harm and contains no express unreasonable-prejudice qualifier. If construed as excluding even reasonable prejudice, it would narrow Article 6 eligibility. Paragraphs 1 and 2 do not eliminate the described boundary: indispensable copying can satisfy their conditions while presenting a reasonable confidentiality risk. The separate normal-exploitation limb would independently exclude the activity if triggered, but the scenario excludes that circumstance. Article 1(2) leaves interface ideas unprotected without itself authorizing reproduction of protected code. Loss of the Article 6 exemption is the supported legal outcome; infringement, remedies and penalties do not follow automatically.\nCounterreading: The strongest harmonizing interpretation reads Portuguese harm to legitimate interests through Article 6's express Berne reference and its purpose of permitting tightly controlled interoperability work. French ‘préjudice injustifié’, German ‘in unvertretbarer Weise’ and Spanish ‘de forma injustificada’ expressly support a qualified prejudice threshold. Finnish, like Portuguese, lacks an express reasonableness qualifier. These equally authoritative formulations must be reconciled through context and purpose, without giving English priority or counting versions. That contextual reading has stronger support than an automatic bar for every reasonable risk, although the wording alone does not conclusively settle the ultimate interpretation.",
+          "uncertainty": "No actual development activity or affected population is established. A confidentiality concern must involve a legally legitimate interest; mere competitive disadvantage is insufficient to establish the scenario. The reproduced provisions do not include Article 4, the other exceptions or the Berne Convention text, so they do not establish that losing Article 6 protection necessarily makes authorization indispensable on every other legal basis.\nUnresolved: For a real activity, the decisive factual questions are whether the asserted interest is legitimate, whether the prejudice is reasonable, and whether normal exploitation remains unaffected. The conditional exemption change is supported on the stated facts; its application to any particular developer remains unestablished. Article 10's repeal and correlation provisions do not supply an alternative eligibility condition for this scenario.",
+          "assessed_at": "2026-10-14T10:41:31.803503Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "dcbc08e22ae7d09888490714"
           ]
         },
         {
@@ -8866,45 +8962,13 @@
           "impact_level": "moderate",
           "confidence": "medium",
           "review_state": "provisional",
-          "effect": "A reseller merely possesses for commercial purposes a copy actually made in infringement of copyright in an original, protected program. No authorization or exception protects that possession. Despite apparently reliable provenance and no objective grounds to suspect infringement, the reseller consciously accepts a remote possibility that the copy was unlawfully made. If that acceptance alone suffices, Article 7(1)(b) requires remedial coverage that a grounds-based threshold would not require.",
-          "rationale": "The Latvian phrase expressly refers to accepting a possibility and does not expressly require grounds. On the disputed broader reading, it changes who must be covered by Article 7(1)'s appropriate remedies. The scenario retains actual infringement, so mere suspicion about a lawful copy is not used to establish the effect. Article 7(2)'s separate seizure rule remains applicable; paragraph 1(c) and paragraph 3 concern circumvention means and do not independently capture an ordinary software copy. Article 1 supplies the protection conditions, while Article 10 does not resolve the mental threshold.\nCounterreading: The strongest harmonizing reading understands acceptance of possibility as concrete, grounded suspicion rather than acknowledgment of any abstract risk. Czech, Finnish and Swedish expressly connect suspicion to justification or grounds; German and French similarly require grounds for belief. Those equally authoritative texts support a common evidence-based threshold. They also show why suspicion cannot automatically be equated with belief. The broader Latvian reading remains plausible in isolation, but its success in the full multilingual context is uncertain.",
-          "uncertainty": "The available extracts do not reproduce Articles 4–6 or national remedial rules. They therefore cannot establish a particular sanction or whether other provisions produce equivalent practical relief. The conditional outcome is limited to mandatory coverage under Article 7(1), assuming actual infringement and no applicable authorization or exception.\nUnresolved: Does “pieļaujot iespēju” require concrete grounds in this legal context, and how much awareness does it demand? What practical remedies would national law attach to inclusion under Article 7(1)?",
-          "assessed_at": "2026-10-14T10:33:38.897239Z",
+          "effect": "An owner-reseller holds as commercial stock a copy of an original, protected program that another person actually made in infringement of copyright. The reseller has not circulated or reproduced it, and no Article 5 or 6 authorization or exception applies. Despite apparently reliable provenance and no objective grounds to believe this copy infringes, the reseller consciously entertains the specific possibility that its maker lacked permission. If Latvian “pieļaujot iespēju” covers that concrete but unevidenced acceptance of possible infringement, Article 7(1)(b) requires appropriate remedies against the reseller; an English grounds-for-belief threshold would not require them on these facts.",
+          "rationale": "Latvian “pieļaujot iespēju” expressly refers to accepting a possibility, while English requires knowledge or reason to believe. The example stipulates actual unauthorized making of this copy, so suspicion about a lawful copy cannot create the outcome. It also stipulates ownership of stock, satisfying Latvian “tur īpašumā” independently of the mental-state difference. A concrete perceived possibility is required; mere acknowledgement that infringement is abstractly possible in any transaction is not the asserted reading. Articles 4–6 supply the protected rights and exceptions, which the stipulated facts resolve. Article 7(2) separately makes infringing copies liable to seizure under national law; Article 7(1)(c) and 7(3) concern circumvention tools. If the broader subjective threshold prevailed, the State’s Article 7(1)(b) duty to provide appropriate remedies would expand for an identifiable owner-reseller, a Moderate conditional effect without a claim about the particular sanction.\nCounterreading: Czech, Finnish, Swedish, German and French formulations connect suspicion or belief to objective grounds. Latvian “pieļaujot iespēju” may require a grounded, concrete suspicion rather than an unevidenced possibility. That harmonizing interpretation could defeat the broader threshold, but not the conditional consequence if the broader reading prevailed.",
+          "uncertainty": "Whether Latvian “pieļaujot iespēju” requires objectively justified suspicion remains unsettled after comparing authentic versions. A real case would need proof of the reseller’s ownership, its actual mental state, infringement in making the copy, and any Article 5 or 6 permission. National law determines the remedy; Article 7(2) preserves copy-level seizure availability. No actual incidence is established.",
+          "assessed_at": "2026-10-14T10:41:44.843051Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "ad8d02b04f7663524492ef3b"
-          ]
-        },
-        {
-          "id": "impact-8f59e78dcbc6215bb3eebf5a",
-          "title": "Contractual protection for necessary display",
-          "legal_anchor": "Recital 13 distinguishes acts protected against contractual prohibition from other necessary acts permitted absent specific contractual terms. Article 1 confines protection to original program expression. The operative rules on restricted acts, necessary-use exceptions and contractual derogation in Articles 4, 5 and 9 are not reproduced in the available extracts.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "A lawful acquirer needs a display operation involving reproduction of protected program expression, and an express contractual term prohibits that operation. Independent mandatory protection for display could defeat that prohibition, provided loading, running or another exception does not already protect the same operation.",
-          "rationale": "The Dutch sentence names displaying where the English, French and German sentences name running or execution. Its final sentence makes other necessary acts subject to specific contractual terms, so the distinction could matter. Nevertheless, even accepting display as a distinct category does not establish a changed contractual outcome: the operative exception and the relationship between display, loading and execution remain decisive. Conversely, omission of an express reference to running does not establish that necessary execution loses protection.\nCounterreading: The strongest harmonizing reading treats displaying as an expression of ordinary program use within the opening sentence's protection for technically necessary reproduction. Necessary display may also occur through protected loading or execution. With no contrary contractual term, the final sentence already permits other necessary acts. Read together with the equally authoritative French and German execution terminology, the common purpose favors a shared necessary-use safeguard rather than different national categories. A recital cannot independently displace the operative provisions.",
-          "uncertainty": "The conditional legal effect remains unresolved because no distinct display operation is established that falls within protected program expression, escapes existing safeguards and becomes protected through this wording. Whether the Dutch wording would ultimately receive an independent meaning is a separate interpretive uncertainty.\nUnresolved: Would Articles 4, 5 and 9 leave any necessary display operation contractually restrictable while protecting loading or execution? Does the proposed operation reproduce protected program expression, and would the disputed wording supply protection unavailable under another limb?",
-          "assessed_at": "2026-10-14T10:31:12.755875Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "737f674ed75f7d3134b1999a"
-          ]
-        },
-        {
-          "id": "impact-c8a39315f97a14871159699f",
-          "title": "Commercial custody of unused infringing copies",
-          "legal_anchor": "Directive 2009/24/EC, Article 7(1)(a)–(b) and (2), expressly without prejudice to Articles 4–6; Article 1 governs protected computer programs.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "A trader knowingly holds copies acquired from another person as stock for future sale, without running or circulating them. Assuming the copies are infringing, a reading requiring commercial use beyond custody could remove possession alone from Article 7(1)(b).",
-          "rationale": "Lithuanian ‘naudoja’ supports a use-based threshold, whereas possession can occur without operating a program. Article 7(1)(a) does not independently capture a trader who has not put the copies into circulation. Article 7(1)(c) requires qualifying circumvention means and cannot be substituted merely because copies are infringing. Article 7(2) remains independently relevant, so exclusion from paragraph 1(b) would not make the copies immune from seizure. Article 1 requires protected program expression and originality; it does not itself establish that particular copies are infringing. Article 10's repeal and correlation provisions do not resolve the conduct threshold.\nCounterreading: Holding inventory for sale can itself be understood as commercial use or exploitation, even without running the program. French ‘détenir à des fins commerciales’, German ‘Besitz ... für Erwerbszwecke’, and corresponding authentic formulations reinforce that reading. Their equal authority and the preventive role of possession alongside circulation provide substantial grounds for harmonising Lithuanian with commercial custody. The narrow reading's ultimate acceptance is therefore doubtful, independently of its possible conditional effect.",
-          "uncertainty": "The available extracts do not reproduce Articles 4–6. The legal basis for treating the copies as infringing and the acts involved in their acquisition and storage therefore remain untested against the preserved rights and exceptions. Particular remedies depend on national law. These limits concern the conditional legal effect separately from the interpretation of commercial use.\nUnresolved: Under Articles 4–6, why are the particular copies infringing, and does the trader's acquisition or storage involve independently restricted conduct? Establishing those facts and provisions is necessary to determine whether the narrower threshold changes the trader's remedial position while seizure remains available.",
-          "assessed_at": "2026-10-14T10:28:25.529305Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "6ffe57e72fa1ad575adbd945"
           ]
         },
         {
@@ -8953,6 +9017,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "088af572197cf54f11197244"
+          ]
+        },
+        {
+          "id": "impact-8f59e78dcbc6215bb3eebf5a",
+          "title": "Contractual protection for necessary display",
+          "legal_anchor": "Directive 2009/24/EC, Recital 13, read with Articles 1(2), 4(1)(a), 5(1), 5(3) and 8; Top System (C-13/20) and Bezpečnostní softwarová asociace (C-393/09).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A lawful acquirer faces a specific contractual term barring an operation described as necessary display. For this wording to change the outcome, that operation would have to reproduce protected program expression under Article 4(1)(a), remain distinct from necessary loading or running and other available permissions, and gain protection against the term from the disputed recital wording. No operation satisfying all those conditions is established.",
+          "rationale": "Dutch Recital 13 names necessary loading or display where English names loading and running. Dutch Article 4(1)(a) separately lists loading, display and execution among operations that may entail reproduction; Dutch Article 5(1) allows necessary Article 4(1)(a)–(b) acts for intended use absent specific contractual provisions. Article 8 second paragraph nullifies terms contrary to Article 6 or Article 5(2)–(3), but does not expressly list Article 5(1); Article 9 concerns communication. Top System reads Article 5(1) with Recital 13 to preserve a lawful acquirer’s possibility of error correction while allowing contractual arrangements for its exercise. A display-only interface example is insufficient: Bezpečnostní softwarová asociace distinguishes a graphical user interface from the expression of a computer program protected by this Directive. The full operative context supports a common necessary-use reading but does not establish a separate display-based override of a specific contractual term.",
+          "uncertainty": "No concrete technically necessary display that reproduces protected program expression independently of loading, execution or another permission has been identified. Whether Recital 13 could make that residual act immune to a specific contract despite Article 5(1)’s express contract qualification remains unresolved. Omission of running from the Dutch sentence does not establish that necessary execution loses protection. A conditional changed outcome and an impact level remain open.",
+          "assessed_at": "2026-10-14T10:41:44.828442Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "737f674ed75f7d3134b1999a"
           ]
         },
         {
@@ -9033,6 +9113,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "8f4316ebdfde8267401c39eb"
+          ]
+        },
+        {
+          "id": "impact-7315d5d1f09ea8ac21dc15f9",
+          "title": "Commercial holding and multipurpose circumvention tools",
+          "legal_anchor": "Directive 2009/24/EC, Article 7(1)(c) and (3), read with Articles 1 and 4–6.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A supplier circulates a hardware tool containing no infringing program copy, genuinely intended for both lawful diagnostics and unauthorised circumvention of a technical device protecting an original computer program. The circumvention use is outside the permissions in Articles 5 and 6 and has no rightholder consent. English Article 7(1)(c) excludes this tool because circumvention is not its sole intended purpose; if Lithuanian Article 7(1)(c) covers tools with any genuine intended circumvention purpose, the Member State must provide appropriate remedies against the supplier. Separately, a business holds a dedicated circumvention tool containing no infringing program copy for commercial stock without using or circulating it during the assessed period. English commercial possession is covered; a Lithuanian reading requiring actual commercial use would exclude that holding from Article 7(1)(c).",
+          "rationale": "Lithuanian Article 7(1)(c) uses a verb meaning use instead of possession and omits an express sole-intended-purpose limit. The two changes operate independently and in opposite directions. Circulation is stipulated in the dual-purpose example, leaving the purpose limit as the decisive condition; a tool with mere technical capability but no real circumvention purpose would not qualify. Unauthorised circumvention and the absence of a statutory use or interoperability permission are also stipulated, so Articles 4–6 do not remove the example. For the inventory example, dedicated purpose is stipulated and the only disputed conduct is commercial possession without actual use. Article 7(1)(a)–(b) and paragraph 2 address infringing program copies rather than a tool containing none; paragraph 3 permits seizure of tools but does not itself impose a remedy against the holder. Under either disputed reading, Article 7(1)(c) changes the State’s duty to provide an appropriate remedy for an identifiable supplier or holder, which is a Moderate conditional effect.\nCounterreading: Other authentic versions, including French and German, express possession and sole intended purpose. Lithuanian commercial use may include exploitation through holding inventory, and its purpose wording may imply dedication when read with the full provision. That could defeat both disputed readings, but does not erase their conditional consequence if they prevailed.",
+          "uncertainty": "Whether the Lithuanian use wording includes commercial holding, or its intended-purpose phrase implies exclusivity, remains unsettled after comparing authentic versions. A real case would require proof of the tool’s actual intended functions, unauthorised circumvention, and any relevant Article 5 or 6 permission. National law determines the particular appropriate remedy; Article 7(3) does not mandate seizure. No actual market incidence is claimed.",
+          "assessed_at": "2026-10-14T10:35:40.442473Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "52c50ec35d9f8643a0305e67"
           ]
         }
       ]
@@ -17585,7 +17681,7 @@
       "version": "2022-10-19",
       "version_label": "Original act",
       "retrieved_at": "2026-10-14T00:39:12.355408+00:00",
-      "status": "analyzing",
+      "status": "partial",
       "subject": "",
       "languages": [
         {
@@ -17809,10 +17905,11 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 6302,
-        "reviewed_units": 1917,
+        "reviewed_units": 2322,
         "total_languages": 24,
-        "reviewed_languages": 7,
+        "reviewed_languages": 8,
         "reviewed_language_codes": [
+          "bg",
           "el",
           "es",
           "fr",
@@ -22603,6 +22700,706 @@
             ],
             "reviewed_at": "2026-10-14T10:32:43.887652Z"
           }
+        },
+        {
+          "id": "848ed907be5d53c0d17345e7",
+          "passage_id": "p0211",
+          "english_quote": "the total number of recipients of the service reached and, where applicable, aggregate numbers broken down by Member State for the group or groups of recipients that the advertisement specifically targeted.",
+          "title": "Advertising repository may report service reach instead of advertisement reach",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "In Article 39(2)(g), English concerns the advertisement’s reach among service recipients. Bulgarian expressly describes recipients reached by the service. This could permit reporting the service’s overall audience instead of the particular advertisement’s audience, although the repository’s context supports an advertisement-specific interpretation.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "общия брой на получателите, до които е достигнала услугата и когато е приложимо, агрегирани числени данни, разбити по държави членки за групата или групите получатели, към които е била насочена конкретно рекламата.",
+              "translation": "the total number of recipients reached by the service and, where applicable, aggregate numerical data broken down by Member State for the group or groups of recipients that the advertisement specifically targeted.",
+              "explanation": "In Article 39(2)(g), English concerns the advertisement’s reach among service recipients. Bulgarian expressly describes recipients reached by the service. This could permit reporting the service’s overall audience instead of the particular advertisement’s audience, although the repository’s context supports an advertisement-specific interpretation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:40:20.473514Z"
+          }
+        },
+        {
+          "id": "b4fac735289dcbb984d37aca",
+          "passage_id": "p0212",
+          "english_quote": "Providers of very large online platforms or of very large online search engines shall give access without undue delay to data, including, where technically possible, to real-time data,",
+          "title": "Technical feasibility may condition all public-data access",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 40(12) qualifies real-time access by technical feasibility. Bulgarian places that condition on data access generally. This could allow technical infeasibility to justify withholding ordinary access as well as real-time access.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Доставчиците на много големи онлайн платформи или много големи онлайн търсачки предоставят без необосновано забавяне достъп до данни, когато това е технически възможно, включително в реално време,",
+              "translation": "Providers of very large online platforms or very large online search engines shall provide access to data without undue delay, where this is technically possible, including in real time,",
+              "explanation": "English Article 40(12) qualifies real-time access by technical feasibility. Bulgarian places that condition on data access generally. This could allow technical infeasibility to justify withholding ordinary access as well as real-time access.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:40:20.477845Z"
+          }
+        },
+        {
+          "id": "fbd66c602c29b9155fb31bfd",
+          "passage_id": "p0225",
+          "english_quote": "the power to impose fines, or to request a judicial authority in their Member State to do so, in accordance with Article 52 for failure to comply with this Regulation, including with any of the investigative orders issued pursuant to paragraph 1 of this Article;",
+          "title": "Investigative-order breaches lose an express ground for fines",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 51(2)(c) expressly authorizes fines for non-compliance with investigative orders. Bulgarian instead describes those orders as assisting the imposition of penalties. This could support a challenge to the express basis for such a fine, although the surrounding enforcement provisions support the same sanctioning power.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "правомощието да налагат санкции за неспазване на настоящия регламент или да поискат съдебен орган в тяхната държава членка да направи това в съответствие с член 52, включително с помощта на заповеди за разследване, издадени съгласно параграф 1 от настоящия член;",
+              "translation": "the power to impose penalties for failure to comply with this Regulation or to request a judicial authority in their Member State to do so in accordance with Article 52, including with the help of investigative orders issued pursuant to paragraph 1 of this Article;",
+              "explanation": "English Article 51(2)(c) expressly authorizes fines for non-compliance with investigative orders. Bulgarian instead describes those orders as assisting the imposition of penalties. This could support a challenge to the express basis for such a fine, although the surrounding enforcement provisions support the same sanctioning power.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:40:20.481833Z"
+          }
+        },
+        {
+          "id": "4f10f3b5b521b897133c5578",
+          "passage_id": "p0232",
+          "english_quote": "neither the requested Digital Service Coordinator nor other competent authority or other public authority of that Member State is in possession of the requested information nor can have access to it;",
+          "title": "Mutual-assistance refusal depends on competence to request information",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 57(3)(b) permits refusal when the relevant authorities neither possess nor can access the information. Bulgarian instead requires absence of competence to request it. An authority empowered to request information but unable to obtain it could therefore lose this refusal ground.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "нито координаторът за цифровите услуги, нито друг компетентен орган или друг публичен орган на тази държава членка не разполага с исканата информация, нито е компетентен да я поиска;",
+              "translation": "neither the Digital Services Coordinator nor another competent authority or another public authority of that Member State possesses the requested information or is competent to request it;",
+              "explanation": "English Article 57(3)(b) permits refusal when the relevant authorities neither possess nor can access the information. Bulgarian instead requires absence of competence to request it. An authority empowered to request information but unable to obtain it could therefore lose this refusal ground.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:40:20.483319Z"
+          }
+        },
+        {
+          "id": "baf2f2ddbd4e66f7a822ef28",
+          "passage_id": "p0259",
+          "english_quote": "Prior to making such request to the Digital Services Coordinator, the Commission shall invite interested parties to submit written observations within a period that shall not be less than 14 working days, describing the measures it intends to request and identifying the intended addressee or addressees thereof.",
+          "title": "Consultation disclosure shifts from the Commission to interested parties",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 82(1) requires the Commission to describe its proposed measures and their intended addressees when inviting observations. Bulgarian assigns those actions to interested parties and refers to measures they intend to request. This could weaken advance disclosure by the Commission and change the required consultation responses.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Преди да отправи такова искане до координатора за цифровите услуги, Комисията приканва заинтересованите лица да представят писмени коментари в срок, не по-кратък от 14 работни дни, като опишат мерките, които възнамеряват да поискат, и посочат техния адресат или адресати.",
+              "translation": "Before making such a request to the Digital Services Coordinator, the Commission shall invite interested parties to submit written comments within a period of no less than 14 working days, with those parties describing the measures they intend to request and identifying their addressee or addressees.",
+              "explanation": "English Article 82(1) requires the Commission to describe its proposed measures and their intended addressees when inviting observations. Bulgarian assigns those actions to interested parties and refers to measures they intend to request. This could weaken advance disclosure by the Commission and change the required consultation responses.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:40:20.484738Z"
+          }
+        },
+        {
+          "id": "f9e88e9c1c908ed7d502a546",
+          "passage_id": "p0249",
+          "english_quote": "Such actions may include, imposing an obligation on the provider of the very large online platform or of the very large online search engine to retain all documents deemed to be necessary to assess the implementation of and compliance with the obligations under this Regulation.",
+          "title": "Document-retention orders may cover relevant rather than necessary documents",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 72(1) specifies documents deemed necessary for assessing compliance. Bulgarian specifies documents considered relevant to that assessment. This could permit retention orders covering a wider set of documents, although monitoring actions remain subject to the paragraph’s general necessity requirement.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Тези действия могат да включват налагането на задължение на доставчика на много голяма онлайн платформа или много голяма онлайн търсачка да съхранява всички документи, за които се счита, че са от значение за оценката на изпълнението и спазването на задълженията съгласно настоящия регламент.",
+              "translation": "These actions may include imposing an obligation on the provider of a very large online platform or very large online search engine to retain all documents considered relevant to assessing the implementation of and compliance with the obligations under this Regulation.",
+              "explanation": "English Article 72(1) specifies documents deemed necessary for assessing compliance. Bulgarian specifies documents considered relevant to that assessment. This could permit retention orders covering a wider set of documents, although monitoring actions remain subject to the paragraph’s general necessity requirement.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:40:20.489859Z"
+          }
+        },
+        {
+          "id": "2663374486795fc6d042fa08",
+          "passage_id": "p0137",
+          "english_quote": "The Digital Services Coordinator of destination, in particular on the basis of complaints received or of the input of other national competent authorities where appropriate, or the Board in case of issues involving at least three Member States, should be able to ask the Digital Services Coordinator of establishment to take investigatory or enforcement actions with regard to a provider under its competence.",
+          "title": "The Board’s independent role in requesting cross-border action",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English recital 128 identifies the Board as an independent requester of action where at least three Member States are involved. Bulgarian instead identifies it as a source of information for the destination Coordinator, potentially narrowing the recital’s support for independent Board requests.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Координаторът за цифровите услуги по местоназначение, по-специално на основата на получени жалби или на информация от други национални компетентни органи, когото е приложимо, или от Европейския съвет за цифровите услуги в случай на проблеми, засягащи най-малко три държави членки, следва да може да поиска от координатора за цифровите услуги по място на установяване да предприеме действия за разследване или осигуряване на спазването по отношение на доставчик, попадащ в обхвата на неговата компетентност.",
+              "translation": "The Digital Services Coordinator of destination, particularly on the basis of complaints received or information from other national competent authorities, where applicable, or from the European Board for Digital Services in the case of issues affecting at least three Member States, should be able to request the Digital Services Coordinator of establishment to take investigative or enforcement action concerning a provider falling within its competence.",
+              "explanation": "English recital 128 identifies the Board as an independent requester of action where at least three Member States are involved. Bulgarian instead identifies it as a source of information for the destination Coordinator, potentially narrowing the recital’s support for independent Board requests.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:58:36.992024Z"
+          }
+        },
+        {
+          "id": "9be128979d146e2d913bb72f",
+          "passage_id": "p0169",
+          "english_quote": "unless that activity is a minor and purely ancillary feature of another service or a minor functionality of the principal service",
+          "title": "Alternative criteria for the online-platform exception",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 3(i) requires a feature of another service to be both minor and purely ancillary. Bulgarian makes those characteristics alternatives, potentially excluding a substantial but purely ancillary feature from online-platform obligations, subject to the remaining conditions.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "освен ако тази дейност не е незначителна или изцяло спомагателна характеристика на друга услуга или незначителна функция на основната услуга",
+              "translation": "unless that activity is a minor or purely ancillary feature of another service or a minor functionality of the principal service",
+              "explanation": "English Article 3(i) requires a feature of another service to be both minor and purely ancillary. Bulgarian makes those characteristics alternatives, potentially excluding a substantial but purely ancillary feature from online-platform obligations, subject to the remaining conditions.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:58:36.967478Z"
+          }
+        },
+        {
+          "id": "ae0429ef0dd5bc15ad5f9a11",
+          "passage_id": "p0172",
+          "english_quote": "transmission in a communication network of information provided by a recipient of the service",
+          "title": "Direction of information provision under the caching exemption",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 5(1) concerns information supplied by a service recipient; Bulgarian concerns information supplied to one. This could change the transmissions eligible for the caching exemption, although the matching definition and liability recitals support the English reading in both languages.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "пренос в далекосъобщителна мрежа на информация, предоставена на получател на услугата",
+              "translation": "transmission in a telecommunications network of information provided to a recipient of the service",
+              "explanation": "English Article 5(1) concerns information supplied by a service recipient; Bulgarian concerns information supplied to one. This could change the transmissions eligible for the caching exemption, although the matching definition and liability recitals support the English reading in both languages.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:58:36.977905Z"
+          }
+        },
+        {
+          "id": "00c8c7bcf1368778785a686d",
+          "passage_id": "p0128",
+          "english_quote": "such orders should only be issued when powers to take such measures as provided by other acts of Union law or by national law, for instance to protect collective interests of consumers, to ensure the prompt removal of web pages containing or disseminating child pornography, or to disable access to services that are being used by a third party to infringe an intellectual property right, are not reasonably available.",
+          "title": "Availability of alternative powers before restricting access",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English recital 119 permits access-restriction orders only when alternative powers are not reasonably available. Bulgarian focuses on whether those powers can be used immediately, potentially permitting restriction despite an alternative being reasonably available after some delay.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "подобни заповеди следва да се издават само когато не е непосредствено възможно да се използват предвидените в други актове на правото на Съюза или в националното право правомощия за предприемане на такива мерки, например за защита на колективните интереси на потребителите, за гарантиране на бързото премахване на уебстраници, съдържащи или разпространяващи детска порнография, или за блокиране на достъпа до услуги, които се използват от трето лице за нарушаване на право върху интелектуалната собственост.",
+              "translation": "such orders should be issued only where it is not immediately possible to use the powers provided by other acts of Union law or by national law to take such measures, for example to protect consumers’ collective interests, to ensure the rapid removal of web pages containing or disseminating child pornography, or to block access to services that are used by a third party to infringe an intellectual property right.",
+              "explanation": "English recital 119 permits access-restriction orders only when alternative powers are not reasonably available. Bulgarian focuses on whether those powers can be used immediately, potentially permitting restriction despite an alternative being reasonably available after some delay.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:58:36.990756Z"
+          }
+        },
+        {
+          "id": "7fb2c159c9c70bfe00e9be27",
+          "passage_id": "p0187",
+          "english_quote": "1. Where a provider of hosting services becomes aware of any information giving rise to a suspicion that a criminal offence involving a threat to the life or safety of a person or persons has taken place, is taking place or is likely to take place, it shall promptly inform the law enforcement or judicial authorities of the Member State or Member States concerned of its suspicion and provide all relevant information available.",
+          "title": "Completed offences omitted from the notification trigger",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 18(1) expressly requires notification of suspected completed offences. Bulgarian lists ongoing and likely future offences only, potentially narrowing the duty when a provider discovers an offence after its completion. Bulgarian recital 56 and paragraph 2 support a broader interpretation.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "1. Когато доставчик на хостинг услуги се запознае с информация, пораждаща подозрение, че се извършва или има вероятност да се извърши престъпление, при което има заплаха за живота или безопасността на дадено лице или лица, той незабавно информира правоприлагащите или съдебните органи на съответната държава членка или държави членки за своето подозрение и предоставя цялата налична информация по въпроса.",
+              "translation": "1. Where a provider of hosting services becomes aware of information giving rise to a suspicion that a criminal offence involving a threat to the life or safety of a person or persons is being committed or is likely to be committed, it shall immediately inform the law enforcement or judicial authorities of the Member State or Member States concerned of its suspicion and provide all available information on the matter.",
+              "explanation": "English Article 18(1) expressly requires notification of suspected completed offences. Bulgarian lists ongoing and likely future offences only, potentially narrowing the duty when a provider discovers an offence after its completion. Bulgarian recital 56 and paragraph 2 support a broader interpretation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:58:36.984028Z"
+          }
+        },
+        {
+          "id": "59aca865e804320cb66354b9",
+          "passage_id": "p0185",
+          "english_quote": "3. Notices referred to in this Article shall be considered to give rise to actual knowledge or awareness for the purposes of Article 6 in respect of the specific item of information concerned where they allow a diligent provider of hosting services to identify the illegality of the relevant activity or information without a detailed legal examination.",
+          "title": "Attribution of knowledge from qualifying notices",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 16(3) treats a qualifying notice as giving rise to knowledge or awareness. Bulgarian treats it as enabling that knowledge, potentially allowing a provider to argue that awareness arose later. Bulgarian recital 53 strongly supports attributing knowledge upon a qualifying notice.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "3. Счита се, че уведомленията, посочени в настоящия член, позволяват действително узнаване или запознаване с информацията за целите на член 6 по отношение на съответната информация, когато те позволяват на добросъвестен доставчик на хостинг услуги да установи незаконосъобразността на съответната дейност или информация без подробна правна проверка.",
+              "translation": "3. The notices referred to in this Article are considered to enable actual knowledge or awareness of the information for the purposes of Article 6 in respect of the information concerned where they allow a conscientious provider of hosting services to establish the illegality of the relevant activity or information without a detailed legal examination.",
+              "explanation": "English Article 16(3) treats a qualifying notice as giving rise to knowledge or awareness. Bulgarian treats it as enabling that knowledge, potentially allowing a provider to argue that awareness arose later. Bulgarian recital 53 strongly supports attributing knowledge upon a qualifying notice.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:58:36.982736Z"
+          }
+        },
+        {
+          "id": "9d62c568140f5861d8eb1f0d",
+          "passage_id": "p0065",
+          "english_quote": "that recipient may have committed, may be committing or is likely to commit a criminal offence involving a threat to the life or safety of person or persons",
+          "title": "Additional seriousness qualification in reporting guidance",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Bulgarian recital 56 describes serious criminal offences, while English requires only an offence involving the specified threat. This could encourage a narrower interpretation of reporting circumstances, although Article 18 in both languages contains no separate seriousness threshold.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "този получател на услугата може да е извършил, да извършва или да има вероятност да извърши тежко престъпление, което застрашава живота или безопасността на лице или лица",
+              "translation": "that recipient of the service may have committed, may be committing or may be likely to commit a serious criminal offence that threatens the life or safety of a person or persons",
+              "explanation": "Bulgarian recital 56 describes serious criminal offences, while English requires only an offence involving the specified threat. This could encourage a narrower interpretation of reporting circumstances, although Article 18 in both languages contains no separate seriousness threshold.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:58:36.987883Z"
+          }
+        },
+        {
+          "id": "a90c13bcc0f22470c6628ff9",
+          "passage_id": "p0113",
+          "english_quote": "The refusal without proper explanations by a provider of an online platform or of an online search engine of the Commission’s invitation to participate in the application of such a code of conduct could be taken into account, where relevant, when determining whether the online platform or the online search engine has infringed the obligations laid down by this Regulation.",
+          "title": "Search engines covered by guidance on refusing a code of conduct",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English recital 104 allows an unexplained refusal by an online search engine to be considered in assessing compliance. Bulgarian restricts this statement to very large online search engines, potentially excluding smaller search engines from that assessment factor.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Когато Комисията приканва даден доставчик на онлайн платформа или много голяма онлайн търсачка да участва в прилагането на подобен кодекс за поведение и той откаже без съответното обяснение, това би могло да бъде взето предвид, когато е целесъобразно, за да се определи дали тази онлайн платформа или онлайн търсачка нарушава задълженията по настоящия регламент.",
+              "translation": "Where the Commission invites a provider of an online platform or a very large online search engine to participate in applying such a code of conduct and it refuses without an appropriate explanation, this could be taken into account, where appropriate, in determining whether that online platform or online search engine infringes the obligations under this Regulation.",
+              "explanation": "English recital 104 allows an unexplained refusal by an online search engine to be considered in assessing compliance. Bulgarian restricts this statement to very large online search engines, potentially excluding smaller search engines from that assessment factor.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T10:58:36.989139Z"
+          }
+        },
+        {
+          "id": "b59dd45ae12d73e23b8d24b6",
+          "passage_id": "p0231",
+          "english_quote": "Following the notification pursuant to this paragraph, other Member States shall not initiate proceedings for the same infringement as that referred to in the notification.",
+          "title": "Parallel-proceedings bar covers the same conduct rather than the same infringement",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 56(7) prohibits proceedings “for the same infringement as that referred to in the notification.” Danish prohibits proceedings “for samme adfærd som den, der er omhandlet i underretningen.” Danish could therefore also prevent another Member State from pursuing a different infringement arising from the same conduct, extending the procedural bar.",
+          "variants": [
+            {
+              "language": "da",
+              "language_name": "Danish",
+              "quote": "Efter underretningen i henhold til dette stykke må andre medlemsstaters kompetente myndigheder ikke indlede procedurer for samme adfærd som den, der er omhandlet i underretningen.",
+              "translation": "Following the notification pursuant to this paragraph, the competent authorities of other Member States may not initiate proceedings for the same conduct as that referred to in the notification.",
+              "explanation": "English Article 56(7) prohibits proceedings “for the same infringement as that referred to in the notification.” Danish prohibits proceedings “for samme adfærd som den, der er omhandlet i underretningen.” Danish could therefore also prevent another Member State from pursuing a different infringement arising from the same conduct, extending the procedural bar.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T11:50:34.224764Z"
+          }
+        },
+        {
+          "id": "fe4ab5b30d42e9d4981da424",
+          "passage_id": "p0211",
+          "english_quote": "the total number of recipients of the service reached and, where applicable, aggregate numbers broken down by Member State for the group or groups of recipients that the advertisement specifically targeted.",
+          "title": "Advertising audience count omits actual reach",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 39(2)(g) requires “the total number of recipients of the service reached”; Danish requires “det samlede antal tjenestemodtagere”. Danish could be read as requiring an overall recipient count rather than the number actually reached by the advertisement, changing the transparency information providers must disclose.",
+          "variants": [
+            {
+              "language": "da",
+              "language_name": "Danish",
+              "quote": "det samlede antal tjenestemodtagere og i givet fald det samlede antal opdelt efter medlemsstat for den eller de grupper af modtagere, som reklamen specifikt var rettet mod.",
+              "translation": "the total number of recipients of the service and, where applicable, the total number broken down by Member State for the group or groups of recipients at whom the advertisement was specifically directed.",
+              "explanation": "English Article 39(2)(g) requires “the total number of recipients of the service reached”; Danish requires “det samlede antal tjenestemodtagere”. Danish could be read as requiring an overall recipient count rather than the number actually reached by the advertisement, changing the transparency information providers must disclose.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T11:50:34.230935Z"
+          }
+        },
+        {
+          "id": "6f1f516fc618ec308e8dd04f",
+          "passage_id": "p0217",
+          "english_quote": "choice interfaces and presentation of information on the main parameters of different types of recommender systems, in accordance with Articles 27 and 38;",
+          "title": "Standards concern selecting interfaces rather than interfaces for user choice",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 44(1)(i) specifies “choice interfaces”; Danish specifies “valg af grænseflader”. The Commission’s obligation to support standards could consequently concern selecting interfaces instead of interfaces through which recipients exercise recommender-system choices.",
+          "variants": [
+            {
+              "language": "da",
+              "language_name": "Danish",
+              "quote": "valg af grænseflader og præsentation af oplysninger om de vigtigste parametre for forskellige typer anbefalingssystemer i overensstemmelse med artikel 27 og 38",
+              "translation": "choice of interfaces and presentation of information on the main parameters of different types of recommender systems in accordance with Articles 27 and 38",
+              "explanation": "English Article 44(1)(i) specifies “choice interfaces”; Danish specifies “valg af grænseflader”. The Commission’s obligation to support standards could consequently concern selecting interfaces instead of interfaces through which recipients exercise recommender-system choices.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T11:50:34.232492Z"
+          }
+        },
+        {
+          "id": "18dd4cd863b6dfcc22d10515",
+          "passage_id": "p0213",
+          "english_quote": "The head of the compliance function shall report directly to the management body of the provider of the very large online platform or of the very large online search engine",
+          "title": "Article 41(2): additional independence requirement for the management body",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Estonian describes the management body receiving compliance reports as independent of senior management. English requires direct reporting without that qualification. Estonian could therefore require additional separation between the management body and senior management.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Vastavuskontrolli funktsiooni juht annab aru otse väga suure digiplatvormi või väga suure internetipõhise otsingumootori pakkuja juhtorganile, kes on kõrgemast juhtkonnast sõltumatu",
+              "translation": "The head of the compliance function shall report directly to the management body of the provider of the very large online platform or of the very large online search engine, which is independent of senior management",
+              "explanation": "Estonian describes the management body receiving compliance reports as independent of senior management. English requires direct reporting without that qualification. Estonian could therefore require additional separation between the management body and senior management.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T12:56:09.684221Z"
+          }
+        },
+        {
+          "id": "07ec7b07799de4c25dcfc9cd",
+          "passage_id": "p0223",
+          "english_quote": "Member States shall make publicly available, and communicate to the Commission and the Board, the name of their competent authority designated as Digital Services Coordinator and information on how it can be contacted.",
+          "title": "Article 49(3): different recipient of coordinator-designation information",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires notification to the Commission and the European Board for Digital Services; Estonian names the Commission and the Council. This could redirect the designation-notification duty to a different institution.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Liikmesriigid teevad üldsusele kättesaadavaks ning edastavad komisjonile ja nõukogule oma selle pädeva asutuse nime, kes on määratud digiteenuste koordinaatoriks, ning teabe selle kohta, kuidas temaga ühendust võtta.",
+              "translation": "Member States shall make publicly available and communicate to the Commission and the Council the name of their competent authority designated as Digital Services Coordinator and information on how it can be contacted.",
+              "explanation": "English requires notification to the Commission and the European Board for Digital Services; Estonian names the Commission and the Council. This could redirect the designation-notification duty to a different institution.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T12:56:09.686317Z"
+          }
+        },
+        {
+          "id": "5651a148a628206ab817a80b",
+          "passage_id": "p0226",
+          "english_quote": "Member States shall ensure that the maximum amount of the fine that may be imposed for the supply of incorrect, incomplete or misleading information, failure to reply or rectify incorrect, incomplete or misleading information and failure to submit to an inspection shall be 1 % of the annual income or worldwide turnover of the provider of intermediary services or person concerned in the preceding financial year.",
+          "title": "Article 52(3): different non-response conduct covered by the 1 % fine ceiling",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes failure to answer an information request within the 1 % ceiling. Estonian instead describes failure to respond to defective information. Ordinary non-response could consequently fall outside that specific ceiling, affecting the applicable maximum fine.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Liikmesriigid tagavad, et ebaõige, mittetäieliku või eksitava teabe esitamise, ebaõigele, mittetäielikule või eksitavale teabele reageerimata või selle parandamata jätmise ning kontrollile mitteallumise eest määratava trahvi maksimumsumma on 1 % vahendusteenuste osutaja või asjaomase isiku eelneva majandusaasta aastasest sissetulekust või ülemaailmsest käibest.",
+              "translation": "Member States shall ensure that the maximum amount of the fine imposed for supplying incorrect, incomplete or misleading information, failing to respond to incorrect, incomplete or misleading information or to correct it, and failing to submit to an inspection is 1 % of the annual income or worldwide turnover of the provider of intermediary services or person concerned in the preceding financial year.",
+              "explanation": "English includes failure to answer an information request within the 1 % ceiling. Estonian instead describes failure to respond to defective information. Ordinary non-response could consequently fall outside that specific ceiling, affecting the applicable maximum fine.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T12:56:09.687806Z"
+          }
+        },
+        {
+          "id": "09a41efa3aa2459dc6ed91df",
+          "passage_id": "p0253",
+          "english_quote": "periodic penalty payments not exceeding 5 % of the average daily income or worldwide annual turnover in the preceding financial year per day, calculated from the date appointed by the decision",
+          "title": "Article 76(1): omission of the daily unit for Commission penalty payments",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly permits the stated maximum per day. Estonian omits that recurring unit. The maximum could consequently be read as limiting the overall payment, affecting the amount accumulated during continuing non-compliance.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "sunniraha, mille summa ei ületa 5 % eelmise majandusaasta keskmisest päevasest sissetulekust või ülemaailmsest aastasest käibest, arvestatuna otsuses määratud kuupäevast",
+              "translation": "a coercive penalty payment whose amount does not exceed 5 % of the average daily income or worldwide annual turnover in the preceding financial year, calculated from the date specified in the decision",
+              "explanation": "English expressly permits the stated maximum per day. Estonian omits that recurring unit. The maximum could consequently be read as limiting the overall payment, affecting the amount accumulated during continuing non-compliance.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T12:56:09.695104Z"
+          }
+        },
+        {
+          "id": "aa412b9bdc6565d86d85a270",
+          "passage_id": "p0254",
+          "english_quote": "Any action taken by the Commission or by the Digital Services Coordinator for the purpose of the investigation or proceedings in respect of an infringement shall interrupt the limitation period for the imposition of fines or periodic penalty payments.",
+          "title": "Article 77(3): narrower interruption grounds during existing proceedings",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English covers actions taken for proceedings generally, whereas Estonian refers to initiating proceedings. A non-investigative step after initiation could therefore interrupt the penalty limitation period under English but fall outside the Estonian formulation.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Komisjoni või digiteenuste koordinaatori võetud meetmed, mille eesmärk on rikkumist uurida või algatada selle suhtes menetlus, katkestavad trahvide või sunniraha määramise aegumistähtaja.",
+              "translation": "Measures taken by the Commission or the Digital Services Coordinator whose purpose is to investigate an infringement or initiate proceedings in respect of it shall interrupt the limitation period for imposing fines or coercive penalty payments.",
+              "explanation": "English covers actions taken for proceedings generally, whereas Estonian refers to initiating proceedings. A non-investigative step after initiation could therefore interrupt the penalty limitation period under English but fall outside the Estonian formulation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T12:56:09.696774Z"
+          }
+        },
+        {
+          "id": "ca414bc93e20a9e08448950c",
+          "passage_id": "p0212",
+          "english_quote": "12. Providers of very large online platforms or of very large online search engines shall give access without undue delay to data, including, where technically possible, to real-time data, provided that the data is publicly accessible in their online interface by researchers, including those affiliated to not for profit bodies, organisations and associations, who comply with the conditions set out in paragraph 8, points (b), (c), (d) and (e), and who use the data solely for performing research that contributes to the detection, identification and understanding of systemic risks in the Union pursuant to Article 34(1).",
+          "title": "Article 40(12): researcher-access conditions may apply only to nonprofit-affiliated researchers",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English applies the eligibility and research-purpose conditions to all researchers receiving access. Estonian places them in a separate clause about nonprofit-affiliated researchers. This could allow other researchers to claim access without meeting those conditions.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "12. Väga suurte digiplatvormide või väga suurte internetipõhiste otsingumootorite pakkujad annavad teadlastele põhjendamatu viivituseta andmetele ligipääsu, sealhulgas reaalajas andmetele, kui see on tehniliselt võimalik, eeldusel et need andmed on nende internetipõhises kasutajaliideses avalikult kättesaadavad; ligipääs antakse ka teadlastele, kes on seotud mittetulunduslike asutuste, organisatsioonide ja ühendustega, kes vastavad lõike 8 punktides b, c, d ja e sätestatud tingimustele ja kes kasutavad andmeid üksnes selliseks uurimistööks, mis aitab kaasa artikli 34 lõike 1 kohaselt liidus süsteemsete riskide avastamisele, tuvastamisele ja mõistmisele.",
+              "translation": "12. Providers of very large online platforms or of very large online search engines shall give researchers access to data without undue delay, including real-time data where technically possible, provided that those data are publicly accessible in their online interface; access shall also be given to researchers who are affiliated to not-for-profit bodies, organisations and associations, who meet the conditions laid down in paragraph 8, points b, c, d and e, and who use the data solely for research that contributes to the detection, identification and understanding of systemic risks in the Union pursuant to Article 34(1).",
+              "explanation": "English applies the eligibility and research-purpose conditions to all researchers receiving access. Estonian places them in a separate clause about nonprofit-affiliated researchers. This could allow other researchers to claim access without meeting those conditions.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T12:56:09.682212Z"
+          }
+        },
+        {
+          "id": "1cf8f248494586064bf486d1",
+          "passage_id": "p0226",
+          "english_quote": "4. Member States shall ensure that the maximum amount of a periodic penalty payment shall be 5 % of the average daily worldwide turnover or income of the provider of intermediary services concerned in the preceding financial year per day, calculated from the date specified in the decision concerned.",
+          "title": "Article 52(4): omission of the daily unit for the national penalty ceiling",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English makes the 5 % ceiling applicable per day. Estonian retains the daily financial base but omits the daily charging unit. This could produce a ceiling on the total payment rather than on each day's payment.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "4. Liikmesriigid tagavad, et sunniraha maksimumsumma on 5 % asjaomase vahendusteenuste osutaja eelneva majandusaasta keskmisest päevasest ülemaailmsest käibest või sissetulekust, arvutatuna asjaomases otsuses märgitud kuupäevast.",
+              "translation": "4. Member States shall ensure that the maximum amount of a coercive penalty payment is 5 % of the average daily worldwide turnover or income of the provider of intermediary services concerned in the preceding financial year, calculated from the date specified in the decision concerned.",
+              "explanation": "English makes the 5 % ceiling applicable per day. Estonian retains the daily financial base but omits the daily charging unit. This could produce a ceiling on the total payment rather than on each day's payment.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T12:56:09.691445Z"
+          }
+        },
+        {
+          "id": "abc8d193c14904ac62c8fa4b",
+          "passage_id": "p0255",
+          "english_quote": "2. Time shall begin to run on the day on which the decision becomes final.",
+          "title": "Article 78(2): different starting event for enforcement limitation",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English starts the five-year enforcement period when the decision becomes final. Estonian refers to the day the final decision is taken. If adoption precedes legal finality, the Estonian wording could start the period earlier.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "2. Aegumistähtaega arvestatakse arvates lõpliku otsuse tegemise päevast.",
+              "translation": "2. The limitation period shall be calculated from the day on which the final decision is taken.",
+              "explanation": "English starts the five-year enforcement period when the decision becomes final. Estonian refers to the day the final decision is taken. If adoption precedes legal finality, the Estonian wording could start the period earlier.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T12:56:09.698146Z"
+          }
         }
       ],
       "notes": [
@@ -22611,7 +23408,7 @@
         "This import explicitly uses the original Official Journal act. A later consolidated work (02022R2065-20221027) exists but is outside this review; later corrigenda or amendments may not be reflected.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared.",
-        "1 candidate(s) failed exact source-quotation validation and were excluded from publication; local audit records retain these candidates."
+        "2 candidate(s) failed exact source-quotation validation and were excluded from publication; local audit records retain these candidates."
       ],
       "impact_families": []
     }

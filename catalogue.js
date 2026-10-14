@@ -2,8 +2,8 @@
 import { catalogueLegislation } from './model.js';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
-  englishWordCount
-} from './catalogue-model.js';
+  englishWordCount, overallLanguageSummary
+} from './catalogue-model.js?v=2';
 import { node, append, button, prettyDate, plural } from './view.js';
 
 const $ = selector => document.querySelector(selector);
@@ -19,6 +19,63 @@ function readerLink(act, label, className, language, impact) {
   const link = node('a', className, label);
   link.href = readerHref(act, language, impact);
   return link;
+}
+
+function renderOverall(acts) {
+  const host = $('#catalogue-overall');
+  const summary = overallLanguageSummary(acts);
+  host.replaceChildren();
+  host.hidden = !summary.languages.length;
+  if (host.hidden) return;
+  const extremes = node('div', 'catalogue-overall-extremes');
+  for (const [label, languages] of [['Most', summary.most], ['Fewest', summary.fewest]]) {
+    const names = languages.slice(0, 2).map(language => language.name).join(' / ');
+    const extra = languages.length > 2 ? ` + ${number(languages.length - 2)} more` : '';
+    const count = `${number(languages[0].count)}${languages.length > 1 ? ' each' : ''}`;
+    const extreme = node('span', 'catalogue-overall-extreme');
+    extreme.setAttribute('aria-label', `${label} language findings: ${languages.map(language => language.name).join(', ')}; ${count}.`);
+    append(extreme, node('span', '', `${label}: `),
+      node('span', 'catalogue-overall-language', names + extra), node('strong', '', ` ${count}`));
+    append(extremes, extreme);
+  }
+  const panel = node('section', 'catalogue-overall-popover');
+  panel.id = 'catalogue-language-ranking';
+  panel.setAttribute('popover', 'auto');
+  panel.setAttribute('aria-labelledby', 'catalogue-language-ranking-title');
+  const title = node('h2', '', 'Overall by language');
+  title.id = 'catalogue-language-ranking-title';
+  const close = button('Close', 'catalogue-overall-close', () => panel.hidePopover());
+  append(panel, append(node('div', 'catalogue-overall-popover-heading'), title, close),
+    node('p', 'catalogue-overall-coverage',
+      `Same ${plural(summary.completedActs, 'completed review')} · ${plural(summary.languages.length, 'language')}`));
+  const list = node('ul', 'catalogue-overall-ranking');
+  for (const language of summary.languages) {
+    append(list, append(node('li'), node('span', '', language.name),
+      node('strong', '', number(language.count))));
+  }
+  append(panel, list, node('p', 'catalogue-overall-note',
+    `Published finding records per language. Languages unavailable in any included act are excluded.${summary.excludedActs ? ` ${plural(summary.excludedActs, 'other act')} excluded because review is unfinished.` : ''}`));
+  const compare = button('Compare languages ▾', 'catalogue-overall-compare');
+  compare.setAttribute('popovertarget', panel.id);
+  compare.setAttribute('aria-controls', panel.id);
+  compare.setAttribute('aria-expanded', 'false');
+  function positionPanel() {
+    if (!panel.matches(':popover-open')) return;
+    const anchor = compare.getBoundingClientRect();
+    const bounds = panel.getBoundingClientRect();
+    const width = document.documentElement.clientWidth;
+    const height = document.documentElement.clientHeight;
+    panel.style.left = `${Math.max(12, Math.min(anchor.right - bounds.width, width - bounds.width - 12))}px`;
+    panel.style.top = `${anchor.bottom + 8 + bounds.height <= height - 12
+      ? anchor.bottom + 8 : Math.max(12, anchor.top - bounds.height - 8)}px`;
+  }
+  panel.addEventListener('toggle', event => {
+    compare.setAttribute('aria-expanded', String(event.newState === 'open'));
+    if (event.newState === 'open') positionPanel();
+  });
+  window.addEventListener('resize', positionPanel);
+  append(host, extremes, append(node('div', 'catalogue-overall-scope'),
+    node('span', '', `Overall · ${plural(summary.completedActs, 'completed review')}`), compare), panel);
 }
 
 function languageDetails(act, summary) {
@@ -46,6 +103,24 @@ function reviewStatus(act, summary) {
   const state = summary.fullyReviewed ? 'complete' : act.status === 'complete' ? 'partial' : act.status;
   status.classList.add(`catalogue-status-${state}`);
   return status;
+}
+
+function completionBadges(act, summary) {
+  const row = node('div', 'catalogue-status-row');
+  row.setAttribute('aria-label', 'Review and impact assessment status');
+  const coverage = summary.impactAssessment;
+  const status = node('span', `catalogue-status catalogue-status-${coverage.state}`, coverage.label);
+  let detail = coverage.total
+    ? `${number(coverage.count)} of ${number(coverage.total)} currently published findings have an impact assessment.`
+    : summary.fullyReviewed
+      ? 'There are no published findings to assess.'
+      : 'Impact assessment is pending until reviewed findings are available.';
+  if (summary.reviewingCount) {
+    detail += ` ${plural(summary.reviewingCount, 'impact issue')} ${summary.reviewingCount === 1 ? 'remains' : 'remain'} under review without an assigned rating.`;
+  }
+  status.title = detail;
+  status.setAttribute('aria-label', `${coverage.label}. ${detail}`);
+  return append(row, reviewStatus(act, summary), status);
 }
 
 function renderImpactDistribution(act, summary) {
@@ -94,7 +169,7 @@ function renderAct(act, { hasRatings = false } = {}) {
   if (summary.count) {
     const count = node('p', 'catalogue-finding-count');
     append(count, node('strong', '', number(summary.count)), node('span', '', 'language findings'));
-    append(top, count, reviewStatus(act, summary));
+    append(top, count);
     let impactNotice = null;
     if (summary.assessedCount) impactNotice = renderImpactDistribution(act, summary);
     else if (summary.reviewingCount) {
@@ -103,10 +178,10 @@ function renderAct(act, { hasRatings = false } = {}) {
       impactNotice.href += '&view=impact';
     } else if (hasRatings) impactNotice = readerLink(act, 'No impact rating yet',
       'catalogue-unassessed', null, 'unrated');
-    append(facts, top, impactNotice, languageDetails(act, summary));
+    append(facts, top, completionBadges(act, summary), impactNotice, languageDetails(act, summary));
   } else {
-    append(top, node('p', 'catalogue-no-findings', 'No published findings yet'), reviewStatus(act, summary));
-    append(facts, top);
+    append(top, node('p', 'catalogue-no-findings', 'No published findings yet'));
+    append(facts, top, completionBadges(act, summary));
   }
   append(facts, readerLink(act,
     summary.count ? 'View findings →' : 'Read source text →', 'catalogue-read-link'));
@@ -122,6 +197,7 @@ async function loadCatalogue() {
     const catalogue = await response.json();
     const acts = catalogueLegislation(catalogue);
     const summary = catalogueSummary(acts);
+    renderOverall(acts);
     $('#catalogue-total').textContent = `${plural(summary.acts, 'act')} · ${number(summary.findings)} language findings · ${plural(summary.complete, 'complete review')}`;
     $('#catalogue-date').textContent = catalogue.generated_at ? `Snapshot ${prettyDate(catalogue.generated_at)}` : '';
     $('#catalogue-impact-note').textContent = summary.impact
@@ -134,6 +210,7 @@ async function loadCatalogue() {
       node('h2', '', 'No legislation yet'),
       node('p', '', 'Source texts and reviewed findings will appear here when available.')));
   } catch {
+    $('#catalogue-overall').hidden = true;
     $('#catalogue-total').textContent = 'Collection unavailable';
     $('#catalogue-date').textContent = '';
     list.replaceChildren(append(node('div', 'catalogue-empty'),

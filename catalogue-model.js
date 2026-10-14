@@ -74,6 +74,25 @@ export function impactDistribution(act) {
   return findingImpactDistribution(publicFindings(act), impactFamilies(act));
 }
 
+/** Assessment coverage includes explicit needs-review decisions, independently of ratings. */
+function impactAssessmentSummary(findings, families, fullyReviewed) {
+  const assignments = new Map();
+  for (const family of families) {
+    for (const id of new Set(family.finding_ids)) {
+      assignments.set(id, (assignments.get(id) || 0) + 1);
+    }
+  }
+  const count = findings.filter(finding => assignments.get(finding.id) === 1).length;
+  const total = findings.length;
+  const state = total && count === total ? 'complete' : count ? 'partial' :
+    !total && fullyReviewed ? 'not-needed' : 'pending';
+  const label = {
+    complete: 'Impact assessed', partial: 'Impact partial',
+    pending: 'Impact pending', 'not-needed': 'No findings to assess'
+  }[state];
+  return { count, total, state, label };
+}
+
 export function actSummary(act) {
   const findings = publicFindings(act);
   const families = impactFamilies(act);
@@ -123,6 +142,7 @@ export function actSummary(act) {
     distribution,
     impactCount: families.length,
     reviewingCount,
+    impactAssessment: impactAssessmentSummary(findings, families, fullyReviewed),
     assessedCount,
     unassessedCount: findings.length - assessedCount
   };
@@ -137,6 +157,32 @@ export function catalogueSummary(acts) {
     summary.impact += current.impactCount;
     return summary;
   }, { acts: 0, findings: 0, complete: 0, impact: 0 });
+}
+
+/** Compare the same completed acts and available target languages, including zero findings. */
+export function overallLanguageSummary(acts) {
+  const completed = acts.filter(act => actSummary(act).fullyReviewed);
+  const targets = completed.map(act => new Map((act.languages || [])
+    .filter(language => language.code !== 'en' && !language.coverage_incomplete)
+    .map(language => [language.code, language.name || language.code.toUpperCase()])));
+  const common = [...(targets[0] || new Map()).keys()]
+    .filter(code => targets.every(languages => languages.has(code)));
+  const languages = common.map(code => ({ code, name: targets[0].get(code), count: 0 }));
+  const byCode = new Map(languages.map(language => [language.code, language]));
+  for (const act of completed) {
+    for (const language of substantialLanguageIndex(act)) {
+      const total = byCode.get(language.code);
+      if (total) total.count += language.count;
+    }
+  }
+  languages.sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+  return {
+    completedActs: completed.length,
+    excludedActs: acts.length - completed.length,
+    languages,
+    most: languages.filter(language => language.count === languages[0]?.count),
+    fewest: languages.filter(language => language.count === languages.at(-1)?.count)
+  };
 }
 
 export function orderedActs(acts) {

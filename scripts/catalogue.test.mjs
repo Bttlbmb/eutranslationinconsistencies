@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
-  impactDistribution
+  impactDistribution, overallLanguageSummary
 } from '../catalogue-model.js';
 
 // Synthetic evidence is confined to tests and never enters the public catalogue.
@@ -53,6 +53,52 @@ test('missing impact assessments remain unpublished rather than limited-impact f
   assert.equal(summary.impactCount, 0);
   assert.equal(summary.impact.limited, 0);
   assert.equal(summary.unassessedCount, 2);
+});
+
+test('complete assessment coverage includes unranked decisions and grouped finding records', () => {
+  const summary = actSummary({ ...act, findings: [...act.findings, finding('c')], impact_families: [
+    { id: 'rated', title: 'Synthetic issue', effect: 'Synthetic effect',
+      review_state: 'provisional', impact_level: 'moderate', finding_ids: ['a', 'b'] },
+    { id: 'unranked', title: 'Synthetic issue', effect: 'Unresolved synthetic effect',
+      review_state: 'needs_review', impact_level: null, finding_ids: ['c'] }
+  ] });
+  assert.deepEqual(summary.impactAssessment, {
+    count: 3, total: 3, state: 'complete', label: 'Impact assessed'
+  });
+  assert.equal(summary.assessedCount, 2);
+  assert.equal(summary.unassessedCount, 1);
+  assert.equal(summary.reviewingCount, 1);
+  assert.equal(summary.fullyReviewed, false);
+});
+
+test('assessment badges retain partial and pending coverage when finding records are missing', () => {
+  assert.deepEqual(actSummary(act).impactAssessment, {
+    count: 0, total: 2, state: 'pending', label: 'Impact pending'
+  });
+  const family = { id: 'issue', title: 'Synthetic issue', effect: 'Synthetic effect',
+    review_state: 'needs_review', impact_level: null, finding_ids: ['a'] };
+  assert.deepEqual(actSummary({ ...act, impact_families: [family] }).impactAssessment, {
+    count: 1, total: 2, state: 'partial', label: 'Impact partial'
+  });
+});
+
+test('empty findings never imply completed assessment work', () => {
+  assert.deepEqual(actSummary({ ...act, findings: [] }).impactAssessment, {
+    count: 0, total: 0, state: 'pending', label: 'Impact pending'
+  });
+  const complete = { ...act, findings: [], status: 'complete',
+    coverage: { reviewed_units: 10, total_units: 10, reviewed_languages: 2, total_languages: 2 } };
+  assert.deepEqual(actSummary(complete).impactAssessment, {
+    count: 0, total: 0, state: 'not-needed', label: 'No findings to assess'
+  });
+});
+
+test('ambiguous assessment membership cannot claim complete coverage', () => {
+  const family = { title: 'Synthetic issue', effect: 'Synthetic effect',
+    review_state: 'confirmed', impact_level: 'high', finding_ids: ['a', 'b'] };
+  assert.deepEqual(actSummary({ ...act, impact_families: [
+    { ...family, id: 'one' }, { ...family, id: 'two', finding_ids: ['a'] }
+  ] }).impactAssessment, { count: 1, total: 2, state: 'partial', label: 'Impact partial' });
 });
 
 test('impact shares count original records across issues, including unassessed records', () => {
@@ -120,6 +166,57 @@ test('catalogue totals include all acts and only reconciled complete reviews', (
   const pending = { ...act, id: 'pending', status: 'imported', findings: [] };
   assert.deepEqual(catalogueSummary([act, pending]), { acts: 2, findings: 2, complete: 0, impact: 0 });
   assert.deepEqual(catalogueSummary([]), { acts: 0, findings: 0, complete: 0, impact: 0 });
+});
+
+const completeAct = (id, codes, findings = []) => ({
+  ...act, id, status: 'complete', findings,
+  languages: [{ code: 'en', name: 'English' }, ...codes.map(code => ({ code,
+    name: { de: 'German', fr: 'French', es: 'Spanish' }[code] }))],
+  coverage: { reviewed_units: codes.length, total_units: codes.length,
+    reviewed_languages: codes.length + 1, total_languages: codes.length + 1,
+    reviewed_language_codes: codes }
+});
+
+test('overall counts retain zero findings and exclude unfinished reviews and repeated variant labels', () => {
+  const first = completeAct('one', ['de', 'fr', 'es'], [finding('a', [
+    { language: 'de', language_name: 'German' }, { language: 'de', language_name: 'German' },
+    { language: 'fr', language_name: 'French' }
+  ])]);
+  const second = completeAct('two', ['de', 'fr', 'es'], [finding('b'), finding('c')]);
+  const incomplete = { ...first, id: 'unfinished', coverage: act.coverage,
+    findings: [finding('d', [{ language: 'es', language_name: 'Spanish' }])] };
+  const summary = overallLanguageSummary([first, second, incomplete]);
+  assert.equal(summary.completedActs, 2);
+  assert.equal(summary.excludedActs, 1);
+  assert.deepEqual(summary.languages, [
+    { code: 'de', name: 'German', count: 3 }, { code: 'fr', name: 'French', count: 1 },
+    { code: 'es', name: 'Spanish', count: 0 }
+  ]);
+  assert.deepEqual(summary.most.map(language => language.code), ['de']);
+  assert.deepEqual(summary.fewest.map(language => language.code), ['es']);
+});
+
+test('overall extremes keep every tie and restrict languages to the same completed corpus', () => {
+  const first = completeAct('one', ['de', 'fr', 'es'], [finding('a', [
+    { language: 'de', language_name: 'German' }, { language: 'fr', language_name: 'French' }
+  ])]);
+  const second = completeAct('two', ['de', 'fr']);
+  const summary = overallLanguageSummary([first, second]);
+  assert.deepEqual(summary.languages.map(language => language.code), ['fr', 'de']);
+  assert.equal(summary.most.length, 2);
+  assert.equal(summary.fewest.length, 2);
+  assert.ok(summary.most.every(language => language.count === 1));
+  assert.deepEqual(first.languages.map(language => language.code), ['en', 'de', 'fr', 'es']);
+});
+
+test('overall summary never infers language ranks from incomplete or absent review coverage', () => {
+  for (const acts of [[], [act], [{ ...act, status: 'complete', coverage: {} }]]) {
+    const summary = overallLanguageSummary(acts);
+    assert.equal(summary.completedActs, 0);
+    assert.deepEqual(summary.languages, []);
+    assert.deepEqual(summary.most, []);
+    assert.deepEqual(summary.fewest, []);
+  }
 });
 
 test('catalogue ordering preserves every new act and does not mutate the snapshot', () => {
