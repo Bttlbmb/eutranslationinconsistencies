@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T07:28:49.075005Z",
+  "generated_at": "2026-10-14T07:35:48.093362Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4828,6 +4828,22 @@
           ]
         },
         {
+          "id": "impact-f45b236be036c638fecd7b0e",
+          "title": "Teaching appointments outside schools",
+          "legal_anchor": "Directive 2000/78/EC, Article 15(2), read with Articles 2, 4(1)–(2) and 7(1).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An adult-education institution in Northern Ireland, outside the narrower school category, recruits a teacher under an expressly authorised religious-community balancing arrangement. If 'εκπαιδευτικά ιδρύματα' includes that institution, the broader reading grants Article 15(2) non-application where a school-only reading does not.",
+          "rationale": "The conditional change is the inclusion of additional teaching appointments within a statutory exclusion. Article 2's definitions do not narrow the institutional expression or supply an alternative school boundary. The effect is moderate for an identifiable additional group, without requiring a finding that its recruitment practices violate another rule.\nCounterreading: An educational institution can itself be a school, so the Greek expression need not enlarge the exception. French, German and English expressly connect teacher recruitment with schools. Their wording, read with the common purpose and equal authority of all versions, favours a shared school-sector meaning, although the quoted text does not define the precise institutional boundary.",
+          "uncertainty": "No particular institution or national authorisation is established. The example assumes an institution genuinely outside the narrower school category and a post qualifying as teacher recruitment; neither every educational institution nor every employee necessarily qualifies. A genuine and determining occupational requirement under Article 4, including an applicable religious-ethos rule under Article 4(2), or qualifying positive action under Article 7 may independently affect lawfulness. Neither follows from Article 15 eligibility or legislative authorisation alone.\nUnresolved: The hypothetical fixes the institutional boundary needed for the conditional comparison. Classification of an actual institution would require further facts and legal context. Article 2(5) may independently protect a necessary statutory measure, but does not determine eligibility under Article 15(2).",
+          "assessed_at": "2026-10-14T07:35:29.303812Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "71855fadf874c00ef91c51ff"
+          ]
+        },
+        {
           "id": "impact-aac68088dbe9cf0effba236e",
           "title": "Express protection after termination is limited to employment relationships",
           "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its general-access guarantee; Article 9(3); Article 2.",
@@ -4841,6 +4857,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "040d646aa6e3d0dd904d8880"
+          ]
+        },
+        {
+          "id": "impact-58ca00c2cf09164e89a8b153",
+          "title": "Teacher recruitment exemption boundaries",
+          "legal_anchor": "Directive 2000/78/EC, Article 15(2), read with Articles 2, 4(1)–(2) and 7(1).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "First, legislation genuinely permits by implication a community-balancing exclusion for teacher recruitment at a Northern Ireland school, without express authorisation. Second, legislation expressly authorises such an exclusion for recruiting a teacher at an educational institution genuinely outside the narrower school category. The broader Estonian reading grants Article 15(2) eligibility in each scenario through a different boundary change.",
+          "rationale": "The first scenario isolates the authorisation threshold while keeping the institution a school. The second isolates institutional reach while satisfying express authorisation. Either supported broader reading changes the application of the religion-or-belief provisions for an identifiable group. Their combination does not establish a wider scale or consequence sufficient for a high assessment.\nCounterreading: Finnish, French and English expressly retain both schools and express authorisation. The common purpose and those equally authoritative formulations support understanding the Estonian clause as subject to both boundaries. 'Õpetajate' may also carry a school-focused meaning in context. The multilingual reading therefore favours harmonisation, although the operative wording does not conclusively define the institutional boundary.",
+          "uncertainty": "Neither an actual legislative permission nor an affected appointment is established. Implied permission must derive from legislation rather than silence. For the second scenario, the recruit must qualify as a teacher and the institution must genuinely lie outside the narrower school category. A genuine and determining occupational requirement under Article 4, including an applicable religious-ethos rule under Article 4(2), or qualifying positive action under Article 7 may independently affect lawfulness. Neither follows from Article 15 eligibility or legislative authorisation alone.\nUnresolved: Article 2's definitions do not supply either disputed boundary. Article 2(5) could separately protect necessary statutory measures, but permission alone does not establish necessity. Final liability under other provisions or national law remains open; neither conditional Article 15(2) eligibility comparison requires that liability to be established.",
+          "assessed_at": "2026-10-14T07:35:29.303510Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "e14d901a28d1d8d3293677ae"
           ]
         },
         {
@@ -5036,6 +5068,22 @@
           ]
         },
         {
+          "id": "impact-b613bcf51bc009beba8c4c6d",
+          "title": "Reversed police authorisation condition",
+          "legal_anchor": "Directive 2000/78/EC, Article 15(1), read with Articles 2, 4(1) and 7(1).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Northern Ireland police recruitment gives a preference to an underrepresented major religious community, without express legislative authorisation. The literal Hungarian exception would give that treatment Article 15(1)'s non-discrimination protection; the authorisation-dependent reading would withhold it.",
+          "rationale": "The phrase 'kivéve akkor, ha' introduces an exception where the other cited versions impose a prerequisite. Assuming that reversal prevails, access to Article 15(1)'s statutory protection changes for an identifiable recruitment category. Conversely, expressly authorised treatment loses this particular protection, but does not automatically become discriminatory.\nCounterreading: Hungarian paragraph 2 makes express authorisation a positive condition. The corrective purpose and the express conditions in the equally authoritative French, German and English versions support the same structure in paragraph 1. That coherent reading is substantially stronger in multilingual context than an exemption triggered by the absence of authorisation.",
+          "uncertainty": "The recruitment arrangement is hypothetical. Article 2's definition of direct discrimination still requires less favourable treatment on a protected ground in a comparable situation; loss of the Article 15(1) protection alone does not establish those elements or final liability. Qualifying positive action under Article 7 may independently support a measure addressing underrepresentation. Article 4(1) would require distinct evidence of a genuine and determining occupational requirement; community balancing alone does not prove one.\nUnresolved: Article 2(2)(b)(i) concerns objectively justified indirect discrimination and does not automatically resolve an expressly religion-based preference. Article 2(5) separately requires necessary statutory measures. Neither prevents the conditional change in Article 15(1) eligibility; ultimate legality under other provisions and national law remains undetermined.",
+          "assessed_at": "2026-10-14T07:35:29.303888Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "4487d4cee5ab53bb6e1f96c9"
+          ]
+        },
+        {
           "id": "impact-a7df7f036a10781a7f84107f",
           "title": "Care and maintenance responsibilities",
           "legal_anchor": "Directive 2000/78/EC, Article 6(1), including Article 6(1)(a), read with Article 2(2).",
@@ -5097,6 +5145,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "14e2c26c4c5aab2faa67fa31"
+          ]
+        },
+        {
+          "id": "impact-e1258af6d6be1cb2e4ad9e48",
+          "title": "Implied police recruitment permission",
+          "legal_anchor": "Directive 2000/78/EC, Article 15(1), read with Articles 2, 4(1) and 7(1).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "National legislation genuinely permits by implication a Northern Ireland police recruitment preference addressing a major religious community's underrepresentation, without expressly authorising that preference. If implied permission satisfies the Estonian condition, Article 15(1) protects the preference; an express-permission requirement does not.",
+          "rationale": "Estonian requires permission by national legislation but contains no separate expressness requirement. Assuming that wording admits implied permission, the same recruitment measure gains a statutory declaration of non-discrimination. This is a moderate eligibility change for a defined recruitment group, without establishing the measure's final legality.\nCounterreading: Permission 'by national legislation' can itself demand a sufficiently specific legislative basis. Finnish, French and English expressly require authorisation, supporting that narrower understanding when all versions are read together. Bulgarian also lacks a separate expressness term and refers to legislative regulation, illustrating why lexical omission alone does not establish permission by implication. The broader interpretation remains possible but is less persuasive in context.",
+          "uncertainty": "No national provision establishing implied permission is identified. Mere silence, absence of prohibition or employer discretion does not necessarily amount to permission by legislation. Qualifying positive action under Article 7 may independently support a measure addressing underrepresentation. Article 4(1) would require distinct evidence of a genuine and determining occupational requirement; community balancing alone does not prove one.\nUnresolved: Article 2(2)(b)(i) addresses justified indirect discrimination and does not automatically protect a religion-based preference. Article 2(5) requires necessity beyond legislative permission. Other provisions may affect final liability, but do not prevent the conditional change in Article 15(1) eligibility.",
+          "assessed_at": "2026-10-14T07:35:29.303655Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "8a8a3c3fe57542d8484d1d1a"
           ]
         },
         {
@@ -5308,6 +5372,22 @@
           ]
         },
         {
+          "id": "impact-3814399e18783ad781b02228",
+          "title": "School employment beyond recruitment",
+          "legal_anchor": "Directive 2000/78/EC, Article 15(2), read with Articles 2, 4(1)–(2) and 7(1).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "National legislation expressly authorises a religion-based teacher-promotion arrangement in Northern Ireland schools serving the stated employment-balance and reconciliation purpose. If the Danish school-wide reading prevails, Article 15(2) excludes those promotions from the religion-or-belief provisions; a recruitment-only reading does not.",
+          "rationale": "The changed outcome is eligibility for statutory non-application, independently of whether a particular promotion decision is unlawful. Article 2's discrimination definitions do not restore provisions excluded by Article 15(2). This supports a moderate effect for an identifiable employment group under one exception; the text does not establish the wider practical reach needed for a higher assessment.\nCounterreading: The Danish purpose remains teacher-specific, and paragraph 1 expressly addresses recruitment. French, German and English paragraph 2 expressly link the exception to recruiting teachers in schools. Reading these equally authoritative formulations together strongly favours treating the Danish reference to schools as confined to teacher recruitment. The broader reading is therefore less persuasive in multilingual context.",
+          "uncertainty": "No actual national authorisation or promotion arrangement is established. The exclusion concerns religion or belief, and does not establish compliance with national law or remove protection concerning other grounds. A genuine and determining occupational requirement under Article 4, including an applicable religious-ethos rule under Article 4(2), or qualifying positive action under Article 7 may independently affect lawfulness. Neither follows from Article 15 eligibility or legislative authorisation alone.\nUnresolved: Article 2(5) could independently protect a necessary statutory measure, but authorisation alone does not establish necessity. The conditional Article 15(2) eligibility change does not depend on resolving the measure’s lawfulness under Articles 2, 4, 7 and national law.",
+          "assessed_at": "2026-10-14T07:35:29.303963Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "076a69c833b49329653214d8"
+          ]
+        },
+        {
           "id": "impact-8470820bd43001e24e981b02",
           "title": "Post-relationship procedural guarantee specifies employment",
           "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its all-persons guarantee; Article 9(3); Article 2.",
@@ -5417,6 +5497,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "4d48ab5def7cf6ae19f65cab"
+          ]
+        },
+        {
+          "id": "impact-f63e80dd3fba0f5ce498c967",
+          "title": "Teacher exclusion under legislative silence",
+          "legal_anchor": "Directive 2000/78/EC, Article 15(2), read with Articles 2, 4(1)–(2) and 7(1).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A Northern Ireland school recruits teachers through a religious-community balancing arrangement serving the stated purpose, while national legislation is silent on authorising the exclusion. A literal 'unless' reading leaves the religion-or-belief provisions inapplicable; an express-authorisation prerequisite leaves Article 15(2) unavailable.",
+          "rationale": "The ordinary meaning of 'chyba że' reverses the conditional structure. Legislative silence provides a concrete comparison that does not require resolving what the pronoun 'to' refers to when permission is actually given. The resulting difference in statutory coverage supports moderate impact.\nCounterreading: Polish paragraph 1 uses 'o ile' to make express legislative permission a prerequisite for the parallel police exception. That structure, the common purpose, and the conditions in equally authoritative French, German and English paragraph 2 strongly favour construing the teacher exception as requiring authorisation. The literal reversal is less persuasive in multilingual context.",
+          "uncertainty": "No actual recruitment arrangement or legislative silence is established. The pronoun's referent complicates the express-permission branch. Reapplication of the Directive would require assessment under its substantive rules and would not automatically establish discrimination. A genuine and determining occupational requirement under Article 4, including an applicable religious-ethos rule under Article 4(2), or qualifying positive action under Article 7 may independently affect lawfulness. Neither follows from Article 15 eligibility or legislative authorisation alone.\nUnresolved: Article 2(2)(b)(i) can justify certain indirect differences but does not determine Article 15(2) coverage. Article 2(5) requires necessary measures laid down by national law; legislative silence alone cannot establish that protection. No further dependency prevents the stated conditional coverage change.",
+          "assessed_at": "2026-10-14T07:35:29.303736Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "80274f6ff7d2337278373fd2"
           ]
         },
         {
@@ -9541,7 +9637,7 @@
       "version": "2025-08-20",
       "version_label": "Consolidated text",
       "retrieved_at": "2026-10-14T07:28:02.313588+00:00",
-      "status": "imported",
+      "status": "partial",
       "subject": "",
       "languages": [
         {
@@ -9762,10 +9858,12 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 110,
-        "reviewed_units": 0,
+        "reviewed_units": 5,
         "total_languages": 23,
-        "reviewed_languages": 0,
-        "reviewed_language_codes": []
+        "reviewed_languages": 2,
+        "reviewed_language_codes": [
+          "fr"
+        ]
       },
       "passages": [
         {
@@ -9799,7 +9897,148 @@
           "source_id": "anx_1"
         }
       ],
-      "findings": [],
+      "findings": [
+        {
+          "id": "22a63fdd4f3565a4850b30ef",
+          "passage_id": "p0005",
+          "english_quote": "with instructions to the target population to consume with each lactose containing meal.",
+          "title": "French lactase instructions refer to each lactose-containing product",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "French ties the required lactase advice to every lactose-containing product, potentially including consumption outside meals. English ties it to each lactose-containing meal. This could change the required consumption instructions, although neither wording clearly requires separate doses for products eaten together.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "la population cible devant être invitée à en consommer avec chaque produit contenant du lactose.",
+              "translation": "the target population must be advised to consume them with each product containing lactose.",
+              "explanation": "French ties the required lactase advice to every lactose-containing product, potentially including consumption outside meals. English ties it to each lactose-containing meal. This could change the required consumption instructions, although neither wording clearly requires separate doses for products eaten together.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:35:30.651516Z"
+          }
+        },
+        {
+          "id": "9abf08ca4d93ff488711ef23",
+          "passage_id": "p0005",
+          "english_quote": "in amounts such that consumption of such foods or drinks does not lower plaque pH below 5.7 during and up to 30 minutes after consumption",
+          "title": "French sugar-replacer conditions omit the pH requirement during consumption",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires the 5.7 pH threshold during consumption and for the following 30 minutes. French expressly covers only the following 30 minutes, potentially allowing the dental claim for a product that causes a temporary drop during consumption.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "dans une proportion telle que la consommation des denrées alimentaires ou boissons n’abaisse pas le pH de la plaque dentaire sous 5,7 dans les 30 minutes après la consommation de celles-ci.",
+              "translation": "in a proportion such that consumption of the foods or drinks does not lower dental plaque pH below 5.7 within the 30 minutes after their consumption.",
+              "explanation": "English requires the 5.7 pH threshold during consumption and for the following 30 minutes. French expressly covers only the following 30 minutes, potentially allowing the dental claim for a product that causes a temporary drop during consumption.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:35:30.653401Z"
+          }
+        },
+        {
+          "id": "a6225ba5a43b8d1d51203a97",
+          "passage_id": "p0005",
+          "english_quote": "Warning of choking to be given for people with swallowing difficulties or when ingesting with inadequate fluid intake — advice on taking with plenty of water to ensure substance reaches stomach.",
+          "title": "French choking warnings describe unsuitable fluid rather than insufficient intake",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For both glucomannan claims, guar gum, both HPMC claims and both pectin claims, English expressly requires warning about inadequate fluid intake. French instead describes an unsuitable fluid. Labels could therefore communicate different choking risks, despite both versions advising plenty of water.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "Avertissement quant au risque de suffocation en cas de difficultés de déglutition ou en cas d’ingestion avec un fluide inadéquat — consommation avec beaucoup d’eau conseillée pour garantir l’ingestion de la substance jusqu’à l’estomac.",
+              "translation": "Warning about the risk of choking in cases of swallowing difficulties or ingestion with an unsuitable fluid — consumption with plenty of water is advised to ensure that the substance reaches the stomach.",
+              "explanation": "For both glucomannan claims, guar gum, both HPMC claims and both pectin claims, English expressly requires warning about inadequate fluid intake. French instead describes an unsuitable fluid. Labels could therefore communicate different choking risks, despite both versions advising plenty of water.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:35:30.654049Z"
+          }
+        },
+        {
+          "id": "7ea8609f12a438c617550dfe",
+          "passage_id": "p0005",
+          "english_quote": "Melatonin contributes to the alleviation of subjective feelings of jet lag",
+          "title": "French melatonin jet-lag claim omits the subjective-feelings limitation",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English confines the permitted benefit to subjective feelings of jet lag. French refers generally to its effects, potentially supporting broader claims about physiological effects beyond perceived symptoms.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "La mélatonine contribue à atténuer les effets du décalage horaire",
+              "translation": "Melatonin contributes to alleviating the effects of jet lag",
+              "explanation": "English confines the permitted benefit to subjective feelings of jet lag. French refers generally to its effects, potentially supporting broader claims about physiological effects beyond perceived symptoms.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:35:30.654626Z"
+          }
+        },
+        {
+          "id": "0b531bd5f131d39d82408518",
+          "passage_id": "p0005",
+          "english_quote": "by sugar replacers, i.e. intense sweeteners, xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, erythritol, D-tagatose, isomaltulose, sucralose or polydextrose, or a combination of them,",
+          "title": "French dental-claim conditions omit D-tagatose and isomaltulose",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly permits D-tagatose and isomaltulose as replacements under the dental-claim conditions. Their omission from the French conditions could exclude products relying solely on either ingredient. Their express inclusion in the French category and claim footnote supports an interpretation permitting them, but leaves an operative inconsistency.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "par des succédanés du sucre, à savoir des édulcorants intenses, du xylitol, du sorbitol, du mannitol, du maltitol, du lactitol, de l’isomalt, de l’érythritol, du sucralose ou du polydextrose, ou une combinaison de plusieurs d’entre eux,",
+              "translation": "by sugar replacers, namely intense sweeteners, xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, erythritol, sucralose or polydextrose, or a combination of several of them,",
+              "explanation": "English expressly permits D-tagatose and isomaltulose as replacements under the dental-claim conditions. Their omission from the French conditions could exclude products relying solely on either ingredient. Their express inclusion in the French category and claim footnote supports an interpretation permitting them, but leaves an operative inconsistency.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:35:30.655594Z"
+          }
+        }
+      ],
       "notes": [
         "English is a navigation anchor; no language version is treated as legally authoritative over another.",
         "The selected official version was resolved at import time. This MVP does not monitor subsequent changes.",
