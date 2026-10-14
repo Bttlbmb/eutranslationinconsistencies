@@ -16,6 +16,10 @@ const introductions = {
     title: 'Late payments',
     description: 'Combats late payment for goods and services in commercial transactions.'
   },
+  '32012R0432': {
+    title: 'Food health claims',
+    description: 'Lists permitted health claims for foods and sets the conditions for using them.'
+  },
   '32019R0343': {
     title: 'Generic food descriptors',
     description: 'Defines exemptions for traditional food descriptors under nutrition and health-claim rules.'

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T08:02:12.292015Z",
+  "generated_at": "2026-10-14T08:04:03.058388Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -9925,7 +9925,7 @@
       "version": "2025-08-20",
       "version_label": "Consolidated text",
       "retrieved_at": "2026-10-14T07:28:02.313588+00:00",
-      "status": "analyzing",
+      "status": "partial",
       "subject": "",
       "languages": [
         {
