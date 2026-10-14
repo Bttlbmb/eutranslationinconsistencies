@@ -643,6 +643,7 @@ summary {
   justify-content: space-between;
   align-items: baseline;
   gap: 12px;
+  flex-wrap: wrap;
 }
 .impact-index-top strong,
 .impact-summary-heading strong {
@@ -673,10 +674,29 @@ summary {
   padding: 12px 0;
   border-top: 1px solid var(--line);
 }
+.impact-marker {
+  margin: 8px 0 16px;
+}
+.impact-issue-title {
+  margin: 0 0 12px;
+  font-size: 13px;
+  line-height: 1.4;
+}
+.impact-section-heading {
+  margin: 14px 0 5px;
+  font-size: 12px;
+  line-height: 1.4;
+}
+.impact-section-heading:first-child {
+  margin-top: 0;
+}
 .impact-summary + .impact-summary {
   margin-top: 3px;
 }
 .impact-effect,
+.impact-rule,
+.impact-rationale,
+.impact-uncertainty,
 .impact-explanation p,
 .issue-evidence-intro {
   margin-top: 7px;

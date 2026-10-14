@@ -616,27 +616,33 @@ function impactIssueLabel(family) {
     ? 'Impact under review'
     : impactDisplayLabel(family.impact_level);
 }
-function renderImpactSummary(family, { select = false, memberId = null } = {}) {
+function renderImpactMarker(family, { showTitle = false } = {}) {
+  const heading = node('div', 'impact-summary-heading impact-marker');
+  if (showTitle) append(heading, node('strong', '', family.title));
+  append(heading, node('span', 'impact-level', impactIssueLabel(family)));
+  return heading;
+}
+function renderImpactSummary(family, { select = false, memberId = null, showTitle = true } = {}) {
   const block = node('section', 'impact-summary');
-  const heading = node('div', 'impact-summary-heading');
-  append(
-    heading,
-    node('strong', '', family.title),
-    node('span', 'impact-level', impactIssueLabel(family))
-  );
+  if (showTitle) append(block, node('h3', 'impact-issue-title', family.title));
+  const reasonLabel = family.review_state === 'needs_review'
+    ? 'Why the impact is under review'
+    : `Why this is rated ${family.impact_level}`;
   append(
     block,
-    heading,
-    node('p', 'impact-effect', `Potential impact if this reading prevails: ${family.effect}`)
+    node('h4', 'impact-section-heading', 'Potential impact if this reading prevails'),
+    node('p', 'impact-effect', family.effect),
+    node('h4', 'impact-section-heading', reasonLabel)
   );
-  if (select)
-    append(block, button('See this issue and its evidence →', 'impact-open', () =>
-      changeImpactSelection(family, memberId)));
+  if (family.legal_anchor) append(block, node('p', 'impact-rule', `Affected rule: ${family.legal_anchor}`));
+  if (family.rationale) append(block, node('p', 'impact-rationale', family.rationale));
+  if (family.uncertainty) append(
+    block,
+    node('h4', 'impact-section-heading', 'Assumptions and uncertainty'),
+    node('p', 'impact-uncertainty', family.uncertainty)
+  );
   const explanation = node('details', 'impact-explanation');
-  append(explanation, node('summary', '', 'Why this assessment?'));
-  if (family.legal_anchor) append(explanation, node('p', '', `Affected rule: ${family.legal_anchor}`));
-  if (family.rationale) append(explanation, node('p', '', family.rationale));
-  if (family.uncertainty) append(explanation, node('p', '', `Uncertainty: ${family.uncertainty}`));
+  append(explanation, node('summary', '', 'Assessment details'));
   const review = [
     family.review_state === 'needs_review' ? 'No impact level assigned; context review needed' : '',
     family.confidence ? `Confidence: ${family.confidence}` : '',
@@ -645,6 +651,9 @@ function renderImpactSummary(family, { select = false, memberId = null } = {}) {
   ].filter(Boolean).join(' · ');
   if (review) append(explanation, node('p', 'impact-review-meta', review));
   block.append(explanation);
+  if (select)
+    append(block, button('See this issue and its evidence →', 'impact-open', () =>
+      changeImpactSelection(family, memberId)));
   return block;
 }
 function renderImpactIndex(panel, act) {
@@ -864,8 +873,14 @@ function renderComparison() {
         ? variants[0].explanation || selected.explanation
         : selected.explanation;
     append(detail, node('h2', '', state.issue?.title || detailTitle));
+    const familiesHere = state.issue ? [state.issue] : displayedImpactFamilies(act).filter((family) =>
+      family.members.some((member) => selected.aliases.includes(member.id) &&
+        (!state.language || member.variants.some((variant) => variant.language === state.language)))
+    );
+    familiesHere.forEach((family) => detail.append(renderImpactMarker(family, {
+      showTitle: !state.issue && (familiesHere.length > 1 || family.title !== detailTitle)
+    })));
     if (state.issue) {
-      detail.append(renderImpactSummary(state.issue));
       const locations = [...new Map(state.issue.members
         .filter((member) => !state.language || member.variants.some((variant) => variant.language === state.language))
         .map((member) => {
@@ -888,17 +903,6 @@ function renderComparison() {
         detail.append(locationNav);
       }
       append(detail, node('p', 'issue-evidence-intro', `Language evidence at this English passage · ${plural(variants.length, 'comparison')}`));
-    } else {
-      const familiesHere = displayedImpactFamilies(act).filter((family) =>
-        family.members.some((member) => selected.aliases.includes(member.id) &&
-          (!state.language || member.variants.some((variant) => variant.language === state.language)))
-      );
-      familiesHere.forEach((family) => {
-        const memberId = family.finding_ids.find((id) => selected.aliases.includes(id) &&
-          (!state.language || family.members.find((member) => member.id === id)?.variants.some(
-            (variant) => variant.language === state.language))) || null;
-        detail.append(renderImpactSummary(family, { select: true, memberId }));
-      });
     }
     const passage = act.passages.find((item) => item.id === selected.passage_id);
     const occurrences = sourceOccurrences(passage?.text || '', selected.english_quote).length;
@@ -969,6 +973,16 @@ function renderComparison() {
         )
       );
       detail.append(card);
+    });
+    familiesHere.forEach((family) => {
+      const memberId = family.finding_ids.find((id) => selected.aliases.includes(id) &&
+        (!state.language || family.members.find((member) => member.id === id)?.variants.some(
+          (variant) => variant.language === state.language))) || null;
+      detail.append(renderImpactSummary(family, {
+        select: !state.issue,
+        memberId,
+        showTitle: !state.issue && (familiesHere.length > 1 || family.title !== detailTitle)
+      }));
     });
     append(detail, relatedDisclosure);
     append(
