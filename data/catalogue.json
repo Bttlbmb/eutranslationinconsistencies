@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T08:53:07.397519Z",
+  "generated_at": "2026-10-14T09:20:34.248027Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4700,6 +4700,22 @@
       ],
       "impact_families": [
         {
+          "id": "impact-5b9caed17134ada6811f95ee",
+          "title": "Gender assessment restricted to targeted measures",
+          "legal_anchor": "Directive 2000/78/EC, Article 19(1)–(2), particularly the second sentence of paragraph 2; Article 2.",
+          "impact_level": "limited",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A general measure implementing protection against age discrimination affects women and men differently but is not specifically directed at either sex. If Latvian requires assessment only of measures directed at or against women and men, those effects could be excluded from the mandatory gender assessment.",
+          "rationale": "‘To pasākumu … kuri’ links the assessment to a specified category of measures, making the restrictive reading plausible even without treating ‘pret’ as necessarily hostile. If that reading prevails, the minimum required assessment narrows. The general information duty, consideration of stakeholder views and conditional revision proposals do not independently require the excluded gender assessment. ‘Inter alia’ leaves room for additional content but does not cure the restriction. Article 2’s substantive discrimination rules and exceptions remain independent of this reporting requirement.\nCounterreading: Latvian expressly invokes equal opportunities for both sexes. Interpreting the relative clause as describing measures affecting them gives practical effect to that principle and the implementation-report purpose. The equally authoritative French and German formulations explicitly assess effects on women and men, strongly supporting this harmonizing interpretation.",
+          "uncertainty": "The principal uncertainty is whether the sentence actually selects targeted measures or awkwardly describes measures affecting people. A hostile connotation alone does not establish a separate legal outcome.\nUnresolved: The stated reduction in mandatory assessment follows if the restrictive reading prevails. Effects on later policy, legislation or individual discrimination claims are unestablished.",
+          "assessed_at": "2026-10-14T08:58:24.764672Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "86c4a10f5e0a080162e12067"
+          ]
+        },
+        {
           "id": "impact-e201874500a7f4ca7b7b15d6",
           "title": "Compulsion beyond an instruction",
           "legal_anchor": "Directive 2000/78/EC, Articles 2(4), 3(1)(a) and 17, read with Articles 2(2)–(3).",
@@ -4745,6 +4761,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "453d155e5ac09d4b8a4f51cf"
+          ]
+        },
+        {
+          "id": "impact-81dc9e29c51e86527337c453",
+          "title": "Source of loyalty obligations",
+          "legal_anchor": "Directive 2000/78/EC, Article 4(2), read with Articles 2 and 3(1)(c).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A religious charity that has imposed no loyalty condition seeks to discipline an employee for public criticism, arguing that the Directive itself supplies the missing obligation.",
+          "rationale": "Romanian makes prezenta directivă the apparent subject of poate impune. That supports a shift in the apparent source of authority. However, may impose does not establish that an obligation has actually been imposed, its content, or a disciplinary consequence. Even accepting the disputed subject, the proposed employment outcome requires an additional legal step that the quoted provisions do not establish.\nCounterreading: The same sentence expressly preserves the organisations' right and requires conformity with national constitutional and legislative provisions. German and Portuguese directly identify the organisations as entitled to require loyalty; French expresses preservation of their right. Together, these equally authoritative texts strongly support an employer's conditional power to require loyalty.",
+          "uncertainty": "No applicable national or contractual loyalty duty has been identified. The Romanian syntax does not by itself establish an employee obligation or a lawful disciplinary consequence; the employer would need an independent legal basis and must comply with the Directive’s other safeguards.",
+          "assessed_at": "2026-10-14T08:56:33.755901Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "9b50eff298757517d5ffd7c0"
           ]
         },
         {
@@ -4828,6 +4860,22 @@
           ]
         },
         {
+          "id": "impact-3ec550dad477c41eb7936300",
+          "title": "Retaliation for civil equality litigation",
+          "legal_anchor": "Directive 2000/78/EC, Articles 11, 9(1)–(2) and 8(1), read with Recital 30 and Article 2.",
+          "impact_level": "high",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An employee brings a civil court action under Article 9 alleging religious discrimination, without making an internal complaint or taking part in criminal proceedings. The employer dismisses the employee solely for bringing that action. Assume no more favourable national victimisation rule independently protects the employee.",
+          "rationale": "Latvian Article 11 uses kriminālprocesiem, naming criminal proceedings, while the other authentic versions cover legal proceedings more generally. Article 9(1)–(2) expressly supplies judicial as well as administrative enforcement routes, so the civil case is within the Directive’s enforcement structure. Under a criminal-only Article 11 reading, the State need not protect this employee against the retaliatory dismissal through that provision; under the broader reading, it must. The internal-complaint limb is unavailable on these facts. Article 8(1) allows stronger national protection, but none is assumed. Article 2 does not automatically cover dismissal motivated only by the worker’s use of litigation rather than an Article 1 characteristic. The conditional result is loss of a minimum protection against a serious employment consequence, not an assertion of actual domestic liability.\nCounterreading: The other authentic versions, Article 9’s civil enforcement route and Recital 30 strongly favour a harmonised reading that covers civil proceedings.",
+          "uncertainty": "National law might independently protect the employee under a more favourable Article 8(1) rule; the scenario assumes it does not. The governing multilingual interpretation and precise national remedy remain open.",
+          "assessed_at": "2026-10-14T09:04:43.090721Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "84f1ef406430e1dd7cbad7a0"
+          ]
+        },
+        {
           "id": "impact-983f51c9eb7ca173a0d2a5d8",
           "title": "Training agreements outside employment contracts",
           "legal_anchor": "Directive 2000/78/EC, Articles 2, 3(1)(b) and 16(b).",
@@ -4841,22 +4889,6 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "a9e4c507cba97ffe1d065b9b"
-          ]
-        },
-        {
-          "id": "impact-a73b11d9fa60c7430c4fc561",
-          "title": "Legislative recognition of religious practices",
-          "legal_anchor": "Directive 2000/78/EC, Article 4(2), first sentence and its alternative legislative routes; Articles 4(1) and 2.",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "A Member State enacts a religious occupational exception after adoption of the Directive, incorporating a national practice demonstrably existing on 27 November 2000 but lacking legislative recognition then. The legislation confines the exception to requirements satisfying Article 4(2)'s occupational and constitutional safeguards.",
-          "rationale": "Bulgarian describes future legal practices incorporating legislation, reversing the relationship expressed in the English, French and German texts. If this is read to require a pre-existing legislative basis, a historical non-statutory practice cannot support the later Article 4(2) exception. The concrete effect is loss of that permitted legislative route. Establishing a particular dismissal or discrimination violation is unnecessary to identify this change in the exception's availability.\nCounterreading: The first limb preserves existing legislation; the second naturally allows later legislation reflecting existing practice. French reprenant des pratiques nationales and German bestehende einzelstaatliche Gepflogenheiten widerspiegeln expressly preserve that distinction. Their structure supplies a strong harmonizing reading of the Bulgarian sentence, with no priority accorded to English.",
-          "uncertainty": "The Bulgarian syntax is awkward and does not unambiguously impose a pre-existing-legislation requirement. The conditional assessment addresses that narrower construction. Actual application requires proof of the historical practice and absence of qualifying legislation at adoption.\nUnresolved: The existing-legislation limb cannot cover the stated absence of legislation. Article 4(1) may independently protect individual determining and proportionate requirements, but does not restore the distinct Article 4(2) legislative route. Any claim that particular employment treatment becomes unlawful would additionally require excluding Article 4(1) and other applicable protections. The loyalty paragraph remains conditional on compliance and does not independently recreate the historical legislative route.",
-          "assessed_at": "2026-10-14T08:51:08.707000Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "44bc7f009d623c3eed83954a"
           ]
         },
         {
@@ -4940,6 +4972,22 @@
           ]
         },
         {
+          "id": "impact-6102c3dd31cd4706a070a550",
+          "title": "Employment protection for third-country nationals",
+          "legal_anchor": "Directive 2000/78/EC, Recital 12 and Articles 1, 2, 3(1)(c) and 3(2).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A lawfully employed third-country national receives lower pay than a comparable colleague solely because of religion. An employer invokes the Hungarian Recital 12 reference to employment and work to argue that ongoing employment is excluded. Article 3(1)(c) expressly covers pay, and the treatment is assumed unrelated to nationality or the worker’s immigration status.",
+          "rationale": "Hungarian Recital 12 refers directly to employment and work where English refers to provisions governing entry, residence and access. Yet Article 3(1)(c) covers pay in public and private employment, and Article 3(2) preserves exclusions for nationality differences and treatment arising from the legal status of third-country nationals. Neither exclusion covers the assumed lower pay solely because of religion. Article 2(2)(a) supplies the direct-discrimination rule. A recital cannot override that operative coverage, so the broader Hungarian phrasing does not establish a changed outcome in this scenario.\nCounterreading: Read with the other authentic versions and Articles 1–3, the recital preserves immigration-related rules without creating a general exemption from protected-ground equality in employment.",
+          "uncertainty": "If an actual difference of treatment arose from nationality or legal status, Article 3(2) would require separate analysis. The assumed religion-based wage difference does not. No additional changed outcome follows from the recital’s broader phrasing alone.",
+          "assessed_at": "2026-10-14T09:04:43.090819Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3e113174c4f9f539932f11b3"
+          ]
+        },
+        {
           "id": "impact-aac68088dbe9cf0effba236e",
           "title": "Express protection after termination is limited to employment relationships",
           "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its general-access guarantee; Article 9(3); Article 2.",
@@ -5020,22 +5068,6 @@
           ]
         },
         {
-          "id": "impact-ffb522f447dfe601b29fe414",
-          "title": "Object of proportionality",
-          "legal_anchor": "Directive 2000/78/EC, Article 4(1), particularly the genuine-and-determining condition, read with Article 2.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "A secular employer requires a protected characteristic for a specialist assignment, then extends that requirement to duties or periods for which it is unnecessary. It argues that Maltese Article 4(1) requires only the aim to be legitimate and proportionate.",
-          "rationale": "Grammatically, leġittimu u proporzjonat both qualify l-għan, the aim. This differs from the express proportionality condition on the requirement in other authentic texts. Nevertheless, the Maltese provision still demands a genuine and determining occupational requirement arising from the activities or their context. An unnecessarily extensive restriction may already fail that condition. Accepting the disputed grammatical reading therefore does not by itself establish eligibility for an otherwise excluded restriction.\nCounterreading: A proportionate aim can be understood relationally, through the requirement used to pursue it. French expressly requires the requirement to be proportionate; Dutch expressly relates its proportionality to the aim. These equally authoritative formulations and the work-specific condition strongly support scrutiny of the requirement itself.",
-          "uncertainty": "The available extracts do not reproduce recital 23, so its asserted wording cannot establish an additional constraint. They also do not establish the content or application of any independent proportionality rule.\nUnresolved: Can a concrete restriction satisfy the genuine-and-determining condition while failing only proportionality? Neither excessive duration nor excessive coverage establishes that distinction without further facts. Article 4(2) does not assist the secular employer. For an apparently neutral restriction, Article 2(2)(b)(i) separately retains appropriate-and-necessary scrutiny.",
-          "assessed_at": "2026-10-14T08:51:08.699702Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "1f07aedb230db6ab7f42141b"
-          ]
-        },
-        {
           "id": "impact-14f44fc7ea4ae585b7e28f58",
           "title": "Non-member organisational participation",
           "legal_anchor": "Directive 2000/78/EC, Article 3(1)(d), checked against Article 3(1)(a)–(c) and Article 2(2)(a), (5).",
@@ -5100,6 +5132,22 @@
           ]
         },
         {
+          "id": "impact-b338a8b3edacfcdfa222f5b4",
+          "title": "Customary religious employment requirements",
+          "legal_anchor": "Recital 24 and Article 2(1), (2)(a), (2)(b) and (5).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A religious organisation rejects an otherwise qualified administrative applicant for lacking its religious affiliation. Membership is customary, but its connection to the actual duties is unproven. The proposed changed outcome is permission to impose that requirement because it is customary rather than genuinely connected to the work.",
+          "rationale": "Lithuanian ‘įprastų’ supports an ordinary or customary meaning. However, lawfulness and justification remain cumulative requirements, and the sentence links the requirement to occupational activity. Express exclusion because of religion engages Article 2(2)(a); the justification for neutral practices in Article 2(2)(b)(i) does not itself excuse direct discrimination. The disability limb does not assist this employer, and Article 2(5) requires necessary measures laid down by national law, not employer custom alone. A recital cannot independently create an exception to the operative prohibition. Consequently, even accepting the customary meaning does not establish a changed employment outcome.\nCounterreading: The strongest harmonising reading treats ‘įprastų’ as requirements characteristic of the relevant work, constrained by lawfulness, justification and occupational necessity. German ‘wesentlichen’, French ‘essentielles’, Finnish ‘todellisista’ and Latvian ‘īstām’ support essentiality or genuineness. Danish ‘regulære’ also permits a regularity nuance without establishing that habit alone suffices. Read with equal authority and the discrimination prohibition, these formulations favour an objective occupational connection. A custom-alone interpretation is therefore unlikely to prevail, although the complete operative context is needed.",
+          "uncertainty": "The quoted extracts do not reproduce the operative occupational-requirement provisions. Their conditions, national implementing law, the organisation’s character and the actual duties could determine the outcome independently of this recital.\nUnresolved: Would the applicable operative exception allow custom to substitute for a genuine occupational connection, and could this requirement satisfy its remaining conditions?",
+          "assessed_at": "2026-10-14T09:17:18.349031Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "0c776fbf9f5703b2fec328dc"
+          ]
+        },
+        {
           "id": "impact-dcfe342a2f27e05e6fa912bc",
           "title": "Appeals to discriminate",
           "legal_anchor": "Directive 2000/78/EC, Articles 2(4), 3(1)(a) and 17, read with Articles 2(2)–(3).",
@@ -5129,6 +5177,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "c414111c238e59fbf2e8e612"
+          ]
+        },
+        {
+          "id": "impact-d9611d7a1611be1a3330ba7f",
+          "title": "Accommodation for initial training",
+          "legal_anchor": "Directive 2000/78/EC, Article 5, Article 3(1)(a)–(b), Article 2, and Recitals 17 and 20.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An employer refuses accessible materials for a disabled person's initial vocational course, although the materials are necessary and impose no disproportionate burden, because the course is neither retraining nor further training.",
+          "rationale": "Hungarian Article 5 expressly names retraining and further training, while the disputed broader formulation reaches training generally. Article 3(1)(b) brings vocational training within the Directive’s scope, but does not alone settle whether this employer owes a particular Article 5 accommodation for every initial course. Article 5’s other limbs—access to employment, participation in work and advancement—may cover the stated employer course despite the narrower training phrase. Recital 20 treats training and integration resources as potential accommodation measures; Recital 17 preserves accommodation while addressing ability to perform essential functions. Neither recital independently determines this course’s entitlement. The current scenario therefore has no demonstrated change in legal result.\nCounterreading: The mandatory opening accommodation duty, overlapping employment limbs and other authentic language versions strongly favor a general training reading.",
+          "uncertainty": "Article 3(1)(b) covers vocational training, but the course’s relation to employment and the Article 5 access or participation limbs must be established. In real cases, whether materials are appropriate and the actual burden also matter; necessity and no disproportionate burden are stipulated here.\nUnresolved: Is there an employer-run initial course that is outside the other Article 5 limbs and for which the training phrase alone determines the accommodation duty?",
+          "assessed_at": "2026-10-14T09:12:59.284000Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "021f29e57306587dbfd278fa"
           ]
         },
         {
@@ -5177,6 +5241,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "08489c6fe07c45cca226e947"
+          ]
+        },
+        {
+          "id": "impact-6c7df7907749a889deb6f67b",
+          "title": "Individual contractual terms",
+          "legal_anchor": "Directive 2000/78/EC, Articles 16(b), 2, 3(1)(c), 9 and 17.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A bespoke individual employment-contract term denies a worker a benefit because of sexual orientation while an otherwise comparable worker receives it. Assume no applicable exception. The term is not a collective-agreement provision, undertaking rule, occupational rule or organisational rule. National law prohibits the discrimination but provides neither actual nullity, a means to obtain a nullity declaration, nor amendment of the term.",
+          "rationale": "Bulgarian expressly lists collective labour agreements but contains no separate category covering individual contracts. If that enumeration governs exhaustively, the scenario falls outside Article 16(b). Versions expressly covering individual contracts instead require one of its correction routes. Article 16(a) concerns laws, regulations and administrative provisions, not the bespoke private term. The scenario excludes all other Article 16(b) categories and all correction alternatives. Article 2 establishes the assumed discrimination but does not itself specify contractual nullity or amendment. The narrower reading therefore changes the reach of the specific correction duty without making discriminatory treatment lawful.\nCounterreading: Croatian, Finnish and Dutch expressly distinguish individual from collective contracts, while French separately identifies contracts and collective agreements. Read with Article 16's purpose of removing provisions contrary to equal treatment, these equally authoritative formulations strongly favor including individual contracts. Bulgarian's literal restriction is consequently unlikely to prevail after multilingual interpretation; that interpretive likelihood does not remove the conditional change in Article 16(b)'s reach.",
+          "uncertainty": "National contract law might already make the term void or permit its amendment, removing this specific difference. Articles 2 and 3 continue to govern equal treatment in employment; Articles 9 and 17 require enforcement and sanctions where applicable. Those provisions do not by themselves establish which Article 16(b) term-correction route is supplied in a particular legal system.\nUnresolved: Is this clause an individual contractual term rather than another listed instrument, and does national law already provide effective nullity or amendment?",
+          "assessed_at": "2026-10-14T09:10:26.156348Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "9ab8f3b468bc57ee53ec9341"
           ]
         },
         {
@@ -5244,6 +5324,38 @@
           ]
         },
         {
+          "id": "impact-34d9915eb829277f5bd10e49",
+          "title": "Sufficient compensation and refusal",
+          "legal_anchor": "Directive 2000/78/EC, Article 5 and Recital 21, read with Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "National disability measures sufficiently compensate the burden of necessary accessible workplace equipment, but the employer seeks to refuse installation by treating the Swedish compensation sentence as advisory.",
+          "rationale": "Swedish uses advisory wording in the compensation sentence, unlike categorical parallel formulations. But Article 5’s preceding two accommodation duties remain mandatory. The current scenario stipulates sufficient compensation of the burden; without a specified residual burden that is itself disproportionate, treating the sentence as advisory does not establish a valid Article 5 defence or a lawful refusal. Recital 21 asks decision-makers to assess costs, organisation scale and resources, and public assistance; it reinforces examining actual remaining burden rather than assuming one. Article 2 may independently affect a refusal on the facts. No changed outcome is established.\nCounterreading: The Swedish sentence is embedded within a binding operative rule and the other authentic versions state the consequence categorically; a binding reading is strongly supported.",
+          "uncertainty": "Sufficient compensation does not necessarily mean full reimbursement, but no uncompensated effect shown here has been established as disproportionate after the Recital 21 factors. The national measure’s terms and the actual burden would be needed for an outcome.\nUnresolved: Is there a case with legally sufficient compensation yet a separate, disproportionate residual burden for which the advisory wording alone would alter the Article 5 defence?",
+          "assessed_at": "2026-10-14T09:12:59.283736Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "c79879fbd9d80a53a74d964c"
+          ]
+        },
+        {
+          "id": "impact-6b4ab10d1da9001da62027b3",
+          "title": "Scope of gender-impact assessment",
+          "legal_anchor": "Directive 2000/78/EC, Article 19(1)–(2), particularly the second sentence of paragraph 2; Article 2.",
+          "impact_level": "limited",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A generally applicable disability-employment measure has different effects on women and men without specifically targeting either sex. If Lithuanian restricts the assessment to measures specifically addressing women and men, the Commission could omit that measure’s gender effects from the mandatory assessment.",
+          "rationale": "The relative clause attaches the reference to women and men to the measures taken, supporting a possible restriction by the measures’ target. If that restriction prevails, required report content changes. Article 19(1)’s information duty does not independently prescribe the excluded gender assessment. Consultation and conditional revision proposals do not replace it, and ‘inter alia’ permits additional content without requiring this particular content independently. Article 2’s definitions and exceptions govern discrimination, not the scope of the report. The demonstrated consequence is therefore limited to an ancillary reporting obligation.\nCounterreading: ‘Moterų ir vyrų atžvilgiu’ can encompass measures affecting women and men generally. German and French expressly connect systematic consideration of equality with assessment of measures’ effects. Read with the Lithuanian clause as equally authoritative texts, they favor an inclusive gender assessment rather than exclusion of general measures. Hungarian also uses a relational construction but does not independently resolve this boundary.",
+          "uncertainty": "The wording does not necessarily restrict the assessment. The unusual expression ‘lyčių vyravimo’ also does not establish a separate concrete legal consequence.\nUnresolved: No additional factual condition prevents the stated reporting consequence if the restrictive reading prevails. Any resulting change in legislation or individual rights remains unestablished.",
+          "assessed_at": "2026-10-14T09:00:27.222347Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "511b3ab9bd1e33ed9b7ffea9"
+          ]
+        },
+        {
           "id": "impact-02aa8ce89dc3febc3b89303d",
           "title": "Completed removal of discriminatory provisions",
           "legal_anchor": "Directive 2000/78/EC, Article 16(b)'s abolition, invalidation and amendment alternatives, read with Article 2.",
@@ -5260,6 +5372,22 @@
           ]
         },
         {
+          "id": "impact-6555089fc2c2e54c383ad25b",
+          "title": "Reporting cycle starts two years earlier",
+          "legal_anchor": "Directive 2000/78/EC, Article 19(1); Article 19(2) and Article 2.",
+          "impact_level": "limited",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "A Member State already subject to the reporting duty has satisfied earlier applicable obligations but supplies no further implementation information between December 2005 and December 2009. A cycle anchored in 2003 requires submission by 2 December 2008, making the December 2009 submission late. A cycle anchored in 2005 allows the next submission until 2 December 2010.",
+          "rationale": "The dates create a direct difference in timely compliance with a binding information duty. Article 19(2)’s conditions concern report content and do not alter the submission timetable. Article 2’s discrimination definitions and exceptions provide no alternative reporting deadline. Although the duty has general institutional reach, the demonstrated consequence concerns ancillary reporting timing; no particular sanction or change in substantive discrimination protection is established.\nCounterreading: The equally authoritative German, French and English texts express a 2005 starting date within the same common reporting structure. That structure strongly favors interpreting the Czech date consistently with a shared 2005 cycle; linguistic authority is not determined by counting versions.",
+          "uncertainty": "Application of the initial 2003 deadline to a particular State would require its applicable temporal arrangements. The later-cycle example assumes the State is already bound and does not resolve any historical failure to report.\nUnresolved: No unresolved temporal condition prevents the later-cycle example for a State already subject to the duty. Any penalty or other consequence of lateness is unestablished.",
+          "assessed_at": "2026-10-14T08:58:24.764592Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "6ac25ae8c891e3cc1a9623ec"
+          ]
+        },
+        {
           "id": "impact-b613bcf51bc009beba8c4c6d",
           "title": "Reversed police authorisation condition",
           "legal_anchor": "Directive 2000/78/EC, Article 15(1), read with Articles 2, 4(1) and 7(1).",
@@ -5273,6 +5401,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "4487d4cee5ab53bb6e1f96c9"
+          ]
+        },
+        {
+          "id": "impact-7f70efed6ad1dfa598e70582",
+          "title": "Completed contractual correction",
+          "legal_anchor": "Article 16's introductory obligation and Article 16(b)'s nullity-or-amendment alternatives; Article 16(a); Article 2's equal-treatment definition.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A collective agreement has an unjustified discriminatory clause. National law provides an effective court procedure under which an affected worker can have the clause declared void, but no one has yet brought a claim. The question is whether that procedure alone satisfies Article 16(b) under the Croatian wording.",
+          "rationale": "Croatian Article 16(b) is phrased as a duty to take measures so that discriminatory provisions are declared void or amended; several authentic versions also expressly allow provisions to be capable of being declared void. A literal reading may suggest a stronger required result. Yet Article 16(b) does not state when each clause must be corrected or whether an effective judicial mechanism is insufficient before a claim is brought. Croatian wording may naturally describe invalidation through ordinary proceedings as disputes arise. On this scenario the substantive discrimination remains prohibited and an effective procedure exists. Without a source-grounded compliance point at which procedural availability alone fails, a concrete changed result cannot be assigned a severity level.\nCounterreading: Reading all authentic versions with Article 16’s corrective purpose supports an effective route to nullity or amendment without a prior declaration for every clause.",
+          "uncertainty": "The directive does not set a deadline or proactive inspection duty for individual clauses. Existing automatic nullity, amendment, availability and effectiveness of proceedings, and any national remedial rule would affect an actual dispute.\nUnresolved: Under what circumstances, if any, would an available and effective nullity procedure fail to satisfy the Croatian wording?",
+          "assessed_at": "2026-10-14T09:10:26.156160Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "a0335b47487fbd783dd26b1e"
           ]
         },
         {
@@ -5324,6 +5468,22 @@
           ]
         },
         {
+          "id": "impact-5094d123b62fb3ca8107fcb6",
+          "title": "Traditional recognition of dialogue partners",
+          "legal_anchor": "Article 14, including appropriateness, legitimate interest, the Article 1 reference and the equal-treatment purpose; Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "National legislation and current practice recognise a new category of disability-employment NGOs as having a legitimate anti-discrimination interest. These organisations are otherwise appropriate for dialogue, but an older national tradition recognises only established umbrella bodies. If tradition replaces law as the controlling reference, the new category could fall outside the organisations with which the State must encourage dialogue. Under a law-and-practice reading, that categorical exclusion would lack this basis.",
+          "rationale": "Danish substitutes national traditions for national law while retaining national practice. Holding current practice, appropriateness and the anti-discrimination purpose constant isolates a concrete eligibility difference. Article 2 defines the discrimination that the dialogue addresses; its neutral-practice justification, disability measures and national-law safeguard do not establish a separate traditional-recognition test for NGOs. Article 14 leaves discretion over how dialogue is encouraged, but a change in the categories covered by that obligation is more than an ancillary organisational detail. It does not establish an individual entitlement to an invitation, funding or litigation standing.\nCounterreading: The strongest harmonising reading understands Danish traditions as the evolving national institutional framework, including lawful recognition, rather than a historical-pedigree veto. German ‘Rechtsvorschriften und Gepflogenheiten’, French ‘pratiques et législations nationales’ and Lithuanian ‘nacionalinę teisę ir praktiką’ expressly combine law and practice; Estonian uses law or custom. These equally authoritative formulations, together with the equal-treatment purpose, favour accommodating legitimate organisations without treating either statutory accreditation or historical recognition as universally decisive. A rigid tradition-based exclusion is therefore unlikely to prevail.",
+          "uncertainty": "The difference disappears where tradition accommodates new legal recognition or law and tradition impose the same criteria. Application to an actual organisation requires its national setting and the State’s overall arrangements for encouraging dialogue.\nUnresolved: For any actual exclusion, do national law and tradition genuinely diverge while current practice and appropriateness favour the organisation? Is its category excluded from the overall dialogue obligation, rather than merely from one event?",
+          "assessed_at": "2026-10-14T09:17:18.350132Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "0de1dec08023a7e827dd33eb"
+          ]
+        },
+        {
           "id": "impact-75c2e02a601119da6bb509d0",
           "title": "Protection of the worker’s own health",
           "legal_anchor": "Directive 2000/78/EC, Article 2(5), read with Articles 2(2), 4, 5, 6(1), 7(2) and 8(1).",
@@ -5353,6 +5513,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "908965b1d3a87f27d978460b"
+          ]
+        },
+        {
+          "id": "impact-13e35d59eb8b6e248ab9d96b",
+          "title": "Nonfinancial burden defence",
+          "legal_anchor": "Directive 2000/78/EC, Article 5 and Recital 21, read with Article 2.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A necessary, effective and otherwise appropriate shift adjustment causes substantial recurring disruption to scheduling and continuity, sufficient to constitute a disproportionate operational burden, but no disproportionate financial burden. No protected national health, safety or rights measure applies. The employer invokes operational burden alone.",
+          "rationale": "On the stipulated strict financial reading, a genuinely disproportionate operational burden with no disproportionate financial burden cannot satisfy the Italian Article 5 exception, while an unrestricted burden reading can. The conditional result concerns availability of the Article 5 defence, not a declaration that refusal is lawful in an actual dispute. Recital 21 expressly instructs consideration of financial and other costs, organisational scale and resources, and public funding; it makes harmonisation with nonfinancial costs especially strong, including when they affect overall financial burden. The opening reasonable-accommodation duty and Article 2 do not independently erase this conditional wording boundary.\nCounterreading: Italian Article 5 can be read with Recital 21 so that operational costs contribute to the overall financial burden. Other authentic versions use unqualified burden language. This contextual reading is stronger than excluding operational effects altogether.",
+          "uncertainty": "Operational disruption often has financial effects, which could remove the posited distinction. Recital 21 requires attention to other costs, organisation size and resources, and available public assistance. The example assumes a genuinely disproportionate nonfinancial effect without a disproportionate financial burden; it does not establish that any real workplace meets those conditions. National implementing rules could also protect more strongly.\nUnresolved: Would the Article 5 exception apply to a concrete adjustment once all Recital 21 factors are assessed?",
+          "assessed_at": "2026-10-14T09:12:59.283902Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "88700a098dc0f1c8541bbcb5"
           ]
         },
         {
@@ -5420,6 +5596,38 @@
           ]
         },
         {
+          "id": "impact-b36e64bbe6452bdfd9828f10",
+          "title": "Discretion over necessary revision proposals",
+          "legal_anchor": "Directive 2000/78/EC, Article 19(2), final sentence; Article 19(1) and Article 2.",
+          "impact_level": "limited",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "The implementation information establishes, and the Commission acknowledges, that revision proposals are necessary. Its report nevertheless contains none. If ‘võib’ gives genuine discretion after necessity is established, omission is permitted under this sentence; a conditional mandatory reading requires inclusion.",
+          "rationale": "Estonian ‘võib … sisaldada’ permits inclusion, whereas a conditional duty requires inclusion once the trigger is met. The preceding Estonian gender-assessment sentence uses ‘peab’, reinforcing the local distinction between obligation and permission. Neither the information duty nor the consultation and gender-assessment requirements independently require revision proposals. Article 2’s definitions and exceptions do not supply that duty. The concrete consequence is altered required report content; neither formulation requires adoption of an amendment.\nCounterreading: ‘Vajaduse korral’ can be understood as locating discretion in deciding whether proposals are necessary, rather than allowing their omission after that decision. Finnish expressly requires inclusion when necessary, and French describes conditional inclusion as part of the report. Together with the reporting purpose, these equally authoritative formulations strongly favor a conditional duty, despite the Estonian modal distinction.",
+          "uncertainty": "Necessity requires judgment. Without an established need, the formulations need not produce different outcomes. That uncertainty is held constant in the scenario and does not undermine the conditional mechanism.\nUnresolved: No further factual condition prevents the report-content consequence once necessity is established and the permissive reading prevails. Any resulting legislative amendment or change in individual protection remains unestablished.",
+          "assessed_at": "2026-10-14T08:58:24.764738Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "dde5ea0c17baec7aef1531c6"
+          ]
+        },
+        {
+          "id": "impact-90aa888fd25a061a828a49b3",
+          "title": "Retaliation for administrative enforcement",
+          "legal_anchor": "Directive 2000/78/EC, Articles 11, 9(1)–(2) and 8(1), read with Recital 30 and Article 2.",
+          "impact_level": "high",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An employee starts a formal administrative proceeding before an authority empowered to enforce disability equality under Article 9, without making an internal complaint or filing a court case. The employer dismisses the employee solely for initiating that proceeding. Assume no more favourable national victimisation rule independently protects the employee.",
+          "rationale": "Portuguese Article 11 names judicial action, as do French and Spanish; English, German, Dutch and Finnish use broader procedure wording. Article 9(1)–(2) expressly provides for judicial and administrative enforcement procedures; a formal administrative claim is therefore a concrete covered proceeding, not an informal workplace complaint. If a judicial-only Article 11 reading prevailed, the State would not have to protect this employee against retaliatory dismissal under that provision. A broader reading requires protective measures. Article 8(1) permits stronger national rules, but the scenario assumes none. Article 2 does not automatically replace Article 11 because dismissal solely for using a procedure need not itself be discrimination on an Article 1 ground. The serious conditional consequence is loss of the Directive’s minimum dismissal protection, not proof of an actual national remedy or violation.\nCounterreading: The broader procedure versions and Article 9’s express administrative route support including formal nonjudicial enforcement. The Portuguese, French and Spanish court-action wording supports the narrower reading. Recital 30 calls for judicial protection against victimisation but does not settle which enforcement proceedings trigger that protection.",
+          "uncertainty": "An actual national system may already protect the worker through a more favourable rule permitted by Article 8(1). The hypothetical assumes that protection is absent. The ultimate multilingual meaning of Portuguese Article 11 and the specific remedy under national law remain to be determined.",
+          "assessed_at": "2026-10-14T09:04:43.090537Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "3c69646bd0481d61d2df3704"
+          ]
+        },
+        {
           "id": "impact-b693319dd2edf0948f9117f2",
           "title": "Conciliation conditioned on necessity",
           "legal_anchor": "Directive 2000/78/EC, Article 9(1)–(3), with Article 2.",
@@ -5468,6 +5676,22 @@
           ]
         },
         {
+          "id": "impact-ffb522f447dfe601b29fe414",
+          "title": "Object of proportionality",
+          "legal_anchor": "Directive 2000/78/EC, Article 4(1) and Recital 23, read with Articles 2 and 3(1)(a).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A secular employer requires a protected characteristic for a specialist assignment, then extends that requirement to duties or periods for which it is unnecessary. It argues that Maltese Article 4(1) requires only the aim to be legitimate and proportionate.",
+          "rationale": "Maltese Article 4(1) grammatically attaches both legitimacy and proportionality to the aim rather than expressly to the occupational requirement. A requirement extended to duties or periods where it is unnecessary might therefore appear eligible on the disputed reading. Maltese Recital 23, however, expressly says the requirement is proportionate, and Article 4(1) still requires a genuine and determining occupational connection. Those internal safeguards may independently exclude the excessive restriction. A changed hiring outcome is not established.\nCounterreading: Read alongside Maltese Recital 23 and the other authentic versions, proportionality qualifies the requirement itself. That harmonising construction is stronger than an unrestricted occupational exception.",
+          "uncertainty": "The scope and duration of the employer’s requirement, and whether it remains genuinely determining for each duty, need assessment. Maltese Recital 23 expressly supplies a proportionality counterreading. Even assuming the grammatical distinction, no concrete case has shown that the excessive requirement survives those safeguards.",
+          "assessed_at": "2026-10-14T08:56:33.755625Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "1f07aedb230db6ab7f42141b"
+          ]
+        },
+        {
           "id": "impact-ec28666832094326284fe8da",
           "title": "Discriminatory origin versus consequences",
           "legal_anchor": "Directive 2000/78/EC, Article 6(2)'s final condition, read with Articles 6(1) and 2.",
@@ -5484,6 +5708,38 @@
           ]
         },
         {
+          "id": "impact-0f1016bb295c4e91fbc6aef1",
+          "title": "Provision versus prohibition of training",
+          "legal_anchor": "Directive 2000/78/EC, Recital 17 and Articles 2(1)–(2), 3(1)(b), 4(1) and 5.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An employer refuses a disabled applicant entry to its initial vocational training for a post because the applicant cannot perform its essential functions even after reasonable accommodation. The applicant invokes the Romanian recital’s wording on prohibition of training. Assume there is no independent national entitlement to admission.",
+          "rationale": "Romanian Recital 17 speaks of a training prohibition where the other versions disclaim a duty to provide or facilitate training. A statement that the Directive does not require a prohibition does not itself require admission. Article 3(1)(b) brings vocational training within scope; Article 2 supplies discrimination tests, Article 4(1) may permit a genuine and determining occupational requirement where its conditions hold, and Article 5 requires reasonable accommodation by employers. Those operative rules and the applicant’s facts, rather than the reversed recital phrase alone, decide whether refusal is lawful. The wording difference remains real but no outcome change is established.\nCounterreading: Other authentic versions and the employment/training structure of Recital 17 strongly support a common capacity-based limitation. This does not eliminate the textual difference, but reinforces the need to resolve it with the operative provisions.",
+          "uncertainty": "Whether the applicant is comparable, whether the training rule causes particular disadvantage, whether the employer has fulfilled Article 5 and whether Article 4(1) applies require case facts. The reversed recital phrase does not settle those questions.\nUnresolved: Which operative duty, if any, requires this employer to admit the applicant after those tests?",
+          "assessed_at": "2026-10-14T09:10:26.156541Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "7277dcccbad8e3e6ae3c1fb6"
+          ]
+        },
+        {
+          "id": "impact-698a4010062db9b0e12a37ea",
+          "title": "Proof of actual personal characteristic",
+          "legal_anchor": "Directive 2000/78/EC, Recital 31 and Articles 2(2)(a), 9(1) and 10(1)–(5).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An employer rejects an applicant because it mistakenly believes the applicant follows a particular religion. Requiring proof of actual adherence as a condition of protection could defeat the claim despite evidence of the employer's discriminatory reason.",
+          "rationale": "Lithuanian Recital 31 assigns proof of the claimant’s actual characteristic to the claimant, while other versions state that this proof is not shifted to the respondent. Those statements may coexist when the characteristic matters. In the stated direct-discrimination example, Article 2(2)(a) focuses on less favourable treatment on a protected ground, and Article 10(1) shifts the burden once facts permit a presumption of that treatment. The recital cannot add a universal actual-possession requirement to those operative rules. Case law on disability discrimination by association confirms that Directive protection is not confined to claimants possessing the protected characteristic themselves. No changed result follows from the recital alone.\nCounterreading: Read the Lithuanian claimant-proof sentence as applying when the actual characteristic is material to the particular claim, not as an across-the-board condition of protection.",
+          "uncertainty": "Whether the worker can prove the employer’s attributed belief and resulting treatment is fact dependent. The cited association case concerns disability, while this example concerns attributed religion; it supports the operative ground-based approach but does not itself decide all religion scenarios.\nUnresolved: Is there a material claimant characteristic that Article 2 requires proved here yet the other recital versions would dispense with?",
+          "assessed_at": "2026-10-14T09:15:58.603057Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "9c245643d0188bf8f5569cdf"
+          ]
+        },
+        {
           "id": "impact-95e891637f331b2c6670c6bc",
           "title": "Willingness differs from availability; alternative grounds prevent a demonstrated outcome",
           "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(2)(a), (2)(b)(i)–(ii) and (5); omitted scope and occupational-requirement provisions.",
@@ -5497,6 +5753,38 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "8999f701dc5667b8ceda62f1"
+          ]
+        },
+        {
+          "id": "impact-5a110ff14dda3eda277fb7b3",
+          "title": "Customary occupational requirements",
+          "legal_anchor": "Directive 2000/78/EC, Articles 3(1)(a), 4(1) and 2(2)(a), read with Recital 23.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A secular cultural institution starts a new programme and rejects an applicant who is not a practising believer for a role conducting an authentic religious ceremony. Assume the belief requirement genuinely and decisively follows from the duties, its objective is legitimate, the requirement is proportionate, and national law exercises Article 4(1). The requirement has no established occupational usage, and Article 4(2) does not apply to this secular employer.",
+          "rationale": "Lithuanian Article 4(1) uses įprastas, which can require an established or customary occupational requirement where other authentic versions ask whether it is genuine. If that customary-only reading prevails, the employer cannot use Article 4(1) in the stated case despite the duty-linked, proportionate belief requirement, and the rejected applicant has a direct-discrimination claim under Articles 2(2)(a) and 3(1)(a). Under the genuine-requirement reading, the same selection is permitted by the national Article 4(1) exception. This is a conditional change in the hiring result, not merely a different label for the exception.\nCounterreading: Lithuanian Recital 23 repeats the disputed term and does not settle it. The duty-linked, determining, legitimate and proportionate conditions, read with the other authentic Article 4(1) versions, support a harmonised genuine-requirement reading. Custom alone can never replace the determining, legitimate and proportionate safeguards.",
+          "uncertainty": "The example assumes every Article 4(1) safeguard and the lack of any separate exception; actual occupational necessity, proportionality and national implementation would need proof. The multilingual interpretation strongly favours the genuine-requirement reading, so the conditional difference does not establish an actual unlawful selection.",
+          "assessed_at": "2026-10-14T08:56:33.755457Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "1b39148c738474593187507c"
+          ]
+        },
+        {
+          "id": "impact-ec0be6cf39f1375b1b8855d2",
+          "title": "Deterrence and sanction adequacy",
+          "legal_anchor": "Directive 2000/78/EC, Article 17, first and second sentences; Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A reasoned sanction secures correction of an established discriminatory employment decision but leaves repetition economically attractive. It could appear convincing while lacking adequate deterrent force. Whether it would become legally sufficient under that reading remains unresolved.",
+          "rationale": "Bulgarian 'убедителни' can convey persuasiveness or convincing force, whereas Danish expressly requires a deterrent effect. Nevertheless, replacing a distinct deterrence requirement does not establish a changed compliance outcome. Effectiveness, proportionality and the obligation to ensure application remain operative. A small payment or reprimand that fails to discourage repetition might already fail those independent requirements. Merely removing one objection is insufficient to demonstrate that the sanction becomes legally adequate.\nCounterreading: In a sanctions provision, convincing force can mean sufficient force to discourage infringement. Danish 'have afskrækkende virkning', German 'abschreckend' and Latvian 'preventīvām' support that functional interpretation. Article 17's implementation duty reinforces it without requiring English to control the interpretation.",
+          "uncertainty": "Even assuming the disputed adjective requires only convincing force, the available provisions do not establish whether an insufficiently deterrent sanction can satisfy effectiveness and proportionality. Separately, the multilingual and enforcement context strongly supports interpreting convincing force as including deterrence.\nUnresolved: Can a concrete sanction satisfy effectiveness and proportionality while failing only the distinct deterrence requirement? The quoted provisions do not resolve that boundary. Assuming an established infringement addresses Article 2's definitions and exceptions but does not answer this separate question about sanction adequacy.",
+          "assessed_at": "2026-10-14T09:20:21.069877Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "6af5dfe7141276be3a9c2471"
           ]
         },
         {
@@ -5532,6 +5820,22 @@
           ]
         },
         {
+          "id": "impact-10ff6106b0beb15a9d3e9d7e",
+          "title": "Custom in religious employment",
+          "legal_anchor": "Directive 2000/78/EC, Articles 3(1)(a), 4(1)–(2) and 2(2)(a), read with Recital 24 and CJEU C-414/16.",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Under qualifying national legislation already in force at adoption, a religious organisation creates a new interfaith outreach role and rejects an applicant lacking the affiliation needed to credibly present its ethos. Assume the affiliation is objectively necessary and directly linked to the role, legitimate, justified and proportionate under Article 4(2), responds to a probable and substantial risk to the organisation’s ethos without it, and is open to effective judicial review, but has no established occupational usage. National law has not enacted a separate Article 4(1) exception, and no other defence applies.",
+          "rationale": "Lithuanian Article 4(2) uses įprastas, which can be read as customary rather than genuine. If historical occupational usage becomes an added condition, the stated noncustomary requirement fails that exception; with no other national exception, the rejection is direct discrimination under Articles 2(2)(a) and 3(1)(a). Under the genuine-requirement reading, the same rejection is permitted because the requirement meets Article 4(2)’s objective, ethos-linked and proportionate safeguards. Egenberger (C-414/16, paragraphs 62–69) requires those safeguards and judicial review; novelty alone neither proves nor defeats them.\nCounterreading: Lithuanian Recital 24 repeats the disputed term and does not settle it. The objective, ethos-linked and proportionate conditions, read with other authentic Article 4(2) versions, support a harmonised genuine-requirement reading rather than a separate historical-usage test.",
+          "uncertainty": "The example assumes qualifying legislation, no separate national Article 4(1) exception, and proof of objective necessity, proportionality and absent custom. The likely harmonised interpretation may avoid the conditional split. No actual hiring decision or national law is identified.",
+          "assessed_at": "2026-10-14T08:56:33.755809Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "453dfcb575b841a33abe675b"
+          ]
+        },
+        {
           "id": "impact-c08696fa75b9de82c25d7395",
           "title": "Organisations’ procedural entitlement is framed as initiating proceedings",
           "legal_anchor": "Directive 2000/78/EC, Article 9(2), read with Article 9(1) and (3).",
@@ -5548,19 +5852,19 @@
           ]
         },
         {
-          "id": "impact-10ff6106b0beb15a9d3e9d7e",
-          "title": "Custom in religious employment",
-          "legal_anchor": "Directive 2000/78/EC, Article 4(2), including its historical legislative conditions, occupational safeguards and loyalty paragraph; Article 4(1).",
-          "impact_level": "moderate",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "Under qualifying legislation already in force at adoption, an ecumenical religious organisation introduces an interfaith outreach role requiring a particular minority-faith affiliation. Assume the requirement genuinely arises from the duties and ethos, is legitimate and justified, and satisfies the constitutional and general-principles safeguards, but lacks established occupational usage.",
-          "rationale": "If įprastas demands customary status, the organisation loses Article 4(2) eligibility solely because the requirement is not established practice. The historical condition concerns the legislative basis or national practice at adoption; it does not expressly require every later occupational application to be customary. Legitimacy, justification and the connection to the work remain independent safeguards, so custom alone cannot justify religious selection.\nCounterreading: The activity-specific causal wording supports an objective occupational connection. French essentielle, Finnish todellinen and Croatian stvarni reinforce an essential or genuine requirement rather than established usage. Considering these equally authoritative texts together favours the harmonizing reading over a separate customary-status condition.",
-          "uncertainty": "The hypothetical role's occupational justification and genuinely noncustomary character require proof; a new job title alone would not suffice. The historical legislative basis must cover the role. No actual recruitment decision or violation is established.\nUnresolved: Lithuanian Article 4(1) also uses įprastas. If the customary-status construction applies consistently, that alternative cannot rescue the same noncustomary requirement, even if it is determining and proportionate. If the construction were confined to Article 4(2), a changed overall discrimination outcome would additionally require failure of Article 4(1). The loyalty paragraph does not independently authorize religious selection and remains subject to compliance with the Directive.",
-          "assessed_at": "2026-10-14T08:51:08.707109Z",
+          "id": "impact-fdcd5b35b42e5680a872b7ba",
+          "title": "Discretion and timing in burden shifting",
+          "legal_anchor": "Directive 2000/78/EC, Recitals 15 and 31 and Articles 9(1) and 10(1)–(5).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A worker challenging an age-based dismissal establishes facts suggesting discrimination but lacks the employer's internal evidence. Optional adaptation could permit withholding a burden shift; a completed-proof threshold could independently postpone it until the worker has proved discrimination.",
+          "rationale": "Hungarian Recital 31 permits adaptation and uses proved-discrimination language. Operative Article 10(1) nevertheless requires the respondent to prove no equal-treatment breach once the claimant presents facts permitting a presumption. Its subsections define the exceptions and allow more favourable national proof rules; the recital cannot make the shift optional or postpone it until discrimination is already proved. The stated worker’s entitlement therefore depends on Article 10 and the facts, not the disputed recital wording.\nCounterreading: The Hungarian second sentence affirmatively shifts proof; adaptation can concern implementation of the rule, and “proved” can refer to the initial facts supporting a presumption.",
+          "uncertainty": "Whether the worker establishes prima facie facts, whether a listed Article 10 exception applies, and the procedural design of national law require case-specific review. A national rule withholding the shift despite satisfaction of Article 10 could be misimplementation rather than a lawful consequence of the recital.\nUnresolved: Can the Hungarian recital wording alter any result consistent with the operative Article 10 rule?",
+          "assessed_at": "2026-10-14T09:15:58.602869Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
-            "453dfcb575b841a33abe675b"
+            "ff2869d96ac2523dff227f05"
           ]
         },
         {
@@ -5609,6 +5913,38 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "ad0b6dc071990a3829eefb02"
+          ]
+        },
+        {
+          "id": "impact-0358bb98a489fbcba4257588",
+          "title": "Nationality exclusion and employment access",
+          "legal_anchor": "Directive 2000/78/EC, Recital 12 and Articles 1, 2, 3(1)(a) and 3(2).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A third-country national challenges a nationality-based recruitment condition that also places people of a particular religion at a disadvantage. The applicant argues that the Latvian Recital 12 exclusion is conditional on preserving employment-access provisions. The condition’s relationship to immigration status, the protected-ground disadvantage and any objective justification remain to be established.",
+          "rationale": "Latvian Recital 12 can be read as attaching a condition to the nationality reservation. The archived Latvian Article 3(2) has a related operative wording difference, but it still governs the exclusion; the recital alone cannot create a protected nationality claim or displace that operative rule. Article 1 lists religion, belief, disability, age and sexual orientation, not nationality. A separate indirect religion claim under Article 2(2)(b) would require particular disadvantage and assessment of legitimate aim, appropriateness and necessity. Article 3(1)(a) supplies employment-access scope, while Article 3(2) preserves nationality and legal-status exclusions. No changed claim outcome follows from the recital grammar alone.\nCounterreading: Other authentic versions and the operative structure treat the nationality and immigration reservations separately; a harmonised reading of Latvian Recital 12 is more plausible than a new nationality protection.",
+          "uncertainty": "An actual case would need to establish an independent Article 1 ground, whether the treatment arises from nationality or legal status under Article 3(2), and the Article 2(2)(b) justification questions. The related Article 3(2) wording requires its own analysis; this recital does not resolve it.",
+          "assessed_at": "2026-10-14T09:04:43.090907Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "62cedf42356a8cdeff4a9d17"
+          ]
+        },
+        {
+          "id": "impact-61f3e4fb1728a2fd1e755e27",
+          "title": "Threshold for shifting proof",
+          "legal_anchor": "Directive 2000/78/EC, Recitals 15 and 31 and Articles 9(1) and 10(1)–(5).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An applicant presents facts suggesting rejection because of age but cannot conclusively establish the employer's reason. A requirement to prove discrimination before shifting the burden could leave the applicant bearing the decisive evidential burden.",
+          "rationale": "Slovak Recital 31 may sound as if discrimination must already be proved before the burden shifts. But operative Article 10(1) expressly shifts proof once a claimant establishes facts from which direct or indirect discrimination may be presumed. Article 10(2)–(5) specifies the scope and exceptions. A recital cannot impose a higher threshold that displaces that rule. The stated applicant may invoke Article 10 after establishing prima facie facts; the wording difference in Recital 31 does not establish a changed procedural entitlement.\nCounterreading: Slovak’s same-sentence apparent-case wording and parallel authentic recitals support interpreting “proved” as establishing the initial presumption, consistently with Article 10.",
+          "uncertainty": "The claimant still must establish facts from which discrimination may be presumed. Whether the facts meet that threshold and which Article 10 exception, if any, applies depend on the case. A higher national threshold could be a misapplication of the Directive, not a result authorized by the recital.\nUnresolved: Does any realistic case turn on the Slovak recital wording while satisfying the operative Article 10 rule?",
+          "assessed_at": "2026-10-14T09:15:58.603153Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "0b2098828d51bb3e76589861"
           ]
         },
         {
@@ -5756,6 +6092,22 @@
           ]
         },
         {
+          "id": "impact-8299ab83d3d74f7d57155bd3",
+          "title": "Cumulative qualification deficiencies",
+          "legal_anchor": "Directive 2000/78/EC, Recital 17 and Articles 2(1)–(2), 3(1)(a)–(b), 4(1) and 5.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An applicant is competent and available but cannot perform an essential job function even after required accommodation. An employer refuses recruitment. Under the disputed Romanian reading, the recital's disclaimer does not apply because the applicant does not lack all three attributes.",
+          "rationale": "The repeated Romanian “nici” can suggest that all three deficiencies must coexist, whereas some parallel versions expressly allow alternative deficiencies. Even under that narrower disclaimer, a recital does not create an unconditional hiring or training entitlement. Recruitment and training fall within Article 3(1)(a)–(b), but Article 2’s discrimination tests, any Article 4(1) genuine occupational requirement and an employer’s Article 5 accommodation duty govern the refusal. Once these are applied, no reversal follows merely because the recital fails to disclaim a duty for an applicant lacking one attribute.\nCounterreading: The qualification structure of Recital 17 and parallel authentic versions support a combined-fitness reading. The accommodation reservation prevents treating any deficiency as an automatic exclusion.",
+          "uncertainty": "In actual disputes, ability after reasonable accommodation, comparability, any neutral-rule disadvantage and Article 4(1) conditions are fact dependent; inability after accommodation is stipulated only in this scenario. The Romanian qualification phrase by itself does not determine a legal entitlement.\nUnresolved: What operative rule would require the applicant’s recruitment after Articles 2, 4 and 5 are applied?",
+          "assessed_at": "2026-10-14T09:10:26.156445Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "a546b0d4a4450060db2a8c73"
+          ]
+        },
+        {
           "id": "impact-e401c36b636c96bcc7a5140b",
           "title": "Treatment contrary to Treaty classification",
           "legal_anchor": "Directive 2000/78/EC, Recital 13 and Articles 3(1)(c) and 3(3), read with the Treaty remuneration classification.",
@@ -5820,6 +6172,22 @@
           ]
         },
         {
+          "id": "impact-94febc0cc6116a8efa4dae34",
+          "title": "Deterrent force of sanctions",
+          "legal_anchor": "Recital 35 and Article 2’s discrimination definitions and qualifications.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An employer commits established religious discrimination. A sanction gives meaningful individual redress and is proportionate to the breach, but is insufficient to discourage repetition. The proposed changed outcome is acceptance of that sanction as convincing, whereas an independent deterrence requirement would demand a stronger sanction.",
+          "rationale": "Bulgarian ‘убедителни’ conveys convincing or persuasive character without expressly stating deterrence. Nevertheless, effectiveness and proportionality remain cumulative constraints. Individual redress does not by itself establish effectiveness, and an ineffective sanction cannot qualify merely because it is convincing. Assuming an established breach removes uncertainty about Article 2’s discrimination definitions, neutral-practice justification, disability limb and national-law safeguard; it does not resolve sanction adequacy. Recital 35 supplies interpretive guidance rather than an independent operative sanctions obligation. Even if the disputed meaning prevails, the required sanction could therefore remain unchanged.\nCounterreading: The strongest harmonising reading understands convincing sanctions as credible measures whose practical force persuades potential offenders to comply. Danish expressly requires ‘en afskrækkende virkning’, German uses ‘abschreckende’, and French uses ‘dissuasives’. Latvian preventive wording and Polish wording stressing burdensome sanctions also concern practical force rather than mere rhetorical persuasiveness. With equal authority given to these formulations, the enforcement purpose strongly favours deterrence. Effectiveness reinforces that interpretation, without necessarily making effectiveness and deterrence identical.",
+          "uncertainty": "The quoted extracts do not reproduce the operative sanctions provisions or the applicable national regime. Those rules may independently require deterrence. Whether the proposed sanction can be effective despite failing to discourage repetition also remains unresolved.\nUnresolved: Does the operative sanctions rule independently require deterrence? Can the proposed sanction satisfy effectiveness while failing deterrence, and would the recital’s disputed meaning change what sanction is legally required?",
+          "assessed_at": "2026-10-14T09:17:18.350557Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "4807e60e9c43a33e16aa3881"
+          ]
+        },
+        {
           "id": "impact-8470820bd43001e24e981b02",
           "title": "Post-relationship procedural guarantee specifies employment",
           "legal_anchor": "Directive 2000/78/EC, Article 9(1), including its all-persons guarantee; Article 9(3); Article 2.",
@@ -5868,19 +6236,19 @@
           ]
         },
         {
-          "id": "impact-5a110ff14dda3eda277fb7b3",
-          "title": "Customary occupational requirements",
-          "legal_anchor": "Directive 2000/78/EC, Article 4(1), read with Article 2(1)–(2), Article 2(5) and Article 4(2).",
+          "id": "impact-a73b11d9fa60c7430c4fc561",
+          "title": "Legislative recognition of religious practices",
+          "legal_anchor": "Directive 2000/78/EC, Articles 3(1)(a), 4(1)–(2) and 2(2)(a), read with Recital 24 and CJEU C-414/16.",
           "impact_level": "moderate",
           "confidence": "medium",
           "review_state": "provisional",
-          "effect": "A secular organisation introduces a specialist peer-support occupation requiring a particular sexual orientation. Assume that the characteristic genuinely determines the work, the objective is legitimate, the requirement is proportionate, and national law provides the occupational exception. The requirement has no established occupational usage, rather than merely being new to this employer.",
-          "rationale": "Lithuanian įprastas supports a customary or usual meaning. If established usage becomes a necessary condition, the hypothetical requirement loses Article 4(1) protection despite satisfying its remaining conditions. This changes eligibility for the exception to direct discrimination. Conversely, custom alone cannot establish eligibility: the work-related connection, determining character, legitimacy and proportionality remain necessary.\nCounterreading: The requirement must arise from the particular activities or their context. French essentielle et déterminante and Finnish todellinen ja ratkaiseva support substantive occupational necessity, without a separate historical-usage condition. Read together as equally authoritative texts, these provisions favour that harmonizing interpretation; the customary-status reading is less persuasive.",
-          "uncertainty": "The example is hypothetical. Actual application requires proof of the occupational necessity, absence of established usage and national provision for the exception. These factual assumptions do not establish any actual discriminatory conduct.\nUnresolved: Article 4(2) does not cover the secular employer. Article 2(2)(b)'s justification concerns apparently neutral criteria, whereas the example expressly selects by a protected characteristic. No necessary statutory measure under Article 2(5) is assumed. The remaining application questions concern proof of the stated facts.",
-          "assessed_at": "2026-10-14T08:51:08.688588Z",
+          "effect": "A Member State enacts an Article 4(2) religious-employment exception after adoption of the Directive, incorporating a documented national practice that existed on 27 November 2000 but had no statutory recognition then. A religious charity later rejects a nonbelieving applicant for a public representative role under that statute. Assume the belief requirement is objectively necessary for a credible presentation of the charity’s ethos, directly tied to the role, proportionate, responds to a probable and substantial risk to the charity’s ethos without it, satisfies national constitutional safeguards, and is open to effective judicial review. The Member State has not enacted a separate Article 4(1) exception, and no other defence applies.",
+          "rationale": "Bulgarian Article 4(2) reverses the apparent relationship between a future law and an established practice. If read to demand legislation already in force at adoption, the later statute cannot preserve the stated practice through Article 4(2). Without another national occupational exception, the rejection is direct discrimination under Articles 2(2)(a) and 3(1)(a). On the reading allowing later legislation based on that established practice, Article 4(2) permits the same religious requirement and the rejection is lawful, provided all its safeguards are met. Egenberger (C-414/16, paragraphs 62–69) requires an objectively necessary, ethos-linked and proportionate condition subject to effective judicial review; those conditions are stipulated, not inferred from the charity’s preference.\nCounterreading: The awkward Bulgarian syntax can be harmonised with other authentic versions to permit later legislation based on historical practice without a pre-existing statute.",
+          "uncertainty": "The result depends on proof of the pre-adoption practice, the later statute’s exact scope and all Article 4(2) conditions. The narrower Bulgarian construction is not established as the governing EU interpretation. No actual employer, applicant or national law is assessed.",
+          "assessed_at": "2026-10-14T08:56:33.755722Z",
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
-            "1b39148c738474593187507c"
+            "44bc7f009d623c3eed83954a"
           ]
         },
         {
@@ -5900,22 +6268,6 @@
           ]
         },
         {
-          "id": "impact-81dc9e29c51e86527337c453",
-          "title": "Source of loyalty obligations",
-          "legal_anchor": "Directive 2000/78/EC, Article 4(2), final paragraph, read with the preceding occupational conditions and Article 2.",
-          "impact_level": null,
-          "confidence": "low",
-          "review_state": "needs_review",
-          "effect": "A religious charity that has imposed no loyalty condition seeks to discipline an employee for public criticism, arguing that the Directive itself supplies the missing obligation.",
-          "rationale": "Romanian makes prezenta directivă the apparent subject of poate impune. That supports a shift in the apparent source of authority. However, may impose does not establish that an obligation has actually been imposed, its content, or a disciplinary consequence. Even accepting the disputed subject, the proposed employment outcome requires an additional legal step that the quoted provisions do not establish.\nCounterreading: The same sentence expressly preserves the organisations' right and requires conformity with national constitutional and legislative provisions. German and Portuguese directly identify the organisations as entitled to require loyalty; French expresses preservation of their right. Together, these equally authoritative texts strongly support an employer's conditional power to require loyalty.",
-          "uncertainty": "The available extracts do not establish applicable national employment rules, an implementing measure, contractual duties or a route for enforcing the apparent permission. No conclusion about a Directive-based employee duty or lawful discipline follows from the syntax alone.\nUnresolved: What act converts the apparent permission into an employee obligation, and what authorizes discipline for its breach? The continuing compliance condition and the prohibition on justifying discrimination on another ground remain operative. The loyalty sentence does not expressly displace Article 2 or the occupational safeguards in Article 4.",
-          "assessed_at": "2026-10-14T08:51:08.707187Z",
-          "rubric_version": "potential-impact-pilot-3",
-          "finding_ids": [
-            "9b50eff298757517d5ffd7c0"
-          ]
-        },
-        {
           "id": "impact-dd6eb1c878a94d5080ba70a3",
           "title": "Alleging facts to shift proof",
           "legal_anchor": "Directive 2000/78/EC, Article 10(1)–(5), read with Article 2(1)–(2) and Recitals 15 and 31.",
@@ -5929,6 +6281,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "1df6fc4282529f0587b79323"
+          ]
+        },
+        {
+          "id": "impact-4f4a734129b03363feb81a0d",
+          "title": "Amendment notification scope",
+          "legal_anchor": "Directive 2000/78/EC, Article 17, final sentence.",
+          "impact_level": "limited",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A Member State amends internal statistical reporting duties within its equality administration, affecting the State's administrative obligations but leaving sanctions provisions and their application unchanged. If amendments affecting Member States independently trigger notification, this amendment must be notified; a trigger confined to amendments affecting sanctions provisions would not cover it.",
+          "rationale": "Latvian expressly identifies Member States as the affected object. If that wording expands the notification trigger beyond changes affecting sanctions provisions, the scenario establishes an additional reporting obligation. The change remains ancillary: it does not itself alter prohibited discrimination, sanctions or compensation. Article 17's other sentences impose sanction and implementation duties but do not independently require notification of this administrative amendment.\nCounterreading: The strongest harmonizing reading treats 'subsequent amendments' as amendments to the previously identified provisions, with the Latvian reference to Member States adding no independent expansion. The sanctions heading and the explicit references to changes to those provisions in Spanish and Lithuanian support that reading. This contextual connection matters more than the number of versions using either formulation.",
+          "uncertainty": "The broader construction is less persuasive in the multilingual context. The exact outer boundary of amendments affecting Member States is unclear, but the stated scenario directly changes a State's administrative duties.\nUnresolved: No further dependency prevents the additional notification obligation in the stated scenario if the broader trigger governs. Article 2's discrimination definitions and exceptions do not determine this reporting boundary.",
+          "assessed_at": "2026-10-14T09:20:21.069127Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "4b0f797fff976e3cb369c18a"
           ]
         },
         {
@@ -6105,6 +6473,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "e491fed49f36914d94294fdb"
+          ]
+        },
+        {
+          "id": "impact-9924786fdf0ccf86d03c04fa",
+          "title": "Compensation remedy requirement",
+          "legal_anchor": "Directive 2000/78/EC, Article 17, first and second sentences; Article 2.",
+          "impact_level": "high",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "For an established unlawful instance of employment discrimination, national law provides administrative sanctions satisfying effectiveness, proportionality and deterrence but offers no compensation remedy. If the Latvian clause requires compensation to form part of the sanctions framework, the State must add that remedy despite the adequacy of its administrative sanctions.",
+          "rationale": "The Latvian clause says sanctions include compensation without expressing possibility. Assuming this establishes a mandatory remedial component, otherwise adequate non-compensatory sanctions cannot satisfy that additional requirement. The resulting obligation to make monetary redress available is substantial and has broad textual reach. This does not establish automatic payment, a particular amount or an individual entitlement enforceable directly against an employer.\nCounterreading: The Latvian relative clause can identify sanctions that include compensation without commanding its inclusion. German 'umfassen können' and French 'peuvent comprendre' expressly present compensation as a possible component. Together with Article 17's general obligation to establish adequate sanctions, these formulations support preserving the choice of remedy rather than treating the Latvian clause as a separate compensation command.",
+          "uncertainty": "The mandatory construction is less persuasive when the authentic versions are interpreted together. Conditions for individual awards, amounts and national enforcement mechanisms are not established by the quoted provisions.\nUnresolved: The scenario assumes an established infringement, so Article 2's qualifications, including the disability-accommodation cross-reference and protected national measures, do not remove its premise. The remaining sanction-quality requirements do not substitute for compensation if compensation is independently mandatory. Individual award conditions remain unresolved but do not prevent the framework-level consequence.",
+          "assessed_at": "2026-10-14T09:20:21.069665Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "69b638eae643af89a08393eb"
           ]
         },
         {
@@ -10482,9 +10866,9 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 110,
-        "reviewed_units": 40,
+        "reviewed_units": 60,
         "total_languages": 23,
-        "reviewed_languages": 9,
+        "reviewed_languages": 13,
         "reviewed_language_codes": [
           "bg",
           "cs",
@@ -10493,7 +10877,11 @@
           "el",
           "es",
           "et",
-          "fr"
+          "fi",
+          "fr",
+          "hr",
+          "hu",
+          "it"
         ]
       },
       "passages": [
@@ -12124,6 +12512,622 @@
             ],
             "reviewed_at": "2026-10-14T08:48:07.302682Z"
           }
+        },
+        {
+          "id": "b7edb1fa65abc13fe20aec2a",
+          "passage_id": "p0005",
+          "english_quote": "Folate contributes to maternal tissue growth during pregnancy",
+          "title": "Folate claim omits the maternal-tissue limitation",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English limits the permitted benefit to maternal tissue growth. Finnish refers generally to tissue growth during pregnancy, potentially permitting a claim encompassing fetal tissue growth.",
+          "variants": [
+            {
+              "language": "fi",
+              "language_name": "Finnish",
+              "quote": "Folaatti edistää raskauden aikaista kudosten kasvua",
+              "translation": "Folate contributes to tissue growth during pregnancy",
+              "explanation": "English limits the permitted benefit to maternal tissue growth. Finnish refers generally to tissue growth during pregnancy, potentially permitting a claim encompassing fetal tissue growth.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:04:09.984119Z"
+          }
+        },
+        {
+          "id": "e005daeac376f2fe9e1e2870",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim, sugars should be replaced in foods or drinks (which reduce plaque pH below 5.7) by sugar replacers, i.e. intense sweeteners, xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, erythritol, D-tagatose, isomaltulose, sucralose or polydextrose, or a combination of them, in amounts such that consumption of such foods or drinks does not lower plaque pH below 5.7 during and up to 30 minutes after consumption",
+          "title": "Dental-claim condition omits D-tagatose and isomaltulose",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly permits D-tagatose and isomaltulose in the dental-claim replacement condition. Finnish omits them from that list, potentially excluding products relying on either ingredient. Their inclusion in the Finnish heading and footnote supports an inclusive interpretation but leaves an internal inconsistency.",
+          "variants": [
+            {
+              "language": "fi",
+              "language_name": "Finnish",
+              "quote": "Jotta väite voidaan esittää, sokerit on korvattava elintarvikkeissa tai juomissa (jotka alentavat plakin pH:n alle 5,7:ään) makeutusaineilla, eli intensiivimakeuttajilla, ksylitolilla, sorbitolilla, mannitolilla, maltitolilla, laktitolilla, isomaltilla, erytritolilla, sukraloosilla tai polydekstroosilla tai niiden yhdistelmillä, sellaisina määrinä, että tällaisten elintarvikkeiden tai juomien nauttiminen ei alenna plakin pH:ta alle 5,7:ään nauttimisen aikana ja 30 minuuttia sen jälkeen.",
+              "translation": "For the claim to be made, sugars must be replaced in foods or drinks (which lower plaque pH below 5.7) with sweeteners, namely intense sweeteners, xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, erythritol, sucralose or polydextrose, or combinations of them, in such quantities that consumption of such foods or drinks does not lower plaque pH below 5.7 during consumption and for 30 minutes afterwards.",
+              "explanation": "English expressly permits D-tagatose and isomaltulose in the dental-claim replacement condition. Finnish omits them from that list, potentially excluding products relying on either ingredient. Their inclusion in the Finnish heading and footnote supports an inclusive interpretation but leaves an internal inconsistency.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:04:09.986646Z"
+          }
+        },
+        {
+          "id": "89f3c72785189726ea4c3ddf",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food which contains at least 8 g of arabinoxylan (AX)-rich fibre produced from wheat endosperm (at least 60 % AX by weight) per 100 g of available carbohydrates in a quantified portion as part of the meal.",
+          "title": "Arabinoxylan threshold omits the available-carbohydrate qualification",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English measures the minimum fibre quantity against available carbohydrates. Finnish leaves carbohydrates unqualified, potentially counting non-available carbohydrates and requiring more fibre for the same portion. Interpreting Finnish carbohydrates as available carbohydrates would reconcile the conditions.",
+          "variants": [
+            {
+              "language": "fi",
+              "language_name": "Finnish",
+              "quote": "Väite voidaan esittää vain elintarvikkeesta, joka sisältää vähintään 8 g arabinoksylaanipitoista kuitua, joka on tuotettu vehnän siemenvalkuaisesta (vähintään 60 painoprosenttia arabinoksylaania), 100:aa g hiilihydraatteja kohti määräannoksessa osana ateriaa.",
+              "translation": "The claim may be made only for food containing at least 8 g of arabinoxylan-rich fibre produced from wheat endosperm (at least 60 percent arabinoxylan by weight) per 100 g of carbohydrates in a quantified portion as part of the meal.",
+              "explanation": "English measures the minimum fibre quantity against available carbohydrates. Finnish leaves carbohydrates unqualified, potentially counting non-available carbohydrates and requiring more fibre for the same portion. Interpreting Finnish carbohydrates as available carbohydrates would reconcile the conditions.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:04:09.980673Z"
+          }
+        },
+        {
+          "id": "40122da61df6359f6e9153a8",
+          "passage_id": "p0005",
+          "english_quote": "( *3 ) Authorised on 24.9.2013 restricted to the use of GlaxoSmithKline Services Unlimited and its affiliates, GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom, for a period of five years.",
+          "title": "Historical exclusive-use provision names subsidiaries instead of affiliates",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "During the stated historical five-year period, Finnish could restrict use to GlaxoSmithKline Services Unlimited and its subsidiaries. English could also cover affiliates such as parent or sister companies. The distinction concerns corporate eligibility, not the company’s name.",
+          "variants": [
+            {
+              "language": "fi",
+              "language_name": "Finnish",
+              "quote": "( *3 ) Hyväksytty 24.9.2013; sitä saa käyttää viiden vuoden ajan ainoastaan yritys GlaxoSmithKline Services Unlimited ja sen tytäryhtiöt, GSK House, 980 Great West Road, Brentford, TW89GS, Yhdistynyt kuningaskunta.",
+              "translation": "( *3 ) Authorised on 24.9.2013; it may be used for five years only by the company GlaxoSmithKline Services Unlimited and its subsidiaries, GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom.",
+              "explanation": "During the stated historical five-year period, Finnish could restrict use to GlaxoSmithKline Services Unlimited and its subsidiaries. English could also cover affiliates such as parent or sister companies. The distinction concerns corporate eligibility, not the company’s name.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:04:09.987255Z"
+          }
+        },
+        {
+          "id": "ea40a4404137ffc93113df8d",
+          "passage_id": "p0005",
+          "english_quote": "resistance training, which allows an increase in the workload over time and which should be performed at least three times per week for several weeks, at an intensity of at least 65 %-75 % of one repetition maximum load ( *10 ) .",
+          "title": "Creatine instructions describe actual increases in training resistance",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Finnish describes training in which resistance actually increases over time. English describes training that allows workload increases. Finnish could therefore require instructions prescribing progression where English could be read as requiring only a programme capable of progression.",
+          "variants": [
+            {
+              "language": "fi",
+              "language_name": "Finnish",
+              "quote": "voimaharjoitteluun, jossa vastusmäärää kasvatetaan ajan mittaan ja jota harjoitetaan vähintään kolme kertaa viikossa useiden viikkojen ajan vähintään voimakkuudella 65–75 prosenttia yhden toiston maksimikuormituksesta ( *10 ) .",
+              "translation": "resistance training in which the amount of resistance is increased over time and which is performed at least three times a week for several weeks at an intensity of at least 65–75 percent of the one-repetition maximum load ( *10 ) .",
+              "explanation": "Finnish describes training in which resistance actually increases over time. English describes training that allows workload increases. Finnish could therefore require instructions prescribing progression where English could be read as requiring only a programme capable of progression.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:04:09.984970Z"
+          }
+        },
+        {
+          "id": "dcd30c029291ee5d1ead2ed1",
+          "passage_id": "p0005",
+          "english_quote": "Linoleic acid | Linoleic acid contributes to the maintenance of normal blood cholesterol levels | The claim may be used only for a food which provides at least 1,5 g of linoleic acid (LA) per 100 g and per 100 kcal.",
+          "title": "Cholesterol claim identifies a different fatty acid",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Croatian identifies linolenic acid, whereas English identifies linoleic acid. These are distinct substances, potentially changing which foods satisfy the concentration requirement and may bear the cholesterol claim.",
+          "variants": [
+            {
+              "language": "hr",
+              "language_name": "Croatian",
+              "quote": "Linolenska kiselina | Linolenska kiselina doprinosi održavanju normalne razine kolesterola u krvi | Tvrdnja se smije koristiti samo za hranu koja osigurava najmanje 1,5 g linolenske kiseline (LA) na 100 g i na 100 kcal.",
+              "translation": "Linolenic acid | Linolenic acid contributes to the maintenance of normal blood cholesterol levels | The claim may be used only for food providing at least 1.5 g of linolenic acid (LA) per 100 g and per 100 kcal.",
+              "explanation": "Croatian identifies linolenic acid, whereas English identifies linoleic acid. These are distinct substances, potentially changing which foods satisfy the concentration requirement and may bear the cholesterol claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:08:11.733020Z"
+          }
+        },
+        {
+          "id": "d649b28333e1cf25a911a940",
+          "passage_id": "p0005",
+          "english_quote": "Reformulated, non-alcoholic, acidic drink with: — less than 1 g fermentable carbohydrate per 100 ml (sugars and other carbohydrates except polyols),",
+          "title": "Drink threshold refers to fermented rather than fermentable carbohydrates",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English limits carbohydrates capable of fermentation; Croatian refers to carbohydrates already fermented. A literal Croatian reading could exclude unfermented but fermentable carbohydrates from the 1 g ceiling, changing eligibility for the tooth-mineralisation claim.",
+          "variants": [
+            {
+              "language": "hr",
+              "language_name": "Croatian",
+              "quote": "Preformulirani, bezalkoholni napitak koji sadržava kiseline sa: — Manje od 1 g fermentiranih ugljikohidrata na 100 ml (šećeri i ostali ugljikohidrati osim poliola);",
+              "translation": "Reformulated, non-alcoholic drink containing acids with: — Less than 1 g of fermented carbohydrates per 100 ml (sugars and other carbohydrates except polyols);",
+              "explanation": "English limits carbohydrates capable of fermentation; Croatian refers to carbohydrates already fermented. A literal Croatian reading could exclude unfermented but fermentable carbohydrates from the 1 g ceiling, changing eligibility for the tooth-mineralisation claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:08:11.734673Z"
+          }
+        },
+        {
+          "id": "344b6d5b934543910baa6c4b",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim, fermentable carbohydrates ( 1 **) should be replaced in foods or drinks by non-fermentable carbohydrates ( 2 ***) in such amounts that consumption of such foods or drinks does not lower plaque pH below 5,7 during and up to 30 minutes after consumption.",
+          "title": "Dental claim does not expressly preserve the full pH monitoring period",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English covers consumption and the following 30 minutes. Croatian specifies the first half hour without fixing its starting point. Counting from the start of consumption could shorten the required pH protection period and alter which foods qualify.",
+          "variants": [
+            {
+              "language": "hr",
+              "language_name": "Croatian",
+              "quote": "Za korištenje tvrdnje fermentabilne ugljikohidrate ( 1 **) treba u hrani ili piću zamijeniti nefermentabilnim ugljikohidratima ( 2 ***) u takvim količinama da konzumiranje takve hrane ili pića prvih pola sata ne spusti pH plaka ispod 5,7.",
+              "translation": "To use the claim, fermentable carbohydrates ( 1 **) must be replaced in food or drink by non-fermentable carbohydrates ( 2 ***) in such quantities that consumption of such food or drink does not lower plaque pH below 5.7 during the first half hour.",
+              "explanation": "English covers consumption and the following 30 minutes. Croatian specifies the first half hour without fixing its starting point. Counting from the start of consumption could shorten the required pH protection period and alter which foods qualify.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:08:11.736597Z"
+          }
+        },
+        {
+          "id": "024ecafcc7a939f9c6d4c227",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food which contains at least 4 g of beta-glucans from oats or barley for each 30 g of available carbohydrates in a quantified portion as part of the meal. In order to bear the claim information shall be given to the consumer that the beneficial effect is obtained by consuming the beta-glucans from oats or barley as part of the meal.",
+          "title": "Beta-glucan conditions may require both cereal sources",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly allows either oats or barley. Croatian joins the sources with “and” in the composition condition and required consumer information, potentially excluding single-source foods or requiring different instructions. The Croatian claim itself supports a harmonizing alternative reading.",
+          "variants": [
+            {
+              "language": "hr",
+              "language_name": "Croatian",
+              "quote": "Tvrdnja se smije koristiti samo za hranu koja sadrži najmanje 4 g beta-glukana iz zobi i ječma za svakih 30 g raspoloživih ugljikohidrata u količinski određenoj porciji kao dijelu obroka. Za korištenje tvrdnje potrošaču treba dati informaciju da se koristan učinak postiže uzimanjem beta-glukana iz zobi i ječma kao dijela obroka.",
+              "translation": "The claim may be used only for food containing at least 4 g of beta-glucans from oats and barley for every 30 g of available carbohydrates in a quantified portion as part of the meal. To use the claim, the consumer must be informed that the beneficial effect is obtained by consuming beta-glucans from oats and barley as part of the meal.",
+              "explanation": "English expressly allows either oats or barley. Croatian joins the sources with “and” in the composition condition and required consumer information, potentially excluding single-source foods or requiring different instructions. The Croatian claim itself supports a harmonizing alternative reading.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:08:11.742524Z"
+          }
+        },
+        {
+          "id": "3fe03b63d7c41da0c05f8aff",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food which is high in that fibre as referred to in the claim HIGH FIBRE as listed in the Annex to Regulation (EC) No 1924/2006.",
+          "title": "Named-fibre claims use a general dietary-fibre condition",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For the six affected claims, Hungarian could allow total dietary fibre to satisfy the composition threshold, whereas English requires a high content of the particular fibre named in the claim.",
+          "variants": [
+            {
+              "language": "hu",
+              "language_name": "Hungarian",
+              "quote": "Az állítás csak olyan élelmiszer esetében alkalmazható, amely az 1924/2006/EK rendelet mellékletében felsorolt ÉLELMI ROSTBAN GAZDAG állítás szerint élelmi rostban gazdag.",
+              "translation": "The claim may be used only for food which is high in dietary fibre according to the HIGH FIBRE claim listed in the Annex to Regulation (EC) No 1924/2006.",
+              "explanation": "For the six affected claims, Hungarian could allow total dietary fibre to satisfy the composition threshold, whereas English requires a high content of the particular fibre named in the claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:14:41.412047Z"
+          }
+        },
+        {
+          "id": "56e98070752d490b424c10d5",
+          "passage_id": "p0005",
+          "english_quote": "Vitamin B6 contributes to normal cysteine synthesis",
+          "title": "Vitamin B6 claim covers cysteine metabolism rather than synthesis",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Hungarian could authorize a broader message about cysteine metabolism, including processes other than the synthesis specified in English.",
+          "variants": [
+            {
+              "language": "hu",
+              "language_name": "Hungarian",
+              "quote": "A B6-vitamin részt vesz a normál cisztein-anyagcseréhez.",
+              "translation": "Vitamin B6 participates in normal cysteine metabolism.",
+              "explanation": "Hungarian could authorize a broader message about cysteine metabolism, including processes other than the synthesis specified in English.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:14:41.414717Z"
+          }
+        },
+        {
+          "id": "4bdbd644ebb03bddbe9bb093",
+          "passage_id": "p0005",
+          "english_quote": "Live cultures in yoghurt or fermented milk improve lactose digestion of the product in individuals who have difficulty digesting lactose",
+          "title": "Yoghurt culture claim omits the product-specific lactose limitation",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Hungarian could support a claim about lactose digestion generally, including lactose from other foods. English expressly confines the benefit to lactose in the product.",
+          "variants": [
+            {
+              "language": "hu",
+              "language_name": "Hungarian",
+              "quote": "A joghurtban és a savanyított tejben található élő kultúrák elősegítik a laktóz emésztését azoknál, akiknek laktózemésztési nehézségeik vannak.",
+              "translation": "Live cultures found in yoghurt and fermented milk facilitate lactose digestion in people who have difficulty digesting lactose.",
+              "explanation": "Hungarian could support a claim about lactose digestion generally, including lactose from other foods. English expressly confines the benefit to lactose in the product.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:14:41.417483Z"
+          }
+        },
+        {
+          "id": "e173a3edddfda78aa4066190",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food supplements, with a minimum dose of 4 500 FCC (Food Chemicals Codex) units with instructions to the target population to consume with each lactose containing meal.",
+          "title": "Lactase quantity is not expressly measured per dose",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires a minimum dose of 4 500 FCC units. Hungarian could allow that quantity to be assessed across a supplement containing multiple doses, potentially permitting a smaller amount at each meal.",
+          "variants": [
+            {
+              "language": "hu",
+              "language_name": "Hungarian",
+              "quote": "Az állítás csak olyan étrend-kiegészítők esetében alkalmazható, amelyek legalább 4 500 FCC (Food Chemicals Codex szerinti) egységet tartalmaznak; ehhez útmutatót kell mellékelni a célcsoport számára, miszerint az enzimet minden laktóztartalmú étkezéshez fogyasztani kell.",
+              "translation": "The claim may be used only for food supplements which contain at least 4 500 FCC (Food Chemicals Codex) units; accompanying instructions must be provided to the target group stating that the enzyme must be consumed with every lactose-containing meal.",
+              "explanation": "English requires a minimum dose of 4 500 FCC units. Hungarian could allow that quantity to be assessed across a supplement containing multiple doses, potentially permitting a smaller amount at each meal.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:14:41.418707Z"
+          }
+        },
+        {
+          "id": "63040a723b9a77e501f0aa71",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim information shall be given to the consumer that a daily intake in excess of 4 g may significantly increase blood cholesterol levels.",
+          "title": "Betaine warning omits the daily measurement period",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Hungarian could produce a warning understood as applying to a single intake. English expressly requires warning about the daily total, including several smaller intakes exceeding 4 g together.",
+          "variants": [
+            {
+              "language": "hu",
+              "language_name": "Hungarian",
+              "quote": "Ahhoz, hogy az állítást fel lehessen tüntetni, a fogyasztót tájékoztatni kell arról, hogy a 4 g — ot meghaladó bevitel jelentősen megnövelheti a vér koleszterinszintjét.",
+              "translation": "In order to display the claim, the consumer must be informed that an intake exceeding 4 g may significantly increase blood cholesterol levels.",
+              "explanation": "Hungarian could produce a warning understood as applying to a single intake. English expressly requires warning about the daily total, including several smaller intakes exceeding 4 g together.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:14:41.419964Z"
+          }
+        },
+        {
+          "id": "ba3447806e6652a0341ab2ee",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim information shall be given to the consumer that the claimed effect is obtained with a daily intake of at least 10 g of wheat bran fibre.",
+          "title": "Wheat bran advice omits that 10 g is a minimum",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires advice presenting 10 g as the minimum daily intake. Hungarian requires advice identifying 10 g as effective without communicating that minimum qualification.",
+          "variants": [
+            {
+              "language": "hu",
+              "language_name": "Hungarian",
+              "quote": "Ahhoz, hogy az állítást fel lehessen tüntetni, a fogyasztót tájékoztatni kell arról, hogy az állított hatás 10 g búzakorparost napi bevitelével érhető el.",
+              "translation": "In order to display the claim, the consumer must be informed that the claimed effect can be obtained with a daily intake of 10 g of wheat bran fibre.",
+              "explanation": "English requires advice presenting 10 g as the minimum daily intake. Hungarian requires advice identifying 10 g as effective without communicating that minimum qualification.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:14:41.421327Z"
+          }
+        },
+        {
+          "id": "84129601d8deac15aca5c7d7",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim information shall be given to the consumer that the beneficial effect is obtained with a daily intake of at least 0,8 g of plant sterols/stanols.",
+          "title": "Plant sterol and stanol advice omits the minimum qualifier",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires consumers to be told that the effective daily intake is at least 0.8 g. Hungarian identifies 0.8 g as effective without requiring it to be described as a minimum.",
+          "variants": [
+            {
+              "language": "hu",
+              "language_name": "Hungarian",
+              "quote": "Ahhoz, hogy az állítást fel lehessen tüntetni, a fogyasztót tájékoztatni kell arról, hogy a kedvező hatás 0,8 g növényi szterin(szterol)/sztanin (sztanol) napi bevitelével érhető el.",
+              "translation": "In order to display the claim, the consumer must be informed that the beneficial effect can be obtained with a daily intake of 0.8 g of plant sterols/stanols.",
+              "explanation": "English requires consumers to be told that the effective daily intake is at least 0.8 g. Hungarian identifies 0.8 g as effective without requiring it to be described as a minimum.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:14:41.422540Z"
+          }
+        },
+        {
+          "id": "057f50b959c520c99e472e9d",
+          "passage_id": "p0005",
+          "english_quote": "Walnuts contribute to the improvement of the elasticity of blood vessels",
+          "title": "Walnut claim additionally identifies maintenance of vessel elasticity",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Hungarian expressly supports a maintenance benefit alongside improvement. This could support a message about preserving existing elasticity that the English claim does not expressly identify.",
+          "variants": [
+            {
+              "language": "hu",
+              "language_name": "Hungarian",
+              "quote": "A dió hozzájárul a vérerek rugalmasságának fenntartásához, javításához.",
+              "translation": "Walnuts contribute to maintaining and improving the elasticity of blood vessels.",
+              "explanation": "Hungarian expressly supports a maintenance benefit alongside improvement. This could support a message about preserving existing elasticity that the English claim does not expressly identify.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:14:41.423554Z"
+          }
+        },
+        {
+          "id": "a8ceaee3bdb967e20decaffd",
+          "passage_id": "p0005",
+          "english_quote": "Authorised on 24.9.2013 restricted to the use of GlaxoSmithKline Services Unlimited and its affiliates, GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom, for a period of five years.",
+          "title": "Historical exclusive-use provision identifies subsidiaries rather than affiliates",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "During the historical five-year exclusivity period, Hungarian could exclude parent or sister companies covered by the broader English term “affiliates”.",
+          "variants": [
+            {
+              "language": "hu",
+              "language_name": "Hungarian",
+              "quote": "Engedélyezve 2013. szeptember 24-én, öt évig kizárólag a GlaxoSmithKline Services Unlimited és leányvállalatai – GSK House, 980 Great West Road, Brentford, TW89GS, Egyesült Királyság – használhatják.",
+              "translation": "Authorised on 24 September 2013; for five years, only GlaxoSmithKline Services Unlimited and its subsidiaries – GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom – may use it.",
+              "explanation": "During the historical five-year exclusivity period, Hungarian could exclude parent or sister companies covered by the broader English term “affiliates”.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:14:41.425812Z"
+          }
+        },
+        {
+          "id": "6a64d4932090ef98f042f1b0",
+          "passage_id": "p0005",
+          "english_quote": "Wheat bran fibre | Wheat bran fibre contributes to an acceleration of intestinal transit",
+          "title": "Italian omits the bran restriction from the intestinal-transit claim",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English restricts the intestinal-transit claim to wheat bran fibre; Italian refers to wheat fibre generally. Italian could therefore allow the claim for fibre from other parts of wheat and count that fibre toward the daily intake requirement.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "Fibra di frumento | La fibra di frumento contribuisce all’accelerazione del transito intestinale",
+              "translation": "Wheat fibre | Wheat fibre contributes to an acceleration of intestinal transit",
+              "explanation": "English restricts the intestinal-transit claim to wheat bran fibre; Italian refers to wheat fibre generally. Italian could therefore allow the claim for fibre from other parts of wheat and count that fibre toward the daily intake requirement.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:20:31.647768Z"
+          }
+        },
+        {
+          "id": "d85f1899641b429e46d337a0",
+          "passage_id": "p0005",
+          "english_quote": "Melatonin contributes to the alleviation of subjective feelings of jet lag",
+          "title": "Italian omits the subjective-feelings limitation from the jet-lag claim",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Italian could support claims about alleviating jet-lag effects generally, including objectively measurable effects. English expressly confines the authorized benefit to subjective feelings of jet lag.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "La melatonina contribuisce ad alleviare gli effetti del jet lag",
+              "translation": "Melatonin contributes to alleviating the effects of jet lag",
+              "explanation": "Italian could support claims about alleviating jet-lag effects generally, including objectively measurable effects. English expressly confines the authorized benefit to subjective feelings of jet lag.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:20:31.650865Z"
+          }
+        },
+        {
+          "id": "c12585b70c060c7ab670ac90",
+          "passage_id": "p0005",
+          "english_quote": "Wheat bran fibre | Wheat bran fibre contributes to an increase in faecal bulk",
+          "title": "Italian omits the bran restriction from the faecal-bulk claim",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Italian could permit the faecal-bulk claim for foods high in wheat fibre beyond bran fibre. English specifically requires wheat bran fibre, potentially narrowing the ingredients that qualify.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "Fibra di frumento | La fibra di frumento contribuisce all’aumento della massa fecale",
+              "translation": "Wheat fibre | Wheat fibre contributes to an increase in faecal bulk",
+              "explanation": "Italian could permit the faecal-bulk claim for foods high in wheat fibre beyond bran fibre. English specifically requires wheat bran fibre, potentially narrowing the ingredients that qualify.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:20:31.649289Z"
+          }
+        },
+        {
+          "id": "a75060589c5b261b82a0314a",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food which contains 1 g of glucomannan per quantified portion.",
+          "title": "Italian makes the glucomannan portion requirement a minimum",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Italian expressly permits a qualifying portion to contain more than 1 g of glucomannan. English specifies 1 g and could be read as requiring that amount per portion, potentially changing eligibility for the weight-loss claim. Both retain the information requirement concerning three daily doses of 1 g.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "Questa indicazione può essere impiegata solo per un alimento che contiene almeno 1 g di glucomannano per porzione quantificata.",
+              "translation": "This claim may be used only for a food that contains at least 1 g of glucomannan per quantified portion.",
+              "explanation": "Italian expressly permits a qualifying portion to contain more than 1 g of glucomannan. English specifies 1 g and could be read as requiring that amount per portion, potentially changing eligibility for the weight-loss claim. Both retain the information requirement concerning three daily doses of 1 g.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:20:31.643654Z"
+          }
         }
       ],
       "notes": [
@@ -12133,7 +13137,7 @@
         "The selected official consolidation omits recitals. Analysis coverage concerns the preserved consolidation's articles, annexes and included notes; it is not a complete review of the act's historical preamble.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared.",
-        "3 candidate(s) failed exact source-quotation validation and were excluded from publication; local audit records retain these candidates."
+        "5 candidate(s) failed exact source-quotation validation and were excluded from publication; local audit records retain these candidates."
       ],
       "impact_families": []
     },
@@ -13412,7 +14416,7 @@
       "version": "2022-10-19",
       "version_label": "Original act",
       "retrieved_at": "2026-10-14T00:39:12.355408+00:00",
-      "status": "partial",
+      "status": "analyzing",
       "subject": "",
       "languages": [
         {
@@ -13636,7 +14640,7 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 6302,
-        "reviewed_units": 1095,
+        "reviewed_units": 1300,
         "total_languages": 24,
         "reviewed_languages": 4,
         "reviewed_language_codes": [
@@ -16690,6 +17694,342 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T08:34:30.351033Z"
+          }
+        },
+        {
+          "id": "bca78b5ae7ccc712a3d96ba7",
+          "passage_id": "p0035",
+          "english_quote": "without this rule however implying that the provider can necessarily rely thereon.",
+          "title": "Recital 26 changes the qualification concerning liability exemptions",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English warns that disregarding voluntary measures does not establish entitlement to an exemption. Polish instead states that invoking the exemption is not compulsory. This could weaken the recital’s guidance on assessing eligibility, although the operative conditions remain.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "co nie oznacza jednak, że dostawca musi się koniecznie na takie wyłączenie powołać.",
+              "translation": "which does not mean, however, that the provider must necessarily invoke such an exemption.",
+              "explanation": "English warns that disregarding voluntary measures does not establish entitlement to an exemption. Polish instead states that invoking the exemption is not compulsory. This could weaken the recital’s guidance on assessing eligibility, although the operative conditions remain.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.334295Z"
+          }
+        },
+        {
+          "id": "3b9ca39a04a03732ff1fc9ad",
+          "passage_id": "p0128",
+          "english_quote": "such orders should only be issued when powers to take such measures as provided by other acts of Union law or by national law, for instance to protect collective interests of consumers, to ensure the prompt removal of web pages containing or disseminating child pornography, or to disable access to services that are being used by a third party to infringe an intellectual property right, are not reasonably available.",
+          "title": "Recital 119 changes the fallback condition for access restriction orders",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English allows these orders when alternative powers are not reasonably available. Polish asks whether legislation provides such powers at all. Polish could therefore restrict recourse to these orders where alternative powers exist formally but cannot reasonably be used.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "a takie nakazy należy wydawać jedynie wówczas, gdy można zasadnie uznać, że w innych aktach prawa Unii lub prawa krajowego nie przewidziano uprawnień do wprowadzania takich środków, na przykład w celu ochrony zbiorowych interesów konsumentów, zapewnienia szybkiego usunięcia stron internetowych zawierających lub rozpowszechniających pornografię dziecięcą lub uniemożliwienia dostępu do usług, które osoba trzecia wykorzystuje, aby naruszać prawo własności intelektualnej.",
+              "translation": "and such orders should be issued only when it can reasonably be considered that other acts of Union law or national law do not provide powers to introduce such measures, for example to protect the collective interests of consumers, ensure the swift removal of web pages containing or disseminating child pornography, or disable access to services that a third party uses to infringe an intellectual property right.",
+              "explanation": "English allows these orders when alternative powers are not reasonably available. Polish asks whether legislation provides such powers at all. Polish could therefore restrict recourse to these orders where alternative powers exist formally but cannot reasonably be used.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.339712Z"
+          }
+        },
+        {
+          "id": "669ee1129bcd1789deb18226",
+          "passage_id": "p0137",
+          "english_quote": "The Digital Services Coordinator of destination, in particular on the basis of complaints received or of the input of other national competent authorities where appropriate, or the Board in case of issues involving at least three Member States, should be able to ask the Digital Services Coordinator of establishment to take investigatory or enforcement actions with regard to a provider under its competence.",
+          "title": "Recital 128 changes the Board’s role in requesting enforcement action",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English identifies the Board as an independent requester where issues involve at least three Member States. Polish identifies it as a source of information for the destination Coordinator. This could obscure the Board’s ability to request action independently.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "Koordynator ds. usług cyfrowych właściwy dla miejsca przeznaczenia, w szczególności, w stosownych przypadkach, na podstawie otrzymanych skarg lub informacji przekazanych przez inne właściwe organy krajowe lub Radę Usług Cyfrowych w przypadku kwestii obejmujących co najmniej trzy państwa członkowskie, powinien mieć możliwość zwrócenia się do koordynatora ds. usług cyfrowych właściwego dla miejsca siedziby o podjęcie działań w zakresie czynności sprawdzających lub egzekwowania w odniesieniu do dostawcy podlegającego jego kompetencji.",
+              "translation": "The Digital Services Coordinator of destination, in particular, where appropriate, on the basis of complaints received or information supplied by other competent national authorities or by the Digital Services Board in cases involving at least three Member States, should be able to ask the Digital Services Coordinator of establishment to take investigatory or enforcement actions concerning a provider under its competence.",
+              "explanation": "English identifies the Board as an independent requester where issues involve at least three Member States. Polish identifies it as a source of information for the destination Coordinator. This could obscure the Board’s ability to request action independently.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.335870Z"
+          }
+        },
+        {
+          "id": "0836a1d756048589434b78bf",
+          "passage_id": "p0169",
+          "english_quote": "unless that activity is a minor and purely ancillary feature of another service or a minor functionality of the principal service",
+          "title": "Article 3 broadens the ancillary-feature exception",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires a feature of another service to be both minor and purely ancillary; Polish permits either characteristic. Subject to the remaining conditions, Polish could exclude more hosting services from online-platform obligations. Recital 13 supports the cumulative interpretation.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "chyba że takie działanie jest nieznaczną lub wyłącznie poboczną cechą innej usługi lub nieznaczną funkcją głównej usługi",
+              "translation": "unless that activity is a minor or purely ancillary feature of another service or a minor functionality of the principal service",
+              "explanation": "English requires a feature of another service to be both minor and purely ancillary; Polish permits either characteristic. Subject to the remaining conditions, Polish could exclude more hosting services from online-platform obligations. Recital 13 supports the cumulative interpretation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.336347Z"
+          }
+        },
+        {
+          "id": "c7fe7cdb49de1d6e83a1762c",
+          "passage_id": "p0169",
+          "english_quote": "‘recommender system’ means a fully or partially automated system used by an online platform to suggest in its online interface specific information to recipients of the service or prioritise that information, including as a result of a search initiated by the recipient of the service or otherwise determining the relative order or prominence of information displayed;",
+          "title": "Article 3 may narrow the definition of recommender systems",
+          "category": "definition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly covers suggesting information or prioritising it. Polish joins those functions with “and”, potentially excluding systems performing only one function from recommender-system duties. The concluding wording and Recital 70 support a broader harmonizing interpretation.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "„system rekomendacji” oznacza w pełni lub częściowo zautomatyzowany system wykorzystywany przez platformę internetową w celu sugerowania odbiorcom usługi w jej interfejsie internetowym konkretnych informacji i ich szeregowanie, w tym na skutek wyszukiwania dokonanego przez odbiorcę usługi lub w inny sposób determinującego względną kolejność lub eksponowanie pokazywanych informacji;",
+              "translation": "‘recommender system’ means a fully or partially automated system used by an online platform to suggest specific information to recipients of the service in its online interface and to rank that information, including as a result of a search performed by the recipient of the service or otherwise determining the relative order or prominence of the information displayed;",
+              "explanation": "English expressly covers suggesting information or prioritising it. Polish joins those functions with “and”, potentially excluding systems performing only one function from recommender-system duties. The concluding wording and Recital 70 support a broader harmonizing interpretation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.336742Z"
+          }
+        },
+        {
+          "id": "4e37f9fcc1705a244588ff23",
+          "passage_id": "p0190",
+          "english_quote": "Providers of online platforms shall handle complaints submitted through their internal complaint-handling system in a timely, non-discriminatory, diligent and non-arbitrary manner.",
+          "title": "Article 20 substitutes objectivity for diligence in complaint handling",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly requires diligent complaint handling; Polish requires objective handling instead. Careful examination and impartial assessment are distinct standards. The substitution could affect compliance assessment where a review is impartial but insufficiently careful.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "Dostawcy platform internetowych rozpatrują skargi przekazane za pośrednictwem ich wewnętrznego systemu rozpatrywania skarg w sposób terminowy, niedyskryminujący, obiektywny i niearbitralny.",
+              "translation": "Providers of online platforms shall handle complaints submitted through their internal complaint-handling system in a timely, non-discriminatory, objective and non-arbitrary manner.",
+              "explanation": "English expressly requires diligent complaint handling; Polish requires objective handling instead. Careful examination and impartial assessment are distinct standards. The substitution could affect compliance assessment where a review is impartial but insufficiently careful.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.337953Z"
+          }
+        },
+        {
+          "id": "7e4b992f9be073e5bf592ff0",
+          "passage_id": "p0194",
+          "english_quote": "in accordance with the methodology laid down in the delegated acts referred to in Article 33(3), where those delegated acts have been adopted.",
+          "title": "Article 24 refers to a different delegated power for recipient calculations",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English points to recipient-counting methodology acts under Article 33(3); Polish points to threshold-adjustment acts under Article 33(2). This could affect which methodology providers apply or when the requirement operates. Article 33(3)’s reference back supports reconciliation.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "zgodnie z metodyką ustanowioną w aktach delegowanych, o których mowa w art. 33 ust. 2, jeżeli te akty delegowane zostały przyjęte.",
+              "translation": "in accordance with the methodology laid down in the delegated acts referred to in Article 33(2), if those delegated acts have been adopted.",
+              "explanation": "English points to recipient-counting methodology acts under Article 33(3); Polish points to threshold-adjustment acts under Article 33(2). This could affect which methodology providers apply or when the requirement operates. Article 33(3)’s reference back supports reconciliation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.338669Z"
+          }
+        },
+        {
+          "id": "d12f0386ccbe05d932c664b1",
+          "passage_id": "p0197",
+          "english_quote": "Providers of online platforms that use recommender systems shall set out in their terms and conditions, in plain and intelligible language, the main parameters used in their recommender systems, as well as any options for the recipients of the service to modify or influence those main parameters.",
+          "title": "Article 27 limits recommender disclosures to very large platforms",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English imposes disclosure duties on online platforms using recommender systems, subject to Article 19. Polish confines the duty to very large online platforms. Smaller platforms that are otherwise covered could consequently appear exempt.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "Dostawcy bardzo dużych platform internetowych, którzy korzystają z systemów rekomendacji, w prostym i przystępnym języku określają w swoich warunkach korzystania z usług główne parametry stosowane w ich systemach rekomendacji, a także wszelkie opcje zmieniania tych parametrów przez odbiorców usługi lub wpływania na nie.",
+              "translation": "Providers of very large online platforms that use recommender systems shall set out in their terms and conditions, in plain and accessible language, the main parameters used in their recommender systems, as well as any options for recipients of the service to change or influence those parameters.",
+              "explanation": "English imposes disclosure duties on online platforms using recommender systems, subject to Article 19. Polish confines the duty to very large online platforms. Smaller platforms that are otherwise covered could consequently appear exempt.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.339019Z"
+          }
+        },
+        {
+          "id": "a9eed047ce46495c736f7451",
+          "passage_id": "p0205",
+          "english_quote": "The obligations set out in this Section shall apply, or cease to apply, to the very large online platforms and very large online search engines concerned from four months after the notification to the provider concerned referred to in the first subparagraph.",
+          "title": "Article 33 changes the timing of systemic-risk obligations",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English fixes the change in applicability at four months after notification. Polish states “within four months”, potentially allowing an earlier start or end. This could shorten the preparation period or end obligations earlier after designation is withdrawn.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "Obowiązki określone w niniejszej sekcji mają zastosowanie lub przestają mieć zastosowanie do danych bardzo dużych platform internetowych i bardzo dużych wyszukiwarek internetowych w terminie czterech miesięcy od powiadomienia danego dostawcy, o czym mowa w akapicie pierwszym.",
+              "translation": "The obligations set out in this Section apply or cease to apply to the very large online platforms and very large online search engines concerned within four months of the notification to the provider concerned referred to in the first subparagraph.",
+              "explanation": "English fixes the change in applicability at four months after notification. Polish states “within four months”, potentially allowing an earlier start or end. This could shorten the preparation period or end obligations earlier after designation is withdrawn.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.339374Z"
+          }
+        },
+        {
+          "id": "abbcee5604e76b7974df1d89",
+          "passage_id": "p0186",
+          "english_quote": "(a) | any restrictions of the visibility of specific items of information provided by the recipient of the service, including removal of content, disabling access to content, or demoting content;",
+          "title": "Article 17 changes whose information triggers reasons for visibility restrictions",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English covers restrictions on recipient-provided information; Polish names provider-provided information. A literal Polish reading could exclude restrictions on user content from this listed duty to give reasons. The paragraph’s introduction and Recital 54 support reconciliation.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "a) | ograniczenia w zakresie widoczności określonych informacji przekazywanych przez dostawcę usługi, w tym usuwanie treści, uniemożliwianie dostępu do treści lub depozycjonowanie treści;",
+              "translation": "a) | restrictions on the visibility of specific information provided by the service provider, including removal of content, disabling access to content or demoting content;",
+              "explanation": "English covers restrictions on recipient-provided information; Polish names provider-provided information. A literal Polish reading could exclude restrictions on user content from this listed duty to give reasons. The paragraph’s introduction and Recital 54 support reconciliation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.337140Z"
+          }
+        },
+        {
+          "id": "5dab3fa2c4582f744b525632",
+          "passage_id": "p0187",
+          "english_quote": "Where a provider of hosting services becomes aware of any information giving rise to a suspicion that a criminal offence involving a threat to the life or safety of a person or persons has taken place, is taking place or is likely to take place, it shall promptly inform the law enforcement or judicial authorities of the Member State or Member States concerned of its suspicion and provide all relevant information available.",
+          "title": "Article 18 may lower the notification threshold for future offences",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English refers to suspicion that a future offence is likely; Polish refers to suspicion that it may occur. Polish could therefore require notification of a credibly possible offence without suspected likelihood. Both versions require grounds for suspicion, excluding mere abstract possibilities.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "W przypadku gdy dostawca usług hostingu poweźmie jakiekolwiek informacje dające podstawę do podejrzenia, że popełniono, popełnia się lub może dojść do popełnienia przestępstwa zagrażającego życiu lub bezpieczeństwu osoby lub osób, natychmiast informuje o swoim podejrzeniu organy ścigania lub organy sądowe zainteresowanego państwa członkowskiego lub zainteresowanych państw członkowskich i przekazuje wszystkie dostępne informacje na ten temat.",
+              "translation": "Where a provider of hosting services obtains any information giving grounds for suspicion that a criminal offence threatening the life or safety of a person or persons has been committed, is being committed or may be committed, it immediately informs the law enforcement or judicial authorities of the Member State or Member States concerned of its suspicion and provides all available information on the matter.",
+              "explanation": "English refers to suspicion that a future offence is likely; Polish refers to suspicion that it may occur. Polish could therefore require notification of a credibly possible offence without suspected likelihood. Both versions require grounds for suspicion, excluding mere abstract possibilities.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.337539Z"
+          }
+        },
+        {
+          "id": "37ca8c7d71b4e30557123ec7",
+          "passage_id": "p0191",
+          "english_quote": "(e) | make recommendations as to how to improve that functioning, where appropriate.",
+          "title": "Article 21 omits the qualification on recommending improvements",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires improvement recommendations in the Coordinator’s biennial report only where appropriate. Polish omits that condition, potentially requiring recommendations even when none are warranted.",
+          "variants": [
+            {
+              "language": "pl",
+              "language_name": "Polish",
+              "quote": "e) | wydać zalecenia dotyczące sposobów poprawy takiej działalności.",
+              "translation": "e) | issue recommendations on ways to improve that functioning.",
+              "explanation": "English requires improvement recommendations in the Coordinator’s biennial report only where appropriate. Polish omits that condition, potentially requiring recommendations even when none are warranted.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T09:15:28.338317Z"
           }
         }
       ],
