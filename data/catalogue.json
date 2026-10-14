@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T07:44:08.456465Z",
+  "generated_at": "2026-10-14T07:53:31.757898Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -5036,6 +5036,22 @@
           ]
         },
         {
+          "id": "impact-681fb4f817357d2aa85158e2",
+          "title": "Independent harassment protection",
+          "legal_anchor": "Directive 2000/78/EC, Article 2(1)–(5), especially both sentences of Article 2(3), read with Article 8(1).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Unwanted religion-related ridicule communicated to all staff demonstrably violates an employee’s dignity and creates a hostile environment. The evidence does not independently establish comparative less favourable treatment, a disadvantageous neutral practice, or an instruction to discriminate.",
+          "rationale": "The Latvian sentence reverses the express classification relationship. If that reversal imposed a separate discrimination prerequisite, the stated conduct would lose its independent classification under Article 2(3). Paragraph 2 does not automatically restore protection merely because the harassment conditions are met; paragraph 4 requires different conduct. Ordinary workplace ridicule is not a necessary national-law measure under paragraph 5. This supports a specific change in the Directive’s required protection.\nCounterreading: The detailed conduct conditions can be read as identifying harassment that constitutes discrimination, despite the reversed syntax. French and German expressly connect qualifying harassment to discrimination. Read together with Article 2’s structure, those equally authoritative texts strongly favour an independent harassment route.",
+          "uncertainty": "The reversal does not expressly require prior proof of discrimination. Its adoption as such a requirement is doubtful in the multilingual context. Article 8(1) permits a Member State to preserve broader national protection, but that does not erase the conditional difference in the Directive's minimum classification.\nUnresolved: A domestic liability decision would require the applicable national definition and facts. The permission to define harassment nationally does not itself settle whether the Directive requires its independent classification as discrimination.",
+          "assessed_at": "2026-10-14T07:53:19.645861Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "1415087410df223f3254841b"
+          ]
+        },
+        {
           "id": "impact-51845fda386bfd17ad8e6798",
           "title": "Training action omitted; affirmative entitlement not established",
           "legal_anchor": "Directive 2000/78/EC, recital 17; Article 2(2)(a), (2)(b)(i)–(ii); omitted operative training and accommodation provisions in Articles 3 and 5.",
@@ -5113,6 +5129,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "71e233a60ebe897927125a79"
+          ]
+        },
+        {
+          "id": "impact-75c2e02a601119da6bb509d0",
+          "title": "Protection of the worker’s own health",
+          "legal_anchor": "Directive 2000/78/EC, Article 2(5), read with Articles 2(2), 4, 5, 6(1), 7(2) and 8(1).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A national law excludes workers with a specified disability from a strenuous task solely to protect their own health, with no risk to others. Assume the measure otherwise satisfies Article 2(5)’s necessity requirement.",
+          "rationale": "Lithuanian “kitų asmenų” naturally qualifies health as well as rights and freedoms. Under that reading, the scenario loses the health limb. Public security, public order, crime prevention and others’ rights provide no automatic substitute. The express disability distinction also avoids the ordinary justification for apparently neutral practices. Nevertheless, occupational requirements and reasonable accommodation may independently determine the restriction’s legal treatment.\nCounterreading: French and German separate unqualified health protection from others’ rights, supporting a harmonized reading that does not attach “other persons” to health. However, Dutch “volksgezondheid” and Romanian “sănătății publice” emphasize public health. The multilingual context therefore weakens an exclusively third-person limitation without conclusively establishing coverage of every measure protecting only the worker.",
+          "uncertainty": "Even if the narrower Lithuanian health limb prevails, Article 4 may permit a genuine occupational requirement, Article 5 may require feasible accommodation, and Article 7(2) expressly allows Member States to maintain or adopt workplace health and safety provisions concerning persons with disabilities. The facts do not settle whether one of those provisions independently sustains this restriction. Article 6(1) would also matter to an age-based variant; Article 8(1) allows more protective national rules.\nUnresolved: The medical risk, essential task requirements, feasible adjustments and the scope of any national workplace health provision determine whether losing Article 2(5) changes the legal outcome. The assessment therefore remains unranked.",
+          "assessed_at": "2026-10-14T07:53:19.646253Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "8bbd1e609dc9476a099ce587"
           ]
         },
         {
@@ -5276,6 +5308,22 @@
           ]
         },
         {
+          "id": "impact-70d038264843a401bff594fd",
+          "title": "Protection of non-citizens’ rights",
+          "legal_anchor": "Directive 2000/78/EC, Articles 2(2)(b)(i), 2(5), 3(1)(c) and 4(1)–(2), read with Recital 12.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A national law restricts staff religious expression solely to protect non-citizen counselling clients’ freedom of belief. Assume the restriction entails direct religion-based unequal treatment and satisfies the requirement of necessity in a democratic society.",
+          "rationale": "A citizenship requirement would exclude this measure from the rights-and-freedoms limb. Health, public security, public order and crime prevention do not restore that limb on the stated facts. Because the scenario specifies direct discrimination, Article 2(2)(b)(i)’s justification for apparently neutral measures does not resolve it. Whether the measure ultimately loses protection nevertheless depends on other applicable employment exceptions.\nCounterreading: “Ciudadanos” can denote members of society without imposing nationality status. Article 2 otherwise speaks of persons, while French “autrui,” German “anderer” and Czech “ostatních lidí” identify others without citizenship qualifications. Their equal authority and the provision’s rights-protection function favour this broader Spanish reading.",
+          "uncertainty": "Article 3(1)(c) covers employment conditions, including this workplace restriction; Recital 12 confirms the Directive's protection against discrimination on the listed grounds extends to third-country nationals. A genuine and determining occupational requirement under Article 4 might independently permit a particular restriction. Whether that exception applies depends on the job and the precise measure.\nUnresolved: The scenario assumes direct unequal treatment. If an actual restriction is instead an apparently neutral practice, Article 2(2)(b)(i) may provide a separate justification. These alternatives prevent concluding that loss of the Article 2(5) rights limb changes the measure's legal treatment.",
+          "assessed_at": "2026-10-14T07:53:19.646073Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "2b37a310d967b646ce015f81"
+          ]
+        },
+        {
           "id": "impact-8c31678e3f71799bcacd3209",
           "title": "Individual contracts outside collective wording",
           "legal_anchor": "Directive 2000/78/EC, Article 16(a)–(b), read with Article 2.",
@@ -5289,6 +5337,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "ad0b6dc071990a3829eefb02"
+          ]
+        },
+        {
+          "id": "impact-1e0d3bba60b159113e8853f2",
+          "title": "Inducement to discriminate",
+          "legal_anchor": "Directive 2000/78/EC, Article 2(4), read with the separate classifications in Article 2(2)–(3) and the exception in Article 2(5).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "During recruitment for ordinary office work, a colleague privately tries to persuade a hiring manager to reject gay applicants. The persuasion conveys no direction or instruction, is ignored, and causes neither adverse applicant treatment nor a hostile environment.",
+          "rationale": "“Jakékoli chování směřující k navádění” plausibly extends to conduct aimed at inducing discrimination. If that broader scope prevailed, the persuasion itself would be discrimination under paragraph 4 without a completed discriminatory decision. The stated facts establish no alternative direct discrimination, neutral discriminatory practice or harassment. Paragraph 5 does not protect private discriminatory persuasion.\nCounterreading: Czech “navádění” could be confined to sufficiently concrete direction, while “instruction” could include informal urging. Bulgarian “подтик,” Croatian “Poticanje” and Latvian “Aicinājumu” also support inducement. These equally authoritative texts make a broad common interpretation plausible; Czech breadth cannot be dismissed simply because English uses “instruction.”",
+          "uncertainty": "An instruction need not be formal, binding or issued by a superior. The distinction therefore depends on the communication’s substance, not the speaker’s rank. No particular sanction or liability consequence is established here.\nUnresolved: A concrete communication must amount to deliberate inducement while remaining outside the narrower instruction category. Once that boundary is established, Article 2(4) supplies the classification change without requiring successful discrimination.",
+          "assessed_at": "2026-10-14T07:49:50.753902Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "5f6a65021a8333b9fe2dda17"
           ]
         },
         {
@@ -5612,6 +5676,22 @@
           ]
         },
         {
+          "id": "impact-dfd7822a99e47338d59d2f67",
+          "title": "Hypothetical comparator",
+          "legal_anchor": "Directive 2000/78/EC, Article 2(2)(a), distinguished from Article 2(2)(b) and (3)–(5).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "The sole applicant for ordinary office work is rejected expressly because of sexual orientation. No actual comparable applicant or employee exists, but evidence establishes that an otherwise identical applicant of another orientation would have been accepted. No occupational justification is implicated.",
+          "rationale": "Hungarian places the present, past and future forms on the claimant’s treatment and does not expressly state hypothetical comparator treatment. If construed to require an actual comparator, it would prevent direct-discrimination classification in the scenario. An expressly ground-based rejection is not an apparently neutral practice. No qualifying harassment, separate instruction or national-law measure supplies another Article 2 route.\nCounterreading: “Egy másikhoz képest” can refer generically to another person, including a hypothetical person. French, German and Czech expressly contemplate how another person would be treated. Spanish and Slovenian also vary the placement of temporal forms, showing why syntax alone cannot determine comparator eligibility. A harmonized reading admitting hypothetical comparison is substantially stronger.",
+          "uncertainty": "The grammatical difference does not itself establish an actual-comparator requirement. The conditional outcome assumes that requirement is adopted and that comparable circumstances and counterfactual treatment are proved.\nUnresolved: A real claim requires proof of the discriminatory ground, comparable circumstances and hypothetical treatment. None of those requirements inherently demands an actual comparator.",
+          "assessed_at": "2026-10-14T07:49:50.754183Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "6d7c85953995284dc645c949"
+          ]
+        },
+        {
           "id": "impact-754f3e3d620e52a82f4cd51a",
           "title": "Independent trades outside intellectual professions",
           "legal_anchor": "Directive 2000/78/EC, Articles 2, 3(1)(a) and 16(a)–(b).",
@@ -5625,6 +5705,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "b15080573720390da81ca619"
+          ]
+        },
+        {
+          "id": "impact-65d4f6e187c4b8d397163a5c",
+          "title": "Harassment established by effects",
+          "legal_anchor": "Directive 2000/78/EC, Article 2(3), including its national-definition clause, read alongside Articles 2(2), 2(4), 2(5) and 8(1).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Unwanted and inappropriate religion-related jokes circulated to all staff demonstrably violate an employee’s dignity and create a hostile environment. Even after considering inferences from the conduct, the prohibited purpose cannot be established. No separate comparative disadvantage, neutral discriminatory practice or instruction is proved.",
+          "rationale": "Maltese “bl-iskop” expresses purpose without an express effects alternative. If purpose were indispensable, the scenario would no longer qualify through Article 2(3)’s effects route. The other discrimination definitions do not automatically establish the missing classification, and no necessary national-law measure under paragraph 5 is involved. The resulting change concerns the protection the Directive requires, without assuming a particular remedy.\nCounterreading: French “objet ou pour effet,” German “bezwekken oder bewirken,” and Latvian “mērķis vai rezultāts” expressly preserve alternatives. Read with the protective function of Article 2(3), these equally authoritative formulations strongly favour retaining an effects-based route in the common interpretation.",
+          "uncertainty": "Effects can sometimes prove purpose, but they need not do so in every case. Article 8(1) permits a Member State to preserve broader national protection; it does not remove the conditional difference in the Directive's minimum protection if the purpose-only reading prevails.\nUnresolved: National definitions and evidential rules would determine a domestic claim. They are not needed to identify the narrower minimum classification resulting from an indispensable-purpose interpretation.",
+          "assessed_at": "2026-10-14T07:53:19.646167Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "428b983108f33eee1486c4e0"
           ]
         }
       ]
@@ -11644,7 +11740,7 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 6302,
-        "reviewed_units": 822,
+        "reviewed_units": 1025,
         "total_languages": 24,
         "reviewed_languages": 4,
         "reviewed_language_codes": [
@@ -13469,6 +13565,314 @@
           }
         },
         {
+          "id": "50c9f74bddc7a93067c2564b",
+          "passage_id": "p0137",
+          "english_quote": "The Digital Services Coordinator of destination, in particular on the basis of complaints received or of the input of other national competent authorities where appropriate, or the Board in case of issues involving at least three Member States, should be able to ask the Digital Services Coordinator of establishment to take investigatory or enforcement actions with regard to a provider under its competence.",
+          "title": "Recital 128: The Board’s request becomes input to a coordinator",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English allows the Board itself to request action where at least three Member States are involved. German describes the Board as supplying input to a destination coordinator’s request, potentially making that coordinator’s participation necessary.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Der Koordinator für digitale Dienste am Bestimmungsort sollte insbesondere auf der Grundlage eingegangener Beschwerden oder gegebenenfalls von Beiträgen anderer nationaler zuständiger Behörden oder des Gremiums im Fall von Angelegenheiten, an denen mindestens drei Mitgliedstaaten beteiligt sind, den Koordinator für digitale Dienste am Niederlassungsort ersuchen können, Untersuchungs- oder Durchsetzungsmaßnahmen in Bezug auf einen seiner Zuständigkeit unterstehenden Anbieter zu ergreifen.",
+              "translation": "The Digital Services Coordinator of destination should be able, in particular on the basis of complaints received or, where appropriate, contributions from other competent national authorities or from the Board in matters involving at least three Member States, to request the Digital Services Coordinator of establishment to take investigatory or enforcement measures concerning a provider subject to its competence.",
+              "explanation": "English allows the Board itself to request action where at least three Member States are involved. German describes the Board as supplying input to a destination coordinator’s request, potentially making that coordinator’s participation necessary.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.436134Z"
+          }
+        },
+        {
+          "id": "86710d48250faab54e1da3ec",
+          "passage_id": "p0138",
+          "english_quote": "The Board should be able to refer the matter to the Commission in case of any disagreement as to the assessments or the measures taken or proposed or of a failure to adopt any measures in accordance with this Regulation following a cross-border cooperation request or a joint investigation.",
+          "title": "Recital 129: Failure to agree replaces failure to adopt measures",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English permits referral when measures have not been adopted; German refers to inability to agree on measures. Where authorities agree but never adopt a measure, the English referral ground could apply while the German formulation might not.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Das Gremium sollte die Angelegenheit an die Kommission verweisen können, wenn Uneinigkeit hinsichtlich der Bewertungen oder der getroffenen oder vorgeschlagenen Maßnahmen besteht oder wenn im Anschluss an ein Ersuchen um grenzüberschreitende Zusammenarbeit oder an eine gemeinsame Untersuchung keine Maßnahmen gemäß dieser Verordnung vereinbart werden konnten.",
+              "translation": "The Board should be able to refer the matter to the Commission where there is disagreement concerning the assessments or the measures taken or proposed, or where no measures pursuant to this Regulation could be agreed upon following a request for cross-border cooperation or a joint investigation.",
+              "explanation": "English permits referral when measures have not been adopted; German refers to inability to agree on measures. Where authorities agree but never adopt a measure, the English referral ground could apply while the German formulation might not.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.436952Z"
+          }
+        },
+        {
+          "id": "15e0b8b86a85f730810c1a04",
+          "passage_id": "p0155",
+          "english_quote": "Furthermore, while respecting the confidentiality of the information, the Commission should ensure that any information relied on for the purpose of its decision is disclosed to an extent that allows the addressee of the decision to understand the facts and considerations that led up to the decision.",
+          "title": "Recital 146: Publication rather than disclosure of supporting information",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English permits disclosure sufficient for the decision’s addressee to understand it. German calls for publication, potentially requiring a wider public audience for supporting information. Confidentiality remains protected in both versions.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Zudem sollte die Kommission unter Wahrung der Vertraulichkeit der Informationen sicherstellen, dass alle ihrem Beschluss zugrunde liegenden Informationen in einem Umfang veröffentlicht werden, der es dem Adressaten des Beschlusses ermöglicht, die zugrunde liegenden Fakten und Überlegungen zu verstehen.",
+              "translation": "Furthermore, while preserving the confidentiality of the information, the Commission should ensure that all information underlying its decision is published to an extent that enables the addressee of the decision to understand the underlying facts and considerations.",
+              "explanation": "English permits disclosure sufficient for the decision’s addressee to understand it. German calls for publication, potentially requiring a wider public audience for supporting information. Confidentiality remains protected in both versions.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.437631Z"
+          }
+        },
+        {
+          "id": "d06fd2b645c4a780dde98ba6",
+          "passage_id": "p0168",
+          "english_quote": "This Regulation shall apply to intermediary services offered to recipients of the service that have their place of establishment or are located in the Union, irrespective of where the providers of those intermediary services have their place of establishment.",
+          "title": "Article 2(1): Union location becomes establishment or seat",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes recipients located in the Union even without a Union establishment or seat. German could exclude recipients temporarily present there whose establishment or seat is elsewhere, narrowing territorial coverage.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Diese Verordnung gilt für Vermittlungsdienste, die für Nutzer mit Niederlassungsort oder Sitz in der Union angeboten werden, ungeachtet des Niederlassungsortes des Anbieters dieser Vermittlungsdienste.",
+              "translation": "This Regulation applies to intermediary services offered to users with a place of establishment or seat in the Union, irrespective of the place of establishment of the provider of those intermediary services.",
+              "explanation": "English includes recipients located in the Union even without a Union establishment or seat. German could exclude recipients temporarily present there whose establishment or seat is elsewhere, narrowing territorial coverage.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.438062Z"
+          }
+        },
+        {
+          "id": "8f961d104ba8c778baa64bd6",
+          "passage_id": "p0169",
+          "english_quote": "‘illegal content’ means any information that, in itself or in relation to an activity, including the sale of products or the provision of services, is not in compliance with Union law or the law of any Member State which is in compliance with Union law, irrespective of the precise subject matter or nature of that law;",
+          "title": "Article 3(h): Omitted compatibility condition for national law",
+          "category": "definition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly limits national-law grounds of illegality to rules compatible with Union law. German omits that condition from the definition, potentially encompassing incompatible national prohibitions when read alone. German recital 12 supports retaining the compatibility requirement.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "„rechtswidrige Inhalte“ alle Informationen, die als solche oder durch ihre Bezugnahme auf eine Tätigkeit, einschließlich des Verkaufs von Produkten oder der Erbringung von Dienstleistungen, nicht im Einklang mit dem Unionsrecht oder dem Recht eines Mitgliedstaats stehen, ungeachtet des genauen Gegenstands oder der Art der betreffenden Rechtsvorschriften;",
+              "translation": "“Illegal content” means all information that, as such or through its reference to an activity, including the sale of products or the provision of services, does not comply with Union law or the law of a Member State, irrespective of the precise subject matter or nature of the relevant legislation;",
+              "explanation": "English expressly limits national-law grounds of illegality to rules compatible with Union law. German omits that condition from the definition, potentially encompassing incompatible national prohibitions when read alone. German recital 12 supports retaining the compatibility requirement.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.438613Z"
+          }
+        },
+        {
+          "id": "8d3e3002db5e719e6d8d4f43",
+          "passage_id": "p0183",
+          "english_quote": "the number of notices processed by using automated means",
+          "title": "Article 15(1)(b): Notice counts limited to exclusively automated processing",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes notices processed using automation alongside human involvement. German expressly limits the count to fully automated processing, potentially excluding notices handled through combined human and automated procedures.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "die Anzahl der ausschließlich automatisch verarbeiteten Meldungen",
+              "translation": "the number of notices processed exclusively automatically",
+              "explanation": "English includes notices processed using automation alongside human involvement. German expressly limits the count to fully automated processing, potentially excluding notices handled through combined human and automated procedures.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.441069Z"
+          }
+        },
+        {
+          "id": "0bb3e17c632275700c9555b0",
+          "passage_id": "p0185",
+          "english_quote": "a clear indication of the exact electronic location of that information, such as the exact URL or URLs, and, where necessary, additional information enabling the identification of the illegal content adapted to the type of content and to the specific type of hosting service;",
+          "title": "Article 16(2)(b): Alternative rather than supplementary identification information",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires additional identification details where necessary alongside the location indication. German presents further details as an alternative, potentially changing what information notice mechanisms must accommodate. Both versions still require sufficiently precise and substantiated notices.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "eine eindeutige Angabe des genauen elektronischen Speicherorts dieser Informationen, etwa die präzise URL-Adresse bzw. die präzisen URL-Adressen, oder, soweit erforderlich, weitere, hinsichtlich der Art der Inhalte und der konkreten Art des Hostingdienstes zweckdienliche Angaben zur Ermittlung der rechtswidrigen Inhalte;",
+              "translation": "a clear indication of the exact electronic storage location of that information, such as the precise URL or URLs, or, where necessary, further information useful for identifying the illegal content in light of the type of content and the specific type of hosting service;",
+              "explanation": "English requires additional identification details where necessary alongside the location indication. German presents further details as an alternative, potentially changing what information notice mechanisms must accommodate. Both versions still require sufficiently precise and substantiated notices.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.441558Z"
+          }
+        },
+        {
+          "id": "43d042760d9d3cd15af308e7",
+          "passage_id": "p0063",
+          "english_quote": "Where the decision was taken following receipt of a notice, the provider of hosting services should only reveal the identity of the person or entity who submitted the notice to the recipient of the service where this information is necessary to identify the illegality of the content, such as in cases of infringements of intellectual property rights.",
+          "title": "Recital 54: The identity safeguard describes a different notifier",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English addresses disclosure of the notifier’s identity to the affected user. German instead describes someone who sent the notice to that user, potentially misdirecting the identity safeguard away from notices submitted to the provider. Article 17 supports applying the safeguard to the actual notifier.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Wenn die Entscheidung nach Erhalt einer Meldung getroffen wurde, sollte der Anbieter von Hostingdiensten die Identität der Person oder Einrichtung, die die Meldung an den Nutzer übermittelt hat, nur dann offenlegen, wenn diese Information erforderlich ist, um die Rechtswidrigkeit des Inhalts festzustellen, etwa in Fällen von Verletzungen von Rechten des geistigen Eigentums.",
+              "translation": "If the decision was taken after receipt of a notice, the hosting service provider should disclose the identity of the person or entity that transmitted the notice to the user only where this information is necessary to establish the illegality of the content, for example in cases of infringements of intellectual property rights.",
+              "explanation": "English addresses disclosure of the notifier’s identity to the affected user. German instead describes someone who sent the notice to that user, potentially misdirecting the identity safeguard away from notices submitted to the provider. Article 17 supports applying the safeguard to the actual notifier.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.430991Z"
+          }
+        },
+        {
+          "id": "947f90728a5e571ae85dd4c8",
+          "passage_id": "p0086",
+          "english_quote": "However, the concept of active recipient of the service should not include incidental use of the service by recipients of other providers of intermediary services that indirectly make available information hosted by the provider of online platforms through linking or indexing by a provider of online search engine.",
+          "title": "Recital 77: Frequency may affect the indirect-use exclusion",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English excludes incidental use in the specified indirect-access setting; German describes occasional use. Repeated incidental exposure could therefore be counted differently, affecting active-recipient totals. Both versions retain the restriction to indirect access through another intermediary service.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Das Konzept des aktiven Nutzers sollte jedoch nicht die gelegentliche Nutzung des Dienstes durch Nutzer anderer Anbieter von Vermittlungsdiensten umfassen, die vom Anbieter der Online-Plattform gespeicherte Informationen durch eine Verknüpfung oder Indexierung durch einen Anbieter von Online-Suchmaschinen indirekt zugänglich machen.",
+              "translation": "However, the concept of active user should not include occasional use of the service by users of other providers of intermediary services that indirectly make information stored by the online platform provider accessible through linking or indexing by an online search engine provider.",
+              "explanation": "English excludes incidental use in the specified indirect-access setting; German describes occasional use. Repeated incidental exposure could therefore be counted differently, affecting active-recipient totals. Both versions retain the restriction to indirect access through another intermediary service.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.433916Z"
+          }
+        },
+        {
+          "id": "5dd53ed900e92c950f226c34",
+          "passage_id": "p0190",
+          "english_quote": "or contains information indicating that the complainant’s conduct does not warrant the measure taken",
+          "title": "Article 20(4): Narrower conduct-based grounds for reversing restrictions",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires reversal where the complainant’s conduct does not warrant the measure taken. German lists service suspension or termination and account closure, potentially leaving unjustified visibility or monetisation restrictions outside this particular reversal ground.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "oder enthält sie Informationen, aus denen hervorgeht, dass das Verhalten des Beschwerdeführers keine Aussetzung oder Kündigung des Dienstes oder Schließung des Kontos rechtfertigt",
+              "translation": "or it contains information showing that the complainant’s conduct does not justify suspension or termination of the service or closure of the account",
+              "explanation": "English requires reversal where the complainant’s conduct does not warrant the measure taken. German lists service suspension or termination and account closure, potentially leaving unjustified visibility or monetisation restrictions outside this particular reversal ground.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.442807Z"
+          }
+        },
+        {
+          "id": "fd60983ac8df06dc7bba5781",
+          "passage_id": "p0201",
+          "english_quote": "to promote messages on or to offer products or services to consumers located in the Union",
+          "title": "Article 30(1): Advertising and offering joined as a traceability condition",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly treats promotion and offering as alternative activities requiring prior collection of trader information. German joins them with and, potentially excluding promotion-only activity on a cumulative reading. German recital 72 supports applying traceability to either activity.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "um bei Verbrauchern in der Union für ihre Produkte oder Dienstleistungen zu werben und ihnen diese anzubieten",
+              "translation": "in order to advertise their products or services to consumers in the Union and to offer those products or services to them",
+              "explanation": "English expressly treats promotion and offering as alternative activities requiring prior collection of trader information. German joins them with and, potentially excluding promotion-only activity on a cumulative reading. German recital 72 supports applying traceability to either activity.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.444515Z"
+          }
+        },
+        {
           "id": "34b16a494d0d90b2f8378b2b",
           "passage_id": "p0065",
           "english_quote": "This Regulation does not provide the legal basis for profiling of recipients of the services with a view to the possible identification of criminal offences by providers of hosting services.",
@@ -14194,6 +14598,118 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T07:17:51.005827Z"
+          }
+        },
+        {
+          "id": "1f3261a398dbb7666e30336c",
+          "passage_id": "p0029",
+          "english_quote": "This should be the case, for instance, where the provider offers its service with the main purpose of facilitating illegal activities, for example by making explicit that its purpose is to facilitate illegal activities or that its services are suited for that purpose.",
+          "title": "Recital 20: Cumulative criteria in the example of deliberate facilitation",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English treats statements of unlawful purpose or suitability as alternative examples supporting denial of a liability exemption. German combines a statement of purpose with actual suitability, potentially narrowing the example used to establish deliberate facilitation.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Dies sollte beispielsweise dann der Fall sein, wenn der Anbieter seine Dienstleistung hauptsächlich zu dem Zweck anbietet, rechtswidrige Tätigkeiten zu erleichtern, indem er beispielsweise seinen Zweck – die Erleichterung rechtswidriger Aktivitäten – klar zum Ausdruck bringt und seine Dienstleistungen für diesen Zweck geeignet sind.",
+              "translation": "This should be the case, for example, where the provider offers its service mainly for the purpose of facilitating illegal activities, for example by clearly expressing its purpose—the facilitation of illegal activities—and its services being suitable for that purpose.",
+              "explanation": "English treats statements of unlawful purpose or suitability as alternative examples supporting denial of a liability exemption. German combines a statement of purpose with actual suitability, potentially narrowing the example used to establish deliberate facilitation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.428396Z"
+          }
+        },
+        {
+          "id": "e715b3823da73650ec49aae9",
+          "passage_id": "p0171",
+          "english_quote": "provided that the information is not stored for any period longer than is reasonably necessary for the transmission.",
+          "title": "Article 4(2): Usual rather than reasonably necessary storage duration",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English allows storage for the duration reasonably necessary for a transmission. German refers to the duration usually necessary. An atypical transmission requiring longer storage could therefore receive different treatment under the liability exemption.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "die Informationen nicht länger gespeichert werden, als es für die Übermittlung üblicherweise erforderlich ist.",
+              "translation": "the information is not stored longer than is usually necessary for transmission.",
+              "explanation": "English allows storage for the duration reasonably necessary for a transmission. German refers to the duration usually necessary. An atypical transmission requiring longer storage could therefore receive different treatment under the liability exemption.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.439524Z"
+          }
+        },
+        {
+          "id": "3dd285b4b6adc01630575265",
+          "passage_id": "p0187",
+          "english_quote": "a criminal offence involving a threat to the life or safety of a person or persons has taken place, is taking place or is likely to take place",
+          "title": "Article 18(1): Possibility rather than likelihood of a future offence",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English describes a future offence as likely; German says it could occur. German could therefore trigger mandatory notification at a lower probability, although both versions require information grounding a suspicion and concern threats to life or safety.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "eine Straftat, die eine Gefahr für das Leben oder die Sicherheit einer Person oder von Personen darstellt, begangen wurde, begangen wird oder begangen werden könnte",
+              "translation": "a criminal offence that presents a danger to the life or safety of a person or persons has been committed, is being committed or could be committed",
+              "explanation": "English describes a future offence as likely; German says it could occur. German could therefore trigger mandatory notification at a lower probability, although both versions require information grounding a suspicion and concern threats to life or safety.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.442349Z"
+          }
+        },
+        {
+          "id": "9b15aa70dd66b92d2c095f19",
+          "passage_id": "p0131",
+          "english_quote": "the number and categories of such orders addressed to providers of intermediary services issued by judicial and administrative authorities in its Member State.",
+          "title": "Recital 122: Issuing authorities versus recipient providers as the territorial link",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English bases the report on orders issued by authorities in the coordinator’s Member State. German can instead cover orders addressed to providers in that State, changing the treatment of outgoing and incoming cross-border orders.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "die Zahl und die Kategorien solcher Anordnungen von Justiz- und Verwaltungsbehörden gegenüber Anbietern von Vermittlungsdiensten in seinem Mitgliedstaat",
+              "translation": "the number and categories of such orders from judicial and administrative authorities addressed to providers of intermediary services in its Member State",
+              "explanation": "English bases the report on orders issued by authorities in the coordinator’s Member State. German can instead cover orders addressed to providers in that State, changing the treatment of outgoing and incoming cross-border orders.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:49:03.444987Z"
           }
         }
       ],
