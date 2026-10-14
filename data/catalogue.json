@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T07:06:19.476372Z",
+  "generated_at": "2026-10-14T07:17:52.282108Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -10919,12 +10919,13 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 6302,
-        "reviewed_units": 548,
+        "reviewed_units": 822,
         "total_languages": 24,
-        "reviewed_languages": 3,
+        "reviewed_languages": 4,
         "reviewed_language_codes": [
           "es",
-          "fr"
+          "fr",
+          "it"
         ]
       },
       "passages": [
@@ -13048,6 +13049,426 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T06:56:37.585201Z"
+          }
+        },
+        {
+          "id": "e77168f4053b9c6f25178098",
+          "passage_id": "p0099",
+          "english_quote": "To this end, they should, where appropriate, conduct their risk assessments and design their risk mitigation measures with the involvement of representatives of the recipients of the service, representatives of groups potentially impacted by their services, independent experts and civil society organisations.",
+          "title": "Italian Recital 90 omits the appropriateness condition for stakeholder involvement",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English recommends stakeholder involvement where appropriate; Italian omits that condition. Italian could therefore support a broader expectation of involving the listed groups in risk assessment and mitigation design, subject to the surrounding proportionality requirements.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "A tal fine, dovrebbero svolgere le proprie valutazioni dei rischi e mettere a punto le proprie misure di attenuazione dei rischi con il coinvolgimento di rappresentanti dei destinatari del servizio, rappresentanti dei gruppi potenzialmente interessati dai loro servizi, esperti indipendenti e organizzazioni della società civile.",
+              "translation": "To this end, they should conduct their risk assessments and develop their risk mitigation measures with the involvement of representatives of the recipients of the service, representatives of groups potentially affected by their services, independent experts and civil society organisations.",
+              "explanation": "English recommends stakeholder involvement where appropriate; Italian omits that condition. Italian could therefore support a broader expectation of involving the listed groups in risk assessment and mitigation design, subject to the surrounding proportionality requirements.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:14:44.530916Z"
+          }
+        },
+        {
+          "id": "264863cdba86efe868611cf3",
+          "passage_id": "p0102",
+          "english_quote": "Where the audit opinion could not reach a conclusion for specific elements that fall within the scope of the audit, an explanation of reasons for the failure to reach such a conclusion should be included in the audit opinion.",
+          "title": "Italian Recital 93 reverses the scope of inconclusive audit elements",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English calls for explaining inconclusive findings on matters within the audit’s scope; Italian refers to matters outside it. This could change the expected contents of the audit opinion and leave unresolved in-scope findings without the express explanation contemplated in English.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "Laddove il giudizio di revisione non abbia potuto raggiungere una conclusione in merito a elementi specifici che non rientrano nell'ambito di applicazione della revisione, il giudizio di revisione dovrebbe comprendere una motivazione che ne spieghi le ragioni.",
+              "translation": "Where the audit opinion has been unable to reach a conclusion concerning specific elements that do not fall within the scope of the audit, the audit opinion should include a statement of reasons explaining why.",
+              "explanation": "English calls for explaining inconclusive findings on matters within the audit’s scope; Italian refers to matters outside it. This could change the expected contents of the audit opinion and leave unresolved in-scope findings without the express explanation contemplated in English.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:14:44.532086Z"
+          }
+        },
+        {
+          "id": "a88d27879e158a1bc669fa49",
+          "passage_id": "p0176",
+          "english_quote": "6. The conditions and requirements laid down in this Article shall be without prejudice to national civil and criminal procedural law.",
+          "title": "Italian Article 9 broadens the civil-law reservation",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For orders against illegal content, English preserves national civil and criminal procedural law. Italian refers to civil law generally, potentially preserving substantive civil rules against Article 9’s requirements as well. Recital 34 supports a narrower procedural reading.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "6. Le condizioni e le prescrizioni di cui al presente articolo non pregiudicano il diritto civile e il diritto processuale penale nazionale.",
+              "translation": "6. The conditions and requirements laid down in this Article are without prejudice to civil law and national criminal procedural law.",
+              "explanation": "For orders against illegal content, English preserves national civil and criminal procedural law. Italian refers to civil law generally, potentially preserving substantive civil rules against Article 9’s requirements as well. Recital 34 supports a narrower procedural reading.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:14:44.533387Z"
+          }
+        },
+        {
+          "id": "5c7048e6eb9f305cfa59fc5c",
+          "passage_id": "p0177",
+          "english_quote": "6. The conditions and requirements laid down in this Article shall be without prejudice to national civil and criminal procedural law.",
+          "title": "Italian Article 10 broadens the civil-law reservation",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For information orders, Italian potentially preserves substantive civil law as well as procedural rules, whereas English expressly reserves civil and criminal procedural law. This could broaden the national rules left unaffected by Article 10’s requirements.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "6. Le condizioni e le prescrizioni di cui al presente articolo non pregiudicano il diritto civile e il diritto processuale penale nazionale.",
+              "translation": "6. The conditions and requirements laid down in this Article are without prejudice to civil law and national criminal procedural law.",
+              "explanation": "For information orders, Italian potentially preserves substantive civil law as well as procedural rules, whereas English expressly reserves civil and criminal procedural law. This could broaden the national rules left unaffected by Article 10’s requirements.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:14:44.534312Z"
+          }
+        },
+        {
+          "id": "2a21f88a9c582b5064f74588",
+          "passage_id": "p0181",
+          "english_quote": "1. Providers of intermediary services which do not have an establishment in the Union but which offer services in the Union shall designate, in writing, a legal or natural person to act as their legal representative in one of the Member States where the provider offers its services.",
+          "title": "Italian Article 13 makes appointment of a legal representative permissive",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires eligible providers to appoint a legal representative; Italian says they may do so. Read literally, Italian could make appointment optional, despite the mandatory interpretation supported by the surrounding provisions.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "1. I prestatori di servizi intermediari che non sono stabiliti nell'Unione ma che offrono servizi nell'Unione possono designare per iscritto una persona fisica o giuridica che funga da loro rappresentante legale in uno degli Stati membri in cui offrono i propri servizi.",
+              "translation": "1. Providers of intermediary services that are not established in the Union but offer services in the Union may designate in writing a natural or legal person to act as their legal representative in one of the Member States where they offer their services.",
+              "explanation": "English requires eligible providers to appoint a legal representative; Italian says they may do so. Read literally, Italian could make appointment optional, despite the mandatory interpretation supported by the surrounding provisions.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:14:44.534899Z"
+          }
+        },
+        {
+          "id": "fee83bb530646d7883e425d5",
+          "passage_id": "p0187",
+          "english_quote": "2. Where the provider of hosting services cannot identify with reasonable certainty the Member State concerned, it shall inform the law enforcement authorities of the Member State in which it is established or where its legal representative resides or is established or inform Europol, or both.",
+          "title": "Italian Article 18 omits notification in the provider’s Member State of establishment",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "When the affected Member State is uncertain, English permits notification to authorities where the provider itself is established. Italian omits that option. A Union-established provider without a legal representative could consequently appear required to notify Europol.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "2. Se non è in grado di individuare con ragionevole certezza lo Stato membro interessato, il prestatore di servizi di memorizzazione di informazioni ne informa Europol o le autorità di contrasto dello Stato membro in cui il suo rappresentante legale risiede o è stabilito, o entrambi.",
+              "translation": "2. If it cannot identify with reasonable certainty the Member State concerned, the provider of hosting services shall inform Europol or the law enforcement authorities of the Member State where its legal representative resides or is established, or both.",
+              "explanation": "When the affected Member State is uncertain, English permits notification to authorities where the provider itself is established. Italian omits that option. A Union-established provider without a legal representative could consequently appear required to notify Europol.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:14:44.537176Z"
+          }
+        },
+        {
+          "id": "897cbcc900b47e3e940d4397",
+          "passage_id": "p0022",
+          "english_quote": "where the dissemination to the public is merely a minor and purely ancillary feature that is intrinsically linked to another service",
+          "title": "Italian Recital 13 uses alternative exclusion criteria",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English combines the minor and purely ancillary requirements; Italian presents them as alternatives. Italian could therefore support a broader exclusion from online-platform treatment, including a substantial ancillary feature. Article 3(i) requires both characteristics in English and Italian, limiting that possible interpretation.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "quando la diffusione al pubblico è solo una caratteristica minore o meramente accessoria connessa intrinsecamente a un altro servizio",
+              "translation": "when dissemination to the public is only a minor or merely ancillary feature intrinsically linked to another service",
+              "explanation": "English combines the minor and purely ancillary requirements; Italian presents them as alternatives. Italian could therefore support a broader exclusion from online-platform treatment, including a substantial ancillary feature. Article 3(i) requires both characteristics in English and Italian, limiting that possible interpretation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:14:44.539647Z"
+          }
+        },
+        {
+          "id": "e3da304c8e3800b73db2bb72",
+          "passage_id": "p0183",
+          "english_quote": "the median time needed to inform the authority issuing the order, or any other authority specified in the order, of its receipt, and to give effect to the order",
+          "title": "Italian Article 15 specifies average rather than median response time",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires the median time for acknowledging and acting on orders; Italian requests the average. These measures can yield materially different transparency figures, particularly when a few orders take unusually long.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "il tempo medio necessario per informare l'autorità che ha emesso l'ordine o qualsiasi altra autorità specificata nell'ordine in merito al suo ricevimento e per dare seguito allo stesso",
+              "translation": "the average time needed to inform the authority that issued the order or any other authority specified in the order of its receipt and to give effect to it",
+              "explanation": "English requires the median time for acknowledging and acting on orders; Italian requests the average. These measures can yield materially different transparency figures, particularly when a few orders take unusually long.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:14:44.535460Z"
+          }
+        },
+        {
+          "id": "ff97702a34b87fecd7d5f288",
+          "passage_id": "p0196",
+          "english_quote": "meaningful information directly and easily accessible from the advertisement about the main parameters used to determine the recipient to whom the advertisement is presented and, where applicable, about how to change those parameters.",
+          "title": "Italian Article 26 omits the limitation to main advertising parameters",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English limits disclosure to the main advertising-targeting parameters; Italian refers to parameters without that limitation. Italian could support requiring information about secondary parameters too, although Recital 68 supports limiting disclosure to the main ones.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "informazioni rilevanti direttamente e facilmente accessibili dalla pubblicità relative ai parametri utilizzati per determinare il destinatario al quale viene presentata la pubblicità e, laddove applicabile, alle modalità di modifica di detti parametri.",
+              "translation": "relevant information directly and easily accessible from the advertisement concerning the parameters used to determine the recipient to whom the advertisement is presented and, where applicable, how to change those parameters.",
+              "explanation": "English limits disclosure to the main advertising-targeting parameters; Italian refers to parameters without that limitation. Italian could support requiring information about secondary parameters too, although Recital 68 supports limiting disclosure to the main ones.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:14:44.538837Z"
+          }
+        },
+        {
+          "id": "a75c181f0acee920f611822a",
+          "passage_id": "p0211",
+          "english_quote": "They shall ensure that the repository does not contain any personal data of the recipients of the service to whom the advertisement was or could have been presented, and shall make reasonable efforts to ensure that the information is accurate and complete.",
+          "title": "Advertising repository safeguards omit very large search engines",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English assigns the personal-data exclusion and reasonable efforts concerning accuracy and completeness to both very large platform and search-engine providers. Italian expressly assigns these duties only to very large online platforms, potentially excluding search engines from these particular repository safeguards.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "Le piattaforme online di dimensioni molto grandi provvedono affinché il registro non contenga dati personali dei destinatari del servizio ai quali la pubblicità è stata o avrebbe potuto essere presentata e compiono sforzi ragionevoli per garantire che le informazioni siano esatte e complete.",
+              "translation": "Very large online platforms shall ensure that the repository does not contain personal data of recipients of the service to whom the advertisement was or could have been presented and shall make reasonable efforts to ensure that the information is accurate and complete.",
+              "explanation": "English assigns the personal-data exclusion and reasonable efforts concerning accuracy and completeness to both very large platform and search-engine providers. Italian expressly assigns these duties only to very large online platforms, potentially excluding search engines from these particular repository safeguards.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:17:51.000762Z"
+          }
+        },
+        {
+          "id": "64a38784348bdd72c4b095a4",
+          "passage_id": "p0214",
+          "english_quote": "3. In addition to the information referred to in Articles 24(2), the providers of very large online platforms or of very large online search engines shall include in the reports referred to in paragraph 1 of this Article the information on the average monthly recipients of the service for each Member State.",
+          "title": "Member State recipient reporting omits very large search engines",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires both very large platform and search-engine providers to include monthly recipient figures for each Member State in their transparency reports. Italian names only platform providers, potentially removing this particular disclosure obligation for search-engine providers.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "3. Oltre alle informazioni di cui all'articolo 24, paragrafo 2, i fornitori di piattaforme online di dimensioni molto grandi includono nelle relazioni di cui al paragrafo 1 di tale articolo anche le informazioni sul numero medio mensile di destinatari del servizio per ciascuno Stato membro.",
+              "translation": "3. In addition to the information referred to in Article 24, paragraph 2, providers of very large online platforms shall also include in the reports referred to in paragraph 1 of that article information on the average monthly number of recipients of the service for each Member State.",
+              "explanation": "English requires both very large platform and search-engine providers to include monthly recipient figures for each Member State in their transparency reports. Italian names only platform providers, potentially removing this particular disclosure obligation for search-engine providers.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:17:51.002334Z"
+          }
+        },
+        {
+          "id": "2d4d09570926de23176f164f",
+          "passage_id": "p0221",
+          "english_quote": "The Commission shall aim to ensure that those crisis protocols include one or more of the following measures:",
+          "title": "Stronger Commission duty concerning crisis protocol measures",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires the Commission to pursue inclusion of at least one listed measure; Italian requires it to ensure inclusion. This could impose a duty to achieve the specified protocol content, even though participation in the protocols remains voluntary.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "La Commissione provvede affinché tali protocolli di crisi comprendano una o più delle misure seguenti:",
+              "translation": "The Commission shall ensure that those crisis protocols include one or more of the following measures:",
+              "explanation": "English requires the Commission to pursue inclusion of at least one listed measure; Italian requires it to ensure inclusion. This could impose a duty to achieve the specified protocol content, even though participation in the protocols remains voluntary.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:17:51.003017Z"
+          }
+        },
+        {
+          "id": "38f3aa714122ddcab3b02de9",
+          "passage_id": "p0271",
+          "english_quote": "On the basis of the findings and taking utmost account of the opinion of the Board, that report shall, where appropriate, be accompanied by a proposal for amendment of this Regulation with regard to the structure of the Board.",
+          "title": "Board findings become the prescribed basis of the review report",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English links a possible amendment proposal to the findings following the Commission's assessment, while separately requiring utmost account of the Board's opinion. Italian expressly requires the report itself to rest on the Board's findings, potentially changing its required evidential basis.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "Tale relazione, che si basa sulle constatazioni del comitato e tiene nella massima considerazione il parere del comitato, è corredata, se del caso, di una proposta di modifica del presente regolamento per quanto riguarda la struttura del comitato.",
+              "translation": "That report, which is based on the Board's findings and takes utmost account of the Board's opinion, shall, where appropriate, be accompanied by a proposal to amend this Regulation with regard to the structure of the Board.",
+              "explanation": "English links a possible amendment proposal to the findings following the Commission's assessment, while separately requiring utmost account of the Board's opinion. Italian expressly requires the report itself to rest on the Board's findings, potentially changing its required evidential basis.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:17:51.004698Z"
+          }
+        },
+        {
+          "id": "52edadc7e9a7b4275ca3f3a4",
+          "passage_id": "p0225",
+          "english_quote": "that that infringement entails a criminal offence involving a threat to the life or safety of persons",
+          "title": "Additional seriousness threshold for access restrictions",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Italian expressly requires the criminal offence itself to be serious; English contains no separate offence-level seriousness qualification. This could prevent an access-restriction request where the shared serious-harm and threat requirements are met but the offence is not considered sufficiently serious.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "integri un reato grave che comporta una minaccia per la vita o la sicurezza delle persone",
+              "translation": "constitutes a serious criminal offence involving a threat to the life or safety of persons",
+              "explanation": "Italian expressly requires the criminal offence itself to be serious; English contains no separate offence-level seriousness qualification. This could prevent an access-restriction request where the shared serious-harm and threat requirements are met but the offence is not considered sufficiently serious.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:17:51.005278Z"
+          }
+        },
+        {
+          "id": "3cbf33e75d66accad1d53f4e",
+          "passage_id": "p0243",
+          "english_quote": "with regard to information, persons and premises located within the territory of their Member State and in accordance with the request.",
+          "title": "Persons omitted from the territorial basis for investigative assistance",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly permits investigative assistance based on persons located in the assisting authority's Member State. Italian lists only information and premises. This could narrow the territorial basis for assistance concerning persons, although the shared incorporation of Article 51(1) supports retaining questioning powers.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "riguardo alle informazioni e ai locali ubicati nel loro Stato membro e conformemente alla richiesta.",
+              "translation": "with regard to information and premises located in their Member State and in accordance with the request.",
+              "explanation": "English expressly permits investigative assistance based on persons located in the assisting authority's Member State. Italian lists only information and premises. This could narrow the territorial basis for assistance concerning persons, although the shared incorporation of Article 51(1) supports retaining questioning powers.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T07:17:51.005827Z"
           }
         }
       ],
