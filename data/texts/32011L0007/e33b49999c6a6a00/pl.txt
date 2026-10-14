@@ -1,0 +1,300 @@
+DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY 2011/7/UE
+z dnia 16 lutego 2011 r.
+w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych
+(wersja przekształcona)
+(Tekst mający znaczenie dla EOG)
+
+PARLAMENT EUROPEJSKI I RADA UNII EUROPEJSKIEJ,
+
+uwzględniając Traktat o funkcjonowaniu Unii Europejskiej, w szczególności jego art. 114,
+
+uwzględniając wniosek Komisji Europejskiej,
+
+uwzględniając opinię Komitetu Ekonomiczno-Społecznego ( 1 ) ,
+
+stanowiąc zgodnie ze zwykłą procedurą ustawodawczą ( 2 ) ,
+
+a także mając na uwadze, co następuje:
+
+(1) | Do dyrektywy Parlamentu Europejskiego i Rady 2000/35/WE z dnia 29 czerwca 2000 r. w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych ( 3 ) ma zostać wprowadzony szereg istotnych zmian. Pożądane jest, aby ze względów przejrzystości i racjonalizacji dyrektywa ta została przekształcona.
+
+(2) | W ramach rynku wewnętrznego większość towarów i usług dostarczanych jest przez podmioty gospodarcze innym podmiotom gospodarczym oraz organom publicznym na zasadzie odroczenia płatności, zgodnie z którą dostawca pozostawia swojemu klientowi czas na zapłacenie faktury, w terminie uzgodnionym przez strony, określonym w fakturze dostawcy lub przewidzianym przez prawo.
+
+(3) | Wiele płatności w transakcjach handlowych między podmiotami gospodarczymi lub między podmiotami gospodarczymi a organami publicznymi dokonywanych jest po terminie uzgodnionym w umowie lub określonym w ogólnych warunkach handlowych. Chociaż towary zostały dostarczone, a usługi wyświadczone, wiele odpowiadających im faktur płaconych jest długo po terminie. Takie opóźnienia w płatnościach mają negatywny wpływ na płynność finansową i komplikują zarządzanie finansami przedsiębiorstw. Wpływa to również na ich konkurencyjność i rentowność, gdy z powodu opóźnień w płatnościach wierzyciel zmuszony jest sięgać do zewnętrznych źródeł finansowania. Ryzyko takich negatywnych skutków znacznie wzrasta w okresach spowolnienia gospodarczego, kiedy uzyskanie dostępu do finansowania jest trudniejsze.
+
+(4) | Ułatwienia w ramach sądowego dochodzenia roszczeń związanych z opóźnieniami w płatnościach przewidziano już w rozporządzeniu Rady (WE) nr 44/2001 z dnia 22 grudnia 2000 r. w sprawie jurysdykcji i uznawania orzeczeń sądowych oraz ich wykonywania w sprawach cywilnych i handlowych ( 4 ) , w rozporządzeniu (WE) nr 805/2004 Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie utworzenia Europejskiego Tytułu Egzekucyjnego dla roszczeń bezspornych ( 5 ) , w rozporządzeniu (WE) nr 1896/2006 Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. ustanawiającym postępowanie w sprawie europejskiego nakazu zapłaty ( 6 ) oraz w rozporządzeniu (WE) nr 861/2007 Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. ustanawiającym europejskie postępowanie w sprawie drobnych roszczeń ( 7 ) . Jednakże aby zniechęcić do opóźnień w płatnościach w transakcjach handlowych, konieczne jest ustanowienie przepisów uzupełniających.
+
+(5) | Przedsiębiorstwa powinny mieć możliwość prowadzenia swojej działalności na rynku wewnętrznym na warunkach zapewniających, aby operacje transgraniczne nie pociągały za sobą większego ryzyka niż sprzedaż krajowa. Jeśli istniałyby zasadniczo różne zasady stosowane do operacji krajowych i transgranicznych, mogłoby dojść do zniekształcenia konkurencji.
+
+(6) | W swoim komunikacie z dnia 25 czerwca 2008 r., zatytułowanym „»Najpierw myśl na małą skalę« – Program »Small Business Act« dla Europy”, Komisja podkreśliła, że należy ułatwiać małym i średnim przedsiębiorstwom (MŚP) dostęp do finansowania i rozwinąć otoczenie prawne i biznesowe sprzyjające terminowym płatnościom w transakcjach handlowych. Należy zauważyć, że na organach publicznych spoczywa w związku z tym szczególna odpowiedzialność w tym zakresie. Kryteria definicji MŚP znajdują się w zaleceniu Komisji 2003/361/WE z dnia 6 maja 2003 r. dotyczącym definicji mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw ( 8 ) .
+
+(7) | Jednym z działań priorytetowych przewidzianych w komunikacie Komisji z dnia 26 listopada 2008 r., zatytułowanym „Europejski plan naprawy gospodarczej”, jest zmniejszenie obciążeń administracyjnych dla przedsiębiorstw oraz promowanie przedsiębiorczości między innymi poprzez zapewnienie, aby należności za dostawy i usługi, w tym również wobec MŚP, były regulowane co do zasady w ciągu jednego miesiąca, w celu zmniejszenia ograniczeń w płynności finansowej.
+
+(8) | Zakres niniejszej dyrektywy powinien ograniczać się do płatności dokonywanych jako wynagrodzenia w transakcjach handlowych. Niniejsza dyrektywa nie powinna regulować transakcji z udziałem konsumentów, odsetek związanych z innymi płatnościami, na przykład z płatnościami wynikającymi z prawa czekowego i wekslowego, lub z płatnościami w formie odszkodowań, łącznie z płatnościami towarzystw ubezpieczeniowych. Państwa członkowskie powinny ponadto móc wykluczyć długi, które są przedmiotem postępowania upadłościowego, w tym postępowań mających na celu restrukturyzację długu.
+
+(9) | Niniejsza dyrektywa powinna regulować wszystkie transakcje handlowe niezależnie od tego, czy mają one miejsce między przedsiębiorstwami prywatnymi lub publicznymi, lub między przedsiębiorstwami a organami publicznymi, uwzględniając fakt, że organy publiczne dokonują znacznych płatności na rzecz przedsiębiorstw. Niniejsza dyrektywa powinna zatem również regulować wszystkie transakcje handlowe między głównymi wykonawcami a ich dostawcami i podwykonawcami.
+
+(10) | Fakt, że niniejsza dyrektywa obejmuje wolne zawody, nie powinien zobowiązywać państw członkowskich do traktowania ich jako przedsiębiorstw lub kupców do celów nieobjętych zakresem niniejszej dyrektywy.
+
+(11) | Dostawa towarów oraz świadczenie usług za wynagrodzeniem, do których ma zastosowanie niniejsza dyrektywa, powinny obejmować także projektowanie i wykonawstwo robót publicznych oraz robót budowlanych i inżynieryjno-lądowych.
+
+(12) | Opóźnienia w płatnościach stanowią naruszenie postanowień umowy, które stało się korzystne finansowo dla dłużników w większości państw członkowskich z uwagi na naliczanie niskich lub zerowych odsetek za opóźnienia w płatnościach lub powolne procedury ściągania należności. Konieczna jest więc zdecydowana zmiana w kierunku kultury szybkich płatności, w ramach której wszelkie zapisy uniemożliwiające naliczanie odsetek należy zawsze uznawać za rażąco nieuczciwy warunek umowy lub praktykę, w celu odwrócenia tej tendencji i zniechęcenia do przekraczania terminów płatności. Zmiana ta powinna również obejmować wprowadzenie szczegółowych przepisów dotyczących terminów płatności i rekompensaty dla wierzycieli za poniesione koszty oraz, między innymi, na zapisie, że wykluczenie prawa do rekompensaty za koszty odzyskiwania należności powinno być uważane za rażąco nieuczciwe.
+
+(13) | W związku z powyższym należy przewidzieć przepis, zgodnie z którym terminy płatności w przypadku umów między przedsiębiorstwami nie powinny co do zasady przekraczać 60 dni kalendarzowych. Mogą jednakże zaistnieć okoliczności, w których przedsiębiorstwa będą wymagać dłuższych terminów płatności, na przykład w sytuacji przyznania kredytu handlowego swoim klientom. Dlatego też należy utrzymać możliwość wyraźnego uzgadniania przez strony terminów płatności dłuższych niż 60 dni kalendarzowych, pod warunkiem jednak, że takie przedłużenie nie będzie rażąco nieuczciwe wobec wierzyciela.
+
+(14) | Z myślą o zapewnieniu spójności ustawodawstwa unijnego, do celów niniejszej dyrektywy powinna mieć zastosowanie definicja „instytucji zamawiających” zawarta w dyrektywie 2004/17/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. koordynującej procedury udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych ( 9 ) oraz w dyrektywie 2004/18/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie koordynacji procedur udzielania zamówień publicznych na roboty budowlane, dostawy i usługi ( 10 ) .
+
+(15) | Ustawowe odsetki za opóźnienia w płatnościach powinny być naliczane za każdy dzień jako odsetki proste zgodnie z rozporządzeniem Rady (EWG, Euratom) nr 1182/71 z dnia 3 czerwca 1971 r. określającym zasady mające zastosowanie do okresów, dat i terminów ( 11 ) .
+
+(16) | Niniejsza dyrektywa nie powinna zobowiązywać wierzycieli do żądania zapłaty odsetek za opóźnienia w płatnościach. W przypadku opóźnień w płatnościach niniejsza dyrektywa powinna umożliwiać wierzycielowi naliczanie odsetek za takie opóźnienia w płatnościach bez uprzedniego powiadomienia o niedokonaniu płatności lub innego podobnego powiadomienia przypominającego dłużnikowi o obowiązku zapłaty.
+
+(17) | Płatność dłużnika powinna być uważana za opóźnioną, a zatem uprawniającą do odsetek za opóźnienia w płatnościach, w przypadku gdy wierzyciel nie dysponuje należną kwotą w stosownym terminie, pod warunkiem że wypełnił swoje zobowiązania prawne i umowne.
+
+(18) | Faktury równają się wezwaniom do zapłaty i są ważnymi dokumentami w łańcuchu transakcji dostawy towarów i świadczenia usług, między innymi do celów ustalenia terminów płatności. Do celów niniejszej dyrektywy państwa członkowskie powinny popierać systemy dające pewność prawną w odniesieniu do dokładnej daty otrzymywania faktur przez dłużników, w tym w dziedzinie fakturowania elektronicznego, gdzie otrzymanie faktur mogłoby być poparte elektronicznym dowodem; system ten jest częściowo zarządzany w oparciu o przepisy dotyczące fakturowania zawarte w dyrektywie Rady 2006/112/WE z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej ( 12 ) .
+
+(19) | Konieczna jest uczciwa rekompensata za ponoszone przez wierzycieli koszty odzyskiwania należności w związku z opóźnieniami w płatnościach, aby zniechęcić do opóźnień w płatnościach. Koszty odzyskiwania należności powinny obejmować również odzyskiwanie kosztów administracyjnych oraz rekompensatę za koszty wewnętrzne poniesione z powodu opóźnień w płatnościach, w odniesieniu do których niniejsza dyrektywa powinna przewidzieć stałą minimalną kwotę, którą można połączyć z odsetkami za opóźnienia w płatnościach. Rekompensata w postaci stałej kwoty powinna mieć na celu ograniczenie kosztów administracyjnych i wewnętrznych związanych z odzyskiwaniem należności. Rekompensata za koszty odzyskiwania należności powinna zostać ustalona bez naruszania przepisów prawa krajowego, zgodnie z którymi sąd krajowy może przyznać wierzycielowi rekompensatę za każdą dodatkową szkodę powstałą w związku z opóźnieniem w płatnościach dłużnika.
+
+(20) | Oprócz roszczenia o zapłatę stałej kwoty na pokrycie kosztów odzyskiwania należności wierzyciele powinni mieć również roszczenie o zwrot pozostałych kosztów odzyskiwania należności, które ponoszą z powodu opóźnień w płatnościach dłużnika. Do tych kosztów zalicza się w szczególności koszty poniesione przez wierzycieli w związku ze skorzystaniem z usług prawnika lub firmy windykacyjnej.
+
+(21) | Niniejsza dyrektywa nie powinna naruszać prawa państw członkowskich do ustanawiania wyższych, a więc korzystniejszych dla wierzyciela, stałych kwot na poczet rekompensaty za koszty odzyskiwania należności ani do zwiększania tych kwot, między innymi w celu nadążania za inflacją.
+
+(22) | Niniejsza dyrektywa nie powinna stanowić przeszkody dla płatności w ratach lub płatności rozłożonych w czasie. Każda płatność rozłożona na raty lub rozłożona w czasie powinna być jednak dokonywana na uzgodnionych warunkach i z zastrzeżeniem przepisów dotyczących opóźnień w płatnościach określonych w niniejszej dyrektywie.
+
+(23) | Co do zasady organy publiczne korzystają z bardziej bezpiecznych, przewidywalnych i trwałych źródeł dochodów niż przedsiębiorstwa. Ponadto warunki dostępu do finansowania w przypadku wielu organów publicznych są o wiele bardziej atrakcyjne niż w przypadku przedsiębiorstw. Jednocześnie organy publiczne, aby osiągnąć swoje cele, są w mniejszym stopniu niż w przypadku przedsiębiorstw prywatnych uzależnione od budowania trwałych stosunków handlowych z klientami. Długie terminy płatności i opóźnienia w płatnościach ze strony organów publicznych za towary i usługi prowadzą do nieuzasadnionych kosztów dla przedsiębiorstw. W związku z powyższym należy wprowadzić szczegółowe przepisy dotyczące transakcji handlowych związanych z dostawą towarów lub świadczeniem usług przez przedsiębiorstwa dla organów publicznych, które powinny przewidywać w szczególności terminy płatności nieprzekraczające co do zasady 30 dni kalendarzowych, chyba że umowa wyraźnie stanowi inaczej, i pod warunkiem że jest to obiektywnie uzasadnione szczególnym charakterem lub szczególnymi elementami umowy, ale w żadnym razie nieprzekraczające 60 dni kalendarzowych.
+
+(24) | Należy jednak uwzględniać specyficzną sytuację organów publicznych prowadzących działalność gospodarczą o charakterze przemysłowym lub handlowym, oferujących towary lub usługi na rynku jako przedsiębiorstwa publiczne. W tym celu państwa członkowskie powinny mieć pod pewnymi warunkami możliwość wydłużania ustawowego terminu płatności do maksymalnie 60 dni kalendarzowych.
+
+(25) | Szczególnie niepokojąca, jeśli chodzi o opóźnienia w płatnościach, jest sytuacja ochrony zdrowia w wielu państwach członkowskich. Systemy opieki zdrowotnej, jako podstawowy składnik europejskiej struktury socjalnej, często muszą godzić indywidualne potrzeby z dostępnymi środkami finansowymi, ponieważ ludność Europy się starzeje, ponieważ oczekiwania rosną i ponieważ medycyna idzie naprzód. Wszystkie systemy muszą stawić czoła wyzwaniom polegającym na takim określeniu priorytetów w dziedzinie opieki zdrowotnej, aby zapewniona została równowaga między potrzebami indywidualnego pacjenta a dostępnymi zasobami finansowymi. W związku z tym państwa członkowskie powinny móc zezwalać publicznym jednostkom udzielającym świadczeń zdrowotnych na pewną elastyczność w realizacji ich zobowiązań. W tym celu państwa członkowskie powinny mieć pod pewnymi warunkami możliwość wydłużania ustawowego terminu płatności do maksymalnie 60 dni kalendarzowych. Państwa członkowskie powinny jednak dołożyć wszelkich starań, aby płatności w sektorze opieki zdrowotnej były dokonywane zgodnie z ustawowymi terminami płatności.
+
+(26) | Aby osiągnięcie celów niniejszej dyrektywy nie zostało zagrożone, państwa członkowskie powinny zapewnić, aby w transakcjach handlowych maksymalny czas trwania procedury przyjęcia lub weryfikacji nie przekraczał co do zasady 30 dni kalendarzowych. Powinna jednak istnieć możliwość przedłużania procedury weryfikacji poza 30 dni kalendarzowych, na przykład w przypadku szczególnie złożonych umów, gdy jest to wyraźnie uzgodnione w umowie, w jakiejkolwiek dokumentacji przetargowej i jeżeli nie jest to rażąco nieuczciwe wobec wierzyciela.
+
+(27) | Instytucje unijne znajdują się w sytuacji porównywalnej z sytuacją organów publicznych, jeśli chodzi o ich finansowanie i stosunki handlowe. Rozporządzenie Rady (WE, Euratom) nr 1605/2002 z dnia 25 czerwca 2002 r. w sprawie rozporządzenia finansowego mającego zastosowanie do budżetu ogólnego Wspólnot Europejskich ( 13 ) stanowi, że stwierdzanie prawidłowości, zatwierdzanie i realizacja płatności przez instytucje unijne muszą odbyć się w granicach czasowych określonych w jego przepisach wykonawczych. Takie przepisy wykonawcze zawarte są obecnie w rozporządzeniu Komisji (WE, Euratom) nr 2342/2002 z dnia 23 grudnia 2002 r. ustanawiającym szczegółowe zasady wykonania rozporządzenia Rady (WE, Euratom) nr 1605/2002 w sprawie rozporządzenia finansowego stosowanego do budżetu ogólnego Wspólnot Europejskich ( 14 ) i wyszczególniają okoliczności, w jakich wierzyciele opłaceni z opóźnieniem są uprawnieni do odsetek za zwłokę. W kontekście trwającego przeglądu tych rozporządzeń należy zapewnić, aby maksymalne terminy płatności przez instytucje unijne zostały zrównane z terminami ustawowymi mającymi zastosowanie do organów publicznych zgodnie z niniejszą dyrektywą.
+
+(28) | Niniejsza dyrektywa powinna zakazać nadużywania swobody zawierania umów na niekorzyść wierzyciela. W konsekwencji w przypadku gdy jakiś warunek w umowie lub praktyka dotyczące daty lub terminu płatności, stopy procentowej odsetek za opóźnienia w płatnościach lub rekompensaty za koszty odzyskiwania należności nie są uzasadnione warunkami przyznanymi wierzycielowi lub służą przede wszystkim temu, aby przysporzyć dłużnikowi dodatkowej płynności finansowej na koszt wierzyciela, może to zostać uznane za takie nadużycie. W tym celu oraz zgodnie z akademickim projektem wspólnych ram odniesienia wszelkie warunki umów lub praktyki rażąco odstępujące od dobrej praktyki handlowej oraz naruszające zasadę działania w dobrej wierze i rzetelność powinny być uznawane za nieuczciwe wobec wierzyciela. W szczególności jawne wykluczenie prawa do naliczania odsetek zawsze należy uważać za rażąco nieuczciwe, natomiast wykluczenie prawa do rekompensaty za koszty odzyskiwania należności należy uważać za rażąco nieuczciwe. Niniejsza dyrektywa nie powinna mieć wpływu na przepisy krajowe dotyczące sposobu zawierania umów lub regulujące ważność warunków umów, które są nieuczciwe wobec dłużnika.
+
+(29) | W kontekście wzmożonych wysiłków mających na celu zapobieganie nadużyciom swobody zawierania umów ze szkodą dla wierzycieli organizacje oficjalnie uznane za reprezentujące przedsiębiorstwa oraz organizacje, które mają uzasadniony interes w reprezentowaniu przedsiębiorstw, powinny mieć możliwość wszczynania postępowań przed sądami krajowymi lub organami administracji w celu zapobiegania dalszemu stosowaniu warunków umów lub praktyk rażąco nieuczciwych wobec wierzyciela.
+
+(30) | W celu przyczynienia się do osiągnięcia celu niniejszej dyrektywy państwa członkowskie powinny wspierać i upowszechniać dobre praktyki, w tym poprzez wspieranie publikacji wykazu dobrych płatników.
+
+(31) | Pożądane jest zapewnienie wierzycielom możliwości wykonywania klauzuli zastrzeżenia własności na zasadzie niedyskryminacji w całej Unii, jeśli takie zastrzeżenie własności jest ważne na podstawie mającego zastosowanie przepisu krajowego wskazanego przez międzynarodowe prawo prywatne.
+
+(32) | Niniejsza dyrektywa jedynie definiuje pojęcie „tytuł wykonawczy”, ale nie powinna regulować różnych procedur przymusowej egzekucji tego tytułu ani warunków wstrzymania lub zawieszenia egzekucji takiego tytułu.
+
+(33) | Skutki opóźnień w płatnościach mogą działać odstraszająco jedynie wtedy, gdy towarzyszą im szybkie i skuteczne dla wierzyciela procedury ściągania należności. Procedury te powinny być dostępne dla wszystkich wierzycieli prowadzących działalność gospodarczą w Unii zgodnie z zasadą niedyskryminacji ustanowioną w art. 18 Traktatu o funkcjonowaniu Unii Europejskiej.
+
+(34) | W celu ułatwienia przestrzegania przepisów niniejszej dyrektywy państwa członkowskie powinny zachęcać do korzystania z mediacji lub innych form alternatywnego rozstrzygania sporów. Dyrektywa Parlamentu Europejskiego i Rady 2008/52/WE z dnia 21 maja 2008 r. w sprawie niektórych aspektów mediacji w sprawach cywilnych i handlowych ( 15 ) ustanawia już ramy dla systemów mediacji na poziomie unijnym, w szczególności w przypadku sporów transgranicznych, nie stojąc na przeszkodzie w stosowaniu ich do wewnętrznych systemów mediacji. Państwa członkowskie powinny także zachęcać zainteresowane strony do opracowywania dobrowolnych kodeksów postępowania, mających w szczególności na celu przyczynienie się do wdrożenia niniejszej dyrektywy.
+
+(35) | Należy zapewnić, aby procedury odzyskiwania należności w przypadku roszczeń bezspornych związanych z opóźnieniami w płatnościach w transakcjach handlowych były zakończone w krótkim okresie czasu, w tym za pomocą procedury przyspieszonej oraz niezależnie od kwoty długu.
+
+(36) | Ponieważ cel niniejszej dyrektywy, a mianowicie zwalczanie opóźnień w płatnościach na rynku wewnętrznym, nie może zostać osiągnięty w sposób wystarczający przez państwa członkowskie, natomiast ze względu na jego rozmiary oraz skutki możliwe jest lepsze jego osiągnięcie na poziomie Unii, Unia może podejmować działania zgodnie z zasadą pomocniczości określoną w art. 5 Traktatu o Unii Europejskiej. Zgodnie z zasadą proporcjonalności określoną w tym artykule niniejsza dyrektywa nie wykracza poza to, co jest konieczne do osiągnięcia tego celu.
+
+(37) | Obowiązek transpozycji niniejszej dyrektywy do prawa krajowego powinien ograniczać się do tych przepisów, które stanowią istotną zmianę w porównaniu z dyrektywą 2000/35/WE. Obowiązek transpozycji przepisów, które nie uległy zmianie, wynika z tej dyrektywy.
+
+(38) | Niniejsza dyrektywa nie powinna naruszać obowiązków państw członkowskich dotyczących terminów transpozycji do prawa krajowego oraz stosowania dyrektywy 2000/35/WE.
+
+(39) | Zgodnie z pkt 34 porozumienia międzyinstytucjonalnego w sprawie lepszego stanowienia prawa ( 16 ) zachęca się państwa członkowskie do sporządzania na swoje potrzeby i w interesie Unii własnych tabel, które w możliwie najszerszym zakresie odzwierciedlają korelacje pomiędzy niniejszą dyrektywą a środkami transpozycji, oraz do podawania ich do wiadomości publicznej,
+
+PRZYJMUJĄ NINIEJSZĄ DYREKTYWĘ:
+
+Artykuł 1
+Przedmiot i zakres stosowania
+1. Celem niniejszej dyrektywy jest zwalczanie opóźnień w płatnościach w transakcjach handlowych, aby zapewnić właściwe funkcjonowanie rynku wewnętrznego, wspierając tym samym konkurencyjność przedsiębiorstw, a w szczególności MŚP.
+2. Niniejsza dyrektywa ma zastosowanie do wszystkich płatności, które stanowią wynagrodzenie w transakcjach handlowych.
+3. Państwa członkowskie mogą wykluczyć długi, które są przedmiotem postępowania upadłościowego prowadzonego przeciw dłużnikowi, w tym postępowania mającego na celu restrukturyzację długu.
+
+Artykuł 2
+Definicje
+Do celów niniejszej dyrektywy zastosowanie mają następujące definicje:
+1) | „transakcje handlowe” oznaczają transakcje między przedsiębiorstwami lub między przedsiębiorstwami a organami publicznymi, które prowadzą do dostawy towarów lub świadczenia usług za wynagrodzeniem;
+2) | „organ publiczny” oznacza każdą instytucję zamawiającą w rozumieniu art. 2 ust. 1 lit. a) dyrektywy 2004/17/WE oraz art. 1 ust. 9 dyrektywy 2004/18/WE, niezależnie od przedmiotu lub wartości umowy;
+3) | „przedsiębiorstwo” oznacza każdą organizację inną niż organ publiczny, działającą w ramach swojej niezależnej działalności gospodarczej lub zawodowej, nawet w przypadku gdy działalność ta prowadzona jest przez jedną osobę;
+4) | „opóźnienia w płatnościach ” oznaczają płatności, które nie zostały dokonane w umownym lub ustawowym terminie, w przypadku gdy spełnione są warunki określone w art. 3 ust. 1 lub w art. 4 ust. 1;
+5) | „odsetki za opóźnienia w płatnościach” oznaczają ustawowe odsetki za opóźnienia w płatnościach lub odsetki w wysokości uzgodnionej między przedsiębiorstwami, z zastrzeżeniem art. 7;
+6) | „ustawowe odsetki za opóźnienia w płatnościach” oznaczają odsetki proste za opóźnienia w płatnościach w wysokości równej sumie stopy referencyjnej i co najmniej ośmiu punktów procentowych;
+7) | „stopa referencyjna” oznacza jedno z następujących: a) dla państw członkowskich, których walutą jest euro: (i) stopę procentową stosowaną przez Europejski Bank Centralny do jego ostatnich głównych operacji refinansowania; albo (ii) krańcową stopę procentową wynikającą z procedur przetargu o zmiennej stopie procentowej dla ostatnich głównych operacji refinansowania Europejskiego Banku Centralnego; b) dla państw członkowskich, których walutą nie jest euro – równoważną stopę procentową ustalaną przez ich krajowy bank centralny;
+8) | „należność” oznacza główną kwotę, która powinna była zostać zapłacona w umownym lub ustawowym terminie zapłaty, obejmującą także mające zastosowanie podatki, cła, opłaty lub koszty wymienione na fakturze lub w równoważnym wezwaniu do zapłaty;
+9) | „zastrzeżenie własności” oznacza porozumienie umowne, zgodnie z którym sprzedawca pozostaje właścicielem danego towaru do czasu zapłaty jego ceny w całości;
+10) | „tytuł wykonawczy” oznacza każdą decyzję, wyrok lub nakaz zapłaty wydane przez sąd lub inny właściwy organ, w tym również takie, które są tymczasowo wykonalne, niezależnie od tego, czy dotyczą płatności natychmiastowej czy w ratach, pozwalające wierzycielowi na dochodzenie swoich roszczeń względem dłużnika w drodze przymusowej egzekucji.
+
+Artykuł 3
+Transakcje między przedsiębiorstwami
+1. Państwa członkowskie zapewniają, aby w transakcjach handlowych między przedsiębiorstwami wierzyciel był uprawniony do odsetek za opóźnienia w płatnościach bez konieczności przypomnienia, w przypadku gdy spełnione są następujące warunki:
+a) | wierzyciel wypełnił swoje zobowiązania umowne i prawne; oraz
+b) | wierzyciel nie otrzymał należności w odpowiednim czasie, chyba że dłużnik nie jest odpowiedzialny za opóźnienie.
+2. Państwa członkowskie zapewniają, aby mająca zastosowanie stopa referencyjna odpowiadała:
+a) | za pierwsze półrocze danego roku – stopie obowiązującej w dniu 1 styczniu tego roku;
+b) | za drugie półrocze danego roku – stopie obowiązującej w dniu 1 lipca tego roku.
+3. W przypadku gdy warunki określone w ust. 1 są spełnione, państwa członkowskie zapewniają:
+a) | aby wierzyciel był uprawniony do odsetek za opóźnienia w płatnościach od dnia następującego po dacie płatności lub terminie płatności określonych w umowie;
+b) | w przypadku gdy data lub termin płatności nie zostały ustalone w umowie, aby wierzyciel był uprawniony do odsetek za opóźnienia w płatnościach po upływie któregokolwiek z następujących terminów: (i) 30 dni kalendarzowych od daty otrzymania przez dłużnika faktury lub równoważnego wezwania do zapłaty; (ii) w przypadku gdy data otrzymania faktury lub równoważnego wezwania do zapłaty nie jest pewna, 30 dni kalendarzowych od daty otrzymania towarów lub usług; (iii) w przypadku gdy dłużnik otrzyma fakturę lub równoważne wezwanie do zapłaty przed otrzymaniem towarów lub usług, 30 dni kalendarzowych od daty otrzymania towarów lub usług; (iv) w przypadku gdy procedura przyjęcia lub weryfikacji, za pomocą której ma zostać potwierdzana zgodność towarów lub usług z umową, przewidziana jest w ustawie lub w umowie i jeśli dłużnik otrzyma fakturę lub równoważne wezwanie do zapłaty przed datą takiego przyjęcia lub weryfikacji lub w dniu ich dokonywania, 30 dni kalendarzowych od tej daty.
+4. W przypadku gdy przewidziana jest procedura przyjęcia lub weryfikacji, za pomocą której ma zostać potwierdzana zgodność towarów lub usług z umową, państwa członkowskie zapewniają, aby maksymalny czas trwania tej procedury nie przekraczał 30 dni kalendarzowych od daty otrzymania towarów lub usług, chyba że w umowie wyraźnie ustalono inaczej i pod warunkiem że nie jest to rażąco nieuczciwe wobec wierzyciela w rozumieniu art. 7.
+5. Państwa członkowskie zapewniają, aby termin płatności ustalony w umowie nie przekraczał 60 dni kalendarzowych, chyba że w umowie wyraźnie ustalono inaczej i pod warunkiem że nie jest to rażąco nieuczciwe wobec wierzyciela w rozumieniu art. 7.
+
+Artykuł 4
+Transakcje między przedsiębiorstwami a organami publicznymi
+1. Państwa członkowskie zapewniają, aby w ramach transakcji handlowych, w których dłużnikiem jest organ publiczny, wierzyciel był uprawniony po upływie terminu określonego w ust. 3, 4 lub 6 do ustawowych odsetek za opóźnienia w płatnościach, bez konieczności przypomnienia, w przypadku gdy spełnione są następujące warunki:
+a) | wierzyciel wypełnił swoje zobowiązania umowne i prawne; oraz
+b) | wierzyciel nie otrzymał należności w odpowiednim czasie, chyba że dłużnik nie jest odpowiedzialny za opóźnienie.
+2. Państwa członkowskie zapewniają, aby mająca zastosowanie stopa referencyjna odpowiadała:
+a) | w pierwszym półroczu danego roku – stopie obowiązującej w dniu 1 stycznia tego roku;
+b) | w drugim półroczu danego roku – stopie obowiązującej w dniu 1 lipca tego roku.
+3. Państwa członkowskie zapewniają, aby w ramach transakcji handlowych, w których dłużnikiem są organy publiczne:
+a) | termin płatności nie przekraczał żadnego z następujących terminów: (i) 30 dni kalendarzowych od daty otrzymania przez dłużnika faktury lub równoważnego wezwania do zapłaty; (ii) w przypadku gdy data otrzymania faktury lub równoważnego wezwania do zapłaty nie jest pewna, 30 dni kalendarzowych od daty otrzymania towarów lub usług; (iii) w przypadku gdy dłużnik otrzyma fakturę lub równoważne wezwanie do zapłaty przed otrzymaniem towarów lub usług, 30 dni kalendarzowych od daty otrzymania towarów lub usług; (iv) w przypadku gdy procedura przyjęcia lub weryfikacji, za pomocą której ma zostać potwierdzana zgodność towarów lub usług z umową, przewidziana jest w ustawie lub w umowie i jeśli dłużnik otrzyma fakturę lub równoważne wezwanie do zapłaty przed datą takiego przyjęcia lub weryfikacji lub w dniu ich dokonywania, 30 dni kalendarzowych od tej daty;
+b) | data otrzymania faktury nie podlegała porozumieniu umownemu między dłużnikiem a wierzycielem.
+4. Państwa członkowskie mogą wydłużyć termin, o którym mowa w ust. 3 lit. a), do maksymalnie 60 dni kalendarzowych w odniesieniu do:
+a) | każdego organu publicznego prowadzącego działalność gospodarczą o charakterze przemysłowym lub handlowym, oferującego towary lub usługi na rynku i podlegającego jako przedsiębiorstwo publiczne wymogom przejrzystości określonym w dyrektywie Komisji 2006/111/WE z dnia 16 listopada 2006 r. w sprawie przejrzystości stosunków finansowych między państwami członkowskimi a przedsiębiorstwami publicznymi, a także w sprawie przejrzystości finansowej wewnątrz określonych przedsiębiorstw ( 17 ) ;
+b) | jednostek publicznych udzielających świadczeń zdrowotnych, należycie uznanych do tych celów.
+Jeżeli państwo członkowskie podejmie decyzję o wydłużeniu terminów zgodnie z niniejszym ustępem, wysyła Komisji sprawozdanie dotyczące tego wydłużenia do dnia 16 marca 2018 r.
+Na tej podstawie Komisja przedstawia Parlamentowi Europejskiemu i Radzie sprawozdanie wskazujące, które państwa członkowskie wydłużyły terminy zgodnie z niniejszym ustępem i uwzględniające wpływ na funkcjonowanie rynku wewnętrznego, w szczególności na MŚP. Sprawozdaniu temu towarzyszą wszelkie stosowne wnioski.
+5. Państwa członkowskie zapewniają, aby maksymalny czas trwania procedury przyjęcia lub weryfikacji, o której mowa w ust. 3 lit. a) ppkt (iv), nie przekraczał 30 dni kalendarzowych od daty otrzymania towarów lub usług, chyba że w umowie wyraźnie ustalono inaczej i pod warunkiem że nie jest to rażąco nieuczciwe wobec wierzyciela w rozumieniu art. 7.
+6. Państwa członkowskie zapewniają, aby termin płatności ustalony w umowie nie przekraczał terminów przewidzianych w ust. 3, chyba że w umowie wyraźnie ustalono inaczej i pod warunkiem że jest to obiektywnie uzasadnione szczególnym charakterem lub szczególnymi elementami umowy, oraz aby w żadnym przypadku nie przekraczał on 60 dni kalendarzowych.
+
+Artykuł 5
+Harmonogramy płatności
+Niniejsza dyrektywa nie narusza prawa stron do uzgadniania harmonogramów płatności w ratach, z zastrzeżeniem stosownych przepisów mającego zastosowanie prawa krajowego. W takich przypadkach, gdy którakolwiek z rat nie zostanie zapłacona w uzgodnionym terminie, odsetki i rekompensata przewidziane w niniejszej dyrektywie naliczane są wyłącznie na podstawie zaległych kwot.
+
+Artykuł 6
+Rekompensata za koszty odzyskiwania należności
+1. Państwa członkowskie zapewniają, aby wierzyciel był uprawniony do uzyskania od dłużnika co najmniej stałej kwoty 40 EUR w przypadku gdy odsetki za opóźnienia w płatnościach stają się wymagalne w ramach transakcji handlowych zgodnie z art. 3 lub 4.
+2. Państwa członkowskie zapewniają, aby stała kwota, o której mowa w ust. 1, była płacona bez konieczności przypomnienia jako rekompensata za koszty odzyskiwania należności poniesione przez wierzyciela.
+3. Oprócz stałej kwoty, o której mowa w ust. 1, wierzyciel jest uprawniony do uzyskania od dłużnika rozsądnej rekompensaty za wszelkie koszty odzyskiwania należności przekraczające tę stałą kwotę, poniesione z powodu opóźnień w płatnościach dłużnika. Mogłoby to obejmować koszty poniesione między innymi w związku ze skorzystaniem z usług prawnika lub firmy windykacyjnej.
+
+Artykuł 7
+Nieuczciwe warunki umów i praktyki
+1. Państwa członkowskie zapewniają, aby warunek umowy lub praktyka dotyczące daty lub terminu płatności, stopy procentowej odsetek za opóźnienia w płatnościach lub rekompensaty za koszty odzyskiwania należności uznawane były za niepodlegające wykonaniu albo stanowiły podstawę do roszczenia o odszkodowanie, jeśli są rażąco nieuczciwe wobec wierzyciela.
+Przy rozpoznaniu, czy warunek umowy lub praktyka są rażąco nieuczciwe wobec wierzyciela w rozumieniu akapitu pierwszego, bierze się pod uwagę wszystkie okoliczności sprawy, w tym również:
+a) | wszelkie rażące odstępstwa od dobrej praktyki handlowej, naruszające zasadę działania w dobrej wierze i rzetelność;
+b) | charakter towaru lub usługi; oraz
+c) | czy dłużnik ma jakikolwiek obiektywny powód odstępstwa od ustawowych odsetek za opóźnienia w płatnościach, od terminów płatności, o których mowa w art. 3 ust. 5, art. 4 ust. 3 lit. a), art. 4 ust. 4 oraz art. 4 ust. 6, lub od stałej kwoty, o której mowa w art. 6 ust. 1.
+2. Do celów ust. 1 warunek umowy lub praktykę, które wykluczają odsetki za opóźnienia w płatnościach, uznaje się za rażąco nieuczciwe.
+3. Do celów ust. 1 warunek umowy lub praktykę, które wykluczają rekompensatę za koszty odzyskiwania należności, o której mowa w art. 6, uznaje się za rażąco nieuczciwe.
+4. Państwa członkowskie zapewniają adekwatne i skuteczne środki w interesie wierzycieli i konkurentów, aby zapobiec dalszemu stosowaniu warunków umów i praktyk, które są rażąco nieuczciwe w rozumieniu ust. 1.
+5. Środki, o których mowa w ust. 4, obejmują również przepisy, zgodnie z którymi organizacje oficjalnie uznane za reprezentujące przedsiębiorstwa lub organizacje, które mają uzasadniony interes w reprezentowaniu przedsiębiorstw, mogą zgodnie z mającymi zastosowanie przepisami prawa krajowego wszczynać postępowania przed sądami lub przed właściwymi organami administracji w związku z tym, że warunki umów lub praktyki są rażąco nieuczciwe w rozumieniu ust. 1, tak aby mogły one zastosować odpowiednie i skuteczne środki mające na celu zapobieżenie dalszemu ich stosowaniu.
+
+Artykuł 8
+Przejrzystość i podnoszenie świadomości
+1. Państwa członkowskie zapewniają przejrzystość w odniesieniu do praw i obowiązków wynikających z niniejszej dyrektywy, w tym poprzez publiczne udostępnianie mającej zastosowanie stopy procentowej ustawowych odsetek za opóźnienia w płatnościach.
+2. Komisja publicznie udostępnia w Internecie informacje na temat aktualnych ustawowych stóp procentowych odsetek, które mają zastosowanie we wszystkich państwach członkowskich w przypadku opóźnień w płatnościach w transakcjach handlowych.
+3. W stosownych przypadkach państwa członkowskie wykorzystują profesjonalne publikacje, kampanie promocyjne lub wszelkie inne środki funkcjonalne w celu podnoszenia świadomości na temat środków zaradczych w przypadku opóźnień w płatnościach w transakcjach handlowych.
+4. Państwa członkowskie mogą zachęcać do opracowywania kodeksów szybkich płatności, które przewidują jasno określone terminy płatności i właściwy sposób postępowania w przypadku jakichkolwiek spornych płatności lub wszelkie inne inicjatywy, które prowadzą do rozwiązania kluczowego problemu opóźnień w płatnościach i przyczyniają się do rozwoju kultury szybkich płatności, wspierającej cel niniejszej dyrektywy.
+
+Artykuł 9
+Zastrzeżenie własności
+1. Państwa członkowskie zapewniają, zgodnie z mającymi zastosowanie przepisami prawa krajowego wskazanymi przez międzynarodowe prawo prywatne, aby sprzedawca mógł zastrzec własność towarów do czasu zapłaty ich ceny w całości, jeśli między kupującym a sprzedawcą przed dostawą towarów wyraźnie została uzgodniona klauzula zastrzeżenia własności.
+2. Państwa członkowskie mogą przyjąć lub utrzymać przepisy dotyczące płatności już uiszczonych przez dłużnika.
+
+Artykuł 10
+Procedura odzyskiwania należności w przypadku roszczeń bezspornych
+1. Państwa członkowskie zapewniają, aby tytuł wykonawczy mógł być uzyskany, w tym również za pomocą procedury przyspieszonej i niezależnie od kwoty długu, co do zasady w ciągu 90 dni kalendarzowych od wniesienia pozwu lub wniosku przez wierzyciela do sądu lub innego właściwego organu, pod warunkiem że spór nie dotyczy długu lub kwestii proceduralnych. Państwa członkowskie wykonują swój obowiązek zgodnie ze swoimi odpowiednimi krajowymi przepisami ustawowymi, wykonawczymi i administracyjnymi.
+2. Krajowe przepisy ustawowe, wykonawcze i administracyjne muszą przewidywać stosowanie takich samych warunków w odniesieniu do wszystkich wierzycieli prowadzących działalność gospodarczą w Unii.
+3. Przy obliczaniu terminu, o którym mowa w ust. 1, nie uwzględnia się:
+a) | czasu na dostarczenie dokumentów;
+b) | wszelkich opóźnień spowodowanych przez wierzyciela, takich jak czas niezbędny do poprawienia wniosków.
+4. Niniejszy artykuł nie narusza przepisów rozporządzenia (WE) nr 1896/2006.
+
+Artykuł 11
+Sprawozdanie
+Do dnia 16 marca 2016 r. Komisja przedkłada Parlamentowi Europejskiemu i Radzie sprawozdanie w sprawie wdrożenia niniejszej dyrektywy. Sprawozdaniu temu towarzyszą wszelkie stosowne wnioski.
+
+Artykuł 12
+Transpozycja
+1. Państwa członkowskie wprowadzają w życie przepisy ustawowe, wykonawcze i administracyjne niezbędne do spełnienia wymogów art. 1–8 i 10 do dnia 16 marca 2013 r. Niezwłocznie przekazują Komisji tekst tych przepisów.
+Przepisy przyjęte przez państwa członkowskie zawierają odesłanie do niniejszej dyrektywy lub odesłanie takie towarzyszy ich urzędowej publikacji. Przepisy te zawierają także wskazanie, że zawarte w istniejących przepisach ustawowych, wykonawczych i administracyjnych odniesienia do uchylonej dyrektywy należy odczytywać jako odniesienia do niniejszej dyrektywy. Metody dokonywania takiego odniesienia i formułowania takiego wskazania określane są przez państwa członkowskie.
+2. Państwa członkowskie przekazują Komisji teksty podstawowych przepisów prawa krajowego przyjętych w dziedzinie objętej niniejszą dyrektywą.
+3. Państwa członkowskie mogą utrzymać lub wprowadzić w życie przepisy, które są korzystniejsze dla wierzyciela niż przepisy niezbędne do spełnienia wymogów niniejszej dyrektywy.
+4. Podczas transpozycji niniejszej dyrektywy państwa członkowskie mogą zadecydować, czy wykluczyć umowy zawarte przed dniem 16 marca 2013 r.
+
+Artykuł 13
+Uchylenie
+Dyrektywa 2000/35/WE traci moc ze skutkiem od dnia 16 marca 2013 r. bez uszczerbku dla obowiązków państw członkowskich dotyczących terminów jej transpozycji do prawa krajowego i rozpoczęcia jej stosowania. Ma jednak nadal zastosowanie do umów zawartych przed tą datą, do których niniejsza dyrektywa nie ma zastosowania zgodnie z art. 12 ust. 4.
+Odesłania do uchylonej dyrektywy traktuje się jako odesłania do niniejszej dyrektywy i odczytuje się zgodnie z tabelą korelacji zamieszczoną w załączniku.
+
+Artykuł 14
+Wejście w życie
+Niniejsza dyrektywa wchodzi w życie dwudziestego dnia po jej opublikowaniu w Dzienniku Urzędowym Unii Europejskiej .
+
+Artykuł 15
+Adresaci
+Niniejsza dyrektywa skierowana jest do państw członkowskich.
+
+Sporządzono w Strasburgu dnia 16 lutego 2011 r.
+W imieniu Parlamentu Europejskiego
+J. BUZEK
+Przewodniczący
+W imieniu Rady
+MARTONYI J.
+Przewodniczący
+( 1 ) Dz.U. C 255 z 22.9.2010, s. 42 .
+( 2 ) Stanowisko Parlamentu Europejskiego z dnia 20 października 2010 r. (dotychczas nieopublikowane w Dzienniku Urzędowym) oraz decyzja Rady z dnia 24 stycznia 2011 r.
+( 3 ) Dz.U. L 200 z 8.8.2000, s. 35 .
+( 4 ) Dz.U. L 12 z 16.1.2001, s. 1 .
+( 5 ) Dz.U. L 143 z 30.4.2004, s. 15 .
+( 6 ) Dz.U. L 399 z 30.12.2006, s. 1 .
+( 7 ) Dz.U. L 199 z 31.7.2007, s. 1 .
+( 8 ) Dz.U. L 124 z 20.5.2003, s. 36 .
+( 9 ) Dz.U. L 134 z 30.4.2004, s. 1 .
+( 10 ) Dz.U. L 134 z 30.4.2004, s. 114 .
+( 11 ) Dz.U. L 124 z 8.6.1971, s. 1 .
+( 12 ) Dz.U. L 347 z 11.12.2006, s. 1 .
+( 13 ) Dz.U. L 248 z 16.9.2002, s. 1 .
+( 14 ) Dz.U. L 357 z 31.12.2002, s. 1 .
+( 15 ) Dz.U. L 136 z 24.5.2008, s. 3 .
+( 16 ) Dz.U. C 321 z 31.12.2003, s. 1 .
+( 17 ) Dz.U. L 318 z 17.11.2006, s. 17 .
+
+ZAŁĄCZNIK
+Tabela korelacji
+Dyrektywa 2000/35/WE | Niniejsza dyrektywa
+— | art. 1 ust. 1
+art. 1 | art. 1 ust. 2
+art. 2 pkt 1 akapit pierwszy | art. 2 pkt 1
+art. 2 pkt 1 akapit drugi | art. 2 pkt 2
+art. 2 pkt 1 akapit trzeci | art. 2 pkt 3
+art. 2 pkt 2 | art. 2 pkt 4
+— | art. 2 pkt 5
+— | art. 2 pkt 6
+— | art. 2 pkt 7 wprowadzenie
+— | art. 2 pkt 8
+art. 2 pkt 3 | art. 2 pkt 9
+art. 2 pkt 4 | art. 2 pkt 7 lit. a)
+art. 2 pkt 5 | art. 2 pkt 10
+art. 3 ust. 1 lit. a) | art. 3 ust. 3 lit. a)
+art. 3 ust. 1 lit. b) wprowadzenie | art. 3 ust. 3 lit. b) wprowadzenie
+art. 3 ust. 1 lit. b) ppkt (i) | art. 3 ust. 3 lit. b) ppkt (i)
+art. 3 ust. 1 lit. b) ppkt (ii) | art. 3 ust. 3 lit. b) ppkt (ii)
+art. 3 ust. 1 lit. b) ppkt (iii) | art. 3 ust. 3 lit. b) ppkt (iii)
+art. 3 ust. 1 lit. b) ppkt (iv) | art. 3 ust. 3 lit. b) ppkt (iv)
+— | art. 3 ust. 4
+— | art. 3 ust. 5
+art. 3 ust. 1 lit. c) | art. 3 ust. 1
+art. 3 ust. 1 lit. d) zdanie pierwsze i trzecie | —
+art. 3 ust. 1 lit. d) zdanie drugie | art. 2 ust. 7 lit. b)
+— | art. 3 ust. 2
+— | art. 4
+— | art. 5
+— | art. 6 ust. 1
+— | art. 6 ust. 2
+art. 3 ust. 1 lit. e) | art. 6 ust. 3
+art. 3 ust. 2 | —
+art. 3 ust. 3 | art. 7 ust. 1
+— | art. 7 ust. 2
+— | art. 7 ust. 3
+art. 3 ust. 4 | art. 7 ust. 4
+art. 3 ust. 5 | art. 7 ust. 5
+— | art. 8
+art. 4 | art. 9
+art. 5 ust. 1, 2 i 3 | art. 10 ust. 1, 2 i 3
+art. 5 ust. 4 | —
+— | art. 10 ust. 4
+— | art. 11
+art. 6 ust. 1 | —
+— | art. 12 ust. 1
+art. 6 ust. 2 | art. 12 ust. 3
+art. 6 ust. 3 | art. 1 ust. 3
+art. 6 ust. 4 | art. 12 ust. 2
+art. 6 ust. 5 | —
+— | art. 12 ust. 4
+— | art. 13
+art. 7 | art. 14
+art. 8 | art. 15
+— | załącznik

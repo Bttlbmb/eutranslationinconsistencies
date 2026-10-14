@@ -1,0 +1,300 @@
+DIREKTIVA 2011/7/EU EVROPSKEGA PARLAMENTA IN SVETA
+z dne 16. februarja 2011
+o boju proti zamudam pri plačilih v trgovinskih poslih
+(prenovitev)
+(Besedilo velja za EGP)
+
+EVROPSKI PARLAMENT IN SVET EVROPSKE UNIJE STA –
+
+ob upoštevanju Pogodbe o delovanju Evropske unije in zlasti člena 114 Pogodbe,
+
+ob upoštevanju predloga Evropske komisije,
+
+ob upoštevanju mnenja Evropskega ekonomsko-socialnega odbora ( 1 ) ,
+
+v skladu z rednim zakonodajnim postopkom ( 2 ) ,
+
+ob upoštevanju naslednjega:
+
+(1) | Potrebnih je več vsebinskih sprememb Direktive 2000/35/ES Evropskega parlamenta in Sveta z dne 29. junija 2000 o boju proti zamudam pri plačilih v trgovinskih poslih ( 3 ) . Zaradi jasnosti in racionalizacije je zaželeno, da se zadevne določbe prenovijo.
+
+(2) | Gospodarski subjekti večino blaga in storitev na notranjem trgu dobavljajo drugim gospodarskim subjektom in javnim organom na podlagi odloga plačila, pri čemer dobavitelj svoji stranki da čas, da plača račun po dogovoru med stranema, kot je določeno v dobaviteljevem računu ali v skladu z zakonom.
+
+(3) | Veliko plačil v trgovinskih poslih med gospodarskimi subjekti ali med gospodarskimi subjekti in javnimi organi se opravi pozneje, kot je dogovorjeno v pogodbi ali določeno v splošnih trgovinskih pogojih. Kljub dostavi blaga ali opravljenim storitvam je veliko zadevnih računov plačanih po roku. Takšne zamude pri plačilih negativno vplivajo na likvidnost in zapletajo finančno upravljanje podjetij. Prav tako vplivajo na njihovo konkurenčnost in dobičkonosnost, ko upnik zaradi zamud pri plačilih potrebuje zunanje financiranje. Tveganje zaradi takšnih negativnih učinkov se močno poveča v obdobjih gospodarskega upada, ko je dostop do financiranja težji.
+
+(4) | Vlaganje sodnih zahtevkov, povezanih z zamudami pri plačilih, je že olajšano z Uredbo Sveta (ES) št. 44/2001 z dne 22. decembra 2000 o pristojnosti in priznavanju ter izvrševanju sodnih odločb v civilnih in gospodarskih zadevah ( 4 ) , Uredbo (ES) št. 805/2004 Evropskega parlamenta in Sveta z dne 21. aprila 2004 o uvedbi evropskega naloga za izvršbo nespornih zahtevkov ( 5 ) , Uredbo (ES) št. 1896/2006 Evropskega parlamenta in Sveta z dne 12. decembra 2006 o uvedbi postopka za evropski plačilni nalog ( 6 ) ter Uredbo (ES) št. 861/2007 Evropskega parlamenta in Sveta z dne 11. julija 2007 o uvedbi evropskega postopka v sporih majhne vrednosti ( 7 ) . Vendar je za odvračanje od zamud pri plačilih v trgovinskih poslih treba določiti dopolnilne določbe.
+
+(5) | Podjetjem bi moralo biti omogočeno trgovati na celotnem notranjem trgu v razmerah, ki zagotavljajo, da čezmejno poslovanje ne pomeni večjega tveganja kot domači promet. Če bi za domače in čezmejno poslovanje veljala bistveno drugačna pravila, bi prišlo do izkrivljanja konkurence.
+
+(6) | Komisija je v Sporočilu z dne 25. junija 2008 z naslovom „‚Najprej pomisli na male‛ – ‚Akt za mala podjetja‛ za Evropo“ poudarila, da bi bilo malim in srednje velikim podjetjem (MSP) treba olajšati dostop do financiranja in da bi bilo treba razviti pravno in poslovno okolje, ki spodbuja pravočasno plačevanje v trgovinskih poslih. Omeniti bi bilo treba, da imajo javni organi glede tega posebno odgovornost. Merila za opredelitev MSP so navedena v Priporočilu Komisije 2003/361/ES z dne 6. maja 2003 o opredelitvi mikro, malih in srednje velikih podjetij ( 8 ) .
+
+(7) | Eden od prednostnih ukrepov Sporočila Komisije z dne 26. novembra 2008 z naslovom „Evropski načrt za oživitev gospodarstva“ je zmanjšanje administrativnega bremena in spodbujanje podjetništva, med drugim z zagotavljanjem, da se računi za dobavo in storitve, vključno z računi MSP, zaradi zmanjšanja likvidnostnih omejitev načeloma plačajo v enem mesecu.
+
+(8) | Področje uporabe te direktive bi moralo biti omejeno na plačila kot prejemke v zvezi s trgovinskimi posli. Ta direktiva ne bi smela urejati poslovanja s potrošniki, obresti v zvezi z drugimi plačili, na primer plačili glede na zakonodajo o čekih in menicah ali plačili kot nadomestili za škodo, vključno s plačili zavarovalnic. Državam članicam bi moralo biti tudi omogočeno, da izključijo dolgove, ki so predmet postopkov zaradi insolventnosti, vključno s postopki za prestrukturiranje dolga.
+
+(9) | Ta direktiva bi morala urejati vse trgovinske posle, ne glede na to, ali potekajo med zasebnimi ali javnimi podjetji ali med podjetji in javnimi organi glede na to, da javni organi upravljajo z znatnim obsegom plačil podjetjem. Zato bi morala urejati tudi vse trgovinske posle med glavnimi izvajalci in njihovimi dobavitelji in podizvajalci.
+
+(10) | Dejstvo, da ta direktiva velja za svobodne poklice, države članice ne bi smelo zavezati k temu, da jih obravnavajo kot podjetja ali trgovce za namene, ki so izven področja uporabe te direktive.
+
+(11) | Dostava blaga in izvajanje storitev za plačilo, za katera se uporablja ta direktiva, bi morala vključevati tudi projektiranje in izvedbo javnih del ter visokih in nizkih gradenj.
+
+(12) | Zamude pri plačilih predstavljajo kršenje pogodbe, kar je postalo finančno ugodno za dolžnike v večini držav članic zaradi nizkih ali neobstoječih obrestnih mer, ki se zaračunajo za zamude pri plačilih, in/ali dolgotrajnih postopkov pravnega varstva. Potreben je odločen premik h kulturi takojšnjega plačevanja, pri čemer bi bilo treba izključitev pravice do zaračunavanja obresti vedno obravnavati kot skrajno nepošten pogodbeni pogoj ali poslovno prakso, da bi preobrnili ta trend in odvračali od zamud pri plačilih. Tak premik bi moral zajemati tudi uvedbo posebnih določb o plačilnih rokih in nadomestilih upnikom za nastale stroške ter med drugim domnevo, da je izključitev pravice do nadomestila za stroške izterjave skrajno nepoštena.
+
+(13) | Zato bi bilo treba sprejeti določbe, ki pogodbene plačilne roke pri medpodjetniškem poslovanju praviloma omejujejo na 60 koledarskih dni. Vendar lahko obstajajo okoliščine, v katerih podjetja zahtevajo daljše plačilne roke, na primer, ko podjetja želijo svojim strankam odobriti komercialni kredit. Zato bi morale imeti stranke še naprej možnost, da se izrecno dogovorijo o plačilnih rokih, ki so daljši od 60 koledarskih dni, pod pogojem, da takšno podaljšanje ni skrajno nepošteno do upnika.
+
+(14) | Zaradi doslednosti zakonodaje Unije bi bilo treba za namene te direktive uporabiti opredelitev pojma „naročniki“ iz Direktive 2004/17/ES Evropskega parlamenta in Sveta z dne 31. marca 2004 o usklajevanju postopkov za oddajo javnih naročil naročnikov v vodnem, energetskem in transportnem sektorju ter sektorju poštnih storitev ( 9 ) in Direktive 2004/18/ES Evropskega parlamenta in Sveta z dne 31. marca 2004 o usklajevanju postopkov za oddajo javnih naročil gradenj, blaga in storitev ( 10 ) .
+
+(15) | Zakonske obresti za zamude pri plačilih bi bilo treba izračunati dnevno kot navadne obresti v skladu z Uredbo (EGS, Euratom) št. 1182/71 Sveta z dne 3. junija 1971 o določitvi pravil glede rokov, datumov in iztekov rokov ( 11 ) .
+
+(16) | Ta direktiva ne bi smela upnika zavezovati, da zahteva obresti za zamudo pri plačilu. V primeru zamude pri plačilu bi morala ta direktiva upniku omogočati, da zaračuna zamudne obresti brez kakršnega koli predhodnega obvestila o neizpolnitvi obveznosti ali drugega podobnega obvestila, v katerem dolžnika opozori na njegovo obveznost plačila.
+
+(17) | Za namene upravičenja do zamudnih obresti bi bilo treba šteti, da je plačilo dolžnika v zamudi, če upnik, ki je izpolnil svoje pogodbene in zakonske obveznosti, ne prejme dolgovanega zneska do datuma zapadlosti.
+
+(18) | Računi pomenijo zahteve za plačilo in so pomembni dokumenti v verigi poslov za dobavo blaga in izvajanje storitev, med drugim za določitev plačilnih rokov. Države članice bi morale za namene te direktive spodbujati sisteme, ki zagotavljajo pravno varnost kar zadeva točen datum, na katerega dolžniki prejmejo račune, vključno s področjem izdajanja e-računov, kjer bi bila lahko pri prejemanju računov ustvarjena elektronska dokazila, kar deloma urejajo določbe o izdajanju računov, vsebovane v Direktivi Sveta 2006/112/ES z dne 28. novembra 2006 o skupnem sistemu davka na dodano vrednost ( 12 ) .
+
+(19) | Upnikom je treba zagotoviti pošteno nadomestilo za stroške izterjave, ki jih imajo zaradi zamud pri plačilih, da se odvrne od teh zamud. Stroški izterjave bi morali vključevati izterjavo upravnih stroškov in nadomestilo za notranje stroške, ki so nastali zaradi zamude pri plačilu, za katere bi bilo treba v tej direktivi določiti fiksen minimalen znesek, ki se lahko izterja z obrestmi za zamudo pri plačilu. Nadomestilo v obliki fiksnega zneska bi moralo biti namenjeno omejevanju upravnih in notranjih stroškov, povezanih z izterjavo. Nadomestilo stroškov izterjave bi bilo treba določiti brez poseganja v nacionalne določbe, glede na katere lahko nacionalno sodišče dodeli upniku odškodnino za kakršno koli dodatno škodo v zvezi z dolžnikovo zamudo pri plačilu.
+
+(20) | Upniki bi morali imeti poleg pravice do plačila fiksnega zneska za povračilo notranjih stroškov izterjave tudi pravico do povračila drugih stroškov izterjave, ki jih imajo kot posledica dolžnikove zamude pri plačilu. Takšni stroški bi morali zlasti vključevati stroške, ki jih imajo upniki zaradi najema odvetnika ali agencije za izterjavo dolgov.
+
+(21) | Ta direktiva ne bi smela posegati v pravico držav članic, da določijo fiksne zneske nadomestila za stroške izterjave, ki so višji in zato ugodnejši za upnika, ali da te zneske povečajo, da bi med drugim dohajale inflacijo.
+
+(22) | Ta direktiva ne bi smela preprečevati plačil po obrokih ali plačil z zamikom. Vendar bi moral biti vsak obrok ali plačilo opravljen v skladu z dogovorjenimi pogoji in predmet pravil glede zamud pri plačilih iz te direktive.
+
+(23) | Praviloma imajo javni organi varnejše, predvidljivejše in bolj stalne prilive prihodkov kot podjetja. Poleg tega lahko mnogi javni organi pridobijo financiranje ob ugodnejših pogojih kot podjetja. Hkrati so javni organi manj odvisni od stabilnih poslovnih odnosov za dosego svojih ciljev kot podjetja. Dolgi plačilni roki in zamude pri plačilih javnih organov za blago in storitve vodijo do neupravičenih stroškov za podjetja. Zato je primerno uvesti posebna pravila za trgovinske posle dobavljanja blaga ali izvajanja storitev za javne organe s strani podjetij, zlasti glede plačilnih rokov, ki običajno ne bi smeli biti daljši od 30 koledarskih dni, razen če je v pogodbi izrecno dogovorjeno drugače in če je to objektivno utemeljeno glede na posebno naravo ali značilnosti pogodbe, v nobenem primeru pa ne bi smeli biti daljši od 60 koledarskih dni.
+
+(24) | Vendar bi bilo treba upoštevati poseben položaj javnih organov, ki opravljajo gospodarske dejavnosti industrijske ali tržne narave s ponujanjem blaga ali storitev na trgu kot javna podjetja. V ta namen bi se moralo državam članicam pod določenimi pogoji omogočiti, da podaljšajo zakonski plačilni rok do največ 60 koledarskih dni.
+
+(25) | V zvezi z zamudami pri plačilih je posebej zaskrbljujoč položaj zdravstvenih storitev v številnih državah članicah. Zdravstveni sistemi kot temeljni del evropske socialne infrastrukture morajo posamezne potrebe pogosto usklajevati z razpoložljivimi finančnimi sredstvi, saj se evropsko prebivalstvo stara, pričakovanja rastejo, medicina pa napreduje. Vsi sistemi se soočajo z izzivom izpostavljanja zdravstvenega varstva kot prioritete na način, ki bi zagotavljal ravnovesje med potrebami posameznih bolnikov in razpoložljivimi finančnimi sredstvi. Države članice bi morale zato imeti možnost, da osebam javnega prava, ki zagotavljajo zdravstveno varstvo, dajo več prožnosti pri izpolnjevanju njihovih obveznosti. V ta namen bi morale države članice imeti možnost, da pod določenimi pogoji zakonski plačilni rok podaljšajo do največ 60 koledarskih dni. Države članice bi si kljub temu morale po svojih najboljših močeh prizadevati zagotoviti, da se plačila v zdravstvenem sektorju opravijo v zakonskih plačilnih rokih.
+
+(26) | Da izpolnjevanje cilja te direktive ne bi bilo ogroženo, bi morale države članice zagotoviti, da pri trgovinskih poslih postopek sprejemanja ali preverjanja praviloma ne presega obdobja največ 30 koledarskih dni. Kljub temu bi bilo treba omogočiti, da postopek preverjanja presega 30 dni, na primer pri posebej zapletenih pogodbah, če je to izrecno dogovorjeno v pogodbi in kakršni koli razpisni dokumentaciji ter ni skrajno nepošteno do upnika.
+
+(27) | Institucije Unije so, kar zadeva njihovo financiranje in poslovne odnose, v položaju, ki ga lahko primerjamo s položajem javnih organov v državah članicah. Uredba Sveta (ES, Euratom) št. 1605/2002 z dne 25. junija 2002 o finančni uredbi, ki se uporablja za splošni proračun Evropskih skupnosti ( 13 ) določa, da morajo institucije Unije potrditev, odobritev in plačilo odhodkov izvesti v rokih, določenih v izvedbenih pravilih navedene uredbe. Ta izvedbena pravila so določena v Uredbi Komisije (ES, Euratom) št. 2342/2002 z dne 23. decembra 2002 o določitvi podrobnih pravil za izvajanje Uredbe Sveta (ES, Euratom) št. 1605/2002 o finančni uredbi, ki se uporablja za splošni proračun Evropskih skupnosti ( 14 ) , in posebej določajo okoliščine, v katerih so upniki, ki prejmejo plačilo z zamudo, upravičeni do zamudnih obresti. V okviru pregleda teh uredb bi bilo treba zagotoviti, da so najdaljši plačilni roki za institucije Unije usklajeni z zakonskimi roki, ki v skladu s to direktivo veljajo za javne organe.
+
+(28) | Ta direktiva bi morala prepovedati zlorabo pogodbene svobode v škodo upnika. Posledično pogodbeni pogoj ali praksa glede datuma ali roka plačila, obrestne mere za zamudo pri plačilu ali nadomestila stroškov izterjave, ki ni utemeljen s pogoji, ki veljajo za dolžnika, ali ne služi predvsem temu, da si dolžnik pridobi dodatno likvidnost na račun upnika, lahko šteje za tako zlorabo. Zaradi tega in v skladu z akademskim osnutkom skupnega referenčnega okvira bi se moral vsak pogodbeni pogoj ali praksa, ki močno odstopa od dobre trgovske prakse in je v nasprotju z dobro vero in pravičnim ravnanjem, šteti za nepoštenega do upnika. Zlasti bi bilo treba popolno izključitev pravice do zaračunavanja obresti vedno obravnavati kot skrajno nepošteno, za izključitev pravice do nadomestila za stroške izterjave pa domnevati, da je skrajno nepoštena. Ta direktiva ne bi smela vplivati na nacionalne določbe v zvezi z načinom sklepanja pogodb ali z veljavnostjo pogodbenih pogojev, ki so nepošteni do dolžnika.
+
+(29) | V okviru okrepljenih prizadevanj za preprečevanje zlorab pogodbene svobode v škodo upnikov bi moralo biti organizacijam, ki podjetja uradno zastopajo, in organizacijam, ki imajo pravni interes zastopati podjetja, omogočeno, da vložijo tožbo pri nacionalnih sodiščih ali upravnih organih, da bi preprečili nadaljnjo uporabo pogodbenih pogojev ali praks, ki so skrajno nepošteni do upnika.
+
+(30) | Da bi prispevale k uresničitvi cilja te direktive, bi morale države članice spodbujati širitev dobrih praks, vključno s spodbujanjem objavljanja seznama hitrih plačnikov.
+
+(31) | Zaželeno je, da se upnikom zagotovi tak položaj, da lahko na nediskriminatorni osnovi uveljavljajo določbo o pridržku lastninske pravice v celotni Uniji, če je klavzula o pridržku lastninske pravice veljavna glede na veljavne nacionalne določbe, ki jih določa mednarodno zasebno pravo.
+
+(32) | Ta direktiva samo opredeljuje izraz „izvršilni naslov“, ne bi pa smela urejati različnih postopkov prisilne izvršbe takega naslova ali pogojev, pod katerimi se prisilna izvršba takega naslova lahko ustavi ali zadrži.
+
+(33) | Posledice zamud pri plačilih so lahko odvračilne samo, če hkrati obstajajo postopki pravnega varstva, ki so hitri in učinkoviti za upnika. V skladu z načelom nediskriminacije iz člena 18 Pogodbe o delovanju Evropske unije bi morali taki postopki biti na voljo vsem upnikom s sedežem v Uniji.
+
+(34) | Da bi se pripomoglo k skladnosti z določbami te direktive, bi morale države članice spodbujati uporabo mediacije ali drugih načinov alternativnega reševanja sporov. Okvir za sisteme mediacije na ravni Unije že določa Direktiva 2008/52/ES Evropskega parlamenta in Sveta z dne 21. maja 2008 o nekaterih vidikih mediacije v civilnih in gospodarskih zadevah ( 15 ) , zlasti za čezmejne spore, ne da bi preprečevala njegovo uporabo za notranje sisteme mediacije. Države članice bi morale tudi spodbujati zainteresirane strani, da pripravijo prostovoljne kodekse ravnanja, ki bi prispevali zlasti k izvajanju te direktive.
+
+(35) | Zagotoviti je treba, da se postopki izterjave nespornih terjatev v zvezi z zamudami pri plačilih pri trgovinskih poslih zaključijo v kratkem času, vključno z uporabo hitrega postopka in ne glede na znesek dolga.
+
+(36) | Ker cilja te direktive, in sicer boja proti zamudam pri plačilih na notranjem trgu, države članice ne morejo zadovoljivo doseči in ker se ta cilj zaradi obsega in učinka lažje doseže na ravni Unije, lahko Unija sprejme ukrepe v skladu z načelom subsidiarnosti iz člena 5 Pogodbe o Evropski uniji. V skladu z načelom sorazmernosti iz navedenega člena ta direktiva ne presega tistega, kar je potrebno za doseganje navedenega cilja.
+
+(37) | Obveznost prenosa te direktive v nacionalno zakonodajo bi morala biti omejena na tiste določbe, ki pomenijo vsebinsko spremembo v primerjavi z Direktivo 2000/35/ES. Obveznost prenosa določb, ki so nespremenjene, izhaja iz navedene direktive.
+
+(38) | Ta direktiva ne bi smela posegati v obveznosti držav članic glede rokov za prenos v nacionalno zakonodajo in začetka uporabe Direktive 2000/35/ES.
+
+(39) | V skladu s točko 34 Medinstitucionalnega sporazuma o boljši pripravi zakonodaje ( 16 ) se države članice poziva, da za lastne potrebe in v interesu Unije pripravijo tabele, ki naj kar najbolj nazorno prikazujejo korelacijo med to direktivo in ukrepi za prenos, ter da te tabele objavijo –
+
+SPREJELA NASLEDNJO DIREKTIVO:
+
+Člen 1
+Vsebina in področje uporabe
+1. Cilj te direktive je boj proti zamudam pri plačilih v trgovinskih poslih, da bi zagotovili pravilno delovanje notranjega trga ter s tem spodbudili konkurenčnost podjetij, zlasti MSP.
+2. Ta direktiva se uporablja za vsa plačila kot prejemke v zvezi s trgovinskimi posli.
+3. Države članice lahko izključijo dolgove, ki so predmet postopkov zaradi insolventnosti zoper dolžnika, vključno s postopki za prestrukturiranje dolga.
+
+Člen 2
+Opredelitev pojmov
+Za namene te direktive se uporabljajo naslednje opredelitve pojmov:
+1. | „trgovinski posli“ pomeni posle med podjetji ali med podjetji in javnimi organi, ki vodijo k dostavi blaga ali izvajanju storitev za plačilo;
+2. | „javni organ“ pomeni katerega koli naročnika, opredeljenega v točki (a) člena 2(1) Direktive 2004/17/ES in člena 1(9) Direktive 2004/18/ES, ne glede na predmet ali vrednost naročila;
+3. | „podjetje“ pomeni katero koli organizacijo, razen javnega organa, ki deluje v okviru svoje neodvisne gospodarske ali strokovne dejavnosti, tudi če to dejavnost izvaja ena sama oseba;
+4. | „zamuda pri plačilu“ pomeni neplačilo v pogodbenem ali zakonskem plačilnem roku in če so izpolnjeni pogoji iz člena 3(1) ali člena 4(1);
+5. | „obresti za zamudo pri plačilu“ pomeni zakonske obresti za zamudo pri plačilu ali obresti po stopnji, o kateri se podjetja med seboj dogovorijo, ob upoštevanju člena 7;
+6. | „zakonske obresti za zamudo pri plačilu“ pomeni navadne obresti za zamudo pri plačilu po stopnji, ki je enaka vsoti referenčne stopnje in vsaj osmih odstotnih točk;
+7. | „referenčna stopnja“ pomeni eno od naslednjega: (a) za državo članico katere valuta je euro bodisi: (i) obrestno mero, ki jo Evropska centralna banka uporablja za svoje najnovejše glavne operacije refinanciranja, ali (ii) mejno obrestno mero, ki izhaja iz postopkov razpisa z variabilno stopnjo za najnovejše glavne operacije refinanciranja Evropske centralne banke; (b) za državo članico, katere valuta ni euro, ekvivalentno stopnjo, ki jo določi njena nacionalna centralna banka;
+8. | „dolgovani znesek“ pomeni glavni znesek, ki bi moral biti plačan v pogodbenem ali zakonskem plačilnem roku, vključno z veljavnimi davki, dajatvami, prelevmani ali taksami, navedenimi v računu ali drugi ustrezni zahtevi za plačilo;
+9. | „pridržek lastninske pravice“ pomeni pogodbeni dogovor, v skladu s katerim si prodajalec pridrži lastninsko pravico na zadevnem blagu, dokler cena ni v celoti plačana;
+10. | „izvršilni naslov“ pomeni katero koli odločbo, sodbo ali plačilni nalog, ki jo ali ga izda sodišče ali drugi pristojni organ, vključno s tistimi, ki so začasno izvršljivi, ne glede na to, ali gre za takojšnje plačilo ali plačilo po obrokih, in ki upniku omogoča, da svojo terjatev do dolžnika izterja s pomočjo prisilne izvršbe.
+
+Člen 3
+Posli med podjetji
+1. Države članice zagotovijo, da je v trgovinskih poslih med podjetji upnik upravičen do obresti zaradi zamude pri plačilu, ne da bi bilo potrebno opozorilo, kadar so izpolnjeni naslednji pogoji:
+(a) | upnik je izpolnil svoje pogodbene in zakonite obveznosti; in
+(b) | upnik dolgovanega zneska ni prejel pravočasno, razen če dolžnik ni odgovoren za zamudo.
+2. Države članice zagotovijo, da je veljavna referenčna stopnja:
+(a) | za prvo polovico zadevnega leta stopnja, ki velja 1. januarja navedenega leta;
+(b) | za drugo polovico zadevnega leta stopnja, ki velja 1. julija navedenega leta.
+3. Kadar so izpolnjeni pogoji iz odstavka 1, države članice zagotovijo naslednje:
+(a) | da je upnik upravičen do obresti za zamudo pri plačilu od dneva, ki sledi datumu plačila ali koncu plačilnega roka, določenega v pogodbi;
+(b) | kadar datum plačila ali plačilni rok v pogodbi ni določen, da je upnik upravičen do obresti za zamudo pri plačilu po preteku katerega koli od naslednjih rokov: (i) 30 koledarskih dni po dnevu, na katerega dolžnik prejme račun ali drugo ustrezno zahtevo za plačilo; (ii) kadar je dan prejema računa ali druge ustrezne zahteve za plačilo dvomljiv, 30 koledarskih dni po dnevu prejema blaga ali izvedbe storitev; (iii) kadar dolžnik prejme račun ali drugo ustrezno zahtevo za plačilo pred prejemom blaga ali izvedbo storitev, 30 koledarskih dni po dnevu prejema blaga ali izvedbe storitev; (iv) kadar je postopek sprejemanja ali preverjanja, s katerim se preveri skladnost blaga ali storitev s pogodbo, določen zakonsko ali pogodbeno in če dolžnik prejme račun ali drugo ustrezno zahtevo za plačilo pred ali na datum sprejemanja ali preverjanja, 30 koledarskih dni po navedenem datumu.
+4. Kadar je postopek sprejemanja ali preverjanja, s katerim se preveri skladnost blaga ali storitev s pogodbo, določen zakonsko ali pogodbeno, države članice zagotovijo, da traja ta postopek največ 30 koledarskih dni od datuma prejema blaga ali izvedbe storitev, razen če je v pogodbi izrecno dogovorjeno drugače in če to ni skrajno nepošteno do upnika v smislu člena 7.
+5. Države članice zagotovijo, da plačilni rok, določen v pogodbi ni daljši od 60 koledarskih dni, razen če je v pogodbi izrecno dogovorjeno drugače in če ni skrajno nepošteno do upnika v smislu člena 7.
+
+Člen 4
+Posli med podjetji in javnimi organi
+1. Države članice zagotovijo, da je v trgovinskih poslih, kjer je dolžnik javni organ, upnik po preteku roka, opredeljenega v odstavkih 3, 4 ali 6, upravičen do zakonskih obresti za zamudo pri plačilu, ne da bi bilo potrebno opozorilo, kadar so izpolnjeni naslednji pogoji:
+(a) | upnik je izpolnil svoje pogodbene in zakonske obveznosti, in
+(b) | upnik dolgovanega zneska ni prejel pravočasno, razen če dolžnik ni odgovoren za zamudo.
+2. Države članice zagotovijo, da je veljavna referenčna stopnja:
+(a) | za prvo polovico zadevnega leta stopnja, ki velja 1. januarja navedenega leta;
+(b) | za drugo polovico zadevnega leta stopnja, ki velja 1. julija navedenega leta.
+3. Države članice zagotovijo, da v trgovinskih poslih, kjer je dolžnik javni organ:
+(a) | plačilni rok ni daljši od katerega koli od naslednjih rokov: (i) 30 koledarskih dni po datumu, na katerega dolžnik prejme račun ali drugo ustrezno zahtevo za plačilo; (ii) če je datum prejema računa ali druge ustrezne zahteve za plačilo dvomljiv, 30 koledarskih dni po dnevu prejema blaga ali izvedbe storitev; (iii) če dolžnik prejme račun ali drugo ustrezno zahtevo za plačilo pred prejemom blaga ali izvedbo storitev, 30 koledarskih dni po dnevu prejema blaga ali izvedbe storitev; (iv) če je postopek sprejemanja ali preverjanja, s katerim se preveri skladnost blaga ali storitev s pogodbo, določen zakonsko ali pogodbeno in če dolžnik prejme račun ali drugo ustrezno zahtevo za plačilo pred ali na datum sprejemanja ali preverjanja, 30 koledarskih dni po navedenem datumu;
+(b) | datum prejema računa ni predmet pogodbenega dogovora med dolžnikom in upnikom.
+4. Države članice lahko podaljšajo roke iz točke (a) odstavka 3 do največ 60 koledarskih dni za:
+(a) | kateri koli javni organ, ki opravlja gospodarske dejavnosti industrijske ali tržne narave s ponujanjem blaga ali storitev na trgu, in za katerega kot javno podjetje veljajo zahteve po preglednosti iz Direktive Komisije 2006/111/ES z dne 16. novembra 2006 o preglednosti finančnih odnosov med državami članicami in javnimi podjetji ter o finančni preglednosti znotraj določenih podjetij ( 17 ) ;
+(b) | osebe javnega prava, ki zagotavljajo zdravstveno varstvo in ki so za ta namen uradno priznane.
+Če se država članica odloči podaljšati roke v skladu s tem odstavkom, Komisiji do 16. marca 2018 pošlje poročilo o takem podaljšanju.
+Komisija na podlagi tega Evropskemu parlamentu in Svetu predloži poročilo o tem, katere države članice so podaljšale roke v skladu s tem odstavkom in kako to vpliva na delovanje notranjega trga, zlasti na MSP. Temu poročilu so priloženi morebitni ustrezni predlogi.
+5. Države članice zagotovijo, da najdaljše trajanje postopka sprejemanja ali preverjanja iz točke (iv) točke (a) odstavka 2 ne presega 30 koledarskih dni od dneva prejema blaga ali izvedbe storitev, razen če je v pogodbi in razpisni dokumentaciji izrecno dogovorjeno drugače in če ni skrajno nepošteno do upnika v smislu člena 7.
+6. Države članice zagotovijo, da plačilni rok, določen v pogodbi, ni daljši od rokov iz odstavka 2, razen če je v pogodbi izrecno dogovorjeno drugače in če je to objektivno utemeljeno glede na posebno naravo ali značilnosti pogodbe, in da v nobenem primeru ni daljši od 60 koledarskih dni.
+
+Člen 5
+Plačilni roki
+Ta direktiva ne posega v možnost strank, da se v skladu z ustreznimi določbami veljavnega nacionalnega prava dogovorijo o rokih za plačilo obrokov. Kadar kateri koli obrok v takšnih primerih ni plačan na dogovorjen datum, se obresti in nadomestilo, določeni v tej direktivi, izračunajo samo na podlagi zapadlih zneskov.
+
+Člen 6
+Nadomestilo stroškov izterjave
+1. Države članice zagotovijo, da je upnik upravičen od dolžnika prejeti najmanj fiksni znesek 40 EUR, kadar v trgovinskih poslih obresti za zamudo pri plačilu zapadejo v plačilo v skladu s členom 3 ali 4.
+2. Države članice zagotovijo, da fiksni znesek iz odstavka 1 zapade v plačilo, ne da bi bilo potrebno opozorilo in kot nadomestilo za upnikove lastne stroške izterjave.
+3. Upnik je poleg fiksnega zneska iz odstavka 1 upravičen zahtevati razumno nadomestilo od dolžnika za kakršne koli stroške izterjave, nastale zaradi dolžnikove zamude pri plačilu, ki so višji od fiksnega zneska. To bi lahko vključevalo med drugim stroške za najem odvetnika ali agencije za izterjavo dolgov.
+
+Člen 7
+Nepošteni pogodbeni pogoji in prakse
+1. Države članice zagotovijo, da je pogodbeni pogoj ali praksa glede dneva plačila ali plačilnega roka, obrestne mere za zamudo pri plačilu ali nadomestila stroškov izterjave bodisi neizvršljiv bodisi razlog za zahtevo odškodnine, če je skrajno nepošten do upnika.
+Pri ugotavljanju, ali je pogodbeni pogoj ali praksa skrajno nepošten do upnika v smislu prvega pododstavka, se upoštevajo vse okoliščine primera, vključno z:
+(a) | kakršnim koli velikim odstopanjem od dobre poslovne prakse, kar je v nasprotju z dobro vero in poštenim ravnanjem;
+(b) | naravo proizvoda ali storitve, ter
+(c) | vprašanjem, ali ima dolžnik kakršen koli objektiven razlog za odstopanje od zakonske obrestne mere za zamudo pri plačilu, plačilnega roka iz člena 3(5), točke (a) člena 4(3), člena 4(4) in člena 4(6) ali od fiksnega zneska iz člena 6(1).
+2. Za namen odstavka 1 se pogodbeni pogoj ali praksa, ki izključuje obresti za zamudo pri plačilu, obravnava kot skrajno nepošten.
+3. Za namen odstavka 1 se za pogodbeni pogoj ali prakso, ki izključuje nadomestilo za stroške izterjave iz člena 6, domneva, da je skrajno nepošten.
+4. Države članice zagotovijo, da v interesu upnikov in konkurentov obstajajo ustrezna in učinkovita sredstva za preprečevanje nadaljnje uporabe pogodbenih pogojev in praks, ki so skrajno nepošteni v smislu odstavka 1.
+5. Sredstva iz odstavka 4 vključujejo določbe, po katerih lahko organizacije, ki podjetja uradno zastopajo, ali organizacije, ki imajo pravni interes zastopati podjetja, v skladu z veljavnim nacionalnim pravom vložijo tožbo pri sodišču ali pristojnimi upravnimi organi na podlagi tega, da so pogodbeni pogoji ali prakse skrajno nepošteni v smislu odstavka 1, tako da lahko uporabijo ustrezna in učinkovita sredstva za preprečitev njihove nadaljnje uporabe.
+
+Člen 8
+Preglednost in ozaveščanje
+1. Države članice zagotovijo preglednost glede pravic in obveznosti, ki izhajajo iz te direktive, med drugim z objavo veljavne zakonske obrestne mere za zamudo pri plačilu.
+2. Komisija na internetu objavi podrobne informacije o veljavnih zakonskih obrestnih merah, ki se uporabljajo v vseh državah članicah v primeru zamude pri plačilu v trgovinskih poslih.
+3. Države članice po potrebi uporabijo strokovne publikacije, promocijske kampanje ali katera koli druga funkcionalna sredstva, da bi povečale ozaveščenost o pravnih sredstvih zoper zamudo pri plačilu med podjetji.
+4. Države članice lahko spodbujajo uvedbo kodeksov takojšnjega plačevanja, ki jasno določajo plačilne roke in ustrezen postopek za obravnavo spornih plačil, ali drugih pobud, ki obravnavajo bistveno vprašanje zamude pri plačilu in pripomorejo k razvoju kulture takojšnjega plačevanja, ki podpira cilj te direktive.
+
+Člen 9
+Pridržek lastninske pravice
+1. Države članice zagotovijo v skladu z veljavnimi nacionalnimi določbami, in ki jih določa mednarodno zasebno pravo, da prodajalec obdrži lastninsko pravico na blagu, dokler blago ni v celoti plačano, če je bila klavzula o pridržku lastninske pravice izrecno dogovorjena med kupcem in prodajalcem pred dostavo blaga.
+2. Države članice lahko sprejmejo ali ohranijo določbe v zvezi s pologom, ki ga je dolžnik že plačal.
+
+Člen 10
+Postopek izterjave nespornih terjatev
+1. Države članice zagotovijo, da je možno izvršilni naslov, vključno po hitrem postopku in ne glede na znesek dolga, običajno pridobiti v 90 koledarskih dneh po upnikovi vložitvi tožbe ali zahteve pri sodišču ali drugem pristojnem organu, pod pogojem, da dolg ali vidiki postopka niso sporni. Države članice opravljajo to dolžnost v skladu s svojimi nacionalnimi zakoni in drugimi predpisi.
+2. Nacionalni zakoni in drugi predpisi uporabljajo enake pogoje za vse upnike s sedežem v Uniji.
+3. Pri računanju roka iz odstavka 1 se ne upošteva naslednje:
+(a) | roki za vročitev listin;
+(b) | kakršne koli zamude, ki jih povzroči upnik, kot je čas popravka zahtev.
+4. Ta člen ne posega v določbe Uredbe (ES) št. 1896/2006.
+
+Člen 11
+Poročilo
+Komisija do 16. marca 2016 Evropskemu parlamentu in Svetu predloži poročilo o izvajanju te direktive. Poročilu so priloženi morebitni ustrezni predlogi.
+
+Člen 12
+Prenos
+1. Države članice uveljavijo zakone in druge predpise, potrebne za uskladitev s členi 1 do 8 in 10 do 16. marca 2013. O tem takoj obvestijo Komisijo.
+Države članice se pri sprejemanju predpisov sklicujejo na to direktivo ali pa sklicevanje nanjo navedejo ob njihovi uradni objavi. Vključijo tudi izjavo, da se v obstoječih zakonih in drugih predpisih sklicevanja na razveljavljeno direktivo razlagajo kot sklicevanja na to direktivo. Način sklicevanja in obliko izjave določijo države članice.
+2. Države članice sporočijo Komisiji besedila temeljnih določb predpisov nacionalne zakonodaje, sprejetih na področju, ki ga ureja ta direktiva.
+3. Države članice lahko ohranijo ali uveljavijo določbe, ki so bolj ugodne za upnika kot določbe, potrebne za uskladitev s to direktivo.
+4. Pri prenosu Direktive se države članice odločijo, ali bodo izključile pogodbe, sklenjene pred 16. marcem 2013.
+
+Člen 13
+Razveljavitev
+Direktiva 2000/35/ES se razveljavi z učinkom od 16. marca 2013 brez poseganja v obveznosti držav članic v zvezi z roki za prenos Direktive v nacionalno pravo in začetek veljavnosti Direktive. Vendar se nadalje uporablja za pogodbe, sklenjene pred tem datumom in za katere se ta direktiva na podlagi člena 12(4) ne uporablja.
+Sklicevanja na razveljavljeno direktivo se štejejo za sklicevanja na to direktivo in se berejo v skladu s korelacijsko tabelo iz Priloge.
+
+Člen 14
+Začetek veljavnosti
+Ta direktiva začne veljati dvajseti dan po objavi v Uradnem listu Evropske unije .
+
+Člen 15
+Naslovniki
+Ta direktiva je naslovljena na države članice.
+
+V Strasbourgu, 16. februarja 2011
+Za Evropski parlament
+Predsednik
+J. BUZEK
+Za Svet
+Predsednik
+MARTONYI J.
+( 1 ) UL C 255, 22.9.2010, str. 42 .
+( 2 ) Stališče Evropskega parlamenta z dne 20. oktobra 2010 (še ni objavljeno v Uradnem listu) in odločitev Sveta z dne 24. januarja 2011.
+( 3 ) UL L 200, 8.8.2000, str. 35 .
+( 4 ) UL L 12, 16.1.2001, str. 1 .
+( 5 ) UL L 143, 30.4.2004, str. 15 .
+( 6 ) UL L 399, 30.12.2006, str. 1 .
+( 7 ) UL L 199, 31.7.2007, str. 1 .
+( 8 ) UL L 124, 20.5.2003, str. 36 .
+( 9 ) UL L 134, 30.4.2004, str. 1 .
+( 10 ) UL L 134, 30.4.2004, str. 114 .
+( 11 ) UL L 124, 8.6.1971, str. 1 .
+( 12 ) UL L 347, 11.12.2006, str. 1 .
+( 13 ) UL L 248, 16.9.2002, str. 1 .
+( 14 ) UL L 357, 31.12.2002, str. 1 .
+( 15 ) UL L 136, 24.5.2008, str. 3 .
+( 16 ) UL C 321, 31.12.2003, str. 1 .
+( 17 ) UL L 318, 17.11.2006, str. 17 .
+
+PRILOGA
+Korelacijska tabela
+Direktiva 2000/35/ES | Ta direktiva
+— | Člen 1(1)
+Člen 1 | Člen 1(2)
+Člen 2(1), prvi pododstavek | Člen 2(1)
+Člen 2(1), drugi pododstavek | Člen 2(2)
+Člen 2(1), tretji pododstavek | Člen 2(3)
+Člen 2(2) | Člen 2(4)
+— | Člen 2(5)
+— | Člen 2(6)
+— | Člen 2(7), uvodni del
+— | Člen 2(8)
+Člen 2(3) | Člen 2(9)
+Člen 2(4) | Člen 2(7)(a)
+Člen 2(5) | Člen 2(10)
+Člen 3(1)(a) | Člen 3(3)(a)
+Člen 3(1)(b), uvodni del | Člen 3(3)(b), uvodni del
+Člen 3(1)(b)(i) | Člen 3(3)(b)(i)
+Člen 3(1)(b)(ii) | Člen 3(3)(b)(ii)
+Člen 3(1)(b)(iii) | Člen 3(3)(b)(iii)
+Člen 3(1)(b)(iv) | Člen 3(3)(b)(iv)
+— | Člen 3(4)
+— | Člen 3(5)
+Člen 3(1)(c) | Člen 3(1)
+Člen 3(1)(d), prvi in tretji stavek | —
+Člen 3(1)(d), drugi stavek | Člen 2(7)(b)
+— | Člen 3(2)
+— | Člen 4
+— | Člen 5
+— | Člen 6(1)
+— | Člen 6(2)
+Člen 3(1)(e) | Člen 6(3)
+Člen 3(2) | —
+Člen 3(3) | Člen 7(1)
+— | Člen 7(2)
+— | Člen 7(3)
+Člen 3(4) | Člen 7(4)
+Člen 3(5) | Člen 7(5)
+— | Člen 8
+Člen 4 | Člen 9
+Člen 5(1), (2) in (3) | Člen 10(1), (2) in (3)
+Člen 5(4) | —
+— | Člen 10(4)
+— | Člen 11
+Člen 6(1) | —
+— | Člen 12(1)
+Člen 6(2) | Člen 12(3)
+Člen 6(3) | Člen 1(3)
+Člen 6(4) | Člen 12(2)
+Člen 6(5) | —
+— | Člen 12(4)
+— | Člen 13
+Člen 7 | Člen 14
+Člen 8 | Člen 15
+— | Priloga

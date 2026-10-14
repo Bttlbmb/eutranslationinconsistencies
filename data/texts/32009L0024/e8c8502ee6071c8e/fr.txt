@@ -1,0 +1,184 @@
+DIRECTIVE 2009/24/CE DU PARLEMENT EUROPÉEN ET DU CONSEIL
+du 23 avril 2009
+concernant la protection juridique des programmes d'ordinateur
+(version codifiée)
+(Texte présentant de l'intérêt pour l'EEE)
+
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L'UNION EUROPÉENNE,
+
+vu le traité instituant la Communauté européenne, et notamment son article 95,
+
+vu la proposition de la Commission,
+
+vu l'avis du Comité économique et social européen ( 1 ) ,
+
+statuant conformément à la procédure visée à l'article 251 du traité ( 2 ) ,
+
+considérant ce qui suit:
+
+(1) | La directive 91/250/CEE du Conseil du 14 mai 1991 concernant la protection juridique des programmes d'ordinateur ( 3 ) a été modifiée dans son contenu ( 4 ) . Il convient, dans un souci de clarté et de rationalité, de procéder à la codification de ladite directive.
+
+(2) | La création de programmes d'ordinateur exige la mise en œuvre de ressources humaines, techniques et financières considérables, alors qu'il est possible de les copier à un coût très inférieur à celui qu'entraîne une conception autonome.
+
+(3) | Les programmes d'ordinateur jouent un rôle de plus en plus important dans de nombreux secteurs industriels, et la technologie qui s'y rapporte peut dès lors être considérée comme fondamentale pour le développement industriel de la Communauté.
+
+(4) | Certaines différences qui caractérisent la protection juridique des programmes d'ordinateur assurée par les législations des États membres ont des effets négatifs directs sur le fonctionnement du marché intérieur en ce qui concerne les programmes d'ordinateur.
+
+(5) | Il convient de supprimer les différences existantes ayant de tels effets et d'empêcher de nouvelles d'apparaître, tandis qu'il n'y a pas lieu de supprimer ou d'empêcher d'apparaître celles qui ne portent pas notablement atteinte au fonctionnement du marché intérieur.
+
+(6) | Le cadre juridique communautaire concernant la protection des programmes d'ordinateur peut donc, dans un premier temps, se limiter à prescrire que les États membres devraient accorder la protection du droit d'auteur aux programmes d'ordinateur en tant qu'œuvres littéraires et à déterminer les bénéficiaires et l'objet de la protection, les droits exclusifs que les personnes protégées devraient pouvoir invoquer pour autoriser ou interdire certains actes, ainsi que la durée de la protection.
+
+(7) | Aux fins de la présente directive, les termes «programme d'ordinateur» visent les programmes sous quelque forme que ce soit, y compris ceux qui sont incorporés au matériel. Ces termes comprennent également les travaux préparatoires de conception aboutissant au développement d'un programme, à condition qu'ils soient de nature à permettre la réalisation d'un programme d'ordinateur à un stade ultérieur.
+
+(8) | Les critères appliqués pour déterminer si un programme d'ordinateur constitue ou non une œuvre originale ne devraient comprendre aucune évaluation de la qualité ou de la valeur esthétique du programme.
+
+(9) | La Communauté s'efforce de promouvoir la normalisation internationale.
+
+(10) | Un programme d'ordinateur est appelé à communiquer et à fonctionner avec d'autres éléments d'un système informatique et avec des utilisateurs; à cet effet, un lien logique et, le cas échéant, physique d'interconnexion et d'interaction est nécessaire dans le but de permettre le plein fonctionnement de tous les éléments du logiciel et du matériel avec d'autres logiciels et matériels ainsi qu'avec les utilisateurs. Les parties du programme qui assurent cette interconnexion et cette interaction entre les éléments des logiciels et des matériels sont communément appelées «interfaces». Cette interconnexion et cette interaction fonctionnelles sont communément appelées «interopérabilité»; cette interopérabilité peut être définie comme étant la capacité d'échanger des informations et d'utiliser mutuellement les informations échangées.
+
+(11) | Pour éviter toute ambiguïté, il convient de préciser que seule l'expression d'un programme d'ordinateur est protégée et que les idées et les principes qui sont à la base des différents éléments d'un programme, y compris ceux qui sont à la base de ses interfaces, ne sont pas protégés par le droit d'auteur en vertu de la présente directive. En accord avec ce principe du droit d'auteur, les idées et principes qui sont à la base de la logique, des algorithmes et des langages de programmation ne sont pas protégés en vertu de la présente directive. Conformément à la législation et à la jurisprudence des États membres ainsi qu'aux conventions internationales sur le droit d'auteur, l'expression de ces idées et principes doit être protégée par le droit d'auteur.
+
+(12) | Aux fins de la présente directive, on entend par «location» la mise à disposition d'un programme d'ordinateur ou d'une copie de celui-ci en vue de son utilisation pendant une période limitée et à des fins lucratives. Ce terme n'inclut pas le prêt au public, qui ne relève donc pas du champ d'application de la présente directive.
+
+(13) | Les droits exclusifs de l'auteur d'empêcher la reproduction non autorisée de son œuvre devraient être soumis à une exception limitée dans le cas d'un programme d'ordinateur, afin de permettre la reproduction techniquement nécessaire à l'utilisation du programme par son acquéreur légitime. Cela signifie que les opérations de chargement et d'exécution nécessaires à l'utilisation d'une copie d'un programme légitimement acquis, ainsi que la correction de ses erreurs, ne peuvent pas être interdites par contrat. En l'absence de clauses contractuelles spécifiques, notamment en cas de vente d'une copie du programme, toute autre opération nécessaire à l'utilisation de la copie d'un programme peut être effectuée, en conformité avec son but prévu, par un acquéreur légitime de cette copie.
+
+(14) | Une personne jouissant du droit d'utiliser un programme d'ordinateur ne devrait pas être empêchée d'accomplir les actes nécessaires pour observer, étudier ou tester le fonctionnement de ce programme, à condition que ces actes ne portent pas atteinte aux droits de l'auteur du programme.
+
+(15) | La reproduction, la traduction, l'adaptation ou la transformation non autorisée de la forme du code sous lequel une copie de programme d'ordinateur a été fournie constituent une atteinte aux droits exclusifs de l'auteur. Toutefois, dans certaines circonstances, une reproduction du code d'un programme d'ordinateur ou une traduction de sa forme peut s'avérer indispensable pour obtenir l'information nécessaire à l'interopérabilité d'un programme créé de façon indépendante avec d'autres programmes. Il faut donc envisager que, dans ces circonstances bien précises uniquement, l'accomplissement d'actes de reproduction et de traduction par ou au nom d'une personne ayant le droit d'utiliser une copie du programme est légitime et conforme aux bons usages, et ne doit donc pas requérir l'autorisation du titulaire du droit d'auteur. L'un des objectifs de cette exception est de permettre l'interconnexion de tous les éléments d'un système informatique, y compris ceux de fabricants différents, afin qu'ils puissent fonctionner ensemble. Une telle exception aux droits exclusifs de l'auteur ne doit pas être appliquée de façon à causer un préjudice aux intérêts légitimes du titulaire du droit ou à porter atteinte à une exploitation normale du programme.
+
+(16) | La protection des programmes d'ordinateur par les législations en matière de droit d'auteur ne devrait pas faire obstacle, le cas échéant, à la mise en œuvre d'autres formes de protection. Toute disposition contractuelle contraire aux dispositions de la présente directive concernant la décompilation ou aux exceptions prévues par la présente directive concernant le fait de faire une copie de sauvegarde, d'observer, d'étudier ou de tester le fonctionnement d’un programme devrait toutefois être nulle et non avenue.
+
+(17) | Les dispositions de la présente directive sont sans préjudice de l'application des règles de concurrence en vertu des articles 81 et 82 du traité si un fournisseur occupant une position dominante refuse de mettre à disposition l'information nécessaire pour l'interopérabilité telle que définie dans la présente directive.
+
+(18) | Les dispositions de la présente directive ne devraient pas préjuger les dispositions particulières du droit communautaire déjà arrêtées en matière de publication d'interfaces dans le secteur des télécommunications, ni des décisions du Conseil relatives à la normalisation dans le domaine des technologies de l'information et des télécommunications.
+
+(19) | La présente directive n'affecte pas les dérogations prévues par les législations nationales, en application de la convention de Berne, sur les points non couverts par la directive.
+
+(20) | La présente directive ne devrait pas porter atteinte aux obligations des États membres concernant les délais de transposition en droit national des directives indiqués à l'annexe I, partie B,
+
+ONT ARRÊTÉ LA PRÉSENTE DIRECTIVE:
+
+Article premier
+Objet de la protection
+1. Conformément aux dispositions de la présente directive, les États membres protègent les programmes d'ordinateur par le droit d'auteur en tant qu'œuvres littéraires au sens de la convention de Berne pour la protection des œuvres littéraires et artistiques. Les termes «programme d'ordinateur», aux fins de la présente directive, comprennent le matériel de conception préparatoire.
+2. La protection prévue par la présente directive s'applique à toute forme d'expression d'un programme d'ordinateur. Les idées et principes qui sont à la base de quelque élément que ce soit d'un programme d'ordinateur, y compris ceux qui sont à la base de ses interfaces, ne sont pas protégés par le droit d'auteur en vertu de la présente directive.
+3. Un programme d'ordinateur est protégé s'il est original, en ce sens qu'il est la création intellectuelle propre à son auteur. Aucun autre critère ne s'applique pour déterminer s'il peut bénéficier d'une protection.
+4. Les dispositions de la présente directive sont également applicables aux programmes d'ordinateur créés avant le 1 er janvier 1993, sans préjudice des actes conclus et des droits acquis avant cette date.
+
+Article 2
+Qualité d'auteur du programme
+1. L'auteur d'un programme d'ordinateur est la personne physique ou le groupe de personnes physiques ayant créé le programme, ou, lorsque la législation de l'État membre concerné l'autorise, la personne morale considérée par cette législation comme étant le titulaire du droit.
+Lorsque les œuvres collectives sont reconnues par la législation d'un État membre, la personne considérée par la législation de l'État membre concerné comme ayant créé l'œuvre est réputée en être l'auteur.
+2. Lorsqu'un programme d'ordinateur est créé en commun par plusieurs personnes physiques, les droits exclusifs sont détenus en commun par ces personnes.
+3. Lorsqu'un programme d'ordinateur est créé par un employé dans l'exercice de ses fonctions ou d'après les instructions de son employeur, seul l'employeur est habilité à exercer tous les droits patrimoniaux afférents au programme d'ordinateur ainsi créé, sauf dispositions contractuelles contraires.
+
+Article 3
+Bénéficiaires de la protection
+La protection est accordée à toute personne physique ou morale admise à bénéficier des dispositions de la législation nationale en matière de droit d'auteur applicables aux œuvres littéraires.
+
+Article 4
+Actes soumis à restrictions
+1. Sous réserve des articles 5 et 6, les droits exclusifs du titulaire au sens de l'article 2 comportent le droit de faire ou d'autoriser:
+a) | la reproduction permanente ou provisoire d'un programme d'ordinateur, en tout ou en partie, par quelque moyen et sous quelque forme que ce soit; lorsque le chargement, l'affichage, l'exécution, la transmission ou le stockage d'un programme d'ordinateur nécessitent une telle reproduction du programme, ces actes de reproduction sont soumis à l'autorisation du titulaire du droit;
+b) | la traduction, l'adaptation, l'arrangement et toute autre transformation d'un programme d'ordinateur et la reproduction du programme en résultant, sans préjudice des droits de la personne qui transforme le programme d'ordinateur;
+c) | toute forme de distribution, y compris la location, au public de l'original ou de copies d'un programme d'ordinateur.
+2. La première vente d'une copie d'un programme d'ordinateur dans la Communauté par le titulaire du droit ou avec son consentement épuise le droit de distribution de cette copie dans la Communauté, à l'exception du droit de contrôler des locations ultérieures du programme d'ordinateur ou d'une copie de celui-ci.
+
+Article 5
+Exceptions aux actes soumis à restrictions
+1. Sauf dispositions contractuelles spécifiques, ne sont pas soumis à l'autorisation du titulaire les actes visés à l'article 4, paragraphe 1, points a) et b), lorsque ces actes sont nécessaires pour permettre à l'acquéreur légitime d'utiliser le programme d'ordinateur d'une manière conforme à sa destination, y compris pour corriger des erreurs.
+2. Une personne ayant le droit d'utiliser le programme d'ordinateur ne peut être empêchée par contrat d'en faire une copie de sauvegarde dans la mesure où celle-ci est nécessaire pour cette utilisation.
+3. La personne habilitée à utiliser une copie d'un programme d'ordinateur peut, sans l'autorisation du titulaire du droit, observer, étudier ou tester le fonctionnement de ce programme afin de déterminer les idées et les principes qui sont à la base de n'importe quel élément du programme, lorsqu'elle effectue toute opération de chargement, d'affichage, d'exécution, de transmission ou de stockage du programme d'ordinateur qu'elle est en droit d'effectuer.
+
+Article 6
+Décompilation
+1. L'autorisation du titulaire des droits n'est pas requise lorsque la reproduction du code ou la traduction de la forme de ce code au sens de l'article 4, paragraphe 1, points a) et b), est indispensable pour obtenir les informations nécessaires à l'interopérabilité d'un programme d'ordinateur créé de façon indépendante avec d'autres programmes et sous réserve que les conditions suivantes soient réunies:
+a) | ces actes sont accomplis par le licencié ou par une autre personne jouissant du droit d'utiliser une copie d'un programme, ou pour leur compte par une personne habilitée à cette fin;
+b) | les informations nécessaires à l'interopérabilité n'ont pas déjà été facilement et rapidement accessibles aux personnes visées au point a); et
+c) | ces actes sont limités aux parties du programme d'origine nécessaires à l'interopérabilité.
+2. Les dispositions du paragraphe 1 ne peuvent justifier que les informations obtenues en vertu de son application:
+a) | soient utilisées à des fins autres que la réalisation de l'interopérabilité du programme d'ordinateur créé de façon indépendante;
+b) | soient communiquées à des tiers, sauf si cela s'avère nécessaire à l'interopérabilité du programme d'ordinateur créé de façon indépendante; ou
+c) | soient utilisées pour la mise au point, la production ou la commercialisation d'un programme d'ordinateur dont l'expression est fondamentalement similaire ou pour tout autre acte portant atteinte au droit d'auteur.
+3. Conformément aux dispositions de la convention de Berne pour la protection des œuvres littéraires et artistiques, le présent article ne peut être interprété de façon à permettre son application d'une manière qui cause un préjudice injustifié aux intérêts légitimes du titulaire du droit ou qui porte atteinte à l'exploitation normale du programme d'ordinateur.
+
+Article 7
+Mesures spéciales de protection
+1. Sans préjudice des articles 4, 5 et 6, les États membres prennent, conformément à leurs législations nationales, des mesures appropriées à l'encontre des personnes qui accomplissent l'un des actes suivants:
+a) | mettre en circulation une copie d'un programme d'ordinateur en sachant qu'elle est illicite ou en ayant des raisons de le croire;
+b) | détenir à des fins commerciales une copie d'un programme d'ordinateur en sachant qu'elle est illicite ou en ayant des raisons de le croire;
+c) | mettre en circulation ou détenir à des fins commerciales tout moyen ayant pour seul but de faciliter la suppression non autorisée ou la neutralisation de tout dispositif technique éventuellement mis en place pour protéger un programme d'ordinateur.
+2. Toute copie illicite d'un programme d'ordinateur est susceptible de saisie conformément à la législation de l'État membre concerné.
+3. Les États membres peuvent prévoir la saisie des moyens visés au paragraphe 1, point c).
+
+Article 8
+Maintien d'autres dispositions légales
+Les dispositions de la présente directive n'affectent pas les autres dispositions légales concernant notamment les brevets, les marques, la concurrence déloyale, le secret des affaires, la protection des semi-conducteurs ou le droit des contrats.
+Toute disposition contractuelle contraire à l'article 6 ou aux exceptions prévues à l'article 5, paragraphes 2 et 3, est nulle et non avenue.
+
+Article 9
+Communication
+Les États membres communiquent à la Commission le texte des dispositions de droit interne adoptées dans le domaine régi par la présente directive.
+
+Article 10
+Abrogation
+La directive 91/250/CEE, telle que modifiée par la directive visée à l'annexe I, partie A, est abrogée, sans préjudice des obligations des États membres en ce qui concerne les délais de transposition en droit national des directives indiqués à l'annexe I, partie B.
+Les références faites à la directive abrogée s'entendent comme faites à la présente directive et sont à lire selon le tableau de correspondance figurant à l'annexe II.
+
+Article 11
+Entrée en vigueur
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne .
+
+Article 12
+Destinataires
+Les États membres sont destinataires de la présente directive.
+
+Fait à Strasbourg, le 23 avril 2009.
+Par le Parlement européen
+Le président
+H.-G. PÖTTERING
+Par le Conseil
+Le président
+P. NEČAS
+( 1 ) JO C 204 du 9.8.2008, p. 24 .
+( 2 ) Avis du Parlement européen du 17 juin 2008 (non encore paru au Journal officiel) et décision du Conseil du 23 mars 2009.
+( 3 ) JO L 122 du 17.5.1991, p. 42 .
+( 4 ) Voir annexe I, partie A.
+
+ANNEXE I
+PARTIE A
+Directive abrogée avec sa modification
+(visées à l'article 10)
+Directive 91/250/CEE du Conseil ( JO L 122 du 17.5.1991, p. 42 ) | 
+Directive 93/98/CEE du Conseil ( JO L 290 du 24.11.1993, p. 9 ) | uniquement l'article 11, paragraphe 1
+PARTIE B
+Délais de transposition en droit national
+(visés à l'article 10)
+Directive | Date limite de transposition
+91/250/CEE | 31 décembre 1992
+93/98/CEE | 30 juin 1995
+
+ANNEXE II
+Tableau de correspondance
+Directive 91/250/CEE | Présente directive
+Article 1 er , paragraphes 1, 2 et 3 | Article 1 er , paragraphes 1, 2 et 3
+Article 2, paragraphe 1, première phrase | Article 2, paragraphe 1, premier alinéa
+Article 2, paragraphe 1, deuxième phrase | Article 2, paragraphe 1, deuxième alinéa
+Article 2, paragraphes 2 et 3 | Article 2, paragraphes 2 et 3
+Article 3 | Article 3
+Article 4, mots introductifs | Article 4, paragraphe 1, mots introductifs
+Article 4, point a) | Article 4, paragraphe 1, point a)
+Article 4, point b) | Article 4, paragraphe 1, point b)
+Article 4, point c), première phrase | Article 4, paragraphe 1, point c)
+Article 4, point c), deuxième phrase | Article 4, paragraphe 2
+Articles 5, 6 et 7 | Articles 5, 6 et 7
+Article 9, paragraphe 1, première phrase | Article 8, premier alinéa
+Article 9, paragraphe 1, deuxième phrase | Article 8, deuxième alinéa
+Article 9, paragraphe 2 | Article 1 er , paragraphe 4
+Article 10, paragraphe 1 | —
+Article 10, paragraphe 2 | Article 9
+— | Article 10
+— | Article 11
+Article 11 | Article 12
+— | Annexe I
+— | Annexe II

@@ -1,0 +1,184 @@
+EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2009/24/EF
+af 23. april 2009
+om retlig beskyttelse af edb-programmer
+(kodificeret udgave)
+(EØS-relevant tekst)
+
+EUROPA-PARLAMENTET OG RÅDET FOR DEN EUROPÆISKE UNION HAR —
+
+under henvisning til traktaten om oprettelse af Det Europæiske Fællesskab, særlig artikel 95,
+
+under henvisning til forslag fra Kommissionen,
+
+under henvisning til udtalelse fra Det Europæiske Økonomiske og Sociale Udvalg ( 1 ) ,
+
+efter proceduren i traktatens artikel 251 ( 2 ) , og
+
+ud fra følgende betragtninger:
+
+(1) | Indholdet af Rådets direktiv 91/250/EØF af 14. maj 1991 om retlig beskyttelse af edb-programmer ( 3 ) er blevet ændret ( 4 ) . Direktivet bør af klarheds- og rationaliseringshensyn kodificeres.
+
+(2) | Udviklingen af edb-programmer forudsætter en investering af betydelige menneskelige, tekniske og finansielle ressourcer, mens edb-programmer kan kopieres til en brøkdel af de omkostninger, der er forbundet med en selvstændig udvikling af dem.
+
+(3) | Edb-programmer spiller en stadig større rolle inden for en lang række industrier, og edb-programteknologi kan derfor betragtes som værende af fundamental betydning for Fællesskabets industrielle udvikling.
+
+(4) | Visse forskelle i den retlige beskyttelse, som edb-programmer nyder i henhold til medlemsstaternes lovgivning, har en direkte og negativ indvirkning på det indre markeds funktion for så vidt angår edb-programmer.
+
+(5) | Eksisterende forskelle med en sådan negativ virkning bør fjernes og nye forskelle undgås, mens forskelle uden mærkbar negativ virkning på det indre markeds funktion ikke behøver at blive fjernet eller forhindret i at opstå.
+
+(6) | Fællesskabets retlige ramme for beskyttelsen af edb-programmer kan derfor i første omgang begrænses til fastsættelse af, at medlemsstaterne skal give edb-programmer ophavsretlig beskyttelse som litterære værker, samt til fastsættelse af, hvem og hvad der skal beskyttes, hvilke enerettigheder de beskyttede personer kan påberåbe sig som hjemmel for at tillade eller forbyde visse handlinger, samt hvor lang tid beskyttelsen skal vare.
+
+(7) | I dette direktiv omfatter betegnelsen »edb-program« programmer i enhver form, herunder programmer inkorporeret i datamater. Betegnelsen omfatter også forberedende designarbejde, der fører til udviklingen af et edb-program, under forudsætning af at det forberedende arbejde er af en sådan karakter, at et edb-program på et senere stadium kan være resultatet heraf.
+
+(8) | De kriterier, der skal lægges til grund for at afgøre, om et edb-program er et originalt værk eller ej, bør ikke omfatte afprøvning af edb-programmets kvalitetsmæssige eller æstetiske værdi.
+
+(9) | Fællesskabet går fuldt ud ind for at fremme international standardisering.
+
+(10) | Edb-programmets funktion er at kommunikere og arbejde sammen med andre komponenter i et edb-system og med brugere, og med henblik herpå er en logisk og i givet fald en fysisk sammenkobling og interaktion nødvendig, for at alle programmel- og maskineldele kan arbejde sammen med andet programmel og maskinel samt med brugerne på den måde, det er hensigten, det skal fungere. De dele af et edb-program, som tilvejebringer denne sammenkobling og interaktion mellem komponenterne i et system, benævnes normalt »grænseflader«. Denne funktionelle sammenkobling og interaktion benævnes normalt »interoperabilitet«; driftskompatibilitet kan defineres som evnen til at udveksle data og gensidigt gøre brug af de udvekslede data.
+
+(11) | For at undgå tvivl skal det præciseres, at det kun er et edb-programs udtryksform, der er beskyttet, og at de idéer og principper, som ligger til grund for elementerne i et edb-program, herunder dem, der ligger til grund for grænsefladerne, ikke nyder ophavsretlig beskyttelse i henhold til dette direktiv. I overensstemmelse med dette ophavsretsprincip er idéer og principper, i det omfang logik, algoritmer og programmeringssprog omfatter disse idéer og principper, ikke beskyttet i henhold til dette direktiv. I henhold til medlemsstaternes lovgivning og retspraksis og de internationale ophavsretskonventioner skal sådanne idéers og princippers udtryksform beskyttes ophavsretligt.
+
+(12) | I dette direktiv forstås ved udtrykket »udlejning«, at et edb-program eller en kopi heraf bliver stillet til rådighed til benyttelse i et begrænset tidsrum med henblik på fortjeneste; udtrykket omfatter ikke offentligt udlån, som dermed falder uden for direktivets rækkevidde.
+
+(13) | Ophavsmandens eneret til at hindre uretmæssig reproduktion af sit værk bør, når der er tale om edb-programmer, underlægges en begrænset undtagelse med henblik på at tillade reproduktion, der er teknisk nødvendig for, at det pågældende program kan benyttes af den, der lovligt har erhvervet det. Dette betyder, at handlinger som indlæsning og kørsel, der er nødvendige for anvendelsen af en kopi af et program, som er lovligt erhvervet, herunder rettelse af fejl deri, ikke må forbydes ved aftale. Når intet særligt er aftalt, herunder når en kopi af et program er solgt, må enhver anden handling, der er nødvendig for anvendelsen af kopien af et program, udføres i overensstemmelse med dens formål af den, der lovligt har erhvervet kopien.
+
+(14) | En person, der har ret til at benytte et edb-program, bør ikke hindres i at udføre handlinger, der er nødvendige for at besigtige, undersøge eller afprøve, hvordan edb-programmet fungerer, forudsat at sådanne handlinger ikke krænker ophavsretten til edb-programmet.
+
+(15) | Uretmæssig reproduktion, oversættelse, bearbejdelse eller omarbejdelse af formen af den kode, hvori en kopi af et edb-program er gjort tilgængelig, udgør en krænkelse af ophavsmandens enerettigheder. Imidlertid kan der forekomme situationer, hvor en sådan reproduktion af et edb-programs kode og oversættelse af kodens form er en forudsætning for at skaffe de oplysninger, der er nødvendige for at tilvejebringe interoperabilitet mellem et selvstændigt udviklet edb-program og andre edb-programmer. Under disse ganske bestemte omstændigheder skal det derfor betragtes som lovligt og i overensstemmelse med god forretningsskik, at en person, der har ret til at benytte et edb-program, eller en person, der handler på dennes vegne, foretager reproduktion og oversættelse, og dette skal derfor anses for ikke at kræve rettighedshaverens tilladelse. Formålet med denne undtagelse er at gøre det muligt at forbinde alle komponenter i et edb-system, herunder komponenter af forskellige fabrikater, således at de kan arbejde sammen. Denne undtagelse fra ophavsmandens eneret må ikke benyttes på en måde, som gør indgreb i rettighedshaverens legitime interesser eller er i modstrid med den normale udnyttelse af edb-programmet.
+
+(16) | En ophavsretlig beskyttelse af edb-programmer bør ikke være til hinder for, at andre beskyttelsesformer kan finde anvendelse, når omstændighederne taler herfor. Dog bør aftalemæssige bestemmelser, der strider mod dette direktivs bestemmelser om dekompilering eller mod undtagelserne i dette direktiv med hensyn til sikkerhedskopiering og besigtigelse, undersøgelse og afprøvning af et edb-program, være ugyldige.
+
+(17) | Bestemmelserne i dette direktiv berører ikke anvendelsen af konkurrencereglerne i artikel 81 og 82 i traktaten, når en leverandør med en dominerende stilling afslår at gøre oplysninger, der er nødvendige for at opnå interoperabilitet som defineret i dette direktiv, tilgængelige.
+
+(18) | Bestemmelserne i dette direktiv bør ikke berøre allerede vedtagne fællesskabsretlige særbestemmelser om offentliggørelse af grænseflader inden for telekommunikationssektoren eller for Rådets beslutninger om standardisering inden for informationsteknologi og telekommunikation.
+
+(19) | Dette direktiv berører ikke de undtagelser, der i medfør af Berner-konventionen er fastsat i de nationale lovgivninger, vedrørende spørgsmål, som direktivet ikke dækker.
+
+(20) | Nærværende direktiv bør ikke berøre medlemsstaternes forpligtelser med hensyn til de i bilag I, del B, angivne frister for gennemførelse i national ret af direktiverne —
+
+UDSTEDT FØLGENDE DIREKTIV:
+
+Artikel 1
+Beskyttelsens genstand
+1. I henhold til bestemmelserne i dette direktiv skal medlemsstaterne give edb-programmer ophavsretlig beskyttelse som litterære værker efter Berner-konventionen til værn for litterære og kunstneriske værker. I dette direktiv omfatter udtrykket »edb-program« forberedende designmateriale hertil.
+2. Beskyttelsen i henhold til dette direktiv finder anvendelse på enhver form, hvori et edb-program udtrykkes. Idéer og principper, som ligger til grund for de enkelte elementer i et edb-program, herunder sådanne idéer og principper, som ligger til grund for dets grænseflader, nyder ikke ophavsretlig beskyttelse efter dette direktiv.
+3. Et edb-program skal nyde beskyttelse, hvis det er originalt i den forstand, at det er ophavsmandens egen intellektuelle frembringelse. Der gælder ikke andre kriterier for, om et edb-program er berettiget til beskyttelse.
+4. Bestemmelserne i dette direktiv finder også anvendelse på edb-programmer, der er udviklet før den 1. januar 1993, men berører ikke handlinger, der er afsluttet, og rettigheder, der er erhvervet, inden denne dato.
+
+Artikel 2
+Ophavsmanden til et program
+1. Ophavsmanden til et edb-program er den fysiske person eller den gruppe af fysiske personer, der har udviklet edb-programmet, eller, hvis medlemsstatens lovgivning tillader det, den juridiske person, der i henhold til denne lovgivning anerkendes som rettighedshaver.
+Hvis en medlemsstats lovgivning anerkender kollektive værker, betragtes den person, som i henhold til medlemsstatens lovgivning anses for at have frembragt værket, som ophavsmand hertil.
+2. Er et edb-program udviklet af flere fysiske personer i fællesskab, besidder disse personer enerettighederne i fællesskab.
+3. Er et edb-program udviklet af en arbejdstager under udførelsen af dennes arbejde eller efter arbejdsgiverens anvisninger, er arbejdsgiveren eneberettiget til at udøve alle de økonomiske rettigheder, der er knyttet til det således udviklede edb-program, medmindre andet fastsættes ved aftale.
+
+Artikel 3
+Den beskyttede personkreds
+Beskyttelse skal indrømmes alle fysiske og juridiske personer, der er beskyttelsesberettigede i henhold til den nationale ophavsretslovgivning, der finder anvendelse på litterære værker.
+
+Artikel 4
+De enkelte enerettigheder
+1. Uden at dette berører bestemmelserne i artikel 5 og 6, skal den eneret, som tilkommer rettighedshaveren som defineret i artikel 2, omfatte ret til at foretage eller tillade:
+a) | varig eller midlertidig, hel eller delvis reproduktion af et edb-program på en hvilken som helst måde og i en hvilken som helst form; hvis indlæsning, visning på skærm, kørsel, overførsel eller lagring af edb-programmet nødvendiggør reproduktion af edb-programmet, forudsætter en sådan reproduktion rettighedshaverens tilladelse
+b) | oversættelse, bearbejdelse, arrangement og enhver anden omformet gengivelse af et edb-program samt reproduktion af resultaterne heraf, uden at dette berører de rettigheder, som tilkommer den person, som omformer programmet
+c) | enhver form for offentlig spredning, herunder udlejning, af det originale edb-program eller kopier deraf.
+2. Første gang en kopi af et edb-program sælges i Fællesskabet af rettighedshaveren eller med dennes tilladelse, er rettighedshaverens ret til at sprede den pågældende kopi inden for Fællesskabet udtømt, med undtagelse af retten til at udøve kontrol med yderligere udlejning af edb-programmet eller af en kopi deraf.
+
+Artikel 5
+Undtagelser fra enerettighederne
+1. Medmindre andet udtrykkeligt er fastsat ved aftale, kræver de i artikel 4, stk. 1, litra a) og b), nævnte handlinger ikke tilladelse fra rettighedshaveren, når de er nødvendige for, at den, der retmæssigt har erhvervet edb-programmet, kan benytte det efter dets formål, herunder til korrektion af fejl.
+2. Det kan ikke ved aftale forhindres, at en person, der har ret til at benytte et edb-program, laver en sikkerhedskopi, for så vidt det er nødvendigt for denne benyttelse.
+3. Den, der har ret til at benytte en kopi af et edb-program, kan uden rettighedshaverens tilladelse besigtige, undersøge eller afprøve edb-programmet for at fastslå, hvilke idéer og principper der ligger til grund for de enkelte elementer af edb-programmet, hvis dette sker i forbindelse med sådanne handlinger som indlæsning, visning på skærm, kørsel, overførsel eller lagring af edb-programmet, som han er berettiget til at udføre.
+
+Artikel 6
+Dekompilering
+1. Rettighedshaverens tilladelse kræves ikke, når reproduktion af koden eller oversættelse af kodens form som omhandlet i artikel 4, stk. 1, litra a) og b), er en forudsætning for at skaffe de oplysninger, der er nødvendige for at tilvejebringe interoperabilitet mellem et selvstændigt udviklet edb-program og andre edb-programmer, forudsat at følgende betingelser er opfyldt:
+a) | handlingerne udføres af licenshaveren eller af en anden person, der har ret til at benytte en kopi af et edb-program, eller på disses vegne af en person, der har tilladelse hertil
+b) | de oplysninger, der er nødvendige for at tilvejebringe interoperabilitet, har ikke tidligere været let og hurtigt tilgængelige for de i litra a) nævnte personer
+c) | handlingerne er begrænset til de dele af det oprindelige edb-program, der er nødvendige for at opnå interoperabilitet.
+2. Bestemmelserne i stk. 1 må ikke åbne mulighed for, at oplysninger indhentet i forbindelse med anvendelse heraf:
+a) | benyttes til andre formål end at gøre det selvstændigt udviklede edb-program interoperabelt
+b) | videregives til tredjemand, undtagen når dette er nødvendigt for at gøre det selvstændigt udviklede edb-program interoperabelt, eller
+c) | benyttes til udvikling, fremstilling eller markedsføring af et edb-program, der i sin udtryksform i vid udstrækning svarer til det oprindelige, eller til nogen som helst anden handling, som krænker ophavsretten.
+3. I overensstemmelse med bestemmelserne i Berner-konventionen til værn for litterære og kunstneriske værker må bestemmelserne i denne artikel ikke fortolkes således, at de finder anvendelse på en måde, som på urimelig måde gør indgreb i rettighedshaverens legitime interesser eller er i modstrid med den normale udnyttelse af edb-programmet.
+
+Artikel 7
+Særlige beskyttelsesforanstaltninger
+1. Uden at det berører artikel 4, 5 og 6, træffer medlemsstaterne i overensstemmelse med deres nationale lovgivning passende foranstaltninger over for en person, som foretager en af de følgende handlinger:
+a) | enhver form for omsætning af en kopi af et edb-program, når den pågældende ved eller har grund til at tro, at det er en ulovlig kopi
+b) | besiddelse i kommercielt øjemed af en kopi af et edb-program, når den pågældende ved eller har grund til at tro, at det er en ulovlig kopi
+c) | enhver form for omsætning eller besiddelse i kommercielt øjemed af et hvilket som helst middel, hvis eneste formål er at lette ulovlig fjernelse eller omgåelse af tekniske indretninger, som måtte være blevet anvendt til at beskytte et edb-program.
+2. En ulovlig kopi af et edb-program skal beslaglægges i overensstemmelse med den pågældende medlemsstats lovgivning.
+3. Medlemsstaterne kan fastsætte, at de i stk. 1, litra c), omhandlede midler skal beslaglægges.
+
+Artikel 8
+Fortsat anvendelse af andre retsforskrifter
+Bestemmelserne i dette direktiv berører ikke anvendelsen af andre retsforskrifter vedrørende f.eks. patenter, varemærker, illoyal konkurrence, forretningshemmeligheder, beskyttelse af halvlederprodukter eller aftalelovgivningen.
+Aftalemæssige bestemmelser, som strider mod artikel 6 eller mod undtagelserne i artikel 5, stk. 2 og 3, er ugyldige.
+
+Artikel 9
+Meddelelse
+Medlemsstaterne tilsender Kommissionen de nationale bestemmelser, som er udstedt på det område, der er omfattet af dette direktiv.
+
+Artikel 10
+Ophævelse
+Direktiv 91/250/EØF, som ændret ved det direktiv, der er nævnt i bilag I, del A, ophæves hermed, uden at dette berører medlemsstaternes forpligtelser med hensyn til de i bilag I, del B, angivne frister for gennemførelse i national ret af direktiverne.
+Henvisninger til det ophævede direktiv gælder som henvisninger til nærværende direktiv og læses efter sammenligningstabellen i bilag II.
+
+Artikel 11
+Ikrafttrædelse
+Dette direktiv træder i kraft på tyvendedagen efter offentliggørelsen i Den Europæiske Unions Tidende .
+
+Artikel 12
+Adressater
+Dette direktiv er rettet til medlemsstaterne.
+
+Udfærdiget i Strasbourg, den 23. april 2009.
+På Europa-Parlamentets vegne
+H.-G. PÖTTERING
+Formand
+På Rådets vegne
+P. NEČAS
+Formand
+( 1 ) EUT C 204 af 9.8.2008, s. 24 .
+( 2 ) Europa-Parlamentets udtalelse af 17.6.2008 (endnu ikke offentliggjort i EUT) og Rådets afgørelse af 23.3.2009.
+( 3 ) EFT L 122 af 17.5.1991, s. 42 .
+( 4 ) Jf. bilag I, del A.
+
+BILAG I
+DEL A
+Ophævet direktiv med ændring
+(jf. artikel 10)
+Rådets direktiv 91/250/EØF ( EFT L 122 af 17.5.1991, s. 42 ) | 
+Rådets direktiv 93/98/EØF ( EFT L 290 af 24.11.1993, s. 9 ) | Udelukkende artikel 11, stk. 1
+DEL B
+Frister for gennemførelse i national ret
+(jf. artikel 10)
+Direktiv | Gennemførelsesfrist
+91/250/EØF | 31. december 1992
+93/98/EØF | 30. juni 1995
+
+BILAG II
+Sammenligningstabel
+Direktiv 91/250/EØF | Nærværende direktiv
+Artikel 1, stk. 1, 2 og 3 | Artikel 1, stk. 1, 2 og 3
+Artikel 2, stk. 1, første punktum | Artikel 2, stk. 1, første afsnit
+Artikel 2, stk. 1, andet punktum | Artikel 2, stk. 1, andet afsnit
+Artikel 2, stk. 2 og 3 | Artikel 2, stk. 2 og 3
+Artikel 3 | Artikel 3
+Artikel 4, indledning | Artikel 4, stk. 1, indledning
+Artikel 4, litra a) | Artikel 4, stk. 1, litra a)
+Artikel 4, litra b) | Artikel 4, stk. 1, litra b)
+Artikel 4, litra c), første punktum | Artikel 4, stk. 1, litra c)
+Artikel 4, litra c), andet punktum | Artikel 4, stk. 2
+Artikel 5, 6 og 7 | Artikel 5, 6 og 7
+Artikel 9, stk. 1, første punktum | Artikel 8, første afsnit
+Artikel 9, stk. 1, andet punktum | Artikel 8, andet afsnit
+Artikel 9, stk. 2 | Artikel 1, stk. 4
+Artikel 10, stk. 1 | —
+Artikel 10, stk. 2 | Artikel 9
+— | Artikel 10
+— | Artikel 11
+Artikel 11 | Artikel 12
+— | Bilag I
+— | Bilag II

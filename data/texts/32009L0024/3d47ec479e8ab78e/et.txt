@@ -1,0 +1,184 @@
+EUROOPA PARLAMENDI JA NÕUKOGU DIREKTIIV 2009/24/EÜ,
+23. aprill 2009,
+arvutiprogrammide õiguskaitse kohta
+(kodifitseeritud versioon)
+(EMPs kohaldatav tekst)
+
+EUROOPA PARLAMENT JA EUROOPA LIIDU NÕUKOGU,
+
+võttes arvesse Euroopa Ühenduse asutamislepingut, eriti selle artiklit 95,
+
+võttes arvesse komisjoni ettepanekut,
+
+võttes arvesse Euroopa Majandus- ja Sotsiaalkomitee arvamust, ( 1 )
+
+toimides asutamislepingu artiklis 251 sätestatud korras ( 2 )
+
+ning arvestades järgmist:
+
+(1) | Nõukogu 14. mai 1991. aasta direktiivi 91/250/EMÜ (arvutiprogrammide õiguskaitse kohta). ( 3 ) sisu on muudetud. ( 4 ) Selguse ja otstarbekuse huvides tuleks kõnealune direktiiv kodifitseerida.
+
+(2) | Arvutiprogrammide väljatöötamine eeldab märkimisväärseid inimressursse ning tehnilisi ja rahalisi vahendeid, kuid samas on arvutiprogrammide kopeerimise kulud vaid murdosa nende sõltumatuks väljatöötamiseks vajalikest kuludest.
+
+(3) | Arvutiprogrammid etendavad paljudes tööstusvaldkondades järjest tähtsamat osa ja seega on arvutiprogrammide tehnoloogia ühenduse tööstuslikule arengule eluliselt tähtis.
+
+(4) | Erinevused arvutiprogrammide õiguskaitset käsitlevate eri liikmesriikide õigusaktide vahel mõjutavad otseselt ja negatiivselt siseturu toimimist seoses arvutiprogrammidega.
+
+(5) | Kõnealust mõju omavad olemasolevad erinevused tuleb kaotada ja uute selliste erinevuste teke tuleb välistada, kuid erinevusi, mis ei kahjusta siseturu toimimist märkimisväärselt, ei tuleks kõrvaldada ega takistada nende kehtestamist.
+
+(6) | Sellele vastavalt võib arvutiprogrammide õiguskaitset käsitlev ühenduse õiguslik raamistik piirduda esmajoones sellega, et liikmesriikidele nähakse ette kohustus pakkuda arvutiprogrammidele autoriõiguse alusel kaitset kui kirjandusteostele ning seejärel määrata kindlaks, keda ja mida tuleks kaitsta, millistele ainuõigustele võib kaitstud isik toetuda teatava toimingu lubamisel või keelamisel ning kui kaua tuleks kaitset kohaldada.
+
+(7) | Käesoleva direktiivi kohaldamisel hõlmab termin „arvutiprogramm” kõiki programme olenemata nende vormist, sealhulgas tarkvaras sisalduvaid programme. Nimetatud termin hõlmab ka arvutiprogrammi väljatöötamisele eelnevat projekteerimist tingimusel, et ettevalmistav töö on oma olemuselt selline, et selle tulemuseks võib hilisemas etapis olla arvutiprogramm.
+
+(8) | Kriteeriumid, mille põhjal otsustatakse, kas arvutiprogramm on algupärane töö, ei tohiks sisaldada programmi kvalitatiivseid või esteetilisi omadusi hindavaid katseid.
+
+(9) | Ühendus peab rahvusvaheliste standardite toetamist äärmiselt oluliseks.
+
+(10) | Arvutiprogramm peab suhtlema ja toimima koos muude arvutisüsteemi osadega ja kasutajatega ning see eeldab loogilist ja vajaduse korral ka füüsilist vastastikust sidumist ja interaktsiooni, et tarkvara ja riistvara kõik osad funktsioneeriksid ülejäänud tarkvara ja riistvaraga ning toimiksid kasutajate käes selliselt, nagu see on kavandatud. Programmi osi, mis võimaldavad sellist vastastikust sidumist ja suhtlust tarkvara ja riistvara elementide vahel, nimetatakse tavaliselt liidesteks. Funktsionaalset vastastikust sidumist ja interaktsiooni nimetatakse tavaliselt koostalitlusvõimeks; sellist koostalitlusvõimet võib defineerida kui võimet vahetada teavet ja kasutada vastastikku teavet, mida on vahetatud.
+
+(11) | Kahtluste vältimiseks tuleb selgitada, et kaitstud on ainult arvutiprogrammile antud kuju ning käesoleva direktiivi kohase autoriõigusega ei ole kaitstud programmi elementide, sealhulgas selle liideste aluseks olevad ideed ja põhimõtted. Vastavalt sellisele autoriõiguse põhimõttele ja kuivõrd loogika, algoritmide ja programmeerimiskeele puhul on tegemist ideede ja põhimõtetega, ei ole need ideed ja põhimõtted käesoleva direktiivi alusel kaitstud. Liikmesriikide õigusaktide ja kohtupraktika kohaselt ja vastavalt rahvusvahelistele autoriõigusalastele konventsioonidele tuleb selliste ideede ja põhimõtete väljendumist kaitsta autoriõigusega.
+
+(12) | Käesoleva direktiivi kohaldamisel tähendab mõiste „laenutamine” arvutiprogrammi või selle koopia kasutada andmist piiratud ajaks ja kasu saamise eesmärgil. Nimetatud termin ei hõlma avalikku laenutamist, mis jääb väljapoole käesoleva direktiivi reguleerimisala.
+
+(13) | Autori ainuõigusel takistada tema töö loata reprodutseerimist peaksid olema arvutiprogrammide puhul piiratud erandid, mis võimaldaksid kõnealuse programmi õiguslikult omandanud isikul teostada selle kasutamiseks tehniliselt vajalikku reprodutseerimist. See tähendab, et õiguspäraselt omandatud programmi koopia kasutamiseks vajalikku laadimist ja käivitamist ning programmi vigade parandamist ei või lepinguga keelata. Konkreetsete lepingusätete puudumise korral, kaasa arvatud juhul, kui müüdud on programmi koopia, võib kõnealuse koopia õiguspäraselt omandanud isik teostada muid koopia või programmi kasutamiseks vajalikke toiminguid vastavalt programmi kavandatud otstarbele.
+
+(14) | Kui isikul on õigus kasutada arvutiprogrammi, ei tohiks teda takistada teostamast toiminguid, mis on vajalikud selleks, et jälgida, uurida või katsetada programmi toimimist, tingimusel et sellised toimingud ei piira programmi autoriõigust.
+
+(15) | Arvutiprogrammi koodi kuju loata reprodutseerimise, tõlkimise, kohandamise või muutmise puhul on tegemist autori ainuõiguste rikkumisega. Sellest hoolimata võib tekkida olukord, mille puhul on koodi reprodutseerimine ja selle vormi tõlkimine vältimatu, et saada teavet, mis on vajalik sõltumatult loodud programmi ja teiste programmide koostalitlusvõime saavutamiseks. Seepärast tuleb võtta arvesse, et reprodutseerimine ja tõlkimine programmi koopia kasutamise õigust omava isiku poolt või tema nimel on õiguspärane ja kooskõlas õiglase tavaga ainult neil piiritletud juhtudel ja seega ei ole selleks vaja õiguste omaniku luba. Sellise erandi eesmärk on võimaldada ühendada kõik arvutisüsteemi komponendid, sealhulgas need, mille on valmistanud eri tootjad, et nad saaksid koos funktsioneerida. Sellist erandit autori ainuõigustest ei või kasutada viisil, mis kahjustaks õiguste omaniku õigustatud huve või oleks vastuolus programmi tavapärase kasutamisega.
+
+(16) | Autoriõiguse alusel arvutiprogrammidele antav kaitse ei piira vajaduse korral muude kaitse liikide kohaldamist. Kõik lepingutingimused, mis on vastuolus käesoleva direktiivi dekompileerimist käsitlevate sätetega või võttes arvesse käesoleva direktiivi sätetes tagavarakoopia tegemise või programmi funktsioneerimise jälgimise, uurimise ja katsetamise kohta sätestatud eranditega, peaksid siiski olema õigustühised.
+
+(17) | Käesoleva direktiivi sätted ei piira konkurentsieeskirjade kohaldamist asutamislepingu artiklite 81 ja 82 alusel, kui valitsevat positsiooni omav tarnija keeldub andmast informatsiooni, mis on vajalik käesolevas direktiivis määratletud koostalitlusvõime jaoks.
+
+(18) | Käesoleva direktiivi sätted ei tohiks piirata juba jõustatud ühenduse õigusaktides sätestatud erinõuete kohaldamist liideste avaldamise suhtes telekommunikatsioonisektoris ega infotehnoloogiat ja telekommunikatsiooni valdkonna standardimist käsitlevate nõukogu otsuste kohaldamist.
+
+(19) | Käesolev direktiiv ei mõjuta Berni konventsiooni kohaselt siseriiklikes õigusaktides sätestatud erandeid küsimustes, mida käesolev direktiiv ei reguleeri.
+
+(20) | Käesolev direktiiv ei mõjuta liikmesriikide kohustusi, mis on seotud I lisa B osas esitatud direktiivide ülevõtmise tähtpäevadega,
+
+ON VASTU VÕTNUD KÄESOLEVA DIREKTIIVI:
+
+Artikkel 1
+Kaitse eesmärk
+1. Vastavalt käesoleva direktiivi sätetele kaitsevad liikmesriigid arvutiprogramme autoriõigusega kui kirjandusteoseid Berni kirjandus- ja kunstiteoste kaitse konventsiooni tähenduses. Käesoleva direktiivi kohaldamisel hõlmab termin „arvutiprogrammid” nende väljatöötamisele eelnevaid materjale.
+2. Käesoleva direktiivi kohast kaitset kohaldatakse arvutiprogrammi kõigi avaldumisvormide suhtes. Arvutiprogrammi kõigi elementide, sealhulgas selle liideste aluseks olevad ideed ja põhimõtted ei ole kaitstud autoriõigusega käesoleva direktiivi alusel.
+3. Arvutiprogramm on kaitstud, kui see on algupärane selles mõttes, et tegemist on autori enda intellektuaalse loominguga. Kaitse kohaldamise otsuse tegemisel ei kohaldata muid kriteeriume.
+4. Käesoleva direktiivi sätteid kohaldatakse ka enne 1. jaanuari 1993 loodud programmide suhtes, ilma et see piiraks enne nimetatud kuupäeva sooritatud toiminguid või omandatud õigusi.
+
+Artikkel 2
+Arvutiprogrammide autorsus
+1. Arvutiprogrammi autor on programmi loonud füüsiline isik või füüsiliste isikute rühm või, kui liikmesriigi õigusaktid seda lubavad, selliste õigusaktidega õiguste omanikuks määratud juriidiline isik.
+Kui liikmesriigi õigusaktid tunnistavad kollektiivseid teoseid, käsitatakse teose autorina isikut, keda peetakse liikmesriigi õigusaktide kohaselt selle teose loojaks.
+2. Kui arvutiprogrammi on loonud füüsiliste isikute rühm ühiselt, kuuluvad ainuõigused asjaomaste isikute ühisomandisse.
+3. Kui arvutiprogrammi on loonud töötaja oma tööülesannete täitmise käigus või tööandja juhtnööre järgides, on tööandjal ainuõigus kasutada kõiki selliselt loodud programmiga seotud majanduslikke õigusi, kui lepingus ei ole sätestatud teisiti.
+
+Artikkel 3
+Isikud, kellel on õigus kaitsele
+Kaitse tagatakse kõigile füüsilistele ja juriidilistele isikutele, kellel on selleks õigus kirjandusteoste suhtes kohaldatavate siseriiklike autoriõigusalaste õigusaktide alusel.
+
+Artikkel 4
+Piiratud toimingud
+1. Arvestades artiklite 5 ja 6 sätteid, hõlmavad õiguste omaniku ainuõigused artikli 2 tähenduses õigust teostada või keelata järgmisi toiminguid:
+a) | arvutiprogrammi osaline või täielik ajutine või alaline reprodutseerimine mis tahes vahendite abil ja mis tahes vormis. Kui selline reprodutseerimine on vajalik arvutiprogrammi laadimiseks, kuvamiseks, käivitamiseks, edastamiseks või salvestamiseks, on nendeks toiminguteks vaja õiguste omaniku luba;
+b) | arvutiprogrammide tõlkimine, kohandamine, korrastamine või muul moel muutmine ja nende toimingute tulemuste reprodutseerimine, ilma et see piiraks programmi muutva isiku õigusi;
+c) | algupärase arvutiprogrammi või selle koopiate igasugune avalik levitamine, sealhulgas laenutamine.
+2. Programmi koopia esmamüük ühenduses õiguse valdaja poolt või tema nõusolekul ammendab kõnealuse koopia levitamisõiguse ühenduses, välja arvatud õiguse kontrollida programmi või selle koopia edasist laenutamist.
+
+Artikkel 5
+Erandid piiratud toimingutest
+1. Konkreetsete lepingutingimuste puudumisel ei ole artikli 4 lõike 1 punktides a ja b osutatud toiminguteks vaja õiguste omaniku luba, kui sellised toimingud on vajalikud selleks, et arvutiprogrammi õiguspäraselt omandanud isik saaks seda vastavalt selle otstarbele kasutada, kaasa arvatud selle vigade parandamiseks.
+2. Arvutiprogrammi kasutamise õigust omavat isikut ei tohi lepinguga takistada tagavarakoopiat tegemast, kui see on vajalik kõnealuse programmi kasutamiseks.
+3. Isikul, kellel on õigus kasutada arvutiprogrammi koopiat, on õigus ilma õiguste omaniku loata jälgida, uurida ja katsetada programmi funktsioneerimist, et teha kindlaks programmi elementide aluseks olevad ideed ja põhimõtted, kui ta teeb seda selliste programmi laadimise, kuvamise, käivitamise, edastamise või salvestamise toimingute käigus, mille teostamise õigus tal on.
+
+Artikkel 6
+Dekompileerimine
+1. Õiguste omaniku luba ei nõuta, kui koodi reprodutseerimine ja selle vormi tõlkimine artikli 4 lõike 1 punktide a ja b tähenduses on vältimatu, et saada teavet, mis on vajalik sõltumatult loodud programmi ja teiste programmide koostalitlusvõime saavutamiseks eeldusel, et täidetud on järgmised tingimused:
+a) | neid toiminguid teostab litsentsisaaja või mõni muu isik, kellel on õigus kasutada programmi koopiat, või seda teeb nende nimel vastavat luba omav isik;
+b) | koostalitlusvõime saavutamiseks vajalik teave ei olnud punktis a nimetatud isikutele varem vabalt kättesaadav ja
+c) | selliste toimingute puhul piirdutakse selliste algupärase programmi osadega, mis on koostalitlusvõime saavutamiseks vajalikud.
+2. Lõike 1 sätete kohaldamisel saadud teavet ei või nimetatud sätete kohaselt:
+a) | kasutada muul otstarbel kui sõltumatult loodud arvutiprogrammi koostalitlusvõime saavutamiseks;
+b) | anda teistele, kui see ei ole vajalik sõltumatult loodud arvutiprogrammi koostalitlusvõime saavutamiseks, ega
+c) | kasutada oma väljundilt märkimisväärselt sarnase arvutiprogrammi väljatöötamiseks, tootmiseks või turustamiseks ega muudeks autoriõigusi rikkuvateks toiminguteks.
+3. Vastavalt Berni kirjandus- ja kunstiteoste kaitse konventsiooni sätetele ei või käesoleva artikli sätteid tõlgendada viisil, mis võimaldaks seda kohaldada nii, et see kahjustaks põhjendamatult õiguste omaniku õigustatud huve või oleks vastuolus arvutiprogrammi tavapärase kasutamisega.
+
+Artikkel 7
+Kaitse erisätted
+1. Ilma et see piiraks artiklite 4, 5 ja 6 sätete kohaldamist, näevad liikmesriigid oma siseriiklike õigusaktide kohaselt ette vajalikud abinõud, mida võtta isikute suhtes, kes on sooritanud järgmisi toiminguid:
+a) | sellise arvutiprogrammi koopia ringlusse laskmine, mille kohta on teada või on alust uskuda, et tegemist on piraatkoopiaga;
+b) | sellise arvutiprogrammi koopia valdamine kaubanduslikel eesmärkidel, mille kohta on teada või on alust uskuda, et tegemist on piraatkoopiaga;
+c) | selliste vahendite ringlusse laskmine või valdamine kaubanduslikel eesmärkidel, mille ainus kavandatud otstarve on soodustada arvutiprogrammi kaitsmiseks kasutatud tehniliste vahendite loata kõrvaldamist või nendest kõrvalehoidmist.
+2. Kõik arvutiprogrammi piraatkoopiad konfiskeeritakse kooskõlas asjaomase liikmesriigi õigusaktidega.
+3. Liikmesriigid võivad ette näha ka kõigi lõike 1 punktis c osutatud vahendite konfiskeerimise.
+
+Artikkel 8
+Muude sätete edasine kohaldamine
+Käesoleva direktiivi sätted ei piira muude õigusaktide sätete, näiteks patendiõigust, kaubamärke, kõlvatut konkurentsi, ametisaladusi, pooljuhttoodete kaitset ja lepinguõigust käsitlevate sätete kohaldamist.
+Kõik lepingutingimused, mis on vastuolus artikliga 6 või artikli 5 lõigetes 2 ja 3 sätestatud eranditega, on õigustühised.
+
+Artikkel 9
+Teavitamine
+Liikmesriigid edastavad komisjonile käesoleva direktiiviga reguleeritavas valdkonnas nende poolt vastu võetud siseriiklike õigusnormide teksti.
+
+Artikkel 10
+Kehtetuks tunnistamine
+Direktiiv 91/250/EMÜ, mida on muudetud I lisa A osas nimetatud direktiiviga, tunnistatakse kehtetuks; see ei piira liikmesriikide kohustusi, mis on seotud I lisa B osas esitatud direktiivide siseriiklikku õigusesse ülevõtmise tähtpäevadega.
+Viiteid kehtetuks tunnistatud direktiivile käsitatakse viidetena käesolevale direktiivile ning neid loetakse vastavalt II lisas esitatud vastavustabelile.
+
+Artikkel 11
+Jõustumine
+Käesolev direktiiv jõustub kahekümnendal päeval pärast selle avaldamist Euroopa Liidu Teatajas .
+
+Artikkel 12
+Adressaadid
+Käesolev direktiiv on adresseeritud liikmesriikidele.
+
+Strasbourg, 23. aprill 2009
+Euroopa Parlamendi nimel
+president
+H.-G. PÖTTERING
+Nõukogu nimel
+eesistuja
+P. NEČAS
+( 1 ) ELT C 204, 9.8.2008, lk 24 .
+( 2 ) Euroopa Parlamendi 17. juuni 2008. aasta arvamus ( Euroopa Liidu Teatajas seni avaldamata) ja nõukogu 23. märtsi 2009. aasta otsus.
+( 3 ) EÜT L 122, 17.5.1991, lk 42 .
+( 4 ) Vt I lisa A osa.
+
+I LISA
+A OSA
+Kehtetuks tunnistatud direktiiv koos muudatustega
+(osutatud artiklis 10)
+Nõukogu direktiiv 91/250/EMÜ ( EÜT L 122, 17.5.1991, lk 42 ) | 
+Nõukogu direktiiv 93/98/EMÜ ( EÜT L 290, 24.11.1993, lk 9 ) | Ainult artikli 11 lõige 1
+B OSA
+Siseriiklikku õigusesse ülevõtmise tähtpäevad
+(osutatud artiklis 10)
+Direktiiv | Ülevõtmise tähtpäev
+91/250/EMÜ | 31. detsember 1992
+93/98/EMÜ | 30. juuni 1995
+
+II LISA
+Vastavustabel
+Direktiiv 91/250/EMÜ | Käesolev direktiiv
+Artikli 1 lõiked 1, 2 ja 3 | Artikli 1 lõiked 1, 2 ja 3
+Artikli 2 lõike 1 esimene lause | Artikli 2 lõike 1 esimene lõik
+Artikli 2 lõike 1 teine lause | Artikli 2 lõike 1 teine lõik
+Artikli 2 lõiked 2 ja 3 | Artikli 2 lõiked 2 ja 3
+Artikkel 3 | Artikkel 3
+Artikli 4 sissejuhatus | Artikli 4 lõike 1 sissejuhatus
+Artikli 4 punkt a | Artikli 4 lõike 1 punkt a
+Artikli 4 punkt b | Artikli 4 lõike 1 punkt b
+Artikli 4 punkti c esimene lause | Artikli 4 lõike 1 punkt c
+Artikli 4 punkti c teine lause | Artikli 4 lõige 2
+Artiklid 5, 6 ja 7 | Artiklid 5, 6 ja 7
+Artikli 9 lõike 1 esimene lause | Artikli 8 esimene lõik
+Artikli 9 lõike 1 teine lause | Artikli 8 teine lõik
+Artikli 9 lõige 2 | Artikli 1 lõige 4
+Artikli 10 lõige 1 | –
+Artikli 10 lõige 2 | Artikkel 9
+– | Artikkel 10
+– | Artikkel 11
+Artikkel 11 | Artikkel 12
+– | I lisa
+– | II lisa

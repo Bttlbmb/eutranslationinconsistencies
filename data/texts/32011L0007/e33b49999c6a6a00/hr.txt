@@ -1,0 +1,292 @@
+DIREKTIVA 2011/7/EU EUROPSKOG PARLAMENTA I VIJEĆA
+od 16. veljače 2011.
+o borbi protiv kašnjenja u plaćanju u poslovnim transakcijama
+(preinačena)
+(Tekst značajan za EGP)
+EUROPSKI PARLAMENT I VIJEĆE EUROPSKE UNIJE,
+uzimajući u obzir Ugovor o funkcioniranju Europske unije, a posebno njegov članak 114.,
+uzimajući u obzir prijedlog Europske komisije,
+uzimajući u obzir mišljenje Europskoga gospodarskog i socijalnog odbora ( 1 ) ,
+u skladu s redovnim zakonodavnim postupkom ( 2 ) ,
+budući da:
+
+(1) | Potrebno je učiniti niz suštinskih promjena u Direktivi 2000/35/EZ Europskog parlamenta i Vijeća od 29. lipnja 2000. o borbi protiv kašnjenja u plaćanju u poslovnim transakcijama ( 3 ) . Poželjno je da zbog jasnoće i racionalizacije predmetne odredbe budu preinačene.
+
+(2) | Većinu robe i usluga na unutarnjem tržištu pružaju gospodarski subjekti drugim gospodarskim subjektima i javnim tijelima na temelju odgode plaćanja, pri čemu dobavljač korisniku daje vrijeme za plaćanje računa, prema dogovoru među strankama, na način utvrđen u računu dobavljača odnosno utvrđen zakonom.
+
+(3) | Mnoga plaćanja u poslovnim transakcijama među gospodarskim subjektima odnosno između gospodarskih subjekata i javnih tijela uslijede kasnije nego što je određeno ugovorom, odnosno, utvrđeno općim komercijalnim uvjetima. Iako je roba isporučena, odnosno, usluge pružene, mnogi ispostavljeni računi plaćaju se znatno nakon roka. Takva zakašnjela plaćanja negativno utječu na likvidnost i otežavaju financijsko upravljanje poduzeća. Ona također utječu na njihovu konkurentnost i profitabilnost u slučaju kad vjerovnik treba pribaviti vanjsko financiranje zbog zakašnjelog plaćanja. Rizik takvih negativnih učinaka znatno je jači u razdobljima gospodarskog pada kad pristup financiranju postaje teži.
+
+(4) | Sudska potraživanja vezana uz zakašnjela plaćanja već su olakšana Uredbom Vijeća (EZ) br. 44/2001 od 22. prosinca 2000. o nadležnosti, priznavanju i izvršenju sudskih odluka u građanskim i trgovačkim stvarima ( 4 ) , Uredbom (EZ) br. 805/2004 Europskog parlamenta i Vijeća od 21. travnja 2004. o uvođenju europskog naloga za izvršenje za nesporne tražbine ( 5 ) , Uredbom (EZ) br. 1896/2006 Europskog parlamenta i Vijeća od 12. prosinca 2006. o uvođenju postupka za europski platni nalog ( 6 ) i Uredbom (EZ) br. 861/2007 Europskog parlamenta i Vijeća od 11. srpnja 2007. o uvođenju europskog postupka za potraživanja male vrijednosti ( 7 ) . Međutim, s ciljem suzbijanja kašnjenja plaćanja u poslovnim transakcijama potrebno je utvrditi dodatne odredbe.
+
+(5) | Poduzeća bi trebala moći trgovati diljem unutarnjeg tržišta pod uvjetima kojima se osigurava da prekogranično poslovanje ne izaziva veće rizike od domaćeg poslovanja. Ako bi za domaće i prekogranično poslovanje vrijedila znatno drukčija pravila, došlo bi do narušavanja tržišnog natjecanja.
+
+(6) | U svojoj Komunikaciji od 25. lipnja 2008. naslovljenoj „‚Razmišljajmo prvo o malima’ – Akt o malim poduzećima’ za Europu” Komisija je naglasila da je potrebno olakšati pristup financiranju za mala i srednja poduzeća i razviti pravno i poslovno okruženje koje bi poticalo pravovremena plaćanja u poslovnim transakcijama. Potrebno je napomenuti da tijela javne vlasti u tom smislu imaju posebnu odgovornost. Kriteriji definiranja malih i srednjih poduzeća utvrđeni su u Preporuci Komisije 2003/361/EZ od 6. svibnja 2003. o definiciji mikro, malih i srednjih poduzeća ( 8 ) .
+
+(7) | Jedan od prioriteta iz Komunikacije Komisije od 26. studenog 2008. naslovljene „Plan europskoga gospodarskog oporavka” jest smanjenje administrativnog opterećenja i promicanje poduzetništva kroz, između ostalog, osiguravanje da računi za robe i usluge, uključujući one malim i srednjim poduzećima, u načelu budu plaćeni unutar mjesec dana radi smanjenja ograničenja likvidnosti.
+
+(8) | Područje primjene ove Direktive trebalo bi biti ograničeno na plaćanja koja se izvršavaju kao naknada za poslovne transakcije. Ova Direktiva ne bi trebala uređivati transakcije s potrošačima, kamate vezane uz ostala plaćanja, primjerice plaćanja prema pravu primjenjivom na čekove i mjenice ili plaćanja koja se izvršavaju kao naknada štete uključujući plaćanja osiguravajućih društava. Nadalje, države članice trebale bi moći isključiti dugovanja koja podliježu stečajnim postupcima uključujući postupke čiji je cilj restrukturiranje duga.
+
+(9) | Ova bi Direktiva trebala urediti sve poslovne transakcije bez obzira na to jesu li one izvršene između privatnih ili javnih poduzeća odnosno između poduzeća i tijela javne vlasti, s obzirom na znatan opseg plaćanja tijela javne vlasti prema poduzećima. Ona stoga treba također urediti sve poslovne transakcije između glavnih ugovaratelja i njihovih dobavljača i podugovaratelja.
+
+(10) | Činjenica da su slobodna zanimanja obuhvaćena ovom Direktivom ne obvezuje države članice da ih u svrhe nevezane uz područje primjene ove Direktive smatraju poduzetnicima odnosno trgovcima.
+
+(11) | Isporuka robe i pružanje usluga uz naknadu na koju se primjenjuje ova Direktiva također trebaju uključivati osmišljavanje i izvršavanje javnih i građevinskih radova.
+
+(12) | Zakašnjelo plaćanje predstavlja povredu ugovora koja je zbog niskih kamatnih stopa zaračunatih na zakašnjela plaćanja, odnosno njihovog izostanka, i/ili zbog sporih postupaka naknade štete postala financijski privlačna dužnicima u većini država članica. Odlučan pomak prema kulturi ažurnog plaćanja, u kojoj bi se i isključivanje prava na zaračunavanje kamata uvijek smatralo posebno nepravednim ugovornim uvjetom ili postupanjem, nužan je kako bi se obrnuo ovaj trend i suzbilo zakašnjenje plaćanja. Takav pomak također treba uključivati uvođenje posebnih odredbi o razdobljima plaćanja i o naknađivanju pretrpljenih troškova vjerovnika, kao i odredbe da se, između ostalog, isključivanje prava na naknadu troškova naplate smatra posebno nepravednim.
+
+(13) | U skladu s tim, potrebno je urediti ograničenje ugovornih razdoblja plaćanja poduzeća prema drugom poduzeću, u pravilu na 60 kalendarskih dana. Međutim, mogu se javiti okolnosti u kojima poduzetnici zahtijevaju dulja razdoblja plaćanja, primjerice kada poduzetnici žele odobriti trgovinski kredit svojim klijentima. Stoga bi trebalo ostaviti mogućnost da stranke izričito dogovore razdoblja plaćanja dulja od 60 kalendarskih dana, međutim uz uvjet da takvo produljenje nije vrlo nepravedno prema vjerovniku.
+
+(14) | U interesu dosljednosti zakonodavstva Unije definicija „javnih naručitelja” iz Direktive 2004/17/EZ Europskog parlamenta i Vijeća od 31. ožujka 2004. o usklađivanju postupaka nabave subjekata koji djeluju u sektoru vodnoga gospodarstva, energetskom i prometnom sektoru te sektoru poštanskih usluga ( 9 ) te iz Direktive 2004/18/EZ Europskog parlamenta i Vijeća od 31. ožujka 2004. o usklađivanju postupaka za sklapanje ugovora o javnim radovima, ugovora o javnoj nabavi robe te ugovora o javnim uslugama ( 10 ) treba se primjenjivati za potrebe ove Direktive.
+
+(15) | Zakonska kamata na zakašnjelo plaćanje treba se izračunavati na dnevnoj osnovi kao jednostavna kamata, u skladu s Uredbom (EEZ, Euratom) br. 1182/71 Vijeća od 3. lipnja 1971. o utvrđivanju pravila koja se primjenjuju na razdoblja, datume i rokove ( 11 ) .
+
+(16) | Ova Direktiva ne bi trebala obvezivati vjerovnika na potraživanje kamata za zakašnjelo plaćanje. U slučaju zakašnjelog plaćanja ova bi Direktiva trebala vjerovniku omogućiti da pribjegne zaračunavanju kamata za zakašnjelo plaćanje bez davanja prethodne obavijesti o neispunjenju obveze, ili druge slične obavijesti kojom se dužnika podsjeća na njegovu obvezu plaćanja.
+
+(17) | Dužnikovo plaćanje smatra se zakašnjelim, u smislu prava na kamatu na zakašnjelo plaćanje, ako vjerovnik na datum dospijeća ne raspolaže iznosom duga pod uvjetom da je ispunio svoje zakonske i ugovorne obveze.
+
+(18) | Računi su podloga za zahtjeve za plaćanje i važni su dokumenti u odvijanju transakcija za nabavu roba i usluga, između ostalog, radi određivanja rokova plaćanja. U smislu ove Direktive, države članice trebale bi promicati sustave koji pružaju pravnu sigurnost u pogledu točnog datuma primitka računa kod dužnika, uključujući u području e-računa kod kojeg primitak računa može činiti elektronički dokaz i koji je djelomice uređen odredbama o izdavanju računa sadržanima u Direktivi Vijeća 2006/112/EZ od 28. studenog 2006. o zajedničkom sustavu poreza na dodanu vrijednost ( 12 ) .
+
+(19) | Pravedna naknada vjerovniku za troškove naplate pretrpljene zbog zakašnjelog plaćanja nužna je kako bi se suzbila zakašnjela plaćanja. Troškovi naplate također bi trebali uključivati naplatu administrativnih troškova i naknadu internih troškova pretrpljenih zbog zakašnjelog plaćanja, za koju ova Direktiva treba odrediti fiksan najniži iznos koji se može zbrajati s kamatom na zakašnjelo plaćanje. Naknada u obliku fiksnog iznosa za cilj treba imati ograničavanje administrativnih i internih troškova vezanih uz naplatu. Naknada za troškove naplate treba biti određena ne dovodeći u pitanje nacionalne odredbe prema kojima nacionalni sud može dodijeliti naknadu vjerovniku za svu dodatnu štetu vezanu uz dužnikovo zakašnjelo plaćanje.
+
+(20) | Uz pravo da im se plati fiksan iznos za pokriće internih troškova naplate, vjerovnici bi trebali imati pravo na povrat ostalih troškova naplate koje snose kao rezultat dužnikova zakašnjelog plaćanja. Takvi bi troškovi trebali posebno uključivati troškove koje su vjerovnici pretrpjeli zbog savjetovanja s odvjetnikom ili angažiranja agencije za naplatu dugova.
+
+(21) | Ova Direktiva ne dovodi u pitanje pravo država članica da predvide više fiksne iznose za naknadu troškova naplate koji su stoga povoljniji za vjerovnika, odnosno da povećavaju te iznose, između ostalog, radi usklađivanja s inflacijom.
+
+(22) | Ova Direktiva ne bi trebala sprečavati plaćanja u obrocima odnosno periodična plaćanja. Međutim, svaki obrok odnosno uplata trebali bi biti plaćeni po dogovorenim uvjetima i trebali bi podlijegati pravilima o zakašnjelom plaćanju utvrđenima u ovoj Direktivi.
+
+(23) | U pravilu je za javna tijela pogodno to što su njihovi tijekovi novčanih prihoda sigurniji, predvidljiviji i stalniji u odnosu na poduzeća. Osim toga, mnoga javna tijela mogu doći do financiranja po povoljnijim uvjetima od poduzeća. Istodobno javna tijela u odnosu na poduzeća manje ovise o stvaranju stabilnih poslovnih odnosa radi ostvarenja svojih ciljeva. Duga razdoblja plaćanja i zakašnjela plaćanja javnih tijela za robu i usluge dovode do neopravdanih troškova za poduzeća. Stoga je primjereno uvesti posebna pravila u pogledu poslovnih transakcija u slučaju kad poduzeća isporučuju robu i usluge javnim tijelima, koja bi posebno trebala urediti da razdoblja plaćanja uobičajeno ne prelaze 30 kalendarskih dana, osim ako je drukčije izričito određeno ugovorom, te pod uvjetom da je to objektivno opravdano u svjetlu osobite prirode odnosno obilježja ugovora, a u svakom slučaju ne dulje od 60 kalendarskih dana.
+
+(24) | Međutim, treba voditi računa o specifičnoj situaciji kad javna tijela obavljaju gospodarske aktivnosti industrijske ili komercijalne prirode nuđenjem robe ili usluga na tržištu u svojstvu javnog poduzeća. U tom smislu, državama članicama treba omogućiti da pod određenim uvjetima produlje zakonsko razdoblje plaćanja do najviše 60 kalendarskih dana.
+
+(25) | Poseban razlog za zabrinutost u vezi sa zakašnjelim plaćanjima jest situacija u zdravstvenim uslugama u velikom broju država članica. Zdravstveni sustavi, kao okosnica europske socijalne infrastrukture, često moraju pomiriti pojedinačne potrebe i raspoloživa financijska sredstva dok europska populacija stari, očekivanja rastu i medicina napreduje. Svi se sustavi moraju suočavati s izazovom određivanja prioriteta zdravstvene skrbi na način koji uravnotežuje potrebe pojedinačnih pacijenata s raspoloživim financijskim sredstvima. Državama članicama stoga treba omogućiti da javnim tijelima koja pružaju zdravstvenu skrb osiguraju određeni stupanj fleksibilnosti u podmirenju obveza. U tom smislu, državama članicama treba dozvoliti da pod određenim uvjetima produlje zakonsko razdoblje plaćanja do najviše 60 kalendarskih dana. Države članice ipak trebaju uložiti sve napore kako bi osigurale izvršavanje plaćanja u sektoru zdravstvene skrbi u roku zakonskih razdoblja plaćanja.
+
+(26) | Kako se ne bi ugrozilo postizanje cilja ove Direktive, države članice trebaju osigurati da u poslovnim transakcijama najdulje trajanje postupka prihvata, odnosno provjere, u pravilu ne prelazi 30 kalendarskih dana. Ipak, treba omogućiti da trajanje postupka provjere bude i dulje od 30 kalendarskih dana, primjerice u slučaju posebno složenih ugovora, kad je to izričito predviđeno ugovorom i natječajnom dokumentacijom, te ako to nije posebno nepravedno prema vjerovniku.
+
+(27) | Institucije Unije su u položaju usporedivom s položajem javnih tijela država članica s obzirom na njihovo financiranje i komercijalne odnose. Uredba Vijeća (EZ, Euratom) br. 1605/2002 od 25. lipnja 2002. o Financijskoj uredbi primjenjivoj na opći proračun Europskih zajednica ( 13 ) određuje da provjera, odobrenje i plaćanje izdataka institucija Unije moraju biti dovršeni unutar vremenskih rokova utvrđenih u provedbenim pravilima Uredbe. Ta provedbena pravila trenutačno su utvrđena u Uredbi Komisije (EZ, Euratom) br. 2342/2002 od 23. prosinca 2002. o utvrđivanju detaljnih pravila za provedbu Uredbe Vijeća (EZ, Euratom) br. 1605/2002 o Financijskoj uredbi koja se primjenjuje na opći proračun Europskih zajednica ( 14 ) i ona navode okolnosti u kojima su vjerovnici, kojima je plaćeno sa zakašnjenjem, ovlašteni primiti zateznu kamatu. U kontekstu pokrenute revizije tih Uredbi potrebno je osigurati da najdulja vremenska ograničenja za plaćanja koja izvršavaju institucije Unije budu u skladu sa zakonskim razdobljima primjenjivima na javna tijela prema ovoj Direktivi.
+
+(28) | Ova Direktiva trebala bi zabraniti zlouporabu slobode ugovaranja na štetu vjerovnika. Posljedično, ako ugovorni uvjet ili postupanje vezani uz datum ili razdoblje plaćanja, kamatnu stopu na zakašnjelo plaćanje, odnosno, uz naknadu troškova naplate nisu opravdani na temelju uvjeta koji su odobreni dužniku, odnosno, ako uglavnom služe da bi dužnik pribavio dodatnu likvidnost na trošak vjerovnika, onda se može smatrati da taj uvjet ili postupanje predstavlja takvu zlouporabu. U tom smislu i u skladu s akademskim „Nacrtom zajedničkog referentnog okvira” svi ugovorni uvjeti ili postupanja koji posebno odstupaju od dobre poslovne prakse i suprotni su dobroj vjeri i poštenom poslovanju trebali bi se smatrati nepravednima za vjerovnika. Posebno, otvoreno isključivanje prava na zaračunavanje kamata uvijek treba smatrati posebno nepravednim, dok za isključivanje prava na naknadu za troškove naplate treba vrijediti pretpostavka da je posebno nepravedno. Ova Direktiva ne bi trebala utjecati na nacionalne odredbe koje se tiču načina sklapanja ugovora, odnosno, koje uređuju valjanost ugovornih uvjeta nepravednih prema dužniku.
+
+(29) | U kontekstu pojačanih napora da se spriječi zlouporaba slobode ugovaranja na štetu vjerovnika, organizacije koje su službeno priznate kao predstavnici poduzeća i organizacije koje za to imaju legitiman interes trebale bi se moći obratiti nacionalnim sudovima ili upravnim tijelima s ciljem sprečavanja kontinuirane primjene ugovornih uvjeta ili postupanja koji su posebno nepravedni prema vjerovniku.
+
+(30) | Kako bi doprinijele postizanju cilja ove Direktive države članice trebale bi poticati širenje dobre prakse, između ostalog zalažući se za objavu popisa pravovremenih platiša.
+
+(31) | Poželjno je vjerovnicima osigurati mogućnost da iskoriste odredbu o pridržaju prava vlasništva na nediskriminiratornoj osnovi diljem Unije ako je odredba o pridržaju prava vlasništva valjana prema primjenjivim nacionalnim odredbama koje uređuje međunarodno privatno pravo.
+
+(32) | Ova Direktiva samo definira izraz „izvršni naslov”, no ne bi trebala uređivati različite postupke prisilnog izvršenja takvog prava niti uvjete pod kojima prisilno izvršenje takvog prava može biti zaustavljeno ili obustavljeno.
+
+(33) | Posljedice zakašnjelog plaćanja mogu djelovati odbijajuće samo ako su popraćene postupcima naknade štete koji su brzi i učinkoviti za vjerovnika. U skladu s načelom nediskriminacije utvrđenom u članku 18. Ugovora o funkcioniranju Europske unije, ti bi postupci trebali biti raspoloživi svim vjerovnicima s poslovnim nastanom u Uniji.
+
+(34) | Kako bi olakšale usklađivanje s odredbama ove Direktive, države članice trebale bi poticati pribjegavanje mirenju ili drugim načinima alternativnog rješavanja spora. Uredba 2008/52/EZ Europskog parlamenta i Vijeća od 21. svibnja 2008. o određenim aspektima mirenja u građanskim i trgovačkim stvarima ( 15 ) već postavlja okvir za sustave mirenja na razini Unije, posebno za prekogranične sporove, a da pri tom ne sprečava njegovu primjenu na interne sustave mirenja. Države članice također bi trebale poticati zainteresirane strane da sastave dobrovoljne kodekse ponašanja s ciljem da, posebno, doprinesu provedbi ove Direktive.
+
+(35) | Potrebno je osigurati da postupci naplate za nesporna potraživanja u poslovnim transakcijama budu dovršeni u kratkom vremenskom roku, što uključuje ubrzan postupak i ne ovisi o iznosu duga.
+
+(36) | S obzirom da cilj ove Direktive, borbu protiv kašnjenja u plaćanju na unutarnjem tržištu, ne mogu dostatno ostvariti države članice, nego ih se može, zbog svog opsega i učinka, na bolji način ostvariti na razini Unije, Unija može donijeti mjere u skladu s načelom supsidijarnosti definiranom u članku 5. Ugovora o Europskoj uniji. U skladu s načelom proporcionalnosti utvrđenom u tom članku ova Direktiva ne prelazi ono što je potrebno za ostvarivanje tog cilja.
+
+(37) | Obvezu prenošenja ove Direktive u nacionalno pravo potrebno je ograničiti na one odredbe koje predstavljaju suštinsku promjenu u odnosu na Direktivu 2000/35/EZ. Obveza prenošenja odredbi koje su nepromijenjene proizlazi iz te Direktive.
+
+(38) | Ova Direktiva ne bi trebala dovoditi u pitanje obveze država članica vezane uz vremenske rokove prenošenja Direktive 2005/35/EZ u nacionalno pravo i njezinu primjenu.
+
+(39) | U skladu s točkom 34. Međuinstitucionalnog sporazuma o boljem zakonodavstvu ( 16 ) države članice se potiču da za sebe i u interesu Unije sastave vlastite tablice koje će u najvećoj mogućoj mjeri prikazati vezu između ove Direktive i mjera za njihovo prenošenje, kao i da te tablice objave,
+DONIJELI SU OVU DIREKTIVU:
+
+Članak 1.
+Predmet i područje primjene
+1. Cilj je ove Direktive suzbijanje zakašnjelih plaćanja u poslovnim transakcijama, da bi se osiguralo uredno funkcioniranje unutarnjeg tržišta i time potaknula konkurentnost poduzeća, posebno malih i srednjih.
+2. Ova se Direktiva primjenjuje na sva plaćanja koja se izvršavaju kao naknada za poslovnu transakciju.
+3. Države članice mogu isključiti dugove koji podliježu stečajnim postupcima pokrenutim protiv dužnika, uključujući postupke s ciljem restrukturiranja duga.
+
+Članak 2.
+Definicije
+U smislu ove Direktive primjenjuju se sljedeće definicije:
+1. | „poslovne transakcije” znači transakcije između poduzeća ili između poduzeća i javnih tijela koje vode do isporuke robe, odnosno pružanja usluga, uz naknadu;
+2. | „javno tijelo” znači svaki javni naručitelj, definiran u točki (a) članka 2. stavka 1. Direktive 2004/17/EZ i u članku 1. stavku 9. Direktive 2004/18/EZ, bez obzira na predmet ili vrijednost ugovora;
+3. | „poduzeće” znači svaku organizaciju, osim javnog tijela, koja poduzima neovisnu gospodarsku ili profesionalnu aktivnost, pa i ako tu aktivnost provodi jedna osoba;
+4. | „zakašnjelo plaćanje” znači plaćanje koje nije izvršeno unutar ugovornog ili zakonskog razdoblja plaćanja, pri čemu su zadovoljeni uvjeti utvrđeni u članku 3. stavku 1. odnosno članku 4. stavku 1;
+5. | „kamata na zakašnjelo plaćanje” znači zakonska kamata na zakašnjelo plaćanje, odnosno kamata po stopi dogovorenoj među poduzećima, pridržavajući se članka 7;
+6. | „zakonska kamata na zakašnjelo plaćanje” znači jednostavna kamata na zakašnjelo plaćanje po stopi koja je jednaka zbroju referentne stope i barem osam postotnih bodova;
+7. | „referentna stopa” znači bilo koja od sljedećih stopa: (a) za državu članicu čija je valuta euro: i. kamatna stopa koju je Europska središnja banka primijenila na svoje posljednje glavne operacije refinanciranja; ili ii. granična kamatna stopa proizašla iz natječajnih postupaka za varijabilnu stopu za posljednje glavne operacije refinanciranja Europske središnje banke; (b) za državu članicu čija valuta nije euro, odgovarajuća stopa koju odredi njezina nacionalna središnja banka;
+8. | „dospjeli iznos” znači glavni iznos koji je trebao biti plaćen unutar ugovornog ili zakonskog razdoblja plaćanja, uključujući primjenjive poreze, davanja, pristojbe i naknade navedene u računu ili odgovarajućem zahtjevu za plaćanje;
+9. | „pridržaj prava vlasništva” znači ugovorna pogodba prema kojoj prodavatelj pridržava pravo vlasništva nad predmetnom robom dok cijena ne bude plaćena u cijelosti;
+10. | „izvršni naslov” znači sve odluke, presude ili zahtjeve za plaćanje koje izdaje sud ili drugo nadležno tijelo, uključujući one koji su privremeno izvršni bilo za neposredno plaćanje ili plaćanje u obrocima, a koji vjerovniku omogućuju da naplati svoje potraživanje prema dužniku putem prisilnog izvršenja.
+
+Članak 3.
+Transakcije između poduzeća
+1. Države članice osiguravaju da u poslovnim transakcijama između poduzeća vjerovnik ima pravo na kamatu na zakašnjelo plaćanje bez potrebe izdavanja požurnice, ako su zadovoljeni sljedeći uvjeti:
+(a) | vjerovnik je ispunio svoje ugovorne i pravne obveze; i
+(b) | vjerovnik nije primio dospjeli iznos na vrijeme, osim ako dužnik nije odgovoran za kašnjenje.
+2. Države članice osiguravaju da primjenjiva referentna stopa:
+(a) | za prvo polugodište predmetne godine bude stopa koja je na snazi 1. siječnja te godine;
+(b) | za drugo polugodište predmetne godine bude stopa koja je na snazi 1. srpnja te godine.
+3. Ako su uvjeti navedeni u stavku 1. zadovoljeni, države članice osiguravaju sljedeće:
+(a) | da vjerovnik ima pravo na kamatu na zakašnjelo plaćanje od dana nakon datuma plaćanja, odnosno, završetka razdoblja plaćanja utvrđenog u ugovoru;
+(b) | ako datum plaćanja, odnosno, razdoblje plaćanja nije utvrđeno u ugovoru, da vjerovnik ima pravo na kamatu na zakašnjelo plaćanje nakon isteka nekog od sljedećih vremenskih rokova: i. 30 kalendarskih dana nakon datuma na koji je dužnik primio račun ili odgovarajući zahtjev za plaćanje; ii. ako je datum primitka računa ili odgovarajućeg zahtjeva za plaćanje nepoznat, 30 kalendarskih dana nakon datuma primitka robe ili usluga; iii. ako dužnik primi račun ili odgovarajući zahtjev za plaćanje prije primitka robe ili usluga, 30 kalendarskih dana nakon datuma primitka robe ili usluga; iv. ako je postupak prihvata, odnosno, provjere kojom se potvrđuje sukladnost robe ili usluga s ugovorom, predviđen zakonom ili ugovorom te ako dužnik primi račun, odnosno, odgovarajući zahtjev za plaćanje prije ili na datum na koji se odvija takav prihvat, odnosno provjera, rok je 30 kalendarskih dana nakon tog datuma.
+4. Ako je predviđen postupak prihvata, odnosno provjere, kojom se potvrđuje sukladnost robe ili usluga s ugovorom, države članice osiguravaju da najdulje trajanje tog postupka ne prijeđe 30 kalendarskih dana od datuma primitka robe ili usluga, osim ako je drukčije izričito određeno ugovorom, te uz uvjet da to nije posebno nepravedno prema vjerovniku u smislu članka 7.
+5. Države članice osiguravaju da razdoblje plaćanja utvrđeno u ugovoru ne bude dulje od 60 kalendarskih dana, osim ako je što drugo izričito ugovoreno, te uz uvjet da to nije posebno nepravedno prema vjerovniku u smislu članka 7.
+
+Članak 4.
+Transakcije između poduzeća i javnih tijela
+1. Države članice osiguravaju da u poslovnim transakcijama u kojima je dužnik javno tijelo vjerovnik nakon isteka razdoblja utvrđenog u stavcima 3., 4. ili 6. ima pravo na zakonsku kamatu na zakašnjelo plaćanje, bez potrebe izdavanja požurnice, pri čemu su zadovoljeni sljedeći uvjeti:
+(a) | vjerovnik je ispunio svoje ugovorne i pravne obveze; i
+(b) | vjerovnik nije primio dospjeli iznos na vrijeme, osim ako dužnik nije odgovoran za kašnjenje.
+2. Države članice osiguravaju da primjenjiva referentna stopa:
+(a) | za prvo polugodište predmetne godine bude stopa koja je na snazi 1. siječnja te godine;
+(b) | za drugo polugodište predmetne godine bude stopa koja je na snazi 1. srpnja te godine.
+3. Države članice osiguravaju da u poslovnim transakcijama u kojima je dužnik javno tijelo:
+(a) | razdoblje plaćanja ne prijeđe neki od sljedećih vremenskih rokova: i. 30 kalendarskih dana nakon datuma na koji je dužnik primio račun, odnosno, odgovarajući zahtjev za plaćanje; ii. ako je datum primitka računa, odnosno, odgovarajućeg zahtjeva za plaćanje nepoznat, 30 kalendarskih dana nakon datuma primitka robe ili usluga; iii. ako dužnik primi račun, odnosno odgovarajući zahtjev za plaćanje, prije primitka robe ili usluga, 30 kalendarskih dana nakon datuma primitka robe ili usluga; iv. ako je postupak prihvata, odnosno, provjere kojom se potvrđuje sukladnost robe ili usluga s ugovorom, predviđen zakonom ili ugovorom te ako dužnik primi račun, odnosno, odgovarajući zahtjev za plaćanje prije ili na datum na koji se odvija takav prihvat, odnosno provjera, rok je 30 kalendarskih dana nakon tog datuma.
+(b) | datum primitka računa ne određuje se ugovorom između dužnika i vjerovnika.
+4. Države članice mogu produljiti vremenske rokove navedene u točki (a) stavka 3. do najviše 60 kalendarskih dana za:
+(a) | svako javno tijelo koje obavlja gospodarske aktivnosti industrijske ili komercijalne prirode nuđenjem robe ili usluga na tržištu i koje u svojstvu javnog poduzeća podliježe uvjetima transparentnosti utvrđenima u Direktivi Komisije 2006/111/EZ od 16. studenog 2006. o transparentnosti financijskih odnosa između država članica i javnih poduzeća, kao i o financijskoj transparentnosti unutar određenih poduzeća ( 17 ) ;
+(b) | javne subjekte koji pružaju zdravstvenu skrb i u tom su smislu uredno priznati.
+Ako država članica odluči produljiti vremenske rokove u skladu s ovim stavkom, o takvom produljenju šalje izvješće Komisiji do 16. ožujka 2018.
+Temeljem toga, Komisija podnosi izvješće Europskom parlamentu i Vijeću navodeći koje države članice su produljile vremenske rokove u skladu s ovim stavkom te vodeći računa o učinku na funkcioniranje unutarnjeg tržišta, posebno na mala i srednja poduzeća. Izvješće trebaju pratiti odgovarajući prijedlozi.
+5. Države članice osiguravaju da najdulje trajanje postupka prihvata, odnosno provjere, navedenog u stavku 3. točki (a) podtočki iv. ne prijeđe 30 kalendarskih dana od datuma primitka robe ili usluga, osim ako je drukčije izričito određeno ugovorom ili natječajnom dokumentacijom, te uz uvjet da to nije posebno nepravedno prema vjerovniku u smislu članka 7.
+6. Države članice osiguravaju da razdoblje plaćanja utvrđeno u ugovoru ne bude dulje od vremenskih rokova predviđenih u stavku 3., osim ako je drukčije izričito određeno ugovorom te pod uvjetom da je to objektivno opravdano u svjetlu osobite prirode odnosno obilježja ugovora, a u svakom slučaju ne dulje od 60 kalendarskih dana.
+
+Članak 5.
+Vremenski raspored plaćanja
+Ova Direktiva ne dovodi u pitanje mogućnost da stranke, ovisno o mjerodavnim odredbama primjenjivog nacionalnog prava, dogovore vremenski raspored plaćanja koji predviđa plaćanje u obrocima. U takvim slučajevima, ako neki od obroka nije plaćen do dogovorenog datuma, kamata i naknada koje su predviđene u ovoj Direktivi izračunavaju se isključivo na temelju dospjelih iznosa.
+
+Članak 6.
+Naknada za troškove naplate
+1. Države članice osiguravaju da u slučajevima kad se zaračuna kamata na zakašnjelo plaćanje u poslovnim transakcijama u skladu s člankom 3. ili 4. vjerovnik ima pravo dobiti od dužnika fiksni iznos od najmanje 40 eura.
+2. Države članice osiguravaju da fiksni iznos iz stavka 1. bude potraživan bez potrebe slanja požurnice, kao naknada za vjerovnikove vlastite troškove naplate.
+3. Vjerovnik uz fiksni iznos naveden u stavku 1. ima i pravo od dužnika dobiti razumnu naknadu za sve troškove naplate koji prelaze taj fiksni iznos i pretrpljeni su zbog dužnikova zakašnjelog plaćanja. To može uključivati troškove koji su pretrpljeni zbog, između ostalog, savjetovanja s odvjetnikom ili angažiranja agencije za naplatu dugova.
+
+Članak 7.
+Nepravedni ugovorni uvjeti ili postupanja
+1. Države članice osiguravaju da ugovorni uvjet ili postupanje, vezani uz datum ili razdoblje plaćanja, kamatnu stopu na zakašnjelo plaćanje, odnosno, uz naknadu za troškove naplate, budu ili neizvršivi ili upotrijebljeni kao podloga za zahtjev za naknadu štete ako su posebno nepravedni prema vjerovniku.
+Pri određivanju je li ugovorni uvjet ili postupanje posebno nepravedno prema vjerovniku u smislu prvog podstavka razmatraju se sve okolnosti slučaja, uključujući:
+(a) | svako posebno odstupanje od dobre poslovne prakse, suprotno dobroj vjeri i poštenom poslovanju;
+(b) | prirodu proizvoda ili usluge; i
+(c) | pitanje ima li dužnik neki opravdan razlog odstupati od zakonske kamatne stope na zakašnjelo plaćanje, od razdoblja plaćanja navedenog u članku 3. stavku 5., u članku 4. stavku 3. točki (a), u članku 4. stavku 4. i članku 4. stavku 6., odnosno od fiksnog iznosa iz članka 6. stavka 1.
+2. U smislu stavka 1., ugovorni uvjet ili postupanje koje isključuje kamate na zakašnjelo plaćanje smatra se posebno nepravednim.
+3. U smislu stavka 1., za ugovorni uvjet ili postupanje koje isključuje naknadu za troškove naplate, kao što je navedeno u članku 6., pretpostavlja se da je posebno nepravedno.
+4. Države članice osiguravaju, u interesu vjerovnika i konkurenata, postojanje primjerenih i učinkovitih načina sprečavanja kontinuirane primjene ugovornih uvjeta ili postupanja koji su posebno nepravedni u smislu stavka 1.
+5. Načini iz stavka 4. uključuju odredbe prema kojima se organizacije koje su službeno priznate kao predstavnici poduzeća odnosno organizacije koje za to imaju legitiman interes mogu prema primjenjivom nacionalnom pravu obratiti nacionalnim sudovima ili nadležnim upravnim tijelima zbog toga što su ugovorni uvjeti ili postupanja posebno nepravedni u smislu stavka 1., tako da ta tijela mogu primijeniti prikladne i učinkovite načine sprečavanja njihove kontinuirane uporabe.
+
+Članak 8.
+Transparentnost i dizanje svijesti
+1. Države članice osiguravaju transparentnost u pogledu prava i obveza koji proizlaze iz ove Direktive, između ostalog kroz objavljivanje primjenjive stope zakonske kamate na zakašnjelo plaćanje.
+2. Komisija na internetu objavljuje pojedinosti o važećim zakonskim kamatnim stopama koje se u svim državama članicama primjenjuju u slučaju zakašnjelog plaćanja u poslovnim transakcijama.
+3. Države članice, tamo gdje je to primjereno, koriste stručne publikacije, promotivne kampanje odnosno sva druga funkcionalna sredstva podizanja svijesti o pravnim lijekovima za zakašnjela plaćanja između poduzeća.
+4. Države članice mogu poticati uspostavu kodeksâ pravovremenog plaćanja koji navode jasno određene vremenske rokove plaćanja i primjeren postupak rješavanja spornih plaćanja, odnosno sve one inicijative koje se bave ključnim pitanjem zakašnjelih plaćanja i doprinose razvoju kulture pravodobnog plaćanja u smislu cilja ove Direktive.
+
+Članak 9.
+Pridržaj prava vlasništva
+1. Države članice trebaju urediti, u skladu s primjenjivim nacionalnim odredbama uređenima međunarodnim privatnim pravom, da prodavatelj zadržava pravo vlasništva nad robom dok ona ne bude u cijelosti plaćena ako je odredba o zadržavanju prava vlasništva izričito dogovorena između kupca i prodavatelja prije isporuke robe.
+2. Države članice mogu donijeti ili zadržati odredbe koje se tiču pologa koje je dužnik već uplatio.
+
+Članak 10.
+Postupci naplate za nesporna potraživanja
+1. Države članice osiguravaju da se izvršni naslov može ishoditi, između ostalog ubrzanim postupkom i bez obzira na iznos duga, uobičajeno unutar 90 kalendarskih dana od ulaganja vjerovnikovog zahtjeva ili prijave na sudu ili kod drugog nadležnog tijela, pod uvjetom da dug i aspekti postupka nisu sporni. Države članice obavljaju ovu zadaću u skladu sa svojim odnosnim nacionalnim zakonima i ostalim propisima.
+2. Nacionalni zakoni i ostali propisi primjenjuju jednake uvjete za sve vjerovnike s poslovnim nastanom u Uniji.
+3. Pri računanju roka iz stavka 1. u obzir se ne uzima sljedeće:
+(a) | rokovi za dostavu isprava;
+(b) | sva kašnjenja koja je uzrokovao vjerovnik, kao što su rokovi za ispravljanje prijava.
+4. Ovaj članak ne dovodi u pitanje odredbe Uredbe (EZ) br. 1896/2006.
+
+Članak 11.
+Izvješće
+Do 16. ožujka 2016. Komisija Europskom parlamentu i Vijeću podnosi izvješće o provedbi ove Direktive. Izvješću se prilažu odgovarajući prijedlozi.
+
+Članak 12.
+Prenošenje
+1. Države članice donose zakone i druge propise potrebne za usklađivanje s člancima 1. do 8. i 10. do 16. ožujka 2013. One Komisiji odmah dostavljaju tekst tih odredaba.
+Kada države članice donose ove mjere, te mjere prilikom njihove službene objave sadržavaju uputu na ovu Direktivu ili se uz njih navodi takva uputa. One će također uključiti izjavu da se upute na Direktivu stavljenu izvan snage u postojećim zakonima i drugim propisima smatraju uputom na ovu Direktivu. Načine tog upućivanja i oblik takve izjave određuju države članice.
+2. Države članice Komisiji dostavljaju tekst glavnih odredaba nacionalnog prava koje donesu u području na koje se odnosi ova Direktiva.
+3. Države članice mogu zadržati ili donijeti odredbe koje su povoljnije za vjerovnika od odredaba koje su potrebne za usklađivanje s ovom Direktivom.
+4. Prilikom prenošenja Direktive države članice odlučuju hoće li isključiti ugovore sklopljene prije 16. ožujka 2013.
+
+Članak 13.
+Stavljanje izvan snage
+Direktiva 2000/35/EZ stavlja se izvan snage s učinkom od 16. ožujka 2013., ne dovodeći u pitanje obveze država članica vezane uz vremenski rok za njezino prenošenje u nacionalno zakonodavstvo i primjenu. Međutim, ona se nastavlja primjenjivati na ugovore sklopljene prije tog datuma, na koje se ova Direktiva ne primjenjuje u skladu s člankom 12. stavkom 4.
+Upućivanja na Direktivu stavljenu izvan snage smatraju se upućivanjima na ovu Direktivu i čitaju se u skladu s korelacijskom tablicom u Prilogu.
+
+Članak 14.
+Stupanje na snagu
+Ova Direktiva stupa na snagu dvadesetog dana od dana objave u Službenom listu Europske unije.
+
+Članak 15.
+Adresati
+Ova je Direktiva upućena državama članicama.
+Sastavljeno u Strasbourgu 16. veljače 2011.
+Za Europski parlament
+Predsjednik
+J. BUZEK
+Za Vijeće
+Predsjednik
+MARTONYI J.
+
+( 1 ) SL C 255, 22.9.2010., str. 42 .
+( 2 ) Stajalište Europskog parlamenta od 20. listopada 2010. (još nije objavljeno u Službenom listu) i Odluka Vijeća od 24. siječnja 2011.
+( 3 ) SL L 200, 8.8.2000., str. 35 .
+( 4 ) SL L 12, 16.1.2001., str. 1 .
+( 5 ) SL L 143, 30.4.2004., str. 15 .
+( 6 ) SL L 399, 30.12.2006., str. 1 .
+( 7 ) SL L 199, 31.7.2007., str. 1 .
+( 8 ) SL L 124, 20.5.2003., str. 36 .
+( 9 ) SL L 134, 30.4.2004., str. 1 .
+( 10 ) SL L 134, 30.4.2004., str. 114 .
+( 11 ) SL L 124, 8.6.1971., str. 1 .
+( 12 ) SL L 347, 11.12.2006., str. 1 .
+( 13 ) SL L 248, 16.9.2002., str. 1 .
+( 14 ) SL L 357, 31.12.2002., str. 1 .
+( 15 ) SL L 136, 24.5.2008., str. 3 .
+( 16 ) SL C 321, 31.12.2003., str. 1 .
+( 17 ) SL L 318, 17.11.2006., str. 17 .
+PRILOG
+Korelacijska tablica
+Direktiva 2000/35/EZ | Ova Direktiva
+— | Članak 1. stavak 1.
+Članak 1. | Članak 1. stavak 2.
+Članak 2. stavak 1., prvi podstavak | Članak 2. stavak 1.
+Članak 2. stavak 1., drugi podstavak | Članak 2. stavak 2.
+Članak 2. stavak 1., treći podstavak | Članak 2. stavak 3.
+Članak 2. stavak 2. | Članak 2. stavak 4.
+— | Članak 2. stavak 5.
+— | Članak 2. stavak 6.
+— | Članak 2. stavak 7., uvodni dio
+— | Članak 2. stavak 8.
+Članak 2. stavak 3. | Članak 2. stavak 9.
+Članak 2. stavak 4. | Članak 2. stavak 7. točka (a)
+Članak 2. stavak 5. | Članak 2. stavak 10.
+Članak 3. stavak 1. točka (a) | Članak 3. stavak 3. točka (a)
+Članak 3. stavak 1. točka (b), uvodni dio | Članak 3. stavak 3. točka (b) , uvodni dio
+Članak 3. stavak 1. točka (b) podtočka i. | Članak 3. stavak 3. točka (b) podtočka i.
+Članak 3. stavak 1. točka (b) podtočka ii. | Članak 3. stavak 3. točka (b) podtočka ii.
+Članak 3. stavak 1. točka (b) podtočka iii. | Članak 3. stavak 3. točka (b) podtočka iii.
+Članak 3. stavak 1. točka (b) podtočka iv. | Članak 3. stavak 3. točka (b) podtočka iv.
+— | Članak 3. stavak 4.
+— | Članak 3. stavak 5.
+Članak 3. stavak 1. točka (c) | Članak 3. stavak 1.
+Članak 3. stavak 1. točka (d), prva i treća rečenica | —
+Članak 3. stavak 1. točka (d), druga rečenica | Članak 2. stavak 7. točka (b)
+— | Članak 3. stavak 2.
+— | Članak 4.
+— | Članak 5.
+— | Članak 6. stavak 1.
+— | Članak 6. stavak 2.
+Članak 3. stavak 1. točka (e) | Članak 6. stavak 3.
+Članak 3. stavak 2. | —
+Članak 3. stavak 3. | Članak 7. stavak 1.
+— | Članak 7. stavak 2.
+— | Članak 7. stavak 3.
+Članak 3. stavak 4. | Članak 7. stavak 4.
+Članak 3. stavak 5. | Članak 7. stavak 5.
+— | Članak 8.
+Članak 4. | Članak 9.
+Članak 5. stavak 1. stavak 2. i stavak 3. | Članak 10. stavak 1. stavak 2. i stavak 3.
+Članak 5. stavak 4. | —
+— | Članak 10. stavak 4.
+— | Članak 11.
+Članak 6. stavak 1. | —
+— | Članak 12. stavak 1.
+Članak 6. stavak 2. | Članak 12. stavak 3.
+Članak 6. stavak 3. | Članak 1. stavak 3.
+Članak 6. stavak 4. | Članak 12. stavak 2.
+Članak 6. stavak 5. | —
+— | Članak 12. stavak 4.
+— | Članak 13.
+Članak 7. | Članak 14.
+Članak 8. | Članak 15.
+— | Prilog

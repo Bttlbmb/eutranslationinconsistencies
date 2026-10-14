@@ -1,0 +1,184 @@
+DIREKTIVA 2009/24/ES EVROPSKEGA PARLAMENTA IN SVETA
+z dne 23. aprila 2009
+o pravnem varstvu računalniških programov
+(Kodificirana različica)
+(Besedilo velja za EGP)
+
+EVROPSKI PARLAMENT IN SVET EVROPSKE UNIJE STA –
+
+ob upoštevanju Pogodbe o ustanovitvi Evropske skupnosti, zlasti člena 95 Pogodbe,
+
+ob upoštevanju predloga Komisije,
+
+ob upoštevanju mnenja Evropskega ekonomsko-socialnega odbora ( 1 ) ,
+
+ob upoštevanju postopka, določenega v členu 251 Pogodbe ( 2 ) ,
+
+ob upoštevanju naslednjega:
+
+(1) | Direktiva Sveta 91/250/EGS z dne 14. maja 1991 o pravnem varstvu računalniških programov ( 3 ) je bila vsebinsko spremenjena ( 4 ) . Zaradi jasnosti in racionalnosti bi bilo treba navedeno direktivo kodificirati.
+
+(2) | Razvijanje računalniških programov terja znatne naložbe človeških, tehničnih in finančnih sredstev, pri čemer pa je mogoče računalniške programe kopirati ob neznatnem deležu stroškov, ki bi bili sicer potrebni za njihov samostojen razvoj.
+
+(3) | Računalniški programi igrajo vedno bolj pomembno vlogo v celi vrsti industrijskih dejavnosti in je zato tehnologijo računalniških programov mogoče šteti kot temeljnega pomena za industrijski razvoj Skupnosti.
+
+(4) | Nekatere razlike pri pravnem varstvu računalniških programov, ki izhajajo iz zakonov držav članic, imajo neposredne in negativne učinke na delovanje notranjega trga glede računalniških programov.
+
+(5) | Obstoječe razlike s takimi učinki je treba odpraviti in preprečiti nastajanje novih, medtem ko razlik, ki niso v znatni meri v nasprotju z delovanjem notranjega trga, ni potrebno odstraniti ali preprečiti njihov nastanek.
+
+(6) | Pravni okvir Skupnosti o varstvu računalniških programov je lahko temu ustrezno v prvi fazi omejen na opredelitev, da naj države članice priznajo avtorsko-pravno varstvo računalniških programov kot za književna dela, in nadalje na opredelitev, kdo in kaj naj bo varovano, na opredelitev izključnih pravic, ki jih varovane osebe lahko uveljavijo tako, da dovolijo ali prepovedo določena dejanja, ter koliko časa traja varstvo.
+
+(7) | Za namene te direktive pojem „računalniški program“ pomeni programe v katerikoli obliki, vključno s tistimi, ki so vključeni v strojno opremo. Ta pojem vključuje tudi pripravljalno delo, ki pripelje do razvoja računalniškega programa pod pogojem, da je pripravljalno delo take narave, da iz njega lahko v kasnejši fazi nastane računalniški program.
+
+(8) | Pri kriterijih, ki se uporabijo pri odločanju, ali je nek računalniški program izvirno delo ali ne, ne bi smeli uporabiti ocen glede kakovostne ali estetske ravni programa.
+
+(9) | Skupnost se v celoti zavzema za pospeševanje mednarodne standardizacije.
+
+(10) | Funkcija računalniškega programa je komuniciranje in delovanje skupaj z drugimi komponentami računalniškega sistema in z uporabniki ter se za ta namen zahteva logična in, kjer je to potrebno, tudi fizična medsebojna povezava in interakcija, ki dovoljuje, da vsi elementi programske in strojne opreme delujejo z drugo programsko in strojno opremo in z uporabniki na vse načine, za katere je bila namenjena. Deli programa, ki zagotavljajo tako medsebojno povezavo in interakcijo med elementi programske in strojne opreme, so na splošno znani kot „vmesniki“. Ta funkcijska medsebojna povezava in interakcija je na splošno znana kot „interoperabilnost“; ta interoperabilnost se lahko opredeli kot zmožnost izmenjati informacije in vzajemno uporabiti informacije, ki so bile izmenjane.
+
+(11) | V izogib dvomom je treba pojasniti, da je varovan samo izraz računalniškega programa ter da ideje in načela, ki so osnova kateremu koli elementu programa, vključno s tistimi, ki so osnova njegovim vmesnikom, niso varovani z avtorsko pravico po tej direktivi. V skladu s tem načelom avtorskega prava kolikor logika, algoritmi in programski jeziki obsegajo ideje in načela, te ideje in načela niso varovani po tej direktivi. V skladu z zakonodajo in sodno prakso držav članic in mednarodnimi konvencijami o avtorski pravici naj bo izraz teh idej in načel varovan z avtorsko pravico.
+
+(12) | Za namene te direktive pojem „dajanje v najem“ pomeni omogočanje uporabe računalniškega programa ali njegove kopije za določen čas in z namenom doseganja dobička. Ta pojem ne vključuje javnega posojanja, ki tako ostaja izven okvira te direktive.
+
+(13) | Pri izključni pravici avtorja, da prepreči nedovoljeno reproduciranje svojega dela, v primeru računalniškega programa bi bilo treba predvideti omejeno izjemo ter dovoliti reproduciranje, ki je tehnično potrebno za uporabo tega programa s strani zakonitega pridobitelja. To pomeni, da s pogodbo ni mogoče prepovedati dejanj nalaganja in izvajanja, ki so potrebna za uporabo zakonito pridobljene kopije programa, kakor tudi ne dejanja odprave njegovih napak. Zakoniti pridobitelj kopije programa, tudi kadar je ta bila prodana, lahko izvrši vsako drugo dejanje, ki je potrebno za uporabo te kopije v skladu z njenim namenom, če ni bilo posebnih pogodbenih določb.
+
+(14) | Osebi, ki ima pravico uporabljati računalniški program, ne bi smeli preprečiti dejanj, ki so potrebna za to, da opazuje, proučuje ali testira delovanje programa, pod pogojem, da ta dejanja ne kršijo avtorske pravice na programu.
+
+(15) | Nedovoljeno reproduciranje, prevod, priredba ali sprememba kodne oblike, v kateri je bila kopija računalniškega programa dana na razpolago, predstavlja kršitev izključnih pravic avtorja. Ne glede na navedeno pa so možne okoliščine, v katerih je tako reproduciranje kode ali prevod kodne oblike nujno potrebno za pridobitev informacij, potrebnih za doseganje interoperabilnosti neodvisno ustvarjenega programa z drugimi programi. Zato je treba šteti, da je samo v teh omejenih okoliščinah izvrševanje dejanj reproduciranja in prevoda s strani ali v imenu osebe, ki ima pravico uporabljati kopijo programa, zakonito in združljivo z dobrimi običaji ter je zato treba šteti, da ni potrebno dovoljenje imetnika pravice. Namen te izjeme omogočiti povezavo vseh komponent računalniškega sistema, vključno tistih od različnih proizvajalcev, tako da lahko skupaj delujejo. Takšna izjema od avtorjevih izključnih pravic se ne sme uporabiti na način, ki bi prizadel zakonite interese imetnika pravic ali ki bi bil v nasprotju z normalno uporabo programa.
+
+(16) | Varstvo računalniških programov po zakonih o avtorski pravici ne bi smelo vplivati na uporabo drugih oblik varstva v ustreznih primerih. Pri čemer pa naj bo nična vsaka pogodbena določba, ki je v nasprotju z določili te direktive o dekompiliranju ali z izjemami, določenimi v tej direktivi glede izdelave varnostne kopije ali opazovanja, proučevanja ali testiranja delovanja programa.
+
+(17) | Določbe te direktive ne vplivajo na uporabo pravil o konkurenci po členih 81 in 82 Pogodbe, če ponudnik s prevladujočim tržnim položajem odkloni dati razpoložljive informacije, ki so potrebne za interoperabilnost, kot je opredeljena v tej direktivi.
+
+(18) | Določbe te direktive naj ne bi vplivale na posebne zahteve že veljavnega prava Skupnosti glede objave vmesnikov na področju telekomunikacij ali sklepov Sveta, ki se nanašajo na standardizacijo na področju informacijske tehnologije in telekomunikacij.
+
+(19) | Ta direktiva ne vpliva na ureditve odstopanj, ki jih predvidevajo nacionalne zakonodaje v skladu z Bernsko konvencijo glede točk, ki niso zajete s to direktivo.
+
+(20) | Ta direktiva ne bi smela posegati v obveznosti držav članic glede rokov za prenos v nacionalno pravo direktiv, ki so določeni v Prilogi I, Del B –
+
+SPREJELA NASLEDNJO DIREKTIVO:
+
+Člen 1
+Predmet varstva
+1. V skladu z določbami te direktive varujejo države članice računalniške programe z avtorsko pravico kot književna dela v smislu Bernske konvencije za varstvo književnih in umetniških del. Za namene te direktive obsega pojem „računalniški programi“ tudi pripravljalno gradivo za njihovo izdelavo.
+2. Varstvo po tej direktivi se uporablja za vse oblike izraza računalniškega programa. Ideje in načela, ki so osnova kateremukoli elementu računalniškega programa, vključno s tistimi, ki so osnova njegovim vmesnikom, niso varovani z avtorsko pravico po tej direktivi.
+3. Računalniški program uživa varstvo, če je izvirno delo v smislu, da je avtorjeva lastna intelektualna stvaritev. Pri odločanju o njegovi primernosti za varstvo se ne uporabijo nobeni drugi kriteriji.
+4. Določbe te direktive veljajo tudi za programe, ki so bili ustvarjeni pred 1. januarjem 1993, brez vpliva na pred tem datumom sklenjene posle in pridobljene pravice.
+
+Člen 2
+Avtorstvo na računalniškem programu
+1. Avtor računalniškega programa je fizična oseba ali skupina fizičnih oseb, ki je ustvarila program ali, če zakonodaja države članice to dovoljuje, pravna oseba, ki po tej zakonodaji velja za imetnika pravice.
+Kolikor zakonodaja države članice priznava kolektivna dela, se šteje za avtorja dela oseba, ki jo kot tako določa zakonodaja države članice.
+2. Glede računalniškega programa, ki ga je skupno ustvarila skupina fizičnih oseb, jim pripadajo izključne pravice skupno.
+3. Če računalniški program ustvari delojemalec pri izvrševanju svojih nalog ali po navodilih svojega delodajalca, je izključno delodajalec upravičen izvrševati vse materialne pravice na tako ustvarjenem programu, če ni s pogodbo drugače določeno.
+
+Člen 3
+Upravičenci do varstva
+Varstvo je zagotovljeno vsem fizičnim ali pravnim osebam v skladu z nacionalno zakonodajo o avtorski pravici, ki se uporablja za književna dela.
+
+Člen 4
+Dejanja, za katera je potrebno dovoljenje
+1. Če ni v členu 5 in 6 drugače določeno, ima imetnik pravice v smislu člena 2 izključno pravico, da stori ali dovoli storiti:
+(a) | trajno ali začasno reproduciranje delov ali celotnega računalniškega programa, s katerim koli sredstvom in v kateri koli obliki. Kolikor nalaganje, prikazovanje, izvajanje, prenašanje ali shranjevanje računalniškega programa zahteva takšno reproduciranje, je za ta dejanja potrebno dovoljenje imetnika pravice;
+(b) | prevod, priredbo, aranžiranje ali vsako drugo predelavo računalniškega programa ter reproduciranje rezultatov teh predelav, vendar brez vpliva na pravice osebe, ki je spremembo opravila;
+(c) | vsako obliko distribuiranja javnosti izvirnika računalniškega programa ali njegovih kopij, vključno z dajanjem v najem.
+2. S prvo prodajo kopije računalniškega programa v Skupnosti s strani imetnika pravice ali z njegovim dovoljenjem je pravica distribuiranja za to kopijo v Skupnosti izčrpana z izjemo pravice do nadzora nadaljnjega dajanja programa ali njegove kopije v najem.
+
+Člen 5
+Izjeme od dejanj, za katera je potrebno dovoljenje
+1. Če ni posebnih pogodbenih določb, za dejanja iz točk (a) in (b) člena 4(1) ni potrebno dovoljenje imetnika pravice, če so s strani zakonitega pridobitelja potrebna za uporabo računalniškega programa v skladu z njegovim namenom, vključno z odpravo napak.
+2. Osebi, ki ima pravico uporabljati računalniški program, s pogodbo ni mogoče prepovedati izdelave varnostne kopije, če je slednja potrebna zaradi te uporabe.
+3. Oseba, ki ima pravico uporabljati kopijo računalniškega programa, lahko brez dovoljenja imetnika pravice opazuje, proučuje ali testira delovanje programa zato, da dožene ideje in načela, ki so osnova kateremu koli elementu programa, če to stori pri katerem koli od dejanj nalaganja, prikazovanja, izvajanja, prenašanja ali shranjevanja programa, do katerih je upravičena.
+
+Člen 6
+Dekompiliranje
+1. Za reproduciranje kode ali prevod kodne oblike računalniškega programa v smislu točk (a) in (b) člena 4(1) ni potrebno dovoljenje imetnika pravice, če je to nujno potrebno za pridobitev informacij, potrebnih za doseganje interoperabilnosti neodvisno ustvarjenega računalniškega programa z drugimi programi, če so izpolnjeni naslednji pogoji:
+(a) | da ta dejanja izvrši pridobitelj licence ali druga oseba, ki ima pravico uporabljati kopijo programa ali v njihovem imenu za to pooblaščena oseba;
+(b) | da informacije, potrebne za doseganje interoperabilnosti, niso bile predhodno brez nadaljnjega dostopne osebam iz točke (a); in
+(c) | da so ta dejanja omejena na tiste dele prvotnega programa, ki so potrebni za doseganje interoperabilnosti.
+2. Določbe odstavka 1 ne dovoljujejo, da bi se informacije, ki so pridobljene z njegovo uporabo:
+(a) | uporabile za drug namen kot za doseganje interoperabilnosti neodvisno ustvarjenega računalniškega programa;
+(b) | odstopile tretjim osebam, razen kadar bi bilo to potrebno za doseganje interoperabilnosti neodvisno ustvarjenega računalniškega programa; ali
+(c) | uporabile za razvijanje, proizvodnjo ali trženje računalniškega programa, ki je v svojem izrazu bistveno podoben, ali uporabile za katerokoli drugo dejanje, s katerim se krši avtorska pravica.
+3. V skladu z določbami Bernske konvencije za varstvo književnih in umetniških del ni mogoče določb tega člena razlagati v smeri, po kateri bi bilo dopustno ta člen uporabiti na način, ki bi v nerazumni meri prizadel zakonite interese imetnika pravice ali ki bi bil v nasprotju z normalno uporabo računalniškega programa.
+
+Člen 7
+Posebni ukrepi varstva
+1. Ob upoštevanju določb členov 4, 5 in 6 predvidijo države članice v skladu s svojimi nacionalnimi predpisi ustrezne ukrepe zoper osebo, ki stori katero od naslednjih dejanj:
+(a) | vsako dejanje dajanja v promet kopije računalniškega programa, za katero ve ali bi utemeljeno lahko domnevala, da je nedovoljena kopija;
+(b) | posest kopije računalniškega programa za komercialne namene, za katero ve ali bi utemeljeno lahko domnevala, da je nedovoljena kopija;
+(c) | vsako dejanje dajanja v promet ali posest za komercialne namene kakršnih koli sredstev, katerih edini namen je, da olajšajo neupravičeno odstranitev ali obid katerekoli tehnične naprave, uporabljene za zaščito računalniškega programa.
+2. Vsaka nedovoljena kopija računalniškega programa se zaseže v skladu s predpisi posamezne države članice.
+3. Države članice lahko predvidijo zaseg sredstev, navedenih v točki (c) odstavka 1.
+
+Člen 8
+Nadaljnja uporaba drugih pravnih predpisov
+Določbe te direktive ne vplivajo na uporabo drugih pravnih predpisov, ki se nanašajo na pravice patenta, znamke, nelojalno konkurenco, poslovno tajnost, varstvo polprevodnikov ali pogodbeno pravo.
+Pogodbene določbe, ki so v nasprotju s členom 6 ali z izjemami iz člena 5(2) in (3), so nične.
+
+Člen 9
+Sporočanje
+Države članice predložijo Komisiji besedila predpisov nacionalne zakonodaje, sprejetih na področju, ki ga ureja ta direktiva.
+
+Člen 10
+Razveljavitev
+Direktiva 91/250/EGS, kakor je bila spremenjena z Direktivo, navedeno v Prilogi I, Del A, je razveljavljena, brez poseganja v obveznosti držav članic glede rokov za prenos v nacionalno pravo direktiv, ki so določene v Prilogi I, Del B.
+Sklici na razveljavljeno direktivo, se upoštevajo kot sklici na to direktivo in se berejo v skladu s primerjalno tabelo v Prilogi II.
+
+Člen 11
+Začetek veljavnosti
+Ta direktiva začne veljati na dvajseti dan po objavi v Uradnem listu Evropske unije .
+
+Člen 12
+Naslovljenci
+Ta direktiva je naslovljena na države članice.
+
+V Strasbourgu, 23. aprila 2009
+Za Evropski parlament
+Predsednik
+H.-G. PÖTTERING
+Za Svet
+Predsednik
+P. NEČAS
+( 1 ) UL C 204, 9.8.2008, str. 24 .
+( 2 ) Mnenje Evropskega parlamenta z dne 17. junija 2008 (še ni objavljeno v Uradnem listu) in Sklep Sveta z dne 23. marca 2009.
+( 3 ) UL L 122, 17.5.1991, str. 42 .
+( 4 ) Glej Prilogo I, Del A.
+
+PRILOGA I
+DEL A
+Razveljavljena direktiva z njeno spremembo
+(iz člena 10)
+Direktiva Sveta 91/250/EGS ( UL L 122, 17.5.1991, str. 42 ) | 
+Direktiva Sveta 93/98/EGS ( UL L 290, 24.11.1993, str. 9 ) | samo člen 11(1)
+DEL B
+Seznam rokov za prenos v nacionalno pravo
+(iz člena 10)
+Direktiva | Roki za prenos
+91/250/EGS | 31. december 1992
+93/98/EGS | 30. junij 1995
+
+PRILOGA II
+Primerjalna tabela
+Direktiva 91/250/EGS | Ta direktiva
+Člen 1(1), (2) in (3) | Člen 1(1), (2) in (3)
+Člen 2(1), prvi stavek | Člen 2(1), prvi pododstavek
+Člen 2(1), drugi stavek | Člen 2(1), drugi pododstavek
+Člen 2(2) in (3) | Člen 2(2) in (3)
+Člen 3 | Člen 3
+Člen 4, uvodno besedilo | Člen 4(1), uvodno besedilo
+Člen 4(a) | Člen 4(1), točka (a)
+Člen 4(b) | Člen 4(1), točka (b)
+Člen 4(c), prvi stavek | Člen 4(1), točka (c)
+Člen 4(c), drugi stavek | Člen 4(2)
+Členi 5, 6 in 7 | Členi 5, 6 in 7
+Člen 9(1), prvi stavek | Člen 8, prvi odstavek
+Člen 9(1), drugi stavek | Člen 8, drugi odstavek
+Člen 9(2) | Člen 1(4)
+Člen 10(1) | —
+Člen 10(2) | Člen 9
+— | Člen 10
+— | Člen 11
+Člen 11 | Člen 12
+— | Priloga I
+— | Priloga II

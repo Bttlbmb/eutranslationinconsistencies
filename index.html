@@ -4,78 +4,43 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex, nofollow, noarchive" />
-    <meta
-      name="description"
-      content="Read EU legislation and reviewed potential differences between its official language versions."
-    />
+    <meta name="description" content="Explore EU legislation, reviewed language differences, findings and review coverage." />
     <meta name="theme-color" content="#ffffff" />
     <title>EU Translation Inconsistencies</title>
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-    <link rel="stylesheet" href="./styles.css?v=7" />
-    <script type="module" src="./app.js?v=7"></script>
+    <link rel="stylesheet" href="./catalogue.css?v=7" />
+    <link rel="stylesheet" href="./site-header.css?v=1" />
+    <script type="module" src="./catalogue.js?v=5"></script>
   </head>
   <body>
-    <a class="skip-link" href="#reader">Skip to legislation</a>
+    <a class="catalogue-skip-link" href="#catalogue-list">Skip to legislation</a>
     <header class="site-header">
       <a class="brand" href="./">EU Translation Inconsistencies</a>
-      <button class="text-button" id="method-button" aria-haspopup="dialog">Method</button>
+      <button type="button" class="header-method" id="method-button" aria-haspopup="dialog">Method</button>
     </header>
-
-    <main class="workspace">
-      <section class="document-area" aria-label="Legislation comparison">
-        <div class="document-strip">
-          <details class="act-picker" id="act-picker">
-            <summary id="act-picker-label">Choose legislation</summary>
-            <div class="act-picker-menu">
-              <label class="search-box"
-                ><svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                  <circle cx="10.5" cy="10.5" r="6.5"></circle>
-                  <path d="m16 16 4.5 4.5"></path></svg
-                ><input
-                  type="search"
-                  id="search"
-                  placeholder="Find legislation…"
-                  aria-label="Search legislation"
-              /></label>
-              <nav id="legislation-list" class="legislation-list" aria-label="Choose legislation">
-                <div class="loading-state">Loading the collection…</div>
-              </nav>
-            </div>
-          </details>
-          <div id="document-heading" class="document-heading"></div>
-        </div>
-        <div class="reading-workspace" id="reading-workspace">
-          <div class="reader-column">
-            <div id="reader-toolbar" class="reader-toolbar" hidden></div>
-            <section class="reader" id="reader" aria-label="English legislation" tabindex="-1">
-              <div class="collection-empty"><p>Loading legislation…</p></div>
-            </section>
-          </div>
-          <aside class="comparison" id="comparison" aria-label="Language differences"></aside>
-        </div>
+    <main class="catalogue-main">
+      <h1 class="catalogue-page-title">Legislation</h1>
+      <div class="catalogue-meta">
+        <p id="catalogue-total" role="status">Loading the collection…</p>
+      </div>
+      <section id="catalogue-list" aria-label="Available legislation" aria-busy="true">
+        <noscript><div class="catalogue-empty"><h2>Enable JavaScript to browse the collection</h2><p><a href="./reader.html">Open the legislation reader</a></p></div></noscript>
       </section>
     </main>
-
-    <p id="selection-status" class="visually-hidden" role="status" aria-live="polite"></p>
-    <div class="toast" id="toast" role="status" aria-live="polite"></div>
-    <dialog id="method-dialog" class="method-dialog" aria-labelledby="method-title">
-      <div class="dialog-top">
-        <h2 id="method-title">Method</h2>
-        <button class="icon-button" id="close-method" aria-label="Close method">×</button>
+    <footer class="catalogue-footer">
+      <div class="catalogue-footer-meta">
+        <p id="catalogue-date"></p>
       </div>
-      <p>
-        The English text is a reading reference. All official language versions have equal
-        authority. Choose a focus language to see only its published differences and English-text
-        highlights. Select highlighted text to see original wording, an English translation, and the
-        potential difference.
-      </p>
-      <p>
-        Published findings are supported by independent model analyses and evidence review. They
-        identify possible differences in meaning, not proof that a translation is legally wrong. An
-        act with no findings is not necessarily equivalent across languages; check its review
-        coverage and source version.
-      </p>
-      <p>One comparison unit means one English passage checked against one other language.</p>
+      <p id="catalogue-impact-note">Potential impact is assessed separately.</p>
+      <p>Check review coverage when no findings are published. <button type="button" class="catalogue-count-guide" id="count-guide-button">About the counts</button></p>
+    </footer>
+    <dialog id="method-dialog" class="catalogue-dialog" aria-labelledby="method-title">
+      <div class="catalogue-dialog-top"><h2 id="method-title">Method</h2><button type="button" class="catalogue-dialog-close" id="close-method">Close</button></div>
+      <p>All official language versions have equal authority. English provides a common reading reference.</p>
+      <p>Published findings describe possible differences in meaning supported by two independent AI scans and a separate evidence review. They are not adjudicated legal errors.</p>
+      <p>Language findings are published finding records. The reader combines records with the same English quotation in the same passage into grouped comparisons. A group may contain several distinct issues. Expand a language list to see its count and open the focused reader.</p>
+      <p>One comparison means one English passage checked against one other language. Coverage refers to the recorded source version. No published findings can reflect an unfinished review; a completed review does not establish equivalence of every legal reading.</p>
+      <p>“Substantial” is the publication threshold for findings. The separate potential-impact bar shows preliminary High potential impact, Moderate, or Limited estimates when a level has been assigned. A single legal issue may span several finding records. “No impact rating yet” means no level has been assigned; an issue explanation may still be under review. It does not mean Limited impact. Ratings describe a possible change in legal outcome if a reading prevails, with confidence and uncertainty available in the reader.</p>
     </dialog>
   </body>
 </html>

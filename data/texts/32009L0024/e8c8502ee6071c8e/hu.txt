@@ -1,0 +1,184 @@
+AZ EURÓPAI PARLAMENT ÉS A TANÁCS 2009/24/EK IRÁNYELVE
+(2009. április 23.)
+a számítógépi programok jogi védelméről
+(kodifikált változat)
+(EGT-vonatkozású szöveg)
+
+AZ EURÓPAI PARLAMENT ÉS AZ EURÓPAI UNIÓ TANÁCSA,
+
+tekintettel az Európai Közösséget létrehozó szerződésre és különösen annak 95. cikkére,
+
+tekintettel a Bizottság javaslatára,
+
+tekintettel az Európai Gazdasági és Szociális Bizottság véleményére ( 1 ) ,
+
+a Szerződés 251. cikkében megállapított eljárásnak megfelelően ( 2 ) ,
+
+mivel:
+
+(1) | A számítógépi programok jogi védelméről szóló, 1991. május 14-i 91/250/EGK tanácsi irányelv ( 3 ) tartalmát módosították ( 4 ) . Az áttekinthetőség és érthetőség érdekében ezt az irányelvet kodifikálni kell.
+
+(2) | A számítógépi programok fejlesztése jelentős emberi, műszaki és pénzügyi erőforrásokat igényel, miközben a számítógépi programok az önálló fejlesztésükhöz szükséges költségek töredékéért másolhatók.
+
+(3) | A számítógépi programok egyre jelentősebb szerepet játszanak számos iparágban, és a számítógépi programot érintő technológia ennek megfelelően alapvető jelentőséggel bír a Közösség ipari fejlődése szempontjából.
+
+(4) | A tagállamok jogszabályai által a számítógépi programoknak nyújtott jogi védelem közötti bizonyos különbségek közvetlen és negatív hatást gyakorolnak a belső piac működésére a számítógépi programok tekintetében.
+
+(5) | Az ilyen hatású meglévő különbségeket meg kell szüntetni, és meg kell akadályozni újabbak kialakulását, ugyanakkor nem szükséges megszüntetni a belső piac működését jelentős mértékben hátrányosan nem befolyásoló különbségeket, és azok kialakulását nem szükséges megakadályozni.
+
+(6) | A közösségi jogi keret a számítógépi programok védelme terén ennek megfelelően egyelőre annak meghatározására korlátozható, hogy a tagállamok a számítógépi programokat a szerzői jog alapján irodalmi műként védelemben részesítik, ezen túl annak meghatározására, hogy kit és mit lehet védelemben részesíteni, a védelemben részesülő személyek milyen kizárólagos jogokkal bírnak bizonyos cselekmények engedélyezése vagy megtiltása érdekében, valamint hogy a védelmi idő milyen tartamú legyen.
+
+(7) | Ennek az irányelvnek az alkalmazásában a „számítógépi program” fogalma magában foglalja a programok valamennyi formáját, beleértve a hardverbe beépített programokat is. Ez a fogalom magában foglalja továbbá a számítógépi program kifejlesztéséhez vezető előkészítő dokumentációt is, feltéve, hogy az előkészítő munka a jellegénél fogva a későbbiekben egy számítógépi programot eredményezhet.
+
+(8) | A program minőségi vagy esztétikai jellemzőinek vizsgálata nem alkalmazható feltételként annak megítélésekor, hogy a számítógépi program eredeti alkotás-e.
+
+(9) | A Közösség teljes mértékben elkötelezett a nemzetközi szabványosítás előmozdítása iránt.
+
+(10) | A számítógépi program funkciója abban áll, hogy a számítógépes rendszer többi elemével és a felhasználókkal kapcsolatba lépjen és azokkal együtt működjön, és ebből a célból logikai és adott esetben fizikai kapcsolat és kölcsönhatás szükséges ahhoz, hogy a szoftver és a hardver valamennyi eleme számára lehetővé váljék, hogy azok valamennyi rendeltetési céljuknak megfelelően más szoftverrel és hardverrel, valamint a felhasználókkal működni tudjanak. A programnak a szoftver- és hardverelemek közötti efféle összekapcsolódást és kölcsönhatást biztosító részei általában „csatlakozási felületek” (interfész) néven ismertek. Ez a funkcionális kapcsolat és kölcsönhatás „együttes működtetés” (interoperabilitás) néven ismert; ez az együttes működtetés olyan képességként definiálható, amely lehetővé teszi az információcserét és a kicserélt információ kölcsönös felhasználását.
+
+(11) | Az egyértelműség kedvéért világossá kell tenni, hogy csak a számítógépi program kifejezési forma részesül védelemben, és hogy a program valamely elemének – beleértve a csatlakozási felületet – alapjául szolgáló ötletek és elvek ezen irányelv értelmében nem állnak szerzői jogi védelem alatt. E szerzői jogi alapelvnek megfelelően, amennyiben ezek az ötletek és elvek a logika, az algoritmusok és a programnyelv alapjául szolgálnak, úgy ezen irányelv értelmében nem állnak védelem alatt. A tagállamok jogszabályainak és ítélkezési gyakorlatának, valamint a nemzetközi szerzői jogi egyezményeknek megfelelően a szerzői jog az ilyen ötletek és elvek kifejeződését védi.
+
+(12) | Ennek az irányelvnek az alkalmazásában „bérbeadás” a számítógépi programnak vagy másolatának határozott időre előnyszerzés céljából történő használatba adása. Ez a fogalom nem foglalja magában a nyilvános kölcsönzést, amely ennek megfelelően nem tartozik ezen irányelv hatálya alá.
+
+(13) | A szerző arra vonatkozó kizárólagos jogát, hogy megtiltsa műve jogosulatlan többszörözését, számítógépi programok esetében alá kell vetni annak a korlátozott kivételnek, miszerint a programot jogszerűen megszerző személy számára lehetővé kell tenni a program használatához műszakilag szükséges többszörözést. Ez azt jelenti, hogy a program jogszerűen megszerzett példányának felhasználásához szükséges betáplálás és futtatás, valamint a program hibáinak kijavítása szerződésben nem tiltható meg. Kifejezett szerződéses kikötés hiányában – beleértve a program egy példányának eladását is – a példányt jogszerűen megszerző személy a program rendeltetésszerű felhasználásához szükséges bármely egyéb cselekményt elvégezheti.
+
+(14) | A számítógépi program felhasználására jogosult személy számára nem tiltható meg, hogy elvégezze a program működésének megfigyeléséhez, tanulmányozásához vagy kipróbálásához szükséges cselekményeket, feltéve, hogy e cselekmények nem sértik a programhoz fűződő szerzői jogokat.
+
+(15) | A számítógépi program másolatát megjelenítő kód jogosulatlan többszörözése, fordítása, feldolgozása vagy megváltoztatása a szerző kizárólagos jogának megsértését jelenti. Azonban kétségtelenül előfordulhatnak olyan helyzetek, amikor a kód ilyen többszörözése és lefordítása elengedhetetlen az olyan információ megszerzéséhez, amely szükséges ahhoz, hogy az önállóan megalkotott program más programokkal együttesen működtethető legyen. Ezért figyelembe kell venni, hogy kizárólag ezen kivételes esetekben a számítógépi program példányát jogszerűen felhasználó személy által vagy e személy megbízásából végzett többszörözés és fordítás jogszerű, a tisztességes gyakorlattal összeegyeztethető, és ezért ahhoz a jogosult engedélye nem szükséges. E kivétel egyik célja, hogy lehetővé tegye a számítógépes rendszer elemeinek összekapcsolását, beleértve a különböző gyártóktól származó elemeket is, annak érdekében, hogy azok együttesen tudjanak működni. A kizárólagos szerzői jog alóli ezen kivétel nem alkalmazható oly módon, hogy az indokolatlanul károsítsa a jogosult jogos érdekeit, vagy akadályozza a számítógépi program rendes felhasználását.
+
+(16) | A számítógépi programok szerzői jogi védelme adott esetben nem sértheti az egyéb védelmi formák alkalmazását. Ugyanakkor az ezen irányelvnek a visszafejtésre vonatkozó rendelkezéseivel vagy az ezen irányelv által a biztonsági másolat készítésére vagy a program működésének megfigyelésére, tanulmányozására vagy kipróbálására tekintettel meghatározott kivételekkel ellentétes szerződéses kikötések semmisek.
+
+(17) | Ezen irányelv rendelkezései nem érintik a Szerződés 81. és 82. cikke szerinti versenyszabályok alkalmazását, ha egy erőfölényben lévő gyártó megtagadja az ebben az irányelvben meghatározott interoperabilitáshoz szükséges információ rendelkezésre bocsátását.
+
+(18) | Indokolt, hogy az ezen irányelv rendelkezései a csatlakozási felületek távközlési szektorban történő nyilvánosságra hozatala tekintetében elfogadott közösségi jogi rendelkezések, valamint az információs technológia és távközlés területén a szabványosításra vonatkozó tanácsi határozatok sérelme nélkül érvényesüljenek.
+
+(19) | Ez az irányelv nem érinti a hatálya alá nem tartozó kérdések vonatkozásában a Berni Egyezménynek megfelelően a nemzeti jogszabályok által meghatározott eltéréseket.
+
+(20) | Ez az irányelv nem érinti az I. melléklet B. részében meghatározott irányelveknek a nemzeti jogba történő átültetésére vonatkozó határidőkkel kapcsolatos tagállami kötelezettségeket,
+
+ELFOGADTA EZT AZ IRÁNYELVET:
+
+1. cikk
+A védelem tárgya
+(1) Ezen irányelv rendelkezései szerint a tagállamok a számítógépi programokat az irodalmi és művészeti művek védelméről szóló Berni Egyezmény szerinti irodalmi műként szerzői jogi védelemben részesítik. Ezen irányelv alkalmazásában a „számítógépi programok” fogalma magában foglalja azok előkészítő dokumentációját is.
+(2) A jelen irányelv alapján biztosított védelem a számítógépi programok bármely formában történő kifejezésére vonatkozik. A számítógépi program bármely elemének – beleértve a csatlakozási felületeket – alapjául szolgáló ötletek és elvek ezen irányelv alkalmazásában nem részesülnek szerzői jogi védelemben.
+(3) A számítógépi program akkor részesül védelemben, ha eredeti, abban az értelemben, hogy a szerző saját szellemi alkotása. Annak megállapításához, hogy részesülhet-e ilyen védelemben, más feltétel nem alkalmazható.
+(4) Ennek az irányelvnek a rendelkezéseit az 1993. január 1-je előtt megalkotott programokra is alkalmazni kell, az ezen időpontot megelőzően kötött megállapodások és szerzett jogok sérelme nélkül.
+
+2. cikk
+A számítógépi programok szerzője
+(1) A számítógépi program szerzője a programot létrehozó természetes személy vagy természetes személyek csoportja, illetve a tagállami jogszabályok értelmében – amennyiben azt a tagállami jogszabályok lehetővé teszik – jogosultnak minősülő jogi személy.
+Ahol valamely tagállam jogszabályai elismerik az együttesen létrehozott műveket, a tagállam jogszabályai szerint a mű létrehozójának minősülő személyt kell szerzőnek tekinteni.
+(2) A természetes személyek csoportja által közösen létrehozott számítógépi program esetében e személyeket a kizárólagos jogok együttesen illetik.
+(3) Ha a számítógépi programot egy munkavállaló munkaviszonyból folyó kötelessége teljesítéseként vagy a munkáltató utasítása alapján készíti, az így elkészített program valamennyi vagyoni jogának gyakorlására a munkáltató kizárólagosan jogosult, kivéve, ha szerződés ettől eltérően rendelkezik.
+
+3. cikk
+A védelem kedvezményezettjei
+Védelmet kell biztosítani minden olyan természetes vagy jogi személy részére, aki vagy amely az irodalmi művekre irányadó nemzeti szerzői jogi szabályok szerint erre jogosult.
+
+4. cikk
+Engedélyhez kötött cselekmények
+(1) Az 5. és 6. cikk rendelkezéseire is figyelemmel, a jogosult 2. cikk szerinti kizárólagos jogai magukban foglalják az alábbi cselekmények elvégzését vagy engedélyezését:
+a) | a számítógépi program bármely eszközzel és bármely formában, részben vagy egészben történő tartós vagy időleges többszörözése. Amennyiben a számítógépi program betáplálása, megjelenítése, futtatása, továbbítása vagy tárolása szükségessé teszi az ilyen többszörözést, az ilyen cselekményhez szükséges a jogosult engedélye;
+b) | a számítógépi program lefordítása, átdolgozása, feldolgozása és bármely más módon történő módosítása, valamint ezek eredményének többszörözése a számítógépi programot módosító személy jogainak sérelme nélkül;
+c) | a számítógépi program vagy másolatai bármilyen formában történő nyilvános terjesztése, beleértve a bérbeadást is.
+(2) A program valamely példányának a jogosult által vagy az ő hozzájárulásával a Közösségen belül történő első eladása kimeríti az adott példány Közösségen belüli terjesztésére vonatkozó jogot, a számítógépi program vagy valamely másolata további bérbeadásának ellenőrzéséhez való jog kivételével.
+
+5. cikk
+Az engedélyhez kötött cselekmények alóli kivételek
+(1) Külön szerződéses kikötés hiányában a 4. cikk (1) bekezdésének a) és b) pontjában foglalt cselekményekhez nem szükséges a jogosult engedélye, ha azokra azért van szükség, hogy a számítógépi programot az azt jogszerűen megszerző személy a rendeltetési célnak megfelelően használja, beleértve a hibajavítást is.
+(2) Szerződéssel nem zárható ki, hogy a számítógépi program jogszerű felhasználója biztonsági másolatot készítsen, amennyiben az az említett felhasználáshoz szükséges.
+(3) A számítógépi program valamely példányának jogszerű felhasználója a jogosult engedélye nélkül megfigyelheti, tanulmányozhatja és kipróbálhatja a program működését a program elemeinek alapját képező ötletek és elvek meghatározása céljából, ha ezt a program olyan betáplálása, megjelenítése, futtatása, továbbítása vagy tárolása során végzi, amelyre jogosult.
+
+6. cikk
+Visszafejtés
+(1) Nincs szükség a jogosult engedélyére, ha a kód 4. cikk (1) bekezdésének a), illetve b) pontja szerinti többszörözése, illetve lefordítása elengedhetetlen az önállóan megalkotott számítógépi program más programokkal való együttes működtetéséhez szükséges információ megszerzéséhez, feltéve, hogy:
+a) | e cselekményeket az engedéllyel rendelkező személy vagy a program példányának felhasználására jogosult másik személy, vagy ezek nevében az erre felhatalmazott személy végzi;
+b) | az együttes működtetéshez szükséges információ korábban nem volt az a) pontban említett személyek számára könnyen hozzáférhető; és
+c) | ezek a cselekmények az eredeti számítógépi programnak csak az együttes működtetéshez szükséges részeire korlátozódnak.
+(2) Az (1) bekezdés rendelkezései alkalmazása révén szerzett információ:
+a) | az önállóan megalkotott számítógépi programmal való együttes működtetésen kívül más célokra nem használható fel;
+b) | másokkal nem közölhető, kivéve, ha erre az önállóan megalkotott számítógépi program együttes működtetéséhez van szükség;
+c) | a kifejezési formájában lényegében hasonló számítógépi program kifejlesztéséhez, előállításához és forgalomba hozatalához, illetve a szerzői jogot sértő más cselekményhez nem használható fel.
+(3) Az irodalmi és művészeti művek védelméről szóló Berni Egyezménnyel összhangban e cikk rendelkezései nem értelmezhetők úgy, hogy lehetséges legyen oly módon történő alkalmazásuk, ami indokolatlanul károsítaná a jogosult jogos érdekeit, illetve akadályozza a számítógépi program rendes felhasználását.
+
+7. cikk
+A védelemre vonatkozó különös intézkedések
+(1) A 4., 5. és 6. cikk rendelkezéseinek sérelme nélkül a tagállamok a nemzeti jogszabályaikkal összhangban rendelkeznek a megfelelő intézkedésekről az alábbi cselekmények bármelyikét elkövető személyekkel szemben:
+a) | a számítógépi program olyan példányának forgalomba hozatala, amelyről az érintett személy tudta, vagy a kellő gondosság mellett tudnia kellett volna, hogy jogsértő;
+b) | a számítógépi program olyan példányának kereskedelmi célú birtoklása, amelyről az érintett személy tudta, vagy a kellő gondosság mellett tudnia kellett volna, hogy jogsértő;
+c) | bármely olyan eszköz forgalomba hozatala vagy kereskedelmi célú birtoklása, amelynek kizárólagos szándékolt célja a számítógépi program védelmére alkalmazott műszaki intézkedések eltávolítása vagy megkerülése.
+(2) A számítógépi program bármely jogsértő példánya az érintett tagállam jogszabályai alapján lefoglalható.
+(3) A tagállamok előírhatják az (1) bekezdés c) pontjában említett eszközök lefoglalását.
+
+8. cikk
+Egyéb jogszabályi rendelkezések alkalmazása
+Ezen irányelv rendelkezései nem érintik az egyéb jogszabályi rendelkezéseket, így például a szabadalmi jogokra, védjegyekre, a tisztességtelen versenyre, üzleti titkokra, félvezető termékek oltalmára vagy a szerződési jogra vonatkozó rendelkezéseket.
+Minden, a 6. cikkel vagy az 5. cikk (2) és (3) bekezdésében foglalt kivételekkel ellentétes szerződéses kikötés semmis.
+
+9. cikk
+Tájékoztatás
+A tagállamok közlik a Bizottsággal nemzeti jogszabályaik azon rendelkezéseit, amelyeket az ezen irányelv által szabályozott területen fogadtak el.
+
+10. cikk
+Hatályon kívül helyezés
+Az I. melléklet A. részében meghatározott irányelvvel módosított 91/250/EGK irányelv hatályát veszti, az I. melléklet B. részében meghatározott irányelveknek a nemzeti jogba történő átültetésére vonatkozó határidőkkel kapcsolatos tagállami kötelezettségek sérelme nélkül.
+A hatályon kívül helyezett irányelvre történő hivatkozásokat az ezen irányelvre történő hivatkozásként kell értelmezni, a II. mellékletben foglalt megfelelési táblázattal összhangban.
+
+11. cikk
+Hatálybalépés
+Ez az irányelv az Európai Unió Hivatalos Lapjában való kihirdetését követő huszadik napon lép hatályba.
+
+12.cikk
+Címzettek
+Ennek az irányelvnek a tagállamok a címzettjei.
+
+Kelt Strasbourgban, 2009. április 23-án.
+az Európai Parlament részéről
+az elnök
+H.-G. PÖTTERING
+a Tanács részéről
+az elnök
+P. NEČAS
+( 1 ) HL C 204., 2008.8.9., 24. o .
+( 2 ) Az Európai Parlament 2008. június 17-i véleménye (a Hivatalos Lapban még nem tették közzé) és a Tanács 2009. március 23-i határozata.
+( 3 ) HL L 122., 1991.5.17., 42. o .
+( 4 ) Lásd az I. melléklet A. részét.
+
+I. MELLÉKLET
+A. RÉSZ
+A hatályon kívül helyezett irányelv és egymást követő módosításainak listája
+(lásd a 10. cikket)
+A Tanács 91/250/EGK irányelve ( HL L 122., 1991.5.17., 42. o. ) | 
+A Tanács 93/98/EGK irányelve ( HL L 290., 1993.11.24., 9. o. ) | Kizárólag a 11. cikk, (1) bekezdés
+B. RÉSZ
+A nemzeti jogba való átültetésre előírt határidők listája
+(lásd a 10. cikket)
+Irányelv | Az átültetés határideje
+91/250/EGK | 1992. december 31.
+93/98/EGK | 1995. június 30.
+
+II. MELLÉKLET
+Megfelelési táblázat
+91/250/EGK irányelv | Ez az irányelv
+1. cikk, (1), (2) és (3) bekezdés | 1. cikk, (1), (2) és (3) bekezdés
+2. cikk, (1) bekezdés, első mondat | 2. cikk, (1) bekezdés, első albekezdés
+2. cikk, (1) bekezdés, második mondat | 2. cikk, (1) bekezdés, második albekezdés
+2. cikk, (2) és (3) bekezdés | 2. cikk, (2) és (3) bekezdés
+3. cikk | 3. cikk
+4. cikk, bevezető szavak | 4. cikk, (1) bekezdés, bevezető szavak
+4. cikk, a) pont | 4. cikk, (1) bekezdés, a) pont
+4. cikk, b) pont | 4. cikk, (1) bekezdés, b) pont
+4. cikk, c) pont, első mondat | 4. cikk, (1) bekezdés, c) pont
+4. cikk, c) pont, második mondat | 4. cikk, (2) bekezdés
+5., 6. és 7. cikk | 5., 6. és 7. cikk
+9. cikk, (1) bekezdés, első mondat | 8. cikk, első bekezdés
+9. cikk, (1) bekezdés, második mondat | 8. cikk, második bekezdés
+9. cikk, (2) bekezdés | 1. cikk, (4) bekezdés
+10. cikk, (1) bekezdés | —
+10. cikk, (2) bekezdés | 9. cikk
+— | 10. cikk
+— | 11. cikk
+11. cikk | 12. cikk
+— | I. melléklet
+— | II. melléklet

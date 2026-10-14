@@ -32,6 +32,7 @@ This document describes the v1 interface consumed by this repository. Additive o
 | `coverage` | coverage object | Explicit review denominator and completed coverage. |
 | `passages` | array of passage objects | Ordered English source units forming the reader text. |
 | `findings` | array of finding objects | Supported, agent-reviewed findings only; can be empty at any status. |
+| `impact_families` | array of impact-family objects, optional | Current potential-impact proposals linked to original finding IDs. Preliminary model reviews are labeled; empty or absent means no proposal is available for this act. |
 | `notes` | array of strings | Public-safe context, source scope and analysis limitations. |
 
 ### Status rules
@@ -102,6 +103,31 @@ Rejected, uncertain, invalid-evidence and unreviewed candidates remain private i
 
 Accepted candidates from a batch whose coverage review has not completed remain preliminary and are excluded from the export. A publication hold suppresses all findings for the act without hiding its source texts or coverage. The backend's local hold flag itself is not a public field.
 
+## Potential-impact assessment
+
+`impact_families` is a separate model-reviewed layer. It asks: **If this reading prevails after all authentic versions are interpreted in context, how large could the change in legal outcome be?** MVP proposals need no separate editorial approval; their `review_state` must be displayed. They do not establish that a version is legally wrong, that any product or person is actually affected, or that a market effect occurred. The existing finding `severity: substantial` is the publication threshold and is not a rank on this scale.
+
+Display `high` as **High potential impact**, `moderate` as **Moderate**, and `limited` as **Limited**. Label `provisional` levels as preliminary. A `needs_review` proposal has `impact_level: null` and displays **Impact under review** in the issue index. A finding without an assigned level appears under **No impact rating yet**, including when a needs-review explanation exists. That is a derived filter state, not a fourth `impact_level`. Never infer `limited` from a missing level or `high` from the finding's `substantial` publication threshold.
+
+Each object describes one legal issue, which may link several language findings and several English-quote display groups. A display group may also contain different issues. The reader must join by original finding ID, never infer family membership from a shared English quote. A finding can belong to at most one published family. Partial acts may contain proposals without implying complete act-wide impact coverage.
+
+| Field | Type | Meaning |
+| --- | --- | --- |
+| `id` | non-empty string | Stable issue-family ID, unique within the act. |
+| `title` | non-empty string | Public-safe short description of the legal issue. |
+| `legal_anchor` | non-empty string | Affected rule, provision, or condition; not necessarily the finding language's territory. |
+| `finding_ids` | non-empty array of strings | Unique original finding IDs in this same act, all present in its published `findings`. |
+| `impact_level` | string or null | `high`, `moderate`, or `limited` for an assigned conditional level; null only when `review_state` is `needs_review`. |
+| `confidence` | string | `high`, `medium`, or `low`; separate from impact. |
+| `effect` | non-empty string | Description of the possible changed outcome. Preliminary proposals use the critical review's scenario. |
+| `rationale` | non-empty string | Explanation of the conditional level or unranked hypothesis. |
+| `uncertainty` | non-empty string | Main limitation or unresolved interpretive question. |
+| `rubric_version` | non-empty string | Version of the assessment method. |
+| `assessed_at` | UTC ISO-8601 string | When this assessment was made. |
+| `review_state` | string | `provisional`, `needs_review`, or `confirmed`; the reader labels preliminary and unranked states. |
+
+The backend exports current provisional and needs-review proposals without a separate editorial approval. An existing confirmed assessment retains its separately approved public wording. The exporter rechecks the source and finding revisions and verifies that none of the members is held or missing from the exported act. Stale automated protocol runs are excluded. If no assessment passes, export `[]` or omit the field. The website validator rejects unexpected fields, inconsistent state and level pairs, and invalid or cross-act references. A missing or empty array means **No impact rating yet** for each published finding; it never means `limited` impact or no possible difference.
+
 ### Variant
 
 | Field | Type | Meaning |
@@ -127,7 +153,7 @@ The variant language must be a preserved non-English language. Its source URL mu
 
 The stored finding records remain separate. For display, the reader groups records with the same `passage_id` and exact `english_quote`, lists all reviewed language variants, and preserves each record's title on its language card. Each original finding ID remains a valid alias for the grouped view.
 
-Links use `#act=<encoded-id>&finding=<encoded-finding-id>`, with optional `&lang=<language-code>` to focus on any accounted-for non-English language, including one with no findings or an unavailable source. A focus link may omit `finding`. The requested finding must belong to the selected act; if it does not contain the focused language, the reader ignores that finding while retaining the focus. Unknown act IDs fall back to the first available act; an empty catalogue has an explicit empty state. On initial load, a missing or unknown finding selects the first visible finding when available. Browser Back to the finding index restores the view without a selected finding.
+Links use `#act=<encoded-id>&finding=<encoded-finding-id>`, with optional `&lang=<language-code>` to focus on any accounted-for non-English language, including one with no findings or an unavailable source. Optional `&impact=high|moderate|limited|unrated` focuses on assigned potential impact or findings with **No impact rating yet**. Both focuses are retained in shared links and combined by original finding ID before quote grouping. The existing `unrated` URL token names that derived display state for link compatibility; it does not mean Limited impact. A focus link may omit `finding`. The requested finding must belong to the selected act and match both focuses; otherwise the reader ignores that finding while retaining the focuses. Unknown act IDs fall back to the first available act; an empty catalogue has an explicit empty state. On initial load, a missing or unknown finding selects the first visible finding when available. Browser Back to the finding index restores the view without a selected finding.
 
 The v1 contract has no quote offset. Every exact non-overlapping occurrence is highlighted when wording repeats within a passage. The comparison states the occurrence count and directs the reader to the explanation for the affected context. Highlight repetition must not be described as proof that every matching occurrence is separately discrepant. Overlapping distinct quotes retain separate finding choices.
 

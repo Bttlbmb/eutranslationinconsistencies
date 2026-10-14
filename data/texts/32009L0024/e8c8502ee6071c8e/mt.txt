@@ -1,0 +1,184 @@
+DIRETTIVA 2009/24/KE TAL-PARLAMENT EWROPEW U TAL-KUNSILL
+tat-23 ta’ April 2009
+dwar il-protezzjoni legali ta’ programmi tal-kompjuter
+(Verżjoni kodifikata)
+(Test b’relevanza għaż-ŻEE)
+
+IL-PARLAMENT EWROPEW U L-KUNSILL TAL-UNJONI EWROPEA,
+
+Wara li ikkunsidraw it-Trattat li jistabbilixxi l-Komunità Ewropea, u b’mod partikolari l-Artikolu 95 tiegħu,
+
+Wara li ikkunsidraw il-proposta mill-Kummissjoni,
+
+Wara li ikkunsidraw l-opinjoni tal-Kumitat Ekonomiku u Soċjali Ewropew ( 1 ) ,
+
+Filwaqt li jaġixxu skont il-proċedura stabbilita fl-Artikolu 251 tat-Trattat ( 2 )
+
+Billi:
+
+(1) | Il-kontenut tad-Direttiva 91/250/KEE tal-Kunsill tal-14 ta’ Mejju 1991 dwar il-protezzjoni legali tal-programmi tal-kompjuter ( 3 ) ġie emendat ( 4 ) . Għal iktar ċarezza u razzjonalità, l-imsemmija Direttiva għandha tiġi kkodifikata.
+
+(2) | L-iżvilupp ta’ programmi tal-kompjuter jeħtieġ investiment ta’ riżorsi umani, tekniċi u finanzjarji konsiderevoli, filwaqt li programmi tal-kompjuter jistgħu jiġu ikkupjati b’parti tal-ispiża meħtieġa għall-iżvilupp tagħhom indipendentement.
+
+(3) | Il-programmi tal-kompjuter qegħdin ikollhom parti dejjem aktar importanti fil-firxa wiesa’ tal-industriji u t-teknoloġija tal-programmi tal-kompjuter tista’ f’dan is-sens tiġi ikkunsidrata li hi ta’ importanza fundamentali għall-iżvilupp industrijali tal-Komunità.
+
+(4) | Ċerti differenzi fil-protezzjoni legali ta’ programmi tal-kompjuter offruta bil-liġijiet tal-Istati Membri għandhom effetti diretti u negattivi fuq it-tħaddim tas-suq intern dwar programmi tal-kompjuter.
+
+(5) | Differenzi eżistenti li jkollhom dawn l-effetti hemm bżonn li jitneħħew u oħrajn ġodda ma jitħallewx jinqalgħu, filwaqt li d-differenzi li ma jkollhomx effett kontra it-tħaddim tas-suq intern sa grad sostanzjali m’għandhomx bżonn li jitneħħew jew li ma jitħallewx li jqumu.
+
+(6) | Il-qafas legali tal-Komunità dwar il-protezzjoni ta’ programmi tal-kompjuter jista’ f’dan is-sens primarjament ikun limitat li jistabbilixxi li Stati Membri għandhom jagħtu protezzjoni lill-programmi tal-kompjuter skont liġi tad-drittijiet tal-awtur bħal xogħlijiet letterarji u, ukoll, biex jiġi stabbilit min jew xiex għandu jkun protett, id-drittijiet esklussivi li permezz tagħhom persuni protetti għandhom ikunu jistgħu jafdaw sabiex jawtorizzaw jew jipprojbixxu ċerti atti u għal kemm żmien il-protezzjoni għandha tapplika.
+
+(7) | Għall-fini ta’ din id-Direttiva, it-terminu “programm tal-kompjuter” għandu jinkludi programmi f’kull forma, inklużi dawk li jkunu mdaħħla fil-hardware. Dan it-terminu jinkludi wkoll xogħol preparatorju ta’ disinn li jwassal għall-iżvilupp ta’ programm tal-kompjuter kemm-il darba n-natura tax-xogħol preparatorju huwa hekk li programm tal-kompjuter jista’ jirriżulta minnu fi stadju aktar ’il quddiem.
+
+(8) | Fir-rigward tal-kriterji li għandhom jiġu applikati biex jistabbilixxu jekk programm tal-kompjuter huwiex oriġinali jew le, ebda testijiet m’għandhom jiġu applikati dwar il-merti kwalitattivi jew estetiċi tal-programm.
+
+(9) | Il-Komunità hija impenjata bi sħiħ għall-promozzjoni ta’ standardizzazzjoni internazzjonali.
+
+10) | Il-funzjoni ta’ programm tal-kompjuter hija li jikkomunika u jaħdem flimkien ma’ komponenti oħra f’sistema ta’ kompjuters u ma’ utenti u, għal dan l-iskop, interkonnessjoni u interazzjoni loġika u, fejn ikun xieraq, waħda fiżika hija meħtieġa biex tippermetti l-elementi kollha tas-software u hardware li jaħdmu ma’ software u hardware ieħor u ma’ utenti fil-modi kollha li fihom huma maħsuba li jiffunzjonaw. Il-partijiet tal-programm li jipprovdu għal din l-interkonnessjoni u l-interazzjoni bejn l-elementi tas-software u l-hardware huma ġeneralment magħrufa bħala “interfaces”. Din l-interkonnessjoni u l-interazzjoni funzjonali hija ġeneralment magħrufa bħala “interoperabilità”; din l-interoperabilità tista’ tiġi imfissra bħala l-kapaċità li tagħmel skambju tal-informazzjoni u li tuża’ b’mod reċiproku l-informazzjoni li tkun ġiet skambjata.
+
+(11) | Biex jiġi evitat id-dubju, għandu jkun ċar li l-espressjoni biss ta’ programm tal-kompjuter hija protetta u li l-ideat u prinċipji li jservu ta’ bażi għal kull element fil-programm, inklużi dawk li jservu ta’ bażi għall-interfaces tiegħu, mhumiex protetti bid-drittijiet tal-awtur skont din id-Direttiva. Skont dan il-prinċipju tad-drittijiet tal-awtur, sal-punt li l-loġika, l-algoritmi u lingwi tal-programmi jinkludu ideat u prinċipji, dawk l-ideat u prinċipji mhumiex protetti skont din id-Direttiva. Skont il-leġiżlazzjoni u l-każistika tal-Istati Membri u l-konvenzjonijiet internazzjonali dwar id-drittijiet tal-awtur, l-espressjoni ta’ dawk l-ideat u l-prinċipji għandha tkun protetta bid-drittijiet tal-awtur.
+
+(12) | Għall-finijiet ta’ din id-Direttiva, it-terminu “kirja” ifisser li tagħmel disponibbli għall-użu, għal perijodu limitat ta’ żmien u għal finijiet ta’ qligħ, programm ta’ kompjuter jew kopja tiegħu. Dan it-terminu ma jinkludix self lill-pubbliku, li, f’dan is-sens, jibqa’ barra mill-iskop ta’ din id-Direttiva.
+
+(13) | Id-drittijiet esklussivi tal-awtur li jipprevjenu r-riproduzzjoni mhux awtorizzata ta’ dan ix-xogħol għandhom ikunu soġġetti għall-eċċezzjoni limitata fil-każ ta’ programm tal-kompjuter li tippermetti r-riproduzzjoni teknika meħtieġa għall-użu ta’ dak il-programm minn min jiksbu legalment. Dan ifisser li l-atti li jtellgħu u jħaddmu, meħtieġa għall-użu ta’ kopja ta’ programm li jkun inkiseb legalment, u l-att ta’ korrezzjoni tal-iżbalji tiegħu, jistgħu ma jkunux projbiti b’kuntratt. Fl-assenza ta’ dispożizzjonijiet kuntrattwali speċifiċi, inkluż meta kopja ta’ programm tkun inbiegħet, kull att ieħor meħtieġ għall-użu tal-kopja ta’ programm jista’ jitwettaq skont l-iskop maħsub tiegħu minn min ikun kiseb legalment dik il-kopja.
+
+(14) | Persuna li għandha d-dritt li tuża programm tal-kompjuter m’għandhiex tkun ipprojbita milli twettaq atti meħtieġa biex tosserva, tistudja jew tittestja l-iffunzjonar tal-programm, kemm-il darba dawk l-atti ma jiksrux id-drittijiet tal-awtur fil-programm.
+
+(15) | Ir-riproduzzjoni, traduzzjoni, adattament jew trasformazzjoni mhix awtorizzata tal-forma taċ-ċifrarju li fih kopja ta’ programm tal-kompjuter tkun saret disponibbli, tikkostitwixxi ksur tad-drittijiet esklussivi tal-awtur. Minkejja dan, jistgħu jeżistu ċirkostanzi meta din ir-riproduzzjoni taċ-ċifrarju u t-traduzzjoni tal-forma tiegħu huma indispensabbli biex tikseb l-informazzjoni meħtieġa biex tikseb l-interoperabilità ta’ programm maħluq indipendentement minn programmi oħra. Għalhekk għad għandu jiġi ikkunsidrat li dawn iċ-ċirkostanzi limitati biss, twettiq tal-atti ta’ riproduzzjoni u traduzzjoni minn jew f’isem persuna li għandha d-dritt li tuża’ kopja tal-programm hija leġittima u kompatibbli ma’ prattika ġusta u għandha għalhekk titqies li ma jkollhiex bżonn l-awtorizzazzjoni tad-detentur tad-dritt. Skop ta’ din l-eċċezzjoni huwa li jagħmilha possibbli li jikkonnettja l-komponenti kollha ta’ sistema tal-kompjuter, inklużi dawk ta’ manifatturi differenti, biex ikunu jistgħu jaħdmu flimkien. Din l-eċċezzjoni tad-drittijiet esklussivi tal-awtur ma tistax tintuża’ b’mod li tippreġudika l-interessi leġittimi tad-detentur tad-drittijiet jew li tmur kontra l-isfruttar normali tal-programm.
+
+(16) | Protezzjoni ta’ programmi tal-kompjuter skont liġijiet tad-drittijiet tal-awtur għandha tkun mingħajr preġudizzju għall-applikazzjoni, f’każi xierqa, ta’ forom oħra ta’ protezzjoni. B’danakollu, kull dispożizzjoni kuntrattwali kontrarja għad- dispożizzjonijiet tad-Direttiva msemmija għar-rigward id-dekumpilazzjoni jew għall-eċċezzjonijiet li hemm previsti b’din id-Direttiva għar-rigward l-għemil ta’ kopja ta’ rinforz jew għall-osservazzjoni, l-istudju jew l-ittestjar tal-funzjonament ta’ programm għandha tkun nulla u bla effett.
+
+(17) | Id-dispożizzjonijiet ta’ din id-Direttiva huma mingħajr preġudizzju għall-applikazzjoni tar-regoli tal-kompetizzjoni skont l-Artikoli 81 u 82 tat-Trattat jekk fornitur dominanti jirrifjuta li jagħmel disponibbli l-informazzjoni li hija meħtieġa għall-interoperabilità kif imfissra f’din id-Direttiva.
+
+(18) | Id-dispożizzjonijiet ta’ din id-Direttiva għandhom ikunu mingħajr preġudizzju għar-rekwiżiti speċifiċi tal-liġi tal-Komunità li tkun diġà għaddiet dwar il-pubblikazzjoni ta’ interfaces fis-settur tat-telekomunikazzjonijiet jew Deċiżjonijiet tal-Kunsill dwar l-istandardizzazzjoni fil-qasam tal-informatika u t-telekomunikazzjoni.
+
+(19) | Din id-Direttiva ma taffettwax derogi li hemm provdut dwarhom fil-leġiżlazzjoni nazzjonali skont il-Konvenzjoni ta’ Berna fuq punti li m’humiex regolati b’din id-Direttiva.
+
+(20) | Din id-Direttiva għandha tkun bla ħsara għall-obbligi tal-Istati Membri għar-rigward il-limiti ta’ żmien għat-traspożizzjoni fil-liġi nazzjonali tad-Direttivi mniżżla fl-Anness I, Parti B,
+
+ADOTTAW DIN ID-DIRETTIVA:
+
+Artikolu 1
+L-għan tal-protezzjoni
+1. Skont id-dispożizzjonijiet ta’ din id-Direttiva, l-Istati Membri għandhom jipproteġu programmi tal-kompjuter, bid-drittijiet tal-awtur, bħala xogħlijiet letterarji skont it-tifsira tal-Konvenzjoni ta’ Berna għall-Protezzjoni ta’ Xogħlijiet Letterarji u Artisitiċi. Għall-finijiet ta’ din id-Direttiva, it-terminu “programmi tal-kompjuter” għandu jinkludi l-materjal preparatorju tad-disinn tagħhom.
+2. Protezzjoni skont din id-Direttiva għandha tapplika għall-espressjoni f’kull forma ta’ programm tal-kompjuter. Ideat u prinċipji li jservu ta’ bażi għal kull element ta’ programm tal-kompjuter, inklużi dawk li jservu ta’ bażi għall-interfaces tiegħu, m’humiex protetti bid-drittijiet tal-awtur skont din id-Direttiva.
+3. Programm tal-kompjuter għandu jkun protett jekk ikun oriġinali fis-sens li jkun il-ħolqien intellettwali tal-awtur stess. L-ebda kriterji oħra ma għandhom jiġu applikati biex tiġi stabbilita l-eliġibilità tiegħu għall-protezzjoni.
+4. Id-dispożizzjonijiet ta’ din id-Direttiva għandhom jgħoddu wkoll għall-programmi maħluqa qabel l-1 ta’ Jannar tal-1993 mingħajr preġudizzju għal kull att konkluż u drittijiet miksuba qabel dik id-data.
+
+Artikolu 2
+L-awtur ta’ programmi tal-kompjuter
+1. L-awtur ta’ programm tal-kompjuter għandu jkun il-persuna fiżika jew grupp ta’ persuni fiżiċi li jkun ħoloq il-programm jew, fejn il-leġiżlazzjoni tal-Istat Membru tippermetti, il-persuna ġuridika maħtura bħala detentur tad-drittijiet minn dik il-leġiżlazzjoni.
+Fejn xogħlijiet kollettivi huma rikonoxxuti bil-leġiżlazzjoni ta’ Stat Membru, il-persuna ikkunsidrata mil-leġiżlazzjoni tal-Istat Membru li tkun ħolqot ix-xogħol għandha titqies bħala l-awtur tiegħu.
+2. Fir-rigward ta’ programm tal-kompjuter maħluq minn grupp ta’ persuni fiżiċi flimkien, id-drittijiet esklussivi għandhom ikunu ipposseduti flimkien.
+3. Fejn programm tal-kompjuter jinħoloq minn impjegat fit-twettiq ta’ dmirijietu jew billi jsegwi struzzjonijiet mogħtija mill-prinċipal tiegħu, il-prinċipal b’mod esklussiv għandu jkun intitolat biex jeżerċita d-drittijiet ekonomiċi kollha fil-programm hekk maħluq, kemm-il darba ma jkunx hemm provdut mod ieħor bil-kuntratt.
+
+Artikolu 3
+Il-benefiċjarji tal-protezzjoni
+Protezzjoni għandha tingħata lill-persuni fiżiċi jew ġuridiċi kollha eliġibbli skont il-leġiżlazzjoni nazzjonali dwar id-drittijiet tal-awtur kif applikata għal xogħlijiet letterarji.
+
+Artikolu 4
+Atti ristretti
+1. Bla ħsara għad-dispożizzjonijiet tal-Artikoli 5 u 6, id-drittijiet esklussivi tad-detentur tad-drittijiet skont it-tifsira tal-Artikolu 2 għandhom jinkludu d-dritt li jagħmlu jew li jawtorizzaw:
+(a) | ir-riproduzzjoni permanenti jew temporanja ta’ programm tal-kompjuter b’kull mezz u f’kull forma, f’parti jew kollha. In kwantu għat-tlugħ, wiri, tħaddim, trasmissjoni jew ħażna tal-programm tal-kompjuter ikun hemm bżonn din ir-riproduzzjoni, dawn l-atti għandhom ikunu soġġetti għall-awtorizzazzjoni mid-detentur tad-drittijiet;
+(b) | it-traduzzjoni, addattament, arranġament u kull alterazzjoni oħra ta’ programm tal-kompjuter u r-riproduzzjoni tar-riżultati tagħhom, mingħajr preġudizzju għad-drittijiet tal-persuna li tibdel il-programm;
+(c) | kull forma ta’ distribuzzjoni lill-pubbliku, inkluż il-kiri, tal-programm oriġinali tal-kompjuter jew kopji tiegħu.
+2. L-ewwel bejgħ fil-Komunità ta’ kopja ta’ programm mid-detentur tad-drittijiet jew bil-kunsens tiegħu għandu jeżawrixxi d-dritt ta’ distribuzzjoni fil-Komunità ta’ dik il-kopja, bl-eċċezzjoni tad-dritt biex jikkontrolla aktar il-kiri tal-programm jew kopja tiegħu.
+
+Artikolu 5
+Eċċezzjonijiet għall-atti ristretti
+1. Fl-assenza ta’ dispożizzjonijiet speċifiċi kuntrattwali, l-atti msemmija fil-punti (a) u (b) tal-Artikolu 4(1) m’għandhomx jeħtieġu awtorizzazzjoni mid-detentur tad-drittijiet fejn ikunu meħtieġa għall-użu tal-programm tal-kompjuter minn min jiksbu legalment skont il-fini maħsub tiegħu, inkluża l-korrezzjoni ta’ żball.
+2. It-twettiq ta’ kopja ta’ rinforz minn persuna li jkollha dritt li tħaddem il-programm tal-kompjuter tista’ ma tkunx miżmuma b’kuntratt għal kemm żmien ikun meħtieġ għal dak l-użu.
+3. Il-persuna li jkollha dritt tuża kopja ta’ programm tal-kompjuter għandha tkun intitolata, mingħajr l-awtorizzazzjoni tad-detentur tad-drittijiet, li tosserva, tistudja jew tittestja l-funzjonament tal-programm sabiex tiddeċiedi l-ideat u l-prinċipji li huma l-bażi ta’ kull element tal-programm jekk hu jagħmel hekk waqt li jkun iwettaq kull att ta’ tlugħ, wiri, tħaddim, trasmissjoni jew ħażna ta’ programm li hu jkun intitolat li jagħmel.
+
+Artikolu 6
+Dekumpilazzjoni
+1. L-awtorizzazzjoni tad-detentur tad-drittijiet m’għandhiex tkun meħtieġa fejn ir-riproduzzjoni taċ-ċifrarju u t-traduzzjoni tal-forma tiegħu skont it-tifsira tal-punti (a) u (b) tal-Artikolu 4(1) huma indispensabbli biex tottjeni l-informazzjoni meħtieġa biex tikseb l-interoperabilità ta’ programm tal-kompjuter maħluq indipendentement minn programmi oħra, kemm-il darba jsiru skont dawn il-kundizzjonijiet li ġejjin:
+(a) | dawk l-atti jitwettqu mill-persuna li tingħatalha l-liċenzja jew minn persuna oħra li jkollha d-dritt li tuża’ kopja ta’ programm, jew f’isimhom minn persuna awtorizzata li tagħmel dan;
+(b) | l-informazzjoni meħtieġa biex tikseb l-interoperabilità ma tkunx minn qabel disponibbli għall-persuni msemmija fil-punt (a); u
+(c) | dawk l-atti jkunu limitati għall-partijiet tal-programm oriġinali li huma meħtieġa biex jiksbu l-interoperabilità.
+2. Id-dispożizzjonijiet tal-paragrafu 1 ma għandhomx jippermettu l-informazzjoni miksuba permezz tal-applikazzjoni tiegħu:
+(a) | li tintuża għal għanijiet oħra għajr biex tikseb l-interoperabilità tal-programm tal-kompjuter maħluq indipendentement;
+(b) | li tingħata lill-oħrajn, għajr meta jkun meħtieġ għall-interoperabilità ta’ programm tal-kompjuter maħluq indipendentement; jew
+(c) | li tintuża għall-iżvilupp, produzzjoni jew kummerċ ta’ programm tal-kompjuter sostanzjalment simili fl-espressjoni tiegħu, jew għal kull att ieħor li jikser id-drittijiet tal-awtur.
+3. Skont id-dispożizzjonijiet tal-Konvenzjoni ta’ Berna għall-protezzjoni ta’ Xogħlijiet Letterarji u Artistiċi, id-dispożizzjonijiet ta’ dan l-Artikolu ma jistgħux jiġu interpretati b’mod li jippermettu l-applikazzjoni tiegħu li tintuża b’mod li tippreġudika b’mod mhux raġunat l-interessi ġusti tad-detentur leġittimu jew imorru kontra l-isfruttar normali tal-programm tal-kompjuter.
+
+Artikolu 7
+Miżuri speċjali ta’ protezzjoni
+1. Mingħajr preġudizzju għad-dispożizzjonijiet tal-Artikoli 4, 5 u 6, l-Istati Membri għandhom jipprovdu, skont il-leġiżlazzjoni nazzjonali tagħhom, rimedji xierqa kontra persuna li tikkommetti xi wieħed mill-atti li ġejjin:
+(a) | kull att li jqiegħed fiċ-ċirkulazzjoni kopja ta’ programm tal-kompjuter waqt li jaf, jew li jkollu raġuni għalfejn jemmen, li hija kopja illegali;
+(b) | il-pussess, għal finijiet kummerċjali, ta’ kopja ta’ programm tal-kompjuter waqt li jkun jaf, jew ikollu raġuni għalfejn jemmen, li tkun kopja illegali;
+(c) | kull att li jqiegħed fiċ-ċirkulazzjoni, jew il-pussess għal finijiet kummerċjali ta’ kull mezz li l-uniku għan maħsub għalih hu li jħaffef, li jneħħi mingħajr awtorità jew li jeħles minn xi strument tekniku li jista’ jkun applikat biex jipproteġi programm tal-kompjuter.
+2. Kull kopja illegali ta’ programm tal-kompjuter tista’ tiġi sekwestrata skont il-leġiżlazzjoni tal-Istat Membru interessat.
+3. L-Istati Membri jistgħu jipprovdu għas-sekwestru b’kull mezz imsemmi fil-punt (c) tal-paragrafu 1.
+
+Artikolu 8
+Applikazzjoni kontinwa ta’ dispożizzjonijiet legali oħra
+Id-dispożizzjonijiet ta’ din id-Direttiva għandhom ikunu mingħajr preġudizzju għal kull dispożizzjoni legali oħra bħal dik dwar id-drittijiet tal-privattivi, trademarks, kompetizzjoni inġusta, sigrieti tas-sengħa, protezzjoni ta’ prodotti semikundutturi jew liġi ta’ kuntratt.
+Kull dispożizzjoni kuntrattwali kuntrarja għall-Artikolu 6 jew għall-eċċezzjonijiet li hemm provdut dwarhom fl-Artikolu 5(2) u (3) għandhom ikunu nulli u bla effett.
+
+Artikolu 9
+Komunikazzjoni
+L-Istati Membri għandhom jgħarrfu lill-Kummissjoni bid-dispożizzjonijiet tal-liġi nazzjonali adottati fil-qasam regolat minn din id-Direttiva.
+
+Artikolu 10
+Deroga
+Id-Direttiva 91/250/KEE, kif emendata mid-Direttiva imniżżla fl-Anness I, Parti A hi mħassra, bla ħsara għall-obbligi tal-Istati Membri għar-rigward il-limiti ta’ żmien għat-traspożizzjoni fil-liġi nazzjonali tad-Direttivi mniżżla fl-Anness I, Parti B.
+Riferenzi għad-Direttiva mħassra għandhom jinftiehmu bħala riferenzi għal din id-Direttiva u għandhom jinqraw skont it-tabella ta’ korrelazzjoni fl-Anness II.
+
+Artikolu 11
+Dħul fis-seħħ
+Din id-Direttiva għandha tidħol fis-seħħ fl-għoxrin jum wara l-pubblikazzjoni tagħha f’ Il-Ġurnal Uffiċjali tal-Unjoni Ewropea .
+
+Artikolu 12
+Destinatarji
+Din id-Direttiva hija indirizzata lill-Istati Membri.
+
+Magħmula fi Strażburgu, 23 ta’ April 2009.
+Għall-Parlament Ewropew
+Il-President
+H.-G. PÖTTERING
+Għall-Kunsill
+Il-President
+P. NEČAS
+( 1 ) ĠU C 204, 9.8.2008, p. 24 .
+( 2 ) L-Opinjoni tal-Parlament Ewropew tas-17 ta’ Ġunju 2008 (għadha mhix ippubblikata fil-Ġurnal Uffiċjali) u d-Deċiżjoni tal-Kunsill tat-23 ta’ Marzu 2009.
+( 3 ) ĠU L 122, 17.5.1991, p. 42 .
+( 4 ) Ara l-Anness I, Parti A.
+
+ANNESS I
+PARTI A
+Direttiva imħassra flimkien ma’ lista ta’ l-emendi suċċessivi tagħha
+(imsemmija fl-Artikolu 10)
+Direttiva tal-Kunsill 91/250/KEE ( ĠU L 122, 17.5.1991, p. 42 ) | 
+Direttiva tal-Kunsill 93/98/KEE ( ĠU L 290, 24.11.1993, p. 9 ) | Artikolu 11(1) biss
+PARTI B
+Lista tal-limiti ta’ żmien għat-traspożizzjoni fil-liġi nazzjonali
+(imsemmija fl-Artikolu 10)
+Direttiva | Limitu ta’ żmien għat-traspożizzjoni
+91/250/KEE | 31 ta’ Diċembru 1992
+93/98/KEE | 30 ta’ Ġunju 1995
+
+ANNESS II
+Tabella ta’ korrelazzjoni
+Direttiva 91/250/KEE | Din id-Direttiva
+Artikolu 1(1), (2) u (3) | Artikolu 1(1), (2) u (3)
+Artikolu 2(1), l-ewwel sentenza | Artikolu 2(1), l-ewwel subparagrafu
+Artikolu 2(1), it-tieni sentenza | Artikolu 2(1), it-tieni subparagrafu
+Artikolu 2(2) u (3) | Artikolu 2(2) u (3)
+Artikolu 3 | Artikolu 3
+Artikolu 4, kliem tal-bidu | Artikolu 4(1), kliem tal-bidu
+Artikolu 4(a) | Artikolu 4(1), il-punt (a)
+Artikolu 4(b) | Artikolu 4(1), il-punt (b)
+Artikolu 4(c), l-ewwel sentenza | Artikolu 4(1), il-punt (c)
+Artikolu 4(c), it-tieni sentenza | Artikolu 4(2)
+Artikoli 5, 6 u 7 | Artikoli 5, 6 u 7
+Artikolu 9(1), l-ewwel sentenza | Artikolu 8, l-ewwel paragrafu
+Artikolu 9(1), it-tieni sentenza | Artikolu 8, it-tieni paragrafu
+Artikolu 9(2) | Artikolu 1(4)
+Artikolu 10(1) | —
+Artikolu 10(2) | Artikolu 9
+— | Artikolu 10
+— | Artikolu 11
+Artikolu 11 | Artikolu 12
+— | Anness I
+— | Anness II

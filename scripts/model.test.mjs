@@ -6,6 +6,12 @@ import {
   substantialLanguageIndex,
   focusLanguageIndex,
   groupedFindings,
+  focusedFindingTitle,
+  findingCounts,
+  comparedWording,
+  impactDisplayLabel,
+  impactFamilies,
+  impactFocusedFindings,
   highlightedSegments,
   passageRows,
   sourceOccurrences,
@@ -16,6 +22,59 @@ import {
   selectionHash,
   completionMessage
 } from '../model.js';
+
+test('comparison counts distinguish quote groups from distinct focused records', () => {
+  const groups = [{ id: 'a', aliases: ['a', 'b'], variants: [
+    { language: 'de', finding_id: 'a' }, { language: 'de', finding_id: 'a' },
+    { language: 'fr', finding_id: 'b' }
+  ] }, { id: 'c', aliases: ['c'], variants: [{ language: 'fr', finding_id: 'c' }] }];
+  assert.deepEqual(findingCounts(groups), { groups: 2, findings: 3 });
+  assert.deepEqual(findingCounts(groups, 'de'), { groups: 1, findings: 1 });
+  assert.deepEqual(findingCounts(groups, 'fr'), { groups: 2, findings: 2 });
+  assert.deepEqual(findingCounts(groups, 'it'), { groups: 0, findings: 0 });
+});
+
+test('wording emphasis isolates substitutions without rewriting either quotation', () => {
+  const english = '(polyols and/or intense sweeteners)';
+  const translation = '(polyols and/or other sweeteners)';
+  const result = comparedWording(english, translation);
+  assert.equal(result.english.map(s => s.text).join(''), english);
+  assert.equal(result.translation.map(s => s.text).join(''), translation);
+  assert.equal(result.english.filter(s => s.changed).map(s => s.text).join(''), 'intense');
+  assert.equal(result.translation.filter(s => s.changed).map(s => s.text).join(''), 'other');
+});
+
+test('wording comparison preserves unicode and spacing and handles omitted wording', () => {
+  const english = 'A\n  calorie-reduced variant, “τόνικ”.';
+  const translation = 'A\tvariant, “τόνικ”.';
+  const result = comparedWording(english, translation);
+  assert.equal(result.english.map(s => s.text).join(''), english);
+  assert.equal(result.translation.map(s => s.text).join(''), translation);
+  assert.equal(result.english.filter(s => s.changed).map(s => s.text).join(''), 'calorie-reduced');
+  assert.ok(result.translation.every(s => !s.changed));
+  assert.ok(comparedWording('A word', 'a  word').english.every(s => !s.changed));
+  assert.deepEqual(comparedWording('', ''), { english: [], translation: [] });
+});
+
+test('long comparisons preserve exact text while bounding matching work', () => {
+  const english = `Common start ${'long quote '.repeat(400)}end`;
+  const translation = `Common start ${'different wording '.repeat(400)}end`;
+  const result = comparedWording(english, translation);
+  assert.equal(result.english.map(s => s.text).join(''), english);
+  assert.equal(result.translation.map(s => s.text).join(''), translation);
+  assert.ok(result.english.some(s => s.changed));
+  assert.equal(result.english[0].changed, false);
+  assert.equal(result.english.at(-1).changed, false);
+});
+
+test('impact labels keep the publication threshold separate from ratings', () => {
+  assert.equal(impactDisplayLabel('high'), 'High potential impact');
+  assert.equal(impactDisplayLabel('moderate'), 'Moderate');
+  assert.equal(impactDisplayLabel('limited'), 'Limited');
+  assert.equal(impactDisplayLabel('unrated'), 'No impact rating yet');
+  assert.equal(impactDisplayLabel(null), 'Impact under review');
+  assert.equal(impactDisplayLabel('substantial'), '');
+});
 
 // Artificial strings below are unit-test fixtures, never published source data.
 const act = {
@@ -138,6 +197,125 @@ test('deep links select an act and only a published finding from that act', () =
   assert.equal(selectedFromHash('#act=test-act&finding=missing', [act]).finding, null);
   assert.equal(selectedFromHash('#act=missing', [act]).act.id, act.id);
   assert.equal(selectedFromHash('', []).act, null);
+});
+
+test('impact families stay distinct within a shared quote and can span two quote groups', () => {
+  const findings = [
+    { ...act.findings[0], id: 'da', variants: [{ language: 'da' }] },
+    { ...act.findings[0], id: 'et', variants: [{ language: 'et' }] },
+    { ...act.findings[0], id: 'sk', variants: [{ language: 'sk' }] },
+    { ...act.findings[0], id: 'bg', english_quote: 'alpha beta', variants: [{ language: 'bg' }] },
+    { ...act.findings[0], id: 'it', english_quote: 'gamma delta', variants: [{ language: 'it' }] }
+  ];
+  const family = (id, ids) => ({
+    id,
+    title: id,
+    impact_level: 'moderate',
+    review_state: 'confirmed',
+    effect: 'Could change an applicable condition.',
+    finding_ids: ids
+  });
+  const document = {
+    ...act,
+    findings,
+    languages: ['da', 'et', 'sk', 'bg', 'it'].map((code) => ({ code, name: code.toUpperCase() })),
+    impact_families: [
+      family('malt', ['da']),
+      family('extract', ['et']),
+      family('ingredient', ['sk']),
+      family('calories', ['bg', 'it'])
+    ]
+  };
+  assert.equal(groupedFindings(document).length, 3);
+  assert.deepEqual(groupedFindings(document)[0].aliases, ['da', 'et', 'sk']);
+  assert.deepEqual(groupedFindings(document)[0].variants.map((variant) => variant.finding_id), ['da', 'et', 'sk']);
+  assert.equal(impactFamilies(document).length, 4);
+  assert.deepEqual(impactFamilies(document).find((item) => item.id === 'calories').languages, ['bg', 'it']);
+
+  const selected = selectedFromHash('#act=test-act&finding=it&view=impact&issue=calories', [document]);
+  assert.equal(selected.issue.id, 'calories');
+  assert.equal(selected.issueFindingId, 'it');
+  assert.equal(selected.finding.id, 'it');
+  assert.equal(selectionHash(selected), 'act=test-act&finding=it&view=impact&issue=calories');
+  const focused = selectedFromHash('#act=test-act&finding=it&lang=bg&view=impact&issue=calories', [document]);
+  assert.equal(focused.issue.id, 'calories');
+  assert.equal(focused.issueFindingId, 'bg');
+  assert.equal(focused.finding.id, 'bg');
+  assert.equal(selectedFromHash('#act=test-act&finding=da&view=impact&issue=ingredient', [document]).issueFindingId, 'sk');
+  assert.equal(selectedFromHash('#act=test-act&view=impact&issue=missing', [document]).issue, null);
+  assert.equal(selectedFromHash('#act=test-act&finding=da&view=impact&issue=missing', [document]).finding, null);
+  assert.equal(selectedFromHash('#act=test-act&lang=da&view=impact&issue=calories', [document]).issue, null);
+});
+
+test('impact index includes preliminary and unranked proposals with valid references', () => {
+  const family = {
+    id: 'test', title: 'Test', effect: 'Could change reach.', impact_level: 'high',
+    finding_ids: ['test-finding']
+  };
+  assert.equal(impactFamilies({ ...act, impact_families: [family] }).length, 0);
+  assert.equal(impactFamilies({ ...act, impact_families: [{ ...family, review_state: 'confirmed' }] }).length, 1);
+  assert.equal(impactFamilies({ ...act, impact_families: [{ ...family, review_state: 'provisional' }] }).length, 1);
+  assert.equal(impactFamilies({ ...act, impact_families: [{ ...family, review_state: 'needs_review', impact_level: null }] }).length, 1);
+  assert.equal(impactFamilies({ ...act, impact_families: [{ ...family, review_state: 'confirmed', finding_ids: ['absent'] }] }).length, 0);
+});
+
+test('impact focus filters original findings before grouping and preserves focused links', () => {
+  const makeFinding = (id, language, quote = 'beta gamma') => ({
+    ...act.findings[0], id, english_quote: quote,
+    variants: [{ language, language_name: language.toUpperCase() }]
+  });
+  const makeFamily = (id, findingId, impactLevel) => ({
+    id, title: id, impact_level: impactLevel, review_state: 'confirmed',
+    effect: 'Could change the legal outcome.', finding_ids: [findingId]
+  });
+  const document = {
+    ...act,
+    languages: ['de', 'fr', 'it', 'es'].map((code) => ({ code, name: code.toUpperCase() })),
+    findings: [
+      makeFinding('high-de', 'de'),
+      makeFinding('moderate-fr', 'fr'),
+      makeFinding('unrated-it', 'it'),
+      makeFinding('limited-es', 'es', 'alpha beta')
+    ],
+    impact_families: [
+      makeFamily('high-issue', 'high-de', 'high'),
+      makeFamily('moderate-issue', 'moderate-fr', 'moderate'),
+      makeFamily('limited-issue', 'limited-es', 'limited')
+    ]
+  };
+  assert.equal(groupedFindings(document).length, 2);
+  assert.deepEqual(impactFocusedFindings(document, 'high').map((group) => group.aliases), [['high-de']]);
+  assert.deepEqual(impactFocusedFindings(document, 'high')[0].variants.map((variant) => variant.language), ['de']);
+  assert.deepEqual(impactFocusedFindings(document, 'moderate').map((group) => group.aliases), [['moderate-fr']]);
+  assert.deepEqual(impactFocusedFindings(document, 'limited').map((group) => group.aliases), [['limited-es']]);
+  assert.deepEqual(impactFocusedFindings(document, 'unrated').map((group) => group.aliases), [['unrated-it']]);
+  assert.equal(impactFocusedFindings({ ...document, impact_families: [] }, 'unrated').length, 2);
+  assert.equal(impactFocusedFindings({ ...document, impact_families: [] }, 'high').length, 0);
+
+  const high = selectedFromHash('#act=test-act&finding=high-de&lang=de&impact=high', [document]);
+  assert.equal(high.finding.id, 'high-de');
+  assert.equal(selectionHash(high), 'act=test-act&finding=high-de&lang=de&impact=high');
+  assert.equal(selectedFromHash('#act=test-act&finding=moderate-fr&impact=high', [document]).finding, null);
+  assert.equal(selectedFromHash('#act=test-act&finding=high-de&lang=fr&impact=high', [document]).finding, null);
+  assert.equal(selectedFromHash('#act=test-act&impact=critical', [document]).impact, null);
+  assert.equal(selectedFromHash('#act=test-act&impact=unrated&finding=unrated-it', [document]).finding.id, 'unrated-it');
+  assert.equal(selectedFromHash('#act=test-act&impact=high&view=impact&issue=moderate-issue', [document]).issue, null);
+  assert.equal(selectedFromHash('#act=test-act&impact=high&view=impact&issue=high-issue', [document]).issue.id, 'high-issue');
+});
+
+test('shared-quote titles follow every finding in the focused language', () => {
+  const document = {
+    ...act,
+    findings: [
+      { ...act.findings[0], id: 'de', title: 'German issue', variants: [{ language: 'de' }] },
+      { ...act.findings[0], id: 'fr-one', title: 'First French issue', variants: [{ language: 'fr' }] },
+      { ...act.findings[0], id: 'fr-two', title: 'Second French issue', variants: [{ language: 'fr' }] }
+    ]
+  };
+  const group = groupedFindings(document)[0];
+  assert.equal(focusedFindingTitle(group, 'fr'), 'First French issue, and related differences');
+  assert.equal(focusedFindingTitle(group, 'de'), 'German issue');
+  assert.equal(focusedFindingTitle(group), group.title);
 });
 
 test('archive links cannot escape the exported data directory', () => {

@@ -6,15 +6,21 @@ The site is static and read-only. It keeps working while the owner's computer is
 
 ## Read the collection
 
+Opening an act shows the **Findings** list in the right pane. Filtering the list keeps it open; select a finding to see its comparison. Direct finding links open that comparison immediately.
+
 The front page lists the collection with each act's review status, source version, English word count, language findings, and available impact proposals. Partially reviewed acts show a yellow badge such as **89.9% reviewed**, using the percentage of recorded passage–language comparisons reviewed, rounded to one decimal place without rounding unfinished coverage up to 100%. Word counts use the preserved English text shown in the reader, including introductory text, annexes and footnotes where available; whitespace separates words, numbers count, and standalone punctuation is excluded. Language findings count published records; the reader combines records sharing an English quotation in the same passage into grouped comparisons. Expand a language list to see names and counts. Impact bars appear when at least one preliminary rating is available; unranked issue proposals are linked separately.
 
-Choose an act from the selector at the top. Use **Focus language** to show only one language's findings and English-text highlights, including languages with no published findings. Select highlighted wording to open its comparison, and use the arrows to move between findings. **Highlights only** shows passages with findings. A copied finding link retains the focus language for another reader.
+Open an act to enter the reader, or choose another act from its selector. **Language** in the comparison pane lists only languages with matching published findings, with record counts beside each name, such as **German (1)**. Counts and available choices follow the active impact filter. **All languages** shows the total matching record count. Shared links to zero-finding or unavailable languages still show their explicit status, but those languages are not offered as menu choices. **Impact** shows findings with a **High potential impact**, **Moderate**, or **Limited** preliminary assessment, or **No impact rating yet** where no level is assigned. For acts without ratings, expand **Impact options** to reach the filter and issue index. A selected impact focus stays visible, including in direct links. The two filters combine. The unranked state may include an impact issue under review and never means Limited impact. Select highlighted wording to open its comparison, and use the arrows to move between findings. **Highlights only** shows passages with findings. **Copy link** beside comparison navigation retains both focuses. Existing root links with an act, finding, language, or issue selection continue to open the reader.
 
-Check **Act details**, **Review coverage**, and **Source archive** for the version, progress, and source limitations. A comparison unit is one English passage compared with one other language. A partially reviewed act can already contain supported findings from completed batches. No findings is not proof that the language versions are equivalent.
+The desktop reader uses a bounded split layout with aligned pane toolbars. Comparison navigation stays visible while its evidence scrolls. Selecting a finding or switching the source-text view brings its exact highlighted wording into view. Acts and focus languages without published findings show a compact status notice above the source text, with review coverage and source archives still accessible.
 
-English is a reading reference and has no higher legal authority than the other official versions. The findings are possible discrepancies reviewed by AI agents, not adjudicated legal errors. Original wording and translated wording are labelled separately.
+The comparison panel keeps **Text order** as the default. **Potential impact** offers a separate issue-level index for current impact proposals. One issue can link several language findings and highlighted passages; one highlighted quote can also contain several distinct issues. Preliminary ratings describe a possible change in legal outcome if a reading prevails, with confidence and uncertainty shown separately. Needs-review issues appear without a rank. An empty impact index means no proposal is available for that act, not that its findings have limited impact.
 
-The current snapshot contains the completed review of Regulation 2019/343. Its exact version, language counts, and findings are recorded in `data/catalogue.json`; the collection can change when the backend exports another snapshot.
+Check **Review and sources** for the full source title, version, coverage, source limitations, archives, and finding review method. The document header keeps review status visible. A comparison unit is one English passage compared with one other language. A partially reviewed act can already contain supported findings from completed batches. No findings is not proof that the language versions are equivalent.
+
+English is a reading reference and has no higher legal authority than the other official versions. Each language card keeps official English wording, the translation into English, and original-language wording visible together. Underlining marks mechanical wording differences between the two English quotations; it never assigns legal significance or impact. Quotes retain every source character. The findings are possible discrepancies reviewed by AI agents, not adjudicated legal errors. Original wording and translated wording are labelled separately.
+
+The catalogue records each act's exact version, language counts, findings, and review coverage in `data/catalogue.json`; the collection can change when the backend exports another snapshot.
 
 ## Develop locally
 
@@ -27,13 +33,17 @@ npm run build
 npm start
 ```
 
-Open http://127.0.0.1:4173. The development server serves `dist/` on loopback. `PORT=4174 npm start` changes the port. Rebuild after changing source or public data.
+Open http://127.0.0.1:4173 for the collection or http://127.0.0.1:4173/reader.html for the reader. The development server serves `dist/` on loopback. `PORT=4174 npm start` changes the port. Rebuild after changing source or public data.
 
 ## Code map
 
 | File | Responsibility |
 | --- | --- |
-| `index.html` | Page structure, accessible controls, method dialog, and search-engine exclusion. |
+| `index.html` | Collection front page and legacy reader-link forwarding. |
+| `catalogue-model.js` | Pure collection counts, review-state labels, ordering, and reader links. |
+| `catalogue.js`, `catalogue.css` | Collection front-page rendering, navigation, and responsive presentation. |
+| `reader.html` | Reader structure, accessible controls, compact review status, method dialog, and search-engine exclusion. |
+| `site-header.css` | Shared catalogue and reader header, site-title typography, and Method control. |
 | `styles.css` | Reading layout, source rows, quote cards, and small-screen rules. |
 | `app.js` | Selected act/finding/language, browser history, navigation, and reading panes. |
 | `model.js` | Pure grouping, source offsets, highlights, links, and completion labels. |
@@ -51,6 +61,8 @@ Read `AGENTS.md` before editing. The backend's [architecture guide](../backend/A
 
 The backend exports `data/catalogue.json` and versioned text files in `data/texts/`. [SCHEMA.md](SCHEMA.md) defines the self-contained v1 contract. This repository can be built independently once that public snapshot is present. Source imports, model calls, submissions, and private research records belong to the backend.
 
+The optional `impact_families` export contains current preliminary or confirmed assessments linked to original published finding IDs. Needs-review proposals have no impact level. The validator rejects inconsistent state and level pairs, unknown or repeated finding references, and fields outside its narrow public allowlist. The browser never reads the private assessment database.
+
 Build validation checks archive paths and bytes, exact English passages and quotations, foreign-language evidence, official source links, review metadata, language availability, and reconciled coverage. A complete label cannot conceal missing review coverage. Validation and copying use the same loaded bytes, so a newer export cannot silently replace data after it was checked. New browser modules must also be added to the explicit asset list in `scripts/build.mjs`.
 
 The reader renders source wording with text nodes. `passageRows` and highlights refer to offsets in that text, so visual list formatting never rewrites the source characters. Records sharing the same English passage and quote are grouped for display, while each language's original finding title and every original finding link remain available.
@@ -59,17 +71,20 @@ The v1 format has no quote offset. When quoted wording repeats, all exact non-ov
 
 ## Verify the reader
 
-`npm test` checks source preservation, repeated and overlapping quotes, finding groups, links, URL restrictions, review labels, and rejected invalid snapshots. `npm run check` verifies the actual public evidence. `npm run build` performs the same validation before packaging.
+`npm test` checks source preservation, repeated and overlapping quotes, finding and issue groups, links, URL restrictions, review labels, and rejected invalid snapshots. `npm run check` verifies the actual public evidence. `npm run build` performs the same validation before packaging.
 
 For interface changes, exercise the real snapshot in a browser on desktop and narrow screens:
 
 - Choose different acts; search the collection.
 - Follow a highlight, switch overlapping findings, and inspect grouped language cards.
-- Focus on a language with findings and one with none; check an unavailable source and review-status wording.
+- Switch between Text order and Potential impact; inspect preliminary labels, unranked issues, confidence notes, and related evidence locations. An empty impact index must not imply low impact.
+- Focus on a language with findings and check its dropdown count; follow direct links to zero-finding and unavailable languages and check review-status wording.
+- Focus on each assigned impact level and No impact rating yet; combine with languages, confirm only matching original findings appear in shared quote groups, and check empty results never imply low impact.
 - Use next/previous, switch acts while focused, and follow a direct finding or focus-language link.
 - Use browser Back to restore the preceding selection or finding index.
 - Expand coverage/source notes, download a text, and use the method dialog with the keyboard.
 - Check that wording is readable, no horizontal overflow appears, and requests stay within the static reader or explicit official source links.
+- Verify the pane toolbar baselines at desktop widths, keep a selected quotation visible after toggling highlights or resizing, and check the compact pending and unavailable-language states.
 
 ## Publication
 

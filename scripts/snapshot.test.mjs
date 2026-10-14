@@ -65,6 +65,23 @@ function fixture() {
   return { catalogue: { schema_version: 1, legislation: [act] }, files };
 }
 
+function approvedImpactFamily() {
+  return {
+    id: 'issue-1',
+    title: 'Condition may change',
+    legal_anchor: 'Article 1 condition',
+    finding_ids: ['f1'],
+    impact_level: 'moderate',
+    confidence: 'medium',
+    effect: 'A person could fall inside the rule under one reading.',
+    rationale: 'The changed boundary could alter an identifiable legal outcome.',
+    uncertainty: 'The reading has not been resolved across all authentic versions.',
+    rubric_version: 'potential-impact-1',
+    assessed_at: '2026-10-14T00:00:00Z',
+    review_state: 'confirmed'
+  };
+}
+
 test('snapshot checks preserve the exact approved bytes and accept an empty collection', async () => {
   const { catalogue, files } = fixture();
   const archives = await validateSnapshot(catalogue, (url) => files.get(url));
@@ -78,6 +95,49 @@ test('snapshot checks preserve the exact approved bytes and accept an empty coll
     0
   );
 });
+
+test('snapshot accepts an approved issue family linked to an original published finding', async () => {
+  const { catalogue, files } = fixture();
+  catalogue.legislation[0].impact_families = [approvedImpactFamily()];
+  await validateSnapshot(catalogue, (url) => files.get(url));
+});
+
+test('snapshot accepts a preliminary rating and an unranked issue proposal', async () => {
+  const { catalogue, files } = fixture();
+  catalogue.legislation[0].impact_families = [
+    { ...approvedImpactFamily(), review_state: 'provisional' }
+  ];
+  await validateSnapshot(catalogue, (url) => files.get(url));
+  catalogue.legislation[0].impact_families[0].review_state = 'needs_review';
+  catalogue.legislation[0].impact_families[0].impact_level = null;
+  await validateSnapshot(catalogue, (url) => files.get(url));
+});
+
+for (const [name, change] of [
+  ['a needs-review issue with a rank', (act) => { act.impact_families[0].review_state = 'needs_review'; }],
+  ['a provisional issue without a rank', (act) => { act.impact_families[0].review_state = 'provisional'; act.impact_families[0].impact_level = null; }],
+  ['an invalid level', (act) => { act.impact_families[0].impact_level = 'substantial'; }],
+  ['a missing finding', (act) => { act.impact_families[0].finding_ids = ['absent']; }],
+  ['a held or otherwise unpublished finding', (act) => { act.findings = []; }],
+  ['a repeated member within one family', (act) => { act.impact_families[0].finding_ids = ['f1', 'f1']; }],
+  ['one finding assigned to two families', (act) => {
+    act.impact_families.push({ ...approvedImpactFamily(), id: 'issue-2' });
+  }],
+  ['a repeated family ID', (act) => { act.impact_families.push(approvedImpactFamily()); }],
+  ['private fields in a public family', (act) => { act.impact_families[0].assessor = 'private'; }],
+  ['a timestamp outside UTC', (act) => { act.impact_families[0].assessed_at = '2026-10-14T09:00:00+09:00'; }],
+  ['an impossible calendar date', (act) => { act.impact_families[0].assessed_at = '2026-02-30T00:00:00Z'; }]
+]) {
+  test(`snapshot rejects ${name} in impact assessments`, async () => {
+    const { catalogue, files } = fixture();
+    catalogue.legislation[0].impact_families = [approvedImpactFamily()];
+    change(catalogue.legislation[0]);
+    await assert.rejects(
+      validateSnapshot(catalogue, (url) => files.get(url)),
+      /impact|Impact/
+    );
+  });
+}
 
 for (const [name, mutate, message] of [
   [

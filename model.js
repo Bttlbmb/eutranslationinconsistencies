@@ -91,13 +91,13 @@ export function groupedFindings(act) {
         ...finding,
         aliases: [finding.id],
         titles: [finding.title],
-        variants: finding.variants.map((variant) => ({ ...variant, finding_title: finding.title }))
+        variants: finding.variants.map((variant) => ({ ...variant, finding_id: finding.id, finding_title: finding.title }))
       });
     else {
       const group = groups.get(key);
       group.aliases.push(finding.id);
       group.variants.push(
-        ...finding.variants.map((variant) => ({ ...variant, finding_title: finding.title }))
+        ...finding.variants.map((variant) => ({ ...variant, finding_id: finding.id, finding_title: finding.title }))
       );
       if (!group.titles.includes(finding.title)) group.titles.push(finding.title);
       if (group.titles.length > 1) group.title = `${group.titles[0]}, and related differences`;
@@ -121,6 +121,144 @@ export function groupedFindings(act) {
   );
 }
 
+/** Name a shared quote from the visible language's own findings. */
+export function focusedFindingTitle(finding, language = null) {
+  if (!language) return finding.title;
+  const titles = [...new Set(finding.variants
+    .filter((variant) => variant.language === language)
+    .map((variant) => variant.finding_title)
+    .filter(Boolean))];
+  if (titles.length === 1) return titles[0];
+  if (titles.length > 1) return `${titles[0]}, and related differences`;
+  return finding.title;
+}
+
+/** Count display groups and distinct published records within a language focus. */
+export function findingCounts(groups, language = null) {
+  const matching = groups.filter(group => !language || group.variants.some(v => v.language === language));
+  const ids = new Set(matching.flatMap(group => group.variants
+    .filter(variant => !language || variant.language === language)
+    .map(variant => variant.finding_id || group.id)));
+  return { groups: matching.length, findings: ids.size };
+}
+
+/** Mechanical wording comparison only. Preserve every character, including whitespace.
+ * Mark unmatched tokens; this never assigns legal significance or an impact rating.
+ */
+export function comparedWording(english, translation) {
+  const tokenize = text => [...text.matchAll(/\s+|[\p{L}\p{N}]+(?:[’'-][\p{L}\p{N}]+)*|[^\s]/gu)]
+    .map(match => ({ text: match[0], key: match[0].toLocaleLowerCase('en-GB'), space: /^\s+$/.test(match[0]) }));
+  const left = tokenize(english);
+  const right = tokenize(translation);
+  const a = left.filter(token => !token.space);
+  const b = right.filter(token => !token.space);
+  const unchanged = new Set();
+  if (a.length * b.length <= 120000) {
+    const width = b.length + 1;
+    const scores = new Uint32Array((a.length + 1) * width);
+    for (let i = a.length - 1; i >= 0; i--)
+      for (let j = b.length - 1; j >= 0; j--)
+        scores[i * width + j] = a[i].key === b[j].key
+          ? scores[(i + 1) * width + j + 1] + 1
+          : Math.max(scores[(i + 1) * width + j], scores[i * width + j + 1]);
+    let i = 0;
+    let j = 0;
+    while (i < a.length && j < b.length) {
+      if (a[i].key === b[j].key) {
+        unchanged.add(a[i++]);
+        unchanged.add(b[j++]);
+      } else if (scores[(i + 1) * width + j] >= scores[i * width + j + 1]) i++;
+      else j++;
+    }
+  } else {
+    // Bound memory and work for unusually long quotations; retain exact common ends.
+    let start = 0;
+    while (start < Math.min(a.length, b.length) && a[start].key === b[start].key) {
+      unchanged.add(a[start]);
+      unchanged.add(b[start++]);
+    }
+    let i = a.length - 1;
+    let j = b.length - 1;
+    while (i >= start && j >= start && a[i].key === b[j].key) {
+      unchanged.add(a[i--]);
+      unchanged.add(b[j--]);
+    }
+  }
+  const segments = tokens => {
+    const result = [];
+    for (const token of tokens) {
+      const changed = !token.space && !unchanged.has(token);
+      if (result.at(-1)?.changed === changed) result.at(-1).text += token.text;
+      else result.push({ text: token.text, changed });
+    }
+    return result;
+  };
+  return { english: segments(left), translation: segments(right) };
+}
+
+// The public label is derived from a current impact assessment, never from the
+// finding's `substantial` publication threshold. `unrated` is a filter state,
+// not an impact level stored in an assessment.
+const impactLabels = Object.freeze({
+  high: 'High potential impact',
+  moderate: 'Moderate',
+  limited: 'Limited',
+  unrated: 'No impact rating yet'
+});
+
+export function impactDisplayLabel(level) {
+  if (level === null) return 'Impact under review';
+  return impactLabels[level] || '';
+}
+
+/** Published impact is keyed to semantic issues and original finding IDs, not quote groups. */
+export function impactFamilies(act) {
+  const findings = new Map(publicFindings(act).map((finding) => [finding.id, finding]));
+  const seen = new Set();
+  const order = { high: 0, moderate: 1, limited: 2 };
+  return (Array.isArray(act?.impact_families) ? act.impact_families : [])
+    .filter((family) => {
+      if (
+        !family ||
+        typeof family.id !== 'string' ||
+        !family.id ||
+        seen.has(family.id) ||
+        !['confirmed', 'provisional', 'needs_review'].includes(family.review_state) ||
+        (family.review_state === 'needs_review'
+          ? family.impact_level !== null
+          : !Object.hasOwn(order, family.impact_level)) ||
+        typeof family.title !== 'string' ||
+        typeof family.effect !== 'string' ||
+        !Array.isArray(family.finding_ids) ||
+        !family.finding_ids.length ||
+        !family.finding_ids.every((id) => findings.has(id))
+      ) return false;
+      seen.add(family.id);
+      return true;
+    })
+    .map((family) => {
+      const members = family.finding_ids.map((id) => findings.get(id));
+      const languages = [...new Set(members.flatMap((finding) =>
+        finding.variants.map((variant) => variant.language)
+      ))];
+      return { ...family, members, languages };
+    })
+    .sort((a, b) => (order[a.impact_level] ?? 3) - (order[b.impact_level] ?? 3) || a.title.localeCompare(b.title));
+}
+
+/** Filter original records before quote grouping so mixed-rating quotes stay honest. */
+export function impactFocusedFindings(act, impact = null) {
+  if (!impact) return groupedFindings(act);
+  if (!['high', 'moderate', 'limited', 'unrated'].includes(impact)) return groupedFindings(act);
+  const levels = new Map(impactFamilies(act).filter((family) => family.impact_level).flatMap((family) =>
+    family.finding_ids.map((id) => [id, family.impact_level])
+  ));
+  const findings = publicFindings(act).filter((finding) => impact === 'unrated'
+    ? !levels.has(finding.id)
+    : levels.get(finding.id) === impact);
+  return groupedFindings({ ...act, findings });
+}
+
 export function sourceOccurrences(text, quote) {
   if (!quote) return [];
   const matches = [];
@@ -132,11 +270,11 @@ export function sourceOccurrences(text, quote) {
   return matches;
 }
 
-export function overlappingFindings(act, selected) {
+export function overlappingFindings(act, selected, candidates = groupedFindings(act)) {
   const passage = (act?.passages || []).find((item) => item.id === selected.passage_id);
   if (!passage) return [];
   const selectedRanges = sourceOccurrences(passage.text, selected.english_quote);
-  return groupedFindings(act).filter(
+  return candidates.filter(
     (finding) =>
       finding.passage_id === selected.passage_id &&
       sourceOccurrences(passage.text, finding.english_quote).some((range) =>
@@ -284,19 +422,26 @@ export function archiveURL(value) {
 }
 
 /** Use the current selection even when the initial page URL has no finding hash. */
-export function selectionHash({ act, finding, language }) {
+export function selectionHash({ act, finding, language, impact, view, issue, issueFindingId }) {
   const params = new URLSearchParams();
   if (act) params.set('act', act.id);
-  if (finding) params.set('finding', finding.id);
+  if (finding) params.set('finding', issue && issueFindingId ? issueFindingId : finding.id);
   if (language) params.set('lang', language);
+  if (impact) params.set('impact', impact);
+  if (view === 'impact') params.set('view', 'impact');
+  if (view === 'impact' && issue) params.set('issue', issue.id);
   return params.toString();
 }
 
 export function selectedFromHash(hash, legislation) {
   const params = new URLSearchParams(hash.replace(/^#/, ''));
   const act = legislation.find((item) => item.id === params.get('act')) || legislation[0] || null;
+  const requestedImpact = params.get('impact');
+  const impact = ['high', 'moderate', 'limited', 'unrated'].includes(requestedImpact)
+    ? requestedImpact
+    : null;
   let finding = act
-    ? groupedFindings(act).find((item) => item.aliases.includes(params.get('finding'))) || null
+    ? impactFocusedFindings(act, impact).find((item) => item.aliases.includes(params.get('finding'))) || null
     : null;
   const requestedLanguage = params.get('lang');
   const language =
@@ -305,7 +450,25 @@ export function selectedFromHash(hash, legislation) {
       : null;
   if (finding && language && !finding.variants.some((variant) => variant.language === language))
     finding = null;
-  return { act, finding, language };
+  const view = params.get('view') === 'impact' ? 'impact' : 'text';
+  let issue = view === 'impact' && act
+    ? impactFamilies(act).find((family) => family.id === params.get('issue') &&
+      (!impact || (impact === 'unrated' ? family.impact_level === null : family.impact_level === impact))) || null
+    : null;
+  let issueFindingId = null;
+  if (issue) {
+    const eligible = issue.members.filter((member) =>
+      !language || member.variants.some((variant) => variant.language === language)
+    );
+    if (!eligible.length) issue = null;
+    else {
+      const requested = eligible.find((member) => member.id === params.get('finding')) || eligible[0];
+      issueFindingId = requested.id;
+      finding = impactFocusedFindings(act, impact).find((group) => group.aliases.includes(requested.id)) || null;
+    }
+  }
+  if (view === 'impact' && !issue) finding = null;
+  return { act, finding, language, impact, view, issue, issueFindingId };
 }
 
 export function completionMessage(act, findings) {

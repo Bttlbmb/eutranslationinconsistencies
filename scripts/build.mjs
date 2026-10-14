@@ -12,6 +12,11 @@ await rm(output, { recursive: true, force: true });
 await mkdir(resolve(output, 'data'), { recursive: true });
 for (const file of [
   'index.html',
+  'reader.html',
+  'site-header.css',
+  'catalogue.css',
+  'catalogue.js',
+  'catalogue-model.js',
   'styles.css',
   'app.js',
   'model.js',

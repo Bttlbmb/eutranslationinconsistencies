@@ -1,0 +1,50 @@
+/* Shared catalogue and reader header. Keep typography independent of page defaults. */
+.site-header {
+  height: 45px;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 var(--page-gutter, 24px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  border-bottom: 1px solid var(--line);
+  color: var(--ink);
+  background: var(--paper);
+  font: 400 12px/1.3 var(--sans);
+}
+.site-header .brand {
+  min-width: 0;
+  color: inherit;
+  font: 400 17px/1.1 var(--serif);
+  letter-spacing: -0.25px;
+  text-decoration: none;
+}
+.site-header .brand:hover { text-decoration: none; }
+.site-header .header-method {
+  flex: none;
+  min-width: 44px;
+  min-height: 32px;
+  padding: 4px 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--muted);
+  font: 400 12px/1.3 var(--sans);
+  cursor: pointer;
+}
+.site-header .header-method:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.site-header a:focus-visible,
+.site-header button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+@media (max-width: 600px) {
+  .site-header { padding-inline: 16px; }
+}
+@media (pointer: coarse) {
+  .site-header .header-method { min-height: 44px; }
+}

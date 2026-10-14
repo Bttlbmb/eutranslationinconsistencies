@@ -50,14 +50,60 @@ export function prettyDate(value, fallback = 'Not recorded') {
 export function plural(count, singular, many = `${singular}s`) {
   return `${count} ${count === 1 ? singular : many}`;
 }
-export function renderCoverage(act) {
+export function wordingQuote(segments, className = '') {
+  const quote = node('blockquote', `evidence-quote ${className}`.trim());
+  quote.lang = 'en';
+  for (const segment of segments)
+    quote.append(segment.changed
+      ? node('mark', 'wording-change', segment.text)
+      : document.createTextNode(segment.text));
+  return quote;
+}
+
+/** Keep complete supporting evidence reachable through a single disclosure. */
+export function renderReviewSources(act, { review } = {}) {
+  const details = node('details', 'review-sources');
+  append(details, node('summary', '', review?.reviewed_at
+    ? `Review and sources · reviewed ${prettyDate(review.reviewed_at)}`
+    : 'Review and sources'));
+  const body = node('div', 'review-sources-body');
+  append(body,
+    node('h3', 'small-heading', 'SOURCE VERSION'),
+    node('p', 'formal-act-title', act.title),
+    node('p', '', `${act.version_label || 'Source version'}${act.version ? ` · ${prettyDate(act.version)}` : ''}`),
+    externalLink('View act on EUR-Lex ↗', act.source_url),
+    renderCoverage(act),
+    renderArchives(act));
+  if (review) {
+    const method = node('details', 'review-method');
+    append(method, node('summary', '', 'Review method'),
+      node('p', '', review.method || 'Independent model analysis with evidence review'));
+    if (review.models?.length) append(method, node('p', '', `Models: ${review.models.join(' · ')}`));
+    append(body, method);
+  }
+  const guide = node('details', 'review-reading-guide');
+  append(guide, node('summary', '', 'Reading guide'),
+    node('p', '', 'Language findings are published finding records. Grouped comparisons combine records with the same English quotation in the same source passage; a group may contain several distinct issues.'),
+    node('p', '', 'Underlining marks differences in wording between the English reference and a translation into English. It is a reading aid, not an assessment of legal significance or impact.'),
+    node('p', '', 'No impact rating yet means no level has been assigned. A preliminary issue explanation may exist. It does not mean limited impact.'));
+  append(body, guide);
+  append(details, body);
+  return details;
+}
+export function renderCoverage(act, { compact = false } = {}) {
   const coverage = act.coverage || {};
   const reviewed = Number(coverage.reviewed_units) || 0;
   const total = Number(coverage.total_units) || 0;
-  const wrapper = node('div', 'coverage-card');
+  const wrapper = node(compact ? 'details' : 'div', `coverage-card${compact ? ' coverage-disclosure' : ''}`);
+  if (compact)
+    append(wrapper, node('summary', '', total
+      ? `Review coverage · ${reviewed} / ${total}`
+      : 'Review coverage · not started'));
+  const content = compact ? node('div', 'coverage-body') : wrapper;
+  if (compact) wrapper.append(content);
   append(
-    wrapper,
-    node('h3', 'small-heading', 'REVIEW COVERAGE'),
+    content,
+    compact ? null : node('h3', 'small-heading', 'REVIEW COVERAGE'),
     node(
       'p',
       '',
@@ -68,7 +114,7 @@ export function renderCoverage(act) {
   );
   if (coverage.total_languages)
     append(
-      wrapper,
+      content,
       node(
         'p',
         'coverage-languages',
@@ -80,7 +126,7 @@ export function renderCoverage(act) {
   );
   if (incompleteLanguages.length)
     append(
-      wrapper,
+      content,
       node(
         'p',
         'source-coverage-warning',
@@ -96,19 +142,20 @@ export function renderCoverage(act) {
         node('p', '', typeof note === 'string' ? note : note.message || JSON.stringify(note))
       )
     );
-    wrapper.append(notes);
+    content.append(notes);
   }
   return wrapper;
 }
 export function renderArchives(act) {
   const details = node('details', 'archives');
+  const content = node('div', 'archive-body');
   append(
     details,
     node('summary', '', `Source archive · ${plural((act.languages || []).length, 'language')}`)
   );
   if (act.retrieved_at)
     append(
-      details,
+      content,
       node(
         'p',
         '',
@@ -150,12 +197,12 @@ export function renderArchives(act) {
         )
       );
   });
-  append(details, list);
+  append(content, list);
   if (act.failed_languages?.length) {
-    append(details, node('h4', 'small-heading', 'SOURCE RETRIEVAL INCOMPLETE'));
+    append(content, node('h4', 'small-heading', 'SOURCE RETRIEVAL INCOMPLETE'));
     act.failed_languages.forEach((language) =>
       append(
-        details,
+        content,
         node(
           'p',
           'unavailable-language',
@@ -165,10 +212,10 @@ export function renderArchives(act) {
     );
   }
   if (act.unavailable_languages?.length) {
-    append(details, node('h4', 'small-heading', 'UNAVAILABLE IN THIS SNAPSHOT'));
+    append(content, node('h4', 'small-heading', 'UNAVAILABLE IN THIS SNAPSHOT'));
     act.unavailable_languages.forEach((language) =>
       append(
-        details,
+        content,
         node(
           'p',
           'unavailable-language',
@@ -177,5 +224,6 @@ export function renderArchives(act) {
       )
     );
   }
+  details.append(content);
   return details;
 }

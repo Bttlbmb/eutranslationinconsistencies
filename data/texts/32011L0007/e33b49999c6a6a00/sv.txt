@@ -1,0 +1,302 @@
+EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2011/7/EU
+av den 16 februari 2011
+om bekämpande av sena betalningar vid handelstransaktioner
+(omarbetning)
+(Text av betydelse för EES)
+
+EUROPAPARLAMENTET OCH EUROPEISKA UNIONENS RÅD HAR ANTAGIT DETTA DIREKTIV
+
+med beaktande av fördraget om Europeiska unionens funktionssätt, särskilt artikel 114,
+
+med beaktande av Europeiska kommissionens förslag,
+
+med beaktande av Europeiska ekonomiska och sociala kommitténs yttrande ( 1 ) ,
+
+i enlighet med det ordinarie lagstiftningsförfarandet ( 2 ) , och
+
+av följande skäl:
+
+(1) | Ett antal väsentliga ändringar ska göras av Europaparlamentets och rådets direktiv 2000/35/EG av den 29 juni 2000 om bekämpande av sena betalningar vid handelstransaktioner ( 3 ) . Det är av tydlighets- och rationaliseringsskäl önskvärt att det görs en omarbetning av de aktuella bestämmelserna.
+
+(2) | De flesta varor och tjänster tillhandahålls på den inre marknaden av ekonomiska aktörer till andra ekonomiska aktörer och offentliga myndigheter med senare betalning, genom att leverantören ger kunden tid att betala fakturan enligt överenskommelse mellan parterna eller enligt vad som anges i fakturan eller föreskrivs enligt lag.
+
+(3) | Många betalningar vid handelstransaktioner mellan ekonomiska aktörer eller mellan ekonomiska aktörer och offentliga myndigheter görs senare än vad som parterna enats om i avtalet eller i standardavtalsvillkoren. Trots att varorna och tjänsterna tillhandahållits betalas fakturorna för dem i många fall långt efter förfallodatum. Dessa sena betalningar inverkar negativt på företagens likviditet och komplicerar deras ekonomiska förvaltning. Det påverkar också deras konkurrenskraft och lönsamhet när borgenären behöver extern finansiering på grund av sena betalningar. Risk för en sådan negativ inverkan ökar markant i tider av ekonomisk nedgång när det är svårare att få finansiering.
+
+(4) | Rättsliga åtgärder vid sena betalningar har redan underlättats genom rådets förordning (EG) nr 44/2001 av den 22 december 2000 om domstols behörighet och om erkännande och verkställighet av domar på privaträttens område ( 4 ) , Europaparlamentets och rådets förordning (EG) nr 805/2004 av den 21 april 2004 om införande av en europeisk exekutionstitel för obestridda fordringar ( 5 ) , Europaparlamentets och rådets förordning (EG) nr 1896/2006 av den 12 december 2006 om införande av ett europeiskt betalningsföreläggande ( 6 ) och Europaparlamentets och rådets förordning (EG) nr 861/2007 av den 11 juli 2007 om inrättande av ett europeiskt småmålsförfarande ( 7 ) . Det behövs dock kompletterande bestämmelser för att motverka sena betalningar vid handelstransaktioner.
+
+(5) | Företag bör kunna bedriva handel på hela den inre marknaden på sådana villkor som säkerställer att gränsöverskridande transaktioner inte medför större risker än inhemsk försäljning. Det skulle leda till en snedvridning av konkurrensen om väsentligt olika regler tillämpades på inhemska och gränsöverskridande transaktioner.
+
+(6) | I sitt meddelande av den 25 juni 2008 med titeln Tänk småskaligt först – En ”Small Business Act” för Europa, betonade kommissionen att man bör underlätta för små och medelstora företag att få tillgång till finansiering och se till att såväl lagstiftningen som affärsklimatet stöder iakttagande av betalningsfrister vid handelstransaktioner. Det bör noteras att myndigheterna har ett särskilt ansvar i detta fall. Kriterierna för definition av små och medelstora företag fastställs i kommissionens rekommendation 2003/361/EG av den 6 maj 2003 om definitionen av mikroföretag samt små och medelstora företag ( 8 ) .
+
+(7) | En av de viktigaste åtgärderna i kommissionens meddelande av den 26 november 2008 med titeln En ekonomisk återhämtningsplan för Europa är en minskning av de administrativa bördorna och ett främjande av entreprenörskap genom att bl.a. se till att fakturor för varor och tjänster som grundregel betalas inom en månad, även till små och medelstora företag, för att minska likviditetsproblem.
+
+(8) | Tillämpningsområdet för detta direktiv bör begränsas till betalningar som görs som ersättning vid handelstransaktioner. Detta direktiv bör inte reglera transaktioner med konsumenter, räntor i samband med andra betalningar, t.ex. betalningar enligt lagstiftningen om checkar och växlar, eller betalningar av skadestånd, inbegripet betalningar från försäkringsbolag. Medlemsstaterna bör också kunna undanta skulder som är föremål för insolvensförfaranden, inklusive förfaranden som syftar till omstrukturering av skulder.
+
+(9) | Detta direktiv bör reglera samtliga handelstransaktioner oberoende av om de sker mellan privata eller offentliga företag eller mellan företag och offentliga myndigheter, med beaktande av att offentliga myndigheter verkställer ett stort antal betalningar till företag. Direktivet bör följaktligen också reglera alla handelstransaktioner mellan huvudentreprenörer och deras leverantörer eller underleverantörer.
+
+(10) | Det faktum att fria yrkesutövare omfattas av det här direktivet bör inte betyda att medlemsstaterna måste behandla dem som företag eller näringsidkare för syften som ligger utanför tillämpningsområdet för detta direktiv.
+
+(11) | Leverans av varor och tillhandahållande av tjänster mot betalning, för vilka detta direktiv gäller, bör också inkludera konstruktion och genomförande av offentliga byggentreprenader samt bygg- och anläggningsarbeten.
+
+(12) | Sen betalning är ett avtalsbrott som har blivit ekonomiskt intressant för gäldenärer i de flesta medlemsstater genom att räntan vid sen betalning är låg eller obefintlig och/eller indrivningsförfarandena långsamma. Det krävs en avgörande kulturförändring, så att betalningar i rätt tid blir standard och undantaget från rätten att ta ut ränta bör alltid anses vara ett grovt oskäligt avtalsvillkor eller bruk, för att vända denna utveckling och motverka sena betalningar. En sådan förändring bör också inbegripa införandet av särskilda bestämmelser om betalningstider och om ersättning till borgenärerna för de kostnader som uppstått samt bl.a. att undantag från rätten till ersättning för indrivningskostnader ska betraktas som grovt oskäligt.
+
+(13) | Betalningstiden i avtal mellan företag bör följaktligen generellt begränsas till högst 60 kalenderdagar. Det kan dock förekomma situationer då företag behöver längre betalningstider, t.ex. när företag vill erbjuda sina kunder handelskredit. Det bör därför även i fortsättningen vara möjligt för parterna att särskilt avtala om betalningstider som överstiger 60 kalenderdagar, dock under förutsättning att en sådan förlängning inte är grovt oskälig gentemot borgenären.
+
+(14) | För att skapa enhetlighet i unionslagstiftningen bör definitionen av upphandlande myndigheter i Europaparlamentets och rådets direktiv 2004/17/EG av den 31 mars 2004 om samordning av förfarandena vid upphandling på områdena vatten, energi, transporter och posttjänster ( 9 ) , och i Europaparlamentets och rådets direktiv 2004/18/EG av den 31 mars 2004 om samordning av förfarandena vid offentlig upphandling av byggentreprenader, varor och tjänster ( 10 ) gälla i detta direktiv.
+
+(15) | Lagstadgad ränta vid sen betalning bör beräknas per dag som enkel ränta, i enlighet med rådets förordning (EEG, Euratom) nr 1182/71 av den 3 juni 1971 om regler för bestämning av perioder, datum och frister ( 11 ) .
+
+(16) | Detta direktiv bör inte tvinga en borgenär att begära ränta för sen betalning. Direktivet bör medge att en borgenär vid sen betalning tar ut ränta vid sen betalning utan någon föregående betalningspåminnelse eller annat liknande meddelande till gäldenären om dennes betalningsskyldighet.
+
+(17) | En gäldenärs betalning bör anses vara sen med avseende på möjligheten att utkräva ränta vid sen betalning när borgenären inte förfogar över det förfallna beloppet på förfallodagen, under förutsättning att borgenären fullgjort sina lagstadgade och avtalsenliga skyldigheter.
+
+(18) | En faktura innebär början på en begäran om betalning och är en viktig handling i transaktionskedjan för tillhandahållande av varor och tjänster, bland annat för att bestämma betalningsfristen. För de syften som avses i detta direktiv bör medlemsstaterna främja system som ger rättssäkerhet när det gäller det exakta datumet för gäldenärers mottagande av fakturor, inbegripet på området för elektronisk fakturering, där mottagandet av fakturor kan generera elektroniska belägg och som delvis skulle kunna omfattas av bestämmelserna om fakturering i rådets direktiv 2006/112/EG av den 28 november 2006 om ett gemensamt system för mervärdesskatt ( 12 ) .
+
+(19) | Borgenären måste få skälig ersättning för sina indrivningskostnader till följd av sena betalningar för att motverka sena betalningar. Indrivningskostnaderna bör också omfatta indrivning av administrativa kostnader och ersättning för interna kostnader till följd av sena betalningar, för vilka detta direktiv bör fastställa ett minsta fast belopp som får kumuleras med räntan vid sen betalning. Syftet med ersättning i form av ett fast belopp bör vara att begränsa de administrativa och interna kostnaderna i samband med indrivning. Ersättning för indrivningskostnader bör fastställas utan att det påverkar tillämpningen av nationella bestämmelser enligt vilka en nationell domstol får bevilja borgenären ersättning för annan skada avseende gäldenärens betalningsförsening.
+
+(20) | Förutom rätt till betalning av ett fast belopp för interna indrivningskostnader bör borgenären också ha rätt till ersättning för övriga indrivningskostnader som orsakats av gäldenärens sena betalning. Sådana kostnader bör särskilt inkludera de kostnader som borgenären har för att anlita en advokat eller en indrivningsbyrå.
+
+(21) | Detta direktiv bör inte påverka medlemsstaternas rätt att fastställa fasta belopp för ersättning av indrivningskostnader som är högre och därför fördelaktigare för borgenären eller att höja dessa belopp, exempelvis för att ta hänsyn till inflationen.
+
+(22) | Detta direktiv bör inte hindra betalning genom avbetalning eller delbetalning. Varje avbetalning eller delbetalning bör emellertid betalas enligt de överenskomna villkoren och omfattas av de bestämmelser om sena betalningar som fastställs i detta direktiv.
+
+(23) | I regel har offentliga myndigheter mindre finansieringsproblem eftersom de har säkrare, mer förutsebara och mer kontinuerliga intäkter än företag. Dessutom kan många offentliga myndigheter få finansiering på bättre villkor än företag. Samtidigt är offentliga myndigheter inte lika beroende som företag av att bygga upp stabila affärsförbindelser för att uppnå sina mål. Offentliga myndigheters långa betalningstider och sena betalningar för varor och tjänster leder till omotiverade kostnader för företag. Det är därför lämpligt att särskilda bestämmelser införs för handelstransaktioner som rör tillhandahållande av varor eller tjänster från företag till offentliga myndigheter, i vilka särskilt betalningstider fastställs som i normalfallet inte överstiger 30 kalenderdagar, om inte annat uttryckligen fastställts i avtalet och under förutsättning av att det är objektivt motiverat mot bakgrund av avtalets särskilda karaktär eller inslag och inte i något fall överstiger 60 kalenderdagar.
+
+(24) | Hänsyn bör emellertid tas till den särskilda situationen för offentliga myndigheter som bedriver verksamhet av industriell eller kommersiell natur genom att erbjuda varor eller tjänster på marknaden som ett offentligt företag. Medlemsstaterna bör för detta syfte tillåtas, under vissa villkor, att förlänga den lagstadgade betalningstiden upp till högst 60 kalenderdagar.
+
+(25) | En särskild anledning till oro i samband med sena betalningar är situationen för tjänster på hälso- och sjukvårdsområdet i ett stort antal medlemsstater. Hälso- och sjukvårdssystemen, som utgör en grundläggande del av Europas sociala infrastruktur, är ofta tvungna att sammanjämka individuella behov med tillgängliga finanser när Europas befolkning åldras, förväntningarna ökar och den medicinska utvecklingen går framåt. Alla system måste klara av utmaningen att prioritera hälso- och sjukvården så att jämvikt uppnås mellan varje enskild patients behov och de ekonomiska resurser som finns tillgängliga. Det bör därför vara möjligt för medlemsstaterna att ge offentliga organ som tillhandahåller hälso- och sjukvård viss flexibilitet när det gäller att uppfylla deras åtaganden. Medlemsstaterna bör för detta syfte tillåtas, under vissa villkor, att förlänga den lagstadgade betalningstiden till högst 60 kalenderdagar. Medlemsstaterna bör dock göra allt de kan för att se till att betalningar inom hälso- och sjukvårdssektorn görs inom de lagstadgade betalningstiderna.
+
+(26) | För att inte äventyra uppnåendet av målet för detta direktiv bör medlemsstaterna säkerställa att den längsta tid som ett förfarande för godkännande eller kontroll kan pågå vid handelstransaktioner, som en allmän regel, inte överskrider 30 kalenderdagar. Trots detta bör ett kontrollförfarande kunna pågå längre än 30 kalenderdagar, exempelvis i fråga om särskilt komplexa avtal, när det uttryckligen fastställts i avtalsvillkoren eller i anbudshandlingar och om det inte är grovt oskäligt gentemot borgenären.
+
+(27) | Unionens institutioner befinner sig i ungefär samma situation som medlemsstaternas offentliga myndigheter i fråga om deras finansiering och affärsförbindelser. I rådets förordning (EG, Euratom) nr 1605/2002 av den 25 juni 2002 med budgetförordning för Europeiska gemenskapernas allmänna budget ( 13 ) anges att kontroll, godkännande och utbetalning av de utgifter som unionens institutioner har ska utföras inom den frist som anges i dess genomförandebestämmelser. Dessa genomförandebestämmelser anges för närvarande i kommissionens förordning (EG, Euratom) nr 2342/2002 av den 23 december 2002 om genomförandebestämmelser för rådets förordning (EG, Euratom) nr 1605/2002 med budgetförordning för Europeiska gemenskapernas allmänna budget ( 14 ) , och i dem anges under vilka omständigheter borgenärer som betalas sent är berättigade att motta dröjsmålsräntor. I samband med den pågående översynen av dessa förordningar bör man se till att de längsta gränserna för betalningstider för unionens institutioner rättas efter de lagstadgade tider som gäller för offentliga myndigheter i enlighet med detta direktiv.
+
+(28) | Detta direktiv bör förbjuda missbruk av avtalsfriheten till borgenärens nackdel. Följaktligen ska ett avtalsvillkor eller ett bruk som rör tidpunkt eller period för betalning, räntesats för ränta vid sen betalning eller ersättning för indrivningskostnader, som inte kan motiveras på grundval av de avtalsvillkor som gäldenären beviljats, eller om syftet med ett avtalsvillkor eller bruk i huvudsak är att förse gäldenären med ytterligare likviditet på bekostnad av borgenären, anses utgöra sådant missbruk. I detta syfte och i enlighet med det akademiska utkastet till gemensam referensram bör varje avtalsvillkor eller bruk som i hög grad avviker från gott handelsbruk och som är i strid med god tro och god sed anses vara oskäligt gentemot borgenären. Framför allt bör ett fullständigt undantag från rätten att ta ut ränta alltid anses som grovt oskäligt och undantag från rätten till ersättning för indrivningskostnader bör presumeras vara grovt oskäligt. Detta direktiv bör inte påverka nationella bestämmelser som gäller det sätt på vilket avtal ingås eller som reglerar giltighet av avtalsvillkor som är oskäliga mot gäldenären.
+
+(29) | I samband med förstärkta åtgärder för att undvika missbruk av den fria avtalsrätten till nackdel för borgenärerna bör organisationer som officiellt erkänts som företrädare för företag, eller organisationer som har ett legitimt intresse i att företräda företag, kunna vidta rättsliga åtgärder vid domstolar eller vid administrativa myndigheter i syfte att hindra fortsatt tillämpning av avtalsvillkor eller bruk som är grovt oskäliga gentemot borgenären.
+
+(30) | För att bidra till att målet för detta direktiv uppnås bör medlemsstaterna främja gott handelsbruk, inbegripet genom att uppmuntra offentliggörandet av en förteckning över snabba betalare.
+
+(31) | Man bör se till att borgenärerna kan göra gällande en klausul om återtagandeförbehåll på ett icke-diskriminerande sätt inom hela unionen om återtagandeförbehållet är giltigt enligt de tillämpliga nationella bestämmelser som ska tillämpas på grundval av internationell privaträtt.
+
+(32) | I detta direktiv ges enbart en definition av uttrycket exekutionstitel, men de olika förfarandena för verkställighet av en sådan titel och villkoren för att inställa eller förordna om uppskov med verkställigheten av en sådan titel bör inte regleras.
+
+(33) | Konsekvenserna av sena betalningar kan endast verka avskräckande om de är förenade med indrivningsförfaranden som är snabba och effektiva för borgenären. I enlighet med icke-diskrimineringsprincipen i artikel 18 i fördraget om Europeiska unionens funktionssätt bör dessa förfaranden vara tillgängliga för alla borgenärer som är etablerade i unionen.
+
+(34) | För att underlätta att bestämmelserna i detta direktiv efterlevs bör medlemsstaterna uppmuntra till användning av medling eller andra alternativa tvistlösningsmetoder. I Europaparlamentets och rådets direktiv 2008/52/EG av den 21 maj 2008 om vissa aspekter på medling på privaträttens område ( 15 ) fastställs redan en ram för medlingssystem på unionsnivå, särskilt för gränsöverskridande tvister, utan att hindra dess tillämpning på interna medlingsförfaranden. Medlemsstaterna bör också uppmuntra berörda parter att utarbeta frivilliga uppförandekoder, som framför allt ska syfta till att bidra till genomförandet av detta direktiv.
+
+(35) | Det är nödvändigt att se till att indrivningsförfarandet avseende obestridda fordringar i samband med sena betalningar vid handelstransaktioner avslutas snabbt, inbegripet genom ett påskyndat förfarande och oavsett skuldens storlek.
+
+(36) | Eftersom målet för detta direktiv, nämligen att bekämpa sena betalningar på den inre marknaden, inte i tillräcklig utsträckning kan uppnås av medlemsstaterna och det därför på grund av direktivets omfattning och verkningar bättre kan uppnås på unionsnivå, kan unionen vidta åtgärder i enlighet med subsidiaritetsprincipen i artikel 5 i fördraget om Europeiska unionen. I enlighet med proportionalitetsprincipen i samma artikel går detta direktiv inte utöver vad som är nödvändigt för att uppnå detta mål.
+
+(37) | Skyldigheten att införliva detta direktiv med nationell lagstiftning bör endast gälla de bestämmelser som utgör en innehållsmässig ändring i förhållande till direktiv 2000/35/EG. Skyldigheten att införliva de oförändrade bestämmelserna följer av det direktivet.
+
+(38) | Detta direktiv bör inte påverka medlemsstaternas skyldigheter när det gäller tidsfristerna för införlivande med nationell lagstiftning och tillämpning av direktiv 2000/35/EG.
+
+(39) | I enlighet med punkt 34 i det interinstitutionella avtalet om bättre lagstiftning ( 16 ) uppmuntras medlemsstaterna att för egen del och i unionens intresse upprätta egna tabeller, som så långt det är möjligt visar överensstämmelsen mellan detta direktiv och införlivandeåtgärderna samt att offentliggöra dessa tabeller.
+
+HÄRIGENOM FÖRESKRIVS FÖLJANDE.
+
+Artikel 1
+Syfte och tillämpningsområde
+1. Syftet med detta direktiv är att bekämpa sena betalningar vid handelstransaktioner, för att se till att den inre marknaden fungerar väl och därigenom främja företagens, särskilt de små och medelstora företagens, konkurrenskraft.
+2. Detta direktiv ska gälla alla betalningar som görs som ersättning vid handelstransaktioner.
+3. Medlemsstaterna får undanta skulder som är föremål för ett insolvensförfarande mot gäldenären, inklusive förfaranden som syftar till omstrukturering av skulder.
+
+Artikel 2
+Definitioner
+I detta direktiv avses med
+1. handelstransaktioner : transaktioner mellan företag eller mellan företag och offentliga myndigheter som leder till leverans av varor eller tillhandahållande av tjänster mot ersättning,
+2. offentlig myndighet : varje upphandlande myndighet enligt definitionen i artikel 2.1 a i direktiv 2004/17/EG och i artikel 1.9 i direktiv 2004/18/EG, oavsett upphandlingens föremål eller värde,
+3. företag : varje organisation, utom en offentlig myndighet, som handlar inom sin oberoende ekonomiska eller yrkesmässiga verksamhet, även om den verksamheten bedrivs av en ensam person,
+4. sen betalning : betalning som inte skett inom den avtalsenliga eller lagstadgade tidsfristen för betalning och där de villkor som fastställts i artikel 3.1 eller 4.1 har uppfyllts,
+5. ränta vid sen betalning : lagstadgad ränta vid sen betalning eller ränta till en räntesats som är avtalad mellan företag, om inte annat följer av artikel 7,
+6. lagstadgad ränta vid sen betalning : enkel ränta vid sen betalning enligt en räntesats som motsvarar summan av referensräntan och minst åtta procentenheter,
+7. referensränta : en av följande räntor:
+a) | för en medlemsstat som har euron som valuta, antingen i) den räntesats som Europeiska centralbanken använde för sina senaste huvudsakliga refinansieringstransaktioner, eller ii) den marginalränta som är resultatet av förfaranden med rörlig refinansieringsränta vid Europeiska centralbankens senaste huvudsakliga refinansieringstransaktioner,
+b) | för en medlemsstat vars valuta inte är euro, den motsvarande ränta som fastställs av medlemsstatens centralbank,
+8. förfallet belopp : det kapitalbelopp som skulle ha betalts inom den avtalsenliga eller lagstadgade betalningstiden, inbegripet tillämpliga skatter, tullar, avgifter och övriga pålagor som specificeras i fakturan eller i en likvärdig begäran om betalning,
+9. återtagandeförbehåll : avtalsbestämmelse på grundval av vilken säljaren behåller äganderätten till de berörda varorna tills full betalning erlagts,
+10. exekutionstitel : beslut, dom eller utslag om betalning som meddelas av en domstol eller annan behörig myndighet, även sådana som är interimistiskt verkställbara, antingen för omedelbar betalning eller betalning genom avbetalningar och som gör det möjligt för borgenären att erhålla betalning för sin fordran av gäldenären genom verkställighet.
+
+Artikel 3
+Transaktioner mellan företag
+1. Medlemsstaterna ska säkerställa att borgenären, vid handelstransaktioner mellan företag, är berättigad till ränta vid sen betalning utan att det krävs en påminnelse om följande villkor är uppfyllda:
+a) | Borgenären har fullgjort sina avtalsenliga och lagstadgade skyldigheter.
+b) | Borgenären har inte mottagit det förfallna beloppet i tid, under förutsättning att gäldenären inte är ansvarig för dröjsmålet.
+2. Medlemsstaterna ska säkerställa att den tillämpliga referensräntan
+a) | för det berörda årets första sex månader är den räntesats som gällde den 1 januari det året,
+b) | för det berörda årets sista sex månader är den räntesats som gällde den 1 juli det året.
+3. Om villkoren i punkt 1 är uppfyllda ska medlemsstaterna säkerställa
+a) | att borgenären är berättigad till ränta vid sen betalning från dagen efter den förfallodag eller den betalningsperiod som fastställs i avtalet,
+b) | att, om förfallodagen eller betalningsperioden inte fastställs i avtalet, borgenären är berättigad till ränta vid sen betalning vid utgången av någon av följande tidsfrister: i) 30 kalenderdagar efter den dag då gäldenären mottog fakturan eller en likvärdig begäran om betalning. ii) Om det råder osäkerhet om dagen för mottagande av fakturan eller en likvärdig begäran om betalning, 30 kalenderdagar efter dagen för mottagande av varorna eller tjänsterna. iii) Om gäldenären mottar fakturan eller en likvärdig begäran om betalning tidigare än varorna eller tjänsterna, 30 kalenderdagar efter dagen för mottagande av varorna eller tjänsterna. iv) Om ett förfarande för godkännande eller kontroll, genom vilket varornas eller tjänsternas överensstämmelse med avtalet ska beläggas, föreskrivs i lag eller i avtalet och om gäldenären mottar fakturan eller en likvärdig begäran om betalning tidigare eller den dag då godkännandet eller kontrollen sker, 30 kalenderdagar efter den dagen.
+4. Om det föreskrivs ett förfarande för godkännande eller kontroll, genom vilket varornas eller tjänsternas överensstämmelse med avtalet ska beläggas, ska medlemsstaterna säkerställa att det förfarandet inte pågår längre än 30 kalenderdagar från dagen för mottagande av varorna eller tjänsterna, om inte annat uttryckligen fastställts i avtalet och under förutsättning att det inte är grovt oskäligt gentemot borgenären i den mening som avses i artikel 7.
+5. Medlemsstaterna ska se till att den betalningsperiod som fastställs i avtalet inte överstiger 60 kalenderdagar, om inte annat uttryckligen fastställts i avtalet och under förutsättning att det inte är grovt oskäligt gentemot borgenären i den mening som avses i artikel 7.
+
+Artikel 4
+Transaktioner mellan företag och offentliga myndigheter
+1. Medlemsstaterna ska säkerställa att borgenären vid handelstransaktioner, där gäldenären är en offentlig myndighet, utan att det krävs en påminnelse har rätt till lagstadgad ränta vid sen betalning vid utgången av den period som anges i punkterna 3, 4 eller 6, om följande villkor uppfylls:
+a) | Borgenären har fullgjort sina avtalsenliga och lagstadgade skyldigheter.
+b) | Borgenären har inte mottagit det förfallna beloppet i tid, under förutsättning att gäldenären inte är ansvarig för dröjsmålet.
+2. Medlemsstaterna ska säkerställa att den tillämpliga referensräntan
+a) | för det berörda årets första sex månader är den räntesats som gällde den 1 januari det året,
+b) | för det berörda årets sista sex månader är den räntesats som gällde den 1 juli det året.
+3. Medlemsstaterna ska säkerställa vid handelstransaktioner där gäldenären är en offentlig myndighet att
+a) | betalningsperioden inte överskrider någon av följande tidsfrister: i) 30 kalenderdagar efter den dag då gäldenären mottog fakturan eller en likvärdig begäran om betalning, ii) om det råder osäkerhet om dagen för mottagande av fakturan eller en likvärdig begäran om betalning, 30 kalenderdagar efter mottagandet av varorna eller tjänsterna, iii) om gäldenären mottar fakturan eller en likvärdig begäran om betalning tidigare än varorna eller tjänsterna, 30 kalenderdagar efter dagen för mottagande av varorna eller tjänsterna, iv) om ett förfarande för godkännande eller kontroll, genom vilket varornas eller tjänsternas överensstämmelse med avtalet ska konstateras, föreskrivs i lag eller i avtalet och om gäldenären mottar fakturan eller en likvärdig begäran om betalning tidigare eller den dag då godkännandet eller kontrollen sker, 30 kalenderdagar efter den dagen,
+b) | dagen för mottagande av fakturan inte blir föremål för något avtalsvillkor mellan gäldenär och borgenär.
+4. Medlemsstaterna får förlänga de tidsgränser som avses i punkt 3 a så att de uppgår till högst 60 kalenderdagar för:
+a) | varje offentlig myndighet som bedriver ekonomisk verksamhet av industriell eller kommersiell natur genom att erbjuda varor eller tjänster på marknaden och som, i sin egenskap av offentligt företag, omfattas av de insynskrav som fastställs i kommissionens direktiv 2006/111/EG av den 16 november 2006 om insyn i de finansiella förbindelserna mellan medlemsstater och offentliga företag samt i vissa företags ekonomiska verksamhet ( 17 ) ,
+b) | offentliga organ som tillhandahåller hälso- och sjukvård och som är vederbörligen erkända för det ändamålet.
+Om en medlemsstat beslutar att förlänga tidsfristerna i enlighet med denna punkt ska den överlämna en rapport om en sådan förlängning till kommissionen senast den 16 mars 2018.
+På grundval av detta ska kommissionen lägga fram en rapport för Europaparlamentet och rådet i vilken den anger vilka medlemsstater som förlängt tidsfristerna i enlighet med denna punkt och i vilken konsekvenserna för den inre marknadens funktionssätt tas upp, särskilt för de små och medelstora företagen. Rapporten ska åtföljas av lämpliga förslag.
+5. Medlemsstaterna ska säkerställa att det förfarande för godkännande eller kontroll som avses i punkt 3 a iv inte pågår längre än 30 kalenderdagar från dagen för mottagande av varorna eller tjänsterna, om inte annat uttryckligen fastställts i avtalet eller anbudshandlingarna och under förutsättning att det inte är grovt oskäligt gentemot borgenären i den mening som avses i artikel 7.
+6. Medlemsstaterna ska säkerställa att den betalningsperiod som fastställs i avtalet inte överstiger de tidsgränser som anges i punkt 3, om inte annat uttryckligen överenskommits i avtalet och under förutsättning att det objektivt sett är motiverat mot bakgrund av avtalets särskilda karaktär eller inslag och att betalningstiden under inga omständigheter överstiger 60 kalenderdagar.
+
+Artikel 5
+Betalningsplaner
+Detta direktiv ska inte påverka parternas möjligheter att, i enlighet med de relevanta bestämmelserna i tillämplig nationell rätt, avtala om betalningsplaner för avbetalningar. Då någon av avbetalningarna inte görs före det överenskomna datumet, ska ränta och ersättning som föreskrivs i detta direktiv beräknas endast på grundval av de belopp som förfallit.
+
+Artikel 6
+Ersättning för indrivningskostnader
+1. Medlemsstaterna ska säkerställa att borgenären, om ränta vid sen betalning ska utgå vid handelstransaktioner i enlighet med artikel 3 eller 4, har rätt till minst ett fast belopp om 40 EUR av gäldenären.
+2. Medlemsstaterna ska se till att det fasta belopp som avses i punkt 1 är betalbart utan att det krävs en påminnelse och som ersättning för borgenärens egna indrivningskostnader.
+3. Borgenären ska ha rätt att utöver det fasta belopp som anges i punkt 1 få skälig ersättning från gäldenären för alla indrivningskostnader som överskrider detta fasta belopp och som uppkommit till följd av gäldenärens sena betalning. Detta kan omfatta bland annat kostnader som uppkommit på grund av att en jurist eller en indrivningsbyrå anlitats.
+
+Artikel 7
+Oskäliga avtalsvillkor och bruk
+1. Medlemsstaterna ska se till att ett avtalsvillkor eller ett bruk om tidpunkt eller period för betalning, räntesats för ränta vid sen betalning eller ersättning för indrivningskostnader antingen inte är verkställbart eller ger upphov till skadeståndskrav om det är grovt oskäligt mot borgenären.
+När det fastställs om ett avtalsvillkor eller ett bruk är grovt oskäligt mot borgenären, på ett sätt som avses i första stycket, ska alla omständigheter i fallet beaktas, inklusive:
+a) | varje kraftig avvikelse från gott handelsbruk som strider mot god tro och god sed,
+b) | produktens eller tjänsternas beskaffenhet, samt
+c) | om gäldenären har något objektivt skäl för att avvika från den lagstadgade räntesatsen för ränta vid sen betalning, från den betalningsperiod som anges i artikel 3.5, artikel 4.3 a, 4.4 och 4.6 eller från det fasta belopp som avses i artikel 6.1.
+2. Vid tillämpning av punkt 1 ska ett avtalsvillkor eller ett bruk om att ränta vid sen betalning inte får tas ut anses som grovt oskäligt.
+3. Vid tillämpning av punkt 1 ska ett avtalsvillkor eller ett bruk om att ersättning för indrivningskostnader i enlighet med artikel 6 inte får tas ut presumeras vara grovt oskäligt.
+4. Medlemsstaterna ska säkerställa att det i borgenärers och konkurrenters intresse finns lämpliga och effektiva medel för att förhindra fortsatt tillämpning av avtalsvillkor och bruk som är grovt oskäliga i den mening som avses i punkt 1.
+5. De medel som avses i punkt 4 ska omfatta bestämmelser med vars hjälp organisationer som officiellt erkänts som företrädare för företag, eller organisationer som har ett legitimt intresse i att företräda företag, kan vidta rättsliga åtgärder i enlighet med den tillämpliga nationella lagstiftningen vid domstolar eller vid behöriga administrativa myndigheter på grundval av att avtalsvillkor eller bruk är grovt oskäliga i den mening som avses i punkt 1, så att de kan vidta lämpliga och effektiva åtgärder för att förhindra fortsatt tillämpning av sådana villkor.
+
+Artikel 8
+Insyn och information
+1. Medlemsstaterna ska säkerställa insyn avseende de rättigheter och skyldigheter som följer av detta direktiv, inbegripet genom att offentliggöra den gällande räntesatsen för den lagstadgade räntan vid sen betalning.
+2. Kommissionen ska på Internet offentliggöra uppgifter om de aktuella lagstadgade räntesatser som gäller i alla medlemsstater vid sen betalning vid handelstransaktioner.
+3. Medlemsstaterna ska vid behov använda sig av facktidskrifter, informationskampanjer eller andra lämpliga metoder för att höja medvetenheten om påföljder vid sen betalning bland företag.
+4. Medlemsstaterna får uppmuntra upprättandet av uppförandekoder för snabba betalningar, med tydliga betalningsfrister och ett lämpligt förfarande för de betalningar som är föremål för tvist, eller andra åtgärder för att ta itu med den viktiga fråga som sena betalningar utgör och bidra till en kultur med snabba betalningar som främjar detta direktivs syfte.
+
+Artikel 9
+Återtagandeförbehåll
+1. Medlemsstaterna ska i enlighet med de nationella bestämmelser som är tillämpliga på grundval av internationell privaträtt föreskriva att säljaren behåller rätten till varorna tills full betalning erlagts om köparen och säljaren uttryckligen avtalat om ett återtagandeförbehåll innan varorna levererades.
+2. Medlemsstaterna får anta eller bibehålla bestämmelser om delbetalningar som köparen redan erlagt.
+
+Artikel 10
+Indrivning av obestridda fordringar
+1. Medlemsstaterna ska säkerställa att en exekutionstitel, inbegripet genom ett påskyndat förfarande och oavsett skuldens storlek, normalt kan erhållas inom 90 kalenderdagar från den dag då borgenären väckte talan eller gav in en ansökan vid domstol eller annan behörig myndighet, under förutsättning att gäldenären inte bestrider skulden eller invänder mot delar av förfarandet. Medlemsstaterna ska fullgöra denna skyldighet i enlighet med sina respektive nationella lagar och andra författningar.
+2. Enligt nationella lagar och andra författningar ska samma villkor gälla för alla borgenärer som är etablerade i unionen.
+3. Vid beräkning av den tidsfrist som avses i punkt 1 ska följande inte beaktas:
+a) | Tidsfristerna för delgivning av handlingar.
+b) | Eventuella förseningar som orsakats av borgenären, t.ex. den tid som ägnas åt att korrigera ansökningar.
+4. Denna artikel ska inte påverka bestämmelserna i förordning (EG) nr 1896/2006.
+
+Artikel 11
+Rapportering
+Senast den 16 mars 2016 ska kommissionen lägga fram en rapport för Europaparlamentet och rådet om genomförandet av detta direktiv. Rapporten ska åtföljas av lämpliga förslag.
+
+Artikel 12
+Införlivande
+1. Medlemsstaterna ska sätta i kraft de bestämmelser i lagar och andra författningar som är nödvändiga för att följa artiklarna 1–8 och 10 senast den 16 mars 2013. De ska genast översända kommissionen texten av dessa bestämmelser.
+När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. De ska även innehålla en uppgift om att hänvisningar i befintliga lagar och andra författningar till det upphävda direktivet ska anses som hänvisningar till detta direktiv. Närmare föreskrifter om hur hänvisningen ska göras och om hur uppgiften ska formuleras ska medlemsstaterna själva utfärda.
+2. Medlemsstaterna ska till kommissionen överlämna texten till de centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv.
+3. Medlemsstaterna får behålla eller sätta i kraft bestämmelser som är mer gynnsamma för borgenären än de bestämmelser som är nödvändiga för att följa detta direktiv.
+4. Vid införlivandet av detta direktiv får medlemsstaterna avgöra huruvida avtal som slutits före den 16 mars 2013 ska undantas.
+
+Artikel 13
+Upphävande
+Direktiv 2000/35/EG ska upphöra att gälla med verkan från och med den 16 mars 2013, utan att det påverkar medlemsstaternas skyldigheter när det gäller tidsfristen för dess införlivande med nationell lagstiftning och dess tillämpning. Direktivet ska emellertid fortsätta att tillämpas på avtal som ingåtts före det datumet på vilka detta direktiv inte tillämpas enligt artikel 12.4.
+Hänvisningar till det upphävda direktivet ska anses som hänvisningar till det här direktivet och ska läsas i enlighet med jämförelsetabellen som anges i bilagan.
+
+Artikel 14
+Ikraftträdande
+Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i Europeiska unionens officiella tidning .
+
+Artikel 15
+Adressater
+Detta direktiv riktar sig till medlemsstaterna.
+
+Utfärdat i Strasbourg den 16 februari 2011.
+På Europaparlamentets vägnar
+J. BUZEK
+Ordförande
+På rådets vägnar
+MARTONYI J.
+Ordförande
+( 1 ) EUT C 255, 22.9.2010, s. 42 .
+( 2 ) Europaparlamentets ståndpunkt av den 20 oktober 2010 (ännu ej offentliggjord i EUT) och rådets beslut av den 24 januari 2011.
+( 3 ) EGT L 200, 8.8.2000, s. 35 .
+( 4 ) EGT L 12, 16.1.2001, s. 1 .
+( 5 ) EUT L 143, 30.4.2004, s. 15 .
+( 6 ) EUT L 399, 30.12.2006, s. 1 .
+( 7 ) EUT L 199, 31.7.2007, s. 1 .
+( 8 ) EUT L 124, 20.5.2003, s. 36 .
+( 9 ) EUT L 134, 30.4.2004, s. 1 .
+( 10 ) EUT L 134, 30.4.2004, s. 114 .
+( 11 ) EGT L 124, 8.6.1971, s. 1 .
+( 12 ) EUT L 347, 11.12.2006, s. 1 .
+( 13 ) EGT L 248, 16.9.2002, s. 1 .
+( 14 ) EGT L 357, 31.12.2002, s. 1 .
+( 15 ) EUT L 136, 24.5.2008, s. 3 .
+( 16 ) EUT C 321, 31.12.2003, s. 1 .
+( 17 ) EUT L 318, 17.11.2006, s. 17 .
+
+BILAGA
+Jämförelsetabell
+Direktiv 2000/35/EG | Detta direktiv
+— | Artikel 1.1
+Artikel 1 | Artikel 1.2
+Artikel 2.1 första stycket | Artikel 2.1
+Artikel 2.1 andra stycket | Artikel 2.2
+Artikel 2.1 tredje stycket | Artikel 2.3
+Artikel 2.2 | Artikel 2.4
+— | Artikel 2.5
+— | Artikel 2.6
+— | Artikel 2.7 inledningen
+— | Artikel 2.8
+Artikel 2.3 | Artikel 2.9
+Artikel 2.4 | Artikel 2.7 a
+Artikel 2.5 | Artikel 2.10
+Artikel 3.1 a | Artikel 3.3 a
+Artikel 3.1 b inledningen | Artikel 3.3 b inledningen
+Artikel 3.1 b i | Artikel 3.3 b i
+Artikel 3.1 b ii | Artikel 3.3 b ii
+Artikel 3.1 b iii | Artikel 3.3 b iii
+Artikel 3.1 b iv | Artikel 3.3 b iv
+— | Artikel 3.4
+— | Artikel 3.5
+Artikel 3.1 c | Artikel 3.1
+Artikel 3.1 d första och tredje meningen | —
+Artikel 3.1 d andra meningen | Artikel 2.7 b
+— | Artikel 3.2
+— | Artikel 4
+— | Artikel 5
+— | Artikel 6.1
+— | Artikel 6.2
+Artikel 3.1 e | Artikel 6.3
+Artikel 3.2 | —
+Artikel 3.3 | Artikel 7.1
+— | Artikel 7.2
+— | Artikel 7.3
+Artikel 3.4 | Artikel 7.4
+Artikel 3.5 | Artikel 7.5
+— | Artikel 8
+Artikel 4 | Artikel 9
+Artikel 5.1, 5.2 och 5.3 | Artikel 10.1, 10.2 och 10.3
+Artikel 5.4 | —
+— | Artikel 10.4
+— | Artikel 11
+Artikel 6.1 | —
+— | Artikel 12.1
+Artikel 6.2 | Artikel 12.3
+Artikel 6.3 | Artikel 1.3
+Artikel 6.4 | Artikel 12.2
+Artikel 6.5 | —
+— | Artikel 12.4
+— | Artikel 13
+Artikel 7 | Artikel 14
+Artikel 8 | Artikel 15
+— | Bilaga

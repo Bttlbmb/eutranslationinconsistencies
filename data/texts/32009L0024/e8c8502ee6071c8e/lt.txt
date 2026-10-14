@@ -1,0 +1,184 @@
+EUROPOS PARLAMENTO IR TARYBOS DIREKTYVA 2009/24/EB
+2009 m. balandžio 23 d.
+dėl kompiuterių programų teisinės apsaugos
+(kodifikuota redakcija)
+(Tekstas svarbus EEE)
+
+EUROPOS PARLAMENTAS IR EUROPOS SĄJUNGOS TARYBA,
+
+atsižvelgdama į Europos ekonominės bendrijos steigimo sutartį, ypač jos 95 straipsnį,
+
+atsižvelgdami į Komisijos pasiūlymą,
+
+atsižvelgdami į Europos ekonomikos ir socialinių reikalų komiteto nuomonę ( 1 ) ,
+
+laikydamiesi Sutarties 251 straipsnyje nustatytos tvarkos ( 2 ) ,
+
+kadangi:
+
+(1) | 1991 m. gegužės 14 d. Tarybos direktyvos 91/250/EEB dėl kompiuterių programų teisinės apsaugos ( 3 ) turinys buvo keičiamas ( 4 ) . Siekiant aiškumo ir racionalumo minėta direktyva turėtų būti kodifikuota.
+
+(2) | Kuriant kompiuterių programas reikia investuoti nemažai žmogiškųjų, techninių ir finansinių išteklių, o jas nukopijuoti galima už dalelytę tų sąnaudų, kurių reikia jas savarankiškai kuriant.
+
+(3) | Kompiuterių programos darosi vis svarbesnės daugelyje pramonės šakų, ir dėl to kompiuterių programų technologiją galima laikyti pagrindiniu veiksniu, užtikrinančiu Bendrijos pramonės plėtrą.
+
+(4) | Tam tikri valstybių narių įstatymuose numatytos kompiuterių programų teisinės apsaugos skirtumai daro tiesioginį neigiamą su kompiuterių programomis susijusį poveikį vidaus rinkai.
+
+(5) | Būtina tokį poveikį turinčius skirtumus pašalinti ir užkirsti kelią naujiems panašiems skirtumams, o skirtumų, kurie neigiamai neveikia vidaus rinkos funkcionavimo, nebūtina šalinti ar jiems užkirsti kelią.
+
+(6) | Atitinkamai Bendrijos teisinė bazė dėl kompiuterių programų apsaugos gali pirmiausia apsiriboti reikalavimu, kad valstybės narės numatytų kompiuterių programų apsaugą, panašią į literatūros kūrinių autorių teisių apsaugą, o vėliau nustatytų, kas turi rūpintis tokia apsauga, kam tokia apsauga turėtų būti taikoma, bei numatytų išimtines teises, kuriomis asmenys, kuriems taikoma apsauga, galėtų remtis duodami leidimą tam tikriems veiksmams ar juos drausdami, ir tokios apsaugos terminą.
+
+(7) | Šioje direktyvoje sąvoka „kompiuterio programa“ apima bet kokios formos programas, įskaitant ir tas, kurios yra įrašytos į kompiuterinę įrangą. Ši sąvoka taip pat apima parengiamąjį projektinį darbą siekiant sukurti kompiuterio programą, jei tokio parengiamojo darbo esmė yra kompiuterinės programos sukūrimas vėlesniame etape.
+
+(8) | Remiantis tam tikrais kriterijais, taikomais nusprendžiant, ar kompiuterio programa yra originalus kūrinys, neturi būti taikomi jokie programos kokybinių ar estetinių ypatybių tyrimai.
+
+(9) | Bendrija yra visiškai įpareigota palaikyti tarptautinių standartų kūrimą.
+
+(10) | Kompiuterio programos funkcija – palaikyti ryšį ir dirbti kartu su kitais kompiuterinės sistemos komponentais ir su naudotojais, ir dėl to reikia loginio ir atitinkamais atvejais fizinio tarpusavio sujungimo ir sąveikos, kad visi programinės ir kompiuterinės įrangos elementai dirbtų su kita programine ir kompiuterine įranga ir naudotojais visais būdais, kuriais jie turi veikti. Tos programos dalys, kurios užtikrina tokį programinės ir kompiuterinės įrangos elementų sujungimą ir sąveiką, paprastai vadinamos „sąsajos“. Toks funkcinis tarpusavio sujungimas ir sąveika paprastai vadinami „suderinamumu“; tokį suderinamumą galima apibrėžti kaip galėjimą keistis informacija ir abipusiškai naudotis šia informacija.
+
+(11) | Siekiant išvengti abejonių, reikia aiškiai nustatyti, kad pagal šią direktyvą autorių teisių apsauga taikoma tik kompiuterio programos išraiškai, o ne idėjoms ir principams, kuriais remiasi programos elementai, įskaitant ir elementus, kuriais remiasi sąsajos. Pagal autorių teisių principus logika, algoritmai ir programavimo kalbos susideda iš idėjų ir principų, šios idėjos ir principai nėra šios direktyvos saugomi. Vadovaujantis valstybių narių įstatymais ir teismų praktika bei tarptautinėmis autorių teisių konvencijomis, tų idėjų ir principų išraiškai turi būti taikoma autorių teisių apsauga.
+
+(12) | Šioje direktyvoje sąvoka „nuoma“ reiškia leidimą naudotis kompiuterio programa ar jos kopija ribotą laiką siekiant pelno. Ši sąvoka neapima viešosios panaudos, kuri atitinkamai neįeina į šios direktyvos taikymo sritį.
+
+(13) | Autoriaus išimtinei teisei drausti neteisėtai atgaminti savo kūrinį turėtų būti taikoma apribota išimtis, kai leisti atgaminti kompiuterio programą techniškai būtina, kad ta programa galėtų naudotis ją teisėtai įsigijęs asmuo. Tai reiškia, jog sutartimi negalima drausti įdiegti ir paleisti programą, kad būtų galima naudotis teisėtai įsigyta programos kopija ir taisyti jos klaidų. Nesant konkrečių sutartinių nuostatų, įskaitant atvejus, kai programos kopija parduota, ją teisėtai įsigijusiam asmeniui leidžiama atlikti bet kurį kitą veiksmą, kuris pagal jo paskirtį yra būtinas, kad būtų galima naudotis ta programos kopija.
+
+(14) | Asmeniui, turinčiam teisę naudotis kompiuterio programa, neturėtų būti užkertamas kelias atlikti veiksmus, būtinus stebėti, nagrinėti ar patikrinti programos veikimą, jei tokie veiksmai nepažeidžia programos autorių teisių.
+
+(15) | Neteisėtas kodo, kuria kompiuterio programos kopija yra pateikta, atkūrimas, vertimas, pritaikymas ar keitimas yra autoriaus išimtinių teisių pažeidimas. Vis dėlto gali būti tokių aplinkybių, kai toks kodo atkūrimas ir jo vertimas yra neišvengiamas, norint gauti būtiną informaciją apie tai, kaip užtikrinti savarankiškai sukurtos programos suderinamumą su kitomis programomis. Dėl to turi būti laikoma, kad, tik tokiomis ribotomis aplinkybėmis, atgaminimo ir vertimo veiksmai, atlikti asmens, turinčio teisę naudotis programos kopija, ar jo vardu, yra teisėti, neprieštarauja sąžiningumui ir todėl jiems nereikia turėti autoriaus teisių turėtojo sutikimo. Šios išimties tikslas – leisti sujungti visus kompiuterinės sistemos komponentus, įskaitant ir skirtingų gamintojų pagamintus komponentus, kad jie galėtų veikti kartu. Tokia autoriaus išimtinių teisių išimtimi negalima naudotis taip, kad būtų pažeidžiami teisėti autoriaus teisių turėtojo interesai arba nesiderintų su įprastu programos naudojimu.
+
+(16) | Kompiuterių programų apsauga pagal autorių teisių įstatymus neturėtų pažeisti kitų atitinkamais atvejais taikomų apsaugos formų. Tačiau sutartinės nuostatos, prieštaraujančios šioje Direktyvoje nustatytoms nuostatoms dėl dekompiliavimo ar šioje Direktyvoje numatytoms išimtims dėl laikinos kopijos arba išbandymo, nagrinėjimo ar patikrinimo, kaip veikia programa, turėtų būti laikomos niekinėmis.
+
+(17) | Šios direktyvos nuostatos nepažeidžia konkurencijos taisyklių taikymo pagal Sutarties 81 ir 82 straipsnius, jei dominuojantis tiekėjas atsisako pateikti informaciją, būtiną suderinamumui, kaip apibrėžta šioje direktyvoje.
+
+(18) | Šios direktyvos nuostatos neturėtų pažeisti priimtuose Bendrijos teisės aktuose numatytų konkrečių reikalavimų dėl sąsajų telekomunikacijų sektoriuje skelbimo ir Tarybos sprendimų dėl informacinių technologijų ir telekomunikacijų standartizavimo.
+
+(19) | Ši direktyva neturi įtakos nacionaliniuose teisės aktuose pagal Berno konvenciją numatytoms nukrypti leidžiančioms nuostatoms, taikomoms klausimams, kuriems ši direktyva netaikoma.
+
+(20) | Ši direktyva neturėtų pažeisti valstybių narių įsipareigojimų, susijusių su direktyvų perkėlimo į nacionalinę teisę terminais, numatytais I priedo B dalyje,
+
+PRIĖMĖ ŠIĄ DIREKTYVĄ:
+
+1 straipsnis
+Apsaugos objektas
+1. Vadovaudamosi šios direktyvos nuostatomis, valstybės narės taiko kompiuterių programoms tokią autorių teisių apsaugą kaip ir literatūros kūriniams, apibrėžtiems Berno konvencijoje dėl literatūros ir meno kūrinių apsaugos. Šioje direktyvoje sąvoka „kompiuterio programa“ apima ir parengiamąją projektinę medžiagą.
+2. Šioje direktyvoje numatyta apsauga taikoma kompiuterio programos išraiškai bet kuria forma. Pagal šią direktyvą autorių teisių apsauga netaikoma idėjoms ir principams, kuriais remiasi kompiuterio programos elementai, įskaitant elementus, kuriais remiasi jos sąsajos.
+3. Kompiuterio programai taikoma apsauga, jei ji yra originali ta prasme, kad tai – paties autoriaus intelekto kūrinys. Teisei į apsaugą nustatyti netaikomi jokie kiti kriterijai.
+4. Šios direktyvos nuostatos taip pat taikomos programoms, sukurtoms iki 1993 m. sausio 1 d., nepažeidžiant jokių iki tos datos sudarytų aktų ar įgytų teisių.
+
+2 straipsnis
+Kompiuterių programų autorystė
+1. Kompiuterio programos autorius – tai fizinis asmuo arba fizinių asmenų, kurie sukūrė programą, grupė, arba, jei valstybės narės įstatymai leidžia, juridinis asmuo, kuriam pagal tokius įstatymus suteikiamos autoriaus teisės.
+Kai valstybės narės įstatymai pripažįsta kolektyvinius kūrinius, asmuo, kuris pagal valstybės narės įstatymus laikomas kūrinį sukūrusiu asmeniu, yra laikomas jo autoriumi.
+2. Jei kompiuterio programą yra sukūrusi fizinių asmenų grupė bendrai, išimtinės teisės priklauso bendrai.
+3. Jei kompiuterio programą sukuria darbuotojas, atlikdamas savo tarnybines pareigas arba vykdydamas tarnybinę užduotį, tik darbdavys turi teisę naudotis visomis turtinėmis taip sukurtos programos teisėmis, jei sutartyje nėra numatyta kitaip.
+
+3 straipsnis
+Apsaugos subjektai
+Apsauga suteikiama visiems fiziniams ar juridiniams asmenims, kurie turi tokią teisę pagal autorių teisių įstatymus, taikomus literatūros kūriniams.
+
+4 straipsnis
+Apribojimai
+1. Vadovaujantis 5 ir 6 straipsnių nuostatomis, autoriaus teisių turėtojo išimtinės teisės, kaip apibrėžta 2 straipsnyje, apima teisę pačiam arba leisti kitam:
+a) | nuolat arba laikinai bet kokiomis priemonėmis ir forma atgaminti visą kompiuterio programą arba jos dalį. Jei kompiuterio programos įdiegimui, peržiūrėjimui, paleidimui, perdavimui ar saugojimui būtinas toks atgaminimas, tokiems veiksmams reikia gauti autoriaus teisių turėtojo leidimą;
+b) | versti, pritaikyti, sutvarkyti ar kitaip pakeisti kompiuterio programą bei atgaminti šių veiksmų rezultatus, nepažeidžiant asmens, kuris keičia programą, teisių;
+c) | bet kuria forma viešai platinti ir nuomoti kompiuterio programos originalą arba jos kopijas.
+2. Pirmą kartą autoriaus teisių turėtojui arba su jo leidimu pardavus programos kopiją Bendrijoje, išnaudojama tos kopijos platinimo Bendrijoje teisė, išskyrus teisę kontroliuoti tolesnę programos ar jos kopijos nuomą.
+
+5 straipsnis
+Apribojimų išimtys
+1. Jei nėra konkrečių sutartinių nuostatų, 4 straipsnio 1 dalies a ir b punktuose nurodytiems veiksmams nereikia autoriaus teisių turėtojo leidimo, kai tokie veiksmai yra būtini tam, kad kompiuterio programą teisėtai įsigijęs asmuo galėtų ją naudoti pagal paskirtį ir taisyti jos klaidas.
+2. Asmeniui, turinčiam teisę naudoti kompiuterio programą, sutartimi negalima drausti pasidaryti atsarginės kopijos, jei tai būtina tokiam naudojimui.
+3. Asmuo, turintis teisę naudoti kompiuterio programos kopiją, turi teisę be autoriaus teisių turėtojo leidimo išbandyti, nagrinėti ar patikrinti, kaip veikia programa, kad galėtų nustatyti idėjas ir principus, kuriais remiasi programos elementai, jei jis tai daro teisėtai įdiegdamas, peržiūrėdamas, paleisdamas, perduodamas arba saugodamas programą.
+
+6 straipsnis
+Dekompiliavimas
+1. Autoriaus teisių turėtojo leidimas nebūtinas, kai kodo atgaminimas (atkūrimas) ir jo vertimas, kaip apibrėžta 4 straipsnio 1 dalies a ir b punktuose, yra būtini, norint gauti informaciją apie tai, kaip užtikrinti savarankiškai sukurtos kompiuterio programos suderinamumą su kitomis programomis, jei laikomasi šių sąlygų:
+a) | tokius veiksmus atlieka licenciją turintis asmuo arba kitas teisę naudoti programos kopiją turintis asmuo, arba jų įgaliotas tai atlikti asmuo;
+b) | suderinamumui užtikrinti būtina informacija anksčiau nebuvo laisvai prieinama a punkte nurodytiems asmenims; ir
+c) | tokie veiksmai atliekami tik su tomis originalios programos dalimis, kurios yra būtinos suderinamumui užtikrinti.
+2. Informaciją, gautą pagal šio straipsnio 1 dalies nuostatas, draudžiama:
+a) | naudoti kitiems tikslams, o ne savarankiškai sukurtos kompiuterio programos suderinamumui užtikrinti;
+b) | perduoti kitiems asmenims, išskyrus, kai tai būtina savarankiškai sukurtos kompiuterio programos suderinamumui užtikrinti; ar
+c) | naudoti kokiai nors savo išraiška iš esmės panašiai kompiuterio programai sukurti, pagaminti ar parduoti, arba kitam veiksmui, kuris pažeidžia autorių teises.
+3. Vadovaujantis Berno konvencijos dėl literatūros ir meno kūrinių apsaugos nuostatomis, šio straipsnio nuostatų negalima aiškinti taip, kad jos leistų jį taikyti nepagrįstai pažeidžiant teisėtus autoriaus teisių turėtojo interesus, ar prieštarautų įprastam kompiuterio programos naudojimui.
+
+7 straipsnis
+Ypatingos apsaugos priemonės
+1. Nepažeisdamos 4, 5 ir 6 straipsnių nuostatų, valstybės narės pagal savo nacionalinius įstatymus numato atitinkamas teisines priemones prieš asmenis, kurie įvykdo bet kurį iš šių veiksmų:
+a) | išleidžia į apyvartą kompiuterio programos kopiją, žinodami arba pagrįstai manydami, kad tai neteisėta kopija;
+b) | komerciniams tikslams naudoja kompiuterio programos kopiją, žinodami arba pagrįstai manydami, kad tai neteisėta kopija;
+c) | išleidžia į apyvartą arba komerciniams tikslams naudoja bet kokią priemonę, kuri skirta padėti neteisėtai pašalinti arba apeiti bet kurį techninį įtaisą, kuris galėjo būti taikomas kompiuterio programai apsaugoti.
+2. Bet kuri neteisėta kompiuterio programos kopija gali būti konfiskuota pagal atitinkamos valstybės narės įstatymus.
+3. Valstybės narės gali numatyti bet kurios priemonės, minimos šio straipsnio 1 dalies c punkte, konfiskavimą.
+
+8 straipsnis
+Kitų teisinių nuostatų taikymas
+Šios direktyvos nuostatos nepažeidžia jokių teisinių nuostatų, tokių kaip nuostatos dėl patentų teisių, prekių ženklų, nesąžiningos konkurencijos, komercinių paslapčių, puslaidininkinių gaminių apsaugos ar sutarčių teisės.
+Visos sutartinės nuostatos, prieštaraujančios 6 straipsniui ar 5 straipsnio 2 ir 3 dalyse numatytoms išimtims, yra niekinės.
+
+9 straipsnis
+Pateikimas
+Valstybės narės pateikia Komisijai šios direktyvos taikymo srityje priimtas nacionalinių įstatymų nuostatas.
+
+10 straipsnis
+Panaikinimas
+Direktyva 91/250/EEB su pakeitimais, padarytais direktyva, nurodyta I priedo A dalyje, yra panaikinama nepažeidžiant valstybių narių įsipareigojimų, susijusių su direktyvų perkėlimo į nacionalinę teisę terminais, numatytais I priedo B dalyje.
+Nuorodos į panaikintą direktyvą laikomos nuorodomis į šią direktyvą ir skaitomos pagal II priede pateiktą atitikmenų lentelę.
+
+11 straipsnis
+Įsigaliojimas
+Ši direktyva įsigalioja dvidešimtą dieną nuo jos paskelbimo Europos Sąjungos oficialiajame leidinyje .
+
+12 straipsnis
+Adresatai
+Ši direktyva skirta valstybėms narėms.
+
+Priimta Strasbūre 2009 m. balandžio 23 d.
+Europos Parlamento vardu
+Pirmininkas
+H.-G. PÖTTERING
+Tarybos vardu
+Pirmininkas
+P. NEČAS
+( 1 ) OL C 204, 2008 8 9, p. 24 .
+( 2 ) 2008 m. birželio 17 d. Europos Parlamento nuomonė (dar nepaskelbta Oficialiajame leidinyje) ir 2009 m. kovo 23 d. Tarybos sprendimas.
+( 3 ) OL L 122, 1991 5 17, p. 42 .
+( 4 ) Žr. I priedo A dalį.
+
+I PRIEDAS
+A DALIS
+Panaikinama direktyva su pakeitimu
+(nurodyta 10 straipsnyje)
+Tarybos direktyva 91/250/EEB ( OL L 122, 1991 5 17, p. 42 ) | 
+Tarybos direktyva 93/98/EEB ( OL L 290, 1993 11 24, p. 9 ) | Tiktai 11 straipsnio 1 dalis
+B DALIS
+Perkėlimo į nacionalinę teisę terminų sąrašas
+(nurodytas 10 straipsnyje)
+Direktyva | Perkėlimo terminas
+91/250/EEB | 1992 m. gruodžio 31 d.
+93/98/EEB | 1995 m. birželio 30 d.
+
+II PRIEDAS
+Atitikmenų lentelė
+Direktyva 91/250/EEB | Ši direktyva
+1 straipsnio 1, 2 ir 3 dalys | 1 straipsnio 1, 2 ir 3 dalys
+2 straipsnio 1 dalies pirmas sakinys | 2 straipsnio 1 dalies pirma pastraipa
+2 straipsnio 1 dalies antras sakinys | 2 straipsnio 1 dalies antra pastraipa
+2 straipsnio 2 ir 3 dalys | 2 straipsnio 2 ir 3 dalys
+3 straipsnis | 3 straipsnis
+4 straipsnio įžanginiai žodžiai | 4 straipsnio 1 dalies įžanginiai žodžiai
+4 straipsnio a punktas | 4 straipsnio 1 dalies a punktas
+4 straipsnio b punktas | 4 straipsnio 1 dalies b punktas
+4 straipsnio c punkto pirmas sakinys | 4 straipsnio 1 dalies c punktas
+4 straipsnio c punkto antras sakinys | 4 straipsnio 2 dalis
+5, 6 ir 7 straipsniai | 5, 6 ir 7 straipsniai
+9 straipsnio 1 dalies pirmas sakinys | 8 straipsnio pirma dalis
+9 straipsnio 1 dalies antras sakinys | 8 straipsnio antra dalis
+9 straipsnio 2 dalis | 1 straipsnio 4 dalis
+10 straipsnio 1 dalis | —
+10 straipsnio 2 dalis | 9 straipsnis
+— | 10 straipsnis
+— | 11 straipsnis
+11 straipsnis | 12 straipsnis
+— | I priedas
+— | II priedas

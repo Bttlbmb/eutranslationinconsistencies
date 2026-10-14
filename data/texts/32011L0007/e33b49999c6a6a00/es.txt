@@ -1,0 +1,302 @@
+DIRECTIVA 2011/7/UE DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+de 16 de febrero de 2011
+por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales
+(refundición)
+(Texto pertinente a efectos del EEE)
+
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+
+Visto el Tratado de Funcionamiento de la Unión Europea y, en particular, su artículo 114,
+
+Vista la propuesta de la Comisión Europea,
+
+Visto el dictamen del Comité Económico y Social Europeo ( 1 ) ,
+
+De conformidad con el procedimiento legislativo ordinario ( 2 ) ,
+
+Considerando lo siguiente:
+
+(1) | Deben introducirse diversos cambios sustantivos en la Directiva 2000/35/CE del Parlamento Europeo y del Consejo, de 29 de junio de 2000, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales ( 3 ) . Conviene proceder a la refundición de las disposiciones en cuestión por razones de claridad y racionalización.
+
+(2) | La mayor parte de los bienes y servicios se suministran y prestan en el mercado interior entre agentes económicos o entre agentes económicos y poderes públicos mediante pagos aplazados, de manera que el proveedor concede a su cliente un plazo de pago de la factura, según lo acordado entre las partes, lo establecido en la factura del proveedor o las disposiciones legales.
+
+(3) | En las operaciones comerciales entre agentes económicos o entre agentes económicos y poderes públicos muchos pagos se efectúan después del plazo acordado en el contrato o establecido en las condiciones generales de la contratación. Aunque ya se hayan suministrado los bienes o se hayan prestado los servicios, las facturas correspondientes se pagan con mucho retraso respecto al plazo previsto. Esta morosidad influye negativamente en la liquidez de las empresas, complica su gestión financiera y afecta a su competitividad y rentabilidad cuando se ven obligadas a solicitar financiación exterior. El riesgo de esta influencia negativa aumenta drásticamente en períodos de crisis económica, al hacerse más difícil la obtención de financiación.
+
+(4) | Las acciones judiciales contra la morosidad ya están instrumentadas por el Reglamento (CE) n o 44/2001 del Consejo, de 22 de diciembre de 2000, relativo a la competencia judicial, el reconocimiento y la ejecución de resoluciones judiciales en materia civil y mercantil ( 4 ) , el Reglamento (CE) n o 805/2004 del Parlamento Europeo y del Consejo, de 21 de abril de 2004, por el que se establece un título ejecutivo europeo para créditos no impugnados ( 5 ) , el Reglamento (CE) n o 1896/2006 del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, por el que se establece un proceso monitorio europeo ( 6 ) , y el Reglamento (CE) n o 861/2007 del Parlamento Europeo y del Consejo, de 11 de julio de 2007, por el que se establece un proceso europeo de escasa cuantía ( 7 ) . Sin embargo, para desincentivar la morosidad en las operaciones comerciales, es necesario adoptar disposiciones complementarias.
+
+(5) | Las empresas deben poder comerciar en todo el mercado interior en condiciones tales que garanticen que las operaciones transfronterizas no supongan mayores riesgos que las ventas en el mercado nacional. Se podrían producir distorsiones de la competencia si se aplicaran normas sustancialmente diferentes a las operaciones en el mercado nacional y a las transfronterizas.
+
+(6) | En su Comunicación de 25 de junio de 2008, titulada «Pensar primero a pequeña escala — “Small Business Act” para Europa: iniciativa a favor de las pequeñas empresas», la Comisión destacó que debe facilitarse el acceso de las pequeñas y medianas empresas (PYME) a la financiación y desarrollarse un marco jurídico y empresarial que propicie la puntualidad de los pagos en las operaciones comerciales. Debe advertirse que los poderes públicos tienen una responsabilidad especial en este ámbito. Los criterios para la definición de las PYME se fijan en la Recomendación 2003/361/CE de la Comisión, de 6 de mayo de 2003, sobre la definición de microempresas, pequeñas y medianas empresas ( 8 ) .
+
+(7) | Una de las acciones prioritarias de la Comunicación de la Comisión de 26 de noviembre de 2008, titulada «Un Plan Europeo de Recuperación Económica», consiste en reducir las cargas administrativas y fomentar la iniciativa empresarial, entre otras cosas, asegurándose de que, en principio, las facturas por suministros y servicios, incluidas las correspondientes a las PYME, se paguen en el plazo de un mes con el fin de aliviar sus problemas de liquidez.
+
+(8) | Conviene que el ámbito de la presente Directiva se limite a los pagos efectuados como contraprestación en operaciones comerciales. La presente Directiva no debe regular las operaciones en las que intervienen consumidores, los intereses relacionados con otros pagos como, por ejemplo los efectuados en virtud de la legislación en materia de cheques y letras de cambio, los pagos de indemnizaciones por daños y perjuicios, incluidos los pagos realizados por compañías de seguros. Además, los Estados miembros deben tener la posibilidad de excluir las deudas sometidas a procedimientos concursales, incluidos los procedimientos que tienen por finalidad la reestructuración de la deuda.
+
+(9) | La presente Directiva debe regular todas las operaciones comerciales con independencia de si se llevan a cabo entre empresas públicas o privadas o entre estas y los poderes públicos, teniendo en cuenta que los poderes públicos realizan pagos de un volumen considerable a las empresas. También debe regular todas las operaciones comerciales entre los contratistas principales y sus proveedores y subcontratistas.
+
+(10) | El hecho de que las profesiones liberales queden cubiertas por la presente Directiva no debe obligar a los Estados miembros a tratarlas como empresas o comerciantes en aspectos que no entran en el ámbito de aplicación de la presente Directiva.
+
+(11) | El suministro de mercancías y la prestación de servicios remunerados, a los que se aplica la presente Directiva, también deben incluir el diseño y la realización de obras públicas, así como los trabajos de construcción y de ingeniería civil.
+
+(12) | La morosidad constituye un incumplimiento de contrato que se ha hecho económicamente provechoso para los deudores en la mayoría de los Estados miembros a causa de los bajos intereses aplicados o la no aplicación de intereses a los pagos que incurren en demora o de la lentitud de los procedimientos de recurso. Es necesario un cambio decisivo hacia una cultura de pago sin demora, que prevea, entre otras cosas, que la exclusión del derecho a cobrar intereses sea siempre considerada una práctica o una cláusula contractual manifiestamente abusiva, para invertir esta tendencia y desalentar la morosidad. Este cambio también debe incluir la introducción de disposiciones concretas sobre los plazos de pago y la compensación a los acreedores por los costes en que hayan incurrido así como, entre otras cosas, la indicación de que la exclusión del derecho a una compensación por los costes de cobro debe presumirse manifiestamente abusiva.
+
+(13) | En consecuencia, debe preverse que, como norma general, los plazos de pago contractuales entre empresas no excedan de 60 días naturales. No obstante, pueden darse casos en que las empresas necesiten plazos de pago más amplios, por ejemplo cuando las empresas desean conceder créditos comerciales a sus clientes. Por consiguiente, las partes deben seguir teniendo la posibilidad de acordar expresamente plazos de pago superiores a 60 días naturales, siempre que esta ampliación no sea manifiestamente abusiva para el acreedor.
+
+(14) | En aras de la coherencia de la legislación de la Unión, a efectos de la presente Directiva debe aplicarse la definición de «poderes adjudicadores» recogida en la Directiva 2004/17/CE del Parlamento Europeo y del Consejo, de 31 de marzo de 2004, sobre la coordinación de los procedimientos de adjudicación de contratos en los sectores del agua, de la energía, de los transportes y de los servicios postales ( 9 ) , y en la Directiva 2004/18/CE del Parlamento Europeo y del Consejo, de 31 de marzo de 2004, sobre coordinación de los procedimientos de adjudicación de los contratos públicos de obras, de suministro y de servicios ( 10 ) .
+
+(15) | Debe calcularse diariamente el interés legal de demora como interés simple, de conformidad con el Reglamento (CEE, Euratom) n o 1182/71 del Consejo, de 3 de junio de 1971, por el que se determinan las normas aplicables a los plazos, fechas y términos ( 11 ) .
+
+(16) | La presente Directiva no debe obligar al acreedor a reclamar intereses por demora en el pago. En caso de demora en los pagos, la presente Directiva debe permitir al acreedor cobrar intereses de demora sin necesidad de aviso previo de vencimiento o notificación similar que recuerde al deudor su obligación de pagar.
+
+(17) | El pago del deudor se considerará demorado a efectos de tener derecho a intereses de demora cuando el acreedor, habiendo cumplido sus obligaciones legales y contractuales, no disponga del importe debido en la fecha prevista.
+
+(18) | Las facturas equivalen a solicitudes de pago y constituyen documentos relevantes en la cadena de operaciones para el suministro de bienes y servicios, en particular, para determinar el plazo límite de pago. A efectos de la presente Directiva, conviene que los Estados miembros promuevan sistemas que generen seguridad jurídica respecto a la fecha exacta de recepción de las facturas por el deudor, incluido el ámbito de la facturación electrónica donde cabe generar constancia electrónica de la recepción de las facturas, y que está regulado parcialmente por las disposiciones sobre facturación de la Directiva 2006/112/CE del Consejo, de 28 de noviembre de 2006, relativa al sistema común del impuesto sobre el valor añadido ( 12 ) .
+
+(19) | Es necesario compensar adecuadamente a los acreedores por los costes de cobro debidos a la morosidad para desalentar esta práctica. Los costes de cobro deben incluir los costes administrativos y una compensación por los gastos internos derivados de la morosidad, para los que la presente Directiva debe establecer una cantidad fija mínima acumulable con el interés de demora. La compensación en forma de una cantidad fija debe tener como objetivo limitar los costes administrativos e internos ligados al cobro. La compensación por los costes de cobro debe fijarse sin perjuicio de las disposiciones nacionales en virtud de las cuales un tribunal nacional pueda reconocer el derecho del acreedor a una indemnización adicional por los daños y perjuicios relacionados con la morosidad del deudor.
+
+(20) | Además del derecho al pago de una cantidad fija para cubrir los costes internos relacionados con el cobro, los acreedores deben tener igualmente derecho al reembolso de los demás gastos de cobro ocasionados por el retraso en el pago por parte del deudor. Entre estos costes deben figurar, en particular, los gastos en los que haya incurrido el acreedor para la contratación de un abogado o de una agencia para la gestión de cobros.
+
+(21) | La presente Directiva debe entenderse sin perjuicio del derecho de los Estados miembros a establecer cantidades fijas más elevadas como compensación por los costes de cobro y, por consiguiente, más favorables al acreedor, o a aumentar estas cantidades, entre otros aspectos para tener en cuenta la tasa de inflación.
+
+(22) | La presente Directiva no debe impedir los pagos a plazos ni los pagos escalonados. No obstante, cada plazo o pago debe realizarse de conformidad con los términos acordados y debe estar sometido a las normas relativas a la morosidad recogidas en la presente Directiva.
+
+(23) | En general, los poderes públicos disponen de fuentes de ingresos más seguras, previsibles y continuas que las empresas. Además, muchos poderes públicos pueden obtener financiación a unas condiciones más ventajosas que las empresas. Por otra parte, dependen menos que las empresas privadas del establecimiento de relaciones comerciales estables para alcanzar sus objetivos. Los plazos de pago dilatados y la morosidad de los poderes públicos respecto a los bienes y servicios conllevan costes injustificados a las empresas. Procede, por tanto, introducir normas específicas con respecto a las operaciones comerciales en lo que se refiere al suministro de bienes y la prestación de servicios por parte de empresas a los poderes públicos que prevean, en particular, períodos de pago que, como regla general, no superen los 30 días naturales, salvo acuerdo expreso en contrario recogido en el contrato y siempre que esté objetivamente justificado a la luz de la naturaleza o las características particulares del contrato, y que en ningún caso superen los 60 días naturales.
+
+(24) | No obstante, debe tenerse en cuenta la situación específica de los poderes públicos que, en calidad de empresas públicas, realizan actividades económicas de carácter industrial o mercantil consistentes en ofrecer bienes o servicios en el mercado. En este contexto, los Estados miembros deben tener la posibilidad, en determinadas condiciones, de ampliar el plazo legal de pago recogido en el contrato hasta un máximo de 60 días naturales.
+
+(25) | En lo que a la morosidad se refiere, la situación de los servicios sanitarios en numerosos Estados miembros resulta particularmente preocupante. Los sistemas de asistencia sanitaria, en cuanto constituyen una parte esencial de la infraestructura social de Europa, se ven obligados frecuentemente a conciliar las necesidades individuales con los recursos financieros existentes, teniendo en cuenta el envejecimiento de la población europea, el aumento de la esperanza de vida y los avances médicos. Todos los sistemas deben abordar el reto de establecer las prioridades en el ámbito sanitario de forma que se alcance un equilibrio entre las necesidades de cada paciente y los recursos financieros disponibles. Por lo tanto, los Estados miembros deben tener la posibilidad de conceder a las entidades públicas que prestan servicios de asistencia sanitaria un cierto grado de flexibilidad en el cumplimiento de sus compromisos. En este contexto, los Estados miembros deben tener la posibilidad, en determinadas condiciones, de ampliar el plazo legal de pago recogido hasta un máximo de 60 días naturales. Los Estados miembros, deben, no obstante, hacer todo lo posible para que los pagos en el sector de la asistencia sanitaria se realicen de acuerdo con los plazos legales de pago.
+
+(26) | Para asegurar el cumplimiento del objetivo perseguido con la presente Directiva, los Estados miembros deben velar por que en las operaciones comerciales la duración máxima de un procedimiento de aceptación o de verificación no supere, como regla general, los 30 días naturales. No obstante, un procedimiento de verificación podría superar los 30 días naturales, por ejemplo, en caso de contratos particularmente complejos, cuando se haya acordado expresamente en el contrato y en alguno de los documentos de licitación, y si no resulta manifiestamente abusivo para el acreedor.
+
+(27) | Las instituciones de la Unión se encuentran en una situación comparable a la de los poderes públicos de los Estados miembros en lo que respecta a su financiación y relaciones comerciales. El Reglamento (CE, Euratom) n o 1605/2002 del Consejo, de 25 de junio de 2002, por el que se aprueba el Reglamento financiero aplicable al presupuesto general de las Comunidades Europeas ( 13 ) , precisa que las operaciones de liquidación, ordenación de pagos y libramiento de pago habrán de realizarse en un plazo determinado que se fijará en las normas de desarrollo. Estas normas de desarrollo las fijan en la actualidad el Reglamento (CE, Euratom) n o 2342/2002 de la Comisión, de 23 de diciembre de 2002, sobre normas de desarrollo del Reglamento (CE, Euratom) n o 1605/2002 del Consejo, por el que se aprueba el Reglamento financiero aplicable al presupuesto general de las Comunidades Europeas ( 14 ) , y especifican las circunstancias en las que los acreedores a los que se les ha pagado con retraso tienen derecho a recibir intereses de demora. En el contexto de la revisión que se está llevando a cabo en la actualidad de estos Reglamentos, habría que velar por que los plazos límite para que las instituciones de la Unión realicen los pagos estén armonizados con los períodos legales aplicables a los poderes públicos de conformidad con la presente Directiva.
+
+(28) | La presente Directiva debe prohibir el abuso de la libertad de contratación en perjuicio del acreedor. En consecuencia, cuando una cláusula contractual o una práctica relacionada con la fecha o el plazo de pago, el tipo de interés de demora o la compensación por los costes de cobro no esté justificada sobre la base de las condiciones acordadas al deudor o cuando sirva principalmente para proporcionar al deudor una liquidez adicional a expensas del acreedor, podrán considerarse factores constitutivos de dicho abuso. Por consiguiente, y de conformidad con el proyecto académico «Marco Común de Referencia», debe considerarse abusiva para el acreedor toda cláusula contractual o práctica que se desvíe manifiestamente de las buenas prácticas comerciales, que sea contraria a la buena fe y a la lealtad contractual. En particular, la exclusión de principio del derecho a cobrar intereses debe considerarse siempre manifiestamente abusiva, mientras que la exclusión del derecho a una compensación por los costes de cobro debe presumirse manifiestamente abusiva. La presente Directiva no debe afectar a las disposiciones nacionales que regulan la manera en que se celebran los contratos o la validez de las condiciones contractuales abusivas para el deudor.
+
+(29) | En el marco de un mayor esfuerzo por evitar el abuso de la libertad de contratación en perjuicio de los acreedores, las organizaciones oficialmente reconocidas como representantes de las empresas y las que tienen un interés legítimo en representarlas deben poder ejercer acciones ante los tribunales nacionales o los órganos administrativos para evitar que sigan aplicándose cláusulas contractuales o prácticas que resulten manifiestamente abusivas para el acreedor.
+
+(30) | Para contribuir a alcanzar el objetivo de la presente Directiva, los Estados miembros deben reforzar la difusión de las buenas prácticas, incluida la promoción de la publicación de una lista de pagadores puntuales.
+
+(31) | Conviene garantizar que los acreedores puedan hacer uso de la cláusula de reserva de dominio con carácter no discriminatorio en toda la Unión, si la cláusula de reserva de dominio es válida con arreglo a las disposiciones nacionales aplicables de conformidad con el Derecho internacional privado.
+
+(32) | La presente Directiva únicamente define el término «título ejecutivo», pero no debe regular los diferentes procedimientos para la ejecución forzosa de dicho título ni las condiciones bajo las cuales se puede detener o suspender la ejecución forzosa del mismo.
+
+(33) | Las consecuencias de la morosidad solo pueden ser disuasorias si van acompañadas de procedimientos de recurso rápidos y eficaces para el acreedor. De conformidad con el principio de no discriminación establecido en el artículo 18 del Tratado de Funcionamiento de la Unión Europea, tales procedimientos deben estar a disposición de todos los acreedores establecidos en la Unión.
+
+(34) | Con objeto de facilitar el cumplimiento de lo dispuesto en la presente Directiva, los Estados miembros deben fomentar el recurso a la mediación o a otros medios alternativos de solución de conflictos. La Directiva 2008/52/CE del Parlamento Europeo y del Consejo, de 21 de mayo de 2008, sobre ciertos aspectos de la mediación en asuntos civiles y mercantiles ( 15 ) , establece un marco por lo que respecta a los sistemas de mediación en el ámbito de la Unión, en particular en lo que se refiere a las disputas transfronterizas, sin que ello impida su aplicación a los sistemas internos de mediación. Los Estados miembros también deben animar a las partes interesadas a elaborar códigos voluntarios de conducta cuyo objetivo sea, en particular, contribuir a la aplicación de la presente Directiva.
+
+(35) | Es necesario garantizar que los procedimientos de cobro de créditos no impugnados en caso de morosidad en las operaciones comerciales concluyan en breve plazo, incluso mediante un procedimiento acelerado e independientemente del importe de la deuda.
+
+(36) | Dado que el objetivo de la presente Directiva, en concreto, la lucha contra la morosidad en el mercado interior, no puede ser alcanzado de manera suficiente por los Estados miembros y, por consiguiente, debido a sus dimensiones y efectos, puede lograrse mejor a escala de la Unión, esta puede adoptar medidas, de acuerdo con el principio de subsidiariedad consagrado en el artículo 5 del Tratado. De conformidad con el principio de proporcionalidad enunciado en dicho artículo, la presente Directiva no excede de lo necesario para alcanzar ese objetivo.
+
+(37) | La obligación de transponer la presente Directiva al Derecho nacional debe limitarse a las disposiciones que constituyan una modificación sustantiva respecto a la Directiva 2000/35/CE. La obligación de transponer las disposiciones inalteradas emana de dicha Directiva.
+
+(38) | La presente Directiva no debe afectar a las obligaciones de los Estados miembros relativas a los plazos de transposición al Derecho nacional y a la aplicación de la Directiva 2000/35/CE.
+
+(39) | De conformidad con el punto 34 del Acuerdo interinstitucional «Legislar mejor» ( 16 ) , se alienta a los Estados miembros a establecer, en su propio interés y en el de la Unión, sus propios cuadros, que muestren, en la medida de lo posible, la correspondencia entre la presente Directiva y sus medidas de transposición a nivel nacional, y a hacerlos públicos.
+
+HAN ADOPTADO LA PRESENTE DIRECTIVA:
+
+Artículo 1
+Objeto y ámbito de aplicación
+1. El objeto de la presente Directiva es la lucha contra la morosidad en las operaciones comerciales a fin de asegurar el funcionamiento adecuado del mercado interior, fomentando de este modo la competitividad de las empresas y, en particular, de las PYME.
+2. La presente Directiva se aplicará a todos los pagos efectuados como contraprestación en operaciones comerciales.
+3. Los Estados miembros podrán excluir las deudas sometidas a procedimientos concursales incoados contra el deudor, incluidos los procedimientos que tienen por finalidad la reestructuración de la deuda.
+
+Artículo 2
+Definiciones
+A efectos de la presente Directiva, se entenderá por:
+1) «operaciones comerciales» : las realizadas entre empresas o entre empresas y poderes públicos que den lugar a la entrega de bienes o a la prestación de servicios a cambio de una contraprestación;
+2) «poderes públicos» : los poderes adjudicadores tal como se definen en el artículo 2, apartado 1, letra a), de la Directiva 2004/17/CE y en el artículo 1, apartado 9, de la Directiva 2004/18/CE, con independencia del objeto o valor del contrato;
+3) «empresa» : cualquier organización, distinta de los poderes públicos, que actúe en ejercicio de su actividad independiente económica o profesional, incluso si dicha actividad la lleva a cabo una única persona;
+4) «morosidad» : no efectuar el pago en el plazo contractual o legal establecido, habiéndose cumplido las condiciones fijadas en el artículo 3, apartado 1, o en el artículo 4, apartado 1;
+5) «interés de demora» : interés legal de demora o interés a un tipo negociado y acordado entre las empresas, observando lo dispuesto en el artículo 7;
+6) «interés legal de demora» : interés simple aplicado a los pagos con demora y cuyo tipo es igual a la suma del tipo de referencia y al menos ocho puntos porcentuales;
+7) «tipo de referencia» : cualquiera de los dos significados siguientes:
+a) | respecto a los Estados miembros cuya divisa es el euro: i) el tipo de interés aplicado por el Banco Central Europeo a sus operaciones principales de refinanciación más recientes, o bien ii) el tipo de interés marginal resultante de procedimientos de licitación a tipo variable para las operaciones principales de refinanciación del Banco Central Europeo más recientes;
+b) | respecto a los Estados miembros cuya divisa no es el euro, el tipo equivalente establecido por sus bancos centrales nacionales;
+8) «cantidad adeudada» : el importe principal que debe pagarse en el plazo contractual o legal establecido, incluidos los impuestos, tasas, derechos o costes especificados en la factura o en la solicitud de pago equivalente;
+9) «reserva de dominio» : la estipulación contractual en virtud de la cual el vendedor conserva la propiedad de los bienes en cuestión hasta el pago total del precio;
+10) «título ejecutivo» : toda decisión, sentencia u orden de pago, ya sea de pago inmediato o de pago a plazos, dictada por un tribunal u otra autoridad competente, incluidas las que son ejecutivas provisionalmente, que permita al acreedor obtener la ejecución forzosa de su crédito frente al deudor.
+
+Artículo 3
+Operaciones entre empresas
+1. Los Estados miembros velarán por que, en las operaciones comerciales entre empresas, el acreedor tenga derecho a intereses de demora, sin necesidad de aviso de vencimiento, en los casos en que se den las condiciones siguientes:
+a) | el acreedor ha cumplido sus obligaciones contractuales y legales, y
+b) | el acreedor no ha recibido la cantidad adeudada a tiempo, a menos que el retraso no sea imputable al deudor.
+2. Los Estados miembros se asegurarán de que el tipo de referencia aplicable:
+a) | el primer semestre del año en cuestión, sea el que esté en vigor el 1 de enero de dicho año;
+b) | el segundo semestre del año en cuestión, sea el que esté en vigor el 1 de julio de dicho año.
+3. En los casos en que se cumplan las condiciones establecidas en el apartado 1, los Estados miembros velarán por que:
+a) | el acreedor tenga derecho a un interés de demora a partir del día siguiente a la fecha de pago o al término del plazo de pago que se fije en el contrato;
+b) | si no se fija la fecha o el plazo de pago en el contrato, el acreedor tenga derecho a un interés de demora al vencimiento de cualquiera de los plazos siguientes: i) 30 días naturales después de la fecha en que el deudor haya recibido la factura o una solicitud de pago equivalente, ii) si la fecha de recibo de la factura o de la solicitud de pago equivalente resulta dudosa, 30 días naturales después de la fecha de recepción de los bienes o de la prestación de los servicios, iii) si el deudor recibe la factura o la solicitud de pago equivalente antes que los bienes o servicios, 30 días naturales después de la fecha de recepción de los bienes o de la prestación de los servicios, iv) si legalmente o en el contrato se establece un procedimiento de aceptación o de comprobación en virtud del cual deba verificarse la conformidad de los bienes o los servicios con lo dispuesto en el contrato y si el deudor recibe la factura o la solicitud de pago equivalente a más tardar en la fecha en que tiene lugar dicha aceptación o verificación, 30 días naturales después de dicha fecha.
+4. Si legalmente o en el contrato se establece un procedimiento de aceptación o de comprobación en virtud del cual deba verificarse la conformidad de los bienes o los servicios con lo dispuesto en el contrato, los Estados miembros garantizarán que la duración máxima de dicho procedimiento no exceda de 30 días naturales a partir de la fecha de recepción de los bienes o de la prestación de los servicios, salvo acuerdo expreso en contrario recogido en el contrato y siempre que no sea manifiestamente abusivo para el acreedor en el sentido del artículo 7.
+5. Los Estados miembros velarán por que el plazo de pago fijado en el contrato no exceda de 60 días naturales, salvo acuerdo expreso en contrario recogido en el contrato y siempre que no sea manifiestamente abusivo para el acreedor en el sentido del artículo 7.
+
+Artículo 4
+Operaciones entre empresas y poderes públicos
+1. Los Estados miembros se asegurarán de que, en las operaciones comerciales en las que el deudor sea un poder público, el acreedor tenga derecho, al vencimiento del plazo definido en los apartados 3, 4 y 6, a intereses legales de demora, sin necesidad de aviso de vencimiento, si se cumplen las condiciones siguientes:
+a) | el acreedor ha cumplido sus obligaciones contractuales y legales, y
+b) | el acreedor no ha recibido la cantidad adeudada a tiempo, a menos que el retraso no sea imputable al deudor.
+2. Los Estados miembros se asegurarán de que el tipo de referencia aplicable:
+a) | el primer semestre del año en cuestión, sea el que esté en vigor el 1 de enero de dicho año;
+b) | el segundo semestre del año en cuestión, sea el que esté en vigor el 1 de julio de dicho año.
+3. Los Estados miembros velarán por que, en las operaciones comerciales en las que el deudor sea un poder público:
+a) | el plazo de pago no supere ninguno de los plazos siguientes: i) 30 días naturales después de la fecha en que el deudor haya recibido la factura o una solicitud de pago equivalente, ii) en caso de que la fecha de recibo de la factura o de la solicitud de pago equivalente resulte dudosa, 30 días naturales después de la fecha de recepción de los bienes o de la prestación de los servicios, iii) si el deudor recibe la factura o la solicitud de pago equivalente antes que los bienes o servicios, 30 días naturales después de la fecha de recepción de los bienes o de la prestación de los servicios, iv) si legalmente o en el contrato se establece un procedimiento de aceptación o de comprobación en virtud del cual deba verificarse la conformidad de los bienes o los servicios con lo dispuesto en el contrato y si el deudor recibe la factura o la solicitud de pago equivalente a más tardar en la fecha en que tiene lugar dicha aceptación o verificación, 30 días naturales después de dicha fecha;
+b) | la fecha de recepción de la factura no sea objeto de acuerdo contractual entre el deudor y el acreedor.
+4. Los Estados miembros podrán ampliar los plazos recogidos en el apartado 3, letra a), hasta un máximo de 60 días naturales cuando se trate de:
+a) | poderes públicos que realicen actividades económicas de carácter industrial o mercantil y entreguen bienes o presten servicios en el mercado y que, en su calidad de empresas públicas, estén sometidos a los requisitos en materia de transparencia recogidos en la Directiva 2006/111/CE de la Comisión, de 16 de noviembre de 2006, relativa a la transparencia de las relaciones financieras entre los Estados miembros y las empresas públicas, así como a la transparencia financiera de determinadas empresas ( 17 ) ;
+b) | entidades públicas que presten servicios de asistencia sanitaria y que estén debidamente reconocidas para ello.
+Si un Estado miembro decide ampliar los plazos de conformidad con el presente apartado, enviará a la Comisión un informe sobre dicha ampliación a más tardar el 16 de marzo de 2018.
+Sobre esa base, la Comisión presentará al Parlamento Europeo y al Consejo un informe en el que se indicarán los Estados miembros que han ampliado los plazos de conformidad con el presente apartado, teniendo en cuenta las repercusiones sobre el funcionamiento del mercado interior y, en particular, sobre las PYME. El informe irá acompañado de las propuestas apropiadas.
+5. Los Estados miembros velarán por que la duración máxima del procedimiento de aceptación o verificación mencionado en el apartado 3, letra a), inciso iv), no exceda de 30 días naturales a partir de la fecha de recepción de los bienes o servicios, salvo acuerdo expreso en contrario recogido en el contrato y en alguno de los documentos de licitación y siempre que no sea manifiestamente abusivo para el acreedor en el sentido del artículo 7.
+6. Los Estados miembros se asegurarán de que en los contratos no se fijen plazos de pago más largos que los indicados en el apartado 3, salvo acuerdo expreso en contrario recogido en el contrato y siempre que ello esté objetivamente justificado por la naturaleza o las características particulares del contrato y que, en ningún caso, excedan de 60 días naturales.
+
+Artículo 5
+Calendarios de pago
+La presente Directiva se entenderá sin perjuicio de la capacidad de las partes para acordar, con arreglo a las disposiciones pertinentes de la legislación nacional aplicable, calendarios de pago para pagos a plazos. En esos casos, cuando alguno de los plazos no se abone en la fecha acordada, los intereses y la compensación previstas en la presente Directiva se calcularán únicamente sobre la base de las cantidades vencidas.
+
+Artículo 6
+Compensación por los costes de cobro
+1. Los Estados miembros se asegurarán de que, en los casos en que resulte exigible el interés de demora en las operaciones comerciales con arreglo a los artículos 3 o 4, el acreedor tenga derecho a cobrar al deudor, como mínimo, una cantidad fija de 40 EUR.
+2. Los Estados miembros se asegurarán de que la cantidad fija mencionada en el apartado 1 sea pagadera sin necesidad de recordatorio como compensación por los costes de cobro en que haya incurrido el acreedor.
+3. Además de la cantidad fija establecida en el apartado 1, el acreedor tendrá derecho a obtener del deudor una compensación razonable por todos los demás costes de cobro que superen la cantidad fija y que haya sufrido a causa de la morosidad de este. Esta podría incluir, entre otros, los gastos que el acreedor haya debido sufragar para la contratación de un abogado o una agencia de gestión de cobro.
+
+Artículo 7
+Cláusulas contractuales y prácticas abusivas
+1. Los Estados miembros dispondrán que una cláusula contractual o una práctica relacionada con la fecha o el plazo de pago, el tipo de interés de demora o la compensación por costes de cobro si resulta manifiestamente abusiva para el acreedor no sea aplicable o pueda dar lugar a una reclamación por daños.
+Para determinar si una cláusula contractual o una práctica es manifiestamente abusiva para el acreedor en el sentido del párrafo primero, se tendrán en cuenta todas las circunstancias del caso, incluidas:
+a) | cualquier desviación grave de las buenas prácticas comerciales, contraria a la buena fe y actuación leal;
+b) | la naturaleza del bien o del servicio, así como
+c) | si el deudor tiene alguna razón objetiva para apartarse del tipo de interés legal de demora, del plazo de pago estipulado en el artículo 3, apartado 5, el artículo 4, apartados 3, 4 y 6, o de la cantidad fija a la que se hace referencia en el artículo 6, apartado 1.
+2. A efectos del apartado 1, se considerará manifiestamente abusiva una cláusula contractual o una práctica que excluya el interés de demora.
+3. A efectos del apartado 1, se presumirá que una cláusula contractual o una práctica que excluya la compensación por los costes de cobro a los que se hace referencia en el artículo 6 es manifiestamente abusiva.
+4. Los Estados miembros velarán por que, en interés de los acreedores y los competidores, existan medios adecuados y efectivos para evitar que sigan aplicándose cláusulas contractuales y prácticas que resulten manifiestamente abusivas en el sentido del apartado 1.
+5. Los medios a los que se refiere el apartado 4 incluirán disposiciones que permitan a las organizaciones oficialmente reconocidas como representantes de empresas, o que tengan interés legítimo en representarlas, el ejercicio de acciones, con arreglo a la legislación nacional aplicable, ante los tribunales o los órganos administrativos competentes para que estos resuelvan si las cláusulas contractuales o las prácticas resultan manifiestamente abusivas conforme a lo dispuesto en el apartado 1, de forma que los mismos puedan aplicar las medidas adecuadas y efectivas para evitar que se sigan utilizando.
+
+Artículo 8
+Transparencia y sensibilización
+1. Los Estados miembros garantizarán plena transparencia sobre los derechos y las obligaciones que emanen de la presente Directiva, incluida la puesta a disposición del público del tipo de interés legal de demora aplicable.
+2. La Comisión publicará en internet información detallada relativa a los tipos de interés legales vigentes aplicados en todos los Estados miembros en caso de morosidad en el pago en operaciones comerciales.
+3. Los Estados miembros se servirán, cuando proceda, de publicaciones profesionales, de campañas de promoción o de cualquier otro tipo de medios funcionales para incrementar la sensibilización respecto a las vías de recurso ante la morosidad entre empresas.
+4. Los Estados miembros podrán impulsar el establecimiento de códigos de pago puntual en los que se establezcan claramente los plazos de pago y un procedimiento adecuado para la tramitación de pagos objeto de controversia, o cualquier otra iniciativa que aborde la cuestión crucial de la morosidad y contribuya a desarrollar una cultura de pago sin demora que apoye el objetivo de la presente Directiva.
+
+Artículo 9
+Reserva de dominio
+1. Los Estados miembros dispondrán, de conformidad con la normativa nacional aplicable con arreglo al Derecho internacional privado, que el vendedor conserve la propiedad de los bienes hasta el pago total del precio, siempre que se haya convenido expresamente una cláusula de reserva de dominio entre comprador y vendedor antes de la entrega de los bienes.
+2. Los Estados miembros podrán adoptar o mantener en vigor disposiciones que regulen los pagos anticipados efectuados ya por el deudor.
+
+Artículo 10
+Procedimientos de cobro de créditos no impugnados
+1. Los Estados miembros velarán por que se pueda obtener un título ejecutivo, incluso a través de un procedimiento acelerado, e independientemente del importe de la deuda, normalmente en un plazo de 90 días naturales a partir de la presentación de la demanda o de la solicitud por parte del acreedor ante el tribunal u otra autoridad competente, siempre que no haya habido impugnación de la deuda o de cuestiones del procedimiento. Los Estados miembros llevarán a cabo esta tarea de conformidad con sus disposiciones legales, reglamentarias y administrativas nacionales.
+2. Las disposiciones legales, reglamentarias y administrativas nacionales se aplicarán en las mismas condiciones a todos los acreedores que se encuentren establecidos en la Unión.
+3. Al calcular el período contemplado en el apartado 1, no se tendrán en cuenta:
+a) | los plazos requeridos para notificación;
+b) | los retrasos ocasionados por el acreedor, como por ejemplo los plazos para subsanar demandas o recursos no admisibles.
+4. El presente artículo se entenderá sin perjuicio de lo dispuesto en el Reglamento (CE) n o 1896/2006.
+
+Artículo 11
+Informe
+A más tardar el 16 de marzo de 2016, la Comisión presentará un informe al Parlamento Europeo y al Consejo sobre la aplicación de la presente Directiva. El informe irá acompañado, en su caso, de las propuestas adecuadas.
+
+Artículo 12
+Transposición
+1. Los Estados miembros adoptarán las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento a lo dispuesto en los artículos 1 a 8 y 10 a más tardar el 16 de marzo de 2013. Comunicarán inmediatamente a la Comisión el texto de dichas disposiciones.
+Cuando los Estados miembros adopten dichas disposiciones, estas harán referencia a la presente Directiva o irán acompañadas de dicha referencia en su publicación oficial. Incluirán, igualmente, una mención en la que se precise que las referencias hechas en las disposiciones legales, reglamentarias y administrativas vigentes a la Directiva derogada se entenderán hechas a la presente Directiva. Los Estados miembros establecerán las modalidades de dicha referencia y el modo en que se formule la mención.
+2. Los Estados miembros comunicarán a la Comisión el texto de las disposiciones básicas de Derecho interno que adopten en el ámbito regulado por la presente Directiva.
+3. Los Estados miembros podrán mantener o establecer disposiciones que sean más favorables para el acreedor que las necesarias para cumplir la presente Directiva.
+4. Al transponer la presente Directiva los Estados miembros decidirán si excluyen del ámbito de aplicación los contratos celebrados antes del 16 de marzo de 2013.
+
+Artículo 13
+Derogación
+Queda derogada la Directiva 2000/35/CE con efectos a partir del 16 de marzo de 2013, sin perjuicio de las obligaciones de los Estados miembros relativas a los plazos de su transposición al Derecho nacional y su aplicación. No obstante, seguirá siendo aplicable en lo que respecta a los contratos celebrados antes de esa fecha a los que no se aplica la presente Directiva en virtud de su artículo 12, apartado 4.
+Las referencias a la Directiva derogada se entenderán hechas a la presente Directiva con arreglo a la tabla de correspondencias que figura en el anexo.
+
+Artículo 14
+Entrada en vigor
+La presente Directiva entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea.
+
+Artículo 15
+Destinatarios
+Los destinatarios de la presente Directiva son los Estados miembros.
+
+Hecho en Estrasburgo, el 16 de febrero de 2011.
+Por el Parlamento Europeo
+El Presidente
+J. BUZEK
+Por el Consejo
+El Presidente
+MARTONYI J.
+( 1 ) DO C 255 de 22.9.2010, p. 42 .
+( 2 ) Posición del Parlamento Europeo de 20 de octubre de 2010 (no publicada aún en el Diario Oficial) y Decisión del Consejo de 24 de enero de 2011.
+( 3 ) DO L 200 de 8.8.2000, p. 35 .
+( 4 ) DO L 12 de 16.1.2001, p. 1 .
+( 5 ) DO L 143 de 30.4.2004, p. 15 .
+( 6 ) DO L 399 de 30.12.2006, p. 1 .
+( 7 ) DO L 199 de 31.7.2007, p. 1 .
+( 8 ) DO L 124 de 20.5.2003, p. 36 .
+( 9 ) DO L 134 de 30.4.2004, p. 1 .
+( 10 ) DO L 134 de 30.4.2004, p. 114 .
+( 11 ) DO L 124 de 8.6.1971, p. 1 .
+( 12 ) DO L 347 de 11.12.2006, p. 1 .
+( 13 ) DO L 248 de 16.9.2002, p. 1 .
+( 14 ) DO L 357 de 31.12.2002, p. 1 .
+( 15 ) DO L 136 de 24.5.2008, p. 3 .
+( 16 ) DO C 321 de 31.12.2003, p. 1 .
+( 17 ) DO L 318 de 17.11.2006, p. 17 .
+
+ANEXO
+Tabla de correspondencias
+Directiva 2000/35/CE | Presente Directiva
+— | Artículo 1, apartado 1
+Artículo 1 | Artículo 1, apartado 2
+Artículo 2, punto 1, párrafo primero | Artículo 2, punto 1
+Artículo 2, punto 1, párrafo segundo | Artículo 2, punto 2
+Artículo 2, punto 1, párrafo tercero | Artículo 2, punto 3
+Artículo 2, punto 2 | Artículo 2, punto 4
+— | Artículo 2, punto 5
+— | Artículo 2, punto 6
+— | Artículo 2, punto 7, parte introductoria
+— | Artículo 2, punto 8
+Artículo 2, punto 3 | Artículo 2, punto 9
+Artículo 2, punto 4 | Artículo 2, punto 7, letra a)
+Artículo 2, punto 5 | Artículo 2, punto 10
+Artículo 3, apartado 1, letra a) | Artículo 3, apartado 3, letra a)
+Artículo 3, apartado 1, letra b), parte introductoria | Artículo 3, apartado 3, letra b), parte introductoria
+Artículo 3, apartado 1, letra b), inciso i) | Artículo 3, apartado 3, letra b), inciso i)
+Artículo 3, apartado 1, letra b), inciso ii) | Artículo 3, apartado 3, letra b), inciso ii)
+Artículo 3, apartado 1, letra b), inciso iii) | Artículo 3, apartado 3, letra b), inciso iii)
+Artículo 3, apartado 1, letra b), inciso iv) | Artículo 3, apartado 3, letra b), inciso iv)
+— | Artículo 3, apartado 4
+— | Artículo 3, apartado 5
+Artículo 3, apartado 1, letra c) | Artículo 3, apartado 1
+Artículo 3, apartado 1, letra d), primera y tercera frases | —
+Artículo 3, apartado 1, letra d), segunda frase | Artículo 2, apartado 7, letra b)
+— | Artículo 3, apartado 2
+— | Artículo 4
+— | Artículo 5
+— | Artículo 6, apartado 1
+— | Artículo 6, apartado 2
+Artículo 3, apartado 1, letra e) | Artículo 6, apartado 3
+Artículo 3, apartado 2 | —
+Artículo 3, apartado 3 | Artículo 7, apartado 1
+— | Artículo 7, apartado 2
+— | Artículo 7, apartado 3
+Artículo 3, apartado 4 | Artículo 7, apartado 4
+Artículo 3, apartado 5 | Artículo 7, apartado 5
+— | Artículo 8
+Artículo 4 | Artículo 9
+Artículo 5, apartados 1, 2 y 3 | Artículo 10, apartados 1, 2 y 3
+Artículo 5, apartado 4 | —
+— | Artículo 10, apartado 4
+— | Artículo 11
+Artículo 6, apartado 1 | —
+— | Artículo 12, apartado 1
+Artículo 6, apartado 2 | Artículo 12, apartado 3
+Artículo 6, apartado 3 | Artículo 1, apartado 3
+Artículo 6, apartado 4 | Artículo 12, apartado 2
+Artículo 6, apartado 5 | —
+— | Artículo 12, apartado 4
+— | Artículo 13
+Artículo 7 | Artículo 14
+Artículo 8 | Artículo 15
+— | Anexo

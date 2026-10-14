@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <meta
+      name="description"
+      content="Read EU legislation and reviewed potential differences between its official language versions."
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <title>EU Translation Inconsistencies</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="stylesheet" href="./styles.css?v=13" />
+    <link rel="stylesheet" href="./site-header.css?v=1" />
+    <script type="module" src="./app.js?v=14"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#reader">Skip to legislation</a>
+    <header class="site-header">
+      <a class="brand" href="./">EU Translation Inconsistencies</a>
+      <button type="button" class="header-method" id="method-button" aria-haspopup="dialog">Method</button>
+    </header>
+
+    <main class="workspace">
+      <section class="document-area" aria-label="Legislation comparison">
+        <div class="document-strip">
+          <details class="act-picker" id="act-picker">
+            <summary id="act-picker-label">Choose legislation</summary>
+            <div class="act-picker-menu">
+              <label class="search-box"
+                ><svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                  <circle cx="10.5" cy="10.5" r="6.5"></circle>
+                  <path d="m16 16 4.5 4.5"></path></svg
+                ><input
+                  type="search"
+                  id="search"
+                  placeholder="Find legislation…"
+                  aria-label="Search legislation"
+              /></label>
+              <nav id="legislation-list" class="legislation-list" aria-label="Choose legislation">
+                <div class="loading-state">Loading the collection…</div>
+              </nav>
+            </div>
+          </details>
+          <div id="document-heading" class="document-heading"></div>
+        </div>
+        <section id="review-status" class="review-status" aria-labelledby="review-status-title" hidden></section>
+        <div class="reading-workspace" id="reading-workspace">
+          <div class="reader-column">
+            <div id="reader-toolbar" class="reader-toolbar" hidden></div>
+            <section class="reader" id="reader" aria-label="English legislation" tabindex="-1">
+              <div class="collection-empty"><p>Loading legislation…</p></div>
+            </section>
+          </div>
+          <aside class="comparison" id="comparison" aria-label="Language differences"></aside>
+        </div>
+      </section>
+    </main>
+
+    <p id="selection-status" class="visually-hidden" role="status" aria-live="polite"></p>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <dialog id="method-dialog" class="method-dialog" aria-labelledby="method-title">
+      <div class="dialog-top">
+        <h2 id="method-title">Method</h2>
+        <button class="icon-button" id="close-method" aria-label="Close method">×</button>
+      </div>
+      <p>
+        The English text is a reading reference. All official language versions have equal
+        authority. Choose a focus language to see only its published differences and English-text
+        highlights. Select highlighted text to see original wording, an English translation, and the
+        potential difference.
+      </p>
+      <p>
+        Focus impact narrows the findings and highlights to an assigned potential-impact level.
+        It can be combined with Focus language. No impact rating yet means no level has been
+        assigned for that finding; an issue explanation may be under review. It does not mean
+        Limited impact. The focus is kept in
+        shared links.
+      </p>
+      <p>
+        Published findings are supported by independent model analyses and evidence review. They
+        identify possible differences in meaning, not proof that a translation is legally wrong. An
+        act with no findings is not necessarily equivalent across languages; check its review
+        coverage and source version.
+      </p>
+      <p>One comparison unit means one English passage checked against one other language.</p>
+      <p>Language findings are published finding records. Grouped comparisons combine records with the same English quotation in the same passage; a group may contain several distinct issues. Underlining in the comparison marks wording differences between the English reference and a translation into English. It is a reading aid, not an impact rating.</p>
+      <p>
+        Potential impact proposals describe the possible practical effect if a reading prevails.
+        MVP ratings are preliminary estimates, without a separate editorial approval.
+        Issues needing more context have no rating. They are grouped by legal issue, which may span several highlighted
+        passages. A shared English passage may contain several distinct issues. An act without
+        impact proposals is not assessed as having no impact.
+      </p>
+      <p>The potential impact scale applies to the possible legal outcome:</p>
+      <ul class="method-impact-scale">
+        <li><strong>High potential impact:</strong> A substantial outcome for a broad class, several independent rules, or a serious consequence under one rule, supported by evidence of reach or consequence.</li>
+        <li><strong>Moderate:</strong> A plausible changed outcome for an identifiable group under a specific rule.</li>
+        <li><strong>Limited:</strong> A changed outcome confined to an ancillary detail with limited practical consequence.</li>
+      </ul>
+    </dialog>
+  </body>
+</html>

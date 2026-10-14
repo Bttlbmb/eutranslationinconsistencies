@@ -1,0 +1,302 @@
+EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2011/7/EU
+af 16. februar 2011
+om bekæmpelse af forsinket betaling i handelstransaktioner
+(omarbejdning)
+(EØS-relevant tekst)
+
+EUROPA-PARLAMENTET OG RÅDET FOR DEN EUROPÆISKE UNION HAR —
+
+under henvisning til traktaten om Den Europæiske Unions funktionsmåde, særlig artikel 114,
+
+under henvisning til forslag fra Europa-Kommissionen,
+
+under henvisning til udtalelse fra Det Europæiske Økonomiske og Sociale Udvalg ( 1 ) ,
+
+efter den almindelige lovgivningsprocedure ( 2 ) , og
+
+ud fra følgende betragtninger:
+
+(1) | Der skal foretages en række væsentlige ændringer af Europa-Parlamentets og Rådets direktiv 2000/35/EF af 29. juni 2000 om bekæmpelse af forsinket betaling i handelstransaktioner ( 3 ) . Det er af klarheds- og rationalitetshensyn ønskeligt, at de pågældende bestemmelser omarbejdes.
+
+(2) | De fleste varer og tjenesteydelser i det indre marked leveres af økonomiske aktører til andre økonomiske aktører og til offentlige myndigheder på baggrund af udskudt betaling, hvor leverandøren giver sin kunde en tidsfrist, som er aftalt mellem parterne, angivet på leverandørens faktura eller bestemt ved lov, inden for hvilken fakturaen skal betales.
+
+(3) | Mange betalinger i handelstransaktioner mellem økonomiske aktører eller mellem økonomiske aktører og offentlige myndigheder sker senere end aftalt i kontrakten eller fastlagt i de almindelige forretningsbetingelser. Selv om varerne er leveret, eller tjenesteydelserne er udført, betales de tilhørende fakturaer længe efter fristen. Forsinket betaling påvirker virksomhedernes likviditet negativt og besværliggør deres finansielle forvaltning. Den påvirker også deres konkurrenceevne og rentabilitet, hvis kreditoren er nødt til at skaffe ekstern finansiering på grund af den forsinkede betaling. Risikoen for sådanne negative virkninger øges betydeligt i perioder med økonomisk afmatning, når det er vanskeligere at opnå finansiering.
+
+(4) | Det er allerede lettere at gøre retskrav vedrørende forsinket betaling gældende på grund af Rådets forordning (EF) nr. 44/2001 af 22. december 2000 om retternes kompetence og om anerkendelse og fuldbyrdelse af retsafgørelser på det civil- og handelsretlige område ( 4 ) , Europa-Parlamentets og Rådets forordning (EF) nr. 805/2004 af 21. april 2004 om indførelse af et europæisk tvangsfuldbyrdelsesdokument for ubestridte krav ( 5 ) , Europa-Parlamentets og Rådets forordning (EF) nr. 1896/2006 af 12. december 2006 om indførelse af en europæisk betalingspåkravsprocedure ( 6 ) og Europa-Parlamentets og Rådets forordning (EF) nr. 861/2007 af 11. juli 2007 om indførelse af en europæisk småkravsprocedure ( 7 ) . For at bekæmpe forsinket betaling i handelstransaktioner er det imidlertid nødvendigt at fastsætte supplerende bestemmelser.
+
+(5) | Virksomheder bør være i stand til at drive handel inden for hele det indre marked, uden at transaktioner på tværs af grænserne indebærer større risici end salg på hjemmemarkedet. Det fører til konkurrenceforvridning, hvis der gælder væsentligt forskellige regler for henholdsvis transaktioner på hjemmemarkedet og transaktioner på tværs af grænserne.
+
+(6) | Kommissionen understregede i sin meddelelse af 25. juni 2008 med titlen »»Tænk småt først« — En »Small Business Act« for Europa«, at små og mellemstore virksomheder (SMV’er) bør have lettere adgang til finansiering, og at der bør udvikles et lovgivnings- og erhvervsmiljø, som fremmer rettidig betaling i handelstransaktioner. Det bør bemærkes, at offentlige myndigheder har et særligt ansvar i denne henseende. Kriterierne for, hvordan SMV defineres, er fastsat i Kommissionens henstilling 2003/361/EF af 6. maj 2003 om definitionen af mikrovirksomheder, små og mellemstore virksomheder ( 8 ) .
+
+(7) | Et af de prioriterede indsatsområder i Kommissionens meddelelse af 26. november 2008 med titlen »En europæisk økonomisk genopretningsplan« er at mindske de administrative byrder og fremme iværksætterånd ved bl.a. principielt at sikre, at fakturaer, herunder fra små og mellemstore virksomheder, for levering af varer eller tjenesteydelser betales inden for en måned for at mindske likviditetsproblemerne.
+
+(8) | Dette direktivs anvendelsesområde bør begrænses til betalinger, der sker som vederlag for handelstransaktioner. Dette direktiv bør ikke regulere transaktioner med forbrugere, renter i forbindelse med andre betalinger, f.eks. betalinger i henhold til lovgivningen om checks og veksler, eller betalinger som kompensation for skade, herunder betalinger fra forsikringsselskaber. Medlemsstaterne bør endvidere have mulighed for at udelade gæld, der er genstand for insolvensbehandling, herunder procedurer med sigte på gældsomlægning.
+
+(9) | Dette direktiv bør indeholde bestemmelser om alle handelstransaktioner mellem virksomheder, uanset om de er private eller offentlige, og mellem virksomheder og offentlige myndigheder, da offentlige myndigheder foretager et stort antal betalinger til virksomheder. Direktivet skal derfor også indeholde bestemmelser om alle handelstransaktioner mellem hovedentreprenører og deres leverandører og underleverandører.
+
+(10) | Det forhold, at liberale erhverv er omfattet af dette direktiv, bør ikke forpligte medlemsstaterne til at behandle dem som virksomheder eller handelsforetagender på andre områder end dem, der er omfattet af anvendelsesområdet for dette direktiv.
+
+(11) | Levering af varer eller tjenesteydelser mod vederlag, som dette direktiv finder anvendelse på, bør også omfatte design og udførelse af offentlige arbejder og byggeri og civilingeniørarbejder.
+
+(12) | Forsinket betaling udgør et kontraktbrud, som er blevet finansielt tiltrækkende for skyldnere i de fleste medlemsstater som følge af lave morarenter eller ingen opkrævning af morarenter og/eller langsomme inddrivelsesprocedurer. En afgørende ændring i retning af en kultur med hurtig betaling, herunder at udelukkelse af retten til morarenter altid bør betragtes som et klart urimeligt kontraktvilkår eller en klart urimelig handelspraksis, er nødvendig for at vende denne tendens og modvirke forsinket betaling. En sådan ændring bør desuden omfatte indførelsen af særlige bestemmelser om betalingsfrister og om kompensation til kreditorer for påløbne omkostninger, samt bl.a. at udelukkelse af retten til kompensation for inddrivelsesomkostninger bør betragtes som klart urimelig.
+
+(13) | Der bør derfor være en bestemmelse om, at betalingsfristerne for kontrakter mellem virksomheder som hovedregel bør begrænses til 60 kalenderdage. Der kan imidlertid være omstændigheder, hvorunder virksomheder har brug for længere betalingsfrister, f.eks. når de ønsker at give deres kunder handelskredit. Det bør derfor fortsat være muligt for parterne udtrykkeligt at enes om betalingsfrister på mere end 60 kalenderdage, dog forudsat at en sådan forlængelse ikke er klart urimelig for kreditor.
+
+(14) | Af hensyn til sammenhængen i EU-lovgivningen bør definitionen af »ordregivende myndigheder« i Europa-Parlamentets og Rådets direktiv 2004/17/EF af 31. marts 2004 om samordning af fremgangsmåderne ved indgåelse af kontrakter inden for vand- og energiforsyning, transport samt posttjenester ( 9 ) og i Europa-Parlamentets og Rådets direktiv 2004/18/EF om samordning af fremgangsmåderne ved indgåelse af offentlige vareindkøbskontrakter, offentlige tjenesteydelseskontrakter og offentlige bygge- og anlægskontrakter ( 10 ) anvendes i nærværende direktiv.
+
+(15) | Lovbestemt morarente ved forsinket betaling bør udregnes pr. dag som simpel rente i overensstemmelse med Rådets forordning (EØF, Euratom) nr. 1182/71 af 3. juni 1971 om fastsættelse af regler om tidsfrister, datoer og tidspunkter ( 11 ) .
+
+(16) | Dette direktiv bør ikke pålægge en kreditor at opkræve morarenter ved forsinket betaling. I tilfælde af forsinket betaling bør dette direktiv give kreditoren mulighed for at opkræve morarenter uden at give forudgående meddelelse om manglende betaling eller anden lignende meddelelse, der skal minde debitor om hans forpligtelse til at betale.
+
+(17) | En debitors betaling bør betragtes som forsinket, for så vidt angår retten til morarenter, når kreditor ikke har det skyldige beløb til sin rådighed på forfaldsdatoen, forudsat at sidstnævnte har opfyldt sine lovbestemte og aftalemæssige forpligtelser.
+
+(18) | Fakturaer udløser betalingsanmodninger og er vigtige dokumenter i kæden af transaktioner vedrørende levering af varer og tjenesteydelser, bl.a. for fastsættelse af betalingsfrister. Med henblik på dette direktiv bør medlemsstaterne fremme ordninger, der giver retssikkerhed med hensyn til den præcise dato for debitorernes modtagelse af fakturaen, også på området for e-fakturering, hvor modtagelsen af fakturaer kan generere elektroniske beviser, og som er delvist reguleret af bestemmelserne om fakturering i Rådets direktiv 2006/112/EF af 28. november 2006 om det fælles merværdiafgiftssystem ( 12 ) .
+
+(19) | Rimelig kompensation til kreditorer for de inddrivelsesomkostninger, der er påløbet på grund af forsinket betaling, er nødvendig for at modvirke forsinket betaling. Inddrivelsesomkostninger bør også omfatte inddrivelse af administrative omkostninger og kompensation for interne omkostninger, som er påløbet på grund af forsinket betaling, for hvilke dette direktiv bør fastsætte et fast minimumsbeløb, som kan kumuleres med morarenter. Kompensation i form af et fast beløb bør sigte mod at begrænse de administrative og interne omkostninger i forbindelse med inddrivelsen. Kompensation for omkostningerne ved inddrivelse bør fastsættes med forbehold af de nationale bestemmelser, hvorefter en national ret kan tilkende kreditor kompensation for yderligere lidt skade i forbindelse med skyldners forsinkede betaling.
+
+(20) | Ud over berettigelsen til betaling af et fast beløb til dækning af interne inddrivelsesomkostninger bør kreditorerne desuden være berettiget til kompensation for øvrige inddrivelsesomkostninger, der måtte påløbe som følge af skyldnerens forsinkede betaling. Sådanne omkostninger bør navnlig omfatte dem, kreditorerne har haft i forbindelse med at engagere en advokat eller et inkassofirma.
+
+(21) | Dette direktiv bør ikke berøre medlemsstaternes ret til at fastsætte faste beløb til kompensation for inddrivelsesomkostninger, som er højere og derfor mere favorable for kreditor, eller til at forhøje beløbene, blandt andet med henblik på at følge trit med inflationen.
+
+(22) | Dette direktiv bør ikke forhindre ratebetalinger eller afdragsbetalinger. Hver rate eller hvert afdrag bør dog betales i overensstemmelse med de aftalte betingelser og bør være underlagt de bestemmelser om forsinket betaling, der er fastsat i dette direktiv.
+
+(23) | Som hovedregel er offentlige myndigheder begunstiget af mere sikre, forudsigelige og vedvarende indtægter end virksomheder. Hertil kommer, at mange offentlige myndigheder kan opnå finansiering på mere attraktive vilkår end virksomheder. Samtidig er offentlige myndigheder i forhold til virksomheder mindre afhængige af opbygningen af stabile handelsmæssige relationer for at nå deres mål. Offentlige myndigheders lange betalingsfrister og forsinkede betaling for varer og tjenesteydelser påfører virksomheder urimelige omkostninger. Derfor bør der indføres særlige bestemmelser vedrørende kommercielle transaktioner med henblik på virksomheders levering af varer og tjenesteydelser til offentlige myndigheder, som navnlig bør fastsætte betalingsfrister, der normalt ikke overskrider 30 kalenderdage, medmindre dette udtrykkeligt er aftalt i kontrakten, og forudsat at det er objektivt begrundet i lyset af den særlige karakter af eller elementer i kontrakten, og som under ingen omstændigheder overskrider 60 kalenderdage.
+
+(24) | Der bør imidlertid tages hensyn til de særlige forhold, der gør sig gældende for myndigheder, der udfører økonomiske aktiviteter af industriel eller kommerciel art ved som offentlig virksomhed at udbyde varer eller tjenesteydelser på markedet. Med dette for øje bør medlemsstaterne på visse betingelser have lov til at forlænge den lovbestemte betalingsfrist til højst 60 kalenderdage.
+
+(25) | Situationen inden for sundhedsvæsenet i en lang række medlemsstater vækker særlig bekymring med hensyn til forsinket betaling. Sundhedssystemerne, som udgør en grundlæggende del af Europas sociale infrastruktur, er ofte nødt til at afstemme individuelle behov med de til rådighed værende økonomiske midler, i takt med at Europas befolkning bliver ældre, forventningerne til sundhedssystemet stiger, og lægevidenskaben gør fremskridt. Alle systemer skal kunne klare den udfordring, det er at prioritere sundhedspleje på en sådan måde, at den enkelte patients behov afvejes i forhold til de økonomiske midler, der er til rådighed. Medlemsstaterne bør derfor have mulighed for at give offentlige organer, der leverer sundhedspleje, en vis fleksibilitet i opfyldelsen af deres forpligtelser. Med dette for øje bør medlemsstaterne på visse betingelser have lov til at forlænge den lovbestemte betalingsfrist indtil højst 60 kalenderdage. Medlemsstaterne bør dog på alle måder bestræbe sig på at sikre, at betalinger inden for sundhedssektoren sker inden for de lovbestemte betalingsfrister.
+
+(26) | For ikke at bringe opfyldelsen af dette direktivs målsætning i fare, bør medlemsstaterne sikre, at varigheden af proceduren for godkendelse eller kontrol som hovedregel ikke overskrider 30 kalenderdage. Det bør imidlertid være muligt, at varigheden af proceduren for godkendelse overskrider 30 kalenderdage, f.eks. når det drejer sig om særligt komplekse kontrakter, når dette udtrykkeligt er aftalt i kontrakten og i de eventuelle udbudsbetingelser, og forudsat, at det ikke er klart urimeligt over for kreditor.
+
+(27) | Den Europæiske Unions institutioner er i en situation, der kan sammenlignes med de offentlige myndigheder i medlemsstaterne med hensyn til deres finansiering og kommercielle forhold. Rådets forordning (EF, Euratom) nr. 1605/2002 af 25. juni 2002 om finansforordningen vedrørende De Europæiske Fællesskabers almindelige budget ( 13 ) præciserer, at fastsættelse, anvisning og betaling af EU-institutionernes udgifter skal ske inden for de i gennemførelsesbestemmelserne fastsatte tidsfrister. Disse gennemførelsesbestemmelser fremgår for nuværende af Kommissionens forordning (EF, Euratom) nr. 2342/2002 af 23. december 2002 om gennemførelsesbestemmelser til Rådets forordning (EF, Euratom) nr. 1605/2002 om finansforordningen vedrørende De Europæiske Fællesskabers almindelige budget ( 14 ) og præciserer de omstændigheder, hvorunder kreditorer, der betales for sent, har ret til morarenter. I forbindelse med den igangværende revision af disse forordninger bør det sikres, at de maksimale betalingsfrister for EU-institutionerne harmoniseres med de lovbestemte betalingsfrister, der gælder for offentlige myndigheder i overensstemmelse med dette direktiv.
+
+(28) | Direktivet bør forebygge misbrug af aftalefriheden til skade for kreditor. Som følge heraf kan et kontraktvilkår eller en handelspraksis vedrørende betalingsdagen eller betalingsfristen, morarentesatsen eller kompensation for inddrivelsesomkostningerne, som ikke er rimelig(t) i forhold til de vilkår, der gælder for skyldneren, eller hvis hovedformålet er at skaffe skyldneren yderligere likviditet på kreditors bekostning, betragtes som et sådant misbrug. Med dette for øje og i overensstemmelse med det akademiske udkast til fælles referenceramme bør ethvert kontraktvilkår eller enhver praksis, der klart afviger fra god handelspraksis og er i modstrid med god tro og redelig handlemåde, anses for at være urimelig(t) over for kreditor. Navnlig bør en direkte udelukkelse af retten til at opkræve renter altid betragtes som klart urimelig, mens udelukkelse af retten til kompensation for inddrivelsesomkostninger bør formodes at være klart urimelig. Direktivet bør ikke gribe ind i nationale bestemmelser om kontraktindgåelse eller om gyldigheden af kontraktvilkår, der er urimelige for skyldneren.
+
+(29) | I forbindelse med en styrket indsats for at forhindre, at aftalefriheden misbruges til skade for kreditorernes interesser, bør organisationer, der er officielt anerkendte som repræsentanter for virksomheder, og organisationer med en legitim interesse i at repræsentere virksomheder kunne indbringe en sag for domstolene eller for de administrative myndigheder med henblik på at bringe anvendelsen af kontraktvilkår eller handelspraksisser, som er klart urimelige over for kreditor, til ophør.
+
+(30) | For at bidrage til opfyldelse af formålet med dette direktiv bør medlemsstaterne støtte udbredelsen af god praksis, herunder tilskynde til offentliggørelse af en liste over hurtige betalere.
+
+(31) | Kreditorer bør kunne gøre et ejendomsforbehold gældende på et ikke-diskriminatorisk grundlag overalt i Unionen, hvis ejendomsforbeholdet er gyldigt i henhold til de nationale bestemmelser, der skal anvendes på forholdet i henhold til den internationale privatret.
+
+(32) | Dette direktiv definerer udelukkende udtrykket »tvangsfuldbyrdelsesgrundlag«, men bør ikke vedrøre de forskellige procedurer for tvangsfuldbyrdelse af et sådant grundlag eller fastsætte, på hvilke betingelser tvangsfuldbyrdelse af et sådant grundlag kan standses eller suspenderes.
+
+(33) | Konsekvenserne af forsinket betaling vil kun have præventiv virkning, hvis de ledsages af hurtige og effektive retsprocedurer, der kun medfører små omkostninger for kreditor. I overensstemmelse med forbuddet mod forskelsbehandling i artikel 18 i traktaten om Den Europæiske Unions funktionsmåde bør disse procedurer være tilgængelige for alle kreditorer, der er etableret i Unionen.
+
+(34) | For at lette overholdelsen af bestemmelserne i dette direktiv bør medlemsstaterne tilskynde til mægling eller andre former for alternativ konfliktløsning. I Europa-Parlamentets og Rådets direktiv 2008/52/EF af 21. maj 2008 om mægling på det civil- og handelsretlige område ( 15 ) er der allerede fastsat en ramme for mæglingsordninger på EU-plan, navnlig for grænseoverskridende uoverensstemmelser, dog uden at dette udelukker, at det kan finde anvendelse på interne mæglingsordninger. Medlemsstaterne bør desuden tilskynde interesserede parter til at udarbejde frivillige adfærdskodekser, navnlig med sigte på at bidrage til gennemførelsen af dette direktiv.
+
+(35) | Det er nødvendigt at sikre, at inddrivelsesprocedurerne for ubestridte krav i forbindelse med forsinket betaling i handelstransaktioner afsluttes hurtigt, herunder at det sker via en hasteprocedure og uanset størrelsen af det skyldige beløb.
+
+(36) | Målet for dette direktiv, nemlig bekæmpelse af forsinket betaling inden for det indre marked, kan ikke i tilstrækkelig grad opfyldes af medlemsstaterne og kan derfor på grund af dets omfang og virkninger bedre nås på EU-plan; Unionen kan derfor vedtage foranstaltninger i overensstemmelse med nærhedsprincippet, jf. artikel 5 i traktaten om den Europæiske Union. I overensstemmelse med proportionalitetsprincippet, jf. nævnte artikel, går dette direktiv ikke videre, end hvad der er nødvendigt for at nå dette mål.
+
+(37) | Forpligtelsen til at gennemføre nærværende direktiv i national ret bør kun omfatte de bestemmelser, hvori der er foretaget indholdsmæssige ændringer i forhold til direktiv 2000/35/EF. Forpligtelsen til at gennemføre de bestemmelser, hvori der ikke er foretaget ændringer, følger af nævnte direktiv.
+
+(38) | Nærværende direktiv bør ikke berøre medlemsstaternes forpligtelser med hensyn til fristerne for gennemførelse i national ret og anvendelse af direktiv 2000/35/EF.
+
+(39) | I overensstemmelse med punkt 34 i den interinstitutionelle aftale om bedre lovgivning ( 16 ) tilskyndes medlemsstaterne til, både i egen og i Unionens interesse, at udarbejde og offentliggøre deres egne oversigter, der så vidt muligt viser overensstemmelsen mellem dette direktiv og gennemførelsesforanstaltningerne —
+
+VEDTAGET DETTE DIREKTIV:
+
+Artikel 1
+Genstand og anvendelsesområde
+1. Formålet med dette direktiv er at bekæmpe forsinket betaling i handelstransaktioner med henblik på at sikre et velfungerende indre marked og derved fremme virksomhedernes, herunder navnlig de små og mellemstore virksomheders, konkurrenceevne.
+2. Dette direktiv finder anvendelse på alle betalinger, der foretages som vederlag for handelstransaktioner.
+3. Medlemsstaterne kan udelukke gæld, der er genstand for insolvensbehandling, der er indledt mod en skyldner, herunder procedurer med sigte på gældsomlægning.
+
+Artikel 2
+Definitioner
+I dette direktiv forstås ved:
+1) »handelstransaktioner« : forretningsmæssige transaktioner mellem virksomheder eller mellem virksomheder og offentlige myndigheder, som indebærer levering af varer eller tjenester mod vederlag
+2) »offentlig myndighed« : enhver ordregivende myndighed som defineret i artikel 2, stk. 1, litra a), i direktiv 2004/17/EF og i artikel 1, stk. 9, i direktiv 2004/18/EF, uanset kontraktens genstand eller værdi
+3) »virksomhed« : enhver enhed bortset fra en offentlig myndighed, der handler som led i selvstændig økonomisk eller erhvervsmæssig aktivitet, uanset om aktiviteten kun udøves af en enkelt person
+4) »forsinket betaling« : betaling, der ikke foretages inden for den aftalemæssige eller lovbestemte betalingsfrist, og hvor betingelserne i artikel 3, stk. 1, eller artikel 4, stk. 1, er opfyldt
+5) »morarenter« : lovbestemt rente for forsinket betaling eller rente, hvis sats er forhandlet og aftalt mellem virksomheder i henhold til artikel 7
+6) »lovbestemt rente for forsinket betaling« : simpel rente i tilfælde af forsinket betaling ved en sats, der udgør summen af referencesatsen og mindst otte procentpoint
+7) »referencesats« : en af følgende:
+a) | for så vidt angår en medlemsstat, der har euroen som valuta, enten: i) den rentesats, der anvendes i forbindelse med Den Europæiske Centralbanks seneste vigtigste refinansieringstransaktioner, eller ii) den marginale rentesats, der er resultatet af de licitationsprocedurer med variabel rente, der anvendes ved Den Europæiske Centralbanks seneste vigtigste refinansieringstransaktioner
+b) | for så vidt angår en medlemsstat, der ikke har euroen som valuta, den tilsvarende sats fastsat af medlemsstatens centralbank
+8) »det skyldige beløb« : hovedstolen, der skulle have været betalt inden for den aftalemæssige eller lovbestemte betalingsfrist, herunder gældende skatter, told, importafgifter eller andre afgifter, der er specificeret på fakturaen eller tilsvarende betalingsanmodning
+9) »ejendomsforbehold« : et aftalevilkår, ifølge hvilket sælger bevarer ejendomsretten til de pågældende varer, indtil købesummen er betalt
+10) »tvangsfuldbyrdelsesgrundlag« : alle former for afgørelser, domme eller betalingspålæg fra en domstol eller anden kompetent myndighed, herunder sådanne afgørelser, domme eller betalingspålæg, som kan fuldbyrdes på et foreløbigt grundlag, uanset om de vedrører omgående betaling eller betaling i rater, som sætter kreditor i stand til at inddrive sit krav på skyldneren ved tvangsfuldbyrdelse.
+
+Artikel 3
+Transaktioner mellem virksomheder
+1. Medlemsstaterne sikrer, at kreditor i handelstransaktioner mellem virksomheder er berettiget til morarenter ved forsinket betaling, uden at det er nødvendigt at fremsende en rykkerskrivelse, forudsat at
+a) | kreditor har opfyldt sine aftalemæssige og lovbestemte forpligtelser, og
+b) | kreditor ikke har modtaget det skyldige beløb rettidigt, medmindre skyldneren ikke er ansvarlig for forsinkelsen.
+2. Medlemsstaterne sikrer, at den gældende referencesats:
+a) | for første halvår af det pågældende år er den sats, som var gældende den 1. januar det pågældende år
+b) | for andet halvår af det pågældende år er den sats, som var gældende den 1. juli det pågældende år.
+3. Såfremt betingelserne i stk. 1 er opfyldt, sikrer medlemsstaterne følgende:
+a) | at kreditor har ret til morarenter fra dagen efter sidste rettidige betalingsdag eller efter udløbet af betalingsfristen som fastsat i aftalen
+b) | hvis der ikke er aftalt en sidste rettidig betalingsdag eller betalingsfrist, at kreditor har ret til morarenter ved udløb af en af følgende tidsfrister: i) 30 kalenderdage efter skyldnerens modtagelse af en faktura, eller en tilsvarende betalingsanmodning ii) 30 kalenderdage efter at varerne eller tjenesteydelserne er modtaget, hvis der er usikkerhed om datoen for modtagelse af fakturaen eller den tilsvarende betalingsanmodning iii) 30 kalenderdage efter at varerne eller tjenesteydelserne er modtaget, hvis skyldneren modtager fakturaen eller den tilsvarende betalingsanmodning tidligere end varerne eller tjenesteydelserne, eller iv) 30 kalenderdage efter datoen for godkendelse eller kontrol, hvis lovgivningen eller aftalen indeholder krav om en godkendelses- eller kontrolprocedure, hvorved varernes eller tjenesteydelsernes overensstemmelse med aftalen skal konstateres, og skyldneren modtager fakturaen eller den tilsvarende betalingsanmodning inden eller på den dato, hvor denne godkendelse eller kontrol finder sted.
+4. Er der et krav om en godkendelses- eller kontrolprocedure, hvorved varernes eller tjenesteydelsernes overensstemmelse med aftalen skal konstateres, sikrer medlemsstaterne, at varigheden af denne procedure ikke overskrider 30 kalenderdage efter, at varerne eller tjenesteydelserne er modtaget, medmindre andet udtrykkeligt er aftalt i kontrakten, og forudsat, at det ikke er klart urimeligt over for kreditor, jf. artikel 7.
+5. Medlemsstaterne sikrer, at den betalingsfrist, der er fastsat i kontrakten, ikke overskrider 60 kalenderdage, medmindre andet udtrykkeligt er aftalt deri, og forudsat, at det ikke er klart urimeligt over for kreditor, jf. artikel 7.
+
+Artikel 4
+Transaktioner mellem virksomheder og offentlige myndigheder
+1. Medlemsstaterne sikrer, at kreditor i forbindelse med handelstransaktioner, hvor skyldneren er en offentlig myndighed, ved udløbet af den i stk. 3, 4 eller 6 fastlagte periode er berettiget til morarenter svarende til den lovbestemte rente, uden at det er nødvendigt at fremsende rykkerskrivelse, forudsat at
+a) | kreditor har opfyldt sine aftalemæssige og lovbestemte forpligtelser, og
+b) | kreditor ikke har modtaget det skyldige beløb rettidigt, medmindre skyldneren ikke er ansvarlig for forsinkelsen.
+2. Medlemsstaterne sikrer, at den gældende referencesats:
+a) | for første halvår af det pågældende år er den sats, som var gældende den 1. januar det pågældende år
+b) | for andet halvår af det pågældende år er den sats, som var gældende den 1. juli det pågældende år.
+3. Medlemsstaterne sikrer i forbindelse med handelstransaktioner, hvor skyldneren er en offentlig myndighed, at
+a) | betalingsfristen ikke overskrider følgende tidsfrister: i) 30 kalenderdage efter skyldnerens modtagelse af en faktura, eller en tilsvarende betalingsanmodning ii) 30 kalenderdage efter at varerne eller tjenesteydelserne er modtaget, hvis der er usikkerhed om datoen for modtagelse af fakturaen eller den tilsvarende betalingsanmodning iii) 30 kalenderdage efter at varerne eller tjenesteydelserne er modtaget, hvis skyldneren modtager fakturaen eller den tilsvarende betalingsanmodning tidligere end varerne eller tjenesteydelserne, eller iv) 30 kalenderdage efter datoen for godkendelse eller kontrol, hvis lovgivningen eller aftalen indeholder krav om en godkendelses- eller kontrolprocedure, hvorved varernes eller tjenesteydelsens overensstemmelse med aftalen skal konstateres, og skyldneren modtager fakturaen eller den tilsvarende betalingsanmodning inden eller på den dato, hvor denne godkendelse eller kontrol finder sted
+b) | datoen for fakturaens modtagelse ikke kan gøres til genstand for en kontraktlig aftale mellem skyldneren og kreditor.
+4. Medlemsstaterne kan forlænge fristerne i stk. 3, litra a), til højst 60 kalenderdage for
+a) | offentlige myndigheder, der udfører økonomiske aktiviteter af industriel eller kommerciel karakter ved at udbyde varer eller tjenesteydelser på markedet, når den som offentlig virksomhed er underlagt gennemskuelighedskravene i Kommissionens direktiv 2006/111/EF af 16. november 2006 om gennemskueligheden af de økonomiske forbindelser mellem medlemsstaterne og de offentlige virksomheder og om den finansielle gennemskuelighed i bestemte virksomheder ( 17 )
+b) | offentlige organer, der leverer sundhedspleje, og som er behørigt anerkendt dertil.
+Hvis en medlemsstat beslutter at forlænge fristerne i henhold til dette stykke, sender den en rapport om sådan forlængelse til Kommissionen senest den 16. marts 2018.
+På grundlag heraf forelægger Kommissionen en rapport for Europa-Parlamentet og Rådet med angivelse af, hvilke medlemsstater der har forlænget fristerne i henhold til dette stykke, og som tager virkningerne for et velfungerende indre marked i betragtning, navnlig for så vidt angår SMV’er. Denne rapport ledsages af eventuelle passende forslag.
+5. Medlemsstaterne sikrer, at varigheden af proceduren for godkendelse eller kontrol, som er omhandlet i stk. 3, litra a), nr. iv), ikke overskrider 30 kalenderdage fra datoen for modtagelse af varerne eller tjenesteydelserne, medmindre andet udtrykkeligt er aftalt i kontrakten eller udbudsbetingelserne, og forudsat, at det ikke er klart urimeligt over for kreditor, jf. artikel 7.
+6. Medlemsstaterne sikrer, at den i aftalen fastsatte betalingsfrist ikke overskrider de i stk. 3 angivne tidsfrister, medmindre andet udtrykkeligt er aftalt i kontrakten, og forudsat at det er objektivt begrundet i lyset af aftalens særlige karakter eller elementer i den, og at den under ingen omstændigheder overskrider 60 kalenderdage.
+
+Artikel 5
+Betalingsplaner
+Dette direktiv berører ikke parternes mulighed for at indgå aftale i henhold til de relevante bestemmelser i national lov om betalingsplaner, der tillader, at det skyldige beløb betales i rater. I de tilfælde hvor en af raterne ikke er betalt på den aftalte dato, skal renter og kompensation fastsat i dette direktiv udelukkende beregnes på grundlag af det forfaldne beløb.
+
+Artikel 6
+Kompensation for omkostninger ved inddrivelse
+1. Medlemsstaterne sikrer, at kreditor, når der skal betales morarenter i handelstransaktioner i henhold til artikel 3 eller 4, er berettiget til fra skyldneren som minimum at modtage et fast beløb på 40 EUR.
+2. Medlemsstaterne sikrer, at det i stk. 1 omhandlede faste beløb forfalder til betaling, uden at det er nødvendigt at fremsende en rykkerskrivelse og som kompensation for kreditors egne omkostninger ved inddrivelse.
+3. Kreditor er ud over det i stk. 1 omhandlede faste beløb berettiget til at kræve rimelig kompensation af skyldneren for eventuelle yderligere omkostninger ud over det faste beløb, der er påløbet på grund af skyldnerens forsinkede betaling. Dette kan blandt andet indbefatte omkostninger til at engagere en advokat eller et inkassofirma.
+
+Artikel 7
+Urimelige kontraktvilkår og handelspraksisser
+1. Medlemsstaterne træffer bestemmelse om, at et kontraktvilkår eller en handelspraksis vedrørende betalingsdagen eller betalingsfristen, morarentesatsen eller kompensation for inddrivelsesomkostningerne enten ikke er bindende eller giver grundlag for krav om skadeserstatning, hvis vilkåret er klart urimeligt over for kreditor.
+Ved afgørelsen af, om et kontraktvilkår eller en handelspraksis er klart urimelig(t) over for kreditor i den forstand, hvori udtrykket er anvendt i første afsnit, tages der hensyn til alle sagens omstændigheder, herunder:
+a) | enhver klar afvigelse fra god handelspraksis i strid med god tro og redelig handlemåde
+b) | produktets eller tjenesteydelsens art samt
+c) | om skyldneren har en objektiv grund til at fravige den lovbestemte rente for forsinket betaling, betalingsfristen i artikel 3, stk. 5, artikel 4, stk. 3, litra a), artikel 4, stk. 4, og artikel 4, stk. 6, eller det faste beløb i artikel 6, stk. 1.
+2. For så vidt angår stk. 1 anses et kontraktvilkår eller en handelspraksis, som udelukker morarenter ved forsinket betaling, for at være klart urimelig(t).
+3. For så vidt angår stk. 1 formodes et kontraktvilkår eller en handelspraksis, som udelukker kompensation for inddrivelsesomkostninger, jf. artikel 6, at være klart urimelig(t).
+4. Medlemsstaterne sikrer, at der i kreditorernes og konkurrenternes interesse findes egnede og effektive midler til at bringe anvendelsen af klart urimelige kontraktvilkår og handelspraksisser i den i stk. 1 omhandlede betydning til ophør.
+5. De i stk. 4 nævnte midler skal omfatte bestemmelser om, at organisationer, som officielt er anerkendt som repræsentanter for virksomheder, eller organisationer med en legitim interesse i at fungere som repræsentant for virksomheden i henhold til den gældende nationale lovgivning kan indbringe en sag for domstolene eller for de kompetente administrative myndigheder, hvis et kontraktvilkår eller en handelspraksis, herunder i en enkeltstående aftale, er urimelig(t) i den i stk. 1 omhandlede betydning, således at disse kan anvende egnede og effektive midler til at bringe anvendelsen af sådanne kontraktvilkår eller handelspraksisser til ophør.
+
+Artikel 8
+Gennemsigtighed og bevidstgørelse
+1. Medlemsstaterne sikrer fuld gennemsigtighed om de rettigheder og forpligtelser, der følger af dette direktiv, herunder ved at gøre den gældende lovbestemte morarentesats offentligt tilgængelig.
+2. Kommissionen gør på internettet oplysninger offentligt tilgængelige om aktuelle, lovbestemte rentesatser gældende i alle medlemsstater i tilfælde af forsinket betaling i handelstransaktioner.
+3. Medlemsstaterne skal, hvis det er relevant, anvende fagpresse, kampagner og alle andre passende midler til at øge bevidstheden blandt virksomhederne om retsmidlerne ved forsinket betaling.
+4. Medlemsstaterne kan tilskynde til etablering af kodekser for hurtig betaling, der fastsætter klart definerede betalingsfrister og en passende procedure til håndtering af omtvistede betalinger, eller andre initiativer for at imødegå det afgørende spørgsmål om forsinket betaling og bidrage til at udvikle en kultur af hurtig betaling, der understøtter målet for dette direktiv.
+
+Artikel 9
+Ejendomsforbehold
+1. Medlemsstaterne skal i overensstemmelse med de gældende nationale bestemmelser, der skal anvendes i henhold til de internationale privatretlige regler, sørge for, at sælger bevarer ejendomsretten til varer, indtil de er fuldstændig betalt, dersom der udtrykkeligt er indgået en aftale mellem køber og sælger om ejendomsforbehold, inden varerne leveres.
+2. Medlemsstaterne kan vedtage eller opretholde bestemmelser om delbetalinger, som skyldneren allerede har foretaget.
+
+Artikel 10
+Inddrivelsesprocedurer for ubestridte krav
+1. Medlemsstaterne sikrer, at der normalt inden 90 kalenderdage efter indgivelse af stævning eller anmodning fra kreditor til retten eller en anden kompetent myndighed kan opnås et tvangsfuldbyrdelsesgrundlag, herunder gennem en fremskyndet procedure og uanset beløbets størrelse, så længe gælden eller aspekter af proceduren ikke bestrides. Medlemsstaterne opfylder denne forpligtelse i overensstemmelse med deres nationale love og administrative bestemmelser.
+2. Efter de nationale love og administrative bestemmelser skal samme betingelser gælde for alle kreditorer, der er etableret i Unionen.
+3. Ved beregning af den i stk. 1 omhandlede periode medregnes følgende ikke:
+a) | den tid, der medgår til forkyndelse
+b) | alle forsinkelser, som kreditor er skyld i, som f.eks. den tid, der kræves til at berigtige anmodninger.
+4. Denne artikel berører ikke bestemmelserne i forordning (EF) nr. 1896/2006.
+
+Artikel 11
+Rapport
+Senest den 16. marts 2016 sender Kommissionen en rapport om gennemførelsen af dette direktiv til Europa-Parlamentet og Rådet. Rapporten ledsages af eventuelle passende forslag.
+
+Artikel 12
+Gennemførelse
+1. Medlemsstaterne sætter de nødvendige love og administrative bestemmelser i kraft for at efterkomme artikel 1-8 og 10 senest den 16. marts 2013. De meddeler straks Kommissionen teksten til disse bestemmelser.
+Disse bestemmelser skal ved vedtagelsen indeholde en henvisning til dette direktiv eller skal ved offentliggørelsen ledsages af en sådan henvisning. De skal også indeholde oplysning om, at henvisninger i gældende love og administrative bestemmelser til det ophævede direktiv gælder som henvisninger til nærværende direktiv. Medlemsstaterne fastsætter de nærmere regler for henvisningen og træffer bestemmelse om affattelsen af den nævnte oplysning.
+2. Medlemsstaterne meddeler Kommissionen teksten til de vigtigste love og administrative bestemmelser, som de udsteder på det område, der er omfattet af dette direktiv.
+3. Medlemsstaterne kan opretholde eller vedtage love og bestemmelser, der er gunstigere for kreditor end de love og bestemmelser, der er påkrævet for at efterkomme dette direktiv.
+4. Ved gennemførelsen af dette direktiv afgør medlemsstaterne, om de vil udelukke aftaler, der er indgået inden den 16. marts 2013.
+
+Artikel 13
+Ophævelse
+Direktiv 2000/35/EF ophæves med virkning fra den 16. marts 2013, uden at det berører medlemsstaternes forpligtelser med hensyn til fristerne for dets gennemførelse i national ret og anvendelse. Det finder dog fortsat anvendelse på aftaler, der er indgået før den pågældende dato, og som nærværende direktiv ikke finder anvendelse på i henhold til artikel 12, stk. 4.
+Henvisninger til det ophævede direktiv gælder som henvisninger til nærværende direktiv og læses efter sammenligningstabellen i bilaget.
+
+Artikel 14
+Ikrafttræden
+Dette direktiv træder i kraft på tyvendedagen efter offentliggørelsen i Den Europæiske Unions Tidende .
+
+Artikel 15
+Adressater
+Dette direktiv er rettet til medlemsstaterne.
+
+Udfærdiget i Strasbourg, den 16. februar 2011.
+På Europa-Parlamentets vegne
+J. BUZEK
+Formand
+På Rådets vegne
+MARTONYI J.
+Formand
+( 1 ) EUT C 255 af 22.9.2010, s. 42 .
+( 2 ) Europa-Parlamentets holdning af 20.10.2010 (endnu ikke offentliggjort i EUT) og Rådets afgørelse af 24.1.2011.
+( 3 ) EFT L 200 af 8.8.2000, s. 35 .
+( 4 ) EFT L 12 af 16.1.2001, s. 1 .
+( 5 ) EUT L 143 af 30.4.2004, s. 15 .
+( 6 ) EUT L 399 af 30.12.2006, s. 1 .
+( 7 ) EUT L 199 af 31.7.2007, s. 1 .
+( 8 ) EUT L 124 af 20.5.2003, s. 36 .
+( 9 ) EUT L 134 af 30.4.2004, s. 1 .
+( 10 ) EUT L 134 af 30.4.2004, s. 114 .
+( 11 ) EFT L 124 af 8.6.1971, s. 1 .
+( 12 ) EUT L 347 af 11.12.2006, s. 1 .
+( 13 ) EFT L 248 af 16.9.2002, s. 1 .
+( 14 ) EFT L 357 af 31.12.2002, s. 1 .
+( 15 ) EUT L 136 af 24.5.2008, s. 3 .
+( 16 ) EUT C 321 af 31.12.2003, s. 1 .
+( 17 ) EUT L 318 af 17.11.2006, s. 17 .
+
+BILAG
+Sammenligningstabel
+Direktiv 2000/35/EF | Nærværende direktiv
+— | Artikel 1, stk. 1
+Artikel 1 | Artikel 1, stk. 2
+Artikel 2, nr. 1), første afsnit | Artikel 2, nr. 1)
+Artikel 2, nr. 1), andet afsnit | Artikel 2, nr. 2)
+Artikel 2, nr. 1), tredje afsnit | Artikel 2, nr. 3)
+Artikel 2, nr. 2) | Artikel 2, nr. 4)
+— | Artikel 2, nr. 5)
+— | Artikel 2, nr. 6)
+— | Artikel 2, nr. 7), indledning
+— | Artikel 2, nr. 8)
+Artikel 2, nr. 3) | Artikel 2, nr. 9)
+Artikel 2, nr. 4) | Artikel 2, nr. 7), litra a)
+Artikel 2, nr. 5) | Artikel 2, nr. 10)
+Artikel 3, stk. 1, litra a) | Artikel 3, stk. 3, litra a)
+Artikel 3, stk. 1, litra b), indledning | Artikel 3, stk. 3, litra b), indledning
+Artikel 3, stk. 1, litra b), nr. i) | Artikel 3, stk. 3, litra b), nr. i)
+Artikel 3, stk. 1, litra b), nr. ii) | Artikel 3, stk. 3, litra b), nr. ii)
+Artikel 3, stk. 1, litra b), nr. iii) | Artikel 3, stk. 3, litra b), nr. iii)
+Artikel 3, stk. 1, litra b), nr. iv) | Artikel 3, stk. 3, litra b), nr. iv)
+— | Artikel 3, stk. 4
+— | Artikel 3, stk. 5
+Artikel 3, stk. 1, litra c) | Artikel 3, stk. 1
+Artikel 3, stk. 1, litra d), første og tredje punktum | —
+Artikel 3, stk. 1, litra d), andet punktum | Artikel 2, nr. 7), litra b)
+— | Artikel 3, stk. 2
+— | Artikel 4
+— | Artikel 5
+— | Artikel 6, stk. 1
+— | Artikel 6, stk. 2
+Artikel 3, stk. 1, litra e) | Artikel 6, stk. 3
+Artikel 3, stk. 2 | —
+Artikel 3, stk. 3 | Artikel 7, stk. 1
+— | Artikel 7, stk. 2
+— | Artikel 7, stk. 3
+Artikel 3, stk. 4 | Artikel 7, stk. 4
+Artikel 3, stk. 5 | Artikel 7, stk. 5
+— | Artikel 8
+Artikel 4 | Artikel 9
+Artikel 5, stk. 1, 2 og 3 | Artikel 10, stk. 1, 2 og 3
+Artikel 5, stk. 4 | —
+— | Artikel 10, stk. 4
+— | Artikel 11
+Artikel 6, stk. 1 | —
+— | Artikel 12, stk. 1
+Artikel 6, stk. 2 | Artikel 12, stk. 3
+Artikel 6, stk. 3 | Artikel 1, stk. 3
+Artikel 6, stk. 4 | Artikel 12, stk. 2
+Artikel 6, stk. 5 | —
+— | Artikel 12, stk. 4
+— | Artikel 13
+Artikel 7 | Artikel 14
+Artikel 8 | Artikel 15
+— | Bilag

@@ -1,0 +1,184 @@
+DIRECTIVA 2009/24/CE A PARLAMENTULUI EUROPEAN ȘI A CONSILIULUI
+din 23 aprilie 2009
+privind protecția juridică a programelor pentru calculator
+(versiune codificată)
+(Text cu relevanță pentru SEE)
+
+PARLAMENTUL EUROPEAN ȘI CONSILIUL UNIUNII EUROPENE,
+
+având în vedere Tratatul de instituire a Comunității Europene, în special articolul 95,
+
+având în vedere propunerea Comisiei,
+
+având în vedere avizul Comitetului Economic și Social European ( 1 ) ,
+
+hotărând în conformitate cu procedura prevăzută la articolul 251 din tratat ( 2 ) ,
+
+întrucât:
+
+(1) | Conținutul Directivei 91/250/CEE a Consiliului din 14 mai 1991 privind protecția juridică a programelor pentru calculator ( 3 ) a fost modificat ( 4 ) . Este necesar, din motive de claritate și de coerență, să se codifice respectiva directivă.
+
+(2) | Crearea de programe pentru calculator necesită utilizarea unor resurse umane, tehnice și financiare considerabile, în timp ce există posibilitatea de a le copia la un cost mult inferior celui pe care îl presupune o concepție autonomă.
+
+(3) | Programele pentru calculator joacă un rol din ce în ce mai important în numeroase sectoare industriale, iar tehnologia informatică poate fi așadar considerată ca fiind de o importanță fundamentală pentru dezvoltarea industrială a Comunității.
+
+(4) | Anumite diferențe care caracterizează protecția juridică a programelor pentru calculator acordată prin legislațiile statelor membre au efecte negative directe asupra funcționării pieței interne în ceea ce privește programele pentru calculator.
+
+(5) | Neconcordanțele existente care au astfel de efecte trebuie eliminate și trebuie împiedicată apariția unora noi, în timp ce este permisă eliminarea sau împiedicarea apariției celor care nu aduc atingere în mod semnificativ funcționării pieței interne.
+
+(6) | Cadrul juridic comunitar privind protecția programelor pentru calculator poate așadar, într-o primă etapă, să se limiteze la a stabili că statele membre trebuie să acorde protecție programelor pentru calculator în temeiul dreptului de autor, în calitate de opere literare, și, mai departe, să stabilească beneficiarii și obiectul protecției, drepturile exclusive pe care le pot invoca persoanele protejate pentru a autoriza sau a interzice anumite acte, precum și durata protecției.
+
+(7) | În înțelesul prezentei directive, noțiunea „program pentru calculator” ar trebui să includă programe indiferent de forma acestora, inclusiv cele care sunt încorporate în hardware. Această noțiune include, de asemenea, lucrările de concepție pregătitoare care au drept scop dezvoltarea unui program, cu condiția ca acestea să fie de natură să permită realizarea unui program pentru calculator într-un stadiu ulterior.
+
+(8) | Criteriile aplicate pentru a stabili dacă un program pentru calculator constituie sau nu o operă originală nu trebuie să cuprindă nicio evaluare a calității sau a valorii estetice a programului.
+
+(9) | Comunitatea se angajează pe deplin să promoveze standardizarea internațională.
+
+(10) | Funcția unui program pentru calculator are menirea de a comunica și a opera cu alte componente ale unui sistem informatic și cu utilizatorii. În acest scop, o legătură logică și, dacă este cazul, fizică de interconexiune și interacțiune este necesară pentru a permite deplina funcționare a tuturor elementelor software și hardware cu alte componente software și hardware, precum și cu utilizatorii. Părțile programului care asigură interconexiunea și interactivitatea între elementele software și hardware sunt cunoscute în general ca „interfețe”. Interconexiunea și interacțiunea funcțională sunt denumite în general „interoperabilitate”; această interoperabilitate poate fi definită ca fiind capacitatea de a schimba informații și de a utiliza reciproc informațiile schimbate.
+
+(11) | Pentru evitarea oricărei ambiguități, se impune precizarea că doar expresia unui program pentru calculator este protejată și că ideile și principiile care se află la baza diferitelor elemente ale unui program, inclusiv cele care stau la baza interfețelor sale, nu sunt protejate de dreptul de autor în temeiul prezentei directive. În conformitate cu acest principiu al dreptului de autor, în măsura în care la baza logicii, algoritmelor și limbajelor de programare stau idei și principii, acestea din urmă nu sunt protejate în temeiul prezentei directive. În conformitate cu legislația și jurisprudența statelor membre, precum și cu convențiile internaționale privind dreptul de autor, exprimarea acestor idei și principii este protejată prin dreptul de autor.
+
+(12) | În înțelesul prezentei directive, „închiriere” înseamnă punerea la dispoziție a unui program pentru calculator sau a unei copii a acestuia în vederea utilizării pe o perioadă limitată și în scopuri lucrative. Acest termen nu include împrumuturile publice, care rămân, în consecință, în afara domeniului de aplicare a prezentei directive.
+
+(13) | Drepturile exclusive ale autorului de a împiedica reproducerea neautorizată a operei acestuia ar trebui supuse unei excepții limitate în cazul unui program pentru calculator, pentru a permite reproducerea necesară din punct de vedere tehnic utilizării programului de către dobânditorul său legal. Aceasta înseamnă că actele de încărcare și de rulare necesare utilizării unei copii a programului dobândit legal, precum și corectarea erorilor acestuia nu pot fi interzise prin contract. În absența clauzelor contractuale specifice, inclusiv în cazul vânzării unei copii a programului, orice alt act necesar utilizării copiei unui program poate fi întreprins, în conformitate cu scopul prevăzut, de către un dobânditor legal al acestei copii.
+
+(14) | Persoana care se bucură de dreptul de a utiliza un program pentru calculator nu ar trebui împiedicată de la realizarea actelor necesare pentru analizarea, studierea sau testarea funcționării programului, cu condiția ca aceste acte să nu aducă atingere drepturilor de autor asupra programului.
+
+(15) | Reproducerea, traducerea, adaptarea sau transformarea neautorizată a formei codului în care a fost furnizată copia unui program pentru calculator constituie o atingere a drepturilor exclusive ale autorului. În anumite circumstanțe, reproducerea codului unui program pentru calculator sau a unei traduceri a formei sale se pot dovedi indispensabile pentru obținerea informației necesare interoperabilității unui program creat în mod independent de alte programe. Trebuie avut în vedere că, numai în aceste împrejurări bine precizate, realizarea unor acte de reproducere și de traducere de către sau în numele unei persoane având dreptul de utilizare a copiei programului este legitimă și conformă bunelor practici și nu este, așadar, considerată necesară autorizarea titularului dreptului de autor. Unul dintre obiectivele acestei excepții este de a permite interconexiunea tuturor elementelor unui sistem informatic, inclusiv pe cele ale diferiților fabricanți, pentru ca acestea să poată funcționa împreună. O astfel de excepție de la drepturile exclusive ale autorului nu poate fi aplicată astfel încât să aducă atingere intereselor legitime ale titularului dreptului sau unei exploatări normale a programului.
+
+(16) | Protecția programelor pentru calculator în temeiul legislației privind drepturile de autor nu ar trebui să aducă atingere, atunci când este cazul, aplicării altor forme de protecție. Cu toate acestea, orice clauză contractuală contrară dispozițiilor prezentei directive privind decompilarea sau excepțiilor prevăzute în prezenta directivă privind realizarea unei copii de rezervă sau privind analiza, studiul sau testarea funcționării unui program ar trebui să fie nulă și neavenită.
+
+(17) | Dispozițiile prezentei directive nu aduc atingere aplicării normelor privind concurența prevăzute la articolele 81 și 82 din tratat, dacă un furnizor care deține o poziție dominantă refuză să pună la dispoziție informațiile necesare pentru interoperabilitate, astfel cum este definită aceasta prin prezenta directivă.
+
+(18) | Dispozițiile prezentei directive nu trebuie să aducă atingere cerințelor specifice ale dreptului comunitar deja adoptate în materie de publicare de interfețe în sectorul telecomunicațiilor sau deciziilor Consiliului privind standardizarea în domeniul tehnologiilor informației și telecomunicațiilor.
+
+(19) | Prezenta directivă nu aduce atingere derogărilor prevăzute în legislațiile naționale, în aplicarea Convenției de la Berna, privind punctele care nu intră sub incidența prezentei directive.
+
+(20) | Prezenta directivă nu ar trebui să aducă atingere obligațiilor statelor membre privind termenele de transpunere în dreptul intern a directivelor menționate în anexa I partea B,
+
+ADOPTĂ PREZENTA DIRECTIVĂ:
+
+Articolul 1
+Obiectul protecției
+(1) În conformitate cu dispozițiile prezentei directive, statele membre protejează programele pentru calculator, prin dreptul de autor, în calitate de opere literare în înțelesul Convenției de la Berna privind protecția operelor literare și artistice. În înțelesul prezentei directive, noțiunea „program pentru calculator” include materialul de concepție pregătitor.
+(2) Protecția în conformitate cu prezenta directivă se aplică oricărei forme de exprimare a unui program pentru calculator. Ideile și principiile care se află la baza unui element al oricărui program pentru calculator, inclusiv cele care se află la baza interfețelor sale, nu sunt protejate de dreptul de autor în temeiul prezentei directive.
+(3) Un program pentru calculator este protejat dacă este original, în sensul că reprezintă o creație intelectuală proprie autorului. Niciun alt criteriu nu se aplică pentru a stabili dacă acesta poate beneficia de protecție.
+(4) Dispozițiile prezentei directive se aplică în egală măsură programelor pentru calculator create înainte de 1 ianuarie 1993, fără a aduce atingere contractelor încheiate și drepturilor dobândite înainte de această dată.
+
+Articolul 2
+Calitatea de autor al programelor
+(1) Autorul unui program pentru calculator reprezintă persoana fizică sau grupul de persoane fizice care au creat programul sau, dacă legislația statului membru în cauză permite acest lucru, persoana juridică desemnată de legislația respectivă ca fiind titularul dreptului.
+Atunci când operele colective sunt recunoscute de legislația unui stat membru, persoana care, conform legislației statului membru respectiv, a creat opera este considerată a fi autorul.
+(2) În cazul unui program pentru calculator creat în comun de un grup de persoane fizice, drepturile exclusive sunt deținute în comun de aceste persoane.
+(3) Dacă un program pentru calculator este creat de un angajat în exercițiul atribuțiilor de serviciu sau în conformitate cu instrucțiunile angajatorului său, numai angajatorul este abilitat să-și exercite toate drepturile patrimoniale aferente programului pentru calculator astfel creat, cu excepția unor clauze contractuale contrare.
+
+Articolul 3
+Beneficiarii protecției
+Protecția este acordată tuturor persoanelor fizice sau juridice care pot beneficia de aceasta în temeiul legislației interne privind drepturile de autor care se aplică operelor literare.
+
+Articolul 4
+Acte restricționate
+(1) Sub rezerva articolelor 5 și 6, drepturile exclusive ale titularului în înțelesul articolului 2 cuprind dreptul de a efectua sau de a autoriza:
+(a) | reproducerea permanentă sau provizorie a unui program pentru calculator, în totalitate sau parțial, prin orice mijloc și sub orice formă. În măsura în care încărcarea, prezentarea, rularea, transmiterea sau stocarea programului pentru calculator necesită o astfel de reproducere a programului, aceste acte de reproducere sunt supuse autorizării de către titularul dreptului;
+(b) | traducerea, adaptarea, dispunerea și orice altă transformare a programului pentru calculator și reproducerea rezultatelor acestor acte, fără a aduce atingere drepturilor persoanei care transformă programul pentru calculator;
+(c) | orice formă de distribuție publică, inclusiv închirierea originalului sau a copiilor unui program pentru calculator.
+(2) Prima vânzare a copiei unui program pentru calculator în cadrul Comunității de către titularul dreptului sau cu consimțământul acestuia epuizează dreptul de distribuție a acestei copii în Comunitate, cu excepția dreptului de a controla închirierile ulterioare ale programului pentru calculator sau ale unei copii a acestuia.
+
+Articolul 5
+Excepții de la actele restricționate
+(1) În absența unor clauze contractuale speciale, nu necesită autorizarea de către titular actele menționate la articolul 4 alineatul (1) literele (a) și (b), în cazul în care aceste acte sunt necesare pentru a permite dobânditorului legal să utilizeze programul pentru calculator conform destinației sale, inclusiv pentru a corecta erorile.
+(2) Realizarea unei copii de rezervă de către o persoană care are dreptul de utilizare a programului pentru calculator nu poate fi împiedicată prin contract, în măsura în care aceasta este necesară pentru utilizarea respectivă.
+(3) Persoana care are dreptul să utilizeze o copie a unui program pentru calculator poate, fără autorizarea titularului dreptului, să analizeze, să studieze sau să testeze funcționarea programului în vederea identificării ideilor și principiilor care stau la baza oricărui element al programului, atunci când efectuează oricare dintre actele de încărcare, prezentare, rulare, transmitere sau stocare a programului pentru calculator pe care aceasta are dreptul să îl realizeze.
+
+Articolul 6
+Decompilarea
+(1) Autorizarea de către titular nu este necesară atunci când reproducerea codului și traducerea formei acestui cod în înțelesul articolului 4 alineatul (1) literele (a) și (b) este indispensabilă pentru obținerea informațiilor necesare interoperabilității unui program pentru calculator creat în mod independent de alte programe și sub rezerva ca următoarele condiții să fie îndeplinite:
+(a) | aceste acte sunt realizate de beneficiarul licenței sau de o altă persoană care are dreptul de utilizare a copiei unui program sau în numele acestora de către o persoană autorizată în acest scop;
+(b) | informațiile necesare pentru realizarea interoperabilității nu au fost anterior puse, în mod simplu și rapid, la dispoziția persoanelor menționate la litera (a); și
+(c) | aceste acte sunt limitate la părți din programul original, necesare pentru realizarea acestei interoperabilități.
+(2) Dispozițiile alineatului (1) nu permit ca informațiile obținute în temeiul aplicării sale:
+(a) | să fie utilizate în alte scopuri decât realizarea interoperabilității programului pentru calculator creat în mod independent;
+(b) | să fie comunicate unor terți, cu excepția cazului în care acest lucru se dovedește necesar interoperabilității programului de calculator creat în mod independent; sau
+(c) | să fie utilizate pentru dezvoltarea, producerea sau comercializarea unui program pentru calculator a cărui expresie este în mod fundamental similară sau pentru orice alt act care încalcă dreptul de autor.
+(3) În conformitate cu dispozițiile Convenției de la Berna privind protecția operelor literare și artistice, prezentul articol nu poate fi interpretat astfel încât să permită aplicarea sa într-un mod care aduce atingere în mod nejustificat intereselor legitime ale titularului dreptului sau exploatării normale a programului pentru calculator.
+
+Articolul 7
+Măsuri speciale de protecție
+(1) Fără a aduce atingere dispozițiilor articolelor 4, 5 și 6, statele membre iau, în conformitate cu legislațiile lor interne, măsuri adecvate împotriva persoanelor care săvârșesc unul dintre următoarele acte:
+(a) | punerea în circulație a copiei unui program pentru calculator cunoscând sau având motive întemeiate să cunoască că este contrafăcută;
+(b) | deținerea în scopuri comerciale a copiei unui program pentru calculator cunoscând sau având motive întemeiate să cunoască că este contrafăcută;
+(c) | punerea în circulație sau deținerea în scopuri comerciale a oricărui mijloc având drept unic scop facilitarea eliminării neautorizate sau neutralizarea oricărui dispozitiv tehnic care poate fi instalat pentru protejarea unui program pentru calculator.
+(2) Orice copie ilegală contrafăcută a unui program pentru calculator poate fi confiscată în conformitate cu legislația statului membru respectiv.
+(3) Statele membre pot să prevadă sechestrul oricăror mijloace menționate la alineatul (1) litera (c).
+
+Articolul 8
+Menținerea aplicării altor dispoziții legale
+Dispozițiile prezentei directive nu aduc atingere altor dispoziții legale, cum ar fi, mai ales, cele privind brevetele, mărcile, concurența neloială, secretul comercial, protecția semiconductoarelor sau dreptul care guvernează contractele.
+Orice clauză contractuală contrară articolului 6 sau contrară excepțiilor prevăzute la articolul 5 alineatele (2) și (3) este nulă și neavenită.
+
+Articolul 9
+Comunicare
+Comisiei îi sunt comunicate de către statele membre textele dispozițiilor de drept intern adoptate în domeniul reglementat de prezenta directivă.
+
+Articolul 10
+Abrogare
+Directiva 91/250/CEE, astfel cum a fost modificată prin directiva menționată în anexa I partea A, se abrogă, fără a aduce atingere obligațiilor statelor membre în ceea ce privește termenele de transpunere în dreptul intern a directivelor menționate în anexa I partea B.
+Trimiterile la directiva abrogată se interpretează ca trimiteri la prezenta directivă și se citesc în conformitate cu tabelul de corespondență din anexa II.
+
+Articolul 11
+Intrarea în vigoare
+Prezenta directivă intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene .
+
+Articolul 12
+Destinatari
+Prezenta directivă se adresează statelor membre.
+
+Adoptată la Strasbourg, 23 aprilie 2009.
+Pentru Parlamentul European
+Președintele
+H.-G. PÖTTERING
+Pentru Consiliu
+Președintele
+P. NEČAS
+( 1 ) JO C 204, 9.8.2008, p. 24 .
+( 2 ) Avizul Parlamentului European din 17 iunie 2008 (nepublicat încă în Jurnalul Oficial) și Decizia Consiliului din 23 martie 2009.
+( 3 ) JO L 122, 17.5.1991, p. 42 .
+( 4 ) A se vedea anexa I partea A.
+
+ANEXA I
+PARTEA A
+Directiva abrogată și modificările ulterioare
+(menționate la articolul 10)
+Directiva 91/250/CEE a Consiliului ( JO L 122, 17.5.1991, p. 42 ) | 
+Directiva 93/98/CEE a Consiliului ( JO L 290, 24.11.1993, p. 9 ) | Numai articolul 11 alineatul (1)
+PARTEA B
+Termene de transpunere în dreptul intern
+(menționate la articolul 10)
+Directiva | Termen de transpunere
+91/250/CEE | 31 decembrie 1992
+93/98/CEE | 30 iunie 1995
+
+ANEXA II
+Tabel de corespondență
+Directiva 91/250/CEE | Prezenta directivă
+Articolul 1 alineatele (1), (2) și (3) | Articolul 1 alineatele (1), (2) și (3)
+Articolul 2 alineatul (1) prima teză | Articolul 2 alineatul (1) primul paragraf
+Articolul 2 alineatul (1) a doua teză | Articolul 2 alineatul (1) al doilea paragraf
+Articolul 2 alineatele (2) și (3) | Articolul 2 alineatele (2) și (3)
+Articolul 3 | Articolul 3
+Articolul 4 cuvinte introductive | Articolul 4 alineatul (1) cuvinte introductive
+Articolul 4 litera (a) | Articolul 4 alineatul (1) litera (a)
+Articolul 4 litera (b) | Articolul 4 alineatul (1) litera (b)
+Articolul 4 litera (c) prima teză | Articolul 4 alineatul (1) litera (c)
+Articolul 4 litera (c) a doua teză | Articolul 4 alineatul (2)
+Articolele 5, 6 și 7 | Articolele 5, 6 și 7
+Articolul 9 alineatul (1) prima teză | Articolul 8 primul paragraf
+Articolul 9 alineatul (1) a doua teză | Articolul 8 al doilea paragraf
+Articolul 9 alineatul (2) | Articolul 1 alineatul (4)
+Articolul 10 alineatul (1) | —
+Articolul 10 alineatul (2) | Articolul 9
+— | Articolul 10
+— | Articolul 11
+Articolul 11 | Articolul 12
+— | Anexa I
+— | Anexa II

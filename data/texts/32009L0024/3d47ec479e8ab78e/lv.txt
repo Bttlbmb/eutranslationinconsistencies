@@ -1,0 +1,184 @@
+EIROPAS PARLAMENTA UN PADOMES DIREKTĪVA 2009/24/EK
+(2009. gada 23. aprīlis)
+par datorprogrammu tiesisko aizsardzību
+(Kodificēta versija)
+(Dokuments attiecas uz EEZ)
+
+EIROPAS PARLAMENTS UN EIROPAS SAVIENĪBAS PADOME,
+
+ņemot vērā Eiropas Kopienas dibināšanas līgumu un jo īpaši tā 95. pantu,
+
+ņemot vērā Komisijas priekšlikumu,
+
+ņemot vērā Eiropas Ekonomikas un sociālo lietu komitejas atzinumu ( 1 ) ,
+
+saskaņā ar Līguma 251. pantā noteikto procedūru ( 2 ) ,
+
+tā kā:
+
+(1) | Padomes Direktīvas 91/250/EEK (1991. gada 14. maijs) par datorprogrammu tiesisko aizsardzību ( 3 ) saturs ir grozīts ( 4 ) . Skaidrības un praktisku iemeslu labad būtu lietderīgi veikt attiecīgās direktīvas kodifikāciju.
+
+(2) | Datorprogrammu izstrāde prasa lielus cilvēku, tehnikas un finanšu resursu ieguldījumus, bet datorprogrammas var nokopēt par niecīgu daļu to līdzekļu, kas vajadzīgi, lai patstāvīgi izstrādātu programmas.
+
+(3) | Datorprogrammas daudzās dažādās rūpniecības nozarēs kļūst aizvien svarīgākas, un datorprogrammu tehnoloģija attiecīgi atzīstama par būtiski svarīgu Kopienas rūpniecības attīstībā.
+
+(4) | Vairākas dalībvalstu tiesību aktu atšķirības datorprogrammu juridiskā aizsardzībā tieši un nelabvēlīgi iespaido iekšējā tirgus darbību datorprogrammu jomā.
+
+(5) | Nelabvēlīgās atšķirības jālikvidē, un jānovērš jaunu atšķirību rašanās, bet atšķirības, kas iekšējā tirgus darbību neietekmē negatīvi, līdz noteiktai pakāpei nav jālikvidē vai nav jānovērš šādu jaunu atšķirību rašanās.
+
+(6) | Kopienas tiesību aktu sistēma datorprogrammu aizsardzībai pirmām kārtām var aprobežoties arī ar to, ka tā panāk, lai dalībvalstis aizsargātu datorprogrammas saskaņā ar autortiesību tiesību aktiem, kas attiecas uz literāriem darbiem, un tad precizē, kādas personas un darbi būtu jāaizsargā, kādas ir ekskluzīvās tiesības, uz kurām aizsargātās personas varētu paļauties, lai atļautu vai aizliegtu noteiktas darbības, un cik ilgai būtu jābūt aizsardzībai.
+
+(7) | Šajā direktīvā termins “datorprogramma” apzīmē programmas visās to formās, tostarp datortehnikā iekļautās programmas. Šis termins apzīmē arī datorprogrammu izstrādes sagatavošanas un plānošanas darbus ar nosacījumu, ka no šiem sagatavošanas darbiem darba vēlākā stadijā var rasties datorprogramma.
+
+(8) | Kritērijos, ko izmanto, nosakot, vai kāda datorprogramma ir oriģināla vai nav, nebūtu jāietver programmu kvalitātes vai estētisko īpašību vērtējumi.
+
+(9) | Kopiena ir pilnībā apņēmusies veicināt starptautisku standartizāciju.
+
+(10) | Datorprogrammu uzdevums ir savienoties un darboties kopā ar citām datorsistēmas sastāvdaļām un tās lietotājiem, un tas prasa šo sastāvdaļu loģisku un dažkārt arī fizisku savstarpēju savienošanu un mijiedarbi un lai visi tās lietotāji, programmatūras un datortehnikas elementi darbotos, kā paredzēts, kopā ar citām programmatūrām un datortehniku. Programmas daļas, kas nodrošina programmatūras un datortehnikas elementu savstarpēju savienojamību un mijiedarbi, parasti sauc par “saskarnēm”. Šādu funkcionālu savstarpēju savienojamību un mijiedarbi sauc par “sadarbspēju”; sadarbspēju var definēt kā spēju apmainīties ar informāciju un savstarpēji lietot sniegto un saņemto informāciju.
+
+(11) | Pilnīgas skaidrības labad jāuzsver, ka saskaņā ar šo direktīvu autortiesības aizsargā tikai pašas datorprogrammas, bet tās neaizsargā idejas un principus, kas ir pamatā atsevišķiem kādas programmas elementiem, ieskaitot tos, kas ir pamatā saskarnēm. Saskaņā ar šo autortiesību principu šī direktīva neaizsargā idejas un principus, ciktāl šīs idejas un principus nosaka loģika, algoritmi un programmēšanas valodas. Autortiesībām jāaizsargā šādu ideju un principu izpausme saskaņā ar dalībvalstu tiesību aktiem un tiesu praksi, kā arī ar starptautiskām autortiesību konvencijām.
+
+(12) | Šajā direktīvā termins “īrēt” nozīmē uz ierobežotu laiku ļaut peļņas nolūkos lietot datorprogrammu vai tās eksemplāru. Šis termins neparedz atļaut datorprogrammu izmantot plašai sabiedrībai, ko attiecīgi šī direktīva neregulē.
+
+(13) | Datorprogrammu gadījumā būtu jāpieļauj atsevišķa atkāpe no autoru ekskluzīvām tiesībām neļaut nesankcionēti pavairot viņu darbus un jāļauj pavairot šīs programmas pēc tehniskas vajadzības, lai likumīgie ieguvēji varētu tās lietot. Tas nozīmē to, ka līgumi nevar aizliegt uzlādēt un palaist likumīgi iegūtas programmas eksemplārus, kā arī labot tās kļūdas, lai programmu varētu lietot. Ja nav īpašu līguma noteikumu, kas paredzētu citādi, tad pārdotu programmas eksemplāru likumīgi ieguvēji var veikt visu pārējo, kas vajadzīgs, lai viņi varētu lietot programmas eksemplāru, kā paredzēts.
+
+(14) | Personai, kam ir tiesības lietot kādu datorprogrammu, nebūtu jāaizliedz veikt darbības, kas vajadzīgas, lai novērotu, pētītu vai pārbaudītu programmas darbību, ar nosacījumu, ka šīs darbības nepārkāpj programmas autortiesības.
+
+(15) | Nesankcionēta attiecīgās datorprogrammas koda pavairošana, tulkošana, piemērošana vai pārveidošana pārkāpj autora ekskluzīvās tiesības. Tomēr iespējami gadījumi, kad šāda koda pavairošana un tā tulkošana ir obligāti vajadzīga, lai iegūtu informāciju, ar ko panākt neatkarīgi radītas programmas sadarbspēju ar citām programmām. Šā iemesla dēļ jāatzīst, ka tikai šajos atsevišķos gadījumos likumīgi un godīgi programmu pavairot un tulkot drīkst persona vai tādas personas interesēs, kurai ir tiesības to lietot, un tiesību īpašnieka atļauja nav vajadzīga. Šādu atkāpi pieļauj ar mērķi darīt iespējamu visu, arī dažādu ražotāju izgatavotu datorsistēmas komponentu savienošanu, lai tie varētu darboties kopā. Šāda atkāpe no autora ekskluzīvām tiesībām nav izmantojama, lai aizskartu tiesību īpašnieka likumīgas intereses vai būtu pretrunā programmas normālam lietojumam.
+
+(16) | Vajadzības gadījumā datorprogrammu aizsardzība saskaņā ar autortiesību tiesību aktiem nedrīkstētu skart citas formas aizsardzību. Tomēr nedrīkstētu būt spēkā tie līgumu noteikumi, kas ir pretrunā šīs direktīvas noteikumiem attiecībā uz dekompilāciju vai atkāpēm, kas noteiktas šajā direktīvā par programmas rezerves kopiju izgatavošanu vai programmas darbības novērošanu, pētīšanu vai pārbaudi.
+
+(17) | Šīs direktīvas nosacījumi neskar konkurences tiesību aktu piemērošanu saskaņā ar Līguma 81. un 82. pantu, ja piegādātājs, kas dominē tirgū, atsakās darīt pieejamu informāciju, kas vajadzīga, lai nodrošinātu sadarbspēju, kā definēts šajā direktīvā.
+
+(18) | Šīs direktīvas noteikumi nedrīkstētu skart Kopienas tiesību aktu īpašās prasības, kas jau ir spēkā attiecībā uz to, kā saskarnes dara pieejamas telekomunikāciju jomā, vai Padomes lēmumiem, kas attiecas uz standartizāciju informācijas tehnoloģijas un telekomunikāciju jomā.
+
+(19) | Šī direktīva neiespaido atkāpes, ko saskaņā ar Bernes konvenciju valstu tiesību akti paredz jautājumos, uz ko šī direktīva neattiecas.
+
+(20) | Šī direktīva nedrīkstētu skart dalībvalstu pienākumus attiecībā uz I pielikuma B daļā minētajiem termiņiem direktīvu transponēšanai valsts tiesību aktos,
+
+IR PIEŅĒMUŠI ŠO DIREKTĪVU.
+
+1. pants
+Aizsargājamais objekts
+1. Saskaņā ar šīs direktīvas noteikumiem dalībvalstis ar autortiesību tiesību aktiem aizsargā datorprogrammas, tāpat kā Bernes konvencija par literāro un mākslas darbu aizsardzību paredz aizsargāt literārus darbus. Šī direktīva nosaka, ka termins “datorprogrammas” attiecas arī uz programmu sagatavošanas un noformējuma materiāliem.
+2. Saskaņā ar šo direktīvu datorprogrammas ir aizsargātas visās to formās. Saskaņā ar šo direktīvu autortiesības neaizsargā idejas un principus, kas ir pamatā visiem datorprogrammu elementiem, ieskaitot idejas un principus, kas ir pamatā saskarnēm.
+3. Datorprogrammu aizsargā, ja tā ir oriģināla tādā ziņā, ka tā ir autora paša intelekta radīta. Nosakot, vai tā jāaizsargā, nelieto nekādus citus kritērijus.
+4. Šīs direktīvas noteikumi attiecas arī uz programmām, kas radītas pirms 1993. gada 1. janvāra, neskarot tiesību aktus, kas pieņemti, un tiesības, kas iegūtas līdz minētajai dienai.
+
+2. pants
+Datorprogrammu autorība
+1. Datorprogrammas autors ir fiziska persona vai fizisku personu grupa, kas radījusi programmu vai, ja dalībvalsts tiesību akti to pieļauj, juridiska persona, ko šie tiesību akti atzīst par tiesību īpašnieku.
+Ja dalībvalsts tiesību akti atzīst kolektīvus darbus, persona, ko dalībvalsts tiesību akti atzīst par darba radītāju, ir tās autors.
+2. Ekskluzīvas tiesības attiecībā uz datorprogrammām, ko kopīgi radījusi fizisku personu grupa, ir kopīgas.
+3. Ja datorprogrammu radījis algots darbinieks, pildot savus pienākumus vai pēc darba devēja norādījumiem, darba devējs ir ekskluzīvi tiesīgs izmantot visas mantiskās tiesības šādi radītā programmā, ja vien līgums neparedz citādi.
+
+3. pants
+Personas, kas gūst labumu no aizsardzības
+Aizsardzību piešķir visām fiziskām vai juridiskām personām, kam to var piešķirt saskaņā ar attiecīgās valsts autortiesību tiesību aktiem, kuri attiecas uz literāriem darbiem.
+
+4. pants
+Ierobežota rīcība
+1. Saskaņā ar 5. un 6. panta noteikumiem tiesību īpašnieka ekskluzīvās tiesībās, ko paredz 2. pants, ietilpst tiesības uz šādu rīcību vai tiesības atļaut šādu rīcību:
+a) | uz visiem laikiem vai uz laiku pavairot datorprogrammu ar visiem līdzekļiem un visās formās, pa daļai vai kopumā. Ciktāl datorprogrammas uzlādēšana, demonstrācija, lietošana, pārraidīšana vai glabāšana prasa to pavairot, šādu rīcību sankcionē tiesību īpašnieks;
+b) | tulkot, piemērot, pārveidot un citādi modificēt datorprogrammu un pavairot šādi iegūtos rezultātus, ciktāl tas nav pretrunā tās personas tiesībām, kura pārveido programmu;
+c) | izplatīt sabiedrībā oriģinālo datorprogrammu vai tās eksemplārus jebkādā formā, ieskaitot izīrēšanu.
+2. Pirmā programmas eksemplāra pārdošana Kopienā, ko izdara tiesību īpašnieks vai ar viņa piekrišanu, ir izsmēlusi tiesības šo eksemplāru izplatīt Kopienā, izņemot tiesības kontrolēt turpmāku programmas vai tās eksemplāru izīrēšanu.
+
+5. pants
+Atkāpes rīcības ierobežojumu gadījumā
+1. Ja līgumi to īpaši neparedz, darbības, kas minētas 4. panta 1. punkta a) un b) apakšpunktā, neprasa tiesību īpašnieka atļauju, ja tās jāveic, lai likumīgais ieguvējs lietotu datorprogrammu saskaņā ar mērķi, kam tā domāta, ieskaitot kļūdu labošanu.
+2. Personai, kas tiesīga lietot datorprogrammu, līgums nedrīkst liegt izgatavot programmas rezerves kopiju, ja tā vajadzīga, lai programmu varētu lietot.
+3. Persona, kas tiesīga lietot datorprogrammas eksemplāru, bez tiesību īpašnieka atļaujas drīkst novērot, pētīt vai pārbaudīt programmas darbību, lai noteiktu idejas un principus, kas ir visu programmas elementu pamatā, ja šī persona to dara, programmu uzlādējot, demonstrējot, lietojot, pārraidot vai glabājot, ko ir pilnvarota darīt.
+
+6. pants
+Dekompilācija
+1. Tiesību īpašnieka atļauja nav vajadzīga, ja koda pavairošana un tā tulkošana saskaņā ar 4. panta 1. punkta a) un b) apakšpunktu ir obligāti vajadzīga, lai iegūtu informāciju, ar ko panākt neatkarīgi radītas datorprogrammas sadarbspēju ar citām programmām, ar noteikumu, ka ievēroti šādi nosacījumi:
+a) | šādas darbības veic atļaujas īpašnieks vai cita persona, kam ir tiesības lietot programmas eksemplāru, vai persona, kas saņēmusi atļauju to darīt viņu labā;
+b) | informācija, kas vajadzīga, lai panāktu sadarbspēju, iepriekš nav bijusi brīvi pieejama personām, kas minētas a) apakšpunktā; un
+c) | šīs darbības skar tikai tās oriģinālās programmas daļas, kas vajadzīgas, lai panāktu sadarbspēju.
+2. Šā panta 1. punkta noteikumi liedz informāciju, kas gūta, šo pantu piemērojot:
+a) | izmantot citiem mērķiem, nevis tikai, lai panāktu neatkarīgi radītas datorprogrammas sadarbspēju;
+b) | sniegt to citiem, izņemot gadījumus, ja tas vajadzīgs neatkarīgi radītas datorprogrammas sadarbspējai; vai
+c) | izmantot, lai izstrādātu, ražotu vai pārdotu datorprogrammu, kas ir tai būtiski līdzīga, vai veiktu kādu citu darbību, kas pārkāpj autortiesības.
+3. Saskaņā ar noteikumiem, kas ietverti Bernes konvencijā par literāro un mākslas darbu aizsardzību, šā panta noteikumus nevar interpretēt tādējādi, lai to izmantotu, nepamatoti apdraudot tiesību īpašnieka likumīgās intereses, vai tas nonāktu pretrunā datorprogrammas normālu lietojumam.
+
+7. pants
+Īpaši aizsardzības pasākumi
+1. Ciktāl tas nav pretrunā 4., 5. un 6. panta noteikumiem, dalībvalstis saskaņā ar saviem tiesību aktiem nodrošina piemērotus līdzekļus pret personām, kas veic kādu no šādām darbībām:
+a) | laiž apgrozībā datorprogrammas eksemplāru, zinot vai pieļaujot iespēju, ka šis eksemplārs izgatavots, pārkāpjot autortiesības;
+b) | komerciālos nolūkos tur īpašumā datorprogrammas eksemplāru, zinot vai pieļaujot iespēju, ka šis eksemplārs izgatavots, pārkāpjot autortiesības;
+c) | laiž apgrozībā vai komerciālos nolūkos tur īpašumā līdzekļus, kuru vienīgais mērķis ir veicināt datorprogrammu tehnisku aizsardzības ierīču nesankcionētu likvidāciju vai apiešanu.
+2. Visus datorprogrammu eksemplārus, kas pārkāpj autortiesības, konfiscē saskaņā ar attiecīgās dalībvalsts tiesību aktiem.
+3. Dalībvalstis var paredzēt visu 1. punkta c) apakšpunktā minēto līdzekļu konfiskāciju.
+
+8. pants
+Citu tiesību aktu piemērošana
+Šīs direktīvas noteikumi nav pretrunā citiem tiesību aktu noteikumiem, piemēram, tiem, kas attiecas uz patentu tiesībām, preču zīmēm, negodīgu konkurenci, tirdzniecības noslēpumiem, pusvadītāju izstrādājumu aizsardzību vai saistību tiesībām.
+Neviens līgumu noteikums, kas ir pretrunā 6. pantam vai 5. panta 2. un 3. punktā minētajām atkāpēm, nav spēkā.
+
+9. pants
+Ziņojums
+Dalībvalstis dara zināmus Komisijai to tiesību aktu galvenos noteikumus, ko tās pieņēmušas jomā, uz kuru attiecas šī direktīva.
+
+10. pants
+Atcelšana
+Direktīvu 91/250/EEK, kurā grozījumi izdarīti ar I pielikuma A daļā minēto direktīvu, ar šo atceļ, neskarot dalībvalstu pienākumus attiecībā uz termiņiem I pielikuma B daļā minēto direktīvu transponēšanai valsts tiesību aktos.
+Atsauces uz atcelto direktīvu uzskata par atsaucēm uz šo direktīvu, un tās lasa saskaņā ar atbilstības tabulu II pielikumā.
+
+11. pants
+Stāšanās spēkā
+Šī direktīva stājas spēkā divdesmitajā dienā pēc tās publicēšanas Eiropas Savienības Oficiālajā Vēstnesī .
+
+12. pants
+Adresāti
+Šī direktīva ir adresēta dalībvalstīm.
+
+Strasbūrā, 2009. gada 23. aprīlī
+Eiropas Parlamenta vārdā —
+priekšsēdētājs
+H.-G. PÖTTERING
+Padomes vārdā —
+priekšsēdētājs
+P. NEČAS
+( 1 ) OV C 204, 9.8.2008., 24. lpp .
+( 2 ) Eiropas Parlamenta 2008. gada 17. jūnija Atzinums ( Oficiālajā Vēstnesī vēl nav publicēts) un Padomes 2009. gada 23. marta Lēmums.
+( 3 ) OV L 122, 17.5.1991., 42. lpp .
+( 4 ) Sk. I pielikuma A daļu.
+
+I PIELIKUMS
+A DAĻA
+Atceltā direktīva ar tās grozījumu
+(minēta 10. pantā)
+Padomes Direktīva 91/250/EEK ( OV L 122, 17.5.1991., 42. lpp. ) | 
+Padomes Direktīva 93/98/EEK ( OV L 290, 24.11.1993., 9. lpp. ) | tikai 11. panta 1. punkts
+B DAĻA
+Termiņi transponēšanai valsts tiesību aktos
+(minēti 10. pantā)
+Direktīva | Termiņš transponēšanai
+91/250/EEK | 1992. gada 31. decembris
+93/98/EEK | 1995. gada 30. jūnijs
+
+II PIELIKUMS
+Atbilstības tabula
+Direktīva 91/250/EEK | Šī direktīva
+1. panta 1., 2. un 3. punkts | 1. panta 1., 2. un 3. punkts
+2. panta 1. punkta pirmais teikums | 2. panta 1. punkta pirmā daļa
+2. panta 1. punkta otrais teikums | 2. panta 1. punkta otrā daļa
+2. panta 2. un 3. punkts | 2. panta 2. un 3. punkts
+3. pants | 3. pants
+4. panta ievadvārdi | 4. panta 1. punkta ievadvārdi
+4. panta a) punkts | 4. panta 1. punkta a) apakšpunkts
+4. panta b) punkts | 4. panta 1. punkta b) apakšpunkts
+4. panta c) punkta pirmais teikums | 4. panta 1. punkta c) apakšpunkts
+4. panta c) punkta otrais teikums | 4. panta 2. punkts
+5., 6. un 7. pants | 5., 6. un 7. pants
+9. panta 1. punkta pirmais teikums | 8. panta pirmā daļa
+9. panta 1. punkta otrais teikums | 8. panta otrā daļa
+9. panta 2. punkts | 1. panta 4. punkts
+10. panta 1. punkts | —
+10. panta 2. punkts | 9. pants
+— | 10. pants
+— | 11. pants
+11. pants | 12. pants
+— | I pielikums
+— | II pielikums

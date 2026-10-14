@@ -1,0 +1,300 @@
+DIRECTIVE 2011/7/UE DU PARLEMENT EUROPÉEN ET DU CONSEIL
+du 16 février 2011
+concernant la lutte contre le retard de paiement dans les transactions commerciales
+(refonte)
+(Texte présentant de l'intérêt pour l'EEE)
+
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L’UNION EUROPÉENNE,
+
+vu le traité sur le fonctionnement de l’Union européenne, et notamment son article 114,
+
+vu la proposition de la Commission européenne,
+
+vu l’avis du Comité économique et social européen ( 1 ) ,
+
+statuant conformément à la procédure législative ordinaire ( 2 ) ,
+
+considérant ce qui suit:
+
+(1) | La directive 2000/35/CE du Parlement européen et du Conseil du 29 juin 2000 concernant la lutte contre le retard de paiement dans les transactions commerciales ( 3 ) doit faire l’objet de plusieurs modifications substantielles. Dans un souci de clarté et de rationalisation, il convient de procéder à la refonte des dispositions concernées.
+
+(2) | Dans le marché intérieur, la plupart des livraisons de marchandises et des prestations de services sont effectuées par des opérateurs économiques pour d’autres opérateurs économiques ou pour les pouvoirs publics moyennant un paiement différé, par lequel le fournisseur ou le prestataire donne à son client un délai pour acquitter la facture, selon les modalités convenues par les parties, dans les mentions figurant sur la facture du fournisseur ou dans les dispositions légales en vigueur.
+
+(3) | Dans les transactions commerciales entre des opérateurs économiques ou entre des opérateurs économiques et des pouvoirs publics, de nombreux paiements sont effectués au-delà des délais convenus dans le contrat ou fixés dans les conditions générales de vente. Bien que les marchandises aient été livrées ou les services fournis, bon nombre de factures y afférentes sont acquittées bien au-delà des délais. Ces retards de paiement ont des effets négatifs sur les liquidités des entreprises et compliquent leur gestion financière. Ils sont également préjudiciables à leur compétitivité et à leur rentabilité dès lors que le créancier doit obtenir des financements externes en raison de ces retards de paiement. Le risque lié à ces effets négatifs augmente fortement en période de ralentissement économique, lorsque l’accès au financement est plus difficile.
+
+(4) | Les recours judiciaires liés aux retards de paiement sont déjà facilités par le règlement (CE) n o 44/2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance et l’exécution des décisions en matière civile et commerciale ( 4 ) , le règlement (CE) n o 805/2004 du Parlement européen et du Conseil du 21 avril 2004 portant création d’un titre exécutoire européen pour les créances incontestées ( 5 ) , le règlement (CE) n o 1896/2006 du Parlement européen et du Conseil du 12 décembre 2006 instituant une procédure européenne d’injonction de payer ( 6 ) et le règlement (CE) n o 861/2007 du Parlement européen et du Conseil du 11 juillet 2007 instituant une procédure européenne de règlement des petits litiges ( 7 ) . Il convient toutefois, en vue de décourager les retards de paiement dans les transactions commerciales, d’établir des dispositions complémentaires.
+
+(5) | Les entreprises devraient être en mesure de commercialiser leurs produits dans l’ensemble du marché intérieur dans des conditions qui garantissent que des transactions transfrontières ne présentent pas de risques plus élevés que des ventes à l’intérieur d’un État membre. Des distorsions de concurrence seraient à craindre si des règles substantiellement différentes régissaient les opérations internes d’une part et transfrontières d’autre part.
+
+(6) | Dans sa communication du 25 juin 2008 intitulée «“Think Small First”: Priorité aux PME – Un “Small Business Act” pour l’Europe», la Commission souligne l’importance de faciliter l’accès des petites et moyennes entreprises (PME) au financement et de développer un environnement juridique et commercial favorisant la ponctualité des paiements lors des transactions commerciales. Il convient de noter que les pouvoirs publics exercent une responsabilité particulière à cet égard. Les critères pour la définition des PME sont décrits dans la recommandation 2003/361/CE de la Commission du 6 mai 2003 concernant la définition des micro, petites et moyennes entreprises ( 8 ) .
+
+(7) | L’une des actions prioritaires de la communication de la Commission du 26 novembre 2008 intitulée «Plan européen pour la relance économique» est la réduction des charges administratives et l’encouragement de l’esprit d’entreprise, en veillant notamment à ce que les factures de fournitures et de services, y compris aux PME, soient réglées, en principe, dans un délai d’un mois afin d’alléger les contraintes en matière de liquidité.
+
+(8) | Il convient de limiter le champ d’application de la présente directive aux paiements effectués en rémunération de transactions commerciales. La présente directive ne devrait pas réglementer les transactions effectuées avec les consommateurs ni les intérêts en jeu dans d’autres types de paiements, par exemple les paiements effectués au titre de la législation sur les chèques et les lettres de change, ou les paiements effectués dans le cadre de l’indemnisation de dommages, y compris ceux effectués par les compagnies d’assurance. Il convient également que les États membres puissent exclure les créances qui sont soumises à une procédure d’insolvabilité, notamment les procédures tendant à une restructuration de la dette.
+
+(9) | La présente directive devrait réglementer toutes les transactions commerciales, qu’elles soient effectuées entre des entreprises privées ou publiques ou entre des entreprises et des pouvoirs publics, étant donné que les pouvoirs publics effectuent un nombre considérable de paiements aux entreprises. Elle devrait donc également réglementer toutes les transactions commerciales entre les principales entreprises contractantes et leurs fournisseurs et sous-traitants.
+
+(10) | Le fait que les professions libérales sont couvertes par la présente directive ne devrait pas contraindre les États membres à les traiter comme des entreprises ou des commerçants à des fins hors du champ d’application de la présente directive.
+
+(11) | Il convient d’inclure également, parmi la fourniture de marchandises ou la prestation de services contre rémunération auxquelles la présente directive s’applique, la conception et l’exécution de travaux publics ou de travaux de construction et de génie civil.
+
+(12) | Les retards de paiement constituent une violation du contrat qui est devenue financièrement intéressante pour les débiteurs dans la plupart des États membres, en raison du faible niveau ou de l’absence des intérêts pour retard de paiement facturés et/ou de la lenteur des procédures de recours. Un tournant décisif visant à instaurer une culture de paiement rapide, au sein de laquelle une clause contractuelle ou une pratique excluant le droit de réclamer des intérêts devrait toujours être considérée comme étant manifestement abusive, est nécessaire pour inverser cette tendance et pour décourager les retards de paiement. Ce tournant devrait aussi inclure l’introduction de dispositions particulières portant sur les délais de paiement et sur l’indemnisation des créanciers pour les frais encourus et devrait prévoir, notamment, que l’exclusion du droit à l’indemnisation pour les frais de recouvrement est présumée être un abus manifeste.
+
+(13) | En conséquence, il convient de prendre des dispositions limitant les délais de paiement fixés par contrat entre entreprises à soixante jours civils, en règle générale. Cependant, dans certaines circonstances, il est possible que des entreprises aient besoin de délais de paiement plus longs, par exemple si elles souhaitent accorder des crédits commerciaux à leurs clients. Il devrait donc demeurer possible, pour les parties contractantes, de convenir explicitement de délais de paiement supérieurs à soixante jours civils, pourvu toutefois que cette prolongation ne constitue pas un abus manifeste à l’égard du créancier.
+
+(14) | Dans un souci de cohérence de la législation de l’Union, il convient de rendre applicable, aux fins de la présente directive, la définition des «pouvoirs adjudicateurs» établie par la directive 2004/17/CE du Parlement européen et du Conseil du 31 mars 2004 portant coordination des procédures de passation des marchés dans les secteurs de l’eau, de l’énergie, des transports et des services postaux ( 9 ) et par la directive 2004/18/CE du Parlement européen et du Conseil du 31 mars 2004 relative à la coordination des procédures de passation des marchés publics de travaux, de fournitures et de services ( 10 ) .
+
+(15) | Il convient que les intérêts légaux exigibles en cas de retard de paiement soient calculés quotidiennement en tant qu’intérêts simples, conformément au règlement (CEE, Euratom) n o 1182/71 du Conseil du 3 juin 1971 portant détermination des règles applicables aux délais, aux dates et aux termes ( 11 ) .
+
+(16) | La présente directive ne devrait pas obliger un créancier à exiger des intérêts pour retard de paiement. En cas de retard de paiement, elle devrait permettre au créancier de facturer des intérêts pour retard de paiement sans donner aucune notification préalable de non-paiement ni aucune autre notification similaire au débiteur pour lui rappeler son obligation de payer.
+
+(17) | Le paiement d’un débiteur devrait être considéré comme en retard, aux fins de l’exigibilité d’intérêts pour retard de paiement, si le créancier ne dispose pas de la somme due à la date convenue, alors qu’il a rempli ses obligations contractuelles et légales.
+
+(18) | Les factures valent demandes de paiement et sont des documents importants dans la chaîne des transactions pour la fourniture de marchandises et la prestation de services, notamment lorsqu’il s’agit de déterminer les échéances de paiement. Il convient, aux fins de la présente directive, que les États membres encouragent des systèmes apportant une sécurité juridique au sujet de la date exacte de réception des factures par les débiteurs, notamment en cas de facturation en ligne, où la réception des factures pourrait produire une preuve électronique, qui est en partie régie par les dispositions sur la facturation figurant dans la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ( 12 ) .
+
+(19) | Il est nécessaire de prévoir une indemnisation équitable des créanciers pour les frais de recouvrement exposés en cas de retard de paiement de manière à décourager lesdits retards de paiement. Les frais de recouvrement devraient également inclure la récupération des coûts administratifs et l’indemnisation pour les coûts internes encourus du fait de retards de paiement, pour lesquels la présente directive devrait fixer un montant forfaitaire minimal susceptible d’être cumulé aux intérêts pour retard de paiement. L’indemnisation par un montant forfaitaire devrait tendre à limiter les coûts administratifs et internes liés au recouvrement. L’indemnisation pour les frais de recouvrement devrait être déterminée sans préjudice des dispositions nationales en vertu desquelles une juridiction nationale peut accorder au créancier une indemnisation pour des dommages et intérêts supplémentaires en raison du retard de paiement du débiteur.
+
+(20) | Outre le droit au paiement d’un montant forfaitaire pour les frais internes de recouvrement, le créancier devrait également avoir droit au remboursement des autres frais de recouvrement encourus du fait du retard de paiement du débiteur. Ces frais devraient inclure, en particulier, les frais exposés par le créancier pour faire appel à un avocat ou à une société de recouvrement de créances.
+
+(21) | La présente directive devrait s’entendre sans préjudice du droit des États membres de prévoir des montants forfaitaires pour l’indemnisation des frais de recouvrement qui sont supérieurs à ce montant, et donc plus favorables au créancier, ni de les augmenter, notamment pour tenir compte de l’inflation.
+
+(22) | La présente directive ne devrait pas empêcher les paiements par tranches ou échelonnés. Cependant, il convient que chaque tranche ou versement soit réglé selon les termes convenus et reste soumis aux dispositions de la présente directive concernant le retard de paiement.
+
+(23) | En règle générale, les pouvoirs publics bénéficient de flux de recettes plus sûrs, prévisibles et continus que les entreprises. Par ailleurs, bon nombre de pouvoirs publics peuvent obtenir des financements à des conditions plus intéressantes que les entreprises. Dans le même temps, les pouvoirs publics sont moins tributaires de relations commerciales stables pour réaliser leurs objectifs que les entreprises. De longs délais de paiement ou des retards de paiements par les pouvoirs publics pour des marchandises ou des services entraînent des coûts injustifiés pour les entreprises. Il convient dès lors de prévoir des dispositions particulières en matière de transactions commerciales pour la fourniture de marchandises ou la prestation de services par des entreprise à des pouvoirs publics, qui devraient prévoir, notamment, des délais de paiement n’excédant normalement pas trente jours civils, à moins qu’il ne soit expressément stipulé autrement par contrat et pourvu que ce soit objectivement justifié par la nature particulière ou par certains éléments du contrat, et n’excédant, en aucun cas, soixante jours civils.
+
+(24) | Il convient toutefois de tenir compte de la situation particulière de pouvoirs publics exerçant des activités économiques à caractère industriel ou commercial consistant à offrir des marchandises ou des services sur le marché en qualité d’entreprise publique. Il y a lieu, à cette fin, d’autoriser les États membres à prolonger, sous certaines conditions, le délai légal de paiement jusqu’à un maximum de soixante jours civils.
+
+(25) | Dans une grande partie des États membres, les retards de paiement sont particulièrement inquiétants dans le secteur des services de santé. Les systèmes de soins de santé sont souvent obligés, en tant qu’élément fondamental de l’infrastructure sociale en Europe, de concilier besoins des individus et ressources financières disponibles, tandis que la population européenne vieillit, que les attentes grandissent et que la médecine progresse. Tous les systèmes sont confrontés à la nécessité de fixer des priorités parmi les soins de santé, de manière à établir un équilibre entre les besoins des patients individuels et les ressources financières disponibles. Il convient dès lors que les États membres aient la possibilité d’accorder aux entités publiques dispensant des soins de santé une certaine souplesse lorsqu’elles accomplissent leurs obligations. Il y a lieu, à cette fin, d’autoriser les États membres à prolonger, sous certaines conditions, le délai légal de paiement jusqu’à un maximum de soixante jours civils. Toutefois, les États membres devraient faire tout leur possible pour veiller à ce que les paiements dans le secteur des soins de santé soient effectués dans les délais légaux de paiement.
+
+(26) | Il convient, pour ne pas compromettre la réalisation de l’objectif de la présente directive que les États membres veillent à ce que, lors des transactions commerciales, la durée maximale de la procédure d’acceptation ou de vérification n’excède pas, en règle générale, trente jours civils. Il devrait néanmoins être possible qu’une procédure de vérification excède trente jours civils, par exemple dans le cas de contrats particulièrement complexes, lorsque le contrat et le dossier d’appel d’offres le prévoient expressément, et si cela ne constitue pas un abus manifeste à l’égard du créancier.
+
+(27) | Les institutions de l’Union sont dans une situation similaire à celle des pouvoirs publics des États membres en ce qui concerne leur financement et leurs relations commerciales. Le règlement (CE, Euratom) n o 1605/2002 du Conseil du 25 juin 2002 portant règlement financier applicable au budget général des Communautés européennes ( 13 ) prévoit que les opérations de liquidation, d’ordonnancement et de paiement des dépenses par les institutions de l’Union doivent être accomplies dans les délais fixés par les modalités d’exécution dudit règlement. Ces modalités d’exécution sont actuellement fixées par le règlement (CE, Euratom) n o 2342/2002 de la Commission du 23 décembre 2002 établissant les modalités d’exécution du règlement (CE, Euratom) n o 1605/2002 du Conseil portant règlement financier applicable au budget général des Communautés européennes ( 14 ) et prévoient les circonstances dans lesquelles les créanciers payés avec retard ont le droit de percevoir des intérêts de retard. Il convient de veiller, dans le contexte de révision continue desdits règlements, à ce que les délais maximaux de paiement pour les institutions de l’Union soient alignés avec les délais légaux applicables aux pouvoirs publics en vertu de la présente directive.
+
+(28) | Il y a lieu que la présente directive interdise l’abus de la liberté contractuelle au détriment du créancier. En conséquence, lorsqu’une clause d’un contrat ou une pratique concernant la date ou le délai de paiement, le taux de l’intérêt pour retard de paiement ou l’indemnisation pour les frais de recouvrement ne se justifie pas au vu des conditions dont le débiteur bénéficie, ou qu’elle vise principalement à procurer au débiteur des liquidités supplémentaires aux dépens du créancier, elle peut être considérée comme constituant un tel abus. À cette fin, et conformément au projet universitaire de cadre commun de référence, toute clause contractuelle ou pratique qui s’écarte manifestement des bonnes pratiques commerciales et qui est contraire à la bonne foi et à la loyauté devrait être considérée comme abusive à l’égard du créancier. En particulier, l’exclusion de principe du droit d’exiger des intérêts devrait toujours être considérée comme un abus manifeste, tandis que l’exclusion du droit à l’indemnisation pour les frais de recouvrement devrait être présumée constituer un tel abus. La présente directive ne devrait pas affecter les dispositions nationales relatives aux modes de conclusion des contrats ou réglementant la validité des clauses contractuelles abusives à l’égard du débiteur.
+
+(29) | Dans le cadre d’efforts redoublés pour prévenir les abus de la liberté contractuelle aux dépens des créanciers, il y a lieu de donner aux organisations officiellement reconnues comme représentant les entreprises, ou ayant un intérêt légitime à les représenter, la faculté de saisir les juridictions ou les instances administratives nationales pour mettre fin à l’utilisation de clauses contractuelles ou de pratiques manifestement abusives à l’égard du créancier.
+
+(30) | Les États membres, afin de contribuer à la réalisation de l’objectif de la présente directive, devraient favoriser la diffusion des bonnes pratiques, notamment en encourageant la publication d’une liste de payeurs rapides.
+
+(31) | Il est souhaitable de s’assurer que les créanciers puissent faire usage d’une clause de réserve de propriété sur une base non discriminatoire dans l’ensemble de l’Union, si la clause de réserve de propriété est valable aux termes des dispositions nationales applicables en vertu du droit international privé.
+
+(32) | La présente directive définit uniquement la notion de «titre exécutoire» et ne devrait pas réglementer les différentes procédures d’exécution forcée d’un tel titre ni fixer les conditions dans lesquelles l’exécution forcée de ce titre peut être arrêtée ou suspendue.
+
+(33) | Les conséquences d’un retard de paiement ne peuvent être dissuasives que si elles sont assorties de procédures de recours rapides et efficaces pour le créancier. Conformément au principe de non-discrimination figurant à l’article 18 du traité sur le fonctionnement de l’Union européenne, de telles procédures devraient être accessibles à tous les créanciers qui sont établis dans l’Union.
+
+(34) | Afin de faciliter le respect des dispositions de la présente directive, les États membres devraient encourager le recours à la médiation ou à d’autres moyens alternatifs de règlement des différends. La directive 2008/52/CE du Parlement européen et du Conseil du 21 mai 2008 sur certains aspects de la médiation en matière civile et commerciale ( 15 ) instaure déjà un cadre pour les systèmes de médiation au niveau de l’Union, en particulier pour les litiges transfrontaliers, sans préjudice de son application aux systèmes internes de médiation. Les États membres devraient également encourager les parties intéressées à établir des codes de conduite non contraignants visant notamment à contribuer à la mise en œuvre de la présente directive.
+
+(35) | Il est nécessaire de veiller à ce que les procédures de recouvrement pour des dettes non contestées liées à des retards de paiement dans les transactions commerciales soient menées à bien dans un bref délai, y compris au moyen d’une procédure accélérée et quel que soit le montant de la dette.
+
+(36) | Étant donné que l’objectif de la présente directive, à savoir la lutte contre le retard de paiement dans le marché intérieur, ne peut pas être réalisé de manière suffisante par les États membres et peut donc, en raison de sa dimension et de ses effets, être mieux réalisé au niveau de l’Union, celle-ci peut prendre des mesures conformément au principe de subsidiarité consacré à l’article 5 du traité sur l’Union européenne. Conformément au principe de proportionnalité tel qu’énoncé audit article, la présente directive n’excède pas ce qui est nécessaire pour atteindre cet objectif.
+
+(37) | L’obligation de transposer la présente directive en droit national devrait être limitée aux dispositions qui constituent une modification de fond par rapport à la directive 2000/35/CE. L’obligation de transposer les dispositions inchangées résulte de ladite directive.
+
+(38) | La présente directive ne devrait pas porter atteinte aux obligations des États membres concernant les délais de transposition en droit national et d’application de la directive 2000/35/CE.
+
+(39) | Conformément au point 34 de l’accord interinstitutionnel «Mieux légiférer» ( 16 ) , les États membres sont encouragés à établir, pour eux-mêmes et dans l’intérêt de l’Union, leurs propres tableaux, qui illustrent, dans la mesure du possible, la concordance entre la présente directive et les mesures de transposition et à les rendre publics,
+
+ONT ADOPTÉ LA PRÉSENTE DIRECTIVE:
+
+Article premier
+Objet et champ d’application
+1. Le but de la présente directive est la lutte contre le retard de paiement dans les transactions commerciales, afin d’assurer le bon fonctionnement du marché intérieur, en améliorant ainsi la compétitivité des entreprises et en particulier des PME.
+2. La présente directive s’applique à tous les paiements effectués en rémunération de transactions commerciales.
+3. Les États membres peuvent exclure les créances qui sont soumises à une procédure d’insolvabilité à l’encontre du débiteur, y compris les procédures tendant à une restructuration de la dette.
+
+Article 2
+Définitions
+Aux fins de la présente directive, on entend par:
+1) | «transactions commerciales», toute transaction entre des entreprises ou entre des entreprises et les pouvoirs publics qui conduit à la fourniture de marchandises ou à la prestation de services contre rémunération;
+2) | «pouvoir public», tout pouvoir adjudicateur, tel que défini à l’article 2, paragraphe 1, point a), de la directive 2004/17/CE et à l’article 1 er , paragraphe 9, de la directive 2004/18/CE, indépendamment de l’objet ou de la valeur du contrat;
+3) | «entreprise», toute organisation, autre que les pouvoirs publics, agissant dans l’exercice d’une activité économique ou professionnelle indépendante, même lorsque cette activité n’est exercée que par une seule personne;
+4) | «retard de paiement», tout paiement non effectué dans le délai de paiement contractuel ou légal et lorsque les conditions spécifiées à l’article 3, paragraphe 1, ou à l’article 4, paragraphe 1, sont remplies;
+5) | «intérêts pour retard de paiement», les intérêts légaux pour retard de paiement ou les intérêts à un certain taux convenu par les entreprises concernées, soumis à l’article 7;
+6) | «intérêts légaux pour retard de paiement», les intérêts simples pour retard de paiement, dont le taux est égal à la somme du taux de référence et de huit points de pourcentage au moins;
+7) | «taux de référence», l’un des taux suivants: a) pour un État membre qui a l’euro pour devise: i) le taux d’intérêt appliqué par la Banque centrale européenne à ses opérations principales de refinancement les plus récentes; ou ii) le taux d’intérêt marginal résultant de procédures d’appel d’offres à taux variable pour les opérations principales de refinancement les plus récentes de la Banque centrale européenne; b) pour un État membre qui n’a pas l’euro pour devise, le taux directeur équivalent fixé par sa banque centrale nationale;
+8) | «montant dû», le montant principal, qui aurait dû être payé dans le délai de paiement contractuel ou légal, y compris les taxes, droits, redevances ou charges applicables figurant sur la facture ou la demande de paiement équivalente;
+9) | «réserve de propriété», la convention contractuelle selon laquelle le vendeur se réserve la propriété des biens jusqu’au paiement intégral;
+10) | «titre exécutoire», tout(e) décision, jugement, arrêt, ordonnance ou injonction de payer prononcé(e) par un tribunal ou une autre autorité compétente, y compris les titres exécutoires par provision, que le paiement soit immédiat ou échelonné, qui permet au créancier de recouvrer sa créance auprès du débiteur par procédure d’exécution forcée.
+
+Article 3
+Transactions entre entreprises
+1. Les États membres veillent à ce que, dans les transactions commerciales entre entreprises, le créancier soit en droit de réclamer des intérêts pour retard de paiement sans qu’un rappel soit nécessaire quand les conditions suivantes sont remplies:
+a) | le créancier a rempli ses obligations contractuelles et légales; et
+b) | le créancier n’a pas reçu le montant dû à l’échéance, sauf si le débiteur n’est pas responsable du retard.
+2. Les États membres veillent à ce que le taux de référence applicable soit:
+a) | pour le premier semestre de l’année concernée, le taux en vigueur au 1 er janvier de l’année en question;
+b) | pour le second semestre de l’année concernée, le taux en vigueur au 1 er juillet de l’année en question.
+3. Lorsque les conditions spécifiées au paragraphe 1 sont remplies, les États membres veillent à ce que:
+a) | le créditeur ait droit à des intérêts pour retard de paiement le jour suivant la date de paiement ou la fin du délai de paiement fixé dans le contrat;
+b) | lorsque la date ou le délai de paiement n’est pas fixé dans le contrat, le créditeur ait droit à des intérêts pour retard de paiement dès l’expiration de l’un des délais suivants: i) trente jours civils après la date de réception, par le débiteur, de la facture ou d’une demande de paiement équivalente; ii) lorsque la date de réception de la facture ou d’une demande de paiement équivalente est incertaine, trente jours civils après la date de réception des marchandises ou de prestation des services; iii) lorsque le débiteur reçoit la facture ou la demande de paiement équivalente avant les marchandises ou les services, trente jours civils après la date de réception des marchandises ou de prestation des services; iv) lorsqu’une procédure d’acceptation ou de vérification, permettant de certifier la conformité des marchandises ou des services avec le contrat, est prévue par la loi ou dans le contrat, et si le débiteur reçoit la facture ou la demande de paiement équivalente plus tôt ou à la date de l’acceptation ou de la vérification, trente jours civils après cette date.
+4. Lorsqu’une procédure d’acceptation ou de vérification, permettant de certifier la conformité des marchandises ou des services avec le contrat, est prévue, les États membres veillent à ce que la durée maximale de ladite procédure n’excède pas trente jours civils après la date de réception des marchandises ou de prestation des services, à moins qu’il ne soit expressément stipulé autrement par contrat et pourvu que cela ne constitue pas un abus manifeste à l’égard du créancier au sens de l’article 7.
+5. Les États membres veillent à ce que le délai de paiement fixé dans le contrat n’excède pas soixante jours civils, à moins qu’il ne soit expressément stipulé autrement par contrat et pourvu que cela ne constitue pas un abus manifeste à l’égard du créancier au sens de l’article 7.
+
+Article 4
+Transactions entre entreprises et pouvoirs publics
+1. Les États membres veillent à ce que, dans des transactions commerciales où le débiteur est un pouvoir public, le créancier soit en droit d’obtenir, à l’expiration du délai fixé aux paragraphes 3, 4 et 6, les intérêts légaux pour retard de paiement, sans qu’un rappel soit nécessaire, quand les conditions suivantes sont remplies:
+a) | le créancier a rempli ses obligations contractuelles et légales; et
+b) | le créancier n’a pas reçu le montant dû à l’échéance, sauf si le débiteur n’est pas responsable du retard.
+2. Les États membres veillent à ce que le taux de référence applicable soit:
+a) | pour le premier semestre de l’année concernée, le taux en vigueur au 1 er janvier de l’année en question;
+b) | pour le second semestre de l’année concernée, le taux en vigueur au 1 er juillet de l’année en question.
+3. Les États membres veillent, dans des transactions commerciales où le débiteur est un pouvoir public, à ce que:
+a) | le délai de paiement n’excède pas les durées suivantes: i) trente jours civils après la date de réception, par le débiteur, de la facture ou d’une demande de paiement équivalente; ii) lorsque la date de réception de la facture ou d’une demande de paiement équivalente est incertaine, trente jours civils après la date de réception des marchandises ou de prestation des services; iii) lorsque le débiteur reçoit la facture ou la demande de paiement équivalente avant les marchandises ou les services, trente jours civils après la date de réception des marchandises ou de prestation des services; iv) lorsqu’une procédure d’acceptation ou de vérification, permettant de certifier la conformité des marchandises ou des services avec le contrat, est prévue par la loi ou dans le contrat, et si le débiteur reçoit la facture ou la demande de paiement équivalente plus tôt ou à la date de l’acceptation ou de la vérification, trente jours civils après cette date;
+b) | la date de réception de la facture ne fasse pas l’objet d’un accord contractuel entre le débiteur et le créancier.
+4. Les États membres ont la faculté de prolonger les délais visés au paragraphe 3, point a), jusqu’à un maximum de soixante jours civils:
+a) | pour tout pouvoir public qui exerce des activités économiques à caractère industriel ou commercial consistant à offrir des marchandises et des services sur le marché et soumis, en tant qu’entreprise publique, aux exigences de transparence établies par la directive 2006/111/CE de la Commission du 16 novembre 2006 relative à la transparence des relations financières entre les États membres et les entreprises publiques ainsi qu’à la transparence financière dans certaines entreprises ( 17 ) ;
+b) | pour les entités publiques dispensant des soins de santé, dûment reconnues à cette fin.
+S’il décide de prolonger les délais en vertu du présent paragraphe, un État membre a l’obligation de transmettre à la Commission un rapport sur cette prolongation au plus tard le 16 mars 2018.
+Sur cette base, la Commission présente un rapport au Parlement européen et au Conseil indiquant quels États membres ont prolongé les délais en vertu du présent paragraphe et prenant en compte les conséquences sur le fonctionnement du marché intérieur, en particulier pour les PME. Ce rapport est accompagné de toute proposition appropriée.
+5. Les États membres veillent à ce que la durée maximale de la procédure d’acceptation ou de vérification visée au paragraphe 3, point a) iv), n’excède pas trente jours civils depuis la date de réception des marchandises ou de prestation des services, à moins qu’il ne soit expressément stipulé autrement par contrat ou dans le dossier d’appel d’offres et pourvu que cela ne constitue pas un abus manifeste à l’égard du créancier au sens de l’article 7.
+6. Les États membres veillent à ce que le délai de paiement fixé dans le contrat n’excède pas les délais prévus au paragraphe 3, à moins qu’il ne soit expressément stipulé autrement par contrat et pourvu que ce soit objectivement justifié par la nature particulière ou par certains éléments du contrat et que le délai n’excède en aucun cas soixante jours civils.
+
+Article 5
+Échéanciers
+La présente directive ne préjuge pas de la faculté, pour les parties, de convenir entre elles, sous réserve des dispositions pertinentes applicables du droit national, d’un échéancier fixant les montants à payer par tranches. En ce cas, si un paiement n’est pas réglé à l’échéance, les intérêts et l’indemnisation prévus par la présente directive sont calculés sur la base des seuls montants exigibles.
+
+Article 6
+Indemnisation pour les frais de recouvrement
+1. Les États membres veillent à ce que, lorsque des intérêts pour retard de paiement sont exigibles dans des transactions commerciales conformément à l’article 3 ou à l’article 4, le créancier soit en droit d’obtenir du débiteur, comme minimum, le paiement d’un montant forfaitaire de 40 EUR.
+2. Les États membres veillent à ce que le montant forfaitaire visé au paragraphe 1 soit exigible sans qu’un rappel soit nécessaire et vise à indemniser le créancier pour les frais de recouvrement qu’il a encourus.
+3. Le créancier est en droit de réclamer au débiteur, outre le montant forfaitaire visé au paragraphe 1, une indemnisation raisonnable pour tous les autres frais de recouvrement venant en sus dudit montant forfaitaire et encourus par suite d’un retard de paiement du débiteur. Ces frais peuvent comprendre, notamment, les dépenses engagées pour faire appel à un avocat ou à une société de recouvrement de créances.
+
+Article 7
+Clauses contractuelles et pratiques abusives
+1. Les États membres prévoient qu’une clause contractuelle ou une pratique relative à la date ou au délai de paiement, au taux d’intérêt pour retard de paiement ou à l’indemnisation pour les frais de recouvrement, ne soit pas applicable, ou donne lieu à une action en réparation du dommage lorsqu’elle constitue un abus manifeste à l’égard du créancier.
+Pour déterminer si une clause contractuelle ou une pratique constitue un abus manifeste à l’égard du créancier, au sens du premier alinéa, tous les éléments de l’espèce sont pris en considération, y compris:
+a) | tout écart manifeste par rapport aux bonnes pratiques et usages commerciaux, contraire à la bonne foi et à un usage loyal;
+b) | la nature du produit ou du service; et
+c) | si le débiteur a une quelconque raison objective de déroger au taux d’intérêt légal pour retard de paiement, aux délais de paiement visés à l’article 3, paragraphe 5, à l’article 4, paragraphe 3, point a), à l’article 4, paragraphe 4, et à l’article 4, paragraphe 6, ou au montant forfaitaire visé à l’article 6, paragraphe 1.
+2. Aux fins de l’application du paragraphe 1, toute clause contractuelle ou pratique excluant le versement d’intérêts pour retard de paiement est considérée comme manifestement abusive.
+3. Aux fins de l’application du paragraphe 1, une clause contractuelle ou une pratique excluant l’indemnisation pour les frais de recouvrement prévue à l’article 6 est présumée être manifestement abusive.
+4. Les États membres veillent à ce que, dans l’intérêt des créanciers et des concurrents, il existe des moyens appropriés et efficaces pour mettre fin à l’utilisation de clauses contractuelles ou de pratiques qui sont manifestement abusives au sens du paragraphe 1.
+5. Parmi les moyens mentionnés au paragraphe 4 figurent des dispositions permettant aux organisations officiellement reconnues comme représentant les entreprises, ou ayant un intérêt légitime à les représenter, de saisir, conformément aux législations nationales applicables, les juridictions ou les instances administratives compétentes, au motif que les clauses contractuelles ou les pratiques sont manifestement abusives, au sens du paragraphe 1, de sorte qu’elles puissent recourir à des moyens appropriés et efficaces pour mettre fin à leur utilisation.
+
+Article 8
+Transparence et sensibilisation
+1. Les États membres garantissent la transparence en ce qui concerne les droits et les obligations découlant de la présente directive, notamment en publiant le taux applicable des intérêts légaux pour retard de paiement.
+2. La Commission publie sur l’internet les informations relatives aux taux actuels des intérêts légaux qui s’appliquent dans tous les États membres en cas de retard de paiement lors de transactions commerciales.
+3. Les États membres utilisent, le cas échéant, des publications professionnelles, des campagnes de promotion ou tout autre moyen fonctionnel d’accroître la sensibilisation aux remèdes contre le retard de paiement des entreprises.
+4. Les États membres peuvent encourager l’établissement de codes de paiement rapide, qui mettent en place des échéances de paiement clairement définies et une procédure appropriée pour traiter tous les paiements faisant l’objet d’un litige, ou toute autre initiative affrontant la question cruciale du retard de paiement et contribuant à développer une culture de paiement rapide, à l’appui de l’objectif de la présente directive.
+
+Article 9
+Réserve de propriété
+1. Les États membres prévoient, conformément aux dispositions nationales applicables en vertu du droit international privé, que le vendeur peut conserver la propriété des biens jusqu’au paiement intégral lorsqu’une clause de réserve de propriété a été explicitement conclue entre l’acheteur et le vendeur avant la livraison des biens.
+2. Les États membres peuvent adopter ou conserver des dispositions relatives aux acomptes déjà versés par le débiteur.
+
+Article 10
+Procédures de recouvrement pour des créances non contestées
+1. Les États membres veillent à ce qu’un titre exécutoire, quel que soit le montant de la dette, puisse être obtenu, y compris au moyen d’une procédure accélérée, normalement dans les quatre-vingt-dix jours civils après que le créancier a formé un recours ou introduit une demande auprès d’une juridiction ou d’une autre autorité compétente, lorsqu’il n’y a pas de contestation portant sur la dette ou des points de procédure. Les États membres s’acquittent de cette obligation en conformité avec leurs dispositions législatives, réglementaires et administratives nationales respectives.
+2. Les dispositions législatives, réglementaires et administratives nationales s’appliquent dans les mêmes conditions à tous les créanciers qui sont établis dans l’Union.
+3. Pour calculer le délai visé au paragraphe 1, il n’est pas tenu compte des périodes suivantes:
+a) | les délais requis pour la signification et la notification des documents;
+b) | tout retard causé par le créancier, tel que les délais nécessaires à la rectification de demandes.
+4. Le présent article s’applique sans préjudice des dispositions du règlement (CE) n o 1896/2006.
+
+Article 11
+Rapport
+Au plus tard le 16 mars 2016, la Commission présente un rapport au Parlement européen et au Conseil concernant l’application de la présente directive. Ce rapport est accompagné de toute proposition appropriée.
+
+Article 12
+Transposition
+1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer aux articles 1 er à 8 et à l’article 10 au plus tard le 16 mars 2013. Ils communiquent immédiatement à la Commission le texte de ces dispositions.
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Elles contiennent également une mention précisant que les références faites, dans les dispositions législatives, réglementaires et administratives en vigueur, à la directive abrogée s’entendent comme faites à la présente directive. Les modalités de cette référence et la formulation de cette mention sont arrêtées par les États membres.
+2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.
+3. Les États membres peuvent maintenir ou adopter des dispositions plus favorables au créancier que celles nécessaires pour se conformer à la présente directive.
+4. Lors de la transposition de la présente directive, les États membres décident s’ils veulent exclure les contrats conclus avant le 16 mars 2013.
+
+Article 13
+Abrogation
+La directive 2000/35/CE est abrogée avec effet au 16 mars 2013, sans préjudice des obligations des États membres en ce qui concerne les délais de transposition en droit national et d’application. Cependant, elle reste applicable aux contrats conclus avant cette date auxquels la présente directive ne s’applique pas en vertu de l’article 12, paragraphe 4.
+Les références faites à la directive abrogée s’entendent comme faites à la présente directive et sont à lire selon le tableau de correspondance figurant à l’annexe.
+
+Article 14
+Entrée en vigueur
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne .
+
+Article 15
+Destinataires
+Les États membres sont destinataires de la présente directive.
+
+Fait à Strasbourg, le 16 février 2011.
+Par le Parlement européen
+Le président
+J. BUZEK
+Par le Conseil
+Le président
+MARTONYI J.
+( 1 ) JO C 255 du 22.9.2010, p. 42 .
+( 2 ) Position du Parlement européen du 20 octobre 2010 (non encore parue au Journal officiel) et décision du Conseil du 24 janvier 2011.
+( 3 ) JO L 200 du 8.8.2000, p. 35 .
+( 4 ) JO L 12 du 16.1.2001, p. 1 .
+( 5 ) JO L 143 du 30.4.2004, p. 15 .
+( 6 ) JO L 399 du 30.12.2006, p. 1 .
+( 7 ) JO L 199 du 31.7.2007, p. 1 .
+( 8 ) JO L 124 du 20.5.2003, p. 36 .
+( 9 ) JO L 134 du 30.4.2004, p. 1 .
+( 10 ) JO L 134 du 30.4.2004, p. 114 .
+( 11 ) JO L 124 du 8.6.1971, p. 1 .
+( 12 ) JO L 347 du 11.12.2006, p. 1 .
+( 13 ) JO L 248 du 16.9.2002, p. 1 .
+( 14 ) JO L 357 du 31.12.2002, p. 1 .
+( 15 ) JO L 136 du 24.5.2008, p. 3 .
+( 16 ) JO C 321 du 31.12.2003, p. 1 .
+( 17 ) JO L 318 du 17.11.2006, p. 17 .
+
+ANNEXE
+Tableau de correspondance
+Directive 2000/35/CE | La présente directive
+— | Article 1 er , paragraphe 1
+Article 1 er | Article 1 er , paragraphe 2
+Article 2, point 1), premier alinéa | Article 2, point 1)
+Article 2, point 1), deuxième alinéa | Article 2, point 2)
+Article 2, point 1), troisième alinéa | Article 2, point 3)
+Article 2, point 2) | Article 2, point 4)
+— | Article 2, point 5)
+— | Article 2, point 6)
+— | Article 2, point 7), mots introductifs
+— | Article 2, point 8)
+Article 2, point 3) | Article 2, point 9)
+Article 2, point 4) | Article 2, point 7) a)
+Article 2, point 5) | Article 2, point 10)
+Article 3, paragraphe 1, point a) | Article 3, paragraphe 3, point a)
+Article 3, paragraphe 1, point b), mots introductifs | Article 3, paragraphe 3, point b), mots introductifs
+Article 3, paragraphe 1, point b) i) | Article 3, paragraphe 3, point b) i)
+Article 3, paragraphe 1, point b) ii) | Article 3, paragraphe 3, point b) ii)
+Article 3, paragraphe 1, point b) iii) | Article 3, paragraphe 3, point b) iii)
+Article 3, paragraphe 1, point b) iv) | Article 3, paragraphe 3, point b) iv)
+— | Article 3, paragraphe 4
+— | Article 3, paragraphe 5
+Article 3, paragraphe 1, point c) | Article 3, paragraphe 1
+Article 3, paragraphe 1, point d), première et troisième phrases | —
+Article 3, paragraphe 1, point d), deuxième phrase | Article 2, point 7) b)
+— | Article 3, paragraphe 2
+— | Article 4
+— | Article 5
+— | Article 6, paragraphe 1
+— | Article 6, paragraphe 2
+Article 3, paragraphe 1, point e) | Article 6, paragraphe 3
+Article 3, paragraphe 2 | —
+Article 3, paragraphe 3 | Article 7, paragraphe 1
+— | Article 7, paragraphe 2
+— | Article 7, paragraphe 3
+Article 3, paragraphe 4 | Article 7, paragraphe 4
+Article 3, paragraphe 5 | Article 7, paragraphe 5
+— | Article 8
+Article 4 | Article 9
+Article 5, paragraphes 1, 2 et 3 | Article 10, paragraphes 1, 2 et 3
+Article 5, paragraphe 4 | —
+— | Article 10, paragraphe 4
+— | Article 11
+Article 6, paragraphe 1 | —
+— | Article 12, paragraphe 1
+Article 6, paragraphe 2 | Article 12, paragraphe 3
+Article 6, paragraphe 3 | Article 1 er , paragraphe 3
+Article 6, paragraphe 4 | Article 12, paragraphe 2
+Article 6, paragraphe 5 | —
+— | Article 12, paragraphe 4
+— | Article 13
+Article 7 | Article 14
+Article 8 | Article 15
+— | Annexe

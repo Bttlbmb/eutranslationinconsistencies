@@ -1,0 +1,184 @@
+SMERNICA EURÓPSKEHO PARLAMENTU A RADY 2009/24/ES
+z 23. apríla 2009
+o právnej ochrane počítačových programov
+(kodifikované znenie)
+(Text s významom pre EHP)
+
+EURÓPSKY PARLAMENT A RADA EURÓPSKEJ ÚNIE,
+
+so zreteľom na Zmluvu o založení Európskeho spoločenstva, a najmä na jej článok 95,
+
+so zreteľom na návrh Komisie,
+
+so zreteľom na stanovisko Európskeho hospodárskeho a sociálneho výboru ( 1 ) ,
+
+konajúc v súlade s postupom ustanoveným v článku 251 zmluvy ( 2 ) ,
+
+keďže:
+
+(1) | Obsah smernice Rady 91/250/EHS zo 14. mája 1991 o právnej ochrane počítačových programov ( 3 ) bol zmenený a doplnený ( 4 ) . V záujme jasnosti a prehľadnosti by sa mala uvedená smernica kodifikovať.
+
+(2) | Rozvoj počítačových programov vyžaduje investovanie značných ľudských, technických a finančných prostriedkov, zatiaľ čo počítačové programy možno kopírovať za zlomok nákladov, potrebných na ich samostatné vytvorenie.
+
+(3) | Počítačové programy zohrávajú neustále dôležitejšiu úlohu v mnohých priemyselných odvetviach a z tohto dôvodu možno predpokladať, že technológia počítačových programov má základný význam pre rozvoj priemyslu v Spoločenstve.
+
+(4) | Určité rozdiely v právnej ochrane počítačových programov, poskytovanej právnymi poriadkami členských štátov, majú priame negatívne účinky na fungovanie vnútorného trhu v oblasti počítačových programov.
+
+(5) | Existujúce rozdiely s takýmito dôsledkami treba odstrániť a zabrániť tomu, aby vznikli nové, zatiaľ čo rozdiely, ktoré nepriaznivo neovplyvňujú fungovanie vnútorného trhu v podstatnej miere, sa nemusia odstrániť, ani nie je nutné brániť ich vzniku.
+
+(6) | Právny rámec Spoločenstva na ochranu počítačových programov môže byť vymedzený predovšetkým tak, že členské štáty budú povinné priznať ochranu počítačovým programom podľa autorského zákona ako literárnym dielam, a ďalej tým, že určia nositeľa a predmet ochrany, výlučné práva na udelenie povolenia alebo zákazu určitých konaní, ktorých sa chránené osoby môžu dovolať, ako aj trvanie ochrany.
+
+(7) | Na účely tejto smernice pojem „počítačový program“ zahŕňa programy v akejkoľvek forme vrátane tých, ktoré sú včlenené do technického vybavenia počítača (hardvéru). Tento pojem zahŕňa aj prípravnú koncepčnú prácu vedúcu k vyvinutiu počítačového programu pod podmienkou, že na základe jej povahy bude možné v neskoršom štádiu vytvoriť počítačový program.
+
+(8) | Kritériá používané na určenie, či je počítačový program pôvodným dielom, alebo nie, by nemali zahŕňať žiadne skúšky kvalitatívnych alebo estetických vlastností programu.
+
+(9) | Spoločenstvo je plne zaviazané podporovať medzinárodnú normalizáciu.
+
+(10) | Funkciou počítačového programu je komunikovať a pracovať spolu s ostatnými prvkami počítačového systému a s jeho používateľmi. Na tento účel sa vyžaduje logické a prípadne fyzické prepojenie a interakcia potrebná na plné fungovanie prvkov programu (softvéru) a technického vybavenia (hardvéru) s iným programom (softvérom) a technickým vybavením (hardvérom) a s používateľmi. Časti programu, ktoré umožňujú také prepojenie a interakciu medzi prvkami programu (softvéru) a technického vybavenia (hardvéru), sa všeobecne nazývajú „rozhranie“ (interfaces). Toto funkčné prepojenie a interakcia sa všeobecne nazýva „styková prevádzková schopnosť“ (interoperabilita). Takáto interoperabilita sa môže definovať ako schopnosť vymieňať si informácie a vzájomne používať vymenené informácie.
+
+(11) | Na predchádzanie pochybnostiam treba spresniť, že chránené je len vyjadrenie počítačového programu a že myšlienky a princípy, na ktorých je založený každý prvok programu vrátane tých, ktoré sú podkladom ich rozhrania, nie sú chránené autorským právom podľa tejto smernice. V súlade s touto zásadou autorského práva nie sú myšlienky a princípy, ktoré tvoria základ logiky, algoritmov a programovacích jazykov, chránené podľa tejto smernice. V súlade s právnymi predpismi a judikatúrou členských štátov, ako aj s medzinárodnými dohovormi o autorských právach, je autorskými právami chránené vyjadrenie týchto myšlienok a princípov.
+
+(12) | Na účely tejto smernice pojem „nájom“ znamená poskytnutie počítačového programu alebo jeho rozmnoženiny na použitie na obmedzený čas a s cieľom dosiahnuť zisk. Tento pojem nezahŕňa verejnú pôžičku, ktorá nespadá do rozsahu pôsobnosti tejto smernice.
+
+(13) | Na výlučné práva autora na zabránenie neoprávnenému rozmnožovaniu jeho diela by sa mala vzťahovať obmedzená výnimka umožňujúca pri počítačovom programe vyhotovenie rozmnoženiny technicky potrebnej na využívanie tohto programu jeho oprávneným nadobúdateľom. To znamená, že konania spočívajúce v zavádzaní a prevádzke potrebnej na využívanie oprávnene nadobudnutej rozmnoženiny programu a konania na účely opravy jeho chýb nesmú byť zmluvne zakázané. Ak nie je osobitne zmluvne dohodnuté inak, najmä v prípade predaja rozmnoženiny programu, akékoľvek iné konania potrebné na využívanie rozmnoženiny programu môžu byť jej oprávneným nadobúdateľom uskutočnené v súlade so zamýšľaným účelom.
+
+(14) | Osobe, ktorá má právo používať počítačový program, nemožno brániť v činnosti potrebnej na skúmanie, štúdium alebo skúšanie fungovania programu pod podmienkou, že tieto činnosti neohrozujú autorské právo k programu.
+
+(15) | Neoprávnené rozmnožovanie, preklad, úprava alebo zmena formy kódu, v ktorej bola rozmnoženina počítačového programu dodaná, ohrozuje výlučné práva autora. Za určitých okolností sú vyhotovené rozmnoženiny kódu a preklad jeho formy nevyhnutné na získanie informácie potrebnej na dosiahnutie interoperability nezávisle vytvoreného programu s inými programami. Z tohto dôvodu treba ustanoviť, že len za týchto obmedzených okolností je vyhotovovanie rozmnoženiny a prekladu osobou, ktorá má právo používať rozmnoženinu programu, alebo v jej mene, oprávnené a zodpovedá dobrým mravom, a preto nevyžaduje povolenie majiteľa práv. Jedným z cieľov tejto výnimky je umožniť prepojenie všetkých prvkov počítačového systému vrátane tých, ktoré vytvorili rôzni výrobcovia, a to tak, aby mohli fungovať spoločne. Takáto výnimka z autorových výlučných práv nemôže byť použitá tak, aby spôsobila ujmu oprávneným záujmom majiteľa práv alebo aby ohrozila zvyčajné využívanie programu.
+
+(16) | Ochrana počítačových programov podľa autorských zákonov by nemala byť na prekážku tomu, aby sa v prípade potreby použili iné formy ochrany. Avšak všetky zmluvné ustanovenia, ktoré sú v rozpore s ustanoveniami tejto smernice o spätnom preklade alebo s výnimkami stanovenými touto smernicou v súvislosti s vyhotoveniami záložnej rozmnoženiny alebo so skúmaním, študovaním alebo skúšaním fungovania programu, by sa mali považovať za neplatné od počiatku.
+
+(17) | Ustanovenia tejto smernice sa nedotýkajú použitia pravidiel hospodárskej súťaže podľa článku 81 a 82 zmluvy, ak dodávateľ v dominantnom postavení odmietne sprístupniť informáciu, ktorá je potrebná na interoperabilitu, ako je definovaná v tejto smernici.
+
+(18) | Ustanovenia tejto smernice by sa nemali dotýkať osobitných požiadaviek práva Spoločenstva prijatých vzhľadom na zverejňovanie rozhrania v oblasti telekomunikácií a ani rozhodnutia Rady o normalizácii v odbore informačných technológií a telekomunikácií.
+
+(19) | Táto smernica sa nedotýka odchýlok stanovených vnútroštátnymi právnymi predpismi v súlade s Bernským dohovorom v bodoch, na ktoré sa táto smernica nevzťahuje.
+
+(20) | Táto smernica by sa nemala dotýkať povinností členských štátov týkajúcich sa lehôt na transpozíciu smerníc uvedených v prílohe I časti B do vnútroštátneho práva,
+
+PRIJALI TÚTO SMERNICU:
+
+Článok 1
+Predmet ochrany
+1. V súlade s ustanoveniami tejto smernice členské štáty chránia počítačové programy podľa autorského práva ako literárne diela v zmysle Bernského dohovoru o ochrane literárnych a umeleckých diel. Na účely tejto smernice zahŕňa pojem „počítačové programy“ aj ich prípravný koncepčný materiál.
+2. Ochrana podľa tejto smernice sa vzťahuje na vyjadrenia počítačového programu v akejkoľvek forme. Myšlienky a princípy, na ktorých je založený ktorýkoľvek prvok počítačového programu, vrátane tých, ktoré sú podkladom jeho rozhrania, nie sú podľa tejto smernice chránené autorským právom.
+3. Počítačový program je chránený, ak je pôvodný v tom zmysle, že je autorovým vlastným duševným výtvorom. Žiadne iné kritériá na určenie ochrany sa nepoužijú.
+4. Ustanovenia tejto smernice sa vzťahujú aj na programy vytvorené pred 1. januárom 1993 bez toho, aby boli dotknuté úkony, ku ktorým došlo pred týmto dátumom, a práva nadobudnuté pred týmto dátumom.
+
+Článok 2
+Autorstvo počítačových programov
+1. Autorom počítačového programu je fyzická osoba alebo skupina fyzických osôb, ktorá program vytvorila, alebo, kde to umožňuje právny poriadok členského štátu, právnická osoba označená týmto právnym poriadkom za majiteľa práv.
+Ak sú právnym poriadkom členského štátu uznávané kolektívne diela, pokladá sa za ich autora osoba považovaná právnym poriadkom členského štátu za tú, ktorá vytvorila dielo.
+2. Pri počítačovom programe vytvorenom spoločne skupinou fyzických osôb patria výlučné práva týmto osobám spoločne.
+3. Ak je počítačový program vytvorený zamestnancom pri plnení jeho povinnosti alebo podľa pokynov vydaných jeho zamestnávateľom, je zamestnávateľ výlučne oprávnený vykonávať všetky majetkové práva k takto vytvorenému programu, ak nie je v zmluve dohodnuté inak.
+
+Článok 3
+Užívatelia ochrany
+Ochrana sa priznáva všetkým fyzickým alebo právnickým osobám, ktorým prislúcha podľa vnútroštátnych autorskoprávnych predpisov vzťahujúcich sa na literárne diela.
+
+Článok 4
+Úkony podliehajúce obmedzeniam
+1. S výnimkou ustanovení článkov 5 a 6 zahŕňajú výlučné práva majiteľa práv v zmysle článku 2 právo robiť alebo povoľovať:
+a) | trvalé alebo dočasné rozmnoženiny počítačového programu akýmikoľvek prostriedkami a v akejkoľvek forme, čiastočne alebo v celku. Ak si zavedenie, predvedenie, prevádzka, prenos alebo uloženie počítačového programu vyžaduje takú rozmnoženinu, na takéto úkony sa vyžaduje povolenie zo strany majiteľa práv;
+b) | preklad, spracovanie, úpravu a každú inú zmenu počítačového programu a rozmnožovanie takto vzniknutých programov bez toho, aby tým boli dotknuté práva osoby, ktorá mení program;
+c) | akúkoľvek formu verejného rozširovania originálu alebo rozmnoženiny počítačového programu vrátane nájmu.
+2. Prvý predaj rozmnoženiny počítačového programu v Spoločenstve uskutočnený majiteľom práv alebo s jeho súhlasom vyčerpáva právo na verejné rozširovanie takejto rozmnoženiny v Spoločenstve, s výnimkou práva na kontrolu ďalšieho nájmu počítačového programu alebo jeho rozmnoženiny.
+
+Článok 5
+Výnimky z úkonov podliehajúcich obmedzeniam
+1. Ak nie sú osobitné zmluvné ustanovenia, úkony uvedené v článku 4 ods. 1 písm. a) a b) nevyžadujú povolenie majiteľa práv, ak ide o úkony potrebné na použitie počítačového programu oprávneným nadobúdateľom v súlade so zamýšľaným účelom, vrátane opravy chýb.
+2. Osobe oprávnenej používať počítačový program sa nesmie zmluvne brániť, aby z neho vyhotovila záložnú rozmnoženinu, pokiaľ je na takéto použitie potrebná.
+3. Osoba, ktorá má právo používať rozmnoženinu počítačového programu, je oprávnená bez povolenia majiteľa práv tento program skúmať, študovať alebo skúšať jeho fungovanie na účely zistenia myšlienok a princípov, na ktorých je založený ktorýkoľvek prvok programu, ak tak koná pri niektorom z úkonov zavádzania, predvedenia, prevádzkovania, prenášania alebo ukladania, ktoré je oprávnená vykonať.
+
+Článok 6
+Spätný preklad
+1. Povolenie majiteľa práv sa nevyžaduje tam, kde reprodukcia kódu alebo preklad jeho formy v zmysle článku 4 ods. 1 písm. a) a b) sú nevyhnutné na získanie informácie potrebnej na dosiahnutie interoperability nezávisle vytvoreného počítačového programu s inými programami pod podmienkou, že sú splnené nasledujúce predpoklady:
+a) | tieto úkony uskutočňuje nadobúdateľ licencie alebo iná osoba, ktorá má právo používať rozmnoženinu počítačového programu, alebo osoba oprávnená tak konať v ich mene;
+b) | informácia potrebná na dosiahnutie interoperability nebola osobám uvedeným v písmene a) skôr ľahko a rýchlo dostupná a
+c) | tieto úkony sú obmedzené na tie časti pôvodného programu, ktoré sú potrebné na dosiahnutie interoperability.
+2. Ustanovenia odseku l nedovoľujú, aby informácia získaná ich uplatnením:
+a) | bola použitá na iné ciele, ako na dosiahnutie interoperability nezávisle vytvoreného počítačového programu;
+b) | bola poskytnutá iným, s výnimkou prípadov, keď je to potrebné na dosiahnutie interoperability nezávisle vytvoreného počítačového programu, alebo
+c) | bola využitá na vývoj, výrobu alebo odbyt počítačového programu v podstate podobného v jeho vyjadrení, alebo na akékoľvek iné úkony, ktoré porušujú autorské právo.
+3. V súlade s ustanoveniami Bernského dohovoru o ochrane literárnych a umeleckých diel nesmú byť ustanovenia tohto článku vykladané tak, že dovoľujú, aby bol použitý spôsobom, ktorý neodôvodnene spôsobuje ujmu oprávnených záujmov majiteľa práv, alebo ktorý je v rozpore so zvyčajným využívaním počítačového programu.
+
+Článok 7
+Osobitné ochranné opatrenia
+1. Bez toho, aby boli dotknuté ustanovenia článkov 4, 5 a 6, členské štáty v súlade so svojimi vnútroštátnymi právnymi predpismi ustanovia primerané prostriedky nápravy voči osobe, ktorá sa dopustí niektorého z nasledujúcich činov:
+a) | každé uvedenie nedovolenej rozmnoženiny počítačového programu do obehu vedome alebo v domnienke, že ide o nedovolenú rozmnoženinu;
+b) | držbu nedovolenej rozmnoženiny počítačového programu na obchodné účely vedome alebo v domnienke, že ide o nedovolenú rozmnoženinu;
+c) | každé uvedenie do obehu alebo držba na obchodné účely akýchkoľvek prostriedkov, ktorých jediným zamýšľaným účelom je uľahčiť neoprávnené odstránenie alebo obídenie akéhokoľvek technického zariadenia, ktoré by mohlo byť použité na ochranu počítačového programu.
+2. Nedovolené rozmnoženiny počítačového programu budú zabavené podľa právneho poriadku príslušného členského štátu.
+3. Členské štáty môžu ustanoviť zabavenie akýchkoľvek prostriedkov uvedených v odseku 1 písm. c).
+
+Článok 8
+Zachovanie iných právnych ustanovení
+Ustanovenia tejto smernice sa nedotýkajú žiadnych iných právnych ustanovení, vzťahujúcich sa najmä na patentové právo, ochranné známky, nekalú súťaž, obchodné tajomstvo, ochranu polovodičových výrobkov alebo zmluvné právo.
+Všetky zmluvné ustanovenia, ktoré sú v rozpore s článkom 6 alebo s výnimkami ustanovenými v článku 5 ods. 2 a 3, sú neplatné od počiatku.
+
+Článok 9
+Oznámenie
+Členské štáty oznámia Komisii znenie hlavných ustanovení vnútroštátnych právnych predpisov, ktoré prijmú v oblasti pôsobnosti tejto smernice.
+
+Článok 10
+Zrušenie
+Smernica 91/250/EHS, zmenená a doplnená smernicou uvedenou v prílohe I časti A, sa zrušuje bez toho, aby boli dotknuté povinnosti členských štátov týkajúce sa lehôt na transpozíciu smerníc do vnútroštátneho práva, ktoré sú uvedené v prílohe I časti B.
+Odkazy na zrušenú smernicu sa považujú za odkazy na túto smernicu a znejú v súlade s tabuľkou zhody uvedenou v prílohe II.
+
+Článok 11
+Nadobudnutie účinnosti
+Táto smernica nadobúda účinnosť dvadsiatym dňom po jej uverejnení v Úradnom vestníku Európskej únie .
+
+Článok 12
+Adresáti
+Táto smernica je určená členským štátom.
+
+V Štrasburgu 23. apríla 2009
+Za Európsky parlament
+predseda
+H.-G. PÖTTERING
+Za Radu
+predseda
+P. NEČAS
+( 1 ) Ú. v. EÚ C 204, 9.8.2008, s. 24 .
+( 2 ) Stanovisko Európskeho parlamentu zo 17. júna 2008 (zatiaľ neuverejnené v úradnom vestníku) a rozhodnutie Rady z 23. marca 2009.
+( 3 ) Ú. v. ES L 122, 17.5.1991, s. 42 .
+( 4 ) Pozri prílohu I časť A.
+
+PRÍLOHA I
+ČASŤ A
+Zrušená smernica so zoznamom neskorších zmien a doplnení
+(v zmysle článku 10)
+Smernica Rady 91/250/EHS ( Ú. v. ES L 122, 17.5.1991, s. 42 ) | 
+Smernica Rady 93/98/EHS ( Ú. v. ES L 290, 24.11.1993, s. 9 ) | Iba článok 11 ods. 1
+ČASŤ B
+Lehoty na transpozíciu do vnútroštátneho práva
+(v zmysle článku 10)
+Smernica | Lehota na transpozíciu
+91/250/EHS | 31. december 1992
+93/98/EHS | 30. jún 1995
+
+PRÍLOHA II
+Tabuľka zhody
+Smernica 91/250/EHS | Táto smernica
+Článok 1 ods. 1, 2 a 3 | Článok 1 ods. 1, 2 a 3
+Článok 2 ods. 1 prvá veta | Článok 2 ods. 1 prvý pododsek
+Článok 2 ods. 1 druhá veta | Článok 2 ods. 1 druhý pododsek
+Článok 2 ods. 2 a 3 | Článok 2 ods. 2 a 3
+Článok 3 | Článok 3
+Článok 4 úvodné slová | Článok 4 ods. 1 úvodné slová
+Článok 4 písm. a) | Článok 4 ods. 1 písm. a)
+Článok 4 písm. b) | Článok 4 ods. 1 písm. b)
+Článok 4 písm. c) prvá veta | Článok 4 ods. 1 písm. c)
+Článok 4 písm. c) druhá veta | Článok 4 ods. 2
+Články 5, 6 a 7 | Články 5, 6 a 7
+Článok 9 ods. 1 prvá veta | Článok 8 prvý odsek
+Článok 9 ods. 1 druhá veta | Článok 8 druhý odsek
+Článok 9 ods. 2 | Článok 1 ods. 4
+Článok 10 ods. 1 | —
+Článok 10 ods. 2 | Článok 9
+— | Článok 10
+— | Článok 11
+Článok 11 | Článok 12
+— | Príloha I
+— | Príloha II

@@ -10,6 +10,7 @@ and build use it. Add new browser assets to the explicit build allowlist.
 - Keep this website static and read-only. Browser requests must not call the local backend or run model analysis.
 - `data/catalogue.json` implements the self-contained v1 contract in `SCHEMA.md`. It contains the current real public export, which backend exports replace. Do not invent findings, translations, coverage, review completion, or legislation metadata.
 - Render source text safely as text nodes. Highlights must match an exact English passage substring. Publish only agent-reviewed supported findings.
+- Keep `severity: substantial` as a publication threshold. MVP impact proposals may be published after the independent model reviews without editorial approval, but must display `provisional` as preliminary and `needs_review` without an assigned level. Display assigned `high` as High potential impact, `moderate` as Moderate, and `limited` as Limited; a finding without an assigned level shows No impact rating yet. Do not infer a rating from the finding threshold.
 - English is a reading anchor, not a privileged official language. Preserve partial, unavailable, empty, and interrupted states.
 - No account tokens, model prompts, local paths, or remote credentials belong in the site, data exports, commits, or logs.
 - Keep `noindex` metadata and `robots.txt`. Link sharing is not authentication.

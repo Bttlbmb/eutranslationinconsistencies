@@ -15,7 +15,26 @@ const categories = new Set([
   'definition',
   'other'
 ]);
+const impactLevels = new Set(['high', 'moderate', 'limited']);
+const impactConfidence = new Set(['high', 'medium', 'low']);
+const impactFields = new Set([
+  'id', 'title', 'legal_anchor', 'finding_ids', 'impact_level', 'confidence',
+  'effect', 'rationale', 'uncertainty', 'rubric_version', 'assessed_at', 'review_state'
+]);
 const nonempty = (value) => typeof value === 'string' && value.trim().length > 0;
+function utcTimestamp(value) {
+  if (!nonempty(value)) return false;
+  const match = /^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})(?:\.\d+)?(?:Z|\+00:00)$/.exec(value);
+  if (!match) return false;
+  const date = new Date(value);
+  return Number.isFinite(date.getTime()) &&
+    date.getUTCFullYear() === Number(match[1]) &&
+    date.getUTCMonth() + 1 === Number(match[2]) &&
+    date.getUTCDate() === Number(match[3]) &&
+    date.getUTCHours() === Number(match[4]) &&
+    date.getUTCMinutes() === Number(match[5]) &&
+    date.getUTCSeconds() === Number(match[6]);
+}
 const utf8 = new TextDecoder('utf-8', { fatal: true });
 
 function requireValid(condition, message) {
@@ -165,6 +184,41 @@ export async function validateSnapshot(catalogue, readArchive) {
           `Variant source does not match its archived language in ${finding.id}`
         );
       }
+    }
+
+    // Impact is an optional, explicitly labeled model-review layer keyed to
+    // original finding IDs, not to English-quote display groups.
+    const families = act.impact_families === undefined ? [] : act.impact_families;
+    requireValid(Array.isArray(families), `Invalid impact families in ${act.id}`);
+    const familyIds = new Set();
+    const assignedFindings = new Set();
+    for (const family of families) {
+      requireValid(
+        family && typeof family === 'object' && !Array.isArray(family) &&
+          Object.keys(family).every((key) => impactFields.has(key)),
+        `Unexpected impact-family field in ${act.id}`
+      );
+      requireValid(
+        nonempty(family.id) && !familyIds.has(family.id) &&
+          [family.title, family.legal_anchor, family.effect, family.rationale,
+            family.uncertainty, family.rubric_version].every(nonempty) &&
+          (family.review_state === 'needs_review'
+            ? family.impact_level === null
+            : impactLevels.has(family.impact_level)) &&
+          impactConfidence.has(family.confidence) &&
+          ['confirmed', 'provisional', 'needs_review'].includes(family.review_state) &&
+          utcTimestamp(family.assessed_at),
+        `Invalid impact assessment in ${act.id}`
+      );
+      familyIds.add(family.id);
+      requireValid(
+        Array.isArray(family.finding_ids) && family.finding_ids.length > 0 &&
+          family.finding_ids.every(
+            (id) => nonempty(id) && findingIds.has(id) && !assignedFindings.has(id)
+          ) && new Set(family.finding_ids).size === family.finding_ids.length,
+        `Impact family refers to missing or repeated finding in ${act.id}/${family.id}`
+      );
+      family.finding_ids.forEach((id) => assignedFindings.add(id));
     }
   }
   return archives;
