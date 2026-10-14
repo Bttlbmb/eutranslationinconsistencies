@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T08:23:14.560818Z",
+  "generated_at": "2026-10-14T08:40:03.271596Z",
   "legislation": [
     {
       "id": "32000L0078",
@@ -4860,6 +4860,22 @@
           ]
         },
         {
+          "id": "impact-def142495eb94aca6b8020b8",
+          "title": "Disability absent from positive-action lists",
+          "legal_anchor": "Directive 2000/78/EC, Recital 26 and Articles 3(1), 7(1)–(2), read with Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A vocational-training programme reserves places for disabled applicants to remedy employment disadvantages. An excluded applicant challenges that eligibility rule, and the provider invokes positive action. An exhaustive reading of the Estonian recital would withhold its express support for disability-related measures and organisations.",
+          "rationale": "Estonian Recital 26 omits disability from both illustrative lists. Yet Estonian Article 7(1) permits Member States to maintain or adopt measures preventing or compensating disadvantages connected with any Article 1 ground, including disability. Article 7(2) separately preserves disability-related measures for integration into the working environment. An exhaustive reading of the recital therefore cannot itself remove the operative permission. The proposed eligibility rule still needs a valid national-law basis and must meet applicable conditions. Article 2’s routes for indirect discrimination and necessary national-law measures do not automatically justify disability-exclusive eligibility.\nCounterreading: German, French and Finnish Recital 26 expressly include disability, and Estonian Article 7 covers it without a disability exclusion. Reading the Estonian recital alongside those equally authoritative versions and the operative text strongly favours inclusion.",
+          "uncertainty": "Article 7 expressly permits qualifying measures against disability disadvantage; whether this programme has a valid national-law basis and satisfies applicable limits remains case-specific. Recital 26 alone cannot exclude disability from that permission. No changed legal outcome follows from the omission on the facts established here.",
+          "assessed_at": "2026-10-14T08:35:17.767831Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "06dcde9453416711d358b187"
+          ]
+        },
+        {
           "id": "impact-f45b236be036c638fecd7b0e",
           "title": "Teaching appointments outside schools",
           "legal_anchor": "Directive 2000/78/EC, Article 15(2), read with Articles 2, 4(1)–(2) and 7(1).",
@@ -5212,6 +5228,22 @@
           ]
         },
         {
+          "id": "impact-d045375889e62ac8d8a945f4",
+          "title": "Access to other occupational benefits",
+          "legal_anchor": "Directive 2000/78/EC, Articles 6(2), 6(1) and 2(2); application also depends on the Directive's scope provisions.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An employer-linked sickness-benefit scheme provides neither retirement nor invalidity benefits and excludes new members above age 50. National law invokes Article 6(2), and no sex discrimination results. The proposed broader reading would treat access to this scheme as eligible for the specific exception.",
+          "rationale": "Danish refers generally to access to occupational social security schemes without expressly specifying retirement or invalidity benefits. Reading access to include benefit entitlement can resolve the admission-versus-entitlement issue, but does not itself restrict the benefit categories. The different-employee-age clause elaborates access conditions, and the actuarial limb does not independently justify the standalone admission ban. Article 6(1) remains a possible justification route. More fundamentally, the available extracts do not establish whether the proposed sickness scheme is governed by the Directive, so even the conditional change in exemption eligibility remains unresolved.\nCounterreading: Danish 'adgang' can encompass access to benefits as well as initial membership. German, French and Finnish expressly connect the exception to retirement or invalidity benefits, supporting a corresponding limitation when interpreting Danish. English's admission limb can itself raise an attachment question about the benefit qualification. The equally authoritative versions therefore require a contextual interpretation, rather than treating the Danish general wording or English formulation as decisive.",
+          "uncertainty": "The available text contains Articles 2 and 6 but not the scope provisions needed to establish coverage of this different benefit category. No conclusion about an exclusion under those provisions, or about a resulting violation, is established.\nUnresolved: Does the Directive cover the proposed sickness-benefit arrangement, and is that arrangement legally distinct from invalidity provision? The relevant scope text and scheme characteristics are needed before a changed exemption outcome can be established.",
+          "assessed_at": "2026-10-14T08:37:34.006203Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "b5d765d83cd3035125c4c88b"
+          ]
+        },
+        {
           "id": "impact-4029955815b1d4bda0666572",
           "title": "Conciliation is included without an appropriateness condition",
           "legal_anchor": "Directive 2000/78/EC, Article 9(1), subject to Article 9(3).",
@@ -5225,6 +5257,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "14e2c26c4c5aab2faa67fa31"
+          ]
+        },
+        {
+          "id": "impact-171fe573977c5748ece03213",
+          "title": "Integration and protection purposes",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(1), its opening justification rule and non-exhaustive examples, especially point (a).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "An age-based employment programme promotes older workers' vocational integration without pursuing a separate protective purpose. A strict conjunctive reading excludes it from the express example in point (a). The same issue arises for a protection-only measure.",
+          "rationale": "Lithuanian uses 'ir', joining integration and protection, where English uses 'or'. Even assuming both purposes are required within point (a), the introductory words make the examples non-exhaustive. A single-purpose measure can still satisfy the opening legitimate-aim and proportionality test. Conversely, inclusion in point (a) does not dispense with that test. Points (b) and (c) may also describe particular measures, but likewise create no unconditional exemption. A narrower illustration therefore does not itself establish a changed legal outcome.\nCounterreading: The conjunction can express complementary policy purposes without requiring two independently demonstrated aims in every case. German and French expressly use alternatives, while Dutch also joins the purposes conjunctively. All versions have equal authority. The non-exhaustive structure and common opening test strongly support an interpretation that preserves justification for a legitimate single-purpose measure.",
+          "uncertainty": "The text does not establish that exclusion from point (a) changes eligibility for justification, an evidential burden, or an entitlement. A concrete measure's legality depends on its objective and means.\nUnresolved: What legally operative consequence follows from exclusion from point (a) when the same measure remains subject to the same general justification test? No such consequence is established.",
+          "assessed_at": "2026-10-14T08:37:34.005703Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "a24c072e461a1e568f31b4b6"
           ]
         },
         {
@@ -5273,6 +5321,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "2faa0ddca91b97896d5b5095"
+          ]
+        },
+        {
+          "id": "impact-a7c95df685c326d0fabe880f",
+          "title": "Unattached organisational purpose condition",
+          "legal_anchor": "Directive 2000/78/EC, Recital 26 and Articles 3(1) and 7(1), read with Article 2.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "A vocational programme combines general training with targeted eligibility intended to compensate for a protected group's employment disadvantage. A challenger argues that the recital additionally requires promotion of that group's special needs to be the programme's main objective. The programme's remedial purpose and satisfaction of that additional test could differ.",
+          "rationale": "Slovenian Recital 26 retains the general protection for disadvantage-remedying measures but omits the express organisational example. Its final plural relative clause has no clear organisational antecedent and might be read as adding a main-purpose test to measures. Slovenian Article 7(1), however, permits Member States to maintain or adopt qualifying measures against disadvantages connected with Article 1 grounds without an express provider or measure main-purpose test. The recital cannot independently add that restriction to the operative permission. A programme still needs a valid national-law basis and must satisfy applicable limits.\nCounterreading: German, French and Finnish Recital 26 attach the main-purpose condition to organisations. The Slovenian opening already covers remedial measures generally. Reading the clause as preserving that example or describing the remedial purpose avoids imposing a universal extra condition.",
+          "uncertainty": "The final clause’s referent remains unclear, but Article 7 permits qualifying disadvantage-remedying measures without an express main-purpose condition. Whether national law authorises this particular programme and whether it satisfies applicable limits remain case-specific. The recital wording alone does not establish a changed legal outcome.",
+          "assessed_at": "2026-10-14T08:35:17.768042Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "172f78219f2d0b43dded4572"
           ]
         },
         {
@@ -5337,6 +5401,38 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "1a59a8370e9944fb9d352918"
+          ]
+        },
+        {
+          "id": "impact-a5cf8a268891d19bae9cc5f6",
+          "title": "Admission before pension entitlement",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Article 6(1), including point (b), and Article 2(2)(a).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An occupational pension scheme within the Directive's scope admits employees only from age 25, independently of its benefit-entitlement age. National law exercises the Article 6(2) option and the condition causes no sex discrimination. Assume the disputed reading excludes this distinct admission condition from conditions for receiving benefits.",
+          "rationale": "Finnish expressly describes age limits as conditions for receiving pension or invalidity benefits. If that wording excludes standalone admission conditions, the membership rule loses the specific Article 6(2) protection. The subsequent employee-group wording remains linked to those benefit conditions; the actuarial limb covers calculations rather than admission bans. Article 6(1)(b) may describe a minimum age for an employment advantage, but does not remove the opening justification requirements. The resulting need for another justification is a concrete change under the specific exception, without establishing an actual violation.\nCounterreading: A condition for receiving benefits can include prior membership, even where admission and payment occur at different ages. German, French and Dutch expressly distinguish membership from benefit entitlement and support that inclusive interpretation. Estonian and Swedish emphasize obtaining or qualifying for benefits, supporting the linguistic plausibility of the Finnish formulation. All versions have equal authority; the conditional effect does not establish that a benefit-only interpretation would prevail.",
+          "uncertainty": "The hypothetical distinction must exist in the particular scheme: a different pension-payment age alone does not prove that membership is legally separate from benefit eligibility. National implementation, the sex-discrimination proviso, general justification and any applicable Article 2(5) measure also matter to actual legality.\nUnresolved: Does the actual admission rule regulate membership separately, or operate as a condition for eventual benefit receipt? The supported conditional consequence is confined to a genuinely separate admission rule.",
+          "assessed_at": "2026-10-14T08:37:34.006258Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "c414111c238e59fbf2e8e612"
+          ]
+        },
+        {
+          "id": "impact-f2626db0c3b3d4934e940904",
+          "title": "Pension scheme admission ages",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Article 6(1), including point (b), and Article 2(2)(a).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An occupational pension scheme within the Directive's scope refuses membership before age 25, while separately setting the age for pension entitlement. National law exercises the Article 6(2) option, and the admission rule causes no sex discrimination. Assume the disputed reading excludes this distinct admission condition from the pension-entitlement wording.",
+          "rationale": "Croatian refers to retirement and acquisition of pension rights without expressly identifying admission. If that narrower reading prevails, the standalone admission condition loses Article 6(2)'s specific protection and needs another justification. The reference to different ages for employee groups elaborates the preceding category; it does not independently exempt all age restrictions. The actuarial limb concerns calculations, not a standalone membership exclusion. Article 6(1)(b) can encompass minimum ages for employment advantages, but remains subject to the opening legitimate-aim and proportionality requirements. The changed availability of the specific exception supports a moderate conditional effect without establishing that the restriction ultimately violates the Directive.\nCounterreading: Admission can be understood as an initial condition for acquiring pension rights. German expressly distinguishes membership from benefit receipt, French distinguishes adhesion from benefit eligibility, and Dutch distinguishes admission age from benefit-entitlement age. These equally authoritative texts support including admission when interpreting Croatian in context. Conversely, Slovenian uses retirement wording similar to Croatian. The multilingual text therefore supports harmonization but does not conclusively establish which reading would prevail. The occupational-scheme qualification also weighs against treating the Croatian retirement wording as a standalone authorization for compulsory dismissal.",
+          "uncertainty": "The scenario is hypothetical. Application requires national exercise of the option, absence of sex discrimination, and a genuine distinction between admission and pension entitlement. Actual legality also depends on general justification and any applicable Article 2(5) measure.\nUnresolved: For any actual scheme, does the admission condition independently regulate membership, and can it satisfy Article 6(1)? No compulsory-termination outcome is established by the quoted provisions.",
+          "assessed_at": "2026-10-14T08:37:34.004547Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "97d630328f9c116030e2e846"
           ]
         },
         {
@@ -5532,6 +5628,38 @@
           ]
         },
         {
+          "id": "impact-e600f146d22aa68cfaf7d9d3",
+          "title": "Membership and pension qualification",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(2), read with Article 6(1), including point (b), and Article 2(2)(a).",
+          "impact_level": "moderate",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An occupational pension scheme within the Directive's scope excludes new members below age 25 while separately specifying pension-entitlement conditions. National law exercises the Article 6(2) option and no sex discrimination results. Assume the disputed reading treats the membership restriction as outside receiving or qualifying for benefits.",
+          "rationale": "Latvian describes ages for receiving or qualifying for pension or invalidity benefits without separately naming scheme admission. Under the assumed narrower reading, the admission restriction loses the specific Article 6(2) exception. The employee-group clause remains an elaboration of the preceding age conditions, and the calculation limb does not independently protect a membership ban. Article 6(1)(b) expressly contemplates minimum ages for employment advantages, but remains conditional on the general justification test. The supported change is therefore the availability of the specific exception, not an automatic conclusion that the admission rule is unlawful.\nCounterreading: Qualifying for a pension can include admission to the scheme through which rights accrue. German, French and Dutch expressly distinguish admission from benefit entitlement and support that harmonizing interpretation. Spanish also frames the exception through access or qualification for benefits, showing that Latvian's formulation is not isolated. Equal authority requires reconciling these formulations; the text does not establish that the restrictive Latvian reading would ultimately prevail.",
+          "uncertainty": "This is a hypothetical boundary case. Actual application depends on the scheme's membership and benefit rules, national exercise of the option, and the sex-discrimination proviso. General justification or an applicable Article 2(5) measure could preserve the restriction's legality.\nUnresolved: For a particular scheme, is the entry age a separate membership condition or itself a condition of qualifying for benefits? The conditional assessment assumes the former and does not decide the scheme's ultimate legality.",
+          "assessed_at": "2026-10-14T08:37:34.006142Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "b090df671f8613dfabd05e46"
+          ]
+        },
+        {
+          "id": "impact-e401c36b636c96bcc7a5140b",
+          "title": "Treatment contrary to Treaty classification",
+          "legal_anchor": "Directive 2000/78/EC, Recital 13 and Articles 3(1)(c) and 3(3), read with the Treaty remuneration classification.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Assume a private occupational pension qualifies as remuneration under the Treaty pay definition but an administrator labels it non-income. It is not a State or similar-scheme payment. A claimant alleges less favourable treatment because of sexual orientation, and the scheme invokes the Hungarian recital to seek exclusion despite the assumed pay classification.",
+          "rationale": "The Hungarian wording can be read as referring to treatment contrary to the Treaty pay definition, rather than classification according to it. But Article 3(1)(c) expressly includes pay within employment and working conditions, and Article 3(3) excludes payments from State or similar schemes. Under the scenario’s assumptions, an erroneous administrator label cannot displace the Treaty classification or itself remove a private occupational pension from Article 3(1)(c). The recital therefore has no demonstrated route to a different coverage result.\nCounterreading: German, French and Finnish versions use the Treaty standard to distinguish remuneration from other benefits. Their shared classification function supports reading the Hungarian recital consistently with the operative pay rule.",
+          "uncertainty": "An actual pension’s Treaty pay status and whether it is a private occupational or State/similar-scheme payment must be established. Article 3(3) excludes the latter. The assumed administrative label alone does not create a changed legal outcome.",
+          "assessed_at": "2026-10-14T08:35:17.768152Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "0f7950faa70806d41271f893"
+          ]
+        },
+        {
           "id": "impact-3814399e18783ad781b02228",
           "title": "School employment beyond recruitment",
           "legal_anchor": "Directive 2000/78/EC, Article 15(2), read with Articles 2, 4(1)–(2) and 7(1).",
@@ -5545,6 +5673,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "076a69c833b49329653214d8"
+          ]
+        },
+        {
+          "id": "impact-9a7e7624a33e5c052b986311",
+          "title": "Carers without dependants",
+          "legal_anchor": "Directive 2000/78/EC, Article 6(1), its opening justification rule and point (a).",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Special age-based employment conditions promote participation and protection for a middle-aged employee caring for a financially independent adult. Assume the employee falls outside the young and older worker categories and that 'personen ten laste' excludes this care relationship.",
+          "rationale": "Dutch identifies employees with dependants, whereas English identifies persons with caring responsibilities. On the assumed narrow reading, the carer loses express inclusion in point (a). However, 'onder meer' makes the examples non-exhaustive, and the opening rule continues to permit objectively and reasonably justified age distinctions using appropriate and necessary means. The listed categories confer no independent exemption. Points (b) and (c) may additionally describe particular age conditions without removing the general test. Neither the dependency distinction nor the employee/person distinction establishes a changed substantive outcome on its own.\nCounterreading: Dutch 'ten laste' can plausibly encompass responsibility for another person's care. German and Czech expressly describe care responsibilities, while French uses dependency wording. These equally authoritative formulations do not justify treating either English or a strictly financial Dutch meaning as controlling. The general justification rule further supports accommodating care-related measures outside the express example.",
+          "uncertainty": "Dependency may include practical care rather than only financial support. Even if the narrower meaning prevails, the legal consequence of exclusion from the illustration remains unestablished.\nUnresolved: Would exclusion from the illustrated group change any entitlement or justification despite the non-exhaustive opening rule? The quoted provisions establish no independent consequence.",
+          "assessed_at": "2026-10-14T08:37:34.006083Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "a55abb30dd0fc61827f3fb68"
           ]
         },
         {
@@ -5737,6 +5881,22 @@
           "rubric_version": "potential-impact-pilot-3",
           "finding_ids": [
             "4d48ab5def7cf6ae19f65cab"
+          ]
+        },
+        {
+          "id": "impact-2fea71e484c396d0134ea1a0",
+          "title": "State payments absorbed into scheme condition",
+          "legal_anchor": "Directive 2000/78/EC, Recital 13 and Articles 3(1)(a) and 3(3), read with the Treaty remuneration classification.",
+          "impact_level": null,
+          "confidence": "low",
+          "review_state": "needs_review",
+          "effect": "Assume a standalone State grant is offered to support access to employment, is not Treaty remuneration, and is paid outside any State or similar scheme, including social-protection schemes. A person is denied that grant on an Article 1 ground. The question is whether the grant denial itself falls within the Directive’s employment-access rule despite the narrower Latvian recital wording.",
+          "rationale": "Latvian Recital 13 attaches its paired negatives to scheme benefits, while German and French state a separate exclusion for State employment-support payments. Even if this narrowed the recital’s exclusion for standalone grants, omission from a recital exclusion does not establish inclusion within Article 3(1)(a). Latvian Article 3(3) independently excludes any payment connected with State or similar schemes, so scheme payments cannot supply a changed outcome. For a truly standalone grant, the remaining issue is whether denying that payment constitutes access to employment, rather than merely financial support related to employment. The present evidence does not settle that positive-scope question.\nCounterreading: German, French and Finnish versions express two independent exclusions. Read with the operative scope provisions, they favour a consistent exclusion of qualifying State support.",
+          "uncertainty": "A changed legal outcome would require both proof that the grant is genuinely outside Article 3(3) and a sound basis for placing its denial within Article 3(1)(a). Neither has been established. No scheme payment can be treated as covered merely because the Latvian recital differs.",
+          "assessed_at": "2026-10-14T08:35:17.768250Z",
+          "rubric_version": "potential-impact-pilot-3",
+          "finding_ids": [
+            "f2194a0f48a5408143bfdb84"
           ]
         },
         {
@@ -9925,7 +10085,7 @@
       "version": "2025-08-20",
       "version_label": "Consolidated text",
       "retrieved_at": "2026-10-14T07:28:02.313588+00:00",
-      "status": "partial",
+      "status": "analyzing",
       "subject": "",
       "languages": [
         {
@@ -10146,11 +10306,15 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 110,
-        "reviewed_units": 10,
+        "reviewed_units": 30,
         "total_languages": 23,
-        "reviewed_languages": 3,
+        "reviewed_languages": 7,
         "reviewed_language_codes": [
           "bg",
+          "cs",
+          "da",
+          "de",
+          "el",
           "fr"
         ]
       },
@@ -10802,6 +10966,566 @@
             ],
             "reviewed_at": "2026-10-14T08:20:58.777017Z"
           }
+        },
+        {
+          "id": "a53297f2950aedc134bf2a97",
+          "passage_id": "p0005",
+          "english_quote": "Folate contributes to maternal tissue growth during pregnancy",
+          "title": "Folate claim concerns embryonic rather than maternal tissue growth",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Czech describes a benefit to embryonic tissues, whereas English describes growth of the mother's tissues. This could change the biological benefit that a food's permitted health claim communicates.",
+          "variants": [
+            {
+              "language": "cs",
+              "language_name": "Czech",
+              "quote": "Folát přispívá k růstu zárodečných tkání během těhotenství",
+              "translation": "Folate contributes to the growth of embryonic tissues during pregnancy",
+              "explanation": "Czech describes a benefit to embryonic tissues, whereas English describes growth of the mother's tissues. This could change the biological benefit that a food's permitted health claim communicates.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:24:30.046915Z"
+          }
+        },
+        {
+          "id": "989eb00392e34b78a8c8330d",
+          "passage_id": "p0005",
+          "english_quote": "The claim can be used only for cocoa beverages (with cocoa powder) or for dark chocolate which provide at least a daily intake of 200 mg of cocoa flavanols with a degree of polymerisation 1-10 ( *5 ) .",
+          "title": "Cocoa beverages and dark chocolate link to a later historical exclusivity period",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For cocoa beverages and dark chocolate, English links to the five-year reservation beginning on 24 September 2013, while Czech links to the reservation beginning on 21 April 2015. This could alter the historical period during which use was reserved to Barry Callebaut Belgium NV. Both periods had expired by the supplied consolidation date.",
+          "variants": [
+            {
+              "language": "cs",
+              "language_name": "Czech",
+              "quote": "Toto tvrzení lze používat pouze u nápojů z kakaa (s kakaovým práškem) nebo u hořké čokolády, které zajišťují nejméně denní přívod 200 mg flavanolů z kakaa se stupněm polymerace 1–10 ( *6 ) .",
+              "translation": "This claim may be used only for cocoa beverages (with cocoa powder) or for dark chocolate which provide at least a daily intake of 200 mg of cocoa flavanols with a degree of polymerisation 1–10 ( *6 ) .",
+              "explanation": "For cocoa beverages and dark chocolate, English links to the five-year reservation beginning on 24 September 2013, while Czech links to the reservation beginning on 21 April 2015. This could alter the historical period during which use was reserved to Barry Callebaut Belgium NV. Both periods had expired by the supplied consolidation date.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:24:30.050256Z"
+          }
+        },
+        {
+          "id": "88646994508d1b7022376c9c",
+          "passage_id": "p0005",
+          "english_quote": "When the claim is used on food supplements and/or fortified foods information shall also be given to consumers not to exceed a supplemental daily intake of 5 g of EPA and DHA combined.",
+          "title": "Danish EPA/DHA warning may cover total daily intake",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For the DHA triglyceride claim and the DHA/EPA blood-pressure and triglyceride claims, English limits the 5 g warning to supplemental intake. Danish could require the warning to cover total daily intake, including ordinary foods, changing the information businesses must give consumers.",
+          "variants": [
+            {
+              "language": "da",
+              "language_name": "Danish",
+              "quote": "Når anprisningen anvendes for kosttilskud og/eller berigede fødevarer, skal forbrugerne desuden informeres om, at et dagligt indtag på 5 g EPA og DHA kombineret ikke bør overskrides.",
+              "translation": "When the claim is used for food supplements and/or fortified foods, consumers must additionally be informed that a daily intake of 5 g of EPA and DHA combined should not be exceeded.",
+              "explanation": "For the DHA triglyceride claim and the DHA/EPA blood-pressure and triglyceride claims, English limits the 5 g warning to supplemental intake. Danish could require the warning to cover total daily intake, including ordinary foods, changing the information businesses must give consumers.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:31:33.784122Z"
+          }
+        },
+        {
+          "id": "0a5be47a5c0ff8ff3ae3daf1",
+          "passage_id": "p0005",
+          "english_quote": "Authorised on 24.9.2013 restricted to the use of GlaxoSmithKline Services Unlimited and its affiliates, GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom, for a period of five years.",
+          "title": "Danish historical exclusive-use permission covers subsidiaries rather than affiliates",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For the reformulated acidic-drink claim, Danish could exclude parent or sister companies covered by the English reference to affiliates. This concerns eligibility during the historical five-year exclusive-use period, not a continuing exclusive right.",
+          "variants": [
+            {
+              "language": "da",
+              "language_name": "Danish",
+              "quote": "Godkendt den 24.9.2013 — må i en periode på fem år kun anvendes af GlaxoSmithKline Services Unlimited og selskabets datterselskaber, GSK House, 980 Great West Road, Brentford, TW89GS, Det Forenede Kongerige.",
+              "translation": "Authorised on 24.9.2013 — may, for a period of five years, be used only by GlaxoSmithKline Services Unlimited and the company's subsidiaries, GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom.",
+              "explanation": "For the reformulated acidic-drink claim, Danish could exclude parent or sister companies covered by the English reference to affiliates. This concerns eligibility during the historical five-year exclusive-use period, not a continuing exclusive right.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:31:33.785726Z"
+          }
+        },
+        {
+          "id": "7ae865d7789ac06a6908b8b3",
+          "passage_id": "p0005",
+          "english_quote": "From 21 July 2016 until 14 September 2019 the energy content of the food shall not be less than 200 kcal (840 kJ) and shall not exceed 400 kcal (1 680 kJ).",
+          "title": "Danish historical meal-replacement minimum contains a conflicting energy unit",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English states a historical minimum of 200 kcal with its equivalent in kJ. Danish instead gives 840 kcal in parentheses, creating uncertainty about the stated threshold. If treated as an operative minimum, that quantity would exceed the 400 kcal maximum, although the surrounding text strongly supports the 200 kcal reading.",
+          "variants": [
+            {
+              "language": "da",
+              "language_name": "Danish",
+              "quote": "Fra den 21. juli 2016 til den 14. september 2019 må energiindholdet i fødevaren ikke være mindre end 200 kcal (840 kcal) og må ikke overstige 400 kcal (1 680 kJ).",
+              "translation": "From 21 July 2016 until 14 September 2019, the energy content of the food must not be less than 200 kcal (840 kcal) and must not exceed 400 kcal (1 680 kJ).",
+              "explanation": "English states a historical minimum of 200 kcal with its equivalent in kJ. Danish instead gives 840 kcal in parentheses, creating uncertainty about the stated threshold. If treated as an operative minimum, that quantity would exceed the 400 kcal maximum, although the surrounding text strongly supports the 200 kcal reading.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:31:33.786454Z"
+          }
+        },
+        {
+          "id": "6bfd670c107665d36c61c6b4",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food which is at least a source of EPA and DHA as referred to in the claim SOURCE OF OMEGA-3 FATTY ACIDS as listed in the Annex to Regulation (EC) No 1924/2006.",
+          "title": "Heart-function claim names DPA instead of DHA in its eligibility condition",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "German names DPA where English names DHA in the qualifying composition requirement. This could change which foods qualify for the heart-function claim, although the German heading and consumer-information requirement consistently refer to EPA and DHA.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine EPA- bzw. DPA-Quelle gemäß der im Anhang der Verordnung (EG) Nr. 1924/2006 aufgeführten Angabe QUELLE VON OMEGA3-FETTSÄUREN erfüllen.",
+              "translation": "The claim may be used only for foods that meet the minimum requirements for a source of EPA or DPA, respectively, in accordance with the claim SOURCE OF OMEGA-3 FATTY ACIDS listed in the Annex to Regulation (EC) No 1924/2006.",
+              "explanation": "German names DPA where English names DHA in the qualifying composition requirement. This could change which foods qualify for the heart-function claim, although the German heading and consumer-information requirement consistently refer to EPA and DHA.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:35:11.387183Z"
+          }
+        },
+        {
+          "id": "cdc55c947ac0f9e0afd6bc1e",
+          "passage_id": "p0005",
+          "english_quote": "The claim can be used only for cocoa beverages (with cocoa powder) or for dark chocolate which provide at least a daily intake of 200 mg of cocoa flavanols with a degree of polymerisation 1-10 ( *5 ) .",
+          "title": "Cocoa beverages and chocolate link to a different exclusivity period",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English links beverages and chocolate to the five-year exclusive-use period beginning on 24 September 2013; German links them to the period beginning on 21 April 2015. This could change when competitors could historically use the claim. Both periods had expired by the supplied consolidation date.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Die Angabe darf nur bei Kakaogetränken (mit Kakaopulver) oder bei dunkler Schokolade verwendet werden, die mindestens eine tägliche Aufnahme von 200 mg Kakaoflavanolen mit einem Polymerisationsgrad von 1-10 liefern ( *6 ) .",
+              "translation": "The claim may be used only for cocoa beverages (with cocoa powder) or for dark chocolate that provide at least a daily intake of 200 mg of cocoa flavanols with a degree of polymerisation of 1-10 ( *6 ) .",
+              "explanation": "English links beverages and chocolate to the five-year exclusive-use period beginning on 24 September 2013; German links them to the period beginning on 21 April 2015. This could change when competitors could historically use the claim. Both periods had expired by the supplied consolidation date.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:35:11.388524Z"
+          }
+        },
+        {
+          "id": "eb469d32d6892e7964d8e4db",
+          "passage_id": "p0005",
+          "english_quote": "Creatine increases physical performance in successive bursts of short-term, high intensity exercise",
+          "title": "Creatine claim specifies explosive-strength training instead of successive exercise bursts",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "German ties the stated benefit to explosive-strength training, whereas English describes successive bursts of short-term, high-intensity exercise without specifying that training type. This could narrow the exercise contexts covered by the permitted German claim.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Kreatin erhöht die körperliche Leistung bei Schnellkrafttraining im Rahmen kurzzeitiger intensiver körperlicher Betätigung",
+              "translation": "Creatine increases physical performance in explosive-strength training as part of short-term intense physical exercise",
+              "explanation": "German ties the stated benefit to explosive-strength training, whereas English describes successive bursts of short-term, high-intensity exercise without specifying that training type. This could narrow the exercise contexts covered by the permitted German claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:35:11.389355Z"
+          }
+        },
+        {
+          "id": "e5d926eee028caf5065ef193",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim, information shall be given to the consumer that the beneficial effect is obtained by consuming 10 g of lactitol in one daily dose",
+          "title": "Lactitol consumer information omits the single-dose instruction",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires consumer information specifying 10 g in one daily dose. German specifies only a daily intake of 10 g, potentially allowing the required information to omit the restriction against divided doses.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Einnahme von 10 g Lactitol einstellt.",
+              "translation": "For the claim to be permitted, consumers must be informed that the beneficial effect is obtained with a daily intake of 10 g of lactitol.",
+              "explanation": "English requires consumer information specifying 10 g in one daily dose. German specifies only a daily intake of 10 g, potentially allowing the required information to omit the restriction against divided doses.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:35:11.390387Z"
+          }
+        },
+        {
+          "id": "3ccd96e99c7adb1a67e70645",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim information shall be given to the consumer that the claimed effect is obtained with a daily intake of at least 10 g of wheat bran fibre.",
+          "title": "Wheat-bran intake requirement measures bran instead of its fibre",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires information specifying at least 10 g of wheat-bran fibre; German specifies at least 10 g of wheat bran. Because bran also contains non-fibre constituents, the German statement could communicate a lower fibre intake for the intestinal-transit benefit.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Damit die Angabe zulässig ist, sind die Verbraucher darüber zu unterrichten, dass sich die positive Wirkung bei einer täglichen Aufnahme von mindestens 10 g Weizenkleie einstellt.",
+              "translation": "For the claim to be permitted, consumers must be informed that the beneficial effect is obtained with a daily intake of at least 10 g of wheat bran.",
+              "explanation": "English requires information specifying at least 10 g of wheat-bran fibre; German specifies at least 10 g of wheat bran. Because bran also contains non-fibre constituents, the German statement could communicate a lower fibre intake for the intestinal-transit benefit.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:35:11.390918Z"
+          }
+        },
+        {
+          "id": "c4dc74aa9a0e84e4c643b691",
+          "passage_id": "p0005",
+          "english_quote": "Authorised on 24.9.2013 restricted to the use of GlaxoSmithKline Services Unlimited and its affiliates, GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom, for a period of five years.",
+          "title": "Historical exclusive-use permission names affiliates versus subsidiaries",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes affiliates, potentially encompassing related companies beyond subsidiaries; German specifies subsidiaries. This could narrow the beneficiaries of the historical exclusive-use permission for the reformulated-drink claim. The restriction had expired by the supplied consolidation date.",
+          "variants": [
+            {
+              "language": "de",
+              "language_name": "German",
+              "quote": "Zugelassen am 24.9.2013, für einen Zeitraum von fünf Jahren beschränkt auf die Verwendung durch GlaxoSmithKline Services Unlimited und die dazugehörigen Tochterunternehmen, GSK House, 980 Great West Road, Brentford, TW89GS, Vereinigtes Königreich.",
+              "translation": "Authorised on 24.9.2013, restricted for a period of five years to use by GlaxoSmithKline Services Unlimited and its subsidiaries, GSK House, 980 Great West Road, Brentford, TW89GS, United Kingdom.",
+              "explanation": "English includes affiliates, potentially encompassing related companies beyond subsidiaries; German specifies subsidiaries. This could narrow the beneficiaries of the historical exclusive-use permission for the reformulated-drink claim. The restriction had expired by the supplied consolidation date.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:35:11.391435Z"
+          }
+        },
+        {
+          "id": "8c12275875ee0589ed91bcf5",
+          "passage_id": "p0005",
+          "english_quote": "When the claim is used on food supplements and/or fortified foods information shall also be given to consumers not to exceed a supplemental daily intake of 5 g of EPA and DHA combined.",
+          "title": "Greek EPA and DHA warnings omit the supplemental-intake qualification",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For the three triglyceride and blood-pressure claims, Greek could require advice limiting total daily EPA and DHA intake, including ordinary foods. English expressly limits the warning to supplemental intake.",
+          "variants": [
+            {
+              "language": "el",
+              "language_name": "Greek",
+              "quote": "Όταν ο ισχυρισμός χρησιμοποιείται για συμπληρώματα διατροφής και/ή εμπλουτισμένα τρόφιμα, θα πρέπει επίσης να παρέχεται στους καταναλωτές η πληροφορία ότι δεν πρέπει να υπερβαίνουν την ημερήσια πρόσληψη 5 g EPA και DHA σε συνδυασμό.",
+              "translation": "When the claim is used for food supplements and/or fortified foods, consumers should also be informed that they must not exceed a daily intake of 5 g of EPA and DHA combined.",
+              "explanation": "For the three triglyceride and blood-pressure claims, Greek could require advice limiting total daily EPA and DHA intake, including ordinary foods. English expressly limits the warning to supplemental intake.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:39:40.861838Z"
+          }
+        },
+        {
+          "id": "ed0d94f92235cff1c19a9a79",
+          "passage_id": "p0005",
+          "english_quote": "Warning of choking to be given for people with swallowing difficulties or when ingesting with inadequate fluid intake — advice on taking with plenty of water to ensure substance reaches stomach.",
+          "title": "Greek fibre warnings omit the expressly named choking hazard",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly requires a choking warning. Greek could permit a general swallowing caution accompanied by water advice, changing the required warning content for glucomannan, guar gum, HPMC and pectins.",
+          "variants": [
+            {
+              "language": "el",
+              "language_name": "Greek",
+              "quote": "Θα πρέπει να παρέχεται προειδοποίηση για τα άτομα με δυσκολίες κατάποσης ή σε περίπτωση κατανάλωσης χωρίς επαρκή πρόσληψη υγρών — με την οποία θα συνιστάται η λήψη μαζί με επαρκή ποσότητα νερού ώστε να εξασφαλίζεται ότι η ουσία φθάνει στο στομάχι.",
+              "translation": "A warning should be provided for people with swallowing difficulties or in the event of consumption without adequate fluid intake — recommending that the substance be taken with a sufficient quantity of water to ensure that it reaches the stomach.",
+              "explanation": "English expressly requires a choking warning. Greek could permit a general swallowing caution accompanied by water advice, changing the required warning content for glucomannan, guar gum, HPMC and pectins.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:39:40.879293Z"
+          }
+        },
+        {
+          "id": "dddfb0d44235e3d5c606991a",
+          "passage_id": "p0005",
+          "english_quote": "The claim may be used only for food which is high in that fibre as referred to in the claim HIGH FIBRE as listed in the Annex to Regulation (EC) No 1924/2006.",
+          "title": "Greek wheat-bran condition refers to fibre generally",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For the wheat-bran claim concerning increased faecal bulk, Greek could allow total dietary fibre to satisfy the threshold. English expressly requires a high content of wheat-bran fibre itself.",
+          "variants": [
+            {
+              "language": "el",
+              "language_name": "Greek",
+              "quote": "Ο ισχυρισμός μπορεί να χρησιμοποιηθεί μόνο για τρόφιμα που έχουν υψηλή περιεκτικότητα σε ίνες όπως αναφέρεται στον ισχυρισμό ΥΨΗΛΗ ΠΕΡΙΕΚΤΙΚΟΤΗΤΑ ΣΕ ΕΔΩΔΙΜΕΣ ΙΝΕΣ, όπως αυτός παρατίθεται στο παράρτημα του κανονισμού (ΕΚ) αριθ. 1924/2006.",
+              "translation": "The claim may be used only for foods that have a high fibre content as referred to in the claim HIGH DIETARY FIBRE CONTENT, as listed in the Annex to Regulation (EC) No 1924/2006.",
+              "explanation": "For the wheat-bran claim concerning increased faecal bulk, Greek could allow total dietary fibre to satisfy the threshold. English expressly requires a high content of wheat-bran fibre itself.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:39:40.893713Z"
+          }
+        },
+        {
+          "id": "b564c0fcea2b1d3e32b0aedb",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim, information shall be given to the consumer that the beneficial effect is obtained with a single serving of 10 g of lactulose per day.",
+          "title": "Greek lactulose advice omits the single-serving requirement",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Greek could permit instructions dividing the daily 10 g intake into several doses. English requires consumers to be told that the effect is obtained with one daily serving of 10 g.",
+          "variants": [
+            {
+              "language": "el",
+              "language_name": "Greek",
+              "quote": "Για να χρησιμοποιηθεί ο ισχυρισμός αυτός, θα πρέπει να παρέχεται στον καταναλωτή η πληροφορία ότι τα ευεργετικά αποτελέσματα εξασφαλίζονται με την ημερήσια πρόσληψη 10 g λακτουλόζης.",
+              "translation": "In order to use this claim, the consumer should be informed that the beneficial effects are obtained with a daily intake of 10 g of lactulose.",
+              "explanation": "Greek could permit instructions dividing the daily 10 g intake into several doses. English requires consumers to be told that the effect is obtained with one daily serving of 10 g.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:39:40.898505Z"
+          }
+        },
+        {
+          "id": "57aeeda7293a166fa11b8bca",
+          "passage_id": "p0005",
+          "english_quote": "In order to bear the claim information shall be given to the consumer that the beneficial effect is obtained by consuming 4 g of HPMC as part of the meal.",
+          "title": "Greek HPMC blood-glucose advice adds daily consumption",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Greek describes daily consumption of 4 g with a meal, potentially requiring advice for a daily regimen. English connects the effect to taking 4 g with the relevant meal without specifying daily repetition.",
+          "variants": [
+            {
+              "language": "el",
+              "language_name": "Greek",
+              "quote": "Για να χρησιμοποιηθεί ο ισχυρισμός αυτός, θα πρέπει να παρέχεται στον καταναλωτή η πληροφορία ότι τα ευεργετικά αποτελέσματα εξασφαλίζονται με την ημερήσια πρόσληψη 4 g HPMC ως μέρος του γεύματος.",
+              "translation": "In order to use this claim, the consumer should be informed that the beneficial effects are obtained with a daily intake of 4 g of HPMC as part of the meal.",
+              "explanation": "Greek describes daily consumption of 4 g with a meal, potentially requiring advice for a daily regimen. English connects the effect to taking 4 g with the relevant meal without specifying daily repetition.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:39:40.904152Z"
+          }
+        },
+        {
+          "id": "6b245639129944f074720c4a",
+          "passage_id": "p0005",
+          "english_quote": "Information shall be given to the consumer that the beneficial effect is obtained with a daily intake of 200 mg of cocoa flavanols.",
+          "title": "Greek cocoa dosage advice names flavonols instead of flavanols",
+          "category": "definition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Greek repeatedly names flavonols where English names flavanols, potentially changing the compounds counted toward the 200 mg requirement and identified in consumer advice. The Greek reference to a flavanol-rich extract supports harmonization but does not eliminate the inconsistency.",
+          "variants": [
+            {
+              "language": "el",
+              "language_name": "Greek",
+              "quote": "Ο καταναλωτής θα πρέπει να πληροφορείται ότι τα ευεργετικά αποτελέσματα εξασφαλίζονται με την ημερήσια πρόσληψη 200 mg φλαβονολών κακάου.",
+              "translation": "The consumer should be informed that the beneficial effects are obtained with a daily intake of 200 mg of cocoa flavonols.",
+              "explanation": "Greek repeatedly names flavonols where English names flavanols, potentially changing the compounds counted toward the 200 mg requirement and identified in consumer advice. The Greek reference to a flavanol-rich extract supports harmonization but does not eliminate the inconsistency.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:39:40.913528Z"
+          }
+        },
+        {
+          "id": "346d586f448c7fe8fc693631",
+          "passage_id": "p0005",
+          "english_quote": "The claim can be used only for cocoa beverages (with cocoa powder) or for dark chocolate which provide at least a daily intake of 200 mg of cocoa flavanols with a degree of polymerisation 1-10 ( *5 ) .",
+          "title": "Greek cocoa wording may limit the dark-chocolate alternative to drinks",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly includes dark chocolate as a separate eligible food. Greek could restrict this alternative to drinks containing dark chocolate, potentially excluding solid dark chocolate.",
+          "variants": [
+            {
+              "language": "el",
+              "language_name": "Greek",
+              "quote": "Ο ισχυρισμός μπορεί να χρησιμοποιηθεί μόνο για ποτά με κακάο (με σκόνη κακάου) ή με μαύρη σοκολάτα που παρέχουν τουλάχιστον ημερήσια πρόσληψη 200 mg φλαβονολών κακάου με βαθμό πολυμερισμού 1-10 ( *5 ) .",
+              "translation": "The claim may be used only for drinks with cocoa (with cocoa powder) or with dark chocolate that provide at least a daily intake of 200 mg of cocoa flavonols with a degree of polymerisation of 1-10 ( *5 ) .",
+              "explanation": "English expressly includes dark chocolate as a separate eligible food. Greek could restrict this alternative to drinks containing dark chocolate, potentially excluding solid dark chocolate.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:39:40.916311Z"
+          }
+        },
+        {
+          "id": "40d8d41e1b21ea2c74127d6b",
+          "passage_id": "p0005",
+          "english_quote": "Sugar beet fibre | Sugar beet fibre contributes to an increase in faecal bulk | The claim may be used only for food which is high in that fibre as referred to in the claim HIGH FIBRE as listed in the Annex to Regulation (EC) No 1924/2006.",
+          "title": "Greek sugar-beet condition links the threshold to fibre generally",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Greek could allow dietary fibres other than sugar-beet fibre to count toward the high-fibre threshold. English expressly applies that threshold to sugar-beet fibre itself.",
+          "variants": [
+            {
+              "language": "el",
+              "language_name": "Greek",
+              "quote": "Ίνες ζαχαρότευτλου | Οι ίνες ζαχαρότευτλου συμβάλλουν στην αύξηση του όγκου των κοπράνων | Ο ισχυρισμός μπορεί να χρησιμοποιηθεί μόνο για τρόφιμα που έχουν υψηλή περιεκτικότητα στις ίνες οι οποίες αναφέρονται στον ισχυρισμό ΥΨΗΛΗ ΠΕΡΙΕΚΤΙΚΟΤΗΤΑ ΣΕ ΕΔΩΔΙΜΕΣ ΙΝΕΣ, όπως αναφέρεται στο παράρτημα του κανονισμού (ΕΚ) αριθ. 1924/2006.",
+              "translation": "Sugar beet fibre | Sugar beet fibre contributes to an increase in faecal bulk | The claim may be used only for foods that have a high content of the fibres referred to in the claim HIGH DIETARY FIBRE CONTENT, as referred to in the Annex to Regulation (EC) No 1924/2006.",
+              "explanation": "Greek could allow dietary fibres other than sugar-beet fibre to count toward the high-fibre threshold. English expressly applies that threshold to sugar-beet fibre itself.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:39:40.928266Z"
+          }
+        },
+        {
+          "id": "9e92218c84b31fb89cc15b6a",
+          "passage_id": "p0005",
+          "english_quote": "Sugar replacers, i.e. intense sweeteners; xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, erythritol, sucralose and polydextrose; D-tagatose and isomaltulose",
+          "title": "Greek sugar-replacer lists are illustrative rather than exhaustive",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For both sugar-replacer claims, Greek presents the listed substances as examples, while English identifies the permitted substances and class. Greek could therefore allow unlisted replacers that satisfy the remaining conditions.",
+          "variants": [
+            {
+              "language": "el",
+              "language_name": "Greek",
+              "quote": "Υποκατάστατα σακχάρου, π.χ. γλυκαντικά έντονης γλυκαντικής ικανότητας· ξυλιτόλη, σορβιτόλη, μανιτόλη, μαλτιτόλη, λακτιτόλη, ισομαλτιτόλη, ερυθριτόλη, σουκραλόζη και πολυδεξτρόζη· D-ταγατόζη και ισομαλτουλόζη",
+              "translation": "Sugar replacers, for example intense sweeteners; xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, erythritol, sucralose and polydextrose; D-tagatose and isomaltulose",
+              "explanation": "For both sugar-replacer claims, Greek presents the listed substances as examples, while English identifies the permitted substances and class. Greek could therefore allow unlisted replacers that satisfy the remaining conditions.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/EL/TXT/?uri=CELEX:02012R0432-20250820"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:39:40.930891Z"
+          }
         }
       ],
       "notes": [
@@ -10810,7 +11534,8 @@
         "Consolidated texts are documentation tools; the authentic legal acts are those published in the Official Journal.",
         "The selected official consolidation omits recitals. Analysis coverage concerns the preserved consolidation's articles, annexes and included notes; it is not a complete review of the act's historical preamble.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
-        "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
+        "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared.",
+        "1 candidate(s) failed exact source-quotation validation and were excluded from publication; local audit records retain these candidates."
       ],
       "impact_families": []
     },
@@ -12313,7 +13038,7 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 6302,
-        "reviewed_units": 1025,
+        "reviewed_units": 1095,
         "total_languages": 24,
         "reviewed_languages": 4,
         "reviewed_language_codes": [
@@ -15283,6 +16008,90 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-14T07:49:03.444987Z"
+          }
+        },
+        {
+          "id": "8c414b9177f4ae653de873a3",
+          "passage_id": "p0208",
+          "english_quote": "assess whether, and if so to what extent and how, the functioning and use of their services significantly contribute to a serious threat as referred to in paragraph 2, or are likely to do so;",
+          "title": "Significance threshold omitted from crisis contribution assessment",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 36(1)(a) in Portuguese omits the English requirement that the actual or likely contribution be significant. This could extend the assessment and consequential mitigation under point (b) to minor contributions, subject to the shared necessity and proportionality safeguards.",
+          "variants": [
+            {
+              "language": "pt",
+              "language_name": "Portuguese",
+              "quote": "Avaliar se e, em caso afirmativo, em que medida e como o funcionamento e a utilização dos seus serviços contribuem, ou são suscetíveis de contribuir, para uma ameaça grave a que se refere o n. o 2;",
+              "translation": "Assess whether and, if so, to what extent and how the functioning and use of their services contribute, or are likely to contribute, to a serious threat referred to in paragraph 2;",
+              "explanation": "Article 36(1)(a) in Portuguese omits the English requirement that the actual or likely contribution be significant. This could extend the assessment and consequential mitigation under point (b) to minor contributions, subject to the shared necessity and proportionality safeguards.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:34:30.339430Z"
+          }
+        },
+        {
+          "id": "b1d010834f79502fe37fc191",
+          "passage_id": "p0221",
+          "english_quote": "the role of each participant and the measures they are to put in place in preparation and once the crisis protocol has been activated;",
+          "title": "Preparatory crisis measures tied to protocol development",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 48(4)(b) in English covers measures preparing for activation generally. Portuguese ties the preparatory measures to drawing up the protocol. This could narrow the measures the Commission must seek to have specified, particularly readiness measures between completion of the protocol and activation.",
+          "variants": [
+            {
+              "language": "pt",
+              "language_name": "Portuguese",
+              "quote": "O papel de cada participante e as medidas que devem ser postas em prática na elaboração do protocolo de crise e assim que tenha sido ativado;",
+              "translation": "The role of each participant and the measures that must be put into practice during the drawing up of the crisis protocol and as soon as it has been activated;",
+              "explanation": "Article 48(4)(b) in English covers measures preparing for activation generally. Portuguese ties the preparatory measures to drawing up the protocol. This could narrow the measures the Commission must seek to have specified, particularly readiness measures between completion of the protocol and activation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:34:30.345759Z"
+          }
+        },
+        {
+          "id": "244edf40fd1828e1af1cfc05",
+          "passage_id": "p0239",
+          "english_quote": "(e) | support and promote the development and implementation of European standards, guidelines, reports, templates and code of conducts in cooperation with relevant stakeholders as provided for in this Regulation, including by issuing opinions or recommendations on matters related to Article 44, as well as the identification of emerging issues, with regard to matters covered by this Regulation.",
+          "title": "Board cooperation extends to all stakeholders",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Portuguese Article 63(1)(e) calls for cooperation with all stakeholders, while English specifies relevant stakeholders. This could require wider participation in the Board’s work and reduce its discretion to select participants, within the shared conditions governing that work.",
+          "variants": [
+            {
+              "language": "pt",
+              "language_name": "Portuguese",
+              "quote": "e) | Apoiar e promover a elaboração e a aplicação de normas europeias, diretrizes, relatórios, modelos e códigos de conduta, em cooperação com todas as partes interessadas, tal como previsto no presente regulamento, nomeadamente através da emissão de pareceres ou recomendações sobre as questões relacionadas com o artigo 44. o , bem como a identificação de questões emergentes, no que diz respeito às matérias abrangidas pelo presente regulamento.",
+              "translation": "e) | Support and promote the development and implementation of European standards, guidelines, reports, templates and codes of conduct, in cooperation with all stakeholders, as provided for in this Regulation, including by issuing opinions or recommendations on matters related to Article 44, as well as the identification of emerging issues, with regard to matters covered by this Regulation.",
+              "explanation": "Portuguese Article 63(1)(e) calls for cooperation with all stakeholders, while English specifies relevant stakeholders. This could require wider participation in the Board’s work and reduce its discretion to select participants, within the shared conditions governing that work.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022R2065"
+            }
+          ],
+          "review": {
+            "method": "Two independent Sol analyses; Astra evidence review",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-14T08:34:30.351033Z"
           }
         }
       ],
