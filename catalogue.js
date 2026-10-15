@@ -125,18 +125,15 @@ function completionBadges(act, summary) {
   status.title = detail;
   status.setAttribute('aria-label', `${label}. ${detail}`);
   append(row, reviewStatus(act, summary), status);
-  const awaiting = coverage.count - summary.assessedCount;
   const notStarted = coverage.total - coverage.count;
-  const progress = [awaiting ? `${number(awaiting)} assessed but awaiting a rating` : '',
-    notStarted && coverage.count ? `${number(notStarted)} not yet assessed` : ''].filter(Boolean).join(' · ');
-  if (progress) append(row, node('p', 'catalogue-assessment-progress', progress));
+  if (notStarted && coverage.count)
+    append(row, node('p', 'catalogue-assessment-progress', `${number(notStarted)} not yet assessed`));
   return row;
 }
 
 function renderImpactDistribution(act, summary) {
   const wrapper = node('div', 'catalogue-impact-distribution');
   append(wrapper, node('p', 'catalogue-impact-label', 'Potential impact'));
-  append(wrapper, node('p', 'catalogue-impact-definition', 'How much the legal outcome could change if this interpretation were accepted.'));
   const bar = node('div', 'catalogue-impact-bar');
   bar.setAttribute('role', 'img');
   bar.setAttribute('aria-label', `Potential impact among ${summary.count} published finding records: ${summary.distribution.map(segment => `${segment.label}: ${segment.count}`).join('; ')}.`);
