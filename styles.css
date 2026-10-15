@@ -907,6 +907,7 @@ summary {
   margin-top: 7px;
   font: 400 var(--comparison-text-size) / 1.55 var(--sans);
 }
+.explanation-gloss { font-weight: 500; }
 .english-anchor,
 .overlap-disclosure {
   padding: 12px 0;

@@ -20,6 +20,7 @@ for (const file of [
   'styles.css',
   'app.js',
   'model.js',
+  'explanation-glosses.js',
   'view.js',
   'favicon.svg',
   'robots.txt'

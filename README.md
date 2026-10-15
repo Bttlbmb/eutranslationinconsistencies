@@ -24,6 +24,8 @@ Check **Review and sources** for the full source title, version, coverage, sourc
 
 English is a reading reference and has no higher legal authority than the other official versions. Each language card keeps official English wording, the translation into English, and original-language wording visible together. Underlining marks mechanical wording differences between the two English quotations; it never assigns legal significance or impact. Quotes retain every source character. The findings are possible discrepancies reviewed by AI agents, not adjudicated legal errors. Original wording and translated wording are labelled separately.
 
+**Potential difference** adds short English glosses immediately after matched foreign quotations, for example “contractelor încheiate” (“contracts concluded”). The glosses are exact excerpts of the saved English translation; an ellipsis marks omitted intervening words. Existing inline meanings are retained without a duplicate gloss. The original explanation and all three full quotation blocks remain intact. Phrase alignments in `explanation-glosses.js` are tied to the act, finding and language and apply only while both the foreign phrase and English excerpts match the current evidence. New or changed quotations need an aligned entry; the reader never guesses a translation.
+
 The catalogue records each act's exact version, language counts, findings, and review coverage in `data/catalogue.json`; the collection can change when the backend exports another snapshot.
 
 Beside **Legislation**, the **Overall** summary shows the languages with the most and fewest published finding records, including ties. It compares only languages available in every fully completed act review, across those same acts; unfinished reviews stay outside this ranking. **Compare languages** opens all counts, including zeros, with the review scope. On narrow screens the summary moves below the heading.
@@ -53,6 +55,7 @@ Open http://127.0.0.1:4173 for the collection or http://127.0.0.1:4173/reader.ht
 | `styles.css` | Reading layout, source rows, quote cards, and small-screen rules. |
 | `app.js` | Selected act/finding/language, browser history, navigation, and reading panes. |
 | `model.js` | Pure grouping, source offsets, highlights, links, and completion labels. |
+| `explanation-glosses.js` | Evidence-bound phrase alignments for inline English glosses in explanations. |
 | `view.js` | Stateless DOM helpers, coverage panel, and source archive panel. |
 | `scripts/snapshot.mjs` | Public evidence validation and loading the exact bytes used by a build. |
 | `scripts/check.mjs` | Check the existing public snapshot without creating a build. |

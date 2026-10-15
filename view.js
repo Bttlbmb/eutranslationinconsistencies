@@ -1,7 +1,7 @@
 /** Stateless view helpers and source panels. All source wording uses textContent.
  * Navigation and selected-finding state stay in app.js; evidence rules stay in model.js.
  */
-import { officialURL, archiveURL } from './model.js';
+import { officialURL, archiveURL, explanationSegments } from './model.js?v=2';
 
 export function node(tag, className, text) {
   const element = document.createElement(tag);
@@ -58,6 +58,16 @@ export function wordingQuote(segments, className = '') {
       ? node('mark', 'wording-change', segment.text)
       : document.createTextNode(segment.text));
   return quote;
+}
+
+export function explanationParagraph(explanation, context) {
+  const paragraph = node('p');
+  for (const segment of explanationSegments(explanation, context)) {
+    paragraph.append(segment.gloss
+      ? node('span', 'explanation-gloss', segment.text)
+      : document.createTextNode(segment.text));
+  }
+  return paragraph;
 }
 
 /** Keep complete supporting evidence reachable through a single disclosure. */

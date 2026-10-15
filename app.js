@@ -17,7 +17,7 @@ import {
   overlappingFindings,
   selectedFromHash,
   selectionHash
-} from './model.js';
+} from './model.js?v=2';
 import {
   node,
   append,
@@ -26,8 +26,9 @@ import {
   prettyDate,
   plural,
   renderReviewSources,
-  wordingQuote
-} from './view.js';
+  wordingQuote,
+  explanationParagraph
+} from './view.js?v=2';
 import { actIntroduction, actSummary } from './catalogue-model.js';
 
 const $ = (selector) => document.querySelector(selector);
@@ -969,7 +970,10 @@ function renderComparison() {
         append(
           node('div', 'difference-explanation'),
           node('span', '', 'Potential difference'),
-          node('p', '', variant.explanation || detailExplanation)
+          explanationParagraph(variant.explanation || detailExplanation, {
+            act: act.id, finding: variant.finding_id || selected.id,
+            language: variant.language, quote: variant.quote, translation: variant.translation
+          })
         )
       );
       detail.append(card);

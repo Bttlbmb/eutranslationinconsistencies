@@ -1,6 +1,54 @@
 /** Pure reader rules shared by browser views and publication checks.
  * Grouping changes presentation only; source quotes and finding aliases survive.
  */
+import { explanationGlosses } from './explanation-glosses.js';
+
+const glossesByVariant = new Map();
+for (const gloss of explanationGlosses) {
+  const key = JSON.stringify([gloss.act, gloss.finding, gloss.language]);
+  if (!glossesByVariant.has(key)) glossesByVariant.set(key, []);
+  glossesByVariant.get(key).push(gloss);
+}
+
+/** Add English reading aids without altering any character of the reviewed explanation. */
+export function explanationSegments(explanation, { act, finding, language, quote, translation }) {
+  const original = String(explanation || '');
+  const entries = glossesByVariant.get(JSON.stringify([act, finding, language])) || [];
+  const available = entries.filter(entry => {
+    if (!quote?.normalize('NFC').toLowerCase().includes(entry.phrase.normalize('NFC').toLowerCase()) || !translation) return false;
+    let cursor = 0;
+    for (const part of entry.english) {
+      const index = translation.indexOf(part, cursor);
+      if (index < 0) return false;
+      cursor = index + part.length;
+    }
+    return true;
+  });
+  const byPhrase = new Map(available.map(entry => [entry.phrase, entry]));
+  const segments = [];
+  const seen = new Set();
+  const quoted = /[“„«]([^”»“]+)[”»“]|‘([^’]+)’|"([^"\n]+)"|(?<![\p{L}\p{N}])'([^'\n]+)'(?![\p{L}\p{N}])/gu;
+  let cursor = 0;
+  for (const match of original.matchAll(quoted)) {
+    const phrase = (match[1] || match[2] || match[3] || match[4]).trim();
+    const entry = byPhrase.get(phrase);
+    if (!entry || seen.has(phrase)) continue;
+    seen.add(phrase);
+    const end = match.index + match[0].length;
+    const after = original.slice(end);
+    // Existing inline explanations and parenthetical translations already do this job.
+    if (/^\s*[,;:]?\s*(?:meaning|which means|i\.e\.|that is)\b/iu.test(after)) continue;
+    const parenthetical = after.match(/^\s*\(([^)]*)\)/u)?.[1];
+    if (parenthetical && entry.english.every(part => parenthetical.includes(part))) continue;
+    segments.push({ text: original.slice(cursor, end), gloss: false });
+    segments.push({ text: ` (“${entry.english.join(' … ')}”)`, gloss: true });
+    cursor = end;
+  }
+  if (cursor < original.length || !segments.length)
+    segments.push({ text: original.slice(cursor), gloss: false });
+  return segments;
+}
+
 export function catalogueLegislation(catalogue) {
   if (catalogue?.schema_version !== 1 || !Array.isArray(catalogue.legislation)) {
     throw new Error('This collection uses an unsupported format.');
