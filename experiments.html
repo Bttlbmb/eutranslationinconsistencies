@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="description" content="Three small experiments on making multilingual EU legislation review more useful and affordable, with model, Codex and API results.">
+  <meta name="theme-color" content="#ffffff">
+  <title>AI review of EU language versions: three experiments · EU Translation Inconsistencies</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="stylesheet" href="./site-header.css?v=1">
+  <link rel="stylesheet" href="./experiments.css?v=1">
+</head>
+<body>
+  <a class="skip-link" href="#report">Skip to report</a>
+  <header class="site-header">
+    <a class="brand" href="./">EU Translation Inconsistencies</a>
+    <a class="collection-link" href="./">The collection <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="report">
+    <article>
+      <header class="report-header">
+        <p class="eyebrow">Research note <span aria-hidden="true">/</span> <time datetime="2026-10-15">15 October 2026</time></p>
+        <h1>AI review of EU language versions: three experiments</h1>
+        <p class="standfirst">Model choice, request layout and API costs for Directive 2009/24/EC.</p>
+      </header>
+
+      <div class="prose introduction">
+        <p>These experiments tested alternatives to the website’s usual procedure: two independent Sol scans followed by an Astra evidence review. The measurements covered supported issues, false positives, language coverage, cost and runtime.</p>
+        <p>In the API experiment, a Sol scan and Sol review with caching and selective extra review cost <strong>$1.63</strong>. Its final audit supported 43 issues, rejected seven and left two uncertain. All 22 target languages passed coverage checks. The other configurations and their limitations are set out below.</p>
+      </div>
+
+      <section class="report-section" aria-labelledby="setup-title">
+        <div class="section-heading"><span class="section-number" aria-hidden="true">Common setup</span><h2 id="setup-title">Source material and scoring</h2></div>
+        <div class="prose">
+          <p>All three experiments used the same preserved version of <a href="./reader.html#act=32009L0024">Directive 2009/24/EC on computer programs</a>, dated 23 April 2009: the complete English text and 22 other language versions. English served as a common reference; it has no higher legal authority.</p>
+          <p><strong>Baseline.</strong> The existing review used two Sol scans and the more capable Astra model at high reasoning effort for evidence review. It produced 36 published findings. Its recorded analysis window was about 32 minutes, including a stop and resume; its API-equivalent cost was estimated at $6.32 including review follow-ups. This exceeds the project’s $1–3 target, and repeating that workload across the catalogue creates a substantial time cost. It is useful as a high-effort comparison, but is not considered sustainable as the routine API configuration for this project.</p>
+          <p>There is no absolute answer key here. Later source audits supported 33 or 34 of the baseline’s 36 findings, depending on the audit. Both the baseline and the alternatives remain model judgments that can miss issues or misread the law.</p>
+          <p>Luna was the lower-cost model; Sol performed scans and reviews; Astra audited the results. A “scan” looks for differences; a reviewer checks its suggestions. Independent scans did not see each other’s answers. Every suggestion with valid source quotations received review, including suggestions found only once. Zero-candidate results also received a coverage review.</p>
+          <p>The Astra audits received all available language versions and claims with their producing setup hidden. The tables count distinct language-specific issues accepted by the trial reviewer, then classified by Astra: <strong>supported</strong> means the audit found a plausible, substantial change in legal meaning; <strong>false positive</strong> means it did not; <strong>uncertain</strong> means the evidence did not settle it. <strong>Coverage passed</strong> counts languages clearing the reviewer’s completeness check; it does not prove every issue was found. These are AI judgments, not human legal adjudication.</p>
+        </div>
+      </section>
+
+      <section class="report-section" aria-labelledby="models-title">
+        <div class="section-heading"><span class="section-number" aria-hidden="true">Experiment 01</span><h2 id="models-title">Models and number of scans</h2></div>
+        <div class="prose">
+          <p>The first test compared one, two or three Luna scans with one or two Sol scans. Discovery used medium reasoning effort; Sol review used high effort. Higher-count setups reused the earlier independent scans. These runs used the Codex subscription; dollar figures estimate API-equivalent cost from recorded usage.</p>
+          <p>The runtime column estimates running each setup on its own with two concurrent model calls, using saved call durations. It excludes the final Astra audit. Because the experiment shared scans and interleaved setups, these are scheduling estimates, not measured standalone elapsed times.</p>
+        </div>
+        <p class="timing-note"><strong>Recorded experiment time:</strong> 154 minutes for the model variants, 14 minutes for the Astra audit; 168 minutes from first model call to final audit result.</p>
+        <figure class="results"><figcaption>Model comparison · initial cycles</figcaption><div class="table-scroll" role="region" aria-label="Model comparison · initial cycles" tabindex="0"><table><thead><tr><th scope="col">Setup</th><th scope="col">Supported</th><th scope="col">False positives</th><th scope="col">Uncertain</th><th scope="col">Coverage passed</th><th scope="col">Estimated USD</th><th scope="col">Runtime estimate</th></tr></thead><tbody><tr><th scope="row">1 Luna scan + Sol review</th><td>22</td><td>3</td><td>0</td><td>10/22</td><td>$1.52</td><td>18.2 min</td></tr><tr><th scope="row">2 Luna scans + Sol review</th><td>28</td><td>6</td><td>0</td><td>11/22</td><td>$1.70</td><td>24.4 min</td></tr><tr><th scope="row">3 Luna scans + Sol review</th><td>28</td><td>6</td><td>0</td><td>8/22</td><td>$1.79</td><td>25.9 min</td></tr><tr><th scope="row">1 Sol scan + Sol review</th><td>43</td><td>8</td><td>1</td><td>16/22</td><td>$2.96</td><td>36.6 min</td></tr><tr><th scope="row">2 Sol scans + Sol review</th><td>47</td><td>8</td><td>2</td><td>19/22</td><td>$4.39</td><td>51.8 min</td></tr></tbody></table></div></figure>
+        <div class="prose">
+          <p><strong>Interpretation.</strong> Three Luna scans produced 28 supported issues, compared with 43 from one Sol scan. The two-Sol setup had four more supported issues at about 48% more estimated cost. A third Luna scan left the supported total at 28. Five false positives in the three-Luna setup had been found by at least two scans, so agreement alone would have accepted repeated errors.</p>
+        </div>
+      </section>
+
+      <section class="report-section" aria-labelledby="codex-title">
+        <div class="section-heading"><span class="section-number" aria-hidden="true">Experiment 02</span><h2 id="codex-title">Request layout and reviewer effort in Codex</h2></div>
+        <div class="prose">
+          <p>Each setup used one Sol scan and one Sol reviewer. Requests contained one, two or four target languages with their complete texts. Other variants reduced reviewer reasoning effort or requested shorter answers. Source text was not shortened. A coverage objection withheld confirmation for every language in that group.</p>
+        </div>
+        <p class="timing-note"><strong>Recorded experiment time:</strong> 95 minutes for the model variants, 11 minutes for the Astra audit; 106 minutes from first model call to final audit result.</p>
+        <figure class="results"><figcaption>Codex comparison · initial cycles</figcaption><div class="table-scroll" role="region" aria-label="Codex comparison · initial cycles" tabindex="0"><table><thead><tr><th scope="col">Setup</th><th scope="col">Supported</th><th scope="col">False positives</th><th scope="col">Uncertain</th><th scope="col">Coverage passed</th><th scope="col">Estimated USD</th><th scope="col">Runtime estimate</th></tr></thead><tbody><tr><th scope="row">One language at a time; high review</th><td>37</td><td>9</td><td>0</td><td>19/22</td><td>$2.93</td><td>22.4 min</td></tr><tr><th scope="row">Separate scans; review 4 languages together</th><td>37</td><td>6</td><td>0</td><td>14/22</td><td>$2.19</td><td>20.4 min</td></tr><tr><th scope="row">Scan and review 2 languages together</th><td>38</td><td>7</td><td>0</td><td>14/22</td><td>$2.02</td><td>16.0 min</td></tr><tr><th scope="row">Scan and review 4 languages together</th><td>32</td><td>7</td><td>0</td><td>10/22</td><td>$1.53</td><td>14.4 min</td></tr><tr><th scope="row">One language at a time; medium review</th><td>37</td><td>7</td><td>1</td><td>19/22</td><td>$2.60</td><td>14.0 min</td></tr><tr><th scope="row">One language at a time; shorter answers</th><td>38</td><td>17</td><td>1</td><td>22/22</td><td>$3.11</td><td>21.5 min</td></tr></tbody></table></div></figure>
+        <div class="prose">
+          <p><strong>Interpretation.</strong> Grouping four languages reduced estimated cost to $1.53, with ten languages confirmed under the group coverage rule. Medium reviewer effort retained a supported total of 37 and cost about 11% less than high effort. The shorter-answer variant produced more false positives and a higher estimated cost. The individual-language layout with medium review was selected for the API experiment.</p>
+        </div>
+      </section>
+
+      <section class="report-section" aria-labelledby="api-title">
+        <div class="section-heading"><span class="section-number" aria-hidden="true">Experiment 03</span><h2 id="api-title">API processing and caching</h2></div>
+        <div class="prose">
+          <p>Paid API calls ran with a $25 cap. Each setup used a Sol scan and separate Sol review at medium effort. Explicit caching put shared English text before variable target texts and candidates. Flex used lower-priority requests; Batch queued discovery and review as two successive jobs. Both applied a 50% processing discount at the recorded rates.</p>
+          <p>The fifth setup reused cached standard processing and added independent high-effort Sol review in four languages flagged for uncertainty or coverage gaps. High reviewers saw the source texts and candidates, but no earlier verdicts. Other coverage gaps received at most one fresh full-language scan and review. <strong>Unlike the first two tables, these results and prices include those follow-ups.</strong></p>
+        </div>
+        <p class="timing-note"><strong>Recorded experiment time:</strong> 63 minutes for the model variants, 18 minutes for the Astra audit; 81 minutes from first model call to final audit result.</p>
+        <figure class="results"><figcaption>API comparison · including bounded follow-ups</figcaption><div class="table-scroll" role="region" aria-label="API comparison · including bounded follow-ups" tabindex="0"><table><thead><tr><th scope="col">Setup</th><th scope="col">Supported</th><th scope="col">False positives</th><th scope="col">Uncertain</th><th scope="col">Coverage passed</th><th scope="col">API USD</th><th scope="col">Active phase time</th></tr></thead><tbody><tr><th scope="row">Standard API; automatic caching</th><td>41</td><td>8</td><td>2</td><td>21/22</td><td>$2.52</td><td>9.1 min</td></tr><tr><th scope="row">Standard API; shared English cached</th><td>41</td><td>8</td><td>1</td><td>22/22</td><td>$1.46</td><td>8.9 min</td></tr><tr><th scope="row">Flex; shared English cached</th><td>46</td><td>12</td><td>1</td><td>22/22</td><td>$0.96</td><td>10.3 min</td></tr><tr><th scope="row">Batch; shared English cached</th><td>40</td><td>9</td><td>2</td><td>22/22</td><td>$0.91</td><td>62.8 min</td></tr><tr><th scope="row">Cached API; extra review where flagged</th><td>43</td><td>7</td><td>2</td><td>22/22</td><td>$1.63</td><td>10.2 min</td></tr></tbody></table></div></figure>
+        <div class="prose">
+          <p><strong>Interpretation.</strong> Selective extra review recovered all 33 reference findings supported by Astra in this audit, plus ten further supported issues. Flex produced the most supported issues, but its follow-ups raised false positives from seven to twelve without increasing the supported total. Standard automatic caching still left Lithuanian coverage unconfirmed.</p>
+          <p>Batch’s initial cycle took about an hour; Flex’s took about seven minutes. These overlapping runs are not controlled latency measurements. The five setups together used <strong>$6.16</strong> of API processing across 204 calls, with reused calls charged only once. Batch follow-ups used standard processing; Flex follow-ups retained Flex pricing.</p>
+          <p>API runtimes add each setup’s observed initial and follow-up work periods, including Batch queueing. They exclude waits between phases while other setups ran. Up to four languages ran concurrently, and follow-ups shared a worker pool. These timings are therefore not directly comparable with the two-worker Codex estimates. The separate Astra audit is excluded from each row.</p>
+        </div>
+      </section>
+
+      <section class="report-section" aria-labelledby="limits-title">
+        <div class="section-heading"><span class="section-number" aria-hidden="true">Assessment</span><h2 id="limits-title">Limitations and next tests</h2></div>
+        <div class="prose">
+          <p>This is one short directive, with one fresh set of outputs for most setups. Each experiment had its own Astra audit. Those judgments vary, so comparisons within each table are more useful than a league table across all three.</p>
+          <p>The existing reports were rechecked as hypotheses. Passing coverage did not eliminate false positives or translation errors. Follow-ups replaced the corresponding trial results while preserving earlier attempts; they could lose previously supported issues. The experiment did not measure every issue that the models might have missed.</p>
+          <p>Cached Sol + Sol with selective high-effort review is a reasonable next configuration to test: $1.63, full confirmed coverage and recovery of all supported reference findings in this act. Flex also warrants further testing because of its lower cost. Both need a stronger final source check. A larger test should include several acts, repeated runs, longer texts and a separate evaluation set. The published review procedure has not changed.</p>
+        </div>
+      </section>
+
+      <details class="method-note">
+        <summary>Cost accounting and model settings</summary>
+        <p>The first two tables show initial cycles, without coverage follow-ups. Their prices are API-equivalent estimates from available Codex usage logs, with caching disabled for comparison; some failed attempts had no usage record. They are not amounts paid. The third table uses returned API usage at the rates recorded on 15 October 2026, including cache reads, writes and reasoning output; it has not been reconciled to an invoice.</p>
+        <p>Prices cover discovery and Sol evidence review. Impact assessment and the separate Astra benchmark audits are excluded. The audits used the existing Codex subscription, adding no API charge. Some runs were reused across setups; each table price represents running that setup on its own.</p>
+        <p>Charges depend on tokens, small pieces of text, in both requests and responses. The cached standard initial run had 248,850 cache-read tokens out of 540,308 input tokens. Repricing that same usage without caching gives $1.80, compared with its $1.33 recorded cost: about 26% less. This is a price calculation, not a second run.</p>
+        <p>Codex runtime estimates schedule discovery calls across two worker slots, then reviewer calls across two slots; they include the logged call durations but exclude startup and judging. API times sum observed active phases, rather than claiming an isolated standalone benchmark. Experiment totals are recorded first-call-to-audit windows, including orchestration gaps. The baseline’s 32-minute figure comes from its two analysis-job records and excludes importing and publication. Its review used six language groups, so workflow and concurrency also differ from the later trials.</p>
+        <p>Models: <code>gpt-6-luna</code>, <code>gpt-6.1-sol</code>, and <code>gpt-6-astra</code>. All discovery used medium effort. Sol review used high effort in experiment 1; experiment 2 varied it; experiment 3 used medium effort with the stated selective high-effort checks. Astra audits used high effort. Changes in message layout, new generations and scheduling mean this was not a perfectly isolated test of caching alone.</p>
+      </details>
+    </article>
+  </main>
+  <footer class="report-footer"><a href="./">Back to the legislation collection</a><p>Experimental AI review results. These are possible differences in meaning, not rulings that a language version is legally wrong.</p></footer>
+</body>
+</html>
