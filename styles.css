@@ -6,7 +6,7 @@
   --muted: #60656a;
   --line: #e0e1de;
   --accent: #346c9c;
-  --highlight: #f4f4f1;
+  --highlight: #c7e4fa;
   --highlight-soft: #f7f7f4;
   --selected-highlight: #edf4fa;
   --page-gutter: 24px;
@@ -489,17 +489,14 @@ summary {
 }
 .passage-highlight {
   padding: 1px 1px;
-  background: var(--highlight-soft);
+  background: var(--highlight);
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
   color: inherit;
   text-decoration: none;
 }
-.passage-highlight:hover {
-  background: var(--highlight);
-}
 .passage-highlight.selected {
-  background: var(--selected-highlight);
+  background: var(--highlight);
   box-shadow: inset 0 -2px var(--accent);
 }
 .reader-no-text {
@@ -889,7 +886,7 @@ summary {
 .english-reference-quote {
   margin-top: 7px;
 }
-.wording-change { color: inherit; background: var(--selected-highlight); text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 4px; }
+.wording-change { color: inherit; background: var(--highlight); text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 4px; }
 .translation-label,
 .difference-explanation > span {
   display: block;
