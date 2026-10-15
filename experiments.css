@@ -52,7 +52,10 @@ td:nth-last-child(2) { font-weight: 600; }
 .thinking-table th:first-child { width: 26%; }
 .thinking-cost-table td:nth-last-child(2) { font-weight: 400; }
 .thinking-cost-table td:nth-child(6) { font-weight: 600; }
-.experiment-detail { max-width: none; }
+.thinking-severity-table { min-width: 580px; }
+.thinking-severity-table th:first-child { width: 48%; }
+.thinking-severity-table td { font-weight: 400; }
+.method-note.experiment-detail { max-width: none; }
 .timing-note { color: var(--muted); font-size: 13px; line-height: 1.6; margin: 22px 0 14px; max-width: 730px; font-variant-numeric: tabular-nums; }
 tbody tr:last-child th, tbody tr:last-child td { border-bottom: 0; }
 .method-note { margin: 40px 0 0; max-width: 760px; padding: 24px; background: #f7f8f6; border-top: 1px solid var(--line); font-size: 13px; line-height: 1.65; color: var(--muted); }
@@ -89,7 +92,7 @@ code { font-size: .92em; overflow-wrap: anywhere; }
   .results { break-inside: avoid; }
   .table-scroll { overflow: visible; }
   table { min-width: 0; font-size: 9pt; }
-  .thinking-table { min-width: 0; }
+  .thinking-table, .thinking-severity-table { min-width: 0; }
   th, td { padding: 8px 6px; }
   .method-note { font-size: 9pt; }
 }
