@@ -1,0 +1,77 @@
+EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS (EL) 2024/3228,
+19. detsember 2024,
+millega tunnistatakse kehtetuks määrus (EL) nr 524/2013 ning muudetakse määrusi (EL) 2017/2394 ja (EL) 2018/1724 seoses Euroopa internetipõhise vaidluste lahendamise platvormi tegevuse lõpetamisega
+(EMPs kohaldatav tekst)
+
+EUROOPA PARLAMENT JA EUROOPA LIIDU NÕUKOGU,
+
+võttes arvesse Euroopa Liidu toimimise lepingut, eriti selle artiklit 114,
+
+võttes arvesse Euroopa Komisjoni ettepanekut,
+
+olles edastanud seadusandliku akti eelnõu liikmesriikide parlamentidele,
+
+võttes arvesse Euroopa Majandus- ja Sotsiaalkomitee arvamust ( 1 ) ,
+
+toimides seadusandliku tavamenetluse kohaselt ( 2 )
+
+ning arvestades järgmist:
+
+(1) | Euroopa Parlamendi ja nõukogu määrusega (EL) nr 524/2013 ( 3 ) loodi liidu tasandil Euroopa internetipõhine vaidluste lahendamise platvorm (edaspidi „ODR-platvorm“), mis on ühtne kontaktpunkt tarbijatele ja kauplejatele, kes soovivad lahendada internetipõhistest müügi- või teenuse osutamise lepingutest tulenevaid vaidlusi kohtuväliselt, ning volitati komisjoni seda arendama ja hooldama.
+
+(2) | ODR-platvorm on interaktiivne veebisait, kus tarbija saab taotleda, et kaupleja nõustuks kasutama vaidluste kohtuvälise lahendamise üksust, mis on platvormil loetletud ning vastab Euroopa Parlamendi ja nõukogu direktiivi 2013/11/EL ( 4 ) nõuetele.
+
+(3) | Määruse (EL) nr 524/2013 kohaselt peavad veebikauplejad ja internetipõhised kauplemiskohad esitama oma veebisaidil lihtsalt juurdepääsetava lingi ODR-platvormile. See kohustus koos komisjoni ja liikmesriikide sidusrühmade korraldatud teavituskampaaniatega on igal aastal toonud ODR-platvormile kaks kuni kolm miljonit külastajat.
+
+(4) | Kuid vaid väike osa külastajatest kasutab ODR-platvormi kaebuse esitamiseks ja ainult 2 % neist kaebustest saab kauplejatelt positiivse vastuse, mistõttu saab nende taotluse edastada ODR-platvormil loetletud vaidluste kohtuvälise lahendamise üksusele. Kokkuvõttes on tegemist terve liidu peale kokku ligikaudu 200 juhtumiga aastas.
+
+(5) | Saamaks teavet vaidluste kohtuvälise lahendamise kohandamise kohta digiturgudel, avaldas komisjon tagasisidekorje, mis kestis 28. septembrist kuni 21. detsembrini 2022. Komisjon jõudis järeldusele, et ODR-platvormi oli kasutanud vaid 5 % tarbijatest, kes reageerisid sellele tagasisidekorjele, ning enamik vastanutest leidis, et ODR-platvormi tuleks oluliselt täiustada või selle tegevus tuleks lõpetada, kuna see ei ole kulutõhus. Tõendid näitavad kindlalt, et kuna aastas antakse vaidluste kohtuvälise lahendamise üksusele üle mitte rohkem kui 200 juhtumit, ei vasta ODR-platvormi edasine hooldus Euroopa Parlamendi ja nõukogu määruses (EL, Euratom) 2024/2509 ( 5 ) sätestatud tõhususe ja tulemuslikkuse põhimõtetele.
+
+(6) | ODR-platvormi kasutamine tuleks lõpetada ja määrus (EL) nr 524/2013 tuleks seepärast kehtetuks tunnistada. Ttuleks näha ette piisavalt aega, et tagada käimasolevate juhtumite nõuetekohane lõpetamine.
+
+(7) | Määruse (EL) nr 524/2013 kohaselt hoitakse vaidlusega seotud isikuandmeid kõnealuse määruse alusel loodud andmebaasis üksnes nii kaua, kui on vaja selleks, et saavutada eesmärgid, milleks neid koguti, ning selleks, et tagada andmesubjektidele juurdepääs oma isikuandmetele, et nad saaksid kasutada oma õigusi. Vastavalt määrusele (EL) nr 524/2013 tuleb need andmed automaatselt kustutada hiljemalt kuue kuu möödumisel pärast ODR-platvormile edastatud vaidluse lõpetamise kuupäeva. Komisjon peaks teavitama pooleliolevate juhtumitega ODR-platvormi kasutajaid ODR-platvormi tegevuse lõpetamisest aegsasti ja igal juhul vähemalt neli kuud enne ODR-platvormi tegevuse lõpetamist. Komisjon peaks pakkuma abi neile ODR-platvormi kasutajatele, kes soovivad saada oma juhtumitega seotud andmeid.
+
+(8) | Kuna muudes liidu õigusaktides on viidatud ODR-platvormile kui platvormile, mis võimaldab tarbijatel taotleda kauplejatelt nõusolekut vaidluse kohtuväliseks lahendamiseks, tuleks neid õigusakte muuta, et jätta välja viited ODR-platvormile. Seepärast tuleks vastavalt muuta Euroopa Parlamendi ja nõukogu määruseid (EL) 2017/2394 ( 6 ) ja (EL) 2018/1724 ( 7 ) . Ka Euroopa Parlamendi ja nõukogu direktiivid (EL) 2015/2302, ( 8 ) (EL) 2019/2161 ( 9 ) ja (EL) 2020/1828 ( 10 ) sisaldavad viiteid määrusele (EL) nr 524/2013. Kõnealuseid direktiive kavatsetakse muuta eraldi õigusaktiga,
+
+ON VASTU VÕTNUD KÄESOLEVA MÄÄRUSE:
+
+Artikkel 1
+Määrus (EL) nr 524/2013 tunnistatakse kehtetuks alates 20. juulist 2025.
+
+Artikkel 2
+1. Euroopa internetipõhise vaidluste lahendamise platvormi (edaspidi „ODR-platvorm“) tegevus lõpetatakse.
+2. Kaebuste esitamine ODR-platvormile lõpetatakse 20. märtsil 2025.
+3. Komisjon teavitab pooleliolevate juhtumitega ODR-platvormi kasutajaid ODR-platvormi tegevuse lõpetamisest hiljemalt 20. märtsiks 2025 ja pakub sellistele kasutajatele abi nende juhtumitega seotud ja neile kättesaadavate andmete saamiseks, kui nad seda soovivad.
+4. Kogu internetipõhises vaidluste lahendamise platvormis sisalduv teave, kaasa arvatud juhtumitega seotud isikuandmed, kustutatakse hiljemalt 20. juuliks 2025.
+
+Artikkel 3
+Määruse (EL) 2017/2394 muutmine
+Määruse (EL) 2017/2394 lisast jäetakse välja punkt 22.
+
+Artikkel 4
+Määruse (EL) 2018/1724 muutmine
+Määruse (EL) 2018/1724 III lisa punkt 7 asendatakse järgmisega:
+„7) | Tarbijavaidluste kohtuvälise lahendamise üksuste nimekiri, mille komisjon on koostanud vastavalt Euroopa Parlamendi ja nõukogu direktiivi 2013/11/EL ( *1 ) artikli 20 lõikele 4.
+
+Artikkel 5
+Jõustumine
+Käesolev määrus jõustub kahekümnendal päeval pärast selle avaldamist Euroopa Liidu Teatajas .
+
+Käesolev määrus on tervikuna siduv ja vahetult kohaldatav kõikides liikmesriikides.
+Brüssel, 19. detsember 2024
+Euroopa Parlamendi nimel
+eesistuja
+R. METSOLA
+Nõukogu nimel
+eesistuja
+BÓKA J.
+( 1 ) ELT C, C/2024/2482, 23.4.2024, ELI: http://data.europa.eu/eli/C/2024/2482/oj .
+( 2 ) Euroopa Parlamendi 13. märtsi 2024. aasta seisukoht ( Euroopa Liidu Teatajas seni avaldamata) ja nõukogu 19. novembri 2024. aasta esimese lugemise seisukoht ( Euroopa Liidu Teatajas seni avaldamata). Euroopa Parlamendi 17. detsembri 2024. aasta seisukoht ( Euroopa Liidu Teatajas seni avaldamata).
+( 3 ) Euroopa Parlamendi ja nõukogu 21. mai 2013. aasta määrus (EL) nr 524/2013 tarbijavaidluste internetipõhise lahendamise kohta, millega muudetakse määrust (EÜ) nr 2006/2004 ja direktiivi 2009/22/EÜ (tarbijavaidluste internetipõhise lahendamise määrus) ( ELT L 165, 18.6.2013, lk 1 ).
+( 4 ) Euroopa Parlamendi ja nõukogu 21. mai 2013. aasta direktiiv 2013/11/EL tarbijavaidluste kohtuvälise lahendamise kohta, millega muudetakse määrust (EÜ) nr 2006/2004 ja direktiivi 2009/22/EÜ (tarbijavaidluste kohtuvälise lahendamise direktiiv) ( ELT L 165, 18.6.2013, lk 63 ).
+( 5 ) Euroopa Parlamendi ja nõukogu 23. septembri 2024. aasta määrus (EL, Euratom) 2024/2509, mis käsitleb liidu üldeelarve suhtes kohaldatavaid finantsreegleid ( ELT L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj ).
+( 6 ) Euroopa Parlamendi ja nõukogu 12. detsembri 2017. aasta määrus (EL) 2017/2394 tarbijakaitsealaste õigusaktide täitmise tagamise eest vastutavate liikmesriigi asutuste vahelise koostöö kohta ja millega tunnistatakse kehtetuks määrus (EÜ) nr 2006/2004 ( ELT L 345, 27.12.2017, lk 1 ).
+( 7 ) Euroopa Parlamendi ja nõukogu 2. oktoobri 2018. aasta määrus (EL) 2018/1724, millega luuakse ühtne digivärav teabele ja menetlustele ning abi- ja probleemilahendamisteenustele juurdepääsu pakkumiseks ning millega muudetakse määrust (EL) nr 1024/2012 ( ELT L 295, 21.11.2018, lk 1 ).
+( 8 ) Euroopa Parlamendi ja nõukogu 25. novembri 2015. aasta direktiiv (EL) 2015/2302, mis käsitleb pakettreise ja seotud reisikorraldusteenuseid ning millega muudetakse määrust (EÜ) nr 2006/2004 ja Euroopa Parlamendi ja nõukogu direktiivi 2011/83/EL ning tunnistatakse kehtetuks nõukogu direktiiv 90/314/EMÜ ( ELT L 326, 11.12.2015, lk 1 ).
+( 9 ) Euroopa Parlamendi ja nõukogu 27. novembri 2019. aasta direktiiv (EL) 2019/2161, millega muudetakse nõukogu direktiivi 93/13/EMÜ ning Euroopa Parlamendi ja nõukogu direktiive 98/6/EÜ, 2005/29/EÜ ja 2011/83/EL, et ajakohastada liidu tarbijakaitsenorme ja tagada paremini nende täitmine ( ELT L 328, 18.12.2019, lk 7 ).
+( 10 ) Euroopa Parlamendi ja nõukogu 25. novembri 2020. aasta direktiiv (EL) 2020/1828, mis käsitleb tarbijate kollektiivsete huvide kaitsmise esindushagisid ja millega tunnistatakse kehtetuks direktiiv 2009/22/EÜ ( ELT L 409, 4.12.2020, lk 1 ).

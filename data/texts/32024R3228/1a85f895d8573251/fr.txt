@@ -1,0 +1,77 @@
+RÈGLEMENT (UE) 2024/3228 DU PARLEMENT EUROPÉEN ET DU CONSEIL
+du 19 décembre 2024
+abrogeant le règlement (UE) n o 524/2013 et modifiant les règlements (UE) 2017/2394 et (UE) 2018/1724 en vue de l’abandon de la plateforme européenne de règlement en ligne des litiges
+(Texte présentant de l’intérêt pour l’EEE)
+
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L’UNION EUROPÉENNE,
+
+vu le traité sur le fonctionnement de l’Union européenne, et notamment son article 114,
+
+vu la proposition de la Commission européenne,
+
+après transmission du projet d’acte législatif aux parlements nationaux,
+
+vu l’avis du Comité économique et social européen ( 1 ) ,
+
+statuant conformément à la procédure législative ordinaire ( 2 ) ,
+
+considérant ce qui suit:
+
+(1) | Le règlement (UE) n o 524/2013 du Parlement européen et du Conseil ( 3 ) a mis en place la plateforme européenne de règlement en ligne des litiges (ci-après dénommée «plateforme de RLL») et chargé la Commission d’en assurer le développement et le maintien à l’échelle de l’Union, cette plateforme offrant un point d’entrée unique aux consommateurs et professionnels désireux de parvenir à un règlement extrajudiciaire de litiges résultant de contrats de vente ou de service en ligne.
+
+(2) | La plateforme de RLL revêt la forme d’un site internet interactif où des consommateurs peuvent demander à des professionnels d’accepter le recours à une entité de règlement extrajudiciaire des litiges (REL) qui est mentionnée sur la plateforme de RLL et qui satisfait aux exigences de la directive 2013/11/UE du Parlement européen et du Conseil ( 4 ) .
+
+(3) | Le règlement (UE) n o 524/2013 impose aux professionnels en ligne et aux places de marché en ligne de fournir sur leur site internet un lien facilement accessible vers la plateforme de RLL. Cette obligation, couplée à des campagnes d’information organisées par la Commission et des parties prenantes nationales, a attiré chaque année entre deux et trois millions de visiteurs vers la plateforme de RLL.
+
+(4) | Toutefois, seule une minorité de visiteurs ont utilisé la plateforme de RLL pour introduire une plainte et seuls 2 % de ces plaintes ont reçu une réponse favorable de la part des professionnels, acceptant de transmettre leur plainte à l’une des entités de REL mentionnées sur la plateforme de RLL. Au total, cela représente environ 200 dossiers par an dans toute l’Union.
+
+(5) | Afin d’adapter le règlement extrajudiciaire des litiges aux marchés numériques, la Commission a publié un appel à contributions courant du 28 septembre au 21 décembre 2022. La Commission en a conclu que la plateforme de RLL n’avait été utilisée que par 5 % des consommateurs ayant répondu à cet appel à contributions et que la majorité des personnes ayant répondu considérait qu’elle devrait être sensiblement améliorée, voire abandonnée, vu sa non-rentabilité. Il ressort clairement des contributions que, dans la mesure où moins de 200 dossiers par an sont transférés vers une entité de REL, la conservation de la plateforme de RLL n’est pas en phase avec les principes d’efficience et d’efficacité prônés par le règlement (UE, Euratom) 2024/2509 du Parlement européen et du Conseil ( 5 ) .
+
+(6) | Il y a lieu dès lors de mettre fin à la plateforme de RLL et d’abroger le règlement (UE) n o 524/2013. Il convient de prévoir suffisamment de temps pour permettre la clôture dans de bonnes conditions des dossiers en cours.
+
+(7) | Conformément au règlement (UE) n o 524/2013, les données à caractère personnel se rapportant à un litige sont conservées dans la base de données créée dans le cadre dudit règlement pour la durée nécessaire à la réalisation des objectifs pour lesquels elles ont été collectées et pour permettre aux personnes concernées d’accéder à leurs données à caractère personnel afin d’exercer leurs droits. Conformément au règlement (UE) n o 524/2013, ces données sont automatiquement supprimées au plus tard six mois après la date de clôture du litige transmise à la plateforme de RLL. La Commission devrait informer en temps utile les usagers de la plateforme de RLL ayant des dossiers en cours de l’abandon de la plateforme de RLL, et en tout état de cause au moins quatre mois avant la date à laquelle elle cessera d’exister. La Commission devrait proposer son assistance aux usagers de la plateforme de RLL désireux de disposer des données relatives à leurs dossiers.
+
+(8) | Étant donné que la plateforme de RLL est décrite dans d’autres actes juridiques de l’Union comme étant une plateforme permettant aux consommateurs de demander aux professionnels d’accepter un règlement extrajudiciaire du litige, il convient de modifier lesdits actes afin de supprimer toute référence à la plateforme de RLL. Il y a donc lieu de modifier les règlements (UE) 2017/2394 ( 6 ) et (UE) 2018/1724 ( 7 ) du Parlement européen et du Conseil en conséquence. Les directives (UE) 2015/2302 ( 8 ) , (UE) 2019/2161 ( 9 ) et (UE) 2020/1828 ( 10 ) du Parlement européen et du Conseil contiennent également des références au règlement (UE) n o 524/2013. Il est prévu de modifier ces directives dans un acte juridique distinct,
+
+ONT ADOPTÉ LE PRÉSENT RÈGLEMENT:
+
+Article premier
+Le règlement (UE) n o 524/2013 est abrogé avec effet au 20 juillet 2025.
+
+Article 2
+1. La plateforme européenne de règlement en ligne des litiges (ci-après dénommée «plateforme de RLL») cesse d’exister.
+2. L’introduction de plaintes par l’intermédiaire de la plateforme de RLL prend fin le 20 mars 2025.
+3. La Commission informe les usagers de la plateforme de RLL ayant des dossiers en cours de l’abandon de la plateforme de RLL le 20 mars 2025 et offre son assistance pour extraire les données relatives à leurs dossierset qui leur sont accessibles, au cas où ils le souhaiteraient.
+4. À compter, au plus tard, du 20 juillet 2025, toutes les informations, y compris les données à caractère personnel, liées à des dossiers figurant sur la plateforme de RLL seront supprimées.
+
+Article 3
+Modification du règlement (UE) 2017/2394
+À l’annexe du règlement (UE) 2017/2394, le point 22 est supprimé.
+
+Article 4
+Modification du règlement (UE) 2018/1724
+À l’annexe III du règlement (UE) 2018/1724, le point 7 est remplacé par le texte suivant:
+«7. | Liste des entités chargées du règlement extrajudiciaire des litiges de consommation établie par la Commission conformément à l’article 20, paragraphe 4, de la directive 2013/11/UE du Parlement européen et du Conseil ( *1 )
+
+Article 5
+Entrée en vigueur
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne .
+
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.
+Fait à Bruxelles, le 19 décembre 2024.
+Par le Parlement européen
+La présidente
+R. METSOLA
+Par le Conseil
+Le président
+BÓKA J.
+( 1 ) JO C, C/2024/2482, 23.4.2024, ELI: http://data.europa.eu/eli/C/2024/2482/oj .
+( 2 ) Position du Parlement européen du 13 mars 2024 (non encore parue au Journal officiel) et position du Conseil en première lecture du 19 novembre 2024 (non encore parue au Journal officiel). Position du Parlement européen du 17 décembre 2024 (non encore parue au Journal officiel).
+( 3 ) Règlement (UE) n o 524/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de consommation et modifiant le règlement (CE) n o 2006/2004 et la directive 2009/22/CE (règlement relatif au RLLC) ( JO L 165 du 18.6.2013, p. 1 ).
+( 4 ) Directive 2013/11/UE du Parlement européen et du Conseil du 21 mai 2013 relative au règlement extrajudiciaire des litiges de consommation et modifiant le règlement (CE) n o 2006/2004 et la directive 2009/22/CE (directive relative au RELC) ( JO L 165 du 18.6.2013, p. 63 ).
+( 5 ) Règlement (UE, Euratom) 2024/2509 du Parlement européen et du Conseil du 23 septembre 2024 relatif aux règles financières applicables au budget général de l’Union ( JO L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj ).
+( 6 ) Règlement (UE) 2017/2394 du Parlement européen et du Conseil du 12 décembre 2017 sur la coopération entre les autorités nationales chargées de veiller à l’application de la législation en matière de protection des consommateurs et abrogeant le règlement (CE) n o 2006/2004 ( JO L 345 du 27.12.2017, p. 1 ).
+( 7 ) Règlement (UE) 2018/1724 du Parlement européen et du Conseil du 2 octobre 2018 établissant un portail numérique unique pour donner accès à des informations, à des procédures et à des services d’assistance et de résolution de problèmes, et modifiant le règlement (UE) n o 1024/2012 ( JO L 295 du 21.11.2018, p. 1 ).
+( 8 ) Directive (UE) 2015/2302 du Parlement européen et du Conseil du 25 novembre 2015 relative aux voyages à forfait et aux prestations de voyage liées, modifiant le règlement (CE) n o 2006/2004 et la directive 2011/83/UE du Parlement européen et du Conseil et abrogeant la directive 90/314/CEE du Conseil ( JO L 326 du 11.12.2015, p. 1 ).
+( 9 ) Directive (UE) 2019/2161 du Parlement européen et du Conseil du 27 novembre 2019 modifiant la directive 93/13/CEE du Conseil et les directives 98/6/CE, 2005/29/CE et 2011/83/UE du Parlement européen et du Conseil en ce qui concerne une meilleure application et une modernisation des règles de l’Union en matière de protection des consommateurs ( JO L 328 du 18.12.2019, p. 7 ).
+( 10 ) Directive (UE) 2020/1828 du Parlement européen et du Conseil du 25 novembre 2020 relative aux actions représentatives visant à protéger les intérêts collectifs des consommateurs et abrogeant la directive 2009/22/CE ( JO L 409 du 4.12.2020, p. 1 ).

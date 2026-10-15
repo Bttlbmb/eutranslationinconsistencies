@@ -1,0 +1,77 @@
+ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) 2024/3228
+z dnia 19 grudnia 2024 r.
+w sprawie uchylenia rozporządzenia (UE) nr 524/2013 i zmiany rozporządzeń (UE) 2017/2394 i (UE) 2018/1724 w odniesieniu do likwidacji europejskiej platformy internetowego rozstrzygania sporów
+(Tekst mający znaczenie dla EOG)
+
+PARLAMENT EUROPEJSKI I RADA UNII EUROPEJSKIEJ,
+
+uwzględniając Traktat o funkcjonowaniu Unii Europejskiej, w szczególności jego art. 114,
+
+uwzględniając wniosek Komisji Europejskiej,
+
+po przekazaniu projektu aktu ustawodawczego parlamentom narodowym,
+
+uwzględniając opinię Europejskiego Komitetu Ekonomiczno-Społecznego ( 1 ) ,
+
+stanowiąc zgodnie ze zwykłą procedurą ustawodawczą ( 2 ) ,
+
+a także mając na uwadze, co następuje:
+
+(1) | Rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 524/2013 ( 3 ) ustanowiono europejską platformę internetowego rozstrzygania sporów (zwaną dalej „platformą ODR”) na poziomie Unii i powierzono Komisji zadanie jej opracowania i utrzymywania; platforma ta stanowi jeden punkt dostępu dla konsumentów i przedsiębiorców dążących do pozasądowego rozstrzygania sporów wynikających z internetowych umów sprzedaży lub umów o świadczenie usług.
+
+(2) | Platforma ODR ma postać interaktywnej strony internetowej, za pośrednictwem której konsumenci mogą występować do przedsiębiorców o wyrażenie zgody na skorzystanie z usług podmiotu zajmującego się alternatywnym rozstrzyganiem sporów (ADR), który jest wymieniony w wykazie opublikowanym na platformie ODR i spełnia wymogi dyrektywy Parlamentu Europejskiego i Rady 2013/11/UE ( 4 ) .
+
+(3) | Rozporządzeniem (UE) nr 524/2013 nałożono na przedsiębiorców internetowych i pośredników internetowych wymóg zapewnienia na ich stronach internetowych łatwo dostępnego linku do platformy ODR. Obowiązek ten wraz z kampaniami informacyjnymi organizowanymi przez Komisję i krajowe zainteresowane strony zaowocował liczbą dwóch do trzech milionów odwiedzin na platformie ODR rocznie.
+
+(4) | Niemniej jednak tylko niewielka część odwiedzających korzysta z platformy ODR w celu złożenia skargi, a jedynie 2 % tych skarg spotyka się z pozytywną odpowiedzią przedsiębiorców, co umożliwia przekazanie wniosku do podmiotu ADR wymienionego na platformie ODR. Ogółem stanowi to około 200 spraw rocznie w całej Unii.
+
+(5) | Komisja opublikowała zaproszenie do zgłaszania uwag dotyczące dostosowania pozasądowego rozstrzygania sporów do rynków cyfrowych; konsultacje te trwały od dnia 28 września do dnia 21 grudnia 2022 r. Komisja stwierdziła, że z platformy ODR korzystało zaledwie 5 % konsumentów, którzy odpowiedzieli na to zaproszenie do zgłaszania uwag, przy czym większość z nich uznała, że platformę ODR należy znacząco usprawnić lub zlikwidować ją, ponieważ nie jest ona opłacalna. Zebrane dowody oraz fakt, że do podmiotu ADR przekazywanych jest nie więcej niż 200 spraw rocznie, dobitnie świadczą o tym, że dalsze utrzymywanie platformy ODR nie odpowiada zasadom efektywności i skuteczności przewidzianym w rozporządzeniu Parlamentu Europejskiego i Rady (UE, Euratom) 2024/2509 ( 5 ) .
+
+(6) | Należy zlikwidować platformę ODR i w związku z tym uchylić rozporządzenie (UE) nr 524/2013. Należy przewidzieć odpowiedni okres dla zapewnienia adekwatnego rozstrzygnięcia spraw, które są w toku.
+
+(7) | Zgodnie z rozporządzeniem (UE) nr 524/2013 dane osobowe związane z danym sporem przechowuje się w bazie danych ustanowionej na mocy tego rozporządzenia przez okres konieczny do osiągnięcia celów, do których zostały zgromadzone, oraz do zapewnienia podmiotom, których dotyczą dane, możliwości dostępu do ich danych osobowychpo to, by skorzystali ze swoich praw. Zgodnie z rozporządzeniem (UE) nr 524/2013 dane te mają zostać usunięte automatycznie najpóźniej po sześciu miesiącach od daty zakończenia sporu, który został przekazany platformie ODR. Komisja powinna – w odpowiednim czasie, a co najmniej na cztery miesiące przed likwidacją platformy ODR – poinformować jej użytkowników, którch sprawy są w toku, o likwidacji platformy ODR. Komisja powinna zaoferować pomoc użytkownikom platformy ODR, którzy chcą pozyskać dane dotyczące ich spraw.
+
+(8) | Ponieważ w innych aktach prawnych Unii zawarte są odniesienia do platformy ODR jako platformy umożliwiającej konsumentom występowanie do przedsiębiorców o wyrażenie zgody na pozasądowe rozstrzyganie sporów, akty te należy zmienić, aby usunąć z nich odniesienia do platformy ODR. Należy zatem odpowiednio zmienić rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2394 ( 6 ) i (UE) 2018/1724 ( 7 ) . Dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/2302 ( 8 ) , (UE) 2019/2161 ( 9 ) i (UE) 2020/1828 ( 10 ) również zawierają odniesienia do rozporządzenia (UE) nr 524/2013. Dyrektywy te mają zostać zmienione odrębnym aktem prawnym,
+
+PRZYJMUJĄ NINIEJSZE ROZPORZĄDZENIE:
+
+Artykuł 1
+Rozporządzenie (UE) nr 524/2013 traci moc ze skutkiem od dnia 20 lipca 2025 r.
+
+Artykuł 2
+1. Europejska platforma internetowego rozstrzygania sporów (zwana dalej „platformą ODR”) zostaje zlikwidowana.
+2. Możliwość składania skarg za pośrednictwem platformy ODR wygasa z dniem 20 marca 2025 r.
+3. Do dnia 20 marca 2025 r. Komisja informuje użytkowników platformy ODR, których sprawy są w toku, o likwidacji platformy ODR oraz oferuje takim użytkownikom pomoc, jeżeli sobie tego życzą, w pozyskaniu dostępnych dla nich danych dotyczących ich spraw.
+4. Najpóźniej do dnia 20 lipca 2025 r. usuwa się wszystkie informacje, w tym dane osobowe, związane ze sprawami na platformie ODR.
+
+Artykuł 3
+Zmiana rozporządzenia (UE) 2017/2394
+W załączniku do rozporządzenia (UE) 2017/2394 uchyla się pkt 22.
+
+Artykuł 4
+Zmiana rozporządzenia (UE) 2018/1724
+W załączniku III do rozporządzenia (UE) 2018/1724 pkt 7 otrzymuje brzmienie:
+„7) | Wykaz podmiotów zajmujących się alternatywnym rozstrzyganiem sporów konsumenckich ustanowiony przez Komisję na podstawie art. 20 ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2013/11/UE ( *1 ) .
+
+Artykuł 5
+Wejście w życie
+Niniejsze rozporządzenie wchodzi w życie dwudziestego dnia po jego opublikowaniu w Dzienniku Urzędowym Unii Europejskiej .
+
+Niniejsze rozporządzenie wiąże w całości i jest bezpośrednio stosowane we wszystkich państwach członkowskich.
+Sporządzono w Brukseli dnia 19 grudnia 2024 r.
+W imieniu Parlamentu Europejskiego
+Przewodnicząca
+R. METSOLA
+W imieniu Rady
+Przewodniczący
+BÓKA J.
+( 1 ) Dz.U. C, C/2024/2482, 23.4.2024, ELI: http://data.europa.eu/eli/C/2024/2482/oj .
+( 2 ) Stanowisko Parlamentu Europejskiego z dnia 13 marca 2024 r. (dotychczas nieopublikowane w Dzienniku Urzędowym) oraz stanowisko Rady w pierwszym czytaniu z dnia 19 listopada 2024 r. (dotychczas nieopublikowane w Dzienniku Urzędowym). Stanowisko Parlamentu Europejskiego z dnia 17 grudnia 2024 r. (dotychczas nieopublikowane w Dzienniku Urzędowym).
+( 3 ) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 524/2013 z dnia 21 maja 2013 r. w sprawie internetowego systemu rozstrzygania sporów konsumenckich oraz zmiany rozporządzenia (WE) nr 2006/2004 i dyrektywy 2009/22/WE (rozporządzenie w sprawie ODR w sporach konsumenckich) ( Dz.U. L 165 z 18.6.2013, s. 1 ).
+( 4 ) Dyrektywa Parlamentu Europejskiego i Rady 2013/11/UE z dnia 21 maja 2013 r. w sprawie alternatywnych metod rozstrzygania sporów konsumenckich oraz zmiany rozporządzenia (WE) nr 2006/2004 i dyrektywy 2009/22/WE (dyrektywa w sprawie ADR w sporach konsumenckich) ( Dz.U. L 165 z 18.6.2013, s. 63 ).
+( 5 ) Rozporządzenie Parlamentu Europejskiego i Rady (UE, Euratom) 2024/2509 z dnia 23 września 2024 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii ( Dz.U. L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj ).
+( 6 ) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/2394 z dnia 12 grudnia 2017 r. w sprawie współpracy między organami krajowymi odpowiedzialnymi za egzekwowanie przepisów prawa w zakresie ochrony konsumentów i uchylające rozporządzenie (WE) nr 2006/2004 ( Dz.U. L 345 z 27.12.2017, s. 1 ).
+( 7 ) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/1724 z dnia 2 października 2018 r. w sprawie utworzenia jednolitego portalu cyfrowego w celu zapewnienia dostępu do informacji, procedur oraz usług wsparcia i rozwiązywania problemów, a także zmieniające rozporządzenie (UE) nr 1024/2012 ( Dz.U. L 295 z 21.11.2018, s. 1 ).
+( 8 ) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2015/2302 z dnia 25 listopada 2015 r. w sprawie imprez turystycznych i powiązanych usług turystycznych, zmieniająca rozporządzenie (WE) nr 2006/2004 i dyrektywę Parlamentu Europejskiego i Rady 2011/83/UE oraz uchylająca dyrektywę Rady 90/314/EWG ( Dz.U. L 326 z 11.12.2015, s. 1 ).
+( 9 ) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/2161 z dnia 27 listopada 2019 r. zmieniająca dyrektywę Rady 93/13/EWG i dyrektywy Parlamentu Europejskiego i Rady 98/6/WE, 2005/29/WE oraz 2011/83/UE w odniesieniu do lepszego egzekwowania i unowocześnienia unijnych przepisów dotyczących ochrony konsumenta ( Dz.U. L 328 z 18.12.2019, s. 7 ).
+( 10 ) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. w sprawie powództw przedstawicielskich wytaczanych w celu ochrony zbiorowych interesów konsumentów i uchylająca dyrektywę 2009/22/WE ( Dz.U. L 409 z 4.12.2020, s. 1 ).

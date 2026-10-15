@@ -1,0 +1,77 @@
+AZ EURÓPAI PARLAMENT ÉS A TANÁCS (EU) 2024/3228 RENDELETE
+(2024. december 19.)
+az 524/2013/EU rendelet hatályon kívül helyezéséről, valamint az (EU) 2017/2394 és az (EU) 2018/1724 rendeletnek az európai online vitarendezési platform megszüntetése tekintetében történő módosításáról
+(EGT-vonatkozású szöveg)
+
+AZ EURÓPAI PARLAMENT ÉS AZ EURÓPAI UNIÓ TANÁCSA,
+
+tekintettel az Európai Unió működéséről szóló szerződésre és különösen annak 114. cikkére,
+
+tekintettel az Európai Bizottság javaslatára,
+
+a jogalkotási aktus tervezete nemzeti parlamenteknek való megküldését követően,
+
+tekintettel az Európai Gazdasági és Szociális Bizottság véleményére ( 1 ) ,
+
+rendes jogalkotási eljárás keretében ( 2 ) ,
+
+mivel:
+
+(1) | Az 524/2013/EU európai parlamenti és tanácsi rendelet ( 3 ) létrehozta, majd megbízta a Bizottságot azzal, hogy fejlessze és tartsa fenn az uniós szintű európai online vitarendezési platformot (a továbbiakban: az OVR-platform), amely egyablakos ügyintézési pontot biztosít azon fogyasztók és kereskedők számára, akik az online adásvételi és szolgáltatási szerződések kapcsán felmerült jogvitáikat bírósági eljáráson kívül kívánják rendezni.
+
+(2) | Az OVR-platform interaktív weboldal formájában valósul meg, ahol a fogyasztók kérhetik a kereskedőktől, hogy egyezzenek bele egy olyan alternatív vitarendezési fórum igénybevételébe, amely az OVR-platformon jegyzékbe vett, és amely megfelel a 2013/11/EU európai parlamenti és tanácsi irányelvnek ( 4 ) .
+
+(3) | Az 524/2013/EU rendelet előírja az online kereskedők és az online piacok számára, hogy adják meg a honlapjukon az OVR-platformra mutató, könnyen hozzáférhető linket. Az említett kötelezettség – a Bizottság és a nemzeti érdekelt felek által szervezett tájékoztató kampányokkal együtt – minden évben két–három millió látogatót vitt az OVR-platformra.
+
+(4) | Azonban csak a látogatók kisebb része használja az OVR-platformot panasz benyújtására, és az említett panaszoknak csak 2 %-a kap pozitív választ a kereskedőktől, ami azt jelenti, hogy a kérelmüket továbbítani lehet valamely, az OVR-platformon jegyzékbe vett alternatív vitarendezési fórumhoz. Összességében ez mintegy évi 200 ügyet jelent az egész Unióban.
+
+(5) | A Bizottság véleményezési felhívást tett közzé a bírósági eljáráson kívüli vitarendezésnek a digitális piacokhoz történő hozzáigazításáról, amely 2022. szeptember 28. és december 21. között zajlott le. A Bizottság megállapította, hogy az OVR-platformot az említett véleményezési felhívásra választ adó fogyasztóknak csak 5 %-a vette igénybe, és a válaszadók többsége úgy vélte, hogy az OVR-platformot jelentősen javítani kell, vagy meg kell szüntetni, mivel nem költséghatékony. A bizonyítékok határozottan arra utalnak, hogy – mivel évente legfeljebb 200 ügyet továbbítanak valamely alternatív vitarendezési fórumhoz – az OVR-platform további fenntartása nem felel meg az (EU, Euratom) 2024/2509 európai parlamenti és tanácsi rendeletben ( 5 ) előírt hatékonysági és eredményességi elvnek.
+
+(6) | Az OVR-platformot meg kell szüntetni, és ezért az 524/2013/EU rendeletet hatályon kívül kell helyezni. Megfelelő időt kell adni annak biztosítására, hogy a folyamatban lévő ügyeket megfelelően le lehessen zárni.
+
+(7) | Az 524/2013/EU rendelet alapján egy jogvitával kapcsolatos személyes adatokat az említett rendelet nyomán létrehozott adatbázisban annyi ideig tárolják, ameddig ez azon célok eléréséhez szükséges, amelyekre az adatokat gyűjtötték, valamint annak biztosításához szükséges, hogy az érintettek hozzáférhessenek a személyes adataikhoz jogaik gyakorlása érdekében. Az 524/2013/EU rendeletnek megfelelően az említett adatokat – legkésőbb hat hónappal az OVR-platform felé továbbított jogvita lezárásának napját követően – automatikusan törölni kell. A Bizottságnak – kellő időben, de legkésőbb legalább négy hónappal az említett platform megszüntetése előtt – tájékoztatnia kell az OVR-platform folyamatban lévő ügyekkel rendelkező felhasználóit az OVR-platform megszüntetéséről. A Bizottságnak segítséget kell nyújtania az OVR-platform azon felhasználóinak, akik az ügyeikkel kapcsolatos adatokat kívánnak lekérdezni.
+
+(8) | mivel más jogi aktusokban olyan platformként hivatkoznak az OVR-platformra, amely lehetővé teszi a fogyasztók számára, hogy a kereskedők beleegyezését kérjék bírósági eljáráson kívüli vitarendezéshez, az említett jogi aktusokat módosítani kell az OVR-platformra való hivatkozások törlése érdekében. Az (EU) 2017/2394 ( 6 ) és az (EU) 2018/1724 ( 7 ) európai parlamenti és tanácsi rendeletet ezért ennek megfelelően módosítani kell. Az (EU) 2015/2302 ( 8 ) , az (EU) 2019/2161 ( 9 ) és az (EU) 2020/1828 ( 10 ) európai parlamenti és tanácsi irányelv szintén tartalmaz hivatkozásokat az 524/2013/EU rendeletre. Ezért fennáll a szándék arra, hogy az említett irányelveket egy külön jogi aktus módosítsa,
+
+ELFOGADTA EZT A RENDELETET:
+
+1. cikk
+Az 524/2013/EU rendelet 2025. július 20-ával hatályát veszti.
+
+2. cikk
+(1) Az európai online vitarendezési platformot (a továbbiakban: az OVR-platform) meg kell szüntetni.
+(2) A panaszoknak az OVR-platformra történő benyújtását 2025. március 20-án meg kell szüntetni.
+(3) A Bizottság 2025. március 20-ig tájékoztatja az OVR-platform folyamatban lévő ügyekkel rendelkező felhasználóit az OVR-platform megszüntetéséről, és segítséget kínál az ilyen felhasználók számára az ügyeikkel kapcsolatos és számukra hozzáférhető adatok lekérdezéséhez, amennyiben erre igényt tartanak.
+(4) Legkésőbb 2025. július 20-ig törölni kell az OVR-platformon tárolt, ügyekkel kapcsolatos valamennyi információt, beleértve a személyes adatokat is.
+
+3. cikk
+Az (EU) 2017/2394 rendelet módosítása
+Az (EU) 2017/2394 rendelet mellékletének 22. pontját el kell hagyni.
+
+4. cikk
+Az (EU) 2018/1724 rendelet módosítása
+Az (EU) 2018/1724 rendelet III. melléklete 7. pontjának helyébe a következő szöveg lép:
+„7. | Az alternatív fogyasztói vitarendezési fórumok jegyzéke, amelyet a Bizottság készít el a 2013/11/EU európai parlamenti és tanácsi irányelv ( *1 ) 20. cikkének (4) bekezdése alapján
+
+5. cikk
+Hatálybalépés
+Ez a rendelet az Európai Unió Hivatalos Lapjában való kihirdetését követő huszadik napon lép hatályba.
+
+Ez a rendelet teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban.
+Kelt Brüsszelben, 2024. december 19-én.
+az Európai Parlament részéről
+az elnök
+R. METSOLA
+a Tanács részéről
+az elnök
+BÓKA J.
+( 1 ) HL C, C/2024/2482, 2024.4.23., ELI: http://data.europa.eu/eli/C/2024/2482/oj .
+( 2 ) Az Európai Parlament 2024. március 13-i álláspontja (a Hivatalos Lapban még nem tették közzé) és a Tanács 2024. november 19-i álláspontja első olvasatban (a Hivatalos Lapban még nem tették közzé). Az Európai Parlament 2024. december 17-i álláspontja (a Hivatalos Lapban még nem tették közzé).
+( 3 ) Az Európai Parlament és a Tanács 524/2013/EU rendelete (2013. május 21.) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési rendelet) ( HL L 165., 2013.6.18., 1. o. ).
+( 4 ) Az Európai Parlament és a Tanács 2013/11/EU irányelve (2013. május 21.) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) ( HL L 165., 2013.6.18., 63. o. ).
+( 5 ) Az Európai Parlament és a Tanács (EU, Euratom) 2024/2509 rendelete (2024. szeptember 23.) az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról ( HL L, 2024/2509, 2024.9.26., ELI: http://data.europa.eu/eli/reg/2024/2509/oj ).
+( 6 ) Az Európai Parlament és a Tanács (EU) 2017/2394 rendelete (2017. december 12.) a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről ( HL L 345., 2017.12.27., 1. o. ).
+( 7 ) Az Európai Parlament és a Tanács (EU) 2018/1724 rendelete (2018. október 2.) az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról ( HL L 295., 2018.11.21., 1. o. ).
+( 8 ) Az Európai Parlament és a Tanács (EU) 2015/2302 irányelve (2015. november 25.) az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről ( HL L 326., 2015.12.11., 1. o. ).
+( 9 ) Az Európai Parlament és a Tanács (EU) 2019/2161 irányelve (2019. november 27.) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról ( HL L 328., 2019.12.18., 7. o. ).
+( 10 ) Az Európai Parlament és a Tanács (EU) 2020/1828 irányelve (2020. november 25.) a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről ( HL L 409., 2020.12.4., 1. o. ).

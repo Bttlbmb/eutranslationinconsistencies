@@ -1,0 +1,77 @@
+EUROOPAN PARLAMENTIN JA NEUVOSTON ASETUS (EU) 2024/3228,
+annettu 19 päivänä joulukuuta 2024,
+asetuksen (EU) N:o 524/2013 kumoamisesta ja asetusten (EU) 2017/2394 ja (EU) 2018/1724 muuttamisesta eurooppalaisen verkkovälitteisen riidanratkaisufoorumin lakkauttamisen osalta
+(ETA:n kannalta merkityksellinen teksti)
+
+EUROOPAN PARLAMENTTI JA EUROOPAN UNIONIN NEUVOSTO, jotka
+
+ottavat huomioon Euroopan unionin toiminnasta tehdyn sopimuksen ja erityisesti sen 114 artiklan,
+
+ottavat huomioon Euroopan komission ehdotuksen,
+
+sen jälkeen kun esitys lainsäätämisjärjestyksessä hyväksyttäväksi säädökseksi on toimitettu kansallisille parlamenteille,
+
+ottavat huomioon Euroopan talous- ja sosiaalikomitean lausunnon ( 1 ) ,
+
+noudattavat tavallista lainsäätämisjärjestystä ( 2 ) ,
+
+sekä katsovat seuraavaa:
+
+(1) | Euroopan parlamentin ja neuvoston asetuksella (EU) N:o 524/2013 ( 3 ) on perustettu eurooppalainen verkkovälitteinen riidanratkaisufoorumi, jäljempänä ’verkkovälitteinen riidanratkaisufoorumi’, ja valtuutettu komissio kehittämään ja ylläpitämään sitä unionin tasolla; verkkovälitteinen riidanratkaisufoorumi tarjoaa keskitetyn asiointipisteen kuluttajille ja elinkeinonharjoittajille, jotka haluavat ratkaista verkossa tehtyihin kauppa- tai palvelusopimuksiin liittyviä riitoja tuomioistuimen ulkopuolella.
+
+(2) | Verkkovälitteinen riidanratkaisufoorumi on interaktiivinen verkkosivusto, jonka kautta kuluttajat voivat pyytää elinkeinonharjoittajilta suostumusta käyttää jotakin verkkovälitteisellä riidanratkaisufoorumilla lueteltua vaihtoehtoista riidanratkaisuelintä, joka täyttää Euroopan parlamentin ja neuvoston direktiivissä 2013/11/EU ( 4 ) asetetut vaatimukset.
+
+(3) | Asetuksessa (EU) N:o 524/2013 edellytetään, että verkossa toimivat elinkeinonharjoittajat ja verkossa toimivat markkinapaikat tarjoavat verkkosivustollaan helposti saatavilla olevan linkin verkkovälitteiselle riidanratkaisufoorumille. Kyseinen velvoite sekä komission ja kansallisten sidosryhmien toteuttamat tiedotuskampanjat ovat tuoneet verkkovälitteiselle riidanratkaisufoorumille vuosittain 2–3 miljoonaa kävijää.
+
+(4) | Vain pieni vähemmistö kävijöistä kuitenkin käyttää verkkovälitteistä riidanratkaisufoorumia valituksen toimittamiseen, ja vain 2 prosenttia heistä saa elinkeinonharjoittajilta myönteisen vastauksen, niin että heidän pyyntönsä voidaan toimittaa verkkovälitteisellä riidanratkaisufoorumilla luetellulle vaihtoehtoiselle riidanratkaisuelimelle. Kaiken kaikkiaan tämä edustaa noin 200 riitaa vuosittain eri puolilla unionia.
+
+(5) | Komissio julkaisi kannanottopyynnön tuomioistuimen ulkopuolisen riidanratkaisun mukauttamisesta digitaalisiin markkinoihin; vastausaika oli 28 päivän syyskuuta ja 21 päivän joulukuuta 2022 välinen aika. Komissio totesi, että kyseiseen kannanottopyyntöön vastanneista kuluttajista vain 5 prosenttia oli käyttänyt verkkovälitteistä riidanratkaisufoorumia, ja että suurin osa vastaajista katsoi, että verkkovälitteistä riidanratkaisufoorumia olisi parannettava merkittävästi tai että se olisi lakkautettava, koska se ei ollut kustannustehokas. Todisteiden perusteella vaikuttaa vahvasti siltä, että koska verkkovälitteisen riidanratkaisufoorumin kautta siirretään vaihtoehtoisille riidanratkaisuelimille vuosittain vain enintään 200 riitaa, sen ylläpitäminen ei vastaa Euroopan parlamentin ja neuvoston asetuksessa (EU, Euratom) 2024/2509 ( 5 ) säädettyjä tehokkuuden ja vaikuttavuuden periaatteita.
+
+(6) | Verkkovälitteinen riidanratkaisufoorumi olisi lakkautettava ja asetus (EU) N:o 524/2013 olisi näin ollen kumottava. Olisi varattava asianmukaisesti aikaa sen varmistamiseen, että vireillä olevien riitojen käsittely voidaan saattaa asianmukaisesti päätökseen.
+
+(7) | Asetuksen (EU) N:o 524/2013 mukaan riitaan liittyviä henkilötietoja säilytetään kyseisen asetuksen nojalla perustetussa tietokannassa vain niin kauan kuin se on tarpeen sitä tarkoitusta varten, jota varten ne kerättiin, ja sen varmistamiseksi, että rekisteröidyt voivat saada pääsyn henkilötietoihinsa oikeuksiensa käyttämistä varten. Asetuksen (EU) N:o 524/2013 mukaisesti kyseiset tiedot on poistettava automaattisesti viimeistään kuusi kuukautta sen jälkeen, kun verkkovälitteiselle riidanratkaisufoorumille toimitetun riidan käsittely on saatu päätökseen. Komission olisi ilmoitettava verkkovälitteisen riidanratkaisufoorumin lakkauttamisestsa niille verkkovälitteisen riidanratkaisufoorumin käyttäjille, joilla on siellä vireillä olevia riitoja, hyvissä ajoin ja joka tapauksessa vähintään neljä kuukautta ennen kyseisen foorumin lakkauttamista. Komission olisi tarjottava apua niille verkkovälitteisen riidanratkaisufoorumin käyttäjille, jotka haluavat saada riitoihinsa liittyvät tiedot takaisin itselleen.
+
+(8) | Koska verkkovälitteiseen riidanratkaisufoorumiin viitataan myös muissa unionin säädöksissä välineenä, jonka avulla kuluttajat voivat pyytää elinkeinonharjoittajia hyväksymään tuomioistuimen ulkopuolisen riidanratkaisun, kyseisiä säädöksiä olisi muutettava siten, että poistetaan viittaukset verkkovälitteiseen riidanratkaisufoorumiin. Sen vuoksi olisi muutettava Euroopan parlamentin ja neuvoston asetukset (EU) 2017/2394 ( 6 ) ja (EU) 2018/1724 ( 7 ) vastaavasti. Euroopan parlamentin ja neuvoston direktiivit (EU) 2015/2302 ( 8 ) , (EU) 2019/2161 ( 9 ) ja (EU) 2020/1828 ( 10 ) sisältävät myös viittauksia asetukseen (EU) N:o 524/2013. Kyseiset direktiivit on tarkoitus muuttaa erillisellä säädöksellä,
+
+OVAT HYVÄKSYNEET TÄMÄN ASETUKSEN:
+
+1 artikla
+Kumotaan asetus (EU) N:o 524/2013 20 päivästä heinäkuuta 2025.
+
+2 artikla
+1. Lakkautetaan eurooppalainen verkkovälitteinen riidanratkaisufoorumi, jäljempänä ’verkkovälitteinen riidanratkaisufoorumi’.
+2. Valitusten toimittaminen verkkovälitteiselle riidanratkaisufoorumille lopetetaan 20 päivänä maaliskuuta 2025.
+3. Komissio ilmoittaa verkkovälitteisen riidanratkaisufoorumin lakkauttamisesta niille verkkovälitteisen riidanratkaisufoorumin käyttäjille, joilla on vireillä olevia tapauksia, viimeistään 20 päivänä maaliskuuta 2025 ja tarjoaa tällaisille käyttäjille apua heidän tapauksiinsa liittyvien ja heidän saatavillaan olevien tietojen palauttamiseen, jos he niin haluavat.
+4. Poistetaan kaikki verkkovälitteisellä riidanratkaisufoorumilla olevat riitoihin liittyvät tiedot, mukaan lukien henkilötiedot, viimeistään 20 päivänä heinäkuuta 2025.
+
+3 artikla
+Asetuksen (EU) 2017/2394 muuttaminen
+Poistetaan asetuksen (EU) 2017/2394 liitteessä oleva 22 kohta.
+
+4 artikla
+Asetuksen (EU) 2018/1724 muuttaminen
+Korvataan asetuksen (EU) 2018/1724 liitteessä III oleva 7 kohta seuraavasti:
+”7) | Luettelo vaihtoehtoisista riidanratkaisuelimistä, jonka komissio on laatinut Euroopan parlamentin ja neuvoston direktiivin 2013/11/EU ( *1 ) 20 artiklan 4 kohdan nojalla.
+
+5 artikla
+Voimaantulo
+Tämä asetus tulee voimaan kahdentenakymmenentenä päivänä sen jälkeen, kun se on julkaistu Euroopan unionin virallisessa lehdessä .
+
+Tämä asetus on kaikilta osiltaan velvoittava, ja sitä sovelletaan sellaisenaan kaikissa jäsenvaltioissa.
+Tehty Brysselissä 19 päivänä joulukuuta 2024.
+Euroopan parlamentin puolesta
+Puheenjohtaja
+R. METSOLA
+Neuvoston puolesta
+Puheenjohtaja
+BÓKA J.
+( 1 ) EUVL C, C/2024/2482, 23.4.2024, ELI: http://data.europa.eu/eli/C/2024/2482/oj .
+( 2 ) Euroopan parlamentin kanta, vahvistettu 13. maaliskuuta 2024 (ei vielä julkaistu virallisessa lehdessä), ja neuvoston kanta, vahvistettu 19. marraskuuta 2024 (ei vielä julkaistu virallisessa lehdessä). Euroopan parlamentin kanta, vahvistettu 17. joulukuuta 2024 (ei vielä julkaistu virallisessa lehdessä).
+( 3 ) Euroopan parlamentin ja neuvoston asetus (EU) N:o 524/2013, annettu 21 päivänä toukokuuta 2013, kuluttajariitojen verkkovälitteisestä riidanratkaisusta sekä asetuksen (EY) N:o 2006/2004 ja direktiivin 2009/22/EY muuttamisesta (verkkovälitteistä kuluttajariitojen ratkaisua koskeva asetus) ( EUVL L 165, 18.6.2013, s. 1 ).
+( 4 ) Euroopan parlamentin ja neuvoston direktiivi 2013/11/EU, annettu 21 päivänä toukokuuta 2013, kuluttajariitojen vaihtoehtoisesta riidanratkaisusta sekä asetuksen (EY) N:o 2006/2004 ja direktiivin 2009/22/EY muuttamisesta (vaihtoehtoista kuluttajariitojen ratkaisua koskeva direktiivi) ( EUVL L 165, 18.6.2013, s. 63 ).
+( 5 ) Euroopan parlamentin ja neuvoston asetus (EU, Euratom) 2024/2509, annettu 23 päivänä syyskuuta 2024, unionin yleiseen talousarvioon sovellettavista varainhoitosäännöistä ( EUVL L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj ).
+( 6 ) Euroopan parlamentin ja neuvoston asetus (EU) 2017/2394, annettu 12 päivänä joulukuuta 2017, kuluttajansuojalainsäädännön täytäntöönpanosta vastaavien kansallisten viranomaisten yhteistyöstä ja asetuksen (EY) N:o 2006/2004 kumoamisesta ( EUVL L 345, 27.12.2017, s. 1 ).
+( 7 ) Euroopan parlamentin ja neuvoston asetus (EU) 2018/1724, annettu 2 päivänä lokakuuta 2018, tietoja, menettelyjä sekä neuvonta- ja ongelmanratkaisupalveluja saataville tarjoavan yhteisen digitaalisen palveluväylän perustamisesta ja asetuksen (EU) N:o 1024/2012 muuttamisesta ( EUVL L 295, 21.11.2018, s. 1 ).
+( 8 ) Euroopan parlamentin ja neuvoston direktiivi (EU) 2015/2302, annettu 25 päivänä marraskuuta 2015, matkapaketeista ja yhdistetyistä matkajärjestelyistä sekä asetuksen (EY) N:o 2006/2004 ja Euroopan parlamentin ja neuvoston direktiivin 2011/83/EU muuttamisesta ja neuvoston direktiivin 90/314/ETY kumoamisesta ( EUVL L 326, 11.12.2015, s. 1 ).
+( 9 ) Euroopan parlamentin ja neuvoston direktiivi (EU) 2019/2161, annettu 27 päivänä marraskuuta 2019, neuvoston direktiivin 93/13/ETY ja Euroopan parlamentin ja neuvoston direktiivien 98/6/EY, 2005/29/EY sekä 2011/83/EU muuttamisesta unionin kuluttajansuojasääntöjen täytäntöönpanon valvonnan parantamisen ja nykyaikaistamisen osalta ( EUVL L 328, 18.12.2019, s. 7 ).
+( 10 ) Euroopan parlamentin ja neuvoston direktiivi (EU) 2020/1828, annettu 25 päivänä marraskuuta 2020, kuluttajien yhteisten etujen suojaamiseksi nostettavista edustajakanteista ja direktiivin 2009/22/EY kumoamisesta ( EUVL L 409, 4.12.2020, s. 1 ).

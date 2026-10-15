@@ -1,0 +1,88 @@
+A BIZOTTSÁG 828/2014/EU VÉGREHAJTÁSI RENDELETE
+(2014. július 30.)
+a fogyasztóknak az élelmiszerek gluténmentessége vagy csökkentett gluténtartalma tekintetében nyújtott tájékoztatásra vonatkozó követelményekről
+(EGT-vonatkozású szöveg)
+
+AZ EURÓPAI BIZOTTSÁG,
+
+tekintettel az Európai Unió működéséről szóló szerződésre,
+
+tekintettel a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendeletre ( 1 ) és különösen annak 36. cikke (3) bekezdésének d) pontjára,
+
+mivel:
+
+(1) | A gluténérzékeny személyek állandó gluténintoleranciában szenvednek. A búza (vagyis minden Triticum fajta, például a durumbúza, a tönköly és a khorasan búza), a rozs és az árpa olyan gabonafélék, amelyekről tudományosan kimutatták, hogy glutént tartalmaznak. Az e gabonákban található glutén káros hatást gyakorolhat a gluténérzékenyek egészségére, ezért e gabonákat ők nem fogyaszthatják.
+
+(2) | A fogyasztóknak az élelmiszerek gluténmentességére vagy csökkentett gluténtartalmára vonatkozóan nyújtott tájékoztatás segítséget nyújt a gluténérzékenyek számára a megfelelő élelmiszerek kiválasztásában, és lehetővé teszi, hogy otthonukban vagy azon kívül változatos étrendet kövessenek.
+
+(3) | A 41/2009/EK bizottsági rendelet ( 2 ) harmonizált szabályokat állapít meg az élelmiszerek gluténmentessége („gluténmentes”) vagy csökkentett gluténtartalma („nagyon alacsony gluténtartalmú”) tekintetében a fogyasztóknak nyújtott tájékoztatás vonatkozásában. Az említett rendeletben foglalt szabályok tudományos adatokon alapulnak, és biztosítják, hogy a fogyasztók számára az élelmiszerek gluténmentessége vagy csökkentett gluténtartalma tekintetében nyújtott tájékoztatás a sokfélesége révén ne legyen megtévesztő vagy zavaró.
+
+(4) | A különleges táplálkozási célú élelmiszerekről szóló jogszabályok felülvizsgálatának összefüggésében a 609/2013/EU európai parlamenti és tanácsi rendelet ( 3 ) 2016. július 20-tól hatályon kívül helyezi a 41/2009/EK rendeletet. Biztosítani kell, hogy az említett időpontot követően az élelmiszerek gluténmentessége vagy csökkentett gluténtartalma tekintetében nyújtott információ az 1169/2011/EU rendelet 36. cikkének (2) bekezdésében foglaltaknak megfelelően a vonatkozó tudományos adatokon alapuljon, továbbá, hogy a tájékoztatás módja egységes legyen annak érdekében, hogy ne idézhesse elő a fogyasztók megtévesztését, vagy ne legyen számukra zavart keltő. Ezért az Unióban fenn kell tartani az élelmiszer-ipari vállalkozók által az élelmiszerek gluténmentessége vagy csökkentett gluténtartalma tekintetében nyújtott tájékoztatásra vonatkozó követelmények alkalmazásának egységes feltételeit, az említett feltételeknek pedig a 41/2009/EK rendeleten kell alapulniuk.
+
+(5) | Egyes élelmiszerekben a glutént tartalmazó egy vagy több összetevő gluténtartalmát a gyártás, az előkészítés és/vagy a feldolgozás útján csökkentik, vagy a glutént tartalmazó összetevőt más, természetes módon gluténmentes összetevővel helyettesítik. Más élelmiszerek kizárólag természetesen gluténmentes összetevőkből készülnek.
+
+(6) | A glutén eltávolítása a glutént tartalmazó gabonákból jelentős technikai nehézséget okoz és komoly gazdasági ráfordítást igényel, ezért ilyen gabonák felhasználásával nehéz teljesen gluténmentes élelmiszereket gyártani. Ennek következtében számos, a piacon jelen lévő élelmiszer, amelyet különleges eljárással úgy állítanak elő, hogy a benne levő egy vagy több, gluténtartalmú összetevő gluténtartalmát csökkentik, tartalmazhat kis mennyiségű gluténmaradékot.
+
+(7) | A gluténérzékenyek többségének étrendje tartalmazhat zabot, anélkül, hogy ez az egészségükre kedvezőtlen hatást fejtene ki. E kérdés jelenleg tudományos tanulmányok és kutatások tárgyát képezi. Komoly gondot jelent azonban a zabnak a búzával, rozzsal vagy árpával történő szennyeződése a gabona betakarítása, szállítása, raktározása vagy feldolgozása során. Ezért a zabot tartalmazó termékek gluténszennyezettségének kockázatát figyelembe kell venni az érintett élelmiszerekre vonatkozó információk élelmiszer-ipari vállalkozók általi feltüntetése kapcsán.
+
+(8) | Egyes gluténérzékenyek képesek lehetnek tolerálni egy adott, korlátozott tartományon belül különböző, kis mennyiségű glutént. Annak érdekében, hogy a piacon mindenki hozzáférhessen az igényeinek és érzékenységi szintjének megfelelő élelmiszer-választékhoz, lehetővé kell tenni e korlátozott tartományon belül, különböző mennyiségű glutént tartalmazó termékkínálatot. Fontos azonban, hogy a különböző termékeket megfelelő módon jelöljék annak biztosítása érdekében, hogy a gluténintoleranciában szenvedők – a tagállamok tájékoztató kampányainak segítségével – megfelelően használják azokat.
+
+(9) | Lehetővé kell tenni, hogy az olyan élelmiszerek esetében, amelyek glutént tartalmazó egy vagy több összetevőjének gluténtartalmát gyártás, előkészítés és/vagy feldolgozás útján csökkentették, vagy amelyekben a glutént tartalmazó összetevőt más, természetes módon gluténmentes összetevővel helyettesítették, az e rendeletben foglalt rendelkezéseknek megfelelően feltüntethető legyen a termék gluténmentes voltára („gluténmentes”) vagy a csökkentett gluténtartalomra („nagyon alacsony gluténtartalmú”) vonatkozó jelzés. Emellett lehetővé kell tenni olyan kijelentés feltüntetését az érintett élelmiszeren, amely tájékoztatja a fogyasztókat arról, hogy az adott élelmiszert kifejezetten gluténérzékenyeknek szánják.
+
+(10) | A természetes módon gluténmentes termékek esetében lehetővé kell tenni olyan jelölés feltüntetését, amely jelzi a gluténmentességet, az e rendeletben foglalt rendelkezéseknek megfelelően, amennyiben az 1169/2011/EU rendeletben a tisztességes tájékoztatási gyakorlatokra vonatkozó általános feltételek teljesülnek. Az élelmiszerekkel kapcsolatos tájékoztatás mindenekelőtt nem tévesztheti meg a fogyasztókat, azt sugallva, hogy az adott élelmiszer különleges tulajdonságokkal rendelkezik, ha a szóban forgó tulajdonságokkal valójában minden hasonló élelmiszer rendelkezik.
+
+(11) | A 2006/141/EK bizottsági irányelv ( 4 ) az anyatej-helyettesítő tápszerek és anyatej-kiegészítő tápszerek előállítása során tiltja a gluténtartalmú összetevők használatát. Ezért az e termékekkel kapcsolatos tájékoztatásban meg kell tiltani a „nagyon alacsony gluténtartalmú”, valamint a „gluténmentes” kijelentések használatát, hiszen e rendelet értelmében ezek a kijelentések a 100 mg/kg, illetve 20 mg/kg mennyiséget meg nem haladó gluténtartalom megjelölésére szolgálnak.
+
+(12) | A gluténérzékenyek különleges táplálkozási igényeinek kielégítésére szánt élelmiszerekről szóló Codex-szabványt ( 5 ) megfelelő módon figyelembe kell venni e rendelet alkalmazásában.
+
+(13) | Az e rendeletben előírt intézkedések összhangban vannak az Élelmiszerlánc- és Állategészségügyi Állandó Bizottság véleményével,
+
+ELFOGADTA EZT A RENDELETET:
+
+1. cikk
+Hatály és tárgy
+Ez a rendelet a fogyasztóknak az élelmiszerek gluténmentességére vagy csökkentett gluténtartalmára vonatkozóan nyújtott tájékoztatás követelményeire vonatkozik.
+
+2. cikk
+Fogalommeghatározások
+E rendelet alkalmazásában:
+a) „glutén” : búzában, rozsban, árpában, zabban és ezek keresztezett változataiban, valamint származékaiban megtalálható fehérjefrakció, amellyel szemben bizonyos személyek intoleranciát mutatnak, és amely vízben és 0,5 M nátrium-klorid-oldatban egyaránt oldhatatlan;
+b) „búza” : valamennyi Triticum fajta.
+
+3. cikk
+A fogyasztók tájékoztatása
+(1) Amennyiben az élelmiszerek gluténmentességére vagy csökkentett gluténtartalmára vonatkozó kijelentésekkel tájékoztatják a fogyasztókat, kizárólag a mellékletben foglalt kijelentések használhatók az ott megállapított feltételek mellett.
+(2) Az (1) bekezdésben említett, élelmiszerrel kapcsolatos tájékoztatást a következő kijelentések kísérhetik: „gluténérzékenyek is fogyaszthatják” vagy „coeliakiában szenvedők is fogyaszthatják”.
+(3) Az (1) bekezdésben említett, élelmiszerrel kapcsolatos tájékoztatást a következő kijelentések kísérhetik: „kifejezetten gluténérzékenyek számára készült” vagy „kifejezetten coeliakiában szenvedők számára készült”, amennyiben az élelmiszert kifejezetten úgy gyártották, készítették elő és/vagy dolgozták fel, hogy:
+a) | az élelmiszer glutént tartalmazó egy vagy több összetevőjének gluténtartalmát csökkentették;
+b) | a glutént tartalmazó összetevőt más, természetes módon gluténmentes összetevővel helyettesítették.
+
+4. cikk
+Anyatej-helyettesítő és anyatej-kiegészítő tápszerek
+A 2006/141/EK irányelvben meghatározott anyatej-helyettesítő és anyatej-kiegészítő tápszerek esetében tilos az élelmiszerek gluténmentességére vagy csökkentett gluténtartalmára vonatkozó tájékoztatás nyújtása.
+
+5. cikk
+Hatálybalépés és alkalmazás
+Ez a rendelet az Európai Unió Hivatalos Lapjában való kihirdetését követő huszadik napon lép hatályba.
+Ezt a rendeletet 2016. július 20-tól kell alkalmazni.
+
+Ez a rendelet teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban.
+Kelt Brüsszelben, 2014. július 30-án.
+a Bizottság részéről
+az elnök
+José Manuel BARROSO
+( 1 ) HL L 304., 2011.11.22., 18. o.
+( 2 ) A Bizottság 2009. január 20-i 41/2009/EK rendelete a gluténérzékenyeknek szánt élelmiszerek összetételéről és címkézéséről ( HL L 16., 2009.1.21., 3. o. ).
+( 3 ) Az Európai Parlament és a Tanács 2013. június 12-i 609/2013/EU rendelete a csecsemők és kisgyermekek számára készült, a speciális gyógyászati célra szánt, valamint a testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekről, továbbá a 92/52/EGK tanácsi irányelv, a 96/8/EK, az 1999/21/EK, a 2006/125/EK és a 2006/141/EK bizottsági irányelv, a 2009/39/EK európai parlamenti és tanácsi irányelv és a 41/2009/EK és a 953/2009/EK bizottsági rendelet hatályon kívül helyezéséről ( HL L 181., 2013.6.29., 35. o. ).
+( 4 ) A Bizottság 2006. december 22-i 2006/141/EK irányelve az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről, valamint az 1999/21/EK irányelv módosításáról ( HL L 401., 2006.12.30., 1. o. ).
+( 5 ) CODEX STAN 118-1979.
+
+MELLÉKLET
+Az élelmiszerek gluténmentességére vagy alacsony gluténtartalmára vonatkozó, megengedett kijelentések és ezek használatának feltételei
+A. Általános követelmények
+GLUTÉNMENTES
+A „gluténmentes” kijelentés csak abban az esetben használható, ha az élelmiszer a végső fogyasztónak értékesített formájában legfeljebb 20 mg/kg glutént tartalmaz.
+NAGYON ALACSONY GLUTÉNTARTALMÚ
+A „nagyon alacsony gluténtartalmú” kijelentés csak abban az esetben használható, ha az élelmiszer – amely egy vagy több, búzából, rozsból, árpából, zabból vagy ezek keresztezett változataiból származó összetevőből áll, vagy ilyen összetevőt tartalmaz, amelyet különleges eljárással úgy állítottak elő, hogy a gluténtartalmat csökkentsék – a végső fogyasztó számára értékesített formájában legfeljebb 100mg/kg glutént tartalmaz.
+B. A zabot tartalmazó élelmiszerre vonatkozó kiegészítő követelmények
+A gluténmentesként vagy nagyon alacsony gluténtartalmúként megjelölt élelmiszerekben csak olyan zab használható, amelynek termesztése, előkészítése és/vagy feldolgozása során kifejezetten kerülték a búzával, rozzsal, árpával vagy ezek keresztezett változataival való szennyeződést, és amelynek gluténtartalma legfeljebb 20 mg/kg.

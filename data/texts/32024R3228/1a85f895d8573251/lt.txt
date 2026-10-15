@@ -1,0 +1,77 @@
+EUROPOS PARLAMENTO IR TARYBOS REGLAMENTAS (ES) 2024/3228
+2024 m. gruodžio 19 d.
+kuriuo dėl to, kad nutraukiama Europos elektroninio ginčų sprendimo platformos veikla, panaikinamas Reglamentas (ES) Nr. 524/2013 ir iš dalies keičiami reglamentai (ES) 2017/2394 bei (ES) 2018/1724
+(Tekstas svarbus EEE)
+
+EUROPOS PARLAMENTAS IR EUROPOS SĄJUNGOS TARYBA,
+
+atsižvelgdami į Sutartį dėl Europos Sąjungos veikimo, ypač į jos 114 straipsnį,
+
+atsižvelgdami į Europos Komisijos pasiūlymą,
+
+teisėkūros procedūra priimamo akto projektą perdavus nacionaliniams parlamentams,
+
+atsižvelgdami į Europos ekonomikos ir socialinių reikalų komiteto nuomonę ( 1 ) ,
+
+laikydamiesi įprastos teisėkūros procedūros ( 2 ) ,
+
+kadangi:
+
+(1) | Europos Parlamento ir Tarybos reglamentu (ES) Nr. 524/2013 ( 3 ) sukurta Sąjungos lygmens Europos elektroninio ginčų sprendimo platforma (toliau – EGS platforma), kuri vartotojams ir komercinės veiklos subjektams suteikia vieno langelio principu pagrįstą galimybę neteismine tvarka spręsti ginčus, kylančius dėl elektroninių pirkimo-pardavimo ir paslaugų sutarčių, ir pagal tą reglamentą Komisija buvo įgaliota sukurti bei užtikrinti jos veikimą;
+
+(2) | EGS platforma yra interaktyvi svetainė, kurioje vartotojai gali prašyti komercinės veiklos subjektų sutikti pasitelkti EGS platformoje nurodytą alternatyvaus ginčų sprendimo (AGS) subjektą, kuris atitinka Europos Parlamento ir Tarybos direktyvos 2013/11/ES ( 4 ) reikalavimus;
+
+(3) | Reglamentu (ES) Nr. 524/2013 reikalaujama, kad internetiniai komercinės veiklos subjektai ir elektroninės prekyvietės savo svetainėse pateiktų lengvai prieinamą saitą į EGS platformą. Dėl tokios nustatytos pareigos ir Komisijos bei nacionalinių suinteresuotųjų subjektų organizuotų informavimo kampanijų EGS platformą kasmet aplankė nuo dviejų iki trijų milijonų lankytojų;
+
+(4) | tačiau tik nedaugelis lankytojų naudojasi EGS platforma skundams pateikti ir tik 2 % iš tų skundų gauna teigiamą atsakymą iš komercinės veiklos subjektų, o tai reiškia, kad jų prašymą galima perduoti EGS platformoje nurodytam AGS subjektui. Bendrai tai sudaro apie 200 bylų kasmet visoje Sąjungoje;
+
+(5) | Komisija laikotarpiu nuo 2022 m. rugsėjo 28 d. iki 2022 m. gruodžio 21 d. skelbė kvietimą teikti informaciją apie neteisminio ginčų sprendimo pritaikymą skaitmeninėms rinkoms. Komisija padarė išvadą, kad EGS platforma naudojosi tik 5 % vartotojų, kurie atsiliepė į tą kvietimą teikti informaciją; dauguma respondentų manė, kad EGS platformą reikėtų iš esmės patobulinti arba nutraukti jos veiklą, nes ji nėra ekonomiškai efektyvi. Iš įrodymų aiškiai matyti, kad, atsižvelgiant į tai, kad AGS subjektams per metus perduodama nagrinėti ne daugiau kaip 200 bylų, tolesnis EGS platformos veiklos užtikrinimas neatitinka Europos Parlamento ir Tarybos reglamente (ES, Euratomas) 2024/2509 ( 5 ) nustatytų efektyvumo ir rezultatyvumo principų;
+
+(6) | EGS platformos veikla turėtų būti nutraukta, todėl Reglamentas (ES) Nr. 524/2013 turėtų būti panaikintas. Turėtų būti skirta pakankamai laiko užtikrinti, kad tebenagrinėjamos bylos galėtų būti tinkamai užbaigtos;
+
+(7) | vadovaujantis Reglamentu (ES) Nr. 524/2013, su ginču susiję asmens duomenys duomenų bazėje, įsteigtoje pagal tą reglamentą, saugomi tiek laiko, kiek reikia tikslams, dėl kurių duomenys buvo surinkti, pasiekti ir užtikrinti, kad duomenų subjektai galėtų susipažinti su savo asmens duomenimis, kad galėtų pasinaudoti savo teisėmis. Vadovaujantis Reglamentu (ES) Nr. 524/2013, tie duomenys turi būti automatiškai ištrinti ne vėliau kaip per šešis mėnesius nuo EGS platformai perduoto ginčo nagrinėjimo užbaigimo dienos. Komisija turėtų laiku ir bet kuriuo atveju likus ne mažiau kaip keturiems mėnesiams iki EGS platformos veiklos nutraukimo informuoti tos platformos naudotojus, turinčius tebenagrinėjamų bylų, apie tos platformos veiklos nutraukimą. Komisija turėtų pasiūlyti pagalbą tiems EGS platformos naudotojams, kurie nori gauti su jų bylomis susijusius duomenis;
+
+(8) | kadangi kituose Sąjungos teisės aktuose daroma nuoroda į EGS platformą, kaip į platformą, kuria naudodamiesi vartotojai gali prašyti komercinės veiklos subjektų susitarti dėl neteisminio ginčų sprendimo, tie aktai turėtų būti iš dalies pakeisti, kad nuorodos į EGS platformą būtų pašalintos. Todėl Europos Parlamento ir Tarybos reglamentai (ES) 2017/2394 ( 6 ) bei (ES) 2018/1724 ( 7 ) turėtų būti atitinkamai iš dalies pakeisti. Europos Parlamento ir Tarybos direktyvose (ES) 2015/2302 ( 8 ) , (ES) 2019/2161 ( 9 ) bei (ES) 2020/1828 ( 10 ) taip pat yra nuorodų į Reglamentą (ES) Nr. 524/2013. Tas direktyvas ketinama iš dalies pakeisti atskiru teisės aktu,
+
+PRIĖMĖ ŠĮ REGLAMENTĄ:
+
+1 straipsnis
+Reglamentas (ES) Nr. 524/2013 panaikinamas nuo 2025 m. liepos 20 d.
+
+2 straipsnis
+1. Europos elektroninio ginčų sprendimo platformos (toliau – EGS platforma) veikla nutraukiama.
+2. Skundų pateikimas EGS platformoje nutraukiamas 2025 m. kovo 20 d.
+3. Ne vėliau kaip 2025 m. kovo 20 d. Komisija EGS platformos naudotojus, kurių bylos yra tebenagrinėjamos, informuoja apie EGS platformos veiklos nutraukimą ir tokiems naudotojams pasiūlo pagalbą išgauti su jų bylomis susijusius duomenis, su kuriais jie gali susipažinti, jei jie to pageidauja.
+4. Ne vėliau kaip 2025 m. liepos 20 d. visa EGS platformoje esanti su bylomis susijusi informacija, įskaitant asmens duomenis, ištrinama.
+
+3 straipsnis
+Reglamento (ES) 2017/2394 dalinis pakeitimas
+Reglamento (ES) 2017/2394 priedo 22 punktas išbraukiamas.
+
+4 straipsnis
+Reglamento (ES) 2018/1724 dalinis pakeitimas
+Reglamento (ES) 2018/1724 III priedo 7 punktas pakeičiamas taip:
+„7. | Pagal Europos Parlamento ir Tarybos direktyvos 2013/11/ES ( *1 ) 20 straipsnio 4 dalį Komisijos sudarytas alternatyvaus vartotojų ginčų sprendimo subjektų sąrašas.
+
+5 straipsnis
+Įsigaliojimas
+Šis reglamentas įsigalioja dvidešimtą dieną po jo paskelbimo Europos Sąjungos oficialiajame leidinyje .
+
+Šis reglamentas privalomas visas ir tiesiogiai taikomas visose valstybėse narėse.
+Priimta Briuselyje 2024 m. gruodžio 19 d.
+Europos Parlamento vardu
+Pirmininkė
+R. METSOLA
+Tarybos vardu
+Pirmininkas
+BÓKA J.
+( 1 ) OL C, C/2024/2482, 2024 4 23, ELI: http://data.europa.eu/eli/C/2024/2482/oj .
+( 2 ) 2024 m. kovo 13 d. Europos Parlamento pozicija (dar nepaskelbta Oficialiajame leidinyje) ir 2024 m. lapkričio 19 d. Tarybos pozicija, priimta per pirmąjį svarstymą (dar nepaskelbta Oficialiajame leidinyje). 2024 m. gruodžio 17 d. Europos Parlamento pozicija (dar nepaskelbta Oficialiajame leidinyje).
+( 3 ) 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 524/2013 dėl elektroninio vartotojų ginčų sprendimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB (Reglamentas dėl vartotojų EGS) ( OL L 165, 2013 6 18, p. 1 ).
+( 4 ) 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB (Direktyva dėl vartotojų AGS) ( OL L 165, 2013 6 18, p. 63 ).
+( 5 ) 2024 m. rugsėjo 23 d. Europos Parlamento ir Tarybos reglamentas (ES, Euratomas) 2024/2509 dėl Sąjungos bendrajam biudžetui taikomų finansinių taisyklių ( OL L, 2024/2509, 2024 9 26, ELI: http://data.europa.eu/eli/reg/2024/2509/oj ).
+( 6 ) 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 ( OL L 345, 2017 12 27, p. 1 ).
+( 7 ) 2018 m. spalio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1724, kuriuo sukuriami bendrieji skaitmeniniai vartai, skirti suteikti prieigą prie informacijos, procedūrų ir pagalbos bei problemų sprendimo paslaugų, ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012 ( OL L 295, 2018 11 21, p. 1 ).
+( 8 ) 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB ( OL L 326, 2015 12 11, p. 1 ).
+( 9 ) 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2161, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyvos 98/6/EB, 2005/29/EB ir 2011/83/ES, kiek tai susiję su geresniu Sąjungos vartotojų apsaugos taisyklių vykdymo užtikrinimu ir modernizavimu ( OL L 328, 2019 12 18, p. 7 ).
+( 10 ) 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 dėl atstovaujamųjų ieškinių siekiant apsaugoti vartotojų kolektyvinius interesus, kuria panaikinama Direktyva 2009/22/EB ( OL L 409, 2020 12 4, p. 1 ).

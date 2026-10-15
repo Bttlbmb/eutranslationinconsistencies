@@ -1,0 +1,446 @@
+ROZPORZĄDZENIE (WE) NR 1924/2006 PARLAMENTU EUROPEJSKIEGO I RADY
+z dnia 20 grudnia 2006 r.
+w sprawie oświadczeń żywieniowych i zdrowotnych dotyczących żywności
+
+PARLAMENT EUROPEJSKI I RADA UNII EUROPEJSKIEJ,
+uwzględniając Traktat ustanawiający Wspólnotę Europejską, w szczególności jego art. 95,
+uwzględniając wniosek Komisji,
+uwzględniając opinię Europejskiego Komitetu Ekonomiczno-Społecznego ( 1 ),
+stanowiąc zgodnie z procedurą określoną w art. 251 Traktatu ( 2 ),
+(1) | Coraz więcej środków spożywczych jest etykietowanych i reklamowanych we Wspólnocie przy wykorzystaniu oświadczeń żywieniowych i zdrowotnych. Dla zapewnienia wysokiego poziomu ochrony konsumentów i ułatwienia im wyboru, wprowadzane na rynek produkty, w tym produkty importowane, powinny być bezpieczne i odpowiednio etykietowane. Zróżnicowany i zrównoważony sposób odżywiania się jest niezbędny dla zdrowia, a znaczenie pojedynczych produktów w kontekście ogólnej diety jest względne.
+(2) | Różnice między przepisami krajowymi dotyczącymi takich oświadczeń mogą utrudniać swobodny przepływ żywności i stwarzać nierówne warunki konkurencji. Wywierają one zatem bezpośredni wpływ na funkcjonowanie rynku wewnętrznego. Konieczne jest więc przyjęcie przepisów wspólnotowych w sprawie oświadczeń żywieniowych i zdrowotnych dotyczących żywności.
+(3) | Przepisy ogólne dotyczące etykietowania są zawarte w dyrektywie 2000/13/WE Parlamentu Europejskiego i Rady z dnia 20 marca 2000 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich w zakresie etykietowania prezentacji i reklamy środków spożywczych ( 3 ). Dyrektywa 2000/13/WE co do zasady zakazuje posługiwania się informacjami, które wprowadzałyby nabywcę w błąd lub przypisywałyby żywności właściwości lecznicze. Niniejsze rozporządzenie powinno uzupełniać przepisy ogólne dyrektywy 2000/13/WE i ustanawiać szczegółowe przepisy dotyczące stosowania skierowanych do konsumentów oświadczeń żywieniowych i zdrowotnych dotyczących żywności.
+(4) | Niniejsze rozporządzenie powinno mieć zastosowanie do wszelkich oświadczeń żywieniowych i zdrowotnych przedstawianych w przekazach o charakterze komercyjnym, w tym między innymi w reklamie rodzajowej danych kategorii żywności i w kampaniach promocyjnych takich jak np. kampanie wspierane w całości lub w części przez organy władzy publicznej. Nie powinno ono mieć zastosowania do oświadczeń przedstawianych w przekazach o charakterze niekomercyjnym, jak np. w wytycznych lub poradach żywieniowych, wydawanych przez organy i jednostki władzy publicznej odpowiedzialne za zdrowie lub w niekomercyjnych przekazach i informacjach w prasie oraz w publikacjach naukowych. Niniejsze rozporządzenie powinno mieć zastosowanie również do znaków towarowych i marek, które mogą być odbierane jako informacje żywieniowe lub zdrowotne.
+(5) | Z zakresu stosowania niniejszego rozporządzenia powinny zostać wyłączone oznaczenia o charakterze rodzajowym wykorzystywane zwyczajowo do określania właściwości danej kategorii żywności lub napojów, które mogłyby mieć wpływ na zdrowie ludzi, jak na przykład „ułatwiające trawienie” lub cukierki „na kaszel”.
+(6) | Oświadczenia żywieniowe dotyczące właściwości innych niż korzystne nie są objęte zakresem stosowania niniejszego rozporządzenia. Państwa Członkowskie zamierzające wprowadzić rozwiązania krajowe w zakresie oświadczeń żywieniowych dotyczących właściwości innych niż korzystne powinny powiadomić Komisję i inne Państwa Członkowskie o takich rozwiązaniach zgodnie z dyrektywą 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego ( 4 ).
+(7) | Na poziomie międzynarodowym w kodeksie żywnościowym (Codex Alimentarius) w 1991 r. przyjęto ogólne wytyczne w sprawie oświadczeń, a w roku 1997 — wytyczne w sprawie stosowania oświadczeń żywieniowych. Komisja Kodeksu Żywnościowego przyjęła poprawkę do tych drugich w roku 2004. Poprawka ta dotyczy włączenia oświadczeń zdrowotnych do wytycznych z roku 1997. W sposób należyty uwzględniono definicje i warunki zawarte w wytycznych kodeksu żywnościowego.
+(8) | Przewidziana w rozporządzeniu Rady (WE) nr 2991/94 z dnia 5 grudnia 1994 r. określającym normy dla tłuszczów do smarowania ( 5 ) możliwość stosowania oświadczenia „niskotłuszczowy” w odniesieniu do tłuszczów do smarowania powinna możliwie jak najszybciej zostać dostosowana do przepisów niniejszego rozporządzenia. Do tego czasu rozporządzenie (WE) nr 2991/94 ma zastosowanie do produktów nim objętych.
+(9) | Istnieje szeroki zakres składników odżywczych i innych substancji, obejmujący w szczególności, witaminy, składniki mineralne wraz z pierwiastkami śladowymi, aminokwasy, niezbędne nienasycone kwasy tłuszczowe, błonnik pokarmowy, różne wyciągi roślinne i ziołowe, które wywierają określone skutki żywieniowe lub fizjologiczne i mogą znajdować się w żywności oraz być przedmiotem oświadczenia. Należy zatem ustalić ogólne zasady odnoszące się do wszystkich oświadczeń dotyczących żywności w celu zapewnienia konsumentom wysokiego poziomu ochrony, dostarczenia konsumentom wiedzy niezbędnej do dokonania wyboru z pełną znajomością faktów, jak również stworzenia dla branży spożywczej równych warunków konkurencji.
+(10) | Żywność, która jest promowana przy użyciu odpowiednich oświadczeń, może być postrzegana przez konsumentów jako produkt o korzystniejszych właściwościach odżywczych, fizjologicznych lub zdrowotnych niż podobne lub inne produkty, do których takie składniki odżywcze i inne substancje nie zostały dodane. Może to skłonić konsumentów do podejmowania decyzji, które wpłyną bezpośrednio na całkowitą ilość spożywanych przez nich poszczególnych składników odżywczych lub innych substancji w sposób, który byłby niezgodny z zaleceniami naukowymi. Aby zapobiec takiemu niekorzystnemu efektowi właściwe jest wprowadzenie pewnych ograniczeń dotyczących produktów opatrzonych takimi oświadczeniami. W związku z tym czynniki takie, jak obecność pewnych substancji lub profil składników odżywczych produktu, stanowią odpowiednie kryteria oceny, czy produkt ten może zostać opatrzony oświadczeniami. Stosowanie takich kryteriów na poziomie krajowym jest wprawdzie uzasadnione, ponieważ umożliwia konsumentom dokonywanie świadomych wyborów w zakresie odżywiania, może jednak spowodować powstanie barier dla handlu wewnątrz Wspólnoty i z tego powodu powinno być ujednolicone na poziomie wspólnotowym. Zakresem stosowania niniejszego rozporządzenia nie powinny być objęte informacje i oświadczenia zdrowotne, które wspierają informacje organów krajowych lub Wspólnoty o szkodliwości nadużywania alkoholu.
+(11) | Stosowanie kryterium profili składników odżywczych miałoby na celu uniknięcie sytuacji, w których oświadczenia żywieniowe lub zdrowotne maskują ogólny status żywieniowy produktu żywnościowego, co mogłoby wprowadzać w błąd konsumentów próbujących uwzględniać aspekty zdrowotne przy dokonywaniu wyborów w kontekście zbilansowanego sposobu żywienia. Profile składników odżywczych zawarte w rozporządzeniu powinny służyć wyłącznie określaniu sytuacji, w których można przedstawiać odpowiednie oświadczenia. Powinny one być oparte na ogólnie przyjętych danych naukowych dotyczących zależności między sposobem odżywiania a zdrowiem. Profile powinny umożliwiać również wprowadzanie innowacyjnych produktów i powinny uwzględniać zmienność zwyczajów i tradycji żywieniowych oraz fakt, że poszczególne produkty mogą odgrywać znaczącą rolę w kontekście ogólnej diety.
+(12) | Przy ustalaniu profili składników odżywczych powinna zostać uwzględniona zawartość poszczególnych składników odżywczych i substancji o działaniu odżywczym lub fizjologicznym, szczególnie takich jak: tłuszcz, tłuszcze nasycone, izomery trans kwasów tłuszczowych, sól/sód i cukry, których nadmierne spożycie w ramach ogólnej diety nie jest wskazane, jak również wielo- i jednonienasycone kwasy tłuszczowe, przyswajalne węglowodany inne niż cukry, witaminy, składniki mineralne, białka i błonnik pokarmowy. Przy określaniu profili składników odżywczych powinny być brane pod uwagę różne kategorie żywności, jak również jej miejsce i rolę w ogólnej diecie, z należytym uwzględnieniem różnych zwyczajów żywieniowych i modeli konsumpcji istniejących w Państwach Członkowskich. Niezbędne mogą być wyjątki w celu uwzględnienia uznanych już profili składników odżywczych w odniesieniu do określonej żywności lub niektórych kategorii żywności, w zależności od ich roli i znaczenia w sposobie żywienia populacji. Wymagałoby to złożonych działań o charakterze technicznym, a przyjęcie odpowiednich środków powinno zostać powierzone Komisji, z uwzględnieniem stanowiska Europejskiego Urzędu ds. Bezpieczeństwa Żywności.
+(13) | Suplementy żywnościowe, zdefiniowane w dyrektywie 2002/46/WE Parlamentu Europejskiego i Rady z dnia 10 czerwca 2002 r. w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do suplementów żywnościowych ( 6 ), występujące w postaci płynnej i zawierające więcej niż 1,2 % objętości alkoholu nie są uznawane za napoje w rozumieniu niniejszego rozporządzenia.
+(14) | Wiele oświadczeń umieszczanych obecnie na etykietach i wykorzystywanych w reklamach żywności w niektórych Państwach Członkowskich dotyczy substancji, których korzystne działanie nie zostało wykazane lub co do których nie istnieje jeszcze jednoznaczne stanowisko naukowe. Należy zagwarantować, że w odniesieniu do substancji, których dotyczy oświadczenie, uzyskano potwierdzenie ich korzystnego działania odżywczego lub fizjologicznego.
+(15) | Aby zapewnić, że zamieszczane oświadczenia są zgodne z prawdą, konieczne jest, by substancja będąca przedmiotem oświadczenia była obecna w produkcie końcowym w wystarczających ilościach lub by dana substancja była nieobecna lub obecna w ilościach odpowiednio zmniejszonych, tak by powodować zgodne z oświadczeniem działanie odżywcze lub fizjologiczne. Substancja ta powinna być ponadto przyswajalna przez organizm. Dodatkowo, w odpowiednich przypadkach, znacząca ilość substancji, która według oświadczenia ma działanie odżywcze lub fizjologiczne, powinna być dostarczana w takiej ilości żywności, jakiej spożycia można racjonalnie oczekiwać.
+(16) | Ważne jest, by oświadczenia dotyczące żywności były zrozumiałe dla konsumenta oraz właściwe jest zapewnienie wszystkim konsumentom ochrony przed oświadczeniami wprowadzającymi w błąd. Jednakże po przyjęciu dyrektywy Rady 84/450/EWG z dnia 10 września 1984 r. w sprawie reklamy wprowadzającej w błąd i reklamy porównawczej ( 7 ) Trybunał Sprawiedliwości Wspólnot Europejskich w orzecznictwie w sprawach dotyczących reklamy uznaje konieczność badania jej wpływu na hipotetycznego, typowego konsumenta. Zgodnie z zasadą proporcjonalności oraz w celu umożliwienia skutecznego stosowania zawartych w niniejszym rozporządzeniu środków ochronnych, niniejsze rozporządzenie przyjmuje za punkt odniesienia przeciętnego konsumenta, który jest odpowiednio poinformowany oraz spostrzegawczy i ostrożny, z uwzględnieniem czynników społecznych, kulturowych i językowych zgodnie z wykładnią Trybunału Sprawiedliwości, jednak umożliwia również ochronę konsumentów, których cechy czynią ich szczególnie podatnymi na oświadczenia wprowadzające w błąd. Jeżeli oświadczenie skierowane jest do konkretnej grupy konsumentów, takiej jak dzieci, siłę oddziaływania takiego oświadczenia należy ocenić z perspektywy przeciętnego członka tej grupy. Pojęcie przeciętnego konsumenta nie jest oparte na danych statystycznych. Przy ustalaniu typowej reakcji przeciętnego konsumenta w danym przypadku sądy i organy krajowe będą musiały się opierać na własnej ocenie sytuacji, przy uwzględnieniu orzecznictwa Europejskiego Trybunału Sprawiedliwości.
+(17) | Głównym aspektem branym pod uwagę przy stosowaniu oświadczeń żywieniowych i zdrowotnych powinno być potwierdzenie naukowe, a podmioty działające na rynku spożywczym stosując takie oświadczenia powinny je uzasadniać. Oświadczenie powinno być potwierdzone naukowo poprzez uwzględnienie ogółu dostępnych danych naukowych i poprzez ocenę mocy naukowej dowodów.
+(18) | Oświadczenie żywieniowe lub zdrowotne nie powinno być zamieszczane, jeżeli nie jest zgodne z ogólnie przyjętymi zasadami żywieniowymi i zdrowotnymi lub, jeżeli stanowi zachętę lub przyzwolenie dla nadmiernego spożycia jakiejkolwiek żywności lub, jeżeli dyskredytuje dobre praktyki żywieniowe.
+(19) | Z uwagi na pozytywny wizerunek żywności opatrzonej oświadczeniami żywieniowymi i zdrowotnymi oraz potencjalny wpływ, jaki ta żywność może mieć na zwyczaje żywieniowe i całkowite spożycie składników odżywczych, konsument powinien mieć możliwość oceny ich ogólnej jakości żywieniowej. Dlatego określanie wartości odżywczej na wszystkich środkach spożywczych opatrzonych oświadczeniami zdrowotnymi powinno być obowiązkowe i wyczerpujące.
+(20) | Przepisy ogólne dotyczące oznaczania wartości odżywczej zawarte są w dyrektywie Rady 90/496/EWG z dnia 24 września 1990 r. w sprawie oznaczania wartości odżywczej środków spożywczych ( 8 ). Zgodnie z tą dyrektywą, jeżeli na etykiecie, w prezentacji lub w reklamie, z wyjątkiem reklamy ogólnej, zawarta jest informacja żywieniowa, określanie wartości odżywczej powinno być obowiązkowe. Jeżeli oświadczenie żywieniowe dotyczy cukrów, tłuszczów nasyconych, błonnika pokarmowego lub sodu, informacje, których podawanie jest wymagane, powinny obejmować informacje z grupy 2 zgodnie z definicją zawartą w art. 4 ust. 1 dyrektywy 90/496/EWG. Aby osiągnąć wysoki poziom ochrony konsumentów, obowiązek podawania informacji z grupy 2 powinien mieć odpowiednie zastosowanie tam, gdzie stosowane jest jakiekolwiek oświadczenie zdrowotne, z wyjątkiem reklamy ogólnej.
+(21) | Należy ponadto sporządzić wykaz dopuszczalnych oświadczeń żywieniowych i konkretnych warunków ich stosowania w oparciu o warunki stosowania takich oświadczeń przyjęte na szczeblu krajowym lub międzynarodowym oraz określone w przepisach wspólnotowych. Jakiekolwiek oświadczenie uznane za mające takie samo znaczenie dla konsumentów jak oświadczenie żywieniowe zawarte w wyżej wymienionym wykazie powinno podlegać takim samym, określonym w nim warunkom stosowania. Na przykład oświadczenia dotyczące dodatku witamin i składników mineralnych, takie jak „z …”, „z odtworzoną zawartością …”, „z dodatkiem …” lub „wzbogacone …” powinny podlegać warunkom dla oświadczenia „źródło …”. Wykaz ten powinien być regularnie aktualizowany w celu uwzględnienia nowych osiągnięć nauki i techniki. Ponadto w przypadku oświadczeń porównawczych konieczne jest wskazanie porównywanych produktów w sposób pozwalający na ich rozpoznanie przez konsumenta końcowego.
+(22) | Warunki dla oświadczeń takich jak „nie zawiera laktozy” lub „produkt bezglutenowy”, kierowane do grupy konsumentów ze określonymi zaburzeniami zdrowotnymi, powinny być przedmiotem dyrektywy Rady 89/398/EWG z dnia 3 maja 1989 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do środków spożywczych specjalnego przeznaczenia żywieniowego ( 9 ). Ponadto dyrektywa ta stwarza możliwość wskazywania na środkach spożywczych przeznaczonych do normalnego spożycia, że mogą one być stosowane przez wspomniane wyżej grupy konsumentów, jeżeli spełniają one warunki pozwalające na takie stwierdzenie. Do czasu ustalenia warunków stosowania takich stwierdzeń na poziomie Wspólnoty Państwa Członkowskie mogą utrzymać w mocy lub przyjąć właściwe środki krajowe.
+(23) | Na stosowanie oświadczeń zdrowotnych we Wspólnocie powinno się zezwalać jedynie po dokonaniu oceny naukowej spełniającej najwyższe możliwe standardy. Aby zapewnić ujednoliconą ocenę naukową takich oświadczeń, powinna być ona przeprowadzana przez Europejski Urząd ds. Bezpieczeństwa Żywności. Wnioskodawca powinien mieć możliwość uzyskania na żądanie dostępu do akt swojej sprawy, w celu sprawdzenia stanu zaawansowania postępowania.
+(24) | Obok czynników żywieniowych istnieje wiele innych czynników, które mogą mieć wpływ na stan psychiczny i zachowanie. Informowanie o tych funkcjach jest więc bardzo złożone i trudno jest w krótkim oświadczeniu na etykiecie lub w reklamie żywności zawrzeć obszerne, zgodne z prawdą i istotne informacje. Dlatego właściwe jest, przy stosowaniu oświadczeń o efektach psychologicznych i wpływie na zachowanie, wymaganie uzasadnienia naukowego.
+(25) | W świetle dyrektywy Komisji 96/8/WE z dnia 26 lutego 1996 r. w sprawie żywności przeznaczonej do stosowania w dietach o obniżonej wartości energetycznej ( 10 ), która zabrania umieszczania na etykietach, przy prezentacji i w reklamie produktów będących przedmiotem tej dyrektywy jakichkolwiek informacji na temat szybkości lub wielkości obniżenia masy ciała w następstwie stosowania tych produktów, uważa się za stosowne rozszerzenie tego ograniczenia na wszelkiego rodzaju żywność.
+(26) | Oświadczenia zdrowotne inne niż odnoszące się do zmniejszenia ryzyka choroby oraz do rozwoju i zdrowia dzieci, oparte na ogólnie zaakceptowanych danych naukowych, powinny być poddawane odrębnemu procesowi oceny i uzyskiwania zezwolenia. Konieczne jest zatem przyjęcie wspólnotowego wykazu takich dozwolonych oświadczeń po zasięgnięciu opinii Europejskiego Urzędu ds. Bezpieczeństwa Żywności. Ponadto, w celu pobudzania innowacyjności, oświadczenia zdrowotne oparte na nowo opracowanych danych naukowych powinny podlegać przyspieszonej procedurze udzielania zezwoleń.
+(27) | Aby nadążać za postępem naukowym i technologicznym, powyższy wykaz należy niezwłocznie aktualizować, kiedy tylko zajdzie taka konieczność. Aktualizacje takie stanowią środki wykonawcze o charakterze technicznym, a ich przyjęcie powinno być powierzone Komisji w celu uproszczenia i przyspieszenia procedury.
+(28) | Sposób odżywiania się jest jednym z wielu czynników wpływających na występowanie u ludzi niektórych chorób. Na zapadanie ludzi na niektóre choroby mogą mieć wpływ również inne czynniki, takie jak wiek, uwarunkowania genetyczne, poziom aktywności fizycznej, stosowanie tytoniu i innych używek, warunki środowiskowe i stres. W związku z tym do informacji dotyczących zmniejszania ryzyka choroby powinny mieć zastosowanie szczegółowe wymagania dotyczące etykietowania.
+(29) | Aby zagwarantować, że oświadczenia zdrowotne są zgodne z prawdą, zrozumiałe, rzetelne i przydatne dla konsumenta przy wyborze zdrowego sposobu żywienia, opinie wydawane przez Europejski Urząd ds. Bezpieczeństwa Żywności oraz przeprowadzane następnie procedury powinny uwzględniać sposób formułowania i przedstawiania oświadczeń zdrowotnych.
+(30) | W niektórych przypadkach naukowa ocena ryzyka nie może dostarczyć wszystkich informacji, na których powinna opierać się decyzja dotycząca zarządzania ryzykiem. Należy zatem wziąć pod uwagę inne zasadne czynniki, istotne dla rozważanej sprawy.
+(31) | W celu zapewnienia przejrzystości oraz aby uniknąć wielokrotnego składania wniosków dotyczących oświadczeń już poddanych ocenie, Komisja powinna stworzyć i aktualizować publiczny rejestr zawierający wykazy takich oświadczeń.
+(32) | W celu rozwoju badań naukowych prowadzonych przez przemysł rolno-spożywczy powinna być zapewniona właściwa ochrona inwestycji producentów innowacyjnych dokonanych podczas gromadzenia informacji i danych na poparcie wniosku składanego zgodnie z niniejszym rozporządzeniem. Ochrona ta musi być jednak ograniczona czasowo, aby uniknąć niepotrzebnych powtórzeń badań i analiz oraz aby ułatwić możliwość korzystania z tych oświadczeń przez małe i średnie przedsiębiorstwa (MŚP), które rzadko dysponują zasobami finansowymi pozwalającymi na prowadzenie działalności badawczej.
+(33) | MŚP stanowią istotną wartość dodaną dla europejskiego przemysłu żywieniowego pod względem jakości oraz kultywowania różnych zwyczajów żywieniowych. Aby ułatwić wdrażanie niniejszego rozporządzenia, Europejski Urząd ds. Bezpieczeństwa Żywności powinien udostępnić we właściwym czasie odpowiednie wskazówki techniczne oraz narzędzia, w szczególności dla MŚP.
+(34) | Biorąc pod uwagę szczególny charakter środków spożywczych opatrzonych oświadczeniami, organom kontrolnym należy udostępnić, oprócz środków, które zwykle są do ich dyspozycji, dodatkowe środki ułatwiające skuteczną kontrolę takich produktów.
+(35) | Niezbędne są odpowiednie środki przejściowe, aby podmioty działające na rynku spożywczym mogły dostosować się do przepisów niniejszego rozporządzenia.
+(36) | Ponieważ cel niniejszego rozporządzenia, mianowicie zapewnienie skutecznego funkcjonowania rynku wewnętrznego w odniesieniu do oświadczeń żywieniowych i zdrowotnych przy jednoczesnym zapewnieniu wysokiego poziomu ochrony konsumentów, nie może zostać osiągnięty w sposób wystarczający przez Państwa Członkowskie i można go w związku z tym lepiej osiągnąć na poziomie Wspólnoty, Wspólnota może podjąć działania zgodnie z zasadą pomocniczości, określoną w art. 5 Traktatu. Zgodnie z zasadą proporcjonalności, określoną w tym artykule, niniejsze rozporządzenie nie wykracza poza to, co jest konieczne do osiągnięcia tego celu.
+(37) | Środki niezbędne do wprowadzenia w życie niniejszego rozporządzenia powinny zostać przyjęte zgodnie z decyzją Rady 1999/468/WE z dnia 28 czerwca 1999 r. ustanawiającą warunki wykonywania uprawnień wykonawczych przyznanych Komisji ( 11 ),
+PRZYJMUJĄ NINIEJSZE ROZPORZĄDZENIE:
+
+ROZDZIAŁ I
+PRZEDMIOT, ZAKRES STOSOWANIA I DEFINICJE
+
+Artykuł 1
+Przedmiot i zakres stosowania
+1. Niniejsze rozporządzenie harmonizuje przepisy ustawowe, wykonawcze i działania administracyjne Państw Członkowskich odnoszące się do oświadczeń żywieniowych i zdrowotnych w celu zapewnienia skutecznego funkcjonowania rynku wewnętrznego przy jednoczesnym zapewnianiu wysokiego poziomu ochrony konsumentów.
+2. Niniejsze rozporządzenie znajduje zastosowanie do oświadczeń żywieniowych i zdrowotnych zawartych w przekazach komercyjnych, zarówno w etykietowaniu, przy prezentacji, jak i w reklamach żywności, przeznaczonej dla konsumentów końcowych.
+Artykuł 7 oraz art. 10 ust. 2 lit. a) i b) nie mają zastosowania do produktów żywnościowych niepaczkowanych (łącznie ze świeżymi produktami, takimi jak owoce, warzywa lub chleb) przeznaczonych na sprzedaż konsumentowi finalnemu lub przeznaczonych dla zakładów żywienia zbiorowego, a także do produktów żywnościowych pakowanych w miejscu sprzedaży na życzenie kupującego lub paczkowanych w celu niezwłocznej sprzedaży. Do czasu ostatecznego przyjęcia środków wspólnotowych, mających na celu zmianę elementów innych niż istotne niniejszego rozporządzenia również poprzez jego uzupełnienie, zgodnie z procedurą regulacyjną połączona z kontrolą, o której mowa w art. 25 ust. 3, obowiązywać mogą w tym względzie przepisy krajowe.
+Niniejsze rozporządzenie znajduje również zastosowanie do żywności przeznaczonej dla restauracji, szpitali, szkół, stołówek i podobnych instytucji żywienia zbiorowego.
+3. Znak towarowy, marka lub nazwa marketingowa pojawiające się na etykiecie, przy prezentacji lub w reklamie żywności, która może być odbierana jako oświadczenie żywieniowe lub zdrowotne, mogą być stosowane bez poddania ich procedurze uzyskania zezwolenia przewidzianej w niniejszym rozporządzeniu pod warunkiem, że towarzyszy im oświadczenie żywieniowe lub zdrowotne na tej samej etykiecie, przy prezentacji lub w reklamie, które spełnia wymogi niniejszego rozporządzenia.
+4. W przypadku określeń o charakterze rodzajowym tradycyjnie stosowanych w celu podkreślenia szczególnych cech danego rodzaju żywności lub napojów mogących mieć wpływ na zdrowie ludzkie możliwe jest przyjęcie odstępstwa od ust. 3, mającego na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie, zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3, na wniosek zainteresowanych podmiotów działających na rynku spożywczym. Wniosek jest przesyłany właściwemu organowi krajowemu państwa członkowskiego, który niezwłocznie przekazuje go Komisji. Komisja przyjmuje i podaje do wiadomości publicznej przepisy dotyczące podmiotów działających na rynku spożywczym, zgodnie z którymi należy sporządzać tego rodzaju wnioski, w celu zagwarantowania rozpatrzenia ich w przejrzysty sposób i w rozsądnym terminie.
+5. Niniejsze rozporządzenie jest stosowane bez uszczerbku dla następujących przepisów wspólnotowych:
+a) dyrektywy Rady 89/398/EWG i przyjętych dyrektyw odnoszących się do środków spożywczych przeznaczonych do szczególnych celów;
+b) dyrektywy Rady 80/777/EWG z dnia 15 lipca 1980 r. w sprawie zbliżenia ustawodawstw Państw Członkowskich w zakresie wydobywania i wprowadzania do obrotu naturalnych wód mineralnych ( 12 );
+c) dyrektywy Rady 98/83/WE z dnia 3 listopada 1998 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi ( 13 );
+d) dyrektywy 2002/46/WE.
+
+Artykuł 2
+Definicje
+1. Do celów niniejszego rozporządzenia stosuje się:
+a) definicje „żywności”, „podmiotów działających na rynku spożywczym”, „wprowadzania na rynek” oraz „konsumenta końcowego” zawarte w art. 2, art. 3 ust. 3, art. 3 ust. 8 i art. 3 ust. 18 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności i ustanawiającego procedury w zakresie bezpieczeństwa żywności ( 14 );
+b) definicję „suplementu żywnościowego” zawartą w dyrektywie 2002/46/WE;
+c) definicje „określania wartości odżywczej”, „białka”, „węglowodanów”, „cukrów”, „tłuszczu”, „kwasów tłuszczowych nasyconych”, „kwasów tłuszczowych jednonienasyconych”, „kwasów tłuszczowych wielonienasyconych”, „błonnika pokarmowego” zawarte w dyrektywie 90/496/EWG;
+d) definicję „etykietowania” zawartą w art. 1 ust. 3 lit. a) dyrektywy 2000/13/WE.
+2. Zastosowanie mają również następujące definicje:
+1) „oświadczenie” oznacza każdy komunikat lub przedstawienie, które, zgodnie z przepisami wspólnotowymi lub krajowymi, nie są obowiązkowe, łącznie z przedstawieniem obrazowym, graficznym lub symbolicznym w jakiejkolwiek formie, które stwierdza, sugeruje lub daje do zrozumienia, że żywność ma szczególne właściwości;
+2) „składnik odżywczy” oznacza białko, węglowodany, tłuszcz, błonnik pokarmowy, sód, witaminy i składniki mineralne, wymienione w załączniku do dyrektywy 90/496/EWG, oraz substancje, które należą do jednej z tych kategorii lub stanowią jej składniki;
+3) „inna substancja” oznacza substancję inną niż składnik odżywczy, mającą działanie odżywcze lub fizjologiczne;
+4) „oświadczenie żywieniowe” oznacza każde oświadczenie, które stwierdza, sugeruje lub daje do zrozumienia, że dana żywność ma szczególne właściwości odżywcze ze względu na:
+a) energię (wartość kaloryczną), której
+(i) dostarcza,
+(ii) dostarcza w zmniejszonej lub zwiększonej ilości, lub
+(iii) nie dostarcza, lub
+b) substancje odżywcze lub inne substancje,
+(i) które zawiera,
+(ii) które zawiera w zmniejszonej lub zwiększonej ilości, lub
+(iii) których nie zawiera;
+5) „oświadczenie zdrowotne” oznacza każde oświadczenie, które stwierdza, sugeruje lub daje do zrozumienia, że istnieje związek pomiędzy kategorią żywności, daną żywnością lub jednym z jej składników, a zdrowiem;
+6) „oświadczenie o zmniejszaniu ryzyka choroby” oznacza każde oświadczenie zdrowotne, które stwierdza, sugeruje lub daje do zrozumienia, że spożycie danej kategorii żywności, danej żywności lub jednego z jego składników znacząco zmniejsza jakiś czynnik ryzyka w rozwoju choroby dotykającej ludzi;
+7) „Urząd” oznacza Europejski Urząd ds. Bezpieczeństwa Żywności, utworzony na mocy rozporządzenia (WE) nr 178/2002.
+
+ROZDZIAŁ II
+ZASADY OGÓLNE
+
+Artykuł 3
+Zasady ogólne dotyczące wszystkich oświadczeń
+Oświadczenia żywieniowe i zdrowotne mogą być stosowane przy etykietowaniu, prezentacji i w reklamie żywności wprowadzanej na rynek we Wspólnocie jedynie w przypadku, gdy są one zgodne z przepisami niniejszego rozporządzenia.
+Bez uszczerbku dla dyrektyw 2000/13/WE i 84/450/EWG, oświadczenia żywieniowe i zdrowotne nie mogą:
+a) być nieprawdziwe, niejednoznaczne lub wprowadzające w błąd;
+b) budzić wątpliwości co do bezpieczeństwa lub adekwatności odżywczej innej żywności;
+c) zachęcać do nadmiernego spożycia danej żywności lub stanowić przyzwolenia dla niego;
+d) stwierdzać, sugerować lub dawać do zrozumienia, że zrównoważony i zróżnicowany sposób odżywiania się nie może zapewnić odpowiednich ilości składników odżywczych w ujęciu ogólnym. Odstępstwa w przypadku składników odżywczych, których nie można dostarczyć w wystarczającej ilości przez stosowanie zrównoważonego i zróżnicowanego sposobu odżywiania się, łącznie z warunkami ich stosowania, mającego na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie, mogą być przyjęte zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3, przy uwzględnieniu szczególnych warunków występujących w państwach członkowskich;
+e) odnosić się do zmian w funkcjonowaniu organizmu w sposób wzbudzający lub wykorzystujący lęk u konsumenta przy pomocy tekstu bądź przy pomocy obrazów, przedstawień graficznych lub symbolicznych.
+
+Artykuł 4
+Warunki stosowania oświadczeń żywieniowych i zdrowotnych
+1. W terminie do dnia 19 stycznia 2009 r. Komisja, zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3, ustala konkretne profile składników odżywczych, wraz ze zwolnieniami, którym musi odpowiadać żywność lub pewne kategorie żywności, aby mogły być one opatrzone oświadczeniem żywieniowym lub zdrowotnym, oraz warunki stosowania oświadczeń żywieniowych lub zdrowotnych w stosunku do żywności lub kategorii żywności w odniesieniu do profilów składników odżywczych. Środki te, mające na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie, zostaną przyjęte zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3.
+Profile składników odżywczych dla żywności lub niektórych kategorii żywności są ustalane z uwzględnieniem w szczególności następujących elementów:
+a) ilości określonych składników odżywczych i innych substancji zawartych w żywności, takich jak tłuszcz, nasycone kwasy tłuszczowe, izomery trans kwasów tłuszczowych, cukry i sól/sód;
+b) roli i znaczenia danego produktu spożywczego (lub kategorii żywności) oraz ich udziału w sposobie żywienia populacji ogółem lub, w stosownych przypadkach, niektórych grup ryzyka, w tym dzieci;
+c) ogólnego składu odżywczego produktu spożywczego oraz obecności składników odżywczych, które zostały naukowo uznane za wywierające wpływ na stan zdrowia.
+Profile składników odżywczych są opierane na naukowej wiedzy na temat żywności i żywienia oraz ich wpływu na zdrowie.
+Przy ustalaniu profili składników odżywczych Komisja żąda od Urzędu dostarczenia w ciągu 12 miesięcy odpowiednich opinii naukowych, koncentrującego się w szczególności na następujących kwestiach:
+(i) czy profile powinny być ustalane dla żywności w ogóle lub dla kategorii żywności;
+(ii) wybór i równowaga składników odżywczych, które mają zostać uwzględnione;
+(iii) wybór wartości odniesienia/podstawy referencyjnej dla profili;
+(iv) stosowana metoda przy tworzeniu profili, oraz
+(v) zdolność funkcjonowania i testowanie zaproponowanego systemu.
+Przy określaniu profili składników odżywczych Komisja prowadzi konsultacje z zainteresowanymi podmiotami, w szczególności z podmiotami działającymi na rynku spożywczym i grupami konsumentów.
+Profile składników odżywczych i warunki ich stosowania, mające na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie, są aktualizowane zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3, w celu uwzględnienia postępu naukowego w tej dziedzinie oraz po przeprowadzeniu konsultacji z zainteresowanymi stronami, w szczególności z podmiotami działającymi na rynku spożywczym oraz grupami konsumentów.
+2. W drodze odstępstwa od ust. 1 oświadczenia żywieniowe:
+a) odnoszące się do zmniejszonej zawartości tłuszczu, nasyconych kwasów tłuszczowych, izomerów trans kwasów tłuszczowych, cukrów i soli/sodu, są dopuszczalne bez odwoływania się do profilu dla konkretnego składnika spożywczego, którego takie oświadczenia dotyczą, jeśli spełniają wymogi niniejszego rozporządzenia;
+b) są dopuszczalne w przypadkach, gdy pojedynczy składnik odżywczy wykracza poza profil pod warunkiem, że oświadczenie odnoszące się do konkretnego składnika odżywczego znajduje się w pobliżu, na tej samej stronie lub jest tak samo widoczne, jak oświadczenie żywieniowe. Oświadczenie to ma następującą treść: „Wysoka zawartość ( 15 )”.
+3. Napoje o zawartości alkoholu większej niż 1,2 % objętości nie mogą być opatrywane oświadczeniami zdrowotnymi.
+Jeżeli chodzi o oświadczenia żywieniowe, dopuszczalne są jedynie oświadczenia odnoszące się do niskiego stężenia alkoholu, zmniejszonej zawartości alkoholu lub zmniejszonej zawartości energetycznej napojów zawierających ponad 1,2 % objętości alkoholu.
+4. Z braku szczegółowych przepisów wspólnotowych dotyczących oświadczeń żywieniowych odnoszących się do niskiego stężenia alkoholu, zmniejszonej zawartości lub nieobecności alkoholu w napojach, które normalnie zawierają alkohol, zastosowanie mogą mieć właściwe przepisy krajowe, zgodnie z postanowieniami Traktatu.
+5. Środki określające żywność lub kategorie żywności, inne niż wymienione w ust. 3, w przypadku których umieszczanie oświadczeń żywieniowych lub zdrowotnych ma zostać ograniczone lub zakazane i mające na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie, mogą zostać przyjęte zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3, w świetle dowodów naukowych.
+
+Artykuł 5
+Ogólne warunki
+1. Stosowanie oświadczeń żywieniowych lub zdrowotnych jest dozwolone jedynie w przypadkach, gdy spełnione są następujące warunki:
+a) na podstawie ogólnie uznanych dowodów naukowych potwierdzone zostało, że obecność lub brak, albo też obniżona zawartość w danej żywności lub kategorii żywności składnika odżywczego lub innej substancji, do której odnosi się oświadczenie, ma korzystne działanie odżywcze lub fizjologiczne;
+b) składnik odżywczy lub inna substancja, której dotyczy oświadczenie:
+(i) jest zawarty(-a) w produkcie końcowym w znaczącej ilości określonej w przepisach wspólnotowych lub — gdy nie istnieją takie przepisy — w ilości, która ma zgodne z oświadczeniem działanie odżywcze lub fizjologiczne, co potwierdzają ogólnie uznane dowody naukowe; lub
+(ii) nie jest w nim zawarty(-a) lub jest zawarty(-a) w obniżonej ilości, która ma zgodne z oświadczeniem działanie odżywcze lub fizjologiczne, co potwierdzają ogólnie uznane dowody naukowe;
+c) w odpowiednich przypadkach, składnik odżywczy lub inna substancja, której dotyczy oświadczenie, występuje w postaci przyswajalnej przez organizm;
+d) ilość produktu, jakiej spożycia można racjonalnie oczekiwać, zapewnia znaczącą ilość składnika odżywczego lub innej substancji, której dotyczy oświadczenie, określoną w przepisach wspólnotowych lub — gdy nie istnieją takie przepisy — znaczącą ilość, która przyniesie zgodne z oświadczeniem działanie odżywcze lub fizjologiczne, co potwierdzają ogólnie uznane dowody naukowe;
+e) zgodność ze szczegółowymi warunkami określonymi w zależności od przypadku w rozdziale III lub w rozdziale IV.
+2. Stosowanie oświadczeń żywieniowych i zdrowotnych jest dopuszczalne tylko w przypadku, gdy można oczekiwać, że przeciętny konsument zrozumie opisane w oświadczeniu korzystne działanie.
+3. Oświadczenia żywieniowe i oświadczenia zdrowotne odnoszą się do żywności przygotowanej do spożycia zgodnie z instrukcjami producenta.
+
+Artykuł 6
+Naukowe potwierdzanie oświadczeń
+1. Oświadczenia żywieniowe i zdrowotne muszą się opierać na ogólnie przyjętych dowodach naukowych i być nimi potwierdzone.
+2. Podmiot działający na rynku spożywczym, który zamieszcza oświadczenie żywieniowe lub zdrowotne, uzasadnia zastosowanie tego oświadczenia.
+3. Właściwe organy Państwa Członkowskiego mogą zobowiązać podmiot działający na rynku spożywczym lub osobę, która wprowadza produkt na rynek, do przedstawienia wszystkich istotnych elementów i danych, które potwierdzają zgodność z niniejszym rozporządzeniem.
+
+Artykuł 7
+Informacje o wartościach odżywczych
+Etykietowanie dotyczące wartości odżywczej produktów, w odniesieniu do których składane jest oświadczenie żywieniowe lub oświadczenie zdrowotne, jest obowiązkowe, z wyjątkiem reklamy ogólnej. Wymagane informacje zawierają elementy określone w art. 30 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności ( 16 ). Jeżeli składane jest oświadczenie żywieniowe lub oświadczenie zdrowotne w odniesieniu do składnika odżywczego, o którym mowa w art. 30 ust. 2 rozporządzenia (UE) nr 1169/2011, podaje się ilość tego składnika odżywczego zgodnie z art. 31–34 tego rozporządzenia.
+Informacja o ilości substancji, której(-ych) dotyczy oświadczenie żywieniowe lub zdrowotne, a która nie jest podana w etykietowaniu dotyczącym wartości odżywczej, jest zamieszczana w tym samym polu widzenia, w którym znajduje się etykietowanie dotyczące wartości odżywczej, i wyrażana zgodnie z art. 31, 32 i 33 rozporządzenia (UE) nr 1169/2011. Jednostki miary wykorzystywane do wyrażenia ilości substancji są jednostkami właściwymi dla poszczególnych substancji.
+W przypadku suplementów żywnościowych informacje są podawane zgodnie z art. 8 dyrektywy 2002/46/WE.
+
+ROZDZIAŁ III
+OŚWIADCZENIA ŻYWIENIOWE
+
+Artykuł 8
+Warunki szczególne
+1. Oświadczenia żywieniowe są dozwolone jedynie w przypadku, gdy są wymienione w załączniku i są zgodne z wymogami określonymi w niniejszym rozporządzeniu.
+2. Zmiany załącznika przyjmuje się zgodnie z procedurą, o której mowa w art. 25 ust. 2 oraz, w stosownych przypadkach, po zasięgnięciu opinii Urzędu. W odpowiednich przypadkach Komisja włącza zainteresowane podmioty, w szczególności podmioty działające na rynku spożywczym i grupy konsumentów, do oceny odbioru i zrozumienia danych oświadczeń.
+
+Artykuł 9
+Oświadczenia porównawcze
+1. Bez uszczerbku dla dyrektywy 84/450/EWG można dokonywać jedynie porównań żywności należącej do tej samej kategorii, z uwzględnieniem zakresu różnych rodzajów żywności w tej kategorii. Podaje się różnicę w ilości danego składnika odżywczego lub wartości energetycznej, a porównanie dotyczy tej samej ilości żywności.
+2. Porównawcze oświadczenia żywieniowe porównują skład danej żywności z szeregiem innych produktów żywnościowych tej samej kategorii, która nie ma składu pozwalającego na umieszczenie takiego oświadczenia, w tym żywności innych marek.
+
+ROZDZIAŁ IV
+OŚWIADCZENIA ZDROWOTNE
+
+Artykuł 10
+Warunki szczególne
+1. Oświadczenia zdrowotne są zabronione, o ile nie są one zgodne z ogólnymi wymaganiami zawartymi w rozdziale II i wymaganiami szczególnymi zawartymi w niniejszym rozdziale oraz o ile nie zostało udzielone w odniesieniu do nich zezwolenie zgodnie z niniejszym rozporządzeniem i nie figurują w wykazie dozwolonych oświadczeń zawartym w art. 13 i 14.
+2. Oświadczenia zdrowotne są dopuszczalne jedynie pod warunkiem umieszczenia następujących informacji przy etykietowaniu, a jeżeli nie występuje ono — przy prezentacji i w reklamie:
+a) stwierdzenie wskazujące na znaczenie zrównoważonego sposobu żywienia i zdrowego trybu życia;
+b) ilość środka spożywczego i poziom jego spożycia niezbędny do uzyskania korzystnego działania, o którym mówi dane oświadczenie;
+c) w stosownych przypadkach, stwierdzenie skierowane do osób, które powinny unikać danego środka spożywczego; i
+d) odpowiednie ostrzeżenie w przypadku produktów, które mogą stanowić zagrożenie dla zdrowia, jeżeli są spożywane w nadmiarze.
+3. Odniesienie do ogólnych, nieswoistych korzyści, jakie przynosi dany składnik odżywczy lub dana żywność dla ogólnego dobrego stanu zdrowia i dla związanego ze zdrowiem dobrego samopoczucia może być zamieszczone jedynie w przypadku, gdy towarzyszy mu oświadczenie zdrowotne znajdujące się w wykazach zawartych w art. 13 lub 14.
+4. W stosownych przypadkach wytyczne dotyczące stosowania niniejszego artykułu są przyjmowane zgodnie z procedurą, o której mowa w art. 25 ust. 2 i, jeżeli jest to konieczne, w porozumieniu z podmiotami zainteresowanymi, w szczególności z podmiotami działającymi na rynku spożywczym i grupami konsumentów.
+
+Artykuł 11
+Krajowe stowarzyszenia zrzeszające lekarzy, specjalistów ds. żywienia i dietetyków oraz organizacje charytatywne związane ze zdrowiem
+Przy braku szczególnych norm wspólnotowych dotyczących zaleceń lub zatwierdzeń wydawanych przez krajowe stowarzyszenia zrzeszające lekarzy, specjalistów ds. żywienia i dietetyków oraz przez instytucje charytatywne związane ze zdrowiem, zastosowanie mają odpowiednie normy krajowe zgodnie z postanowieniami Traktatu.
+
+Artykuł 12
+Ograniczenia stosowania niektórych oświadczeń zdrowotnych
+Następujące oświadczenia zdrowotne są niedozwolone:
+a) oświadczenia, które sugerują, że niespożycie danej żywności mogłoby mieć wpływ na zdrowie;
+b) oświadczenia, które odwołują się do szybkości lub wielkości obniżenia masy ciała;
+c) oświadczenia, które odwołują się do zaleceń poszczególnych lekarzy lub specjalistów w zakresie zdrowia i innych stowarzyszeń niewymienionych w art. 11.
+
+Artykuł 13
+Oświadczenia zdrowotne inne niż dotyczące zmniejszenia ryzyka choroby oraz rozwoju i zdrowia dzieci
+1. Oświadczenia zdrowotne opisujące lub powołujące się na:
+a) rolę składnika odżywczego lub innej substancji we wzroście, rozwoju i funkcjach organizmu, lub
+b) funkcje psychologiczne lub behawioralne, lub
+c) bez uszczerbku dla dyrektywy 96/8/WE, odchudzanie lub kontrolę wagi ciała lub zmniejszanie poczucia głodu lub zwiększanie poczucia sytości lub zmniejszanie ilości energii dostępnej z danego sposobu odżywiania się,
+które są wymienione w wykazie określonym w ust. 3, mogą być stosowane bez konieczności zachowania procedur określonych w art. 15-19, jeżeli są:
+(i) oparte na ogólnie zaakceptowanych dowodach naukowych; oraz
+(ii) zrozumiałe dla przeciętnego konsumenta.
+2. Państwa Członkowskie dostarczają Komisji wykazy oświadczeń, o których mowa w ust. 1, w terminie do 31 stycznia 2008 r. wraz warunkami ich stosowania i z odwołaniami do konkretnych uzasadnień naukowych.
+3. Po zasięgnięciu opinii Urzędu, Komisja w terminie do 31 stycznia 2010 r. przyjmuje – zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3 – wspólnotowy wykaz dopuszczalnych oświadczeń, o których mowa w ust. 1, mający na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie, oraz wszelkie niezbędne warunki stosowania tych oświadczeń.
+4. Wszelkie zmiany w wykazie, o którym mowa w ust. 3, oparte na ogólnie zaakceptowanych dowodach naukowych i mające na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie, są przyjmowane zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3, po zasięgnięciu opinii Urzędu, z inicjatywy Komisji lub na wniosek państwa członkowskiego.
+5. Dodawanie oświadczeń do wykazu, o którym mowa w ust. 3, w oparciu o nowo uzyskane dowody naukowe lub dodawanie oświadczeń zawierających wniosek o ochronę zastrzeżonych danych, następuje zgodnie z procedurą, o której mowa w art. 18, z wyjątkiem oświadczeń odnoszących się do rozwoju i zdrowia dzieci, na które wydawane są zezwolenia zgodnie z procedurą określoną w art. 15, 16, 17 i 19.
+
+Artykuł 14
+Oświadczenia o zmniejszaniu ryzyka choroby oraz oświadczenia odnoszące się do rozwoju i zdrowia dzieci
+1. Nie naruszając art. 2 ust. 1 lit. b) dyrektywy 2000/13/WE, następujące oświadczenia mogą być stosowane po uzyskaniu zezwolenia na wpisanie ich do wspólnotowego wykazu dopuszczalnych oświadczeń wraz z wszelkimi niezbędnymi warunkami stosowania tych oświadczeń, zgodnie z procedurą określoną w art. 15, 16, 17 i 19 niniejszego rozporządzenia:
+a) oświadczenia o zmniejszaniu ryzyka choroby;
+b) oświadczenia odnoszące się do rozwoju i zdrowia dzieci.
+2. Oprócz wymogów ogólnych określonych w niniejszym rozporządzeniu oraz wymogów szczególnych zawartych w ust. 1, w przypadku oświadczeń o zmniejszeniu ryzyka choroby przy etykietowaniu, a jeśli ono nie występuje — w prezentacji lub w reklamie, zamieszcza się również stwierdzenie, że istnieje wiele czynników ryzyka choroby, której dotyczy oświadczenie, i że zmiana jednego z tych czynników ryzyka może wywierać korzystny wpływ lub nie wywierać go.
+
+Artykuł 15
+Wniosek o udzielenie zezwolenia
+1. W przypadku odesłania do niniejszego artykułu, wniosek o udzielenie zezwolenia jest składany zgodnie z przepisami poniższych ustępów.
+2. Wniosek jest przesyłany do właściwego organu krajowego w Państwie Członkowskim.
+a) Właściwy organ krajowy:
+(i) potwierdza na piśmie otrzymanie wniosku w ciągu 14 dni od daty jego wpłynięcia. Potwierdzenie to zawiera datę otrzymania wniosku;
+(ii) niezwłocznie informuje o tym Urząd; oraz
+(iii) udostępnia Urzędowi wniosek wraz ze wszystkimi posiadanymi informacjami uzupełniającymi dostarczonymi przez wnioskodawcę;
+b) Urząd:
+(i) bezzwłocznie powiadamia pozostałe Państwa Członkowskie oraz Komisję o wniosku i udostępnia im wniosek wraz ze wszystkimi posiadanymi informacjami uzupełniającymi dostarczonymi przez wnioskodawcę;
+(ii) podaje do publicznej wiadomości streszczenie wniosku, o którym mowa w ust. 3 lit. g).
+3. Wniosek zawiera:
+a) nazwę i adres wnioskodawcy;
+b) określenie składnika odżywczego lub innej substancji albo żywności lub kategorii żywności, której ma dotyczyć oświadczenie zdrowotne, łącznie z jej szczególnymi cechami;
+c) kopie wyników badań, które zostały przeprowadzone w odniesieniu do danego oświadczenia zdrowotnego, w tym — jeśli takie istnieją — niezależnych i poddanych ocenie środowiska badawczego badań, jak też wszelkich innych dostępnych materiałów, z których wynika, że dane oświadczenie spełnia kryteria określone w niniejszym rozporządzeniu;
+d) w stosownych przypadkach — wskazanie informacji, które powinny być traktowane jako zastrzeżone wraz z dającym się zweryfikować uzasadnieniem;
+e) kopie wyników innych badań naukowych, które mają znaczenie dla danego oświadczenia zdrowotnego;
+f) propozycję sformułowania oświadczenia zdrowotnego, dla którego wnioskuje się o zezwolenie, w razie potrzeby wraz ze szczegółowymi warunkami stosowania;
+g) streszczenie wniosku.
+4. Komisja, po uprzednim zasięgnięciu opinii Urzędu, przyjmuje zgodnie z procedurą, o której mowa w art. 25 ust. 2, przepisy wykonawcze do niniejszego artykułu, wraz z wymogami dotyczącymi przygotowania i złożenia wniosku.
+5. Komisja, w ścisłej współpracy z Urzędem, udostępnia odpowiednie wskazówki i narzędzia techniczne w celu pomocy podmiotom działającym na rynku spożywczym, w szczególności MŚP, w przygotowaniu i przedstawieniu wniosku o ocenę naukową.
+
+Artykuł 16
+Opinia Urzędu
+1. Przy wydawaniu swoich opinii Urząd dotrzymuje terminu pięciu miesięcy od daty wpłynięcia prawidłowego wniosku. W przypadku gdy Urząd zwróci się do wnioskodawcy o informacje dodatkowe, o których mowa w ust. 2, termin ten zostaje przedłużony maksymalnie o dwa miesiące licząc od dnia dostarczenia przez wnioskodawcę żądanych informacji.
+2. Urząd lub właściwy organ krajowy za pośrednictwem Urzędu może w razie potrzeby zwrócić się do wnioskodawcy o uzupełnienie dokumentacji załączonej do wniosku w określonym terminie.
+3. W celu wydania opinii Urząd weryfikuje:
+a) czy oświadczenie zdrowotne jest potwierdzone danymi naukowymi;
+b) czy sformułowanie oświadczenia zdrowotnego odpowiada kryteriom określonym w niniejszym rozporządzeniu.
+4. Jeśli opinia co do wydania zezwolenia na stosowanie oświadczenia zdrowotnego jest pozytywna, zawiera ona dodatkowo następujące szczegóły:
+a) nazwę i adres wnioskodawcy;
+b) określenie składnika odżywczego lub innej substancji albo żywności lub kategorii żywności, której ma dotyczyć oświadczenie zdrowotne, łącznie z jej szczególnymi cechami;
+c) proponowane sformułowanie oświadczenia zdrowotnego, w razie potrzeby wraz ze szczegółowymi warunkami stosowania;
+d) w razie potrzeby warunki i ograniczenia stosowania danej żywności lub dodatkowe wyjaśnienia lub ostrzeżenia, które powinny towarzyszyć oświadczeniom zdrowotnym umieszczanym na etykiecie i w reklamach.
+5. Urząd przedkłada Komisji, Państwom Członkowskim i wnioskodawcy opinię wraz ze sprawozdaniem opisującym ocenę oświadczenia zdrowotnego oraz z uzasadnieniem opinii i informacjami, na jakich została ona oparta.
+6. Urząd podaje swoją opinię do wiadomości publicznej zgodnie z art. 38 ust. 1 rozporządzenia (WE) nr 178/2002.
+Wnioskodawca lub przedstawiciele opinii publicznej mogą zgłaszać Komisji uwagi w terminie 30 dni od podania opinii do wiadomości publicznej.
+
+Artykuł 17
+Zezwolenie wspólnotowe
+1. Komisja przedkłada Komitetowi, o którym mowa w art. 23 ust. 2, w terminie dwóch miesięcy od daty otrzymania opinii Urzędu, projekt decyzji w sprawie wykazu dopuszczonych oświadczeń zdrowotnych, z uwzględnieniem opinii Urzędu, wszelkich odpowiednich przepisów prawa wspólnotowego oraz pozostałych uzasadnionych czynników mających znaczenie dla badanej sprawy. Jeżeli projekt decyzji nie jest zgodny z opinią Urzędu, Komisja wyjaśnia przyczyny różnic.
+2. Projekt decyzji w sprawie zmiany wykazu dopuszczonych oświadczeń zdrowotnych zawiera informacje, o których mowa w art. 16 ust. 4.
+3. Ostateczna decyzja w sprawie wniosku, mająca na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie, jest przyjmowana zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3.
+Jednak w przypadku gdy na prośbę wnioskodawcy w sprawie ochrony zastrzeżonych danych Komisja proponuje ograniczenie wykorzystywania oświadczenia, decydując na korzyść wnioskodawcy:
+a) decyzja w sprawie wydania zezwolenia na oświadczenie jest przyjmowana zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 2. W takim przypadku udzielone ewentualnie zezwolenie wygasa po upływie pięciu lat;
+b) przed upływem okresu pięciu lat, jeżeli oświadczenie spełnia nadal warunki nałożone na mocy rozporządzenia, Komisja przedkłada projekt środków – mający na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie – w sprawie wydania zezwolenia na oświadczenie bez ograniczeń jego wykorzystywania, o czym zadecyduje się zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3.
+4. Komisja powiadamia bezzwłocznie wnioskodawcę o swojej decyzji i publikuje szczegóły tej decyzji w Dzienniku Urzędowym Unii Europejskiej .
+5. Oświadczenia zdrowotne zawarte w wykazach, o których mowa w art. 13 i 14, mogą być stosowane zgodnie z dotyczącymi ich warunkami, przez każdy podmiot działający na rynku spożywczym, o ile ich stosowanie nie jest ograniczone przepisami art. 21.
+6. Udzielenie zezwolenia nie uchyla ogólnej odpowiedzialności cywilnej i karnej podmiotu działającego na rynku spożywczym w odniesieniu do danej żywności.
+
+Artykuł 18
+Oświadczenia, o których mowa w art. 13 ust. 5
+1. Podmioty działające na rynku spożywczym, które chcą stosować oświadczenie zdrowotne nieuwzględnione w wykazie określonym w art. 13 ust. 3, mogą złożyć wniosek o włączenie oświadczenia do tego wykazu.
+2. Wniosek o włączenie oświadczenia składany jest właściwemu organowi Państwa Członkowskiego, który potwierdza otrzymanie wniosku na piśmie w terminie 14 dni od jego wpłynięcia. Potwierdzenie zawiera datę wpłynięcia wniosku. Wniosek zawiera dane przewidziane w art. 15 ust. 3 oraz uzasadnienie wniosku.
+3. Ważny wniosek, zgodny ze wskazówkami, o których mowa w art. 15 ust. 5, oraz wszelkie informacje dostarczone przez wnioskodawcę są niezwłocznie przesyłane Urzędowi w celu dokonania oceny naukowej oraz do wiadomości Komisji i Państwom Członkowskim. Urząd wydaje opinię w terminie pięciu miesięcy od daty otrzymania wniosku. Termin ten może być przedłużony o jeden miesiąc, jeżeli Urząd uzna za konieczne uzyskanie dodatkowych informacji od wnioskodawcy. W takim przypadku wnioskodawca przedstawia żądane informacje w terminie 15 dni od dnia otrzymania żądania Urzędu.
+Procedurę określoną w art. 16 ust. 3 lit. a) i b) oraz ust. 5 i 6 stosuje się odpowiednio.
+4. Jeżeli w następstwie oceny naukowej Urząd pozytywnie zaopiniuje włączenie oświadczenia do wykazu, o którym mowa w art. 13 ust. 3, Komisja podejmuje decyzję w sprawie wniosku, uwzględniając opinię Urzędu, stosowne przepisy prawa wspólnotowego i inne prawnie uzasadnione czynniki istotne dla przedmiotowej sprawy, po skonsultowaniu się z Państwami Członkowskimi, w terminie dwóch miesięcy od otrzymania opinii Urzędu.
+5. W przypadku negatywnej opinii Urzędu na temat włączenia oświadczenia do wykazu, o którym mowa w ust. 4, decyzję w sprawie wniosku, mającą na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie, podejmuje się zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3.
+Jednak w przypadku gdy na prośbę wnioskodawcy w sprawie ochrony zastrzeżonych danych Komisja proponuje ograniczenie wykorzystywania oświadczenia, decydując na korzyść wnioskodawcy:
+a) decyzja w sprawie wydania zezwolenia na oświadczenie jest podejmowana zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 2. W takim przypadku udzielone ewentualnie zezwolenie wygasa po upływie pięciu lat;
+b) przed upływem okresu pięciu lat, jeżeli oświadczenie spełnia nadal warunki nałożone na mocy rozporządzenia, Komisja przedkłada projekt środków – mający na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie – w sprawie wydania zezwolenia na oświadczenie bez ograniczeń jego wykorzystywania, o czym zadecyduje się zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3.
+
+Artykuł 19
+Zmiana, zawieszanie i cofanie zezwoleń
+1. Wnioskodawca/użytkownik oświadczenia zawartego w wykazach określonych w art. 13 i 14, może wnieść o zmianę odnośnego wykazu. Procedury określone w art. 15-18 są stosowane odpowiednio.
+2. Urząd, z własnej inicjatywy lub na wniosek Państwa Członkowskiego albo Komisji, wydaje opinię w kwestii, czy oświadczenie zdrowotne zawarte w wykazach określonych w art. 13 i 14, w dalszym ciągu spełnia warunki określone w niniejszym rozporządzeniu.
+Urząd niezwłocznie przekazuje swoją opinię w sprawie danego oświadczenia Komisji, Państwom Członkowskim i, w stosownych przypadkach, pierwotnemu wnioskodawcy. Urząd podaje swoją opinię do publicznej wiadomości zgodnie z art. 38 ust. 1 rozporządzenia (WE) nr 178/2002.
+Wnioskodawca/użytkownik lub przedstawiciel opinii publicznej może zgłaszać Komisji uwagi w ciągu 30 dni od podania opinii do wiadomości publicznej.
+Komisja bezzwłocznie analizuje opinię Urzędu i wszelkie otrzymane uwagi. W stosownych przypadkach zezwolenie zostaje zmienione, zawieszone lub cofnięte, zgodnie z procedurami określonymi w art. 17 i 18.
+
+ROZDZIAŁ V
+PRZEPISY OGÓLNE I KOŃCOWE
+
+Artykuł 20
+Rejestr wspólnotowy
+1. Komisja tworzy i prowadzi wspólnotowy rejestr oświadczeń żywieniowych i zdrowotnych dotyczących żywności, zwany dalej „rejestrem”.
+2. Rejestr zawiera:
+a) oświadczenia żywieniowe i warunki, które mają do nich zastosowanie zgodnie z załącznikiem;
+b) ograniczenia przyjęte zgodnie z art. 4 ust. 5;
+c) dozwolone oświadczenia zdrowotne i warunki, które mają do nich zastosowanie zgodnie z art. 13 ust. 3 i 5, art. 14 ust. 1, art. 19 ust. 2, art. 21, art. 24 ust. 2 oraz art. 28 ust. 6 oraz środki krajowe, o których mowa w art. 23 ust. 3;
+d) wykaz odrzuconych oświadczeń zdrowotnych i powody ich odrzucenia.
+Oświadczenia zdrowotne, na których stosowanie wydano zezwolenie w oparciu o zastrzeżone dane, zamieszcza się w oddzielnym załączniku do rejestru, wraz z następującymi informacjami:
+1) data wydania przez Komisję zezwolenia na stosowanie oświadczenia zdrowotnego i nazwę pierwotnego wnioskodawcy, któremu wydano zezwolenie;
+2) uwaga, że Komisja udzieliła zezwolenia na stosowanie danego oświadczenia zdrowotnego na podstawie zastrzeżonych danych i ograniczonego stosowania;
+3) w przypadkach, o których mowa w art. 17 ust. 3 drugi akapit i art. 18 ust. 5 akapit drugi, uwaga o udzieleniu zezwolenia na stosowanie oświadczenia zdrowotnego przez czas określony.
+3. Rejestr jest dostępny publicznie.
+
+Artykuł 21
+Ochrona danych
+1. Dane naukowe i inne informacje zawarte we wniosku zgodnie z art. 15 ust. 3, nie mogą być w okresie pięciu lat od daty wydania zezwolenia wykorzystane na rzecz późniejszego wnioskodawcy, chyba że wnioskodawca ten uzgodnił z wnioskodawcą pierwotnym, że może z takich danych i informacji skorzystać, w przypadku gdy:
+a) dane naukowe i inne informacje zostały przez pierwotnego wnioskodawcę zgłoszone przy składaniu pierwotnego wniosku jako zastrzeżone; oraz
+b) pierwotny wnioskodawca miał przy składaniu pierwotnego wniosku wyłączne prawo powoływania się na te zastrzeżone dane; oraz
+c) zezwolenie na stosowanie oświadczenia zdrowotnego nie zostałoby udzielone bez przedłożenia przez pierwotnego wnioskodawcę zastrzeżonych danych.
+2. Przed upływem okresu pięciu lat, o którym mowa w ust. 1, żaden późniejszy wnioskodawca nie ma prawa powoływania się na dane zgłoszone przez pierwotnego wnioskodawcę jako zastrzeżone, o ile i tak długo jak Komisja nie podejmie decyzji, że można lub można było wpisać oświadczenie do wykazu, o którym mowa w art. 14 lub, w odpowiednich przypadkach, w art. 13, również bez przedkładania danych oznaczonych przez pierwotnego wnioskodawcę jako zastrzeżone.
+
+Artykuł 22
+Przepisy krajowe
+Bez uszczerbku dla Traktatu, zwłaszcza jego art. 28 i 30, Państwa Członkowskie nie mogą, poprzez stosowanie niezharmonizowanych krajowych przepisów w sprawie oświadczeń dotyczących pewnego rodzaju żywności lub żywności w ogólności, ograniczać lub zakazywać handlu żywnością i jej reklamy, o ile jest ona zgodna z postanowieniami niniejszego rozporządzenia.
+
+Artykuł 23
+Procedura powiadamiania
+1. Jeżeli Państwo Członkowskie uważa za konieczne przyjęcie nowego aktu prawnego, powiadamia Komisję i pozostałe Państwa Członkowskie o przewidzianych środkach wraz z ich uzasadnieniem.
+2. Komisja zasięga opinii Stałego Komitetu ds. Łańcucha Żywnościowego i Zdrowia Zwierząt ustanowionego na mocy art. 58 ust. 1 rozporządzenia (WE) nr 178/2002 (zwanego dalej „Komitetem”), jeżeli uważa, że taka konsultacja może być przydatna lub na wniosek Państwa Członkowskiego, i wydaje opinię w sprawie przewidywanych działań.
+3. Zainteresowane Państwo Członkowskie może podjąć przewidziane środki po upływie sześciu miesięcy od powiadomienia, o którym mowa w ust. 1, pod warunkiem, że opinia Komisji nie jest negatywna.
+Jeśli opinia Komisji jest negatywna, stwierdza ona, zgodnie z procedurą, o której mowa w art. 25 ust. 2, przed upływem okresu wyznaczonego w pierwszym akapicie niniejszego ustępu, czy planowane środki mogą zostać wprowadzone w życie. Komisja może zażądać wprowadzenia do planowanych środków określonych poprawek.
+
+Artykuł 24
+Środki bezpieczeństwa
+1. Jeżeli Państwo Członkowskie ma poważne podstawy, aby uważać, że oświadczenie jest niezgodne z przepisami niniejszego rozporządzenia lub, że potwierdzenie naukowe określone w art. 6, jest niewystarczające, może ono czasowo zawiesić stosowanie takiego oświadczenia na swoim terytorium.
+Informuje ono o tym inne Państwa Członkowskie i Komisję, podając przyczyny zawieszenia.
+2. Zgodnie z procedurą, o której mowa w art. 25 ust. 2, w odpowiednich przypadkach decyzja jest podejmowana po uzyskaniu opinii Urzędu.
+Komisja może wszcząć tę procedurę z własnej inicjatywy.
+3. Państwo Członkowskie, o którym mowa w ust. 1, może utrzymać takie zawieszenie do czasu przekazania mu decyzji, o której mowa w ust. 2.
+
+Artykuł 25
+Procedura komitetu
+1. Komisję wspiera komitet.
+2. W przypadku odesłania do niniejszego ustępu stosuje się przepisy art. 5 i 7 decyzji 1999/468/WE, z uwzględnieniem przepisów jej art. 8.
+Okres przewidziany w art. 5 ust. 6 decyzji 1999/468/WE ustala się na trzy miesiące.
+3. W przypadku odesłania do niniejszego ustępu stosuje się przepisy art. 5a ust. 1–4 oraz art. 7 decyzji 1999/468/WE, z uwzględnieniem przepisów jej art. 8.
+
+Artykuł 26
+Monitorowanie
+W celu ułatwienia sprawnego monitorowania żywności opatrzonej oświadczeniem żywieniowym lub zdrowotnym, Państwa Członkowskie mogą wymagać od producenta lub osoby wprowadzającej taką żywność na rynek na ich terytorium, aby powiadomiły właściwy organ o takim wprowadzeniu, przekazując im wzór etykiety stosowanej dla danego produktu.
+
+Artykuł 27
+Ocena
+W terminie do dnia 19 stycznia 2013 r. Komisja przedkłada Parlamentowi Europejskiemu i Radzie sprawozdanie w sprawie stosowania niniejszego rozporządzenia, w szczególności w sprawie ewolucji rynku żywności, której dotyczą oświadczenia żywieniowe i zdrowotne, oraz rozumienia oświadczeń przez konsumentów, wraz z propozycją zmian niniejszego rozporządzenia w razie potrzeby. Sprawozdanie to zawiera również ocenę wpływu niniejszego rozporządzenia na wybory żywieniowe i możliwy jego wpływ na otyłość oraz choroby niezakaźne.
+
+Artykuł 28
+Środki przejściowe
+1. Żywność wprowadzana na rynek lub etykietowana przed datą wejścia w życie niniejszego rozporządzenia, która nie jest zgodna z niniejszym rozporządzeniem, może znajdować się w obrocie rynkowym do upływu daty jej przydatności do spożycia, ale nie dłużej niż do 31 lipca 2009 r. W odniesieniu do przepisów art. 4 ust. 1, żywność może znajdować się w obrocie rynkowym nie dłużej niż dwadzieścia cztery miesiące od określenia odpowiednich profili składników odżywczych i warunków ich stosowania.
+2. Produkty opatrzone znakami towarowymi lub markami istniejącymi przed dniem 1 stycznia 2005 r., które nie są zgodne z niniejszym rozporządzeniem, mogą pozostawać w obrocie rynkowym do dnia 19 stycznia 2022 r., po czym będą miały zastosowanie przepisy niniejszego rozporządzenia.
+3. Oświadczenia żywieniowe, które nie są zawarte w załączniku i które były stosowane w Państwie Członkowskim przed dniem 1 stycznia 2006 r. zgodnie z dotyczącymi ich przepisami krajowymi, mogą być, bez uszczerbku dla przyjmowanych środków bezpieczeństwa, o których mowa w art. 24, stosowane do 19 stycznia 2010 r. a odpowiedzialność za nie ponoszą podmioty działające na rynku spożywczym.
+4. Oświadczenia żywieniowe w postaci obrazu, przedstawienia graficznego lub symbolicznego, zgodne z zasadami ogólnymi niniejszego rozporządzenia, które nie są zawarte w załączniku i są stosowane zgodnie ze szczególnymi warunkami i kryteriami zgodnie z przepisami lub zasadami krajowymi, podlegają następującym wymogom:
+a) Państwa Członkowskie informują Komisję w terminie do 31 stycznia 2008 r. o takich oświadczeniach żywieniowych i mających zastosowanie krajowych przepisach lub zasadach, wraz z naukowym uzasadnieniem tych przepisów lub zasad;
+b) zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3, Komisja przyjmuje decyzję w sprawie stosowania tych oświadczeń, mającą na celu zmianę innych niż istotne elementów niniejszego rozporządzenia.
+Oświadczenia żywieniowe, na których stosowanie nie udzielono zezwolenia zgodnie z powyższą procedurą, mogą być w dalszym ciągu stosowane przez dwanaście miesięcy od wydania decyzji.
+5. Oświadczenia zdrowotne, o których mowa w art. 13 ust. 1 lit. a), mogą być stosowane od daty wejścia w życie niniejszego rozporządzenia do dnia przyjęcia wykazu, o którym mowa w art. 13 ust. 3, na odpowiedzialność podmiotów działających na rynku spożywczym pod warunkiem, że są one zgodne z niniejszym rozporządzeniem i mającymi do nich zastosowanie istniejącymi przepisami krajowymi i bez uszczerbku dla zastosowanych środków bezpieczeństwa, o których mowa w art. 24.
+6. ►M2 Oświadczenia zdrowotne inne niż określone w art. 13 ust. 1 lit. a) oraz art. 14 ust. 1 lit. a), które były stosowane zgodnie z przepisami krajowymi przed datą wejścia w życie niniejszego rozporządzenia, podlegają następującym wymogom: ◄
+a) w odniesieniu do oświadczeń zdrowotnych, które były przedmiotem oceny i zezwolenia w Państwie Członkowskim, zezwolenia są wydawane w sposób następujący:
+(i) Państwa Członkowskie informują Komisję w terminie do 31 stycznia 2008 r. o oświadczeniach zdrowotnych przedstawiając sprawozdanie oceniające naukowe uzasadnienie oświadczenia;
+(ii) po konsultacji z Urzędem Komisja, zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 25 ust. 3, przyjmuje decyzję w sprawie oświadczeń zdrowotnych, na których stosowanie wydano w taki sposób zezwolenie. Decyzje takie mają na celu zmianę elementów innych niż istotne niniejszego rozporządzenia poprzez jego uzupełnienie.
+Oświadczenia żywieniowe, na których stosowanie nie zostało wydane zezwolenie zgodnie z powyższą procedurą, mogą być w dalszym ciągu stosowane przez okres sześciu miesięcy od przyjęcia takiej decyzji;
+b) oświadczenia zdrowotne, które nie były przedmiotem oceny i zezwolenia w Państwie Członkowskim: oświadczenia takie mogą w dalszym ciągu być stosowane pod warunkiem złożenia wniosku zgodnie z niniejszym rozporządzeniem przed 19 stycznia 2008 r., a oświadczenia zdrowotne, na których stosowanie nie wydano zezwolenia zgodnie z powyższą procedurą, mogą być w dalszym ciągu stosowane przez okres sześciu miesięcy od wydania decyzji zgodnie z art. 17 ust. 3.
+
+Artykuł 29
+Wejście w życie
+Niniejsze rozporządzenie wchodzi w życie dwudziestego dnia po jego opublikowaniu w Dzienniku Urzędowym Unii Europejskiej .
+Obowiązuje ono od 1 lipca 2007 r.
+Niniejsze rozporządzenie wiąże w całości i jest bezpośrednio stosowane we wszystkich Państwach Członkowskich.
+
+ZAŁĄCZNIK
+Oświadczenia żywieniowe i warunki ich stosowania
+NISKA WARTOŚĆ ENERGETYCZNA
+Oświadczenie, że dany środek spożywczy ma niską wartość energetyczną oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt nie zawiera więcej niż 40 kcal (170 kJ)/100 g dla produktów stałych lub nie więcej niż 20 kcal (80 kJ)/100 ml dla produktów płynnych. W przypadku słodzików stołowych zastosowanie ma limit 4 kcal (17 kJ)/porcję, przy intensywności słodzenia równoważnej 6 g sacharozy (ok. 1 łyżeczka sacharozy).
+ZMNIEJSZONA WARTOŚĆ ENERGETYCZNA
+Oświadczenie, że środek spożywczy ma zmniejszoną wartość energetyczną oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy wartość energetyczna jest zmniejszona o przynajmniej 30 %, ze wskazaniem na cechę lub cechy, które sprawiają, że dany środek spożywczy ma zmniejszoną ogólną wartość energetyczną.
+NIE MA WARTOŚCI ENERGETYCZNEJ
+Oświadczenie, że środek spożywczy nie posiada wartości energetycznej oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt nie zawiera więcej niż 4 kcal (17 kJ)/100 ml. W przypadku słodzików stołowych ma zastosowanie limit 0,4 kcal (1,7 kJ)/porcję, przy intensywności słodzenia równoważnej 6 g sacharozy (ok. 1 łyżeczka sacharozy).
+NISKA ZAWARTOŚĆ TŁUSZCZU
+Oświadczenie, że środek spożywczy ma niską zawartość tłuszczu oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera nie więcej niż 3 g tłuszczu na 100 g dla produktów stałych lub 1,5 g tłuszczu na 100 ml dla produktów płynnych (1,8 g tłuszczu na 100 ml mleka półtłustego).
+NIE ZAWIERA TŁUSZCZU
+Oświadczenie, że środek spożywczy nie zawiera tłuszczu oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera nie więcej niż 0,5 g tłuszczu na 100 g lub 100 ml. Jednakże oświadczenia wyrażone jako „X % bez tłuszczu” są zabronione.
+NISKA ZAWARTOŚĆ TŁUSZCZÓW NASYCONYCH
+Oświadczenie, że środek spożywczy ma niską zawartość tłuszczów nasyconych oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, kiedy suma nasyconych kwasów tłuszczowych i izomerów trans kwasów tłuszczowych w produkcie nie przekracza 1,5 g na 100 g produktów stałych lub 0,75 g/100 ml dla produktów płynnych, a w obu przypadkach kwasy tłuszczowe nasycone i izomery trans kwasów tłuszczowych nie mogą dostarczać więcej niż 10 % wartości energetycznej.
+NIE ZAWIERA TŁUSZCZÓW NASYCONYCH
+Oświadczenie, że środek spożywczy nie zawiera tłuszczów nasyconych oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy suma tłuszczów nasyconych i izomerów trans kwasów tłuszczowych nie przekracza 0,1 g tłuszczów nasyconych na 100 g lub 100 ml.
+NISKA ZAWARTOŚĆ CUKRÓW
+Oświadczenie, że środek spożywczy ma niską zawartość cukrów oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera nie więcej niż 5 g cukrów na 100 g dla produktów stałych lub 2,5 g cukrów na 100 ml dla produktów płynnych.
+NIE ZAWIERA CUKRÓW
+Oświadczenie, że środek spożywczy nie zawiera cukrów oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera nie więcej niż 0,5 g cukrów na 100 g lub 100 ml.
+BEZ DODATKU CUKRÓW
+Oświadczenie, że do środka spożywczego nie zostały dodane cukry oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt nie zawiera żadnych dodanych cukrów prostych, dwucukrów ani żadnych innych środków spożywczych zastosowanych ze względu na ich właściwości słodzące. Jeżeli cukry występują naturalnie w środku spożywczym, na etykiecie powinna się również znaleźć następująca informacja: „ZAWIERA NATURALNIE WYSTĘPUJĄCE CUKRY”.
+NISKA ZAWARTOŚĆ SODU/SOLI
+Oświadczenie, że środek spożywczy ma niską zawartość sodu/soli oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera nie więcej niż 0,12 g sodu, lub równoważną ilość soli, na 100 g lub na 100 ml. W przypadku wód innych niż naturalne wody mineralne objęte zakresem stosowania dyrektywy 80/770/EWG wartość ta nie powinna przekraczać 2 mg sodu na 100 ml.
+BARDZO NISKA ZAWARTOŚĆ SODU/SOLI
+Oświadczenie, że środek spożywczy ma bardzo niską zawartość sodu/soli oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera nie więcej niż 0,04 g sodu, lub równoważną wartość dla soli, na 100 g lub na 100 ml. Tego oświadczenia nie stosuje się w odniesieniu do naturalnych wód mineralnych i innych wód.
+NIE ZAWIERA SODU lub NIE ZAWIERA SOLI
+Oświadczenie, że środek spożywczy nie zawiera sodu lub nie zawiera soli oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera nie więcej niż 0,005 g sodu lub równoważną wartość dla soli na 100 g.
+BEZ DODATKU SODU/SOLI
+Oświadczenie, że do środka spożywczego nie dodano sodu lub soli oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt nie zawiera dodanego sodu lub soli ani żadnych innych składników zawierających dodany sód lub sól i gdy produkt zawiera nie więcej niż 0,12 g sodu lub równoważną wartość dla soli, na 100 g lub 100 ml.
+ŹRÓDŁO BŁONNIKA POKARMOWEGO
+Oświadczenie, że środek spożywczy jest źródłem błonnika pokarmowego oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera przynajmniej 3 g błonnika na 100 g lub przynajmniej 1,5 g błonnika na 100 kcal.
+WYSOKA ZAWARTOŚĆ BŁONNIKA POKARMOWEGO
+Oświadczenie, że środek spożywczy ma wysoką zawartość błonnika pokarmowego oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera przynajmniej 6 g błonnika na 100 g lub przynajmniej 3 g błonnika na 100 kcal.
+ŹRÓDŁO BIAŁKA
+Oświadczenie, że środek spożywczy jest źródłem białka oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy przynajmniej 12 % wartości energetycznej środka spożywczego pochodzi z białka.
+WYSOKA ZAWARTOŚĆ BIAŁKA
+Oświadczenie, że środek spożywczy ma wysoką zawartość białka oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy przynajmniej 20 % wartości energetycznej środka spożywczego pochodzi z białka.
+ŹRÓDŁO [NAZWA WITAMINY/WITAMIN] LUB [NAZWA SKŁADNIKA MINERALNEGO/SKŁADNIKÓW MINERALNYCH]
+Oświadczenie, że środek spożywczy jest źródłem witamin lub składników mineralnych i jakiekolwiek oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera, co najmniej znaczącą ilość, zdefiniowaną w załączniku do dyrektywy 90/496/EWG lub ilość przewidzianą w odstępstwach przyznanych zgodnie z art. 6 rozporządzenia (WE) nr 1925/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie dodawania do żywności witamin i składników mineralnych oraz niektórych innych substancji ( 17 ).
+WYSOKA ZAWARTOŚĆ [NAZWA WITAMINY/WITAMIN] I/LUB [NAZWA SKŁADNIKA MINERALNEGO/SKŁADNIKÓW MINERALNYCH]
+Oświadczenie, że środek spożywczy ma wysoką zawartość witamin lub składników mineralnych oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt zawiera co najmniej podwójną wartość w stosunku do produktu oznaczonego jako „źródło [NAZWA WITAMINY/WITAMIN] lub [NAZWA SKŁADNIKA MINERALNEGO/SKŁADNIKÓW MINERALNYCH]”.
+ZAWIERA [NAZWA SKŁADNIKA ODŻYWCZEGO LUB INNEJ SUBSTANCJI]
+Oświadczenie, że środek spożywczy zawiera składnik odżywczy lub inną substancję, dla której niniejsze rozporządzenie nie ustala szczególnych warunków oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt spełnia wszystkie odpowiednie postanowienia niniejszego rozporządzenia, w szczególności art. 5. W przypadku witamin mają zastosowanie warunki oświadczenia „źródło …”.
+O PODWYŻSZONEJ ZAWARTOŚCI [NAZWA SKŁADNIKA ODŻYWCZEGO]
+Oświadczenie, że zawartość jednego lub kilku składników odżywczych innych niż witaminy została zwiększona oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy produkt spełnia warunki dla oświadczenia „źródło...”, a zwiększenie zawartości wynosi co najmniej 30 % w porównaniu z podobnym produktem.
+O OBNIŻONEJ ZAWARTOŚCI [NAZWA SKŁADNIKA ODŻYWCZEGO]
+Oświadczenie, że zawartość jednego lub kilku składników odżywczych została obniżona oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy obniżenie zawartości wynosi co najmniej 30 % w porównaniu z podobnym produktem, z wyjątkiem mikroskładników odżywczych, gdzie dopuszczalne jest różnica 10 % w wartościach odniesienia zgodnie z dyrektywą Rady 90/496/EWG oraz sodu lub wartości równoważnej dla soli, gdzie dopuszczalna jest różnica 25 %.
+Oświadczenie „o obniżonej zawartości tłuszczów nasyconych” oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas:
+a) gdy suma nasyconych kwasów tłuszczowych i kwasów tłuszczowych trans w produkcie opatrzonym oświadczeniem wynosi przynajmniej 30 % mniej niż suma nasyconych kwasów tłuszczowych i kwasów tłuszczowych trans w produkcie podobnym; oraz
+b) gdy zawartość kwasów tłuszczowych trans w produkcie opatrzonym oświadczeniem jest równa lub mniejsza niż zawartość kwasów tłuszczowych trans w produkcie podobnym.
+Oświadczenie „o obniżonej zawartości cukrów” oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być stosowane tylko wówczas, gdy wartość energetyczna produktu opatrzonego oświadczeniem jest równa lub mniejsza od wartości energetycznej produktu podobnego.
+LEKKI
+Oświadczenie, że produkt jest „lekki” oraz każde oświadczenie, które może mieć taki sam sens dla konsumenta, musi spełniać takie same warunki jak te, które ustalono dla terminu „zmniejszona zawartość”; oświadczeniu temu towarzyszy ponadto wskazanie na właściwość (właściwości), które sprawiają, że środek spożywczy staje się produktem „lekki”.
+NATURALNIE /NATURALNY
+W przypadkach, gdy środek spożywczy spełnia warunek lub warunki określone w niniejszym załączniku odnośnie stosowania oświadczenia żywieniowego, termin „naturalnie/naturalny” może być stosowany jako dodatek do oświadczenia.
+ŹRÓDŁO KWASÓW TŁUSZCZOWYCH OMEGA-3
+Oświadczenie, że żywność jest źródłem kwasów tłuszczowych omega-3, i każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być zamieszczane tylko wówczas, gdy produkt zawiera przynajmniej 0,3 g kwasu alfa-linolenowego na 100 g i na 100 kcal lub przynajmniej 40 mg kwasów eikozapentaenowego i dokozaheksaenowego razem na 100 g i na 100 kcal.
+WYSOKA ZAWARTOŚĆ KWASÓW TŁUSZCZOWYCH OMEGA-3
+Oświadczenie, że w żywności występuje wysoka zawartość kwasów tłuszczowych omega-3, i każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być zamieszczane tylko wówczas, gdy produkt zawiera przynajmniej 0,6 g kwasu alfa-linolenowego na 100 g i na 100 kcal lub przynajmniej 80 mg kwasów eikozapentaenowego i dokozaheksaenowego razem na 100 g i na 100 kcal.
+WYSOKA ZAWARTOŚĆ TŁUSZCZÓW JEDNONIENASYCONYCH
+Oświadczenie, że w żywności występuje wysoka zawartość tłuszczów jednonienasyconych, i każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być zamieszczane tylko wówczas, gdy przynajmniej 45 % kwasów tłuszczowych zawartych w produkcie pochodzi z tłuszczów jednonienasyconych, pod warunkiem że tłuszcze jednonienasycone dostarczają więcej niż 20 % energii produktu.
+WYSOKA ZAWARTOŚĆ TŁUSZCZÓW WIELONIENASYCONYCH
+Oświadczenie, że w żywności występuje wysoka zawartość tłuszczów wielonienasyconych, i każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być zamieszczane tylko wówczas, gdy przynajmniej 45 % kwasów tłuszczowych zawartych w produkcie pochodzi z tłuszczów wielonienasyconych, pod warunkiem że tłuszcze wielonienasycone dostarczają więcej niż 20 % energii produktu.
+WYSOKA ZAWARTOŚĆ TŁUSZCZÓW NIENASYCONYCH
+Oświadczenie, że żywność jest bogata w tłuszcze nienasycone, i każde oświadczenie, które może mieć taki sam sens dla konsumenta, może być zamieszczane tylko wówczas, gdy przynajmniej 70 % kwasów tłuszczowych obecnych w produkcie pochodzi z tłuszczów nienasyconych, pod warunkiem że tłuszcze nienasycone dostarczają więcej niż 20 % energii produktu.
+
+( 1 ) Dz.U. C 110 z 30.4.2004, str. 18.
+( 2 ) Opinia Parlamentu Europejskiego z dnia 26 maja 2005 r. (Dz.U. C 117 E z 18.5.2006, str. 187), wspólne stanowisko Rady z dnia 8 grudnia 2005 r. (Dz.U. C 80 E z 4.4.2006, str. 43) oraz stanowisko Parlamentu Europejskiego z dnia 16 maja 2006 r. oraz decyzja Rady z dnia 12 października 2006 r.
+( 3 ) Dz.U. L 109 z 6.5.2000, str. 29. Dyrektywa ostatnio zmieniona dyrektywą 2003/89/WE (Dz.U. L 308 z 25.11.2003, str. 15).
+( 4 ) Dz.U. L 204 z 21.7.1998, str. 37. Dyrektywa ostatnio zmieniona Aktem Przystąpienia z 2003 r.
+( 5 ) Dz.U. L 316 z 9.12.1994, str. 2.
+( 6 ) Dz.U. L 183 z 12.7.2002, str. 51. Dyrektywa zmieniona dyrektywą Komisji 2006/37/WE (Dz.U. L 94 z 1.4.2006, str. 32).
+( 7 ) Dz.U. L 250 z 19.9.1984, str. 17. Dyrektywa ostatnio zmieniona dyrektywą 2005/29/WE Parlamentu Europejskiego i Rady (Dz.U. L 149 z 11.6.2005, str. 22).
+( 8 ) Dz.U. L 276 z 6.10.1990, str. 40. Dyrektywa ostatnio zmieniona dyrektywą Komisji 2003/120/WE (Dz.U. L 333 z 20.12.2003, str. 51).
+( 9 ) Dz.U. L 186 z 30.6.1989, str. 27. Dyrektywa ostatnio zmieniona rozporządzeniem (WE) nr 1882/2003 Parlamentu Europejskiego i Rady (Dz.U. L 284 z 31.10.2003, str. 1).
+( 10 ) Dz.U. L 55 z 6.3.1996, str. 22.
+( 11 ) Dz.U. L 184 z 17.7.1999, str. 23.
+( 12 ) Dz.U. L 229 z 30.8.1980, str. 1. Dyrektywa ostatnio zmieniona rozporządzeniem (WE) nr 1882/2003.
+( 13 ) Dz.U. L 330 z 5.12.1998, str. 32. Dyrektywa zmieniona rozporządzeniem (WE) nr 1882/2003.
+( 14 ) Dz.U. L 31 z 1.2.2002, str. 1. Rozporządzenie ostatnio zmienione rozporządzeniem Komisji (WE) nr 575/2006 (Dz.U. L 100 z 8.4.2006, str. 3).
+( 15 ) Nazwa składnika odżywczego wykraczającego poza profil.
+( 16 ) Dz.U. L 304 z 22.11.2011, s. 18.
+( 17 ) Dz.U. L 404 z 30.12.2006, str. 26.

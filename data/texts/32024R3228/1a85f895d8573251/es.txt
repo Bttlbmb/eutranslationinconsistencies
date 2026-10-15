@@ -1,0 +1,77 @@
+REGLAMENTO (UE) 2024/3228 DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+de 19 de diciembre de 2024
+por el que se deroga el Reglamento (UE) n. o 524/2013 y se modifican los Reglamentos (UE) 2017/2394 y (UE) 2018/1724 en lo que respecta a la supresión de la plataforma europea de resolución de litigios en línea
+(Texto pertinente a efectos del EEE)
+
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+
+Visto el Tratado de Funcionamiento de la Unión Europea, y en particular su artículo 114,
+
+Vista la propuesta de la Comisión Europea,
+
+Previa transmisión del proyecto de acto legislativo a los Parlamentos nacionales,
+
+Visto el dictamen del Comité Económico y Social Europeo ( 1 ) ,
+
+De conformidad con el procedimiento legislativo ordinario ( 2 ) ,
+
+Considerando lo siguiente:
+
+(1) | El Reglamento (UE) n. o 524/2013 del Parlamento Europeo y del Consejo ( 3 ) estableció la plataforma europea de resolución de litigios en línea (en lo sucesivo, «plataforma de RLL») para toda la Unión, que ofrece una ventanilla única a los consumidores y a los comerciantes que quieran resolver extrajudicialmente los litigios derivados de contratos en en línea de compraventa o de contratos de prestación de servicios, y encargó a la Comisión que la desarrollara y mantuviera.
+
+(2) | La plataforma de RLL es un sitio web interactivo en el que los consumidores pueden solicitar a los comerciantes que acepten recurrir a una entidad de resolución alternativa de litigios (RAL) incluida en la lista publicada en la plataforma y que cumpla lo dispuesto en la Directiva 2013/11/UE del Parlamento Europeo y del Consejo ( 4 ) .
+
+(3) | El Reglamento (UE) n. o 524/2013 exige que los comerciantes en línea y los mercados en línea ofrezcan en su sitio web un enlace de fácil acceso a la plataforma de RLL. Esta obligación, junto con las campañas de información organizadas por la Comisión y las partes interesadas nacionales, ha atraído entre dos y tres millones de visitantes al año a la plataforma de RLL.
+
+(4) | Sin embargo, solo una minoría de los visitantes utiliza la plataforma de RLL para presentar una reclamación y solo el 2 % de los que así lo hacen recibe una respuesta positiva de los comerciantes, en el sentido de que su solicitud se puede transmitir a una entidad de RAL incluida en la lista publicada en la plataforma. En su conjunto, ello supone alrededor de 200 asuntos por año en toda la Unión.
+
+(5) | La Comisión publicó una convocatoria de datos sobre la adaptación de la resolución extrajudicial de litigios a los mercados digitales, que tuvo lugar entre el 28 de septiembre y el 21 de diciembre de 2022. La Comisión concluyó que la plataforma solo había sido utilizada por el 5 % de los consumidores que respondieron a dicha convocatoria de datos,y que la mayoría de ellos consideraba que la plataforma debía mejorarse sustancialmente o desaparecer, ya que no era eficiente en términos de coste. Los datos sugieren de manera contundente que, dado que no se transmiten más de 200 asuntos al año a entidades de resolución alternativa, seguir manteniendo la plataforma de RLL no se corresponde con los principios de eficiencia y eficacia establecidos en el Reglamento (UE, Euratom) 2024/2509 del Parlamento Europeo y del Consejo ( 5 ) .
+
+(6) | La plataforma de RLL debe desaparecer y, por tanto, debe derogarse el Reglamento (UE) n. o 524/2013. Debe fijarse un plazo adecuado para garantizar que los asuntos en curso puedan concluir adecuadamente.
+
+(7) | Con arreglo al Reglamento (UE) n. o 524/2013, los datos personales relacionados con un litigio se almacenan en la base de datos creada por dicho Reglamento durante el tiempo necesario para alcanzar los fines para los que fueron recogidos y para garantizar que los interesados puedan acceder a sus datos personales con el fin de ejercer sus derechos. De conformidad con el Reglamento (UE) n. o 524/2013, dichos datos deben borrarse automáticamente en un plazo máximo de seis meses a partir de la fecha en que concluya el litigio sometido la plataforma de RLL. La Comisión debe informar con la suficiente antelación de la supresión de la plataforma de RLL a los usuarios que aún tengan asuntos en curso y, en todo caso, al menos cuatro meses antes de que se suprima la plataforma. La Comisión debe ofrecer ayuda a los usuarios de la plataforma de RLL que deseen recuperar los datos relativos a sus asuntos.
+
+(8) | Dado que en otros actos jurídicos de la Unión la plataforma de RLL se menciona como plataforma que permite a los consumidores solicitar a los comerciantes que acepten la resolución extrajudicial de un litigio, dichos actos deben modificarse para eliminar las referencias a la plataforma de RLL. Los Reglamentos (UE) 2017/2394 ( 6 ) y (UE) 2018/1724 ( 7 ) del Parlamento Europeo y del Consejo deben, por tanto, modificarse en consecuencia. Las Directivas (UE) 2015/2302 ( 8 ) , (UE) 2019/2161 ( 9 ) and (UE) 2020/1828 ( 10 ) del Parlamento Europeo y del Consejo también contienen referencias al Reglamento (UE) n. o 524/2013. Se prevé que dichas Directivas sean modificadas mediante un acto jurídico distinto.
+
+HAN ADOPTADO EL PRESENTE REGLAMENTO:
+
+Artículo 1
+Queda derogado el Reglamento (UE) n. o 524/2013 con efecto a partir del 20 de julio de 2025.
+
+Artículo 2
+1. Se suprime la plataforma europea de resolución de litigios en línea (en lo sucesivo, «plataforma de RLL»).
+2. No se podrán presentar más reclamaciones ante la plataforma de RLL a partir del 20 de marzo de 2025.
+3. La Comisión informará de la supresión de la plataforma de RLL a los usuarios de esta que aún tengan asuntos en curso a más tardar el 20 de marzo de 2025 y les ofrecerá ayuda para recuperar, si así lo desean, los datos relativos a sus asuntos a los que tengan derecho de acceso.
+4. A más tardar el 20 de julio de 2025, se suprimirá toda la información, incluidos los datos personales, relativa a los asuntos en la plataforma de RLL.
+
+Artículo 3
+Modificación del Reglamento (UE) 2017/2394
+En el anexo del Reglamento (UE) 2017/2394, se suprime el punto 22.
+
+Artículo 4
+Modificación del Reglamento (UE) 2018/1724
+En el anexo III del Reglamento (UE) 2018/1724, el punto 7 se sustituye por el texto siguiente:
+«7) | Lista de entidades de resolución alternativa de litigios en materia de consumo establecida por la Comisión con arreglo al artículo 20, apartado 4, de la Directiva 2013/11/UE del Parlamento Europeo y del Consejo ( *1 ) .
+
+Artículo 5
+Entrada en vigor
+El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea .
+
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.
+Hecho en Bruselas, el 19 de diciembre de 2024.
+Por el Parlamento Europeo
+La Presidenta
+R. METSOLA
+Por el Consejo
+El Presidente
+BÓKA J.
+( 1 ) DO C, C/2024/2482, 23.4.2024, ELI: http://data.europa.eu/eli/C/2024/2482/oj .
+( 2 ) Posición del Parlamento Europeo de 13 de marzo de 2024 (pendiente de publicación en el Diario Oficial) y Posición del Consejo en primera lectura de 19 de noviembre de 2024 (pendiente de publicación en el diario Oficial). Posición del Parlamento Europeo de 17 de diciembre de 2024 (pendiente de publicación en el Diario Oficial).
+( 3 ) Reglamento (UE) n. o 524/2013 del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, sobre resolución de litigios en línea en materia de consumo y por el que se modifica el Reglamento (CE) n. o 2006/2004 y la Directiva 2009/22/CE (Reglamento sobre resolución de litigios en línea en materia de consumo) ( DO L 165 de 18.6.2013, p. 1 ).
+( 4 ) Directiva 2013/11/UE del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, relativa a la resolución alternativa de litigios en materia de consumo y por la que se modifica el Reglamento (CE) n. o 2006/2004 y la Directiva 2009/22/CE (Directiva sobre resolución alternativa de litigios en materia de consumo) ( DO L 165 de 18.6.2013, p. 63 ).
+( 5 ) Reglamento (UE, Euratom) 2024/2509 del Parlamento Europeo y del Consejo, de 23 de septiembre de 2024, sobre las normas financieras aplicables al presupuesto general de la Unión ( DO L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj ).
+( 6 ) Reglamento (UE) 2017/2394 del Parlamento Europeo y del Consejo, de 12 de diciembre de 2017, sobre la cooperación entre las autoridades nacionales responsables de la aplicación de la legislación en materia de protección de los consumidores y por el que se deroga el Reglamento (CE) n. o 2006/2004 ( DO L 345 de 27.12.2017, p. 1 ).
+( 7 ) Reglamento (UE) 2018/1724 del Parlamento Europeo y del Consejo, de 2 de octubre de 2018, relativo a la creación de una pasarela digital única de acceso a información, procedimientos y servicios de asistencia y resolución de problemas y por el que se modifica el Reglamento (UE) n. o 1024/2012 ( DO L 295 de 21.11.2018, p. 1 ).
+( 8 ) Directiva (UE) 2015/2302 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2015, relativa a los viajes combinados y a los servicios de viaje vinculados, por la que se modifican el Reglamento (CE) n. o 2006/2004 y la Directiva 2011/83/UE del Parlamento Europeo y del Consejo y por la que se deroga la Directiva 90/314/CEE del Consejo ( DO L 326 de 11.12.2015, p. 1 ).
+( 9 ) Directiva (UE) 2019/2161 del Parlamento Europeo y del Consejo, de 27 de noviembre de 2019, por la que se modifica la Directiva 93/13/CEE del Consejo y las Directivas 98/6/CE, 2005/29/CE y 2011/83/UE del Parlamento Europeo y del Consejo, en lo que atañe a la mejora de la aplicación y la modernización de las normas de protección de los consumidores de la Unión ( DO L 328 de 18.12.2019, p. 7 ).
+( 10 ) Directiva (UE) 2020/1828 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2020, relativa a las acciones de representación para la protección de los intereses colectivos de los consumidores, y por la que se deroga la Directiva 2009/22/CE ( DO L 409 de 4.12.2020, p. 1 ).

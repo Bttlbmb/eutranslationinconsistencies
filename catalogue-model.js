@@ -4,6 +4,38 @@ import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplay
 // Editorial introductions to the existing acts, based on their preserved official
 // titles and scope provisions. Source metadata and legal wording stay unchanged.
 const introductions = {
+  '31997R1103': {
+    title: 'Introduction of the euro',
+    description: 'Sets rules for currency conversion, rounding and the continuity of contracts.'
+  },
+  '32004R0261': {
+    title: 'Air passenger rights',
+    description: 'Sets compensation and assistance rules for denied boarding, cancellations and long flight delays.'
+  },
+  '32006R1924': {
+    title: 'Nutrition and health claims',
+    description: 'Sets conditions for nutrition and health claims in food labelling and advertising.'
+  },
+  '32010R1231': {
+    title: 'Social security for non-EU nationals',
+    description: 'Extends EU social-security coordination to qualifying nationals of non-EU countries.'
+  },
+  '32013R0655': {
+    title: 'Cosmetic product claims',
+    description: 'Sets common criteria for substantiating claims about cosmetic products.'
+  },
+  '32014R0828': {
+    title: 'Gluten-free food labelling',
+    description: 'Sets conditions for gluten-free and very-low-gluten information on food.'
+  },
+  '32019R0649': {
+    title: 'Industrial trans fats',
+    description: 'Restricts trans fats other than those naturally occurring in fat of animal origin.'
+  },
+  '32024R3228': {
+    title: 'Online dispute resolution platform closure',
+    description: 'Ends the EU online dispute-resolution platform and provides for handling users’ case data.'
+  },
   '32000L0078': {
     title: 'Employment equality',
     description: 'Combats discrimination at work based on religion or belief, disability, age or sexual orientation.'

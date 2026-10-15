@@ -54,7 +54,7 @@ Open http://127.0.0.1:4173 for the collection or http://127.0.0.1:4173/reader.ht
 | `catalogue.js`, `catalogue.css` | Collection front-page rendering, navigation, and responsive presentation. |
 | `reader.html` | Reader structure, accessible controls, compact review status, method dialog, and search-engine exclusion. |
 | `site-header.css` | Shared catalogue and reader header, site-title typography, and Method control. |
-| `experiments.html`, `experiments.css` | Unlinked, noindex report on the four completed review experiments and the proposed ten-regulation MVP run. |
+| `experiments.html`, `experiments.css` | Unlinked, noindex report on the four completed review experiments and the authorized ten-act API cohort run. |
 | `styles.css` | Reading layout, source rows, quote cards, and small-screen rules. |
 | `app.js` | Selected act/finding/language, browser history, navigation, and reading panes. |
 | `model.js` | Pure grouping, source offsets, highlights, links, and completion labels. |

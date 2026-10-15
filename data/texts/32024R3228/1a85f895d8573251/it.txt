@@ -1,0 +1,77 @@
+REGOLAMENTO (UE) 2024/3228 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO
+del 19 dicembre 2024
+che abroga il regolamento (UE) n. 524/2013 e modifica i regolamenti (UE) 2017/2394 e (UE) 2018/1724 per quanto riguarda la dismissione della piattaforma europea per la risoluzione delle controversie online
+(Testo rilevante ai fini del SEE)
+
+IL PARLAMENTO EUROPEO E IL CONSIGLIO DELL’UNIONE EUROPEA,
+
+visto il trattato sul funzionamento dell’Unione europea, in particolare l’articolo 114,
+
+vista la proposta della Commissione europea,
+
+previa trasmissione del progetto di atto legislativo ai parlamenti nazionali,
+
+visto il parere del Comitato economico e sociale europeo ( 1 ) ,
+
+deliberando secondo la procedura legislativa ordinaria ( 2 ) ,
+
+considerando quanto segue:
+
+(1) | Il regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio ( 3 ) ha istituito, incaricando la Commissione di svilupparla e manutenerla, la piattaforma europea per la risoluzione delle controversie online («piattaforma ODR») a livello dell’Unione, che offre un punto di accesso unico ai consumatori e ai professionisti che intendono risolvere in ambito extragiudiziale le controversie derivanti da contratti di vendita o di servizi online.
+
+(2) | La piattaforma ODR è un sito web interattivo tramite il quale i consumatori sono in grado di chiedere ai professionisti di acconsentire a ricorrere a un organismo di risoluzione alternativa delle controversie (ADR) che sia elencata sulla piattaforma ODR e sia conforme alla direttiva 2013/11/UE del Parlamento europeo e del Consiglio ( 4 ) .
+
+(3) | Il regolamento (UE) n. 524/2013 impone ai professionisti online e ai mercati online di fornire, sul loro sito web, un link facilmente accessibile alla piattaforma ODR. Tale obbligo, unitamente alle campagne di informazione organizzate dalla Commissione e dai portatori di interessi nazionali, ha portato ogni anno sul sito web della piattaforma ODR tra i due e i tre milioni di visitatori.
+
+(4) | Solo una minoranza di visitatori utilizza tuttavia la piattaforma ODR per presentare un reclamo e solo il 2 % di tali reclami riceve effettivamente una risposta positiva dai professionisti così che la richiesta possa essere trasmessa a un organismo ADR elencato sulla piattaforma ODR. Complessivamente, si tratta di circa 200 casi l’anno in tutta l’Unione.
+
+(5) | La Commissione ha pubblicato un invito a presentare contributi sull’adeguamento della risoluzione extragiudiziale delle controversie ai mercati digitali, che si è svolto dal 28 settembre al 21 dicembre 2022. La Commissione ha concluso che la piattaforma ODR era stata utilizzata solo dal 5 % dei consumatori che hanno risposto a tale invito a presentare contributi, e la maggior parte dei partecipanti riteneva che la piattaforma ODR dovesse essere notevolmente migliorata o dismessa in quanto non efficiente in termini di costi. Dai dati emerge chiaramente che, poiché ogni anno vengono trasferiti a un organismo ADR non più di 200 casi, continuare a mantenere la piattaforma ODR non corrisponde ai principi di efficienza ed efficacia di cui al regolamento (UE, Euratom) 2024/2509 del Parlamento europeo e del Consiglio ( 5 ) .
+
+(6) | La piattaforma ODR dovrebbe essere dismessa e il regolamento (UE) n. 524/2013 dovrebbe pertanto essere abrogato. Dovrebbe essere previsto un periodo di tempo adeguato per garantire che i casi in corso possano essere adeguatamente conclusi.
+
+(7) | A norma del regolamento (UE) n. 524/2013, i dati personali riguardanti una controversia sono archiviati nella banca dati istituita in seguito a tale regolamento per il tempo necessario per realizzare i fini per i quali sono stati raccolti e per garantire che le persone interessate siano in grado di accedere ai propri dati personali allo scopo di esercitare i propri diritti. In conformità del regolamento (UE) n. 524/2013 tali dati devono essere soppressi automaticamente al più tardi sei mesi dopo la data di chiusura della controversia trasmessa alla piattaforma ODR. La Commissione dovrebbe informare con sufficiente anticipo gli utenti della piattaforma ODR che abbiano casi in corso che la piattaforma ODR sarà dismessa, e in ogni caso dovrebbero informarli almeno quattro mesi prima della sua dismissione. La Commissione dovrebbe offrire assistenza agli utenti della piattaforma ODR che desiderano recuperare i dati relativi ai loro casi.
+
+(8) | Poiché la piattaforma ODR è menzionata in altri atti giuridici dell’Unione come una piattaforma che consente ai consumatori di chiedere ai professionisti di acconsentire a una risoluzione extragiudiziale delle controversie, tali atti dovrebbero essere modificati per eliminare i riferimenti alla piattaforma ODR. È pertanto opportuno modificare di conseguenza i regolamenti (UE) 2017/2394 ( 6 ) e (UE) 2018/1724 ( 7 ) del Parlamento europeo e del Consiglio. Le direttive (UE) 2015/2302 ( 8 ) , (UE) 2019/2161 ( 9 ) e (UE) 2020/1828 ( 10 ) del Parlamento europeo e del Consiglio contengono inoltre riferimenti al regolamento (UE) n. 524/2013. Si prevede che tali direttive siano modificate da un atto giuridico distinto,
+
+HANNO ADOTTATO IL PRESENTE REGOLAMENTO:
+
+Articolo 1
+Il regolamento (UE) n. 524/2013 è abrogato a decorrere dal 20 luglio 2025.
+
+Articolo 2
+1. La piattaforma europea per la risoluzione delle controversie online («piattaforma ODR») è dismessa.
+2. La presentazione dei reclami nella piattaforma ODR è interrotta il 20 marzo 2025.
+3. La Commissione informa gli utenti della piattaforma ODR con casi in corso che la piattaforma ODR sarà dismessa entro il 20 marzo 2025 e offre a tali utenti assistenza per recuperare i dati relativi ai loro casi e a quelli a loro accessibili qualora lo desiderino.
+4. Al più tardi entro 20 luglio 2025 tutte le informazioni relative ai casi sulla piattaforma ODR, compresi i dati personali, sono cancellati.
+
+Articolo 3
+Modifica del regolamento (UE) 2017/2394
+Nell’allegato del regolamento (UE) 2017/2394 il punto 22 è soppresso.
+
+Articolo 4
+Modifica del regolamento (UE) 2018/1724
+Nell’allegato III del regolamento (UE) 2018/1724, il punto 7 è sostituito dal seguente:
+«7) | Elenco degli organismi di risoluzione alternativa delle controversie dei consumatori elaborato dalla Commissione a norma dell’articolo 20, paragrafo 4, della direttiva 2013/11/UE del Parlamento europeo e del Consiglio ( *1 ) .
+
+Articolo 5
+Entrata in vigore
+Il presente regolamento entra in vigore il ventesimo giorno successivo alla pubblicazione nella Gazzetta ufficiale dell’Unione europea .
+
+Il presente regolamento è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno degli Stati membri.
+Fatto a Bruxelles, il 19 dicembre 2024
+Per il Parlamento europeo
+La presidente
+R. METSOLA
+Per il Consiglio
+Il presidente
+BÓKA J.
+( 1 ) GU C, C/2024/2482, 23.4.2024, ELI: http://data.europa.eu/eli/C/2024/2482/oj .
+( 2 ) Posizione del Parlamento europeo del 13 marzo 2024 (non ancora pubblicata nella Gazzetta ufficiale) e posizione del Consiglio in prima lettura del 19 novembre 2024 (non ancora pubblicata nella Gazzetta ufficiale). Posizione del Parlamento europeo del 17 dicembre 2024 (non ancora pubblicata nella Gazzetta ufficiale).
+( 3 ) Regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori e che modifica il regolamento (CE) n. 2006/2004 e la direttiva 2009/22/CE (regolamento sull’ODR per i consumatori) ( GU L 165 del 18.6.2013, pag. 1 ).
+( 4 ) Direttiva 2013/11/UE del Parlamento europeo e del Consiglio, del 21 maggio 2013, sulla risoluzione alternativa delle controversie dei consumatori, che modifica il regolamento (CE) n. 2006/2004 e la direttiva 2009/22/CE (Direttiva sull’ADR per i consumatori) ( GU L 165 del 18.6.2013, pag. 63 ).
+( 5 ) Regolamento (UE, Euratom) 2024/2509 del Parlamento europeo e del Consiglio, del 23 settembre 2024, che stabilisce le regole finanziarie applicabili al bilancio generale dell’Unione ( GU L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj ).
+( 6 ) Regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, sulla cooperazione tra le autorità nazionali responsabili dell’esecuzione della normativa che tutela i consumatori e che abroga il regolamento (CE) n. 2006/2004 ( GU L 345 del 27.12.2017, pag. 1 ).
+( 7 ) Regolamento (UE) 2018/1724 del Parlamento europeo e del Consiglio, del 2 ottobre 2018, che istituisce uno sportello digitale unico per l’accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi e che modifica il regolamento (UE) n. 1024/2012 ( GU L 295 del 21.11.2018, pag. 1 ).
+( 8 ) Direttiva (UE) 2015/2302 del Parlamento europeo e del Consiglio, del 25 novembre 2015, relativa ai pacchetti turistici e ai servizi turistici collegati, che modifica il regolamento (CE) n. 2006/2004 e la direttiva 2011/83/UE del Parlamento europeo e del Consiglio e che abroga la direttiva 90/314/CEE del Consiglio ( GU L 326 dell’11.12.2015, pag. 1 ).
+( 9 ) Direttiva (UE) 2019/2161 del Parlamento europeo e del Consiglio, del 27 novembre 2019, che modifica la direttiva 93/13/CEE del Consiglio e le direttive 98/6/CE, 2005/29/CE e 2011/83/UE del Parlamento europeo e del Consiglio per una migliore applicazione e una modernizzazione delle norme dell’Unione relative alla protezione dei consumatori ( GU L 328 del 18.12.2019, pag. 7 ).
+( 10 ) Direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio, del 25 novembre 2020, relativa alle azioni rappresentative a tutela degli interessi collettivi dei consumatori e che abroga la direttiva 2009/22/CE ( GU L 409 del 4.12.2020, pag. 1 ).
