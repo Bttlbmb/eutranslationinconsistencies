@@ -245,6 +245,9 @@ test('display citations retain official suffixes and older regulation numbering'
     title: 'COMMISSION REGULATION (EU) No 432/2012 of 16 May 2012 establishing a list of permitted health claims made on foods' });
   assert.equal(regulation.reference, 'Regulation (EU) No 432/2012');
   assert.equal(regulation.label, 'Regulation (EU) No 432/2012 — Food health claims');
+  const implementing = actIntroduction({ ...act, id: '32014R0828',
+    title: 'COMMISSION IMPLEMENTING REGULATION (EU) No 828/2014 of 30 July 2014 on gluten in food' });
+  assert.equal(implementing.reference, 'Regulation (EU) No 828/2014');
 });
 
 test('reader links encode act IDs and preserve the language focus', () => {
