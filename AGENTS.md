@@ -16,4 +16,4 @@ and build use it. Add new browser assets to the explicit build allowlist.
 - Keep `noindex` metadata and `robots.txt`. Link sharing is not authentication.
 - The root owner controls `.openai/hosting.json` and Sites registration/deployment. Preserve its project identity.
 - Run `npm test`, `npm run check`, and `npm run build` after relevant changes. There are no external packages to install.
-- Keep the current local reader at http://127.0.0.1:4173 and the existing hosted Site synchronized after website changes, unless the user explicitly requests local-only work or no publication. Follow ../WORKSPACE.md's shared-lock and publication procedure. Never publish the disposable research preview or open additional reader servers on 4174/4175.
+- Keep the current local reader at http://127.0.0.1:4173 and the existing hosted Site synchronized after website changes, unless the user explicitly requests local-only work or no publication. Follow ../backend/WORKSPACE.md's shared-lock and publication procedure. Never publish the disposable research preview or open additional reader servers on 4174/4175.

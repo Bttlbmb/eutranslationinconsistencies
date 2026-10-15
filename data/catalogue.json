@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-15T22:20:07.486235Z",
+  "generated_at": "2026-10-15T23:01:47.154627Z",
   "legislation": [
     {
       "id": "31997R1103",
@@ -229,9 +229,9 @@
       ],
       "coverage": {
         "total_units": 462,
-        "reviewed_units": 420,
+        "reviewed_units": 441,
         "total_languages": 23,
-        "reviewed_languages": 21,
+        "reviewed_languages": 22,
         "reviewed_language_codes": [
           "bg",
           "cs",
@@ -251,6 +251,7 @@
           "nl",
           "pt",
           "ro",
+          "sk",
           "sl",
           "sv"
         ]
@@ -971,6 +972,90 @@
             ],
             "reviewed_at": "2026-10-15T22:17:53.791245Z"
           }
+        },
+        {
+          "id": "api-aa18441975928909e68011534ce7",
+          "passage_id": "p0018",
+          "english_quote": "This provision is subject to anything which parties may have agreed.",
+          "title": "Continuity protection may appear to require party agreement",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English makes continuity the default while preserving agreements between the parties. Slovak can be read as requiring agreement before that protection applies. If that reading prevailed, a party without such agreement could lose Article 3's protection against euro-related alteration, discharge or unilateral termination. Recital 7 strongly supports a harmonized reading.",
+          "variants": [
+            {
+              "language": "sk",
+              "language_name": "Slovak",
+              "quote": "Toto ustanovenie je podmienené dohodou strán.",
+              "translation": "This provision is conditional upon the agreement of the parties.",
+              "explanation": "English makes continuity the default while preserving agreements between the parties. Slovak can be read as requiring agreement before that protection applies. If that reading prevailed, a party without such agreement could lose Article 3's protection against euro-related alteration, discharge or unilateral termination. Recital 7 strongly supports a harmonized reading.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:31997R1103"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:40:27.808932Z"
+          }
+        },
+        {
+          "id": "api-6390249ceb2204cc7dd8757fe187",
+          "passage_id": "p0019",
+          "english_quote": "Monetary amounts to be converted from one national currency unit into another shall first be converted into a monetary amount expressed in the euro unit, which amount may be rounded to not less than three decimals and shall then be converted into the other national currency unit.",
+          "title": "Intermediate euro rounding precision is reversed",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English permits rounding the intermediate euro amount only to at least three decimal places. Slovak permits fewer than three. Applying that permission could change the final national-currency amount even when the prescribed conversion rates are used.",
+          "variants": [
+            {
+              "language": "sk",
+              "language_name": "Slovak",
+              "quote": "Peňažné čiastky, ktoré majú byť prevedené z jednej národnej meny na inú, sa najprv prevedú na peňažnú čiastku vyjadrenú v jednotke euro, pričom táto čiastka môže byť zaokrúhlená na menej ako tri desatinné miesta a potom sa prevedie na inú národnú menovú jednotku.",
+              "translation": "Monetary amounts to be converted from one national currency into another shall first be converted into a monetary amount expressed in the euro unit, whereby that amount may be rounded to fewer than three decimal places and shall then be converted into another national currency unit.",
+              "explanation": "English permits rounding the intermediate euro amount only to at least three decimal places. Slovak permits fewer than three. Applying that permission could change the final national-currency amount even when the prescribed conversion rates are used.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:31997R1103"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:40:27.808932Z"
+          }
+        },
+        {
+          "id": "api-4e116dcd565f9753dafd22088e28",
+          "passage_id": "p0020",
+          "english_quote": "Monetary amounts to be paid or accounted for which are converted into a national currency unit shall be rounded up or down to the nearest sub-unit or in the absence of a sub-unit to the nearest unit, or according to national law or practice to a multiple or fraction of the sub-unit or unit of the national currency unit.",
+          "title": "National-currency rounding fallback and alternatives differ",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly requires nearest-unit rounding when no sub-unit exists and separately allows national-law or practice alternatives. Slovak omits that default and appears to condition the alternatives on the absence of a nearest sub-unit. This could change the permitted rounding method and resulting payment or accounting amount.",
+          "variants": [
+            {
+              "language": "sk",
+              "language_name": "Slovak",
+              "quote": "Peňažné čiastky, ktoré majú byť zaplatené alebo účtované, ktoré sú prevedené na národnú menovú jednotku, sa zaokrúhlia smerom nahor alebo nadol na najbližšiu čiastkovú jednotku alebo v prípade, ak neexistuje najbližšia čiastková jednotka, na násobok alebo zlomok čiastkovej jednotky alebo národnej menovej jednotky podľa národných právnych predpisov alebo praxe.",
+              "translation": "Monetary amounts to be paid or accounted for which are converted into a national currency unit shall be rounded up or down to the nearest sub-unit or, where no nearest sub-unit exists, to a multiple or fraction of the sub-unit or national currency unit according to national legislation or practice.",
+              "explanation": "English expressly requires nearest-unit rounding when no sub-unit exists and separately allows national-law or practice alternatives. Slovak omits that default and appears to condition the alternatives on the absence of a nearest sub-unit. This could change the permitted rounding method and resulting payment or accounting amount.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX:31997R1103"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:40:27.808932Z"
+          }
         }
       ],
       "notes": [
@@ -979,8 +1064,6 @@
         "This import explicitly uses the original Official Journal act. A later consolidated work (01997R1103-20010101) exists but is outside this review; later corrigenda or amendments may not be reflected.",
         "Some official language expressions could not be retrieved or parsed; language coverage is incomplete.",
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
-        "Paid generation stopped at the authorized budget ceiling. Unfinished comparisons remain unreviewed; saved attempts are preserved privately.",
-        "Language comparisons still incomplete after the bounded review: sk. Findings from these comparisons are withheld.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
       ],
@@ -1190,6 +1273,40 @@
           ]
         },
         {
+          "id": "api-issue-4e116dcd565f9753dafd22088e28",
+          "title": "National-currency rounding fallback and alternatives differ",
+          "legal_anchor": "Article 5",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "If the conditional reading prevailed, an amount converted into a currency with sub-units could require nearest-sub-unit rounding despite a national rule permitting rounding to a multiple.",
+          "rationale": "The identified consequence changes final rounding increments. The prescribed conversion rates and underlying obligations remain intact; the supplied context supports an ancillary precision consequence rather than a major entitlement or liability change.",
+          "uncertainty": "National rounding rules are absent; contextual interpretation could preserve alternatives and supply the omitted fallback.",
+          "assessed_at": "2026-10-15T23:01:44.439750Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-4e116dcd565f9753dafd22088e28"
+          ]
+        },
+        {
+          "id": "api-issue-6390249ceb2204cc7dd8757fe187",
+          "title": "Intermediate euro rounding precision is reversed",
+          "legal_anchor": "Article 4",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "If the Slovak permission prevailed, a converter could round the intermediate euro amount to two decimal places, producing a different final payment or accounting amount after conversion and final rounding.",
+          "rationale": "The mechanism changes intermediate precision while preserving the conversion rates and two-stage calculation. Its supported consequence is a rounding difference, without a demonstrated major change to an entitlement or financial liability.",
+          "uncertainty": "Accuracy recitals favour harmonization; final rounding may absorb the difference. Actual effects depend on rates and chosen precision.",
+          "assessed_at": "2026-10-15T23:01:44.439696Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-6390249ceb2204cc7dd8757fe187"
+          ]
+        },
+        {
           "id": "api-issue-7b453aa8306f1a38156c57946158",
           "title": "Intermediate rounding lacks an express minimum-precision qualifier",
           "legal_anchor": "Article 4",
@@ -1221,6 +1338,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-7c5bed277deeea96ae4cc45dee29"
+          ]
+        },
+        {
+          "id": "api-issue-aa18441975928909e68011534ce7",
+          "title": "Continuity protection may appear to require party agreement",
+          "legal_anchor": "Article 3",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "If agreement were a prerequisite, a contracting party without a continuity agreement could lose Article 3's statutory protection against treating euro introduction as grounds for unilateral termination or discharge.",
+          "rationale": "Conditioning the continuity rule on agreement could remove a core protection for existing legal obligations. This is a major conditional consequence even though other law might independently preserve continuity.",
+          "uncertainty": "Article 3's opening sentence and recitals 7–8 strongly favour continuity without separate agreement; other legal protections are not supplied.",
+          "assessed_at": "2026-10-15T23:01:44.439612Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-aa18441975928909e68011534ce7"
           ]
         },
         {
@@ -1540,9 +1674,9 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 1034,
-        "reviewed_units": 611,
+        "reviewed_units": 658,
         "total_languages": 23,
-        "reviewed_languages": 14,
+        "reviewed_languages": 15,
         "reviewed_language_codes": [
           "bg",
           "da",
@@ -1556,7 +1690,8 @@
           "lt",
           "mt",
           "nl",
-          "pt"
+          "pt",
+          "sv"
         ]
       },
       "passages": [
@@ -3411,6 +3546,90 @@
             ],
             "reviewed_at": "2026-10-15T13:53:15.047804Z"
           }
+        },
+        {
+          "id": "api-05510717589bcb1aad5884262039",
+          "passage_id": "p0033",
+          "english_quote": "(ii) they are informed of the cancellation between two weeks and seven days before the scheduled time of departure and are offered re-routing, allowing them to depart no more than two hours before the scheduled time of departure and to reach their final destination less than four hours after the scheduled time of arrival; or\n(iii) they are informed of the cancellation less than seven days before the scheduled time of departure and are offered re-routing, allowing them to depart no more than one hour before the scheduled time of departure and to reach their final destination less than two hours after the scheduled time of arrival.",
+          "title": "Swedish cancellation exceptions include arrival exactly at the time limits",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 5(1)(c) in Swedish could exempt the carrier from compensation when offered re-routing arrives exactly four or two hours late. English requires arrival strictly before those limits. Compensation could therefore remain payable under English, subject to reduction or another exemption.",
+          "variants": [
+            {
+              "language": "sv",
+              "language_name": "Swedish",
+              "quote": "ii) de mellan två veckor och sju dagar före den tidtabellsenliga avgångstiden underrättas om att flygningen är inställd, och erbjuds ombokning så att de kan avresa högst två timmar före den tidtabellsenliga avgångstiden och nå sin slutliga bestämmelseort senast fyra timmar efter den tidtabellsenliga ankomsttiden, eller\niii) de mindre än sju dagar före den tidtabellsenliga avgångstiden underrättas om att flygningen är inställd, och erbjuds ombokning så att de kan avresa högst en timme före den tidtabellsenliga avgångstiden och nå sin slutliga bestämmelseort senast två timmar efter den tidtabellsenliga ankomsttiden.",
+              "translation": "ii) they are informed between two weeks and seven days before the scheduled departure time that the flight is cancelled, and are offered rebooking so that they can depart no more than two hours before the scheduled departure time and reach their final destination no later than four hours after the scheduled arrival time, or\niii) they are informed less than seven days before the scheduled departure time that the flight is cancelled, and are offered rebooking so that they can depart no more than one hour before the scheduled departure time and reach their final destination no later than two hours after the scheduled arrival time.",
+              "explanation": "Article 5(1)(c) in Swedish could exempt the carrier from compensation when offered re-routing arrives exactly four or two hours late. English requires arrival strictly before those limits. Compensation could therefore remain payable under English, subject to reduction or another exemption.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32004R0261"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T23:00:43.870566Z"
+          }
+        },
+        {
+          "id": "api-e326d2845b9f51f0d9966e4b3742",
+          "passage_id": "p0031",
+          "english_quote": "(a) have a confirmed reservation on the flight concerned and, except in the case of cancellation referred to in Article 5, present themselves for check-in,",
+          "title": "Swedish makes completed check-in an eligibility condition",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 3(2)(a) requires timely presentation for check-in in English but completed check-in in Swedish. A passenger who presents on time but remains unprocessed could lose eligibility under the Swedish reading. Cancellation and the separate route for passengers transferred to another flight limit this difference.",
+          "variants": [
+            {
+              "language": "sv",
+              "language_name": "Swedish",
+              "quote": "a) har en bekräftad platsreservation på den berörda flygningen och, utom i händelse av inställd flygning enligt artikel 5, har checkat in",
+              "translation": "a) have a confirmed reservation on the flight concerned and, except in the event of cancellation under Article 5, have checked in",
+              "explanation": "Article 3(2)(a) requires timely presentation for check-in in English but completed check-in in Swedish. A passenger who presents on time but remains unprocessed could lose eligibility under the Swedish reading. Cancellation and the separate route for passengers transferred to another flight limit this difference.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32004R0261"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T23:00:43.870566Z"
+          }
+        },
+        {
+          "id": "api-62409661e4c79a9c8238762b7510",
+          "passage_id": "p0035",
+          "english_quote": "3. The compensation referred to in paragraph 1 shall be paid in cash, by electronic bank transfer, bank orders or bank cheques or, with the signed agreement of the passenger, in travel vouchers and/or other services.",
+          "title": "Swedish permits voucher payment with written consent without an express signature requirement",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 7(3) requires signed agreement in English and written consent in Swedish. An unsigned written acceptance could therefore suffice for voucher or service payment under Swedish. Both versions still require consent. The distinction also reaches reimbursement provisions that incorporate these payment methods.",
+          "variants": [
+            {
+              "language": "sv",
+              "language_name": "Swedish",
+              "quote": "3. Kompensationen i punkt 1 skall betalas kontant, med elektronisk banköverföring, bankgirering eller check eller, med passagerarens skriftliga samtycke, med resevouchers och/eller andra tjänster.",
+              "translation": "3. The compensation in paragraph 1 shall be paid in cash, by electronic bank transfer, bank giro transfer or cheque or, with the passenger’s written consent, in travel vouchers and/or other services.",
+              "explanation": "Article 7(3) requires signed agreement in English and written consent in Swedish. An unsigned written acceptance could therefore suffice for voucher or service payment under Swedish. Both versions still require consent. The distinction also reaches reimbursement provisions that incorporate these payment methods.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32004R0261"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T23:00:43.870566Z"
+          }
         }
       ],
       "notes": [
@@ -3418,7 +3637,7 @@
         "The selected official version was resolved at import time. This MVP does not monitor subsequent changes.",
         "This import explicitly uses the original Official Journal act. A later consolidated work (02004R0261-20050217) exists but is outside this review; later corrigenda or amendments may not be reflected.",
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
-        "Language comparisons still incomplete after the bounded review: cs, et, hr, lv, pl, ro, sk, sl, sv. Findings from these comparisons are withheld.",
+        "Language comparisons still incomplete after the bounded review: cs, et, hr, lv, pl, ro, sk, sl. Findings from these comparisons are withheld.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
       ],
@@ -3951,6 +4170,23 @@
           ]
         },
         {
+          "id": "api-issue-e326d2845b9f51f0d9966e4b3742",
+          "title": "Swedish makes completed check-in an eligibility condition",
+          "legal_anchor": "Article 3",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An otherwise eligible passenger presents on time but the carrier leaves check-in unfinished and denies boarding. If Article 3(2)(b) does not apply, Swedish could exclude compensation and assistance that English preserves.",
+          "rationale": "The disputed requirement controls access to substantive passenger protections, including Article 4 compensation and assistance, rather than merely prescribing an administrative procedure.",
+          "uncertainty": "A functional reading of completed check-in, supported by the protective purpose, could reconcile the texts.",
+          "assessed_at": "2026-10-15T23:01:44.057370Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-e326d2845b9f51f0d9966e4b3742"
+          ]
+        },
+        {
           "id": "api-issue-ecedd584728d31b0dc165c3d49a5",
           "title": "Dutch re-routing options expressly require another flight",
           "legal_anchor": "Article 8",
@@ -3999,6 +4235,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-68c86b2210e1d29cfa64e3249428"
+          ]
+        },
+        {
+          "id": "api-issue-05510717589bcb1aad5884262039",
+          "title": "Swedish cancellation exceptions include arrival exactly at the time limits",
+          "legal_anchor": "Article 5",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "With cancellation notice less than seven days beforehand and otherwise compliant re-routing arriving exactly two hours late, Swedish could eliminate Article 7 compensation that English preserves, absent another exemption.",
+          "rationale": "The difference can extinguish the monetary entitlement entirely. Article 7(2) may reduce the English entitlement but does not eliminate it.",
+          "uncertainty": "Multilingual interpretation may reconcile the thresholds; the scenario assumes all other eligibility and exception conditions are satisfied.",
+          "assessed_at": "2026-10-15T23:01:44.057466Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-05510717589bcb1aad5884262039"
           ]
         },
         {
@@ -4325,6 +4578,23 @@
           ]
         },
         {
+          "id": "api-issue-62409661e4c79a9c8238762b7510",
+          "title": "Swedish permits voucher payment with written consent without an express signature requirement",
+          "legal_anchor": "Article 7",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "A passenger genuinely accepts vouchers in an unsigned written message. Swedish could permit payment on that basis, while English would require signed agreement.",
+          "rationale": "The supported consequence concerns consent formalities, including incorporated reimbursement methods. Genuine consent, prescribed amounts and protections against restricted rights remain required; imposed vouchers are not authorized.",
+          "uncertainty": "Interpretation of written consent and electronic signatures may reconcile particular cases.",
+          "assessed_at": "2026-10-15T23:01:44.057520Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-62409661e4c79a9c8238762b7510"
+          ]
+        },
+        {
           "id": "api-issue-1c687f4bca37e283ff187ebaea42",
           "title": "Hungarian delay-care trigger names the following day without expressly including later days",
           "legal_anchor": "Article 6",
@@ -4633,10 +4903,11 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 874,
-        "reviewed_units": 646,
+        "reviewed_units": 722,
         "total_languages": 24,
-        "reviewed_languages": 18,
+        "reviewed_languages": 20,
         "reviewed_language_codes": [
+          "bg",
           "cs",
           "da",
           "el",
@@ -4653,6 +4924,7 @@
           "pt",
           "ro",
           "sk",
+          "sl",
           "sv"
         ]
       },
@@ -4887,6 +5159,230 @@
         }
       ],
       "findings": [
+        {
+          "id": "api-07c7f73d3ba492b138b1a55d53c1",
+          "passage_id": "p0003",
+          "english_quote": "provided that it is accompanied by a related nutrition or health claim in that labelling, presentation or advertising which complies with the provisions of this Regulation.",
+          "title": "The accompanying claim need not expressly relate to the trade mark or name",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 1(3) requires a related compliant claim to accompany a trade mark or name benefiting from the authorisation exemption. Bulgarian omits the express relationship requirement, potentially allowing an unrelated compliant claim to satisfy this condition.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "при условие че са съпроводени от хранителна или здравна претенция върху същия етикет, при представянето или реклама, отговарящи на разпоредбите на настоящия регламент.",
+              "translation": "provided that they are accompanied by a nutrition or health claim on the same label, in the presentation or advertising, complying with the provisions of this Regulation.",
+              "explanation": "English Article 1(3) requires a related compliant claim to accompany a trade mark or name benefiting from the authorisation exemption. Bulgarian omits the express relationship requirement, potentially allowing an unrelated compliant claim to satisfy this condition.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-c3a320a014566788bb58e77febb2",
+          "passage_id": "p0006",
+          "english_quote": "refer to changes in bodily functions which could give rise to or exploit fear in the consumer, either textually or through pictorial, graphic or symbolic representations.",
+          "title": "Exploitation of existing consumer fear is not expressly prohibited",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 3(e) covers references to bodily changes that could cause or exploit fear. Bulgarian expressly covers causing fear only, potentially leaving exploitation of existing fear outside this particular prohibition.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "се позовават на изменения във функциите на организма, което би могло да породи страх у потребителя, чрез използване на текст или чрез картина, графика или символ.",
+              "translation": "refer to changes in bodily functions which could give rise to fear in the consumer, through the use of text or through a picture, graphic or symbol.",
+              "explanation": "English Article 3(e) covers references to bodily changes that could cause or exploit fear. Bulgarian expressly covers causing fear only, potentially leaving exploitation of existing fear outside this particular prohibition.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-02453b92cb47e1f4b79edffab0d0",
+          "passage_id": "p0015",
+          "english_quote": "Health claims shall only be permitted if the following information is included in the labelling, or if no such labelling exists, in the presentation and advertising:",
+          "title": "Required information for unlabelled foods may appear in only one medium",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For foods without labelling, English Article 10(2) requires applicable information in presentation and advertising; Bulgarian uses alternatives. Where both media carry the claim, an applicable warning could consequently appear in only one.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Здравните претенции се разрешават единствено ако на етикета е поставена следната информация или ако в случаите, когато няма етикет, в представянето или рекламата има:",
+              "translation": "Health claims are permitted only if the following information is placed on the label or, in cases where there is no label, is included in the presentation or advertising:",
+              "explanation": "For foods without labelling, English Article 10(2) requires applicable information in presentation and advertising; Bulgarian uses alternatives. Where both media carry the claim, an applicable warning could consequently appear in only one.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-fa7eee13af52f0c861a7e012cb61",
+          "passage_id": "p0021",
+          "english_quote": "where applicable, conditions or restrictions of use of the food and/or an additional statement or warning that should accompany the health claim on the label and in advertising.",
+          "title": "Additional warnings may cover the label or advertising rather than both",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 16(4)(d) provides for additional information or warnings accompanying a claim on the label and in advertising. Bulgarian makes the locations alternatives, potentially narrowing the warning conditions carried into an authorisation.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "при необходимост, условията или ограниченията за използване на храната и/или допълнителна информация или предупреждение, което следва да придружава здравната претенция върху етикета или в рекламата.",
+              "translation": "where necessary, the conditions or restrictions on use of the food and/or additional information or a warning which should accompany the health claim on the label or in advertising.",
+              "explanation": "English Article 16(4)(d) provides for additional information or warnings accompanying a claim on the label and in advertising. Bulgarian makes the locations alternatives, potentially narrowing the warning conditions carried into an authorisation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-e6f503216d2cadd0daee496bb4d7",
+          "passage_id": "p0022",
+          "english_quote": "However, where at the applicant's request for the protection of proprietary data, the Commission proposes to restrict the use of the claim in favour of the applicant:",
+          "title": "Special authorisation procedure refers to patented data",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Bulgarian Articles 17(3) and 18(5) refer to patented data where English refers to proprietary data. This could narrow access to the special authorisation procedure, although Articles 17(5) and 21 retain broader protection and restrictions on use.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Въпреки това, когато по искане на заявителя за защита на патентовани данни Комисията предлага да ограничи използването на претенцията в полза на заявителя:",
+              "translation": "However, where, at the applicant's request for protection of patented data, the Commission proposes to restrict use of the claim in favour of the applicant:",
+              "explanation": "Bulgarian Articles 17(3) and 18(5) refer to patented data where English refers to proprietary data. This could narrow access to the special authorisation procedure, although Articles 17(5) and 21 retain broader protection and restrictions on use.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-fae8bc61d1587d04b0d1d93f4f98",
+          "passage_id": "p0024",
+          "english_quote": "On its own initiative or following a request from a Member State or from the Commission, the Authority shall issue an opinion on whether a health claim included in the lists provided for in Articles 13 and 14 still meets the conditions laid down in this Regulation.",
+          "title": "Commission requests are omitted from the express reassessment triggers",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 19(2) expressly requires reassessment following a Commission request. Bulgarian omits that trigger, potentially leaving such a request dependent on the Authority choosing to initiate review.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "По своя инициатива или по повод молба от държава-членка Органът излиза със становище за това, дали здравна претенция от списъците по членове 13 и 14 все още отговаря на условията на настоящия регламент.",
+              "translation": "On its own initiative or following a request from a Member State, the Authority issues an opinion on whether a health claim in the lists under Articles 13 and 14 still meets the conditions of this Regulation.",
+              "explanation": "English Article 19(2) expressly requires reassessment following a Commission request. Bulgarian omits that trigger, potentially leaving such a request dependent on the Authority choosing to initiate review.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-2e6a092a945c807f553d6b919db7",
+          "passage_id": "p0033",
+          "english_quote": "The report shall also include an evaluation of the impact of this Regulation on dietary choices and the potential impact on obesity and non-communicable diseases.",
+          "title": "Evaluation report names overweight rather than obesity",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 27 names obesity as an evaluation subject in English and overweight in Bulgarian. This could change the required report's focus, allowing a broader assessment of excess weight without separately evaluating obesity.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Докладът също така следва да включва оценка на въздействието на настоящия регламент върху избора на диета и потенциалното въздействие върху наднорменото тегло и незаразните заболявания.",
+              "translation": "The report must also include an assessment of the impact of this Regulation on dietary choices and the potential impact on overweight and non-communicable diseases.",
+              "explanation": "Article 27 names obesity as an evaluation subject in English and overweight in Bulgarian. This could change the required report's focus, allowing a broader assessment of excess weight without separately evaluating obesity.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-0d1ff0096e1ab8e3b37f7baa6486",
+          "passage_id": "p0034",
+          "english_quote": "Nutrition claims which have been used in a Member State before 1 January 2006 in compliance with national provisions applicable to them and which are not included in the Annex, may continue to be used until 19 January 2010 under the responsibility of food business operators and without prejudice to the adoption of safeguard measures as referred to in Article 24.",
+          "title": "Transitional eligibility refers to use by Member States",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 28(3) covers prior use within a Member State. Bulgarian refers to use by Member States. An actor-based reading could exclude claims previously used only by private businesses from the transitional permission.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Хранителни претенции, използвани от държави-членки преди 1 януари 2006 г. в съответствие с приложимите национални разпоредби и които не са включени в приложението, могат да продължат да се използват до 19 януари 2010 г., като отговорността се носи от ръководители на хранителни предприятия и без да се накърнява приемането на защитните мерки по член 24.",
+              "translation": "Nutrition claims used by Member States before 1 January 2006 in accordance with the applicable national provisions and which are not included in the Annex may continue to be used until 19 January 2010, with responsibility borne by food business operators and without prejudice to the adoption of safeguard measures under Article 24.",
+              "explanation": "English Article 28(3) covers prior use within a Member State. Bulgarian refers to use by Member States. An actor-based reading could exclude claims previously used only by private businesses from the transitional permission.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
         {
           "id": "api-2e4d8ff899af36773d56686db80e",
           "passage_id": "p0004",
@@ -7098,6 +7594,286 @@
             ],
             "reviewed_at": "2026-10-15T13:13:14.053790Z"
           }
+        },
+        {
+          "id": "api-b598e3fe0e7593280081fc03af26",
+          "passage_id": "p0016",
+          "english_quote": "In the absence of specific Community rules concerning recommendations of or endorsements by national associations of medical, nutrition or dietetic professionals and health-related charities, relevant national rules may apply in compliance with the provisions of the Treaty.",
+          "title": "The endorsement exception may cover health associations without a charitable purpose",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 11 refers to health-related charities in English and associations concerned with health in Slovenian. The Slovenian wording could bring an association without a charitable purpose within national rules and outside Article 12(c)'s prohibition, while other health-claim requirements remain applicable.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "Če ne obstajajo posebni predpisi Skupnosti, ki se nanašajo na priporočila ali odobritve zdravstvenih trditev s strani nacionalnih združenj zdravnikov in strokovnjakov za prehrano ter dietetiko in društev, ki se ukvarjajo z zdravjem, se lahko v skladu z določbami Pogodbe uporabljajo ustrezni nacionalni predpisi.",
+              "translation": "If there are no specific Community rules concerning recommendations or endorsements of health claims by national associations of doctors and nutrition and dietetic professionals and associations concerned with health, relevant national rules may apply in accordance with the provisions of the Treaty.",
+              "explanation": "Article 11 refers to health-related charities in English and associations concerned with health in Slovenian. The Slovenian wording could bring an association without a charitable purpose within national rules and outside Article 12(c)'s prohibition, while other health-claim requirements remain applicable.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:57:01.357200Z"
+          }
+        },
+        {
+          "id": "api-6d1642b92a389e9d17e1417d24e0",
+          "passage_id": "p0034",
+          "english_quote": "Products bearing trade marks or brand names existing before 1 January 2005 which do not comply with this Regulation may continue to be marketed until 19 January 2022 after which time the provisions of this Regulation shall apply.",
+          "title": "Transitional marketing eligibility may require the product to predate 2005",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English ties the pre-2005 date to trade marks or brand names. Slovenian ties it to the products themselves. A later product bearing an older mark could therefore lose eligibility for the transitional marketing permission under the Slovenian reading.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "Izdelki z blagovno znamko ali trgovskim imenom, ki so obstajali pred 1. januarjem 2005 in niso v skladu s to uredbo, se smejo še naprej tržiti do 19. januarja 2022, potem pa se zanje uporabljajo določbe te uredbe.",
+              "translation": "Products bearing a trade mark or trade name, which products existed before 1 January 2005 and do not comply with this Regulation, may continue to be marketed until 19 January 2022, after which the provisions of this Regulation apply to them.",
+              "explanation": "English ties the pre-2005 date to trade marks or brand names. Slovenian ties it to the products themselves. A later product bearing an older mark could therefore lose eligibility for the transitional marketing permission under the Slovenian reading.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:57:01.357200Z"
+          }
+        },
+        {
+          "id": "api-97cc747817ac160b5021410365f8",
+          "passage_id": "p0034",
+          "english_quote": "Nutrition claims which have been used in a Member State before 1 January 2006 in compliance with national provisions applicable to them and which are not included in the Annex, may continue to be used until 19 January 2010 under the responsibility of food business operators and without prejudice to the adoption of safeguard measures as referred to in Article 24.",
+          "title": "Transitional eligibility may depend on use by the Member State itself",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires previous lawful use in a Member State; Slovenian attributes that use to the Member State. Taken literally, Slovenian could exclude claims previously used by businesses within the State from the temporary permission for unlisted nutrition claims.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "Prehranske trditve, ki jih je država članica uporabljala pred 1. januarjem 2006 v skladu z nacionalnimi določbami, veljavnimi zanje, in niso vključene v Prilogo, se lahko uporabljajo do 19. januarja 2010 in sicer na odgovornost nosilcev živilske dejavnosti in brez poseganja v sprejetje zaščitnih ukrepov iz člena 24.",
+              "translation": "Nutrition claims which a Member State used before 1 January 2006 in accordance with the national provisions applicable to them and which are not included in the Annex may be used until 19 January 2010 under the responsibility of food business operators and without prejudice to the adoption of safeguard measures referred to in Article 24.",
+              "explanation": "English requires previous lawful use in a Member State; Slovenian attributes that use to the Member State. Taken literally, Slovenian could exclude claims previously used by businesses within the State from the temporary permission for unlisted nutrition claims.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:57:01.357200Z"
+          }
+        },
+        {
+          "id": "api-f01583e8652fdd32c63c776fd5fa",
+          "passage_id": "p0037",
+          "english_quote": "A claim that a food is low in energy, and any claim likely to have the same meaning for the consumer, may only be made where the product does not contain more than 40 kcal (170 kJ)/100 g for solids or more than 20 kcal (80 kJ)/100 ml for liquids.",
+          "title": "The Slovenian low-energy thresholds exclude the exact maxima",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes the stated maximum values for solids and liquids. Slovenian requires values strictly below them, potentially excluding a low-energy claim for food exactly at its applicable ceiling. The separate table-top sweetener rule is unchanged.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "Trditev, da ima živilo nizko energijsko vrednost, in katera koli trditev s podobnim pomenom za potrošnika, je dopustna samo, kadar izdelek vsebuje manj kot 40 kcal (170 kJ)/100 g za snovi v trdnem stanju ali manj kot 20 kcal (80 kJ)/100 ml za tekočine.",
+              "translation": "A claim that a food has a low energy value, and any claim with a similar meaning for the consumer, is permitted only where the product contains less than 40 kcal (170 kJ)/100 g for solids or less than 20 kcal (80 kJ)/100 ml for liquids.",
+              "explanation": "English includes the stated maximum values for solids and liquids. Slovenian requires values strictly below them, potentially excluding a low-energy claim for food exactly at its applicable ceiling. The separate table-top sweetener rule is unchanged.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:57:01.357200Z"
+          }
+        },
+        {
+          "id": "api-276756eaba7ffb718f7ca57000c7",
+          "passage_id": "p0037",
+          "english_quote": "A claim that a food is energy-free, and any claim likely to have the same meaning for the consumer, may only be made where the product does not contain more than 4 kcal (17 kJ)/100 ml.",
+          "title": "The Slovenian energy-free threshold excludes the exact maximum",
+          "category": "number",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes the stated maximum of 4 kcal (17 kJ)/100 ml. Slovenian requires a value below it, potentially excluding an energy-free claim at that boundary. The separate table-top sweetener limit is unchanged.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "Trditev, da je živilo brez energijske vrednosti, in katera koli trditev s podobnim pomenom za potrošnika, je dopustna samo, kadar izdelek vsebuje manj kot 4 kcal (17 kJ)/100 ml.",
+              "translation": "A claim that a food has no energy value, and any claim with a similar meaning for the consumer, is permitted only where the product contains less than 4 kcal (17 kJ)/100 ml.",
+              "explanation": "English includes the stated maximum of 4 kcal (17 kJ)/100 ml. Slovenian requires a value below it, potentially excluding an energy-free claim at that boundary. The separate table-top sweetener limit is unchanged.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:57:01.357200Z"
+          }
+        },
+        {
+          "id": "api-01e3a9daf89283dea265f2dfa956",
+          "passage_id": "p0018",
+          "english_quote": "slimming or weight-control or a reduction in the sense of hunger or an increase in the sense of satiety or to the reduction of the available energy from the diet",
+          "title": "Hunger and satiety categories are expressed as changes in weight",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 13(1)(c) expressly covers reduced hunger and increased satiety in English. Bulgarian connects these categories to weight changes, potentially narrowing access to the list-based route for claims about hunger or satiety alone.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "отслабването или контрола на теглото, или намаляването на теглото в смисъл на глад, или на увеличение на теглото в смисъл на пресита, или на намаление на енергията, получавана от диетата",
+              "translation": "slimming or weight control, or the reduction of weight in the sense of hunger, or an increase of weight in the sense of satiety, or a reduction of the energy obtained from the diet",
+              "explanation": "Article 13(1)(c) expressly covers reduced hunger and increased satiety in English. Bulgarian connects these categories to weight changes, potentially narrowing access to the list-based route for claims about hunger or satiety alone.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-c8f2b51623bec29b3f7f86fc7303",
+          "passage_id": "p0023",
+          "english_quote": "The application for this inclusion shall be submitted to the national competent authority of a Member State which shall acknowledge receipt of the application in writing within 14 days of its receipt. The acknowledgement shall state the date of receipt of the application. The application shall include the data provided for in Article 15(3) and the reasons for the request.",
+          "title": "Acknowledgements need not expressly state the application receipt date",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 18(2) requires the written acknowledgement to state when the application was received. Bulgarian retains the 14-day acknowledgement deadline but omits the requirement to include that date.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Заявленията за подобно включване се подават до националния компетентен орган на държавата-членка, който потвърждава писмено приемането на заявлението в рамките на 14 дни от получаването. Заявлението включва данните, предвидени в член 15, параграф 3, и основанията за искането.",
+              "translation": "Applications for such inclusion are submitted to the national competent authority of the Member State, which confirms acceptance of the application in writing within 14 days of receipt. The application includes the data provided for in Article 15(3) and the grounds for the request.",
+              "explanation": "English Article 18(2) requires the written acknowledgement to state when the application was received. Bulgarian retains the 14-day acknowledgement deadline but omits the requirement to include that date.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-6baa9430b7ece853eb70b2646eb4",
+          "passage_id": "p0034",
+          "english_quote": "provided an application is made pursuant to this Regulation before 19 January 2008",
+          "title": "The transitional application deadline includes 19 January in Bulgarian",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 28(6)(b) requires an application before 19 January 2008. Bulgarian permits submission on that date, potentially extending transitional continued-use eligibility to applications filed one day later.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "при условие че бъде подадено заявление, предвидено в настоящия регламент, в срок не по-късно от 19 януари 2008 г.",
+              "translation": "provided that an application provided for in this Regulation is submitted no later than 19 January 2008.",
+              "explanation": "English Article 28(6)(b) requires an application before 19 January 2008. Bulgarian permits submission on that date, potentially extending transitional continued-use eligibility to applications filed one day later.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:55:11.589172Z"
+          }
+        },
+        {
+          "id": "api-6fcdf25cde7d8068c1f0e5740621",
+          "passage_id": "p0026",
+          "english_quote": "in the cases referred to in Article 17(3), second subparagraph, and Article 18(5), second subparagraph, the fact that the health claim is authorised for a limited duration.",
+          "title": "The register requirement does not expressly disclose limited authorisation duration",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires the register to state that authorisation is time-limited. Slovenian refers only to restricted use, potentially permitting a generic restriction notice. The underlying five-year expiry remains expressly prescribed in Articles 17 and 18.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "v primerih iz drugega pododstavka člena 17(3) in drugega pododstavka člena 18(5) dejstvo, da je uporaba zdravstvene trditve omejena.",
+              "translation": "In the cases referred to in the second subparagraph of Article 17(3) and the second subparagraph of Article 18(5), the fact that use of the health claim is restricted.",
+              "explanation": "English requires the register to state that authorisation is time-limited. Slovenian refers only to restricted use, potentially permitting a generic restriction notice. The underlying five-year expiry remains expressly prescribed in Articles 17 and 18.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:57:01.357200Z"
+          }
+        },
+        {
+          "id": "api-2bcf444a00aa7427fb07c4d727a3",
+          "passage_id": "p0037",
+          "english_quote": "the claim shall also be accompanied by an indication of the characteristic(s) which make(s) the food ‘light’ or ‘lite’.",
+          "title": "The explanation accompanying a light claim is restricted to nutrient reduction",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires identification of the characteristic making the food light. Slovenian specifically requires a characteristic reducing nutrient content. An explanation identifying only reduced energy could therefore be insufficient under the Slovenian wording, even for an otherwise eligible claim.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "trditev spremlja tudi navedba o lastnosti, ki zmanjšuje oziroma zmanjšujejo vsebnost hranil v živilu, tako da živilo velja za „lahko“.",
+              "translation": "The claim is also accompanied by an indication of the characteristic or characteristics that reduce the nutrient content of the food so that the food qualifies as ‘light’.",
+              "explanation": "English requires identification of the characteristic making the food light. Slovenian specifically requires a characteristic reducing nutrient content. An explanation identifying only reduced energy could therefore be insufficient under the Slovenian wording, even for an otherwise eligible claim.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:02006R1924-20141213"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:57:01.357200Z"
+          }
         }
       ],
       "notes": [
@@ -7107,7 +7883,7 @@
         "The selected official consolidation omits recitals. Analysis coverage concerns the preserved consolidation's articles, annexes and included notes; it is not a complete review of the act's historical preamble.",
         "The official Irish-labelled source contains substantial English fallback text; Irish translation coverage is incomplete.",
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
-        "Language comparisons still incomplete after the bounded review: bg, de, ga, hu, pl, sl. Findings from these comparisons are withheld.",
+        "Language comparisons still incomplete after the bounded review: de, ga, hu, pl. Findings from these comparisons are withheld.",
         "Official expressions with incomplete or mixed-language translations are preserved and inspected, but excluded from fully reviewed language/paragraph counts: ga.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
@@ -7199,6 +7975,23 @@
           ]
         },
         {
+          "id": "api-issue-97cc747817ac160b5021410365f8",
+          "title": "Transitional eligibility may depend on use by the Member State itself",
+          "legal_anchor": "Article 28",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An unlisted nutrition claim previously used lawfully by businesses, but not by the State itself, could lose the transitional permission for continued use until 19 January 2010.",
+          "rationale": "Article 8 generally prohibits unlisted nutrition claims. The disputed criterion could remove the express transitional entitlement for otherwise qualifying business uses throughout the transitional period.",
+          "uncertainty": "Use by a Member State may be interpreted as use within its territory.",
+          "assessed_at": "2026-10-15T23:01:43.516342Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-97cc747817ac160b5021410365f8"
+          ]
+        },
+        {
           "id": "api-issue-527c7c788b98a57d14aa8aeca565",
           "title": "Italian nutrient-profile disclosure has weaker placement requirements",
           "legal_anchor": "Article 4",
@@ -7213,6 +8006,40 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-527c7c788b98a57d14aa8aeca565"
+          ]
+        },
+        {
+          "id": "api-issue-fa7eee13af52f0c861a7e012cb61",
+          "title": "Additional warnings may cover the label or advertising rather than both",
+          "legal_anchor": "Article 16",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "An authorisation could require a necessary claim-specific safety warning only on the label, allowing advertising carrying the claim to omit it.",
+          "rationale": "Articles 17(2) and 17(5) connect these particulars to authorisation conditions. The difference could materially narrow a mandatory warning requirement that Article 10 does not independently reproduce.",
+          "uncertainty": "Contextual interpretation or the final authorisation could require the warning in both media.",
+          "assessed_at": "2026-10-15T23:01:43.514102Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-fa7eee13af52f0c861a7e012cb61"
+          ]
+        },
+        {
+          "id": "api-issue-01e3a9daf89283dea265f2dfa956",
+          "title": "Hunger and satiety categories are expressed as changes in weight",
+          "legal_anchor": "Article 13",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A claim describing increased satiety without a weight-change benefit could be excluded from Article 13(1)(c), losing access to that authorisation route if no other category applies.",
+          "rationale": "The disputed wording can affect eligibility for a statutory route permitting listed claims without the procedures in Articles 15 to 19.",
+          "uncertainty": "Other Article 13 categories or contextual interpretation may preserve eligibility.",
+          "assessed_at": "2026-10-15T23:01:43.514053Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-01e3a9daf89283dea265f2dfa956"
           ]
         },
         {
@@ -7233,6 +8060,23 @@
           ]
         },
         {
+          "id": "api-issue-2bcf444a00aa7427fb07c4d727a3",
+          "title": "The explanation accompanying a light claim is restricted to nutrient reduction",
+          "legal_anchor": "Annex 1",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An otherwise eligible energy-based light claim accompanied only by an energy-reduction explanation could need revised accompanying wording or replacement with another permitted claim.",
+          "rationale": "The identified consequence concerns the explanation accompanying a particular claim. The energy-reduced claim and its threshold remain available; no wider product-marketing prohibition follows from this difference.",
+          "uncertainty": "The shared reference to reduced claims supports harmonization; an explanation may identify both energy and nutrient reduction.",
+          "assessed_at": "2026-10-15T23:01:43.516466Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-2bcf444a00aa7427fb07c4d727a3"
+          ]
+        },
+        {
           "id": "api-issue-f7630623bd0487b43f56ebe6761a",
           "title": "Maltese permits alternative channels for additional authorisation warnings",
           "legal_anchor": "Article 16",
@@ -7247,6 +8091,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-f7630623bd0487b43f56ebe6761a"
+          ]
+        },
+        {
+          "id": "api-issue-c3a320a014566788bb58e77febb2",
+          "title": "Exploitation of existing consumer fear is not expressly prohibited",
+          "legal_anchor": "Article 3",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "An otherwise compliant claim could exploit an existing fear about bodily changes without generating fear and escape Article 3(e).",
+          "rationale": "The disputed omission can remove a category of commercial claims from a general prohibition. The remaining rules do not expressly prohibit every instance of exploiting existing fear.",
+          "uncertainty": "Generating fear may be interpreted to encompass activating or reinforcing existing fear.",
+          "assessed_at": "2026-10-15T23:01:43.513953Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-c3a320a014566788bb58e77febb2"
           ]
         },
         {
@@ -7383,6 +8244,57 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-06a6f1bcf5d765fb67ce96bf7564"
+          ]
+        },
+        {
+          "id": "api-issue-02453b92cb47e1f4b79edffab0d0",
+          "title": "Required information for unlabelled foods may appear in only one medium",
+          "legal_anchor": "Article 10",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "An unlabelled food could be advertised with a health claim but without an applicable excess-consumption warning because that warning appears only in its presentation.",
+          "rationale": "The alternative can relax a mandatory safety-information condition for using health claims. Article 1(2)'s exemptions do not remove the applicable warnings in Article 10(2)(c) and (d).",
+          "uncertainty": "A distributive interpretation could require the information in every medium carrying the claim.",
+          "assessed_at": "2026-10-15T23:01:43.514006Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-02453b92cb47e1f4b79edffab0d0"
+          ]
+        },
+        {
+          "id": "api-issue-276756eaba7ffb718f7ca57000c7",
+          "title": "The Slovenian energy-free threshold excludes the exact maximum",
+          "legal_anchor": "Annex 1",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "A product assessed exactly at the ordinary energy-free ceiling could lose permission to bear an energy-free claim under the Slovenian wording.",
+          "rationale": "The consequence is confined to one nutrition claim at its exact boundary. It does not itself prohibit sale of the food or affect the separate sweetener limit.",
+          "uncertainty": "The evidence establishes no actual boundary-value product or applicable measurement and rounding practice.",
+          "assessed_at": "2026-10-15T23:01:43.516425Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-276756eaba7ffb718f7ca57000c7"
+          ]
+        },
+        {
+          "id": "api-issue-2e6a092a945c807f553d6b919db7",
+          "title": "Evaluation report names overweight rather than obesity",
+          "legal_anchor": "Article 27",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "The Commission could address overweight generally in its evaluation report without identifying the Regulation's potential impact on obesity separately.",
+          "rationale": "The consequence concerns the subject of an evaluation report. It does not change claim authorisation, product eligibility, sanctions or individual entitlements.",
+          "uncertainty": "Overweight may be understood inclusively, producing an assessment that also addresses obesity.",
+          "assessed_at": "2026-10-15T23:01:43.514294Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-2e6a092a945c807f553d6b919db7"
           ]
         },
         {
@@ -7539,6 +8451,23 @@
           ]
         },
         {
+          "id": "api-issue-c8f2b51623bec29b3f7f86fc7303",
+          "title": "Acknowledgements need not expressly state the application receipt date",
+          "legal_anchor": "Article 18",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "A competent authority could provide a timely written acknowledgement without stating the date on which it received the application.",
+          "rationale": "This removes a specific information safeguard. The acknowledgement deadline, application requirements and substantive authorisation conditions remain unchanged.",
+          "uncertainty": "Other applicable administrative rules could independently require the receipt date.",
+          "assessed_at": "2026-10-15T23:01:43.514209Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-c8f2b51623bec29b3f7f86fc7303"
+          ]
+        },
+        {
           "id": "api-issue-1533f1bf9bdf1150e616f117e14e",
           "title": "Estonian transitional notification names nutrition claims",
           "legal_anchor": "Article 28",
@@ -7553,6 +8482,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-1533f1bf9bdf1150e616f117e14e"
+          ]
+        },
+        {
+          "id": "api-issue-f01583e8652fdd32c63c776fd5fa",
+          "title": "The Slovenian low-energy thresholds exclude the exact maxima",
+          "legal_anchor": "Annex 1",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "A solid or liquid assessed exactly at its applicable ordinary low-energy ceiling could lose permission to bear that claim under the Slovenian wording.",
+          "rationale": "The change affects one nutrition-claim category at exact boundary values. It does not itself prohibit sale of the food or change the separate sweetener rule.",
+          "uncertainty": "The evidence establishes no actual boundary-value food or applicable measurement and rounding practice.",
+          "assessed_at": "2026-10-15T23:01:43.516385Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-f01583e8652fdd32c63c776fd5fa"
           ]
         },
         {
@@ -7604,6 +8550,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-f834c7686b2f4fcfca4ba7a35c52"
+          ]
+        },
+        {
+          "id": "api-issue-6fcdf25cde7d8068c1f0e5740621",
+          "title": "The register requirement does not expressly disclose limited authorisation duration",
+          "legal_anchor": "Article 20",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A public register entry could disclose restricted use without expressly informing readers that the authorisation is time-limited.",
+          "rationale": "This changes the specificity of public information. The cross-referenced provisions preserve expiry after five years, so the wording does not extend authorisation or exclusivity.",
+          "uncertainty": "The cross-references and separate restricted-use disclosure strongly support reading this requirement as temporal.",
+          "assessed_at": "2026-10-15T23:01:43.516261Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-6fcdf25cde7d8068c1f0e5740621"
           ]
         },
         {
@@ -7930,6 +8893,40 @@
           ]
         },
         {
+          "id": "api-issue-b598e3fe0e7593280081fc03af26",
+          "title": "The endorsement exception may cover health associations without a charitable purpose",
+          "legal_anchor": "Article 11",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A recommendation by a health association without a charitable purpose could escape Article 12(c)'s categorical prohibition and become potentially permissible under applicable national rules.",
+          "rationale": "Article 12(c) incorporates Article 11's institutional scope. The broader reading could materially change the prohibition on endorsements by an entire category of associations.",
+          "uncertainty": "The institutional terms may be harmonized; national rules and other health-claim requirements still govern permission.",
+          "assessed_at": "2026-10-15T23:01:43.516216Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-b598e3fe0e7593280081fc03af26"
+          ]
+        },
+        {
+          "id": "api-issue-6d1642b92a389e9d17e1417d24e0",
+          "title": "Transitional marketing eligibility may require the product to predate 2005",
+          "legal_anchor": "Article 28",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "A product introduced after 1 January 2005 under an older mark could be denied the transitional permission to continue marketing until 19 January 2022.",
+          "rationale": "The disputed attachment changes eligibility for a lengthy express exception permitting continued marketing of products that do not comply with the Regulation.",
+          "uncertainty": "The provision's relationship with Article 1(3) supports interpreting the transition by reference to older marks.",
+          "assessed_at": "2026-10-15T23:01:43.516303Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-6d1642b92a389e9d17e1417d24e0"
+          ]
+        },
+        {
           "id": "api-issue-daba231988b9f3fd2f548af0ff20",
           "title": "Latvian low-fat condition excludes the solid-food boundary",
           "legal_anchor": "Annex 1",
@@ -8253,6 +9250,40 @@
           ]
         },
         {
+          "id": "api-issue-0d1ff0096e1ab8e3b37f7baa6486",
+          "title": "Transitional eligibility refers to use by Member States",
+          "legal_anchor": "Article 28",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An otherwise qualifying claim previously used only by private businesses could lose permission for continued use until 19 January 2010 because it was not used by a Member State.",
+          "rationale": "The disputed condition can remove eligibility for an express transitional permission to use nutrition claims absent from the Annex.",
+          "uncertainty": "The commercial context strongly favours understanding Member State use as use within its territory.",
+          "assessed_at": "2026-10-15T23:01:43.514338Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-0d1ff0096e1ab8e3b37f7baa6486"
+          ]
+        },
+        {
+          "id": "api-issue-07c7f73d3ba492b138b1a55d53c1",
+          "title": "The accompanying claim need not expressly relate to the trade mark or name",
+          "legal_anchor": "Article 1",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "A name implying a health benefit could qualify for the authorisation exemption through an unrelated compliant nutrition claim, provided the remaining rules are satisfied.",
+          "rationale": "The omitted qualification governs access to an express exemption from authorisation procedures and can materially expand permission to use names implying nutrition or health benefits.",
+          "uncertainty": "The relationship may be implied by context or required to avoid misleading consumers.",
+          "assessed_at": "2026-10-15T23:01:43.513835Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-07c7f73d3ba492b138b1a55d53c1"
+          ]
+        },
+        {
           "id": "api-issue-7219cec5c1ed170ada68f147986b",
           "title": "Spanish five-month opinion deadline is an endeavour obligation",
           "legal_anchor": "Article 16",
@@ -8304,6 +9335,23 @@
           ]
         },
         {
+          "id": "api-issue-6baa9430b7ece853eb70b2646eb4",
+          "title": "The transitional application deadline includes 19 January in Bulgarian",
+          "legal_anchor": "Article 28",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "An otherwise qualifying health claim with an application submitted on 19 January 2008 could retain transitional continued-use permission under the Bulgarian deadline.",
+          "rationale": "The one-day difference determines eligibility for continued commercial use pending the authorisation decision, rather than merely changing an administrative timetable.",
+          "uncertainty": "Applicable EU rules or contextual interpretation of deadlines could reconcile the dates.",
+          "assessed_at": "2026-10-15T23:01:43.514379Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-6baa9430b7ece853eb70b2646eb4"
+          ]
+        },
+        {
           "id": "api-issue-e20bcb58d6380182c0bf17d626a2",
           "title": "Latvian favourable-opinion procedure can constrain the Commission's decision",
           "legal_anchor": "Article 18",
@@ -8335,6 +9383,40 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-1ba871bc53c0bb3dc9079444015f"
+          ]
+        },
+        {
+          "id": "api-issue-e6f503216d2cadd0daee496bb4d7",
+          "title": "Special authorisation procedure refers to patented data",
+          "legal_anchor": "Article 17",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An application relying on non-patented proprietary data could follow the default scrutiny procedure instead of the special regulatory procedure for restricted authorisations.",
+          "rationale": "The supported consequence concerns procedural selection. Articles 17(5) and 21 preserve protection and restricted use, so loss of the underlying data-protection entitlement is not established.",
+          "uncertainty": "The surrounding proprietary-data framework strongly supports reading the patent terminology consistently with Article 21.",
+          "assessed_at": "2026-10-15T23:01:43.514160Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-e6f503216d2cadd0daee496bb4d7"
+          ]
+        },
+        {
+          "id": "api-issue-fae8bc61d1587d04b0d1d93f4f98",
+          "title": "Commission requests are omitted from the express reassessment triggers",
+          "legal_anchor": "Article 19",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "The Authority could decline to issue an Article 19(2) opinion solely in response to a Commission request unless it initiates review itself.",
+          "rationale": "The demonstrated consequence concerns one institutional initiation route. Member State requests, own-initiative review and Article 24 remain available; the omission does not itself remove corrective powers or change authorisation standards.",
+          "uncertainty": "Contextual interpretation could preserve Commission-triggered review; the Authority could also act on its own initiative.",
+          "assessed_at": "2026-10-15T23:01:43.514253Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-fae8bc61d1587d04b0d1d93f4f98"
           ]
         }
       ]
@@ -10537,7 +11619,7 @@
       "version": "2010-11-24",
       "version_label": "Original act",
       "retrieved_at": "2026-10-15T11:32:48.071272+00:00",
-      "status": "partial",
+      "status": "complete",
       "subject": "",
       "languages": [
         {
@@ -10761,15 +11843,17 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 713,
-        "reviewed_units": 620,
+        "reviewed_units": 713,
         "total_languages": 24,
-        "reviewed_languages": 21,
+        "reviewed_languages": 24,
         "reviewed_language_codes": [
           "bg",
+          "cs",
           "da",
           "de",
           "el",
           "es",
+          "et",
           "fi",
           "fr",
           "ga",
@@ -10784,6 +11868,7 @@
           "pt",
           "ro",
           "sk",
+          "sl",
           "sv"
         ]
       },
@@ -11033,6 +12118,34 @@
           }
         },
         {
+          "id": "api-33625e450998fb11745407ee3010",
+          "passage_id": "p0021",
+          "english_quote": "Those provisions should only therefore apply to a third-country national provided that that individual has the right, where appropriate pursuant to his or her residence permit or long-term resident status, to register as a job-seeker with the employment services of the Member State entered and the right to work there legally.",
+          "title": "Possible additional condition for retaining unemployment benefit",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English recital 14 identifies a residence permit or long-term resident status as possible bases for the necessary rights, qualified by “where appropriate”. Estonian omits that qualification. A restrictive interpretation could prevent continued unemployment benefit where lawful job-seeking and work rights arise on another basis, although the broader lawful-residence provisions support a harmonizing reading.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Seetõttu tuleks neid sätteid kohaldada kolmanda riigi kodaniku suhtes ainult juhul, kui sel isikul on vastavalt kas elamisloale või pikaajalise elaniku staatusele õigus registreeruda tööotsijana selle liikmesriigi tööhõivetalituses, kuhu ta on sisenenud, ning õigus selles riigis seaduslikult töötada.",
+              "translation": "Therefore, those provisions should apply to a third-country national only if that person has, pursuant to either a residence permit or long-term resident status, the right to register as a job-seeker with the employment services of the Member State which they have entered and the right to work legally in that State.",
+              "explanation": "English recital 14 identifies a residence permit or long-term resident status as possible bases for the necessary rights, qualified by “where appropriate”. Estonian omits that qualification. A restrictive interpretation could prevent continued unemployment benefit where lawful job-seeking and work rights arise on another basis, although the broader lawful-residence provisions support a harmonizing reading.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32010R1231"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T23:00:10.529513Z"
+          }
+        },
+        {
           "id": "api-5f793ebcf880e8cc228d4d57073f",
           "passage_id": "p0020",
           "english_quote": "The condition of residing legally in the territory of a Member State should not affect the rights deriving from the application of Regulation (EC) No 883/2004 concerning invalidity, old age or survivors’ pensions, on behalf of one or more Member States, for a third-country national who has previously fulfilled the conditions of this present Regulation, or the survivors of such third-country national, insofar as they derive their rights from a worker, when residing in a third country.",
@@ -11171,17 +12284,144 @@
             ],
             "reviewed_at": "2026-10-15T13:54:13.365945Z"
           }
+        },
+        {
+          "id": "api-b0368955657b0c4c5b8b61c60876",
+          "passage_id": "p0028",
+          "english_quote": "provided that they are legally resident in the territory of a Member State",
+          "title": "Slovenian wording could require permanent residence for coordination coverage",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 1 requires lawful residence in English, while Slovenian additionally specifies permanent residence, reinforced by recital 11. This could exclude an otherwise eligible third-country national whose lawful residence is temporary. The wording does not necessarily require a particular permanent-residence permit.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "pod pogojem, da stalno zakonito prebivajo na ozemlju države članice",
+              "translation": "provided that they permanently and lawfully reside in the territory of a Member State",
+              "explanation": "Article 1 requires lawful residence in English, while Slovenian additionally specifies permanent residence, reinforced by recital 11. This could exclude an otherwise eligible third-country national whose lawful residence is temporary. The wording does not necessarily require a particular permanent-residence permit.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:32010R1231"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T23:01:21.145426Z"
+          }
+        },
+        {
+          "id": "api-061c8cdf2981f09208cf98ff047d",
+          "passage_id": "p0029",
+          "english_quote": "Regulation (EC) No 859/2003 shall be repealed between the Member States that are bound by this Regulation.",
+          "title": "Potentially broader repeal of the previous social-security coordination framework",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 2 limits repeal to relations between Member States bound by the new Regulation. Czech states that repeal applies for those Member States. A broader Czech reading could also end a participating State’s application of the previous framework in relations with a non-participating State. The coordination purpose and non-participation recitals support harmonization, so this is a potential scope discrepancy, not an established legal error.",
+          "variants": [
+            {
+              "language": "cs",
+              "language_name": "Czech",
+              "quote": "Nařízení (ES) č. 859/2003 se zrušuje pro členské státy, pro něž je toto nařízení závazné.",
+              "translation": "Regulation (EC) No 859/2003 is repealed for the Member States for which this Regulation is binding.",
+              "explanation": "English Article 2 limits repeal to relations between Member States bound by the new Regulation. Czech states that repeal applies for those Member States. A broader Czech reading could also end a participating State’s application of the previous framework in relations with a non-participating State. The coordination purpose and non-participation recitals support harmonization, so this is a potential scope discrepancy, not an established legal error.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32010R1231"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:59:13.747345Z"
+          }
+        },
+        {
+          "id": "api-0536e9b476e8b66d58579043b98e",
+          "passage_id": "p0029",
+          "english_quote": "Regulation (EC) No 859/2003 shall be repealed between the Member States that are bound by this Regulation.",
+          "title": "Possible broader repeal of the earlier social-security coordination framework",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 2 in English confines repeal to relations between participating Member States. The Estonian wording could also remove the earlier framework’s application by a participating State in its relations with a non-participating State. The participation provisions support a narrower interpretation, so this is a potential scope difference, not an established legal error.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "Määrus (EÜ) nr 859/2003 tunnistatakse kehtetuks liikmesriikide suhtes, kellele käesolev määrus on siduv.",
+              "translation": "Regulation (EC) No 859/2003 is repealed in respect of the Member States for which this Regulation is binding.",
+              "explanation": "Article 2 in English confines repeal to relations between participating Member States. The Estonian wording could also remove the earlier framework’s application by a participating State in its relations with a non-participating State. The participation provisions support a narrower interpretation, so this is a potential scope difference, not an established legal error.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32010R1231"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T23:00:10.529513Z"
+          }
+        },
+        {
+          "id": "api-05f551655de31044934e223207f2",
+          "passage_id": "p0029",
+          "english_quote": "Regulation (EC) No 859/2003 shall be repealed between the Member States that are bound by this Regulation.",
+          "title": "Slovenian repeal wording could extend beyond relations between participating States",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 2 repeals Regulation 859/2003 between participating Member States. Slovenian could instead end its application for those States generally, potentially including relations with non-participating States. The participation provisions support a narrower interpretation but do not expressly settle this distinction.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "Uredba (ES) št. 859/2003 preneha veljati za države članice, za katere velja ta uredba.",
+              "translation": "Regulation (EC) No 859/2003 ceases to have effect for the Member States to which this Regulation applies.",
+              "explanation": "English Article 2 repeals Regulation 859/2003 between participating Member States. Slovenian could instead end its application for those States generally, potentially including relations with non-participating States. The participation provisions support a narrower interpretation but do not expressly settle this distinction.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:32010R1231"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T23:01:21.145426Z"
+          }
         }
       ],
       "notes": [
         "English is a navigation anchor; no language version is treated as legally authoritative over another.",
         "The selected official version was resolved at import time. This MVP does not monitor subsequent changes.",
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
-        "Language comparisons still incomplete after the bounded review: cs, et, sl. Findings from these comparisons are withheld.",
-        "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
-        "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
+        "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors."
       ],
       "impact_families": [
+        {
+          "id": "api-issue-061c8cdf2981f09208cf98ff047d",
+          "title": "Potentially broader repeal of the previous social-security coordination framework",
+          "legal_anchor": "Article 2",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "If the broader reading prevailed, a participating State could stop applying Regulation (EC) No 859/2003 to an otherwise covered third-country national’s case involving a non-participating State, removing that coordination route.",
+          "rationale": "Recital 3 identifies the previous Regulation as extending social-security coordination to third-country nationals. Removing that framework from otherwise covered cross-border cases would materially alter its applicability and the corresponding coordination duties.",
+          "uncertainty": "Harmonization may preserve the route; the supplied text establishes neither an individual benefit loss nor particular cases affected.",
+          "assessed_at": "2026-10-15T23:01:44.296466Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-061c8cdf2981f09208cf98ff047d"
+          ]
+        },
         {
           "id": "api-issue-59ed8c2effc22a0782b487e62688",
           "title": "Pension residence safeguard identifies dependants rather than survivors",
@@ -11197,6 +12437,40 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-59ed8c2effc22a0782b487e62688"
+          ]
+        },
+        {
+          "id": "api-issue-33625e450998fb11745407ee3010",
+          "title": "Possible additional condition for retaining unemployment benefit",
+          "legal_anchor": "Recital 14",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "If the restrictive reading governed eligibility, an otherwise eligible third-country national with lawful job-seeking and work rights on another basis could be denied continued unemployment benefit, absent an independently protected entitlement.",
+          "rationale": "Recital 14 expressly connects these conditions to continued unemployment benefit. Exclusion would change access to an important financial entitlement, rather than merely the procedure for registering as a job-seeker.",
+          "uncertainty": "The recital may be harmonized with Article 1; no actual claimant or alternative legal basis is established.",
+          "assessed_at": "2026-10-15T23:01:44.296605Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-33625e450998fb11745407ee3010"
+          ]
+        },
+        {
+          "id": "api-issue-05f551655de31044934e223207f2",
+          "title": "Slovenian repeal wording could extend beyond relations between participating States",
+          "legal_anchor": "Article 2",
+          "impact_level": null,
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "needs_review",
+          "effect": "If Regulation 859/2003 otherwise governs a participating State's relations with a non-participating State, the broader repeal could remove that legal basis in the participating State.",
+          "rationale": "The repeal mechanism is identifiable, but the previous Regulation's operative territorial coverage and transitional protections are absent. The supplied text does not establish a specific resulting loss of coordination rights.",
+          "uncertainty": "Prior coverage requires missing operative provisions; contextual interpretation could also preserve the relational limitation.",
+          "assessed_at": "2026-10-15T23:01:44.296820Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-05f551655de31044934e223207f2"
           ]
         },
         {
@@ -11265,6 +12539,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "api-ecd8d3d6693e1a9c2c9b31615127"
+          ]
+        },
+        {
+          "id": "api-issue-b0368955657b0c4c5b8b61c60876",
+          "title": "Slovenian wording could require permanent residence for coordination coverage",
+          "legal_anchor": "Article 1",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "An otherwise eligible third-country national with lawful temporary residence and qualifying cross-border circumstances could be denied access to both social-security coordination Regulations.",
+          "rationale": "The disputed condition governs eligibility for the coordination framework itself. Excluding an otherwise qualifying resident would materially restrict core coverage.",
+          "uncertainty": "A harmonized interpretation could treat permanence as settled residence without requiring permanent immigration status.",
+          "assessed_at": "2026-10-15T23:01:44.296775Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-b0368955657b0c4c5b8b61c60876"
           ]
         }
       ]
@@ -15880,10 +17171,32 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 529,
-        "reviewed_units": 0,
+        "reviewed_units": 483,
         "total_languages": 24,
-        "reviewed_languages": 0,
-        "reviewed_language_codes": []
+        "reviewed_languages": 22,
+        "reviewed_language_codes": [
+          "bg",
+          "cs",
+          "da",
+          "el",
+          "es",
+          "et",
+          "fi",
+          "fr",
+          "ga",
+          "hr",
+          "hu",
+          "it",
+          "lt",
+          "lv",
+          "mt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "sl",
+          "sv"
+        ]
       },
       "passages": [
         {
@@ -16025,17 +17338,361 @@
           "source_id": null
         }
       ],
-      "findings": [],
+      "findings": [
+        {
+          "id": "api-5973b44d49b5b479311848b80a40",
+          "passage_id": "p0019",
+          "english_quote": "At the latest by 20 July 2025, all information, including personal data, related to cases in the ODR platform shall be deleted.",
+          "title": "Potentially broader deletion duty in Bulgarian",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly limits deletion to information related to platform cases. Bulgarian can require deletion of all platform information, including case-related personal data. This could extend the duty to information unrelated to cases, although the surrounding case-focused provisions support a narrower interpretation.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Най-късно до 20 юли 2025 г. цялата информация, включително личните данни, свързани със случаите в платформата за ОРС, се заличава.",
+              "translation": "No later than 20 July 2025, all information, including personal data related to cases in the ODR platform, shall be deleted.",
+              "explanation": "English expressly limits deletion to information related to platform cases. Bulgarian can require deletion of all platform information, including case-related personal data. This could extend the duty to information unrelated to cases, although the surrounding case-focused provisions support a narrower interpretation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:32024R3228"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:53:29.724143Z"
+          }
+        },
+        {
+          "id": "api-c2173aae09827505087132f71c57",
+          "passage_id": "p0019",
+          "english_quote": "4. At the latest by 20 July 2025, all information, including personal data, related to cases in the ODR platform shall be deleted.",
+          "title": "Estonian deletion duty extends to all platform information",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English limits mandatory deletion to information related to cases. Estonian could additionally require deletion of information unrelated to cases that remains in the platform. Both versions preserve the same deadline and require deletion of case information.",
+          "variants": [
+            {
+              "language": "et",
+              "language_name": "Estonian",
+              "quote": "4. Kogu internetipõhises vaidluste lahendamise platvormis sisalduv teave, kaasa arvatud juhtumitega seotud isikuandmed, kustutatakse hiljemalt 20. juuliks 2025.",
+              "translation": "4. All information contained in the online dispute resolution platform, including personal data related to cases, shall be deleted by 20 July 2025 at the latest.",
+              "explanation": "English limits mandatory deletion to information related to cases. Estonian could additionally require deletion of information unrelated to cases that remains in the platform. Both versions preserve the same deadline and require deletion of case information.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:32024R3228"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:48:29.846391Z"
+          }
+        },
+        {
+          "id": "api-ede7c737cce2effa129e9b652d28",
+          "passage_id": "p0019",
+          "english_quote": "3. The Commission shall inform users of the ODR platform with ongoing cases of the discontinuation of the ODR platform by 20 March 2025 and offer such users assistance to retrieve data related to their cases and accessible to them, where they wish to do so.",
+          "title": "French notification wording may require notice on 20 March",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English permits notification before or on 20 March 2025. Under a date-specific reading of French, earlier notification alone might not satisfy the obligation. Recital 7’s requirement for timely notice at least four months before discontinuation supports treating the date as a latest deadline.",
+          "variants": [
+            {
+              "language": "fr",
+              "language_name": "French",
+              "quote": "3. La Commission informe les usagers de la plateforme de RLL ayant des dossiers en cours de l’abandon de la plateforme de RLL le 20 mars 2025 et offre son assistance pour extraire les données relatives à leurs dossierset qui leur sont accessibles, au cas où ils le souhaiteraient.",
+              "translation": "3. The Commission informs users of the ODR platform with ongoing cases of the discontinuation of the ODR platform on 20 March 2025 and offers its assistance to retrieve the data relating to their cases and accessible to them, should they so wish.",
+              "explanation": "English permits notification before or on 20 March 2025. Under a date-specific reading of French, earlier notification alone might not satisfy the obligation. Recital 7’s requirement for timely notice at least four months before discontinuation supports treating the date as a latest deadline.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R3228"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:48:29.846391Z"
+          }
+        },
+        {
+          "id": "api-2f24b9bc3465307789b93f32cf3b",
+          "passage_id": "p0019",
+          "english_quote": "The Commission shall inform users of the ODR platform with ongoing cases of the discontinuation of the ODR platform by 20 March 2025",
+          "title": "Italian March deadline may govern platform closure",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires notification by 20 March 2025. Italian can instead require notification that the platform will close by that date. That reading could advance closure and remove the express March notification deadline, contrary to the transition contemplated by recital 7.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "La Commissione informa gli utenti della piattaforma ODR con casi in corso che la piattaforma ODR sarà dismessa entro il 20 marzo 2025",
+              "translation": "The Commission shall inform users of the ODR platform with ongoing cases that the ODR platform will be discontinued by 20 March 2025",
+              "explanation": "English requires notification by 20 March 2025. Italian can instead require notification that the platform will close by that date. That reading could advance closure and remove the express March notification deadline, contrary to the transition contemplated by recital 7.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R3228"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:48:29.846391Z"
+          }
+        },
+        {
+          "id": "api-53db1d9df8fe75e37e492551586a",
+          "passage_id": "p0019",
+          "english_quote": "and offer such users assistance to retrieve data related to their cases and accessible to them, where they wish to do so.",
+          "title": "Italian retrieval assistance may cover additional accessible cases",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English covers data that both concern users’ own cases and are accessible to them. Italian can extend assistance to data concerning additional cases accessible to those users. This changes the possible scope of assistance without expressly granting new access rights.",
+          "variants": [
+            {
+              "language": "it",
+              "language_name": "Italian",
+              "quote": "e offre a tali utenti assistenza per recuperare i dati relativi ai loro casi e a quelli a loro accessibili qualora lo desiderino.",
+              "translation": "and offers such users assistance to retrieve data relating to their cases and to those cases accessible to them, should they wish to do so.",
+              "explanation": "English covers data that both concern users’ own cases and are accessible to them. Italian can extend assistance to data concerning additional cases accessible to those users. This changes the possible scope of assistance without expressly granting new access rights.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R3228"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:48:29.846391Z"
+          }
+        },
+        {
+          "id": "api-03539674f3915ea8b225156b1f88",
+          "passage_id": "p0019",
+          "english_quote": "4. At the latest by 20 July 2025, all information, including personal data, related to cases in the ODR platform shall be deleted.",
+          "title": "Latvian deletion duty may include non-case information",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires deletion of case-related information. Latvian can additionally require deletion of other information held in the platform. The deadline and the obligation to delete case information remain the same.",
+          "variants": [
+            {
+              "language": "lv",
+              "language_name": "Latvian",
+              "quote": "4. Visu SIT platformā esošo informāciju, tai skaitā ar lietām saistītos personas datus, dzēš vēlākais līdz 2025. gada 20. jūlijam.",
+              "translation": "4. All information held in the ODR platform, including personal data related to cases, shall be deleted no later than 20 July 2025.",
+              "explanation": "English requires deletion of case-related information. Latvian can additionally require deletion of other information held in the platform. The deadline and the obligation to delete case information remain the same.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=CELEX:32024R3228"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:48:29.846391Z"
+          }
+        },
+        {
+          "id": "api-ff8a8af2fb1c0742cd94366bb6c0",
+          "passage_id": "p0019",
+          "english_quote": "3. The Commission shall inform users of the ODR platform with ongoing cases of the discontinuation of the ODR platform by 20 March 2025 and offer such users assistance to retrieve data related to their cases and accessible to them, where they wish to do so.",
+          "title": "Portuguese expressly includes assistance with accessing case data",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English specifies retrieval assistance for case data accessible to the users. Portuguese expressly includes assistance with accessing those data. This could require additional procedural help, without itself granting access to restricted information.",
+          "variants": [
+            {
+              "language": "pt",
+              "language_name": "Portuguese",
+              "quote": "3. A Comissão informa os utilizadores da plataforma de RLL com processos em curso da descontinuação da plataforma de RLL até 20 de março de 2025 e presta assistência a tais utilizadores na recuperação dos dados relativos aos seus litígios e no acesso a tais dados, se assim o desejarem.",
+              "translation": "3. The Commission shall inform users of the ODR platform with ongoing cases of the discontinuation of the ODR platform by 20 March 2025 and provide such users with assistance in retrieving data relating to their disputes and in accessing such data, if they so wish.",
+              "explanation": "English specifies retrieval assistance for case data accessible to the users. Portuguese expressly includes assistance with accessing those data. This could require additional procedural help, without itself granting access to restricted information.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024R3228"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:48:29.846391Z"
+          }
+        },
+        {
+          "id": "api-aaf58c769d8d08b1f823a92a72b6",
+          "passage_id": "p0019",
+          "english_quote": "The submission of complaints to the ODR platform shall be discontinued on 20 March 2025.",
+          "title": "Slovenian may leave 20 March available for complaint submissions",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English ends complaint submissions on 20 March 2025. Slovenian can leave that date available and prohibit submissions from the following day. This concerns access to the platform’s submission process, without establishing a change to the underlying dispute or access to ADR elsewhere.",
+          "variants": [
+            {
+              "language": "sl",
+              "language_name": "Slovenian",
+              "quote": "Pritožb na platformo za SRS po 20. marcu 2025 ni več mogoče vložiti.",
+              "translation": "Complaints can no longer be submitted to the ODR platform after 20 March 2025.",
+              "explanation": "English ends complaint submissions on 20 March 2025. Slovenian can leave that date available and prohibit submissions from the following day. This concerns access to the platform’s submission process, without establishing a change to the underlying dispute or access to ADR elsewhere.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX:32024R3228"
+            }
+          ],
+          "review": {
+            "method": "One blind Sol API scan; separate Sol API review; independent Astra source audit",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-15T22:48:29.846391Z"
+          }
+        }
+      ],
       "notes": [
         "English is a navigation anchor; no language version is treated as legally authoritative over another.",
         "The selected official version was resolved at import time. This MVP does not monitor subsequent changes.",
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
-        "Paid generation stopped at the authorized budget ceiling. Unfinished comparisons remain unreviewed; saved attempts are preserved privately.",
-        "No target-language comparison has completed the review procedure. Preliminary work is not published as a finding.",
+        "Language comparisons still incomplete after the bounded review: de, sk. Findings from these comparisons are withheld.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
       ],
-      "impact_families": []
+      "impact_families": [
+        {
+          "id": "api-issue-c2173aae09827505087132f71c57",
+          "title": "Estonian deletion duty extends to all platform information",
+          "legal_anchor": "Article 2",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "If the broader reading prevailed, any non-case information remaining in the platform would also require deletion by 20 July 2025.",
+          "rationale": "The identified additional consequence is broader cleanup of a platform already being discontinued. The sources establish no additional major effect on dispute remedies or data-access entitlements.",
+          "uncertainty": "The sources do not identify particular non-case records; the closure context may support harmonization.",
+          "assessed_at": "2026-10-15T23:01:44.527883Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-c2173aae09827505087132f71c57"
+          ]
+        },
+        {
+          "id": "api-issue-2f24b9bc3465307789b93f32cf3b",
+          "title": "Italian March deadline may govern platform closure",
+          "legal_anchor": "Article 2",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "If the closure-date reading prevailed, the platform would have to close by 20 March rather than users merely being notified by that date.",
+          "rationale": "This would materially change the central discontinuation timetable and the transition available for ongoing cases and retrieval of their data.",
+          "uncertainty": "Recital 7’s four-month notice period and the July repeal strongly support harmonization.",
+          "assessed_at": "2026-10-15T23:01:44.528049Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-2f24b9bc3465307789b93f32cf3b"
+          ]
+        },
+        {
+          "id": "api-issue-ff8a8af2fb1c0742cd94366bb6c0",
+          "title": "Portuguese expressly includes assistance with accessing case data",
+          "legal_anchor": "Article 2",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A user requesting help obtaining access to case data could invoke an express access-assistance duty under Portuguese.",
+          "rationale": "The supported additional consequence is procedural assistance during closure. The provision does not expressly create new substantive data-access rights or change deletion deadlines.",
+          "uncertainty": "Practical access help may already fall within retrieval assistance; recital 7 supports a common purpose.",
+          "assessed_at": "2026-10-15T23:01:44.528202Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-ff8a8af2fb1c0742cd94366bb6c0"
+          ]
+        },
+        {
+          "id": "api-issue-53db1d9df8fe75e37e492551586a",
+          "title": "Italian retrieval assistance may cover additional accessible cases",
+          "legal_anchor": "Article 2",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A user with an ongoing case could request retrieval assistance concerning another case accessible to that user.",
+          "rationale": "The supported extension concerns an ancillary assistance duty. Neither this wording nor the surrounding provisions expressly creates an entitlement to otherwise restricted data.",
+          "uncertainty": "Recital 7 supports an own-case limitation; the supplied sources do not specify the applicable access controls.",
+          "assessed_at": "2026-10-15T23:01:44.528105Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-53db1d9df8fe75e37e492551586a"
+          ]
+        },
+        {
+          "id": "api-issue-03539674f3915ea8b225156b1f88",
+          "title": "Latvian deletion duty may include non-case information",
+          "legal_anchor": "Article 2",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "If the broader reading prevailed, any non-case information remaining in the platform would also have to be deleted by 20 July 2025.",
+          "rationale": "The identified additional duty concerns cleanup beyond case records. The sources establish no additional major change to dispute remedies or personal-data access rights.",
+          "uncertainty": "No particular non-case records are identified; contextual interpretation may narrow the wording.",
+          "assessed_at": "2026-10-15T23:01:44.528156Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-03539674f3915ea8b225156b1f88"
+          ]
+        },
+        {
+          "id": "api-issue-aaf58c769d8d08b1f823a92a72b6",
+          "title": "Slovenian may leave 20 March available for complaint submissions",
+          "legal_anchor": "Article 2",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "If the Slovenian reading prevailed, a complaint could be submitted on 20 March when the English reading would already end submissions.",
+          "rationale": "The identified consequence is one additional day to use an intermediary for requesting voluntary ADR. The sources establish no loss of an underlying claim or substantive remedy.",
+          "uncertainty": "Interpretation may align the dates; submission does not guarantee trader agreement or dispute resolution.",
+          "assessed_at": "2026-10-15T23:01:44.528247Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-aaf58c769d8d08b1f823a92a72b6"
+          ]
+        },
+        {
+          "id": "api-issue-ede7c737cce2effa129e9b652d28",
+          "title": "French notification wording may require notice on 20 March",
+          "legal_anchor": "Article 2",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "If notification must occur on the specified day, the Commission could need to notify users on 20 March even after providing earlier notice.",
+          "rationale": "The difference concerns the timing of an administrative notification. It preserves retrieval assistance and does not itself shorten the contemplated four-month notice period.",
+          "uncertainty": "Recital 7 supports treating 20 March as the latest notification date.",
+          "assessed_at": "2026-10-15T23:01:44.527988Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "api-ede7c737cce2effa129e9b652d28"
+          ]
+        }
+      ]
     }
   ]
 }

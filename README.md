@@ -104,6 +104,6 @@ The existing Sites identity and `dist/` output are configured in `.openai/hostin
 
 Updating the reader means exporting a checked backend snapshot, rebuilding, and publishing. Keep the existing project identity and coordinate shared source edits/publication with active chats. The website never starts research or refreshes source legislation itself.
 
-Website changes must reach both the local reader and this existing hosted Site unless the user explicitly requests local-only work or no publication. Use the shared procedure in [WORKSPACE.md](../WORKSPACE.md), confirm the deployed version, and verify the local address. Held local research evidence remains excluded from the checked public build.
+Website changes must reach both the local reader and this existing hosted Site unless the user explicitly requests local-only work or no publication. Use the shared procedure in [WORKSPACE.md](../backend/WORKSPACE.md), confirm the deployed version, and verify the local address. Held local research evidence remains excluded from the checked public build.
 
 Anyone with the published link can read and forward it. `robots.txt` and `noindex` request search-engine exclusion; they do not enforce private access. Source texts and publishable findings belong here. Keep credentials, prompts, private traces, local paths, and rejected evidence out of this repository and deployment.
