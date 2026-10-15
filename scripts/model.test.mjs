@@ -70,9 +70,9 @@ test('long comparisons preserve exact text while bounding matching work', () => 
 });
 
 test('impact labels keep the publication threshold separate from ratings', () => {
-  assert.equal(impactDisplayLabel('high'), 'High potential impact');
-  assert.equal(impactDisplayLabel('moderate'), 'Moderate');
-  assert.equal(impactDisplayLabel('limited'), 'Limited');
+  assert.equal(impactDisplayLabel('high'), 'High');
+  assert.equal(impactDisplayLabel('moderate'), 'Medium');
+  assert.equal(impactDisplayLabel('limited'), 'Low');
   assert.equal(impactDisplayLabel('unrated'), 'No impact rating yet');
   assert.equal(impactDisplayLabel(null), 'Impact under review');
   assert.equal(impactDisplayLabel('substantial'), '');
@@ -556,6 +556,7 @@ test('source labels expose recorded scope limits without changing original metad
   assert.equal(original.version_label, 'Original act');
   const consolidated = { version_label: 'Consolidated text', notes: ["The selected official consolidation omits recitals."] };
   assert.equal(sourceVersionInfo(consolidated).label, 'Consolidated version as of');
-  assert.match(sourceVersionInfo(consolidated).limitations[0], /recitals/);
+  assert.deepEqual(sourceVersionInfo(consolidated).limitations, []);
+  assert.deepEqual(consolidated.notes, ["The selected official consolidation omits recitals."]);
   assert.deepEqual(sourceVersionInfo({ version_label: 'Original act' }).limitations, []);
 });

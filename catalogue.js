@@ -1,10 +1,10 @@
 /** The read-only catalogue front page. Requests use only the public static snapshot. */
-import { catalogueLegislation } from './model.js?v=3';
+import { catalogueLegislation } from './model.js?v=4';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
   englishWordCount, overallLanguageSummary
-} from './catalogue-model.js?v=4';
-import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=3';
+} from './catalogue-model.js?v=5';
+import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=4';
 
 const $ = selector => document.querySelector(selector);
 const number = value => new Intl.NumberFormat('en-GB').format(value);
@@ -116,7 +116,10 @@ function completionBadges(act, summary) {
   const label = summary.count
     ? coverage.count ? `Impact ratings: ${number(summary.assessedCount)} of ${number(summary.count)} findings` : 'Impact assessment not started'
     : summary.fullyReviewed ? 'No differences to assess' : 'Impact assessment awaits findings';
-  const status = node('span', `catalogue-status catalogue-status-${summary.assessedCount === summary.count && summary.count ? 'complete' : 'pending'}`, label);
+  const statusClass = `catalogue-status catalogue-status-${summary.assessedCount === summary.count && summary.count ? 'complete' : 'pending'}`;
+  const status = summary.count && !coverage.count
+    ? readerLink(act, `${label} →`, statusClass, null, 'unrated')
+    : node('span', statusClass, label);
   let detail = coverage.total
     ? `${number(coverage.count)} of ${number(coverage.total)} currently published findings have an impact assessment.`
     : summary.fullyReviewed
@@ -162,7 +165,7 @@ function renderImpactDistribution(act, summary) {
   return append(wrapper, bar, legend);
 }
 
-function renderAct(act, { hasRatings = false } = {}) {
+function renderAct(act) {
   const introduction = actIntroduction(act);
   const summary = actSummary(act);
   const row = node('article', 'catalogue-act');
@@ -191,8 +194,7 @@ function renderAct(act, { hasRatings = false } = {}) {
       impactNotice = readerLink(act, `${plural(summary.reviewingCount, 'impact issue')} under review`,
         'catalogue-unassessed', null, 'unrated');
       impactNotice.href += '&view=impact';
-    } else if (hasRatings) impactNotice = readerLink(act, 'No impact rating yet',
-      'catalogue-unassessed', null, 'unrated');
+    }
     append(facts, top, languageDetails(act, summary), completionBadges(act, summary), impactNotice);
   } else {
     append(top, node('p', 'catalogue-no-findings', summary.fullyReviewed ? 'No differences identified in the completed review' : 'No differences published yet · review unfinished'));
@@ -215,7 +217,7 @@ async function loadCatalogue() {
     renderOverall(acts);
     $('#catalogue-total').textContent = `${plural(summary.acts, 'act')} · ${number(summary.findings)} differences in meaning · ${plural(summary.complete, 'complete review')}`;
     $('#catalogue-date').textContent = catalogue.generated_at ? `Website data exported ${prettyDate(catalogue.generated_at)}` : '';
-    list.replaceChildren(...orderedActs(acts).map(act => renderAct(act, { hasRatings: Boolean(summary.impact) })));
+    list.replaceChildren(...orderedActs(acts).map(act => renderAct(act)));
     if (!acts.length) append(list, append(node('div', 'catalogue-empty'),
       node('h2', '', 'No legislation yet'),
       node('p', '', 'Source texts and reviewed findings will appear here when available.')));

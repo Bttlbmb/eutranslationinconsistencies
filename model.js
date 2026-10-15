@@ -83,8 +83,6 @@ export function sourceVersionInfo(act) {
   const original = /original act/i.test(act.version_label || '');
   const notes = (act.notes || []).filter(note => typeof note === 'string').join(' ');
   const limitations = [];
-  if (/consolidation omits recitals/i.test(notes))
-    limitations.push('Historical recitals are absent from this consolidation and are outside the review.');
   if (/later consolidated[\s\S]*outside this review/i.test(notes))
     limitations.push('Review covers the original publication. Later amendments or corrections may not be reflected.');
   return {
@@ -295,9 +293,9 @@ export function comparedWording(english, translation) {
 // finding's `substantial` publication threshold. `unrated` is a filter state,
 // not an impact level stored in an assessment.
 const impactLabels = Object.freeze({
-  high: 'High potential impact',
-  moderate: 'Moderate',
-  limited: 'Limited',
+  high: 'High',
+  moderate: 'Medium',
+  limited: 'Low',
   unrated: 'No impact rating yet'
 });
 

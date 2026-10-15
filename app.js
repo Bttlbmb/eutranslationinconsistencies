@@ -17,7 +17,7 @@ import {
   overlappingFindings,
   selectedFromHash,
   selectionHash
-} from './model.js?v=3';
+} from './model.js?v=4';
 import {
   node,
   append,
@@ -30,8 +30,8 @@ import {
   explanationParagraph,
   renderSourceVersion,
   renderSourceScope
-} from './view.js?v=3';
-import { actIntroduction, actSummary } from './catalogue-model.js?v=4';
+} from './view.js?v=4';
+import { actIntroduction, actSummary } from './catalogue-model.js?v=5';
 
 const $ = (selector) => document.querySelector(selector);
 const state = {
@@ -409,7 +409,6 @@ function renderFocusControls(act) {
   const select = node('select', 'focus-language-select');
   select.id = 'focus-language-select';
   select.setAttribute('aria-label', 'Focus language');
-  select.setAttribute('aria-describedby', 'language-count-note');
   const availableFindings = impactFocusedFindings(act, state.impact);
   const languages = focusLanguageIndex(act).map(language => ({
     ...language, count: findingCounts(availableFindings, language.code).findings
@@ -441,7 +440,6 @@ function renderFocusControls(act) {
   const impactSelect = node('select', 'focus-impact-select');
   impactSelect.id = 'focus-impact-select';
   impactSelect.setAttribute('aria-label', 'Focus impact');
-  impactSelect.setAttribute('aria-describedby', 'impact-focus-note');
   const impactCount = (level) => findingCounts(impactFocusedFindings(act, level), state.language).findings;
   for (const [value, label] of [
     ['', 'All differences'],
@@ -467,15 +465,7 @@ function renderFocusControls(act) {
         button('Potential impact index', 'text-button', () => changeSelection(act, null, { view: 'impact' }))));
     filters.append(options);
   }
-  const languageCountNote = node('p', 'filter-count-note', 'Both menus count language-specific findings matching the other filter.');
-  languageCountNote.id = 'language-count-note';
-  append(
-    controls,
-    filters,
-    languageCountNote,
-    node('span', 'visually-hidden', 'No impact rating yet means no level has been assigned. An issue explanation may exist. It does not mean limited impact.')
-  );
-  controls.lastChild.id = 'impact-focus-note';
+  append(controls, filters);
   if (!hasRatings && groupedFindings(act).length)
     append(controls, node('p', 'impact-pending-note', 'No impact rating yet'));
   return controls;
@@ -641,7 +631,7 @@ function renderImpactSummary(family, { select = false, memberId = null, showTitl
   if (family.confidence) append(block, node('p', 'impact-confidence', `Confidence in the proposed legal effect: ${family.confidence}`));
   const reasonLabel = family.review_state === 'needs_review'
     ? 'Why the impact is under review'
-    : `Why this is rated ${family.impact_level}`;
+    : `Why this is rated ${impactDisplayLabel(family.impact_level).toLowerCase()}`;
   append(
     block,
     node('h4', 'impact-section-heading', 'Potential impact if this reading prevails'),
@@ -677,9 +667,9 @@ function renderImpactIndex(panel, act) {
     const focusedMessage = state.impact === 'unrated'
       ? displayedFindings(act).length
         ? 'This focus shows findings without an assigned impact level. An issue explanation may still be under review.'
-        : 'No findings without an assigned impact level match this focus. Check Review coverage; this does not mean limited impact.'
+        : 'No findings without an assigned impact level match this focus. Check Review coverage; this does not mean low impact.'
       : state.impact
-        ? `No ${impactFocusLabel(state.impact).toLowerCase()} assessment matches this focus. An empty result does not establish limited impact.`
+        ? `No ${impactFocusLabel(state.impact).toLowerCase()} assessment matches this focus. An empty result does not establish low impact.`
         : state.language && impactFamilies(act).length
           ? 'No impact assessment is linked to this language. This does not mean its findings have no impact.'
           : 'No impact assessment is available for this act yet. This does not mean its findings have no impact.';
@@ -693,18 +683,15 @@ function renderImpactIndex(panel, act) {
     panel.append(intro);
     return;
   }
-  append(
-    intro,
-    node('p', '', 'Potential impact describes how much the legal outcome could change if an interpretation were accepted. Issues under review have no rating. Confidence describes support for the proposed legal effect, separately from impact size.')
-  );
   const guide = node('details', 'impact-scale-guide');
   append(guide, node('summary', '', 'How ratings work'));
+  append(guide, node('p', '', 'Impact describes how much the legal outcome could change if an interpretation were accepted. Issues under review have no rating. Confidence describes support for the proposed legal effect, separately from impact size.'));
   const scale = node('ul');
   append(
     scale,
-    append(node('li'), node('strong', '', 'High potential impact: '), 'Substantial outcome for a broad class, several rules, or a serious consequence under one rule, with evidence of reach or consequence.'),
-    append(node('li'), node('strong', '', 'Moderate: '), 'Plausible changed outcome for an identifiable group under a specific rule.'),
-    append(node('li'), node('strong', '', 'Limited: '), 'Changed outcome confined to an ancillary detail with limited practical consequence.')
+    append(node('li'), node('strong', '', 'High: '), 'Substantial outcome for a broad class, several rules, or a serious consequence under one rule, with evidence of reach or consequence.'),
+    append(node('li'), node('strong', '', 'Medium: '), 'Plausible changed outcome for an identifiable group under a specific rule.'),
+    append(node('li'), node('strong', '', 'Low: '), 'Changed outcome confined to an ancillary detail with limited practical consequence.')
   );
   guide.append(scale);
   intro.append(guide);
@@ -745,7 +732,7 @@ function renderFindingIntro(act, findings) {
     title = 'No differences match these filters';
     message = `${state.impact === 'unrated'
       ? `No finding${language ? ` for ${language.name}` : ''} lacks an assigned impact level.`
-      : `No finding${language ? ` for ${language.name}` : ''} has a ${impactFocusLabel(state.impact).toLowerCase()} assessment.`} An empty result does not establish limited impact or equivalence.${empty && language.coverageIncomplete ? ` ${empty.message}` : ''}`;
+      : `No finding${language ? ` for ${language.name}` : ''} has a ${impactFocusLabel(state.impact).toLowerCase()} assessment.`} An empty result does not establish low impact or equivalence.${empty && language.coverageIncomplete ? ` ${empty.message}` : ''}`;
   } else {
     title = empty?.title || {
       complete: 'No differences identified',
@@ -764,9 +751,7 @@ function renderFindingIntro(act, findings) {
   append(intro, node('h2', '', title));
   if (findings.length) {
     const counts = findingCounts(findings, state.language);
-    append(intro, node('p', 'comparison-counts', `${plural(counts.findings, 'difference in meaning', 'differences in meaning')}, shown in ${plural(counts.groups, 'comparison group')}`),
-      node('p', 'comparison-count-guide', 'Each language-specific finding counts once. Findings quoting the same English wording in the same passage appear together.'),
-      node('p', 'comparison-review-note', 'AI-reviewed findings are provisional and do not establish that a language version is legally wrong.'));
+    append(intro, node('p', 'comparison-counts', `${plural(counts.findings, 'difference')} · ${plural(counts.groups, 'comparison group')}`));
   } else append(intro, node('p', '', message));
   return intro;
 }
@@ -888,12 +873,10 @@ function renderComparison() {
         ? variants[0].explanation || selected.explanation
         : selected.explanation;
     append(detail, node('h2', '', state.issue?.title || detailTitle));
-    append(detail, node('p', 'comparison-review-note', 'AI-reviewed findings are provisional. English is the reading reference; all official language versions have equal authority.'));
     const familiesHere = state.issue ? [state.issue] : displayedImpactFamilies(act).filter((family) =>
       family.members.some((member) => selected.aliases.includes(member.id) &&
         (!state.language || member.variants.some((variant) => variant.language === state.language)))
     );
-    if (familiesHere.length) append(detail, node('p', 'impact-definition', 'Potential impact describes how much the legal outcome could change if this interpretation were accepted.'));
     const markers = familiesHere.length > 1 ? node('details', 'comparison-impact-markers') : detail;
     if (familiesHere.length > 1) {
       const levels = [...new Set(familiesHere.map(impactIssueLabel))].join(' / ');
@@ -952,7 +935,7 @@ function renderComparison() {
       append(disclosure, choices);
       relatedDisclosure = disclosure;
     }
-    append(detail, node('p', 'wording-note', 'Underlining shows wording differences between the two English texts. The explanation below each quotation describes their significance.'));
+    append(detail, node('p', 'wording-note', 'Underlining marks wording differences.'));
     variants.forEach((variant) => {
       const card = node('article', 'variant-card');
       const top = node('div', 'variant-title');
@@ -1012,14 +995,6 @@ function renderComparison() {
       }));
     });
     append(detail, relatedDisclosure);
-    append(
-      detail,
-      node(
-        'p',
-        'interpretation-note',
-        'A finding describes a difference in meaning; it does not establish that a language version is legally wrong.'
-      )
-    );
     panel.append(detail);
   }
   const review = state.issue

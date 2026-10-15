@@ -1,7 +1,7 @@
 /** Stateless view helpers and source panels. All source wording uses textContent.
  * Navigation and selected-finding state stay in app.js; evidence rules stay in model.js.
  */
-import { officialURL, archiveURL, explanationSegments, sourceVersionInfo, targetReviewCoverage } from './model.js?v=3';
+import { officialURL, archiveURL, explanationSegments, sourceVersionInfo, targetReviewCoverage } from './model.js?v=4';
 
 export function node(tag, className, text) {
   const element = document.createElement(tag);
@@ -106,12 +106,6 @@ export function renderReviewSources(act, { review } = {}) {
     if (review.models?.length) append(method, node('p', '', `Models: ${review.models.join(' · ')}`));
     append(body, method);
   }
-  const guide = node('details', 'review-reading-guide');
-  append(guide, node('summary', '', 'Reading guide'),
-    node('p', '', 'Each language-specific finding counts as one difference in meaning. Findings quoting the same English wording in the same passage appear together in a comparison group. A group can contain different legal issues.'),
-    node('p', '', 'Underlining shows wording differences between the two English texts. The explanation below each quotation describes their significance.'),
-    node('p', '', 'No impact rating yet means no level has been assigned. An issue explanation may exist. It does not mean limited impact.'));
-  append(body, guide);
   append(details, body);
   return details;
 }

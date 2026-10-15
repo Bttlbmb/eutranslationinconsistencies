@@ -115,7 +115,7 @@ test('impact shares count original records across issues, including unassessed r
   ]);
   assert.equal(impactDistribution(data).reduce((sum, segment) => sum + segment.count, 0), 5);
   assert.deepEqual(impactDistribution(data).map(({ label }) => label), [
-    'High potential impact', 'Moderate', 'Limited', 'No impact rating yet'
+    'High', 'Medium', 'Low', 'No impact rating yet'
   ]);
 });
 
