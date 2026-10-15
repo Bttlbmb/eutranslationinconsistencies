@@ -34,6 +34,17 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .catalogue-skip-link { position: absolute; top: -80px; left: 16px; padding: 12px; background: var(--ink); color: var(--paper); z-index: 5; }
 .catalogue-skip-link:focus { top: 8px; }
 .catalogue-main { max-width: 1120px; margin: auto; padding: 20px 40px 0; }
+.catalogue-intro { max-width: 820px; margin: 4px 0 22px; color: var(--muted); font-size: 14px; }
+.catalogue-intro p + p { margin-top: 7px; font-size: 12px; }
+.catalogue-count-note { max-width: 500px; margin-top: 7px; }
+.catalogue-overall-title { margin-bottom: 7px; font-size: 13px; }
+.catalogue-overall > .catalogue-overall-note { margin-top: 7px; max-width: 340px; margin-left: auto; }
+.source-version > summary { cursor: pointer; }
+.source-version > p { margin-top: 7px; }
+.source-scope-notes { margin-top: 7px; font-size: 12px; color: var(--muted); }
+.source-scope-notes p + p { margin-top: 5px; }
+.catalogue-assessment-progress { flex-basis: 100%; font-size: 12px; color: var(--muted); }
+.catalogue-impact-definition { color: var(--muted); margin-bottom: 7px; line-height: 1.4; }
 .catalogue-heading { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 16px 24px; padding: 10px 0 14px; border-bottom: 1px solid var(--line); }
 .catalogue-page-title { font: 400 28px/1.25 var(--serif); margin: 0 0 14px; }
 .catalogue-meta { font-size: 12px; color: var(--muted); }
@@ -68,7 +79,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .catalogue-languages > summary { cursor: pointer; color: var(--accent); padding: 3px 0; }
 .catalogue-language-list { list-style: none; display: flex; flex-wrap: wrap; gap: 5px 14px; padding: 6px 0 0; margin: 0; font-variant-numeric: tabular-nums; }
 .catalogue-language-link { display: inline-block; padding: 3px 0; }
-.catalogue-status { padding: 3px 7px; border-radius: 3px; background: var(--panel); color: var(--muted); font-size: 12px; white-space: nowrap; }
+.catalogue-status { padding: 3px 7px; border-radius: 3px; background: var(--panel); color: var(--muted); font-size: 12px; }
 .catalogue-status-complete { color: var(--complete); background: var(--complete-soft); }
 .catalogue-status-analyzing, .catalogue-status-partial { color: var(--progress); background: var(--progress-soft); }
 .catalogue-status-failed { color: #93413b; background: #faf0ee; }
@@ -105,6 +116,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   .catalogue-heading { grid-template-columns: minmax(0, 1fr); }
   .catalogue-overall { max-width: none; text-align: left; }
   .catalogue-overall-extremes, .catalogue-overall-scope { justify-content: flex-start; }
+  .catalogue-overall > .catalogue-overall-note { margin-left: 0; max-width: none; }
   .catalogue-main { padding: 20px 28px 0; }
   .catalogue-act { grid-template-columns: minmax(0, 1fr) 320px; gap: 28px; }
   .catalogue-footer { padding-inline: 28px; }

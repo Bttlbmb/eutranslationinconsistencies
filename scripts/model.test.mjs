@@ -20,7 +20,9 @@ import {
   archiveURL,
   selectedFromHash,
   selectionHash,
-  completionMessage
+  completionMessage,
+  sourceVersionInfo,
+  targetReviewCoverage
 } from '../model.js';
 
 test('comparison counts distinguish quote groups from distinct focused records', () => {
@@ -333,7 +335,7 @@ test('shared-quote titles follow every finding in the focused language', () => {
     ]
   };
   const group = groupedFindings(document)[0];
-  assert.equal(focusedFindingTitle(group, 'fr'), 'First French issue, and related differences');
+  assert.equal(focusedFindingTitle(group, 'fr'), '2 differences in meaning in this language');
   assert.equal(focusedFindingTitle(group, 'de'), 'German issue');
   assert.equal(focusedFindingTitle(group), group.title);
 });
@@ -477,7 +479,9 @@ test('grouped differences keep a descriptive label and each language finding tit
     variants: [{ language: 'de' }]
   };
   const group = groupedFindings({ ...act, findings: [first, second] })[0];
-  assert.equal(group.title, 'A different threshold, and related differences');
+  assert.ok(group.title.startsWith('Shared wording: “'));
+  assert.ok(group.title.includes(group.english_quote));
+  assert.ok(!group.title.includes(first.title));
   assert.deepEqual(
     group.variants.map((variant) => variant.finding_title),
     ['A different threshold', 'A narrower scope']
@@ -532,4 +536,26 @@ test('definition numbers and annex bullets stay beside their source text', () =>
   assert.equal(rows.map((row) => source.slice(row.start, row.end)).join(''), source);
   assert.equal(source.slice(rows[0].start, rows[0].markerEnd), '(28)\n');
   assert.equal(source.slice(rows[1].markerEnd, rows[1].contentEnd), 'First annex item');
+});
+
+
+test('coverage separates the English reference from completed and unfinished target languages', () => {
+  const document = { languages: [{ code: 'en' }, { code: 'de' }, { code: 'fr' }],
+    coverage: { total_languages: 3, reviewed_languages: 2, reviewed_language_codes: ['de'] } };
+  assert.deepEqual(targetReviewCoverage(document), { reviewed: 1, total: 2, english: true });
+  assert.deepEqual(targetReviewCoverage({ ...document, coverage: { total_languages: 3, reviewed_languages: 1 } }),
+    { reviewed: 0, total: 2, english: true });
+  assert.deepEqual(targetReviewCoverage({ ...document, coverage: { total_languages: 3, reviewed_languages: 0 } }),
+    { reviewed: 0, total: 2, english: true });
+});
+
+test('source labels expose recorded scope limits without changing original metadata', () => {
+  const original = { version_label: 'Original act', notes: ['A later consolidated work exists but is outside this review.'] };
+  assert.equal(sourceVersionInfo(original).label, 'Original publication');
+  assert.equal(sourceVersionInfo(original).limitations.length, 1);
+  assert.equal(original.version_label, 'Original act');
+  const consolidated = { version_label: 'Consolidated text', notes: ["The selected official consolidation omits recitals."] };
+  assert.equal(sourceVersionInfo(consolidated).label, 'Consolidated version as of');
+  assert.match(sourceVersionInfo(consolidated).limitations[0], /recitals/);
+  assert.deepEqual(sourceVersionInfo({ version_label: 'Original act' }).limitations, []);
 });

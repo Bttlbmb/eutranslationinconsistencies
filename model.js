@@ -77,6 +77,43 @@ export function publicFindings(act) {
   );
 }
 
+/** Reader-facing source labels; retain the exact source metadata in the export. */
+export function sourceVersionInfo(act) {
+  const consolidated = /consolidated/i.test(act.version_label || '');
+  const original = /original act/i.test(act.version_label || '');
+  const notes = (act.notes || []).filter(note => typeof note === 'string').join(' ');
+  const limitations = [];
+  if (/consolidation omits recitals/i.test(notes))
+    limitations.push('Historical recitals are absent from this consolidation and are outside the review.');
+  if (/later consolidated[\s\S]*outside this review/i.test(notes))
+    limitations.push('Review covers the original publication. Later amendments or corrections may not be reflected.');
+  return {
+    label: consolidated ? 'Consolidated version as of' : original ? 'Original publication' : act.version_label || 'Source version',
+    explanation: consolidated
+      ? 'A combined text incorporating amendments up to the stated date. The authentic legal acts are published in the Official Journal.'
+      : original ? 'The text as originally published in the Official Journal.' : '',
+    limitations
+  };
+}
+
+/** Count non-English targets separately from the archived English reference. */
+export function targetReviewCoverage(act) {
+  const coverage = act.coverage || {};
+  const english = Number((act.languages || []).some(language => language.code === 'en'));
+  const total = Math.max(0, (coverage.total_languages || 0) - english);
+  const reviewed = Array.isArray(coverage.reviewed_language_codes)
+    ? new Set(coverage.reviewed_language_codes.filter(code => code !== 'en')).size
+    : Math.max(0, (coverage.reviewed_languages || 0) - english);
+  return { reviewed: Math.min(reviewed, total), total, english: Boolean(english) };
+}
+
+function sharedQuoteTitle(act, group) {
+  const label = act.passages.find(passage => passage.id === group.passage_id)?.label || 'Shared wording';
+  const quote = group.english_quote.trim().replace(/\s+/g, ' ');
+  const excerpt = quote.length > 90 ? `${quote.slice(0, 90).replace(/\s+\S*$/, '')}…` : quote;
+  return `${label}: “${excerpt}”`;
+}
+
 /** Languages with publishable substantial findings, counted by finding record. */
 export function substantialLanguageIndex(act) {
   const archivedNames = new Map(
@@ -155,10 +192,9 @@ export function groupedFindings(act) {
         ...finding.variants.map((variant) => ({ ...variant, finding_id: finding.id, finding_title: finding.title }))
       );
       if (!group.titles.includes(finding.title)) group.titles.push(finding.title);
-      if (group.titles.length > 1) group.title = `${group.titles[0]}, and related differences`;
       if (group.explanation !== finding.explanation)
         group.explanation =
-          'The language versions below contain independently reviewed potential differences. Each explanation describes its possible effect.';
+          'The language versions below contain independently reviewed differences in meaning. Each explanation describes the interpretation and its effect.';
       if (group.category !== finding.category) group.category = 'meaning';
       group.review = {
         ...group.review,
@@ -171,7 +207,11 @@ export function groupedFindings(act) {
     }
   }
   const passageOrder = new Map((act?.passages || []).map((passage, index) => [passage.id, index]));
-  return [...groups.values()].sort(
+  return [...groups.values()].map(group => {
+    if (group.aliases.length > 1 || new Set(group.variants.map(variant => variant.language)).size > 1)
+      group.title = sharedQuoteTitle(act, group);
+    return group;
+  }).sort(
     (a, b) => passageOrder.get(a.passage_id) - passageOrder.get(b.passage_id)
   );
 }
@@ -184,7 +224,7 @@ export function focusedFindingTitle(finding, language = null) {
     .map((variant) => variant.finding_title)
     .filter(Boolean))];
   if (titles.length === 1) return titles[0];
-  if (titles.length > 1) return `${titles[0]}, and related differences`;
+  if (titles.length > 1) return `${titles.length} differences in meaning in this language`;
   return finding.title;
 }
 

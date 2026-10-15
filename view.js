@@ -1,7 +1,7 @@
 /** Stateless view helpers and source panels. All source wording uses textContent.
  * Navigation and selected-finding state stay in app.js; evidence rules stay in model.js.
  */
-import { officialURL, archiveURL, explanationSegments } from './model.js?v=2';
+import { officialURL, archiveURL, explanationSegments, sourceVersionInfo, targetReviewCoverage } from './model.js?v=3';
 
 export function node(tag, className, text) {
   const element = document.createElement(tag);
@@ -50,6 +50,20 @@ export function prettyDate(value, fallback = 'Not recorded') {
 export function plural(count, singular, many = `${singular}s`) {
   return `${count} ${count === 1 ? singular : many}`;
 }
+
+export function renderSourceVersion(act, className = '') {
+  const version = sourceVersionInfo(act);
+  const details = node('details', `source-version ${className}`);
+  append(details, node('summary', '', `${version.label}${act.version ? `${version.label.endsWith('as of') ? ' ' : ' · '}${prettyDate(act.version)}` : ''}`));
+  if (version.explanation) append(details, node('p', '', version.explanation));
+  return details;
+}
+
+export function renderSourceScope(act) {
+  const notes = sourceVersionInfo(act).limitations;
+  if (!notes.length) return null;
+  return append(node('div', 'source-scope-notes'), ...notes.map(note => node('p', '', note)));
+}
 export function wordingQuote(segments, className = '') {
   const quote = node('blockquote', `evidence-quote ${className}`.trim());
   quote.lang = 'en';
@@ -80,7 +94,8 @@ export function renderReviewSources(act, { review } = {}) {
   append(body,
     node('h3', 'small-heading', 'SOURCE VERSION'),
     node('p', 'formal-act-title', act.title),
-    node('p', '', `${act.version_label || 'Source version'}${act.version ? ` · ${prettyDate(act.version)}` : ''}`),
+    renderSourceVersion(act),
+    renderSourceScope(act),
     externalLink('View act on EUR-Lex ↗', act.source_url),
     renderCoverage(act),
     renderArchives(act));
@@ -93,8 +108,8 @@ export function renderReviewSources(act, { review } = {}) {
   }
   const guide = node('details', 'review-reading-guide');
   append(guide, node('summary', '', 'Reading guide'),
-    node('p', '', 'Language findings are published finding records. Grouped comparisons combine records with the same English quotation in the same source passage; a group may contain several distinct issues.'),
-    node('p', '', 'Underlining marks differences in wording between the English reference and a translation into English. It is a reading aid, not an assessment of legal significance or impact.'),
+    node('p', '', 'Each language-specific finding counts as one difference in meaning. Findings quoting the same English wording in the same passage appear together in a comparison group. A group can contain different legal issues.'),
+    node('p', '', 'Underlining shows wording differences between the two English texts. The explanation below each quotation describes their significance.'),
     node('p', '', 'No impact rating yet means no level has been assigned. An issue explanation may exist. It does not mean limited impact.'));
   append(body, guide);
   append(details, body);
@@ -118,23 +133,26 @@ export function renderCoverage(act, { compact = false } = {}) {
       'p',
       '',
       total
-        ? `${reviewed} of ${total} comparison units reviewed`
-        : 'No comparison units reviewed yet'
+        ? `${reviewed} of ${total} planned passage–language comparisons checked`
+        : 'No passage–language comparisons checked yet'
     )
   );
-  if (coverage.total_languages)
+  append(content, node('p', '', 'Each comparison checks one English passage against one other language version. Review completion applies to this text version and the available source scope.'));
+  const targets = targetReviewCoverage(act);
+  if (targets.total)
     append(
       content,
       node(
         'p',
         'coverage-languages',
-        `${coverage.reviewed_languages || 0} of ${coverage.total_languages} languages fully reviewed`
+        `${targets.reviewed} of ${targets.total} non-English language versions fully compared with English`
       )
     );
+  if (targets.english) append(content, node('p', 'coverage-languages', 'English is archived as the reading reference and is counted separately.'));
   if (Array.isArray(coverage.reviewed_language_codes) && coverage.reviewed_language_codes.length) {
     const names = new Map((act.languages || []).map((language) => [language.code, language.name]));
     append(content, node('p', 'coverage-languages',
-      `Completed target languages: ${coverage.reviewed_language_codes.map((code) => names.get(code) || code.toUpperCase()).join(', ')}`));
+      `Completed language comparisons: ${coverage.reviewed_language_codes.filter(code => code !== 'en').map((code) => names.get(code) || code.toUpperCase()).join(', ')}`));
   }
   const incompleteLanguages = (act.languages || []).filter(
     (language) => language.coverage_incomplete

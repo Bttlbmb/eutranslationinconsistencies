@@ -238,6 +238,17 @@ summary {
   flex: 1;
 }
 .document-identity { flex: 1; min-width: 0; }
+.source-version > summary { cursor: pointer; }
+.source-version > p { margin-top: 7px; white-space: normal; line-height: 1.4; }
+.source-scope-notes { margin-top: 6px; color: var(--muted); font: 12px/1.4 var(--sans); }
+.source-scope-notes p + p { margin-top: 4px; }
+.filter-count-note, .comparison-count-guide, .comparison-review-note, .wording-note { color: var(--muted); font-size: 12px; line-height: 1.45; margin-top: 9px; }
+.impact-assessment-meta, .impact-confidence { color: var(--muted); font-size: 12px; line-height: 1.45; margin-top: 6px; }
+.impact-summary-heading > .impact-assessment-meta { flex-basis: 100%; }
+.impact-definition { color: var(--muted); font-size: 12px; line-height: 1.45; margin: 9px 0; }
+.comparison-impact-markers { margin: 12px 0; font-size: 12px; }
+.comparison-impact-markers > summary { cursor: pointer; color: var(--accent); }
+.document-review-state { max-width: 290px; }
 .document-subject { font: 400 22px/1.25 var(--serif); margin-bottom: 5px; }
 .document-review-state { flex: none; font-size: 12px; padding: 4px 7px; background: var(--panel); border-radius: 3px; }
 .document-review-state.status-complete { background: #edf4ef; }
@@ -282,9 +293,7 @@ summary {
 .document-meta {
   color: var(--muted);
   font-size: 12px;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
+  white-space: normal;
 }
 .act-details {
   margin-left: 0;
