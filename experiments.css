@@ -45,6 +45,8 @@ th:first-child { text-align: left; padding-left: 0; width: 35%; }
 thead th:first-child { padding-left: 12px; }
 tbody th { font-weight: 400; }
 td:nth-last-child(2) { font-weight: 600; }
+.length-table { min-width: 620px; }
+.length-table th:first-child { width: 35%; }
 .timing-note { color: var(--muted); font-size: 13px; line-height: 1.6; margin: 22px 0 14px; max-width: 730px; font-variant-numeric: tabular-nums; }
 tbody tr:last-child th, tbody tr:last-child td { border-bottom: 0; }
 .method-note { margin: 40px 0 0; max-width: 760px; padding: 24px; background: #f7f8f6; border-top: 1px solid var(--line); font-size: 13px; line-height: 1.65; color: var(--muted); }
