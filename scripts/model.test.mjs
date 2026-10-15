@@ -96,11 +96,12 @@ test('legacy assessments retain explanations but never acquire binary ratings', 
   }
 });
 
-test('old high and moderate links focus unrated findings without inventing a binary level', () => {
+test('old high and moderate links retain their finding without inventing a binary filter', () => {
   for (const old of ['high', 'moderate']) {
-    const selection = selectedFromHash(`#act=test-act&impact=${old}`, [act]);
-    assert.equal(selection.impact, 'unrated');
-    assert.equal(selectionHash(selection).includes('impact=unrated'), true);
+    const selection = selectedFromHash(`#act=test-act&finding=test-finding&impact=${old}`, [act]);
+    assert.equal(selection.impact, null);
+    assert.equal(selection.finding.id, 'test-finding');
+    assert.equal(selectionHash(selection).includes('impact='), false);
   }
 });
 

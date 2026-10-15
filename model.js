@@ -536,8 +536,7 @@ export function selectedFromHash(hash, legislation) {
   const params = new URLSearchParams(hash.replace(/^#/, ''));
   const act = legislation.find((item) => item.id === params.get('act')) || legislation[0] || null;
   const requestedImpact = params.get('impact');
-  const impact = ['high', 'moderate'].includes(requestedImpact) ? 'unrated'
-    : ['major', 'limited', 'unrated'].includes(requestedImpact)
+  const impact = ['major', 'limited', 'unrated'].includes(requestedImpact)
     ? requestedImpact
     : null;
   let finding = act
