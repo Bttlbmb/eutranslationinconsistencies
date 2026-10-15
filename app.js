@@ -17,7 +17,7 @@ import {
   overlappingFindings,
   selectedFromHash,
   selectionHash
-} from './model.js?v=4';
+} from './model.js?v=5';
 import {
   node,
   append,
@@ -30,8 +30,8 @@ import {
   explanationParagraph,
   renderSourceVersion,
   renderSourceScope
-} from './view.js?v=4';
-import { actIntroduction, actSummary } from './catalogue-model.js?v=5';
+} from './view.js?v=5';
+import { actIntroduction, actSummary } from './catalogue-model.js?v=6';
 
 const $ = (selector) => document.querySelector(selector);
 const state = {
@@ -242,7 +242,7 @@ function changeLanguage(code) {
     : 'Findings in all languages shown.';
 }
 function changeImpact(level) {
-  if (level && !['high', 'moderate', 'limited', 'unrated'].includes(level)) return;
+  if (level && !['major', 'limited', 'unrated'].includes(level)) return;
   state.impact = level;
   const visibleFindings = reconcileFocusedSelection();
   renderFocusChange();
@@ -441,17 +441,21 @@ function renderFocusControls(act) {
   impactSelect.id = 'focus-impact-select';
   impactSelect.setAttribute('aria-label', 'Focus impact');
   const impactCount = (level) => findingCounts(impactFocusedFindings(act, level), state.language).findings;
+  const levels = node('optgroup');
+  levels.label = 'Potential impact';
+  const assessmentStatus = node('optgroup');
+  assessmentStatus.label = 'Assessment status';
   for (const [value, label] of [
     ['', 'All differences'],
-    ['high', impactDisplayLabel('high')],
-    ['moderate', impactDisplayLabel('moderate')],
+    ['major', impactDisplayLabel('major')],
     ['limited', impactDisplayLabel('limited')],
     ['unrated', impactDisplayLabel('unrated')]
   ]) {
     const option = node('option', '', `${label} (${impactCount(value || null)})`);
     option.value = value;
-    impactSelect.append(option);
+    (value === 'unrated' ? assessmentStatus : value ? levels : impactSelect).append(option);
   }
+  append(impactSelect, levels, assessmentStatus);
   impactSelect.value = state.impact || '';
   impactSelect.addEventListener('change', () => changeImpact(impactSelect.value || null));
   append(impactFocus, node('span', 'focus-impact-label', 'Impact'), impactSelect);
@@ -606,7 +610,8 @@ function impactFocusLabel(level) {
   return impactDisplayLabel(level);
 }
 function impactIssueLabel(family) {
-  return family.review_state === 'needs_review'
+  return family.rating_status === 'needs_reassessment' ? 'No impact rating yet'
+    : family.review_state === 'needs_review'
     ? 'Impact under review'
     : impactDisplayLabel(family.impact_level);
 }
@@ -615,12 +620,13 @@ function impactLanguageNames(family) {
   return family.languages.map(code => names.get(code) || code.toUpperCase()).join(' · ');
 }
 function assessmentStateLabel(family) {
+  if (family.rating_status === 'needs_reassessment') return 'Earlier assessment · Awaiting reassessment';
   return { provisional: 'Provisional AI assessment', needs_review: 'Assessment under review', confirmed: 'Confirmed assessment' }[family.review_state];
 }
 function renderImpactMarker(family, { showTitle = false } = {}) {
   const heading = node('div', 'impact-summary-heading impact-marker');
   if (showTitle) append(heading, node('strong', '', family.title));
-  append(heading, node('span', 'impact-level', impactIssueLabel(family)));
+  append(heading, node('span', `impact-level impact-level-${family.impact_level || 'unrated'}`, impactIssueLabel(family)));
   append(heading, node('span', 'impact-assessment-meta', `${impactLanguageNames(family)} · ${assessmentStateLabel(family)}`));
   return heading;
 }
@@ -629,7 +635,8 @@ function renderImpactSummary(family, { select = false, memberId = null, showTitl
   if (showTitle) append(block, node('h3', 'impact-issue-title', family.title));
   append(block, node('p', 'impact-assessment-meta', `${impactLanguageNames(family)} · ${assessmentStateLabel(family)}`));
   if (family.confidence) append(block, node('p', 'impact-confidence', `Confidence in the proposed legal effect: ${family.confidence}`));
-  const reasonLabel = family.review_state === 'needs_review'
+  const reasonLabel = family.rating_status === 'needs_reassessment' ? 'Earlier assessment reasoning'
+    : family.review_state === 'needs_review'
     ? 'Why the impact is under review'
     : `Why this is rated ${impactDisplayLabel(family.impact_level).toLowerCase()}`;
   append(
@@ -648,7 +655,9 @@ function renderImpactSummary(family, { select = false, memberId = null, showTitl
   const explanation = node('details', 'impact-explanation');
   append(explanation, node('summary', '', 'Assessment details'));
   const review = [
-    family.review_state === 'needs_review' ? 'No impact level assigned; context review needed' : '',
+    family.rating_status === 'needs_reassessment'
+      ? 'This explanation uses the earlier three-level scale and awaits assessment on the Major/Limited scale.'
+      : family.review_state === 'needs_review' ? 'No impact level assigned; context review needed' : '',
     family.assessed_at ? `Assessed ${prettyDate(family.assessed_at)}` : '',
     family.rubric_version ? `Method ${family.rubric_version}` : ''
   ].filter(Boolean).join(' · ');
@@ -667,9 +676,9 @@ function renderImpactIndex(panel, act) {
     const focusedMessage = state.impact === 'unrated'
       ? displayedFindings(act).length
         ? 'This focus shows findings without an assigned impact level. An issue explanation may still be under review.'
-        : 'No findings without an assigned impact level match this focus. Check Review coverage; this does not mean low impact.'
+        : 'No findings without an assigned impact level match this focus. Check Review coverage; this does not mean Limited impact.'
       : state.impact
-        ? `No ${impactFocusLabel(state.impact).toLowerCase()} assessment matches this focus. An empty result does not establish low impact.`
+        ? `No ${impactFocusLabel(state.impact).toLowerCase()} assessment matches this focus. An empty result does not establish Limited impact.`
         : state.language && impactFamilies(act).length
           ? 'No impact assessment is linked to this language. This does not mean its findings have no impact.'
           : 'No impact assessment is available for this act yet. This does not mean its findings have no impact.';
@@ -689,9 +698,8 @@ function renderImpactIndex(panel, act) {
   const scale = node('ul');
   append(
     scale,
-    append(node('li'), node('strong', '', 'High: '), 'Substantial outcome for a broad class, several rules, or a serious consequence under one rule, with evidence of reach or consequence.'),
-    append(node('li'), node('strong', '', 'Medium: '), 'Plausible changed outcome for an identifiable group under a specific rule.'),
-    append(node('li'), node('strong', '', 'Low: '), 'Changed outcome confined to an ancillary detail with limited practical consequence.')
+    append(node('li'), node('strong', '', 'Major: '), 'A material change to an important right, core duty or permission, eligibility, remedy, substantial financial liability or sanction.'),
+    append(node('li'), node('strong', '', 'Limited: '), 'A narrower or ancillary legal consequence, with no supported major consequence.')
   );
   guide.append(scale);
   intro.append(guide);
@@ -701,7 +709,7 @@ function renderImpactIndex(panel, act) {
   families.forEach((family) => {
     const row = button('', 'impact-index-item', () => changeImpactSelection(family));
     const top = node('span', 'impact-index-top');
-    append(top, node('strong', '', family.title), node('span', 'impact-level', impactIssueLabel(family)));
+    append(top, node('strong', '', family.title), node('span', `impact-level impact-level-${family.impact_level || 'unrated'}`, impactIssueLabel(family)));
     const names = family.languages.map((code) => languageNames.get(code) || code.toUpperCase());
     append(
       row,
@@ -732,7 +740,7 @@ function renderFindingIntro(act, findings) {
     title = 'No differences match these filters';
     message = `${state.impact === 'unrated'
       ? `No finding${language ? ` for ${language.name}` : ''} lacks an assigned impact level.`
-      : `No finding${language ? ` for ${language.name}` : ''} has a ${impactFocusLabel(state.impact).toLowerCase()} assessment.`} An empty result does not establish low impact or equivalence.${empty && language.coverageIncomplete ? ` ${empty.message}` : ''}`;
+      : `No finding${language ? ` for ${language.name}` : ''} has a ${impactFocusLabel(state.impact).toLowerCase()} assessment.`} An empty result does not establish Limited impact or equivalence.${empty && language.coverageIncomplete ? ` ${empty.message}` : ''}`;
   } else {
     title = empty?.title || {
       complete: 'No differences identified',

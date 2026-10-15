@@ -10,9 +10,8 @@
   --progress: #865b23;
   --progress-soft: #faf3e7;
   --panel: #fafaf8;
-  --impact-high: #346c9c;
-  --impact-moderate: #739bbd;
-  --impact-limited: #b9cfdf;
+  --impact-major: #346c9c;
+  --impact-limited: #8a939a;
   --impact-unrated: #d8dad6;
   --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
   --serif: Georgia, 'Times New Roman', serif;
@@ -91,8 +90,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .catalogue-impact-label { color: var(--muted); margin-bottom: 6px; }
 .catalogue-impact-bar { display: flex; width: 100%; height: 6px; overflow: hidden; }
 .catalogue-impact-segment { display: block; height: 100%; }
-.impact-high { background: var(--impact-high); }
-.impact-moderate { background: var(--impact-moderate); }
+.impact-major { background: var(--impact-major); }
 .impact-limited { background: var(--impact-limited); }
 .impact-unrated { background: var(--impact-unrated); }
 .catalogue-impact-legend { display: flex; flex-wrap: wrap; gap: 3px 14px; list-style: none; padding: 0; margin: 5px 0 0; }

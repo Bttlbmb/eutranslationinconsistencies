@@ -50,7 +50,7 @@ export function explanationSegments(explanation, { act, finding, language, quote
 }
 
 export function catalogueLegislation(catalogue) {
-  if (catalogue?.schema_version !== 1 || !Array.isArray(catalogue.legislation)) {
+  if (![1, 2].includes(catalogue?.schema_version) || !Array.isArray(catalogue.legislation)) {
     throw new Error('This collection uses an unsupported format.');
   }
   return catalogue.legislation.filter(
@@ -293,9 +293,8 @@ export function comparedWording(english, translation) {
 // finding's `substantial` publication threshold. `unrated` is a filter state,
 // not an impact level stored in an assessment.
 const impactLabels = Object.freeze({
-  high: 'High',
-  moderate: 'Medium',
-  limited: 'Low',
+  major: 'Major',
+  limited: 'Limited',
   unrated: 'No impact rating yet'
 });
 
@@ -308,7 +307,7 @@ export function impactDisplayLabel(level) {
 export function impactFamilies(act) {
   const findings = new Map(publicFindings(act).map((finding) => [finding.id, finding]));
   const seen = new Set();
-  const order = { high: 0, moderate: 1, limited: 2 };
+  const order = { major: 0, limited: 1 };
   return (Array.isArray(act?.impact_families) ? act.impact_families : [])
     .filter((family) => {
       if (
@@ -317,9 +316,12 @@ export function impactFamilies(act) {
         !family.id ||
         seen.has(family.id) ||
         !['confirmed', 'provisional', 'needs_review'].includes(family.review_state) ||
-        (family.review_state === 'needs_review'
+        (family.rating_status === 'needs_reassessment'
           ? family.impact_level !== null
-          : !Object.hasOwn(order, family.impact_level)) ||
+          : family.review_state === 'needs_review'
+          ? family.impact_level !== null
+          : !(family.rubric_version === 'conditional-binary-impact-1'
+            ? ['major', 'limited'] : ['high', 'moderate', 'limited']).includes(family.impact_level)) ||
         typeof family.title !== 'string' ||
         typeof family.effect !== 'string' ||
         !Array.isArray(family.finding_ids) ||
@@ -334,7 +336,11 @@ export function impactFamilies(act) {
       const languages = [...new Set(members.flatMap((finding) =>
         finding.variants.map((variant) => variant.language)
       ))];
-      return { ...family, members, languages };
+      const current = family.rubric_version === 'conditional-binary-impact-1' &&
+        family.rating_status !== 'needs_reassessment';
+      return { ...family, members, languages,
+        impact_level: current ? family.impact_level : null,
+        rating_status: current ? 'current' : 'needs_reassessment' };
     })
     .sort((a, b) => (order[a.impact_level] ?? 3) - (order[b.impact_level] ?? 3) || a.title.localeCompare(b.title));
 }
@@ -342,7 +348,7 @@ export function impactFamilies(act) {
 /** Filter original records before quote grouping so mixed-rating quotes stay honest. */
 export function impactFocusedFindings(act, impact = null) {
   if (!impact) return groupedFindings(act);
-  if (!['high', 'moderate', 'limited', 'unrated'].includes(impact)) return groupedFindings(act);
+  if (!['major', 'limited', 'unrated'].includes(impact)) return groupedFindings(act);
   const levels = new Map(impactFamilies(act).filter((family) => family.impact_level).flatMap((family) =>
     family.finding_ids.map((id) => [id, family.impact_level])
   ));
@@ -530,7 +536,8 @@ export function selectedFromHash(hash, legislation) {
   const params = new URLSearchParams(hash.replace(/^#/, ''));
   const act = legislation.find((item) => item.id === params.get('act')) || legislation[0] || null;
   const requestedImpact = params.get('impact');
-  const impact = ['high', 'moderate', 'limited', 'unrated'].includes(requestedImpact)
+  const impact = ['high', 'moderate'].includes(requestedImpact) ? 'unrated'
+    : ['major', 'limited', 'unrated'].includes(requestedImpact)
     ? requestedImpact
     : null;
   let finding = act

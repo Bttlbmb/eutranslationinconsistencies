@@ -1,15 +1,15 @@
 /** The read-only catalogue front page. Requests use only the public static snapshot. */
-import { catalogueLegislation } from './model.js?v=4';
+import { catalogueLegislation } from './model.js?v=5';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
   englishWordCount, overallLanguageSummary
-} from './catalogue-model.js?v=5';
-import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=4';
+} from './catalogue-model.js?v=6';
+import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=5';
 
 const $ = selector => document.querySelector(selector);
 const number = value => new Intl.NumberFormat('en-GB').format(value);
 const impactLegendLabels = Object.freeze({
-  high: 'High', moderate: 'Medium', limited: 'Low', unrated: 'Unrated'
+  major: 'Major', limited: 'Limited', unrated: 'Unrated'
 });
 
 function followLegacyLink() {
@@ -114,7 +114,8 @@ function completionBadges(act, summary) {
   row.setAttribute('aria-label', 'Review and impact assessment status');
   const coverage = summary.impactAssessment;
   const label = summary.count
-    ? coverage.count ? `Impact ratings: ${number(summary.assessedCount)} of ${number(summary.count)} findings` : 'Impact assessment not started'
+    ? coverage.count ? `Impact ratings: ${number(summary.assessedCount)} of ${number(summary.count)} findings`
+      : summary.reassessmentCount ? 'Impact reassessment needed' : 'Impact assessment not started'
     : summary.fullyReviewed ? 'No differences to assess' : 'Impact assessment awaits findings';
   const statusClass = `catalogue-status catalogue-status-${summary.assessedCount === summary.count && summary.count ? 'complete' : 'pending'}`;
   const status = summary.count && !coverage.count
@@ -128,12 +129,14 @@ function completionBadges(act, summary) {
   if (summary.reviewingCount) {
     detail += ` ${plural(summary.reviewingCount, 'impact issue')} ${summary.reviewingCount === 1 ? 'remains' : 'remain'} under review without an assigned rating.`;
   }
+  if (summary.reassessmentCount)
+    detail += ` ${plural(summary.reassessmentCount, 'earlier assessment')} ${summary.reassessmentCount === 1 ? 'awaits' : 'await'} the Major/Limited scale.`;
   status.title = detail;
   status.setAttribute('aria-label', `${label}. ${detail}`);
   append(row, reviewStatus(act, summary), status);
   const notStarted = coverage.total - coverage.count;
   if (notStarted && coverage.count)
-    append(row, node('p', 'catalogue-assessment-progress', `${number(notStarted)} not yet assessed`));
+    append(row, node('p', 'catalogue-assessment-progress', `${number(notStarted)} awaiting assessment on this scale`));
   return row;
 }
 
@@ -191,7 +194,10 @@ function renderAct(act) {
     let impactNotice = null;
     if (summary.assessedCount) impactNotice = renderImpactDistribution(act, summary);
     else if (summary.reviewingCount) {
-      impactNotice = readerLink(act, `${plural(summary.reviewingCount, 'impact issue')} under review`,
+      const notice = summary.reassessmentCount === summary.reviewingCount
+        ? `${plural(summary.reassessmentCount, 'earlier assessment')} awaiting reassessment`
+        : `${plural(summary.reviewingCount, 'impact issue')} awaiting rating`;
+      impactNotice = readerLink(act, notice,
         'catalogue-unassessed', null, 'unrated');
       impactNotice.href += '&view=impact';
     }

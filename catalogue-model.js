@@ -1,5 +1,5 @@
 /** Front-page summaries of the checked public snapshot. No research state is inferred. */
-import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel } from './model.js?v=4';
+import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel } from './model.js?v=5';
 
 // Editorial introductions to the existing acts, based on their preserved official
 // titles and scope provisions. Source metadata and legal wording stay unchanged.
@@ -69,7 +69,7 @@ function findingImpactDistribution(findings, families) {
       ratings.set(id, ratings.has(id) ? 'unrated' : family.impact_level);
     }
   }
-  const counts = { high: 0, moderate: 0, limited: 0, unrated: 0 };
+  const counts = { major: 0, limited: 0, unrated: 0 };
   for (const finding of findings) counts[ratings.get(finding.id) || 'unrated']++;
   return Object.entries(counts).map(([level, count]) => ({
     level, label: impactDisplayLabel(level), count,
@@ -85,7 +85,7 @@ export function impactDistribution(act) {
 /** Assessment coverage includes explicit needs-review decisions, independently of ratings. */
 function impactAssessmentSummary(findings, families, fullyReviewed) {
   const assignments = new Map();
-  for (const family of families) {
+  for (const family of families.filter(family => family.rating_status !== 'needs_reassessment')) {
     for (const id of new Set(family.finding_ids)) {
       assignments.set(id, (assignments.get(id) || 0) + 1);
     }
@@ -128,9 +128,10 @@ export function actSummary(act) {
   const distribution = findingImpactDistribution(findings, families);
   const assessedCount = distribution.filter(segment => segment.level !== 'unrated')
     .reduce((total, segment) => total + segment.count, 0);
-  const impact = { high: 0, moderate: 0, limited: 0 };
+  const impact = { major: 0, limited: 0 };
   families.filter(family => family.impact_level).forEach(family => impact[family.impact_level]++);
-  const reviewingCount = families.filter(family => family.review_state === 'needs_review').length;
+  const reviewingCount = families.filter(family => !family.impact_level).length;
+  const reassessmentCount = families.filter(family => family.rating_status === 'needs_reassessment').length;
   // A rounded value must never turn unfinished coverage into a 100% label.
   const percentage = total > 0
     ? Math.min(reviewed < total ? 99.9 : 100, Math.round(reviewed / total * 1000) / 10)
@@ -150,6 +151,7 @@ export function actSummary(act) {
     distribution,
     impactCount: families.length,
     reviewingCount,
+    reassessmentCount,
     impactAssessment: impactAssessmentSummary(findings, families, fullyReviewed),
     assessedCount,
     unassessedCount: findings.length - assessedCount

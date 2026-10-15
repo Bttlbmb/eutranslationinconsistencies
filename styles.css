@@ -679,6 +679,9 @@ summary {
   font-size: 12px;
   font-weight: 600;
 }
+.impact-level-major { background: #edf5fc; color: #275d89; padding: 3px 7px; border-radius: 3px; }
+.impact-level-limited { background: #f0f1f2; color: #4b545c; padding: 3px 7px; border-radius: 3px; }
+.impact-level-unrated { color: var(--muted); font-weight: 400; }
 .impact-index-effect,
 .impact-index-languages {
   display: block;

@@ -1,14 +1,14 @@
-# Public export contract — version 1
+# Public export contract — version 2
 
 The reader loads `data/catalogue.json` as UTF-8 JSON. All text archives referenced by it are UTF-8 `.txt` files beneath `data/texts/`. The public export is a self-contained static snapshot; it must not require the Python service, a local file path, a database connection, or a model account to read.
 
-This document describes the v1 interface consumed by this repository. Additive optional fields can be ignored by older readers. Incompatible changes require a new `schema_version` and a corresponding reader update.
+Current exports use v2. The reader also accepts preserved v1 snapshots, keeping their three-level assessments unranked until reassessed. Version 2 changes only the impact contract and adds `rating_status`; source, finding and coverage fields retain their original meaning. Incompatible changes require a new `schema_version` and a corresponding reader update.
 
 ## Catalogue
 
 | Field | Type | Meaning |
 | --- | --- | --- |
-| `schema_version` | integer | Must be `1`. |
+| `schema_version` | integer | Must be `2` for current exports; preserved `1` snapshots remain readable. |
 | `generated_at` | UTC ISO-8601 string | Time the snapshot was exported; `null` is supported for an empty, uninitialized collection only. |
 | `legislation` | array of legislation objects | Every act included in the snapshot; an empty array is valid. |
 
@@ -109,9 +109,11 @@ Accepted candidates from a batch whose coverage review has not completed remain 
 
 `impact_families` is a separate model-reviewed layer. It asks: **If this reading prevails after all authentic versions are interpreted in context, how large could the change in legal outcome be?** MVP proposals need no separate editorial approval; their `review_state` is retained in the export, and unranked issues must be displayed as such. They do not establish that a version is legally wrong, that any product or person is actually affected, or that a market effect occurred. The existing finding `severity: substantial` is the publication threshold and is not a rank on this scale.
 
-Display `high` as **High**, `moderate` as **Medium**, and `limited` as **Low**. Display assigned `provisional` levels using the same level labels, with **Provisional AI assessment** identifying their status. Confidence is confidence in the proposed legal effect and is separate from impact size. Assignment coverage and rating coverage are different: unranked assessments contribute to the former only. A `needs_review` proposal has `impact_level: null` and displays **Impact under review** in the issue index. A finding without an assigned level appears under **No impact rating yet**, including when a needs-review explanation exists. That is a derived filter state, not a fourth `impact_level`. Never infer `limited` from a missing level or `high` from the finding's `substantial` publication threshold.
+The assigned scale has exactly two values: `major` displays **Major** and `limited` displays **Limited**, under **Potential impact**. Rubric `conditional-binary-impact-1` maps the experiment's `severe` to `major` and `non_severe` to `limited`. Major means a material change to an important entitlement, core permission or duty, eligibility, remedy, substantial financial liability or sanction. Limited means a supported narrower or ancillary consequence with no supported major consequence. Neither records proven harm.
 
-The catalogue bar uses an inline **Impact** key with **High**, **Medium**, and **Low** for assigned ratings. **Medium** maps to `moderate` and **Low** maps to `limited`; neither changes the assessment or stored rubric. Unrated records retain their neutral share of the bar, with no separate legend item; the rating-count badge above accounts for the remainder. The reader uses the same short level labels. A missing rating remains separate from every assigned level.
+Every v2 family has `rating_status`: `current` for a binary assessment or `needs_reassessment` for an earlier assessment. A current assigned level must use the binary rubric and have `review_state` provisional or confirmed. A current `needs_review` assessment has a null level. Earlier assessments retain their original review state, rubric, explanation, uncertainty and date, but export a null level and `needs_reassessment`. Their original levels remain in the private append-only history; there is no automatic mapping from the older High/Medium/Low scale, including its `limited` value.
+
+Unassigned findings display **No impact rating yet**. Earlier issue explanations are marked **Earlier assessment · Awaiting reassessment**, while current unresolved issues show **Impact under review**. Uncertainty never becomes Limited. Confidence remains separate from impact. Provisional binary ratings retain **Provisional AI assessment**. Collection bars and legends use only Major and Limited, with the unrated share neutral; the count above accounts for unassigned findings. Binary assessment coverage excludes earlier assessments awaiting reassessment. Existing issue and finding links retain their explanations and evidence.
 
 Each object describes one legal issue, which may link several language-specific findings and several English-quote display groups. A display group may also contain different issues. The reader must join by original finding ID, never infer family membership from a shared English quote. A finding can belong to at most one published family. Partial acts may contain proposals without implying complete act-wide impact coverage.
 
@@ -121,7 +123,8 @@ Each object describes one legal issue, which may link several language-specific 
 | `title` | non-empty string | Public-safe short description of the legal issue. |
 | `legal_anchor` | non-empty string | Affected rule, provision, or condition; not necessarily the finding language's territory. |
 | `finding_ids` | non-empty array of strings | Unique original finding IDs in this same act, all present in its published `findings`. |
-| `impact_level` | string or null | `high`, `moderate`, or `limited` for an assigned conditional level; null only when `review_state` is `needs_review`. |
+| `impact_level` | string or null | `major` or `limited` for an assigned binary conditional level; null for current `needs_review` or any `needs_reassessment` family. |
+| `rating_status` | string | Required in v2: `current` or `needs_reassessment`, as defined above. |
 | `confidence` | string | `high`, `medium`, or `low`; separate from impact. |
 | `effect` | non-empty string | Description of the possible changed outcome. Automated proposals use the critical review's scenario. |
 | `rationale` | non-empty string | Explanation of the conditional level or unranked hypothesis. |
@@ -130,7 +133,7 @@ Each object describes one legal issue, which may link several language-specific 
 | `assessed_at` | UTC ISO-8601 string | When this assessment was made. |
 | `review_state` | string | `provisional`, `needs_review`, or `confirmed`; the reader displays assigned levels and identifies unranked issues. |
 
-The backend exports current provisional and needs-review proposals without a separate editorial approval. An existing confirmed assessment retains its separately approved public wording. The exporter rechecks the source and finding revisions and verifies that none of the members is held or missing from the exported act. Stale automated protocol runs are excluded. If no assessment passes, export `[]` or omit the field. The website validator rejects unexpected fields, inconsistent state and level pairs, and invalid or cross-act references. A missing or empty array means **No impact rating yet** for each published finding; it never means `limited` impact or no possible difference.
+The backend exports current provisional and needs-review proposals without a separate editorial approval. An existing confirmed assessment retains its separately approved public wording. The exporter rechecks the source and finding revisions and verifies that none of the members is held or missing from the exported act. Stale automated protocol runs are excluded. If no assessment passes, export `[]` or omit the field. The website validator rejects unexpected fields, inconsistent state and level pairs, and invalid or cross-act references. A missing or empty array means **No impact rating yet** for each published finding; it never means `limited` impact or no possible difference. The v1 compatibility validator retains its old `high|moderate|limited` enum and state rules; the current reader leaves those historical assessments unranked.
 
 ### Variant
 
@@ -157,9 +160,9 @@ The variant language must be a preserved non-English language. Its source URL mu
 
 The stored finding records remain separate. For display, the reader groups records with the same `passage_id` and exact `english_quote`, lists all reviewed language variants, and preserves each record's title on its language card. Each original finding ID remains a valid alias for the grouped view. Public labels call these records “differences in meaning”; Method explains that each language-specific finding counts once. Multi-record groups use a neutral excerpt of their English quotation as the heading, retaining every original title on its language card. Both filter menus count finding records; the list and pager count comparison groups.
 
-Links use `#act=<encoded-id>&finding=<encoded-finding-id>`, with optional `&lang=<language-code>` to focus on any accounted-for non-English language, including one with no findings or an unavailable source. Optional `&impact=high|moderate|limited|unrated` focuses on assigned potential impact or findings with **No impact rating yet**. Both focuses are retained in shared links and combined by original finding ID before quote grouping. The existing `unrated` URL token names that derived display state for link compatibility; it does not mean Low impact. A focus link may omit `finding`. The requested finding must belong to the selected act and match both focuses; otherwise the reader ignores that finding while retaining the focuses. Unknown act IDs fall back to the first available act; an empty catalogue has an explicit empty state. On initial load, a missing or unknown finding selects the first visible finding when available. Browser Back to the finding index restores the view without a selected finding.
+Links use `#act=<encoded-id>&finding=<encoded-finding-id>`, with optional `&lang=<language-code>` to focus on any accounted-for non-English language, including one with no findings or an unavailable source. Optional `&impact=major|limited|unrated` focuses on assigned potential impact or findings with **No impact rating yet**. Both focuses are retained in shared links and combined by original finding ID before quote grouping. The existing `unrated` URL token names that derived display state for link compatibility; it does not mean Limited impact. Legacy `high` and `moderate` focus tokens open the unrated focus, without assigning a new level. A focus link may omit `finding`. The requested finding must belong to the selected act and match both focuses; otherwise the reader ignores that finding while retaining the focuses. Unknown act IDs fall back to the first available act; an empty catalogue has an explicit empty state. On initial load, a missing or unknown finding selects the first visible finding when available. Browser Back to the finding index restores the view without a selected finding.
 
-The v1 contract has no quote offset. Every exact non-overlapping occurrence is highlighted when wording repeats within a passage. The comparison states the occurrence count and directs the reader to the explanation for the affected context. Highlight repetition must not be described as proof that every matching occurrence is separately discrepant. Overlapping distinct quotes retain separate finding choices.
+The contract has no quote offset. Every exact non-overlapping occurrence is highlighted when wording repeats within a passage. The comparison states the occurrence count and directs the reader to the explanation for the affected context. Highlight repetition must not be described as proof that every matching occurrence is separately discrepant. Overlapping distinct quotes retain separate finding choices.
 
 ## Public-data boundary
 

@@ -15,11 +15,12 @@ const categories = new Set([
   'definition',
   'other'
 ]);
-const impactLevels = new Set(['high', 'moderate', 'limited']);
+const impactLevels = new Set(['major', 'limited']);
+const legacyImpactLevels = new Set(['high', 'moderate', 'limited']);
 const impactConfidence = new Set(['high', 'medium', 'low']);
 const impactFields = new Set([
   'id', 'title', 'legal_anchor', 'finding_ids', 'impact_level', 'confidence',
-  'effect', 'rationale', 'uncertainty', 'rubric_version', 'assessed_at', 'review_state'
+  'effect', 'rationale', 'uncertainty', 'rubric_version', 'assessed_at', 'review_state', 'rating_status'
 ]);
 const nonempty = (value) => typeof value === 'string' && value.trim().length > 0;
 function utcTimestamp(value) {
@@ -216,9 +217,14 @@ export async function validateSnapshot(catalogue, readArchive) {
         nonempty(family.id) && !familyIds.has(family.id) &&
           [family.title, family.legal_anchor, family.effect, family.rationale,
             family.uncertainty, family.rubric_version].every(nonempty) &&
-          (family.review_state === 'needs_review'
-            ? family.impact_level === null
-            : impactLevels.has(family.impact_level)) &&
+          (catalogue.schema_version === 1
+            ? (family.review_state === 'needs_review' ? family.impact_level === null
+              : legacyImpactLevels.has(family.impact_level))
+            : family.rating_status === 'needs_reassessment'
+              ? family.impact_level === null && family.rubric_version !== 'conditional-binary-impact-1'
+              : family.rating_status === 'current' && family.rubric_version === 'conditional-binary-impact-1' &&
+                (family.review_state === 'needs_review' ? family.impact_level === null
+                  : impactLevels.has(family.impact_level))) &&
           impactConfidence.has(family.confidence) &&
           ['confirmed', 'provisional', 'needs_review'].includes(family.review_state) &&
           utcTimestamp(family.assessed_at),

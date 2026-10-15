@@ -70,12 +70,38 @@ test('long comparisons preserve exact text while bounding matching work', () => 
 });
 
 test('impact labels keep the publication threshold separate from ratings', () => {
-  assert.equal(impactDisplayLabel('high'), 'High');
-  assert.equal(impactDisplayLabel('moderate'), 'Medium');
-  assert.equal(impactDisplayLabel('limited'), 'Low');
+  assert.equal(impactDisplayLabel('major'), 'Major');
+  assert.equal(impactDisplayLabel('high'), '');
+  assert.equal(impactDisplayLabel('moderate'), '');
+  assert.equal(impactDisplayLabel('limited'), 'Limited');
   assert.equal(impactDisplayLabel('unrated'), 'No impact rating yet');
   assert.equal(impactDisplayLabel(null), 'Impact under review');
   assert.equal(impactDisplayLabel('substantial'), '');
+});
+
+test('legacy assessments retain explanations but never acquire binary ratings', () => {
+  for (const level of ['high', 'moderate', 'limited']) {
+    const document = { ...act, impact_families: [{
+      id: 'legacy', title: 'Earlier issue', effect: 'Preserved earlier explanation',
+      impact_level: level, review_state: 'provisional', rubric_version: 'potential-impact-pilot-3',
+      finding_ids: ['test-finding']
+    }] };
+    const family = impactFamilies(document)[0];
+    assert.equal(family.impact_level, null);
+    assert.equal(family.rating_status, 'needs_reassessment');
+    assert.equal(family.effect, 'Preserved earlier explanation');
+    assert.equal(impactFocusedFindings(document, 'limited').length, 0);
+    assert.equal(impactFocusedFindings(document, 'unrated').length, 1);
+    assert.equal(document.impact_families[0].impact_level, level);
+  }
+});
+
+test('old high and moderate links focus unrated findings without inventing a binary level', () => {
+  for (const old of ['high', 'moderate']) {
+    const selection = selectedFromHash(`#act=test-act&impact=${old}`, [act]);
+    assert.equal(selection.impact, 'unrated');
+    assert.equal(selectionHash(selection).includes('impact=unrated'), true);
+  }
 });
 
 // Artificial strings below are unit-test fixtures, never published source data.
@@ -232,7 +258,7 @@ test('impact families stay distinct within a shared quote and can span two quote
   const family = (id, ids) => ({
     id,
     title: id,
-    impact_level: 'moderate',
+    rubric_version: 'conditional-binary-impact-1', impact_level: 'major',
     review_state: 'confirmed',
     effect: 'Could change an applicable condition.',
     finding_ids: ids
@@ -271,13 +297,13 @@ test('impact families stay distinct within a shared quote and can span two quote
 
 test('impact index includes model-reviewed and unranked proposals with valid references', () => {
   const family = {
-    id: 'test', title: 'Test', effect: 'Could change reach.', impact_level: 'high',
+    id: 'test', title: 'Test', effect: 'Could change reach.', rubric_version: 'conditional-binary-impact-1', impact_level: 'major',
     finding_ids: ['test-finding']
   };
   assert.equal(impactFamilies({ ...act, impact_families: [family] }).length, 0);
   assert.equal(impactFamilies({ ...act, impact_families: [{ ...family, review_state: 'confirmed' }] }).length, 1);
   assert.equal(impactFamilies({ ...act, impact_families: [{ ...family, review_state: 'provisional' }] }).length, 1);
-  assert.equal(impactFamilies({ ...act, impact_families: [{ ...family, review_state: 'needs_review', impact_level: null }] }).length, 1);
+  assert.equal(impactFamilies({ ...act, impact_families: [{ ...family, review_state: 'needs_review', rubric_version: 'conditional-binary-impact-1', impact_level: null }] }).length, 1);
   assert.equal(impactFamilies({ ...act, impact_families: [{ ...family, review_state: 'confirmed', finding_ids: ['absent'] }] }).length, 0);
 });
 
@@ -287,42 +313,41 @@ test('impact focus filters original findings before grouping and preserves focus
     variants: [{ language, language_name: language.toUpperCase() }]
   });
   const makeFamily = (id, findingId, impactLevel) => ({
-    id, title: id, impact_level: impactLevel, review_state: 'confirmed',
+    id, title: id, rubric_version: 'conditional-binary-impact-1', impact_level: impactLevel, review_state: 'confirmed',
     effect: 'Could change the legal outcome.', finding_ids: [findingId]
   });
   const document = {
     ...act,
     languages: ['de', 'fr', 'it', 'es'].map((code) => ({ code, name: code.toUpperCase() })),
     findings: [
-      makeFinding('high-de', 'de'),
-      makeFinding('moderate-fr', 'fr'),
+      makeFinding('major-de', 'de'),
+      makeFinding('limited-fr', 'fr', 'alpha beta'),
       makeFinding('unrated-it', 'it'),
       makeFinding('limited-es', 'es', 'alpha beta')
     ],
     impact_families: [
-      makeFamily('high-issue', 'high-de', 'high'),
-      makeFamily('moderate-issue', 'moderate-fr', 'moderate'),
-      makeFamily('limited-issue', 'limited-es', 'limited')
+      makeFamily('major-issue', 'major-de', 'major'),
+      makeFamily('limited-issue', 'limited-fr', 'limited'),
+      makeFamily('limited-es-issue', 'limited-es', 'limited')
     ]
   };
   assert.equal(groupedFindings(document).length, 2);
-  assert.deepEqual(impactFocusedFindings(document, 'high').map((group) => group.aliases), [['high-de']]);
-  assert.deepEqual(impactFocusedFindings(document, 'high')[0].variants.map((variant) => variant.language), ['de']);
-  assert.deepEqual(impactFocusedFindings(document, 'moderate').map((group) => group.aliases), [['moderate-fr']]);
-  assert.deepEqual(impactFocusedFindings(document, 'limited').map((group) => group.aliases), [['limited-es']]);
-  assert.deepEqual(impactFocusedFindings(document, 'unrated').map((group) => group.aliases), [['unrated-it']]);
+  assert.deepEqual(impactFocusedFindings(document, 'major').map((group) => group.aliases), [['major-de']]);
+  assert.deepEqual(impactFocusedFindings(document, 'major')[0].variants.map((variant) => variant.language), ['de']);
+  assert.deepEqual(impactFocusedFindings(document, 'limited').map((group) => group.aliases), [['limited-fr', 'limited-es']]);
+    assert.deepEqual(impactFocusedFindings(document, 'unrated').map((group) => group.aliases), [['unrated-it']]);
   assert.equal(impactFocusedFindings({ ...document, impact_families: [] }, 'unrated').length, 2);
-  assert.equal(impactFocusedFindings({ ...document, impact_families: [] }, 'high').length, 0);
+  assert.equal(impactFocusedFindings({ ...document, impact_families: [] }, 'major').length, 0);
 
-  const high = selectedFromHash('#act=test-act&finding=high-de&lang=de&impact=high', [document]);
-  assert.equal(high.finding.id, 'high-de');
-  assert.equal(selectionHash(high), 'act=test-act&finding=high-de&lang=de&impact=high');
-  assert.equal(selectedFromHash('#act=test-act&finding=moderate-fr&impact=high', [document]).finding, null);
-  assert.equal(selectedFromHash('#act=test-act&finding=high-de&lang=fr&impact=high', [document]).finding, null);
+  const major = selectedFromHash('#act=test-act&finding=major-de&lang=de&impact=major', [document]);
+  assert.equal(major.finding.id, 'major-de');
+  assert.equal(selectionHash(major), 'act=test-act&finding=major-de&lang=de&impact=major');
+  assert.equal(selectedFromHash('#act=test-act&finding=limited-fr&impact=major', [document]).finding, null);
+  assert.equal(selectedFromHash('#act=test-act&finding=major-de&lang=fr&impact=major', [document]).finding, null);
   assert.equal(selectedFromHash('#act=test-act&impact=critical', [document]).impact, null);
   assert.equal(selectedFromHash('#act=test-act&impact=unrated&finding=unrated-it', [document]).finding.id, 'unrated-it');
-  assert.equal(selectedFromHash('#act=test-act&impact=high&view=impact&issue=moderate-issue', [document]).issue, null);
-  assert.equal(selectedFromHash('#act=test-act&impact=high&view=impact&issue=high-issue', [document]).issue.id, 'high-issue');
+  assert.equal(selectedFromHash('#act=test-act&impact=major&view=impact&issue=limited-issue', [document]).issue, null);
+  assert.equal(selectedFromHash('#act=test-act&impact=major&view=impact&issue=major-issue', [document]).issue.id, 'major-issue');
 });
 
 test('shared-quote titles follow every finding in the focused language', () => {
@@ -379,7 +404,7 @@ test('partial and pending review states do not claim complete equivalence', () =
 });
 
 test('unsupported schema versions fail clearly', () => {
-  assert.throws(() => catalogueLegislation({ schema_version: 2, legislation: [] }), /unsupported/);
+  assert.throws(() => catalogueLegislation({ schema_version: 99, legislation: [] }), /unsupported/);
   assert.deepEqual(catalogueLegislation({ schema_version: 1, legislation: [] }), []);
 });
 

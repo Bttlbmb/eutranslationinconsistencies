@@ -62,7 +62,7 @@ function fixture() {
       }
     ]
   };
-  return { catalogue: { schema_version: 1, legislation: [act] }, files };
+  return { catalogue: { schema_version: 2, legislation: [act] }, files };
 }
 
 function approvedImpactFamily() {
@@ -71,16 +71,41 @@ function approvedImpactFamily() {
     title: 'Condition may change',
     legal_anchor: 'Article 1 condition',
     finding_ids: ['f1'],
-    impact_level: 'moderate',
+    impact_level: 'major', rating_status: 'current',
     confidence: 'medium',
     effect: 'A person could fall inside the rule under one reading.',
     rationale: 'The changed boundary could alter an identifiable legal outcome.',
     uncertainty: 'The reading has not been resolved across all authentic versions.',
-    rubric_version: 'potential-impact-1',
+    rubric_version: 'conditional-binary-impact-1',
     assessed_at: '2026-10-14T00:00:00Z',
     review_state: 'confirmed'
   };
 }
+
+test('v2 accepts preserved legacy explanations only with an explicit reassessment status', async () => {
+  const { catalogue, files } = fixture();
+  const family = { ...approvedImpactFamily(), impact_level: null,
+    rating_status: 'needs_reassessment', rubric_version: 'potential-impact-pilot-3' };
+  catalogue.legislation[0].impact_families = [family];
+  await validateSnapshot(catalogue, url => files.get(url));
+  for (const invalid of [
+    { impact_level: 'major' },
+    { rating_status: 'current' },
+    { rubric_version: 'conditional-binary-impact-1' }
+  ]) {
+    catalogue.legislation[0].impact_families = [{ ...family, ...invalid }];
+    await assert.rejects(validateSnapshot(catalogue, url => files.get(url)), /Invalid impact/);
+  }
+});
+
+test('v1 archives remain readable with their original three-level contract', async () => {
+  const { catalogue, files } = fixture();
+  catalogue.schema_version = 1;
+  const family = { ...approvedImpactFamily(), impact_level: 'moderate', rubric_version: 'pilot-3' };
+  delete family.rating_status;
+  catalogue.legislation[0].impact_families = [family];
+  await validateSnapshot(catalogue, url => files.get(url));
+});
 
 test('snapshot checks preserve the exact approved bytes and accept an empty collection', async () => {
   const { catalogue, files } = fixture();
@@ -88,7 +113,7 @@ test('snapshot checks preserve the exact approved bytes and accept an empty coll
   assert.deepEqual(archives, files);
   assert.equal(
     (
-      await validateSnapshot({ schema_version: 1, legislation: [] }, () =>
+      await validateSnapshot({ schema_version: 2, legislation: [] }, () =>
         assert.fail('No archive should be read')
       )
     ).size,

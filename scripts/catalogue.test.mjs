@@ -36,13 +36,13 @@ test('front-page counts retain separate finding records at a shared English anch
 test('impact totals count confirmed and model-reviewed issues separately from finding records', () => {
   const family = {
     id: 'issue', title: 'Test issue', effect: 'Synthetic possible effect',
-    review_state: 'confirmed', impact_level: 'high', finding_ids: ['a', 'b']
+    review_state: 'confirmed', rubric_version: 'conditional-binary-impact-1', impact_level: 'major', finding_ids: ['a', 'b']
   };
   const summary = actSummary({ ...act, findings: [...act.findings, finding('c')],
     impact_families: [family, { ...family, id: 'provisional', finding_ids: ['c'], review_state: 'provisional' }]
   });
   assert.equal(summary.impactCount, 2);
-  assert.deepEqual(summary.impact, { high: 2, moderate: 0, limited: 0 });
+  assert.deepEqual(summary.impact, { major: 2, limited: 0 });
   assert.equal(summary.assessedCount, 3);
   assert.equal(summary.unassessedCount, 0);
   assert.equal(summary.fullyReviewed, false);
@@ -58,9 +58,9 @@ test('missing impact assessments remain unpublished rather than limited-impact f
 test('complete assessment coverage includes unranked decisions and grouped finding records', () => {
   const summary = actSummary({ ...act, findings: [...act.findings, finding('c')], impact_families: [
     { id: 'rated', title: 'Synthetic issue', effect: 'Synthetic effect',
-      review_state: 'provisional', impact_level: 'moderate', finding_ids: ['a', 'b'] },
+      review_state: 'provisional', rubric_version: 'conditional-binary-impact-1', impact_level: 'major', finding_ids: ['a', 'b'] },
     { id: 'unranked', title: 'Synthetic issue', effect: 'Unresolved synthetic effect',
-      review_state: 'needs_review', impact_level: null, finding_ids: ['c'] }
+      review_state: 'needs_review', rubric_version: 'conditional-binary-impact-1', impact_level: null, finding_ids: ['c'] }
   ] });
   assert.deepEqual(summary.impactAssessment, {
     count: 3, total: 3, state: 'complete', label: 'Impact assessed'
@@ -76,7 +76,7 @@ test('assessment badges retain partial and pending coverage when finding records
     count: 0, total: 2, state: 'pending', label: 'Impact pending'
   });
   const family = { id: 'issue', title: 'Synthetic issue', effect: 'Synthetic effect',
-    review_state: 'needs_review', impact_level: null, finding_ids: ['a'] };
+    review_state: 'needs_review', rubric_version: 'conditional-binary-impact-1', impact_level: null, finding_ids: ['a'] };
   assert.deepEqual(actSummary({ ...act, impact_families: [family] }).impactAssessment, {
     count: 1, total: 2, state: 'partial', label: 'Impact partial'
   });
@@ -95,7 +95,7 @@ test('empty findings never imply completed assessment work', () => {
 
 test('ambiguous assessment membership cannot claim complete coverage', () => {
   const family = { title: 'Synthetic issue', effect: 'Synthetic effect',
-    review_state: 'confirmed', impact_level: 'high', finding_ids: ['a', 'b'] };
+    review_state: 'confirmed', rubric_version: 'conditional-binary-impact-1', impact_level: 'major', finding_ids: ['a', 'b'] };
   assert.deepEqual(actSummary({ ...act, impact_families: [
     { ...family, id: 'one' }, { ...family, id: 'two', finding_ids: ['a'] }
   ] }).impactAssessment, { count: 1, total: 2, state: 'partial', label: 'Impact partial' });
@@ -103,19 +103,18 @@ test('ambiguous assessment membership cannot claim complete coverage', () => {
 
 test('impact shares count original records across issues, including unassessed records', () => {
   const family = (id, level, ids) => ({ id, title: 'Synthetic issue', effect: 'Synthetic effect',
-    review_state: 'confirmed', impact_level: level, finding_ids: ids });
+    review_state: 'confirmed', rubric_version: 'conditional-binary-impact-1', impact_level: level, finding_ids: ids });
   const data = { ...act,
     findings: ['a', 'b', 'c', 'd', 'e'].map(id => finding(id)),
-    impact_families: [family('high', 'high', ['a', 'b']), family('moderate', 'moderate', ['c']),
+    impact_families: [family('major', 'major', ['a', 'b']), family('limited-c', 'limited', ['c']),
       family('limited', 'limited', ['d']), { ...family('draft', null, ['e']), review_state: 'needs_review' }]
   };
   assert.deepEqual(impactDistribution(data).map(({ level, count, share }) => ({ level, count, share })), [
-    { level: 'high', count: 2, share: .4 }, { level: 'moderate', count: 1, share: .2 },
-    { level: 'limited', count: 1, share: .2 }, { level: 'unrated', count: 1, share: .2 }
+    { level: 'major', count: 2, share: .4 }, { level: 'limited', count: 2, share: .4 }, { level: 'unrated', count: 1, share: .2 }
   ]);
   assert.equal(impactDistribution(data).reduce((sum, segment) => sum + segment.count, 0), 5);
   assert.deepEqual(impactDistribution(data).map(({ label }) => label), [
-    'High', 'Medium', 'Low', 'No impact rating yet'
+    'Major', 'Limited', 'No impact rating yet'
   ]);
 });
 
@@ -128,7 +127,7 @@ test('absent ratings fill the unrated share, while an empty act has no shares', 
 test('overlapping invalid issue assignments cannot double count or choose a rating', () => {
   const family = { title: 'Synthetic issue', effect: 'Synthetic effect', review_state: 'confirmed', finding_ids: ['a'] };
   const data = { ...act, impact_families: [
-    { ...family, id: 'one', impact_level: 'high' }, { ...family, id: 'two', impact_level: 'limited' }
+    { ...family, id: 'one', rubric_version: 'conditional-binary-impact-1', impact_level: 'major' }, { ...family, id: 'two', rubric_version: 'conditional-binary-impact-1', impact_level: 'limited' }
   ] };
   assert.equal(impactDistribution(data).find(segment => segment.level === 'unrated').count, 2);
   assert.equal(actSummary(data).assessedCount, 0);
