@@ -96,6 +96,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .impact-limited { background: var(--impact-limited); }
 .impact-unrated { background: var(--impact-unrated); }
 .catalogue-impact-legend { display: flex; flex-wrap: wrap; gap: 3px 14px; list-style: none; padding: 0; margin: 5px 0 0; }
+.catalogue-impact-legend-title { display: inline-flex; align-items: center; padding: 3px 0; color: var(--muted); }
 .catalogue-impact-key { display: inline-flex; align-items: center; gap: 5px; padding: 3px 0; }
 .catalogue-impact-key span:last-child { font-variant-numeric: tabular-nums; }
 .catalogue-impact-swatch { width: 8px; height: 8px; flex: none; }

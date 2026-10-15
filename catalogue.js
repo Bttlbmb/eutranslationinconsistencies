@@ -9,7 +9,7 @@ import { node, append, button, prettyDate, plural, renderSourceVersion, renderSo
 const $ = selector => document.querySelector(selector);
 const number = value => new Intl.NumberFormat('en-GB').format(value);
 const impactLegendLabels = Object.freeze({
-  high: 'High impact', moderate: 'Moderate impact', limited: 'Low impact', unrated: 'No rating yet'
+  high: 'High', moderate: 'Medium', limited: 'Low', unrated: 'Unrated'
 });
 
 function followLegacyLink() {
@@ -79,7 +79,7 @@ function renderOverall(acts) {
   window.addEventListener('resize', positionPanel);
   append(host, node('p', 'catalogue-overall-title', 'Differences in meaning by language'), extremes, append(node('div', 'catalogue-overall-scope'),
     node('span', '', `${plural(summary.completedActs, 'completed act review')}`), compare),
-    node('p', 'catalogue-overall-note', 'Counts within this collection; not a measure of overall translation quality.'), panel);
+    panel);
 }
 
 function languageDetails(act, summary) {
@@ -140,18 +140,23 @@ function renderImpactDistribution(act, summary) {
   bar.setAttribute('role', 'img');
   bar.setAttribute('aria-label', `Impact ratings among ${summary.count} published finding records: ${summary.distribution.map(segment => `${impactLegendLabels[segment.level]}: ${segment.count}`).join('; ')}.`);
   const legend = node('ul', 'catalogue-impact-legend');
+  legend.setAttribute('aria-label', 'Impact');
+  const legendTitle = node('li', 'catalogue-impact-legend-title', 'Impact');
+  legendTitle.setAttribute('aria-hidden', 'true');
+  append(legend, legendTitle);
   summary.distribution.filter(segment => segment.count).forEach(segment => {
     const label = impactLegendLabels[segment.level];
     const mark = node('span', `catalogue-impact-segment impact-${segment.level}`);
     mark.style.width = `${segment.share * 100}%`;
     mark.setAttribute('aria-hidden', 'true');
     append(bar, mark);
+    if (segment.level === 'unrated') return;
     const link = readerLink(act, '', 'catalogue-impact-key', null, segment.level);
     if (segment.level !== 'unrated') link.href += '&view=impact';
     const swatch = node('span', `catalogue-impact-swatch impact-${segment.level}`);
     swatch.setAttribute('aria-hidden', 'true');
     append(link, swatch, node('span', '', `${label} ${number(segment.count)}`));
-    link.setAttribute('aria-label', `Open ${plural(segment.count, 'published finding')} with ${label.toLowerCase()}`);
+    link.setAttribute('aria-label', `Open ${plural(segment.count, 'published finding')} with ${label.toLowerCase()} impact`);
     append(legend, append(node('li'), link));
   });
   return append(wrapper, bar, legend);
@@ -210,11 +215,6 @@ async function loadCatalogue() {
     renderOverall(acts);
     $('#catalogue-total').textContent = `${plural(summary.acts, 'act')} · ${number(summary.findings)} differences in meaning · ${plural(summary.complete, 'complete review')}`;
     $('#catalogue-date').textContent = catalogue.generated_at ? `Website data exported ${prettyDate(catalogue.generated_at)}` : '';
-    $('#catalogue-impact-note').textContent = summary.impact
-      ? 'Potential impact is assessed separately by legal issue. Unranked issues remain under review.'
-      : summary.findings
-        ? 'No impact rating yet. An impact explanation may still be in progress.'
-        : 'Potential impact is assessed separately when reviewed findings are available.';
     list.replaceChildren(...orderedActs(acts).map(act => renderAct(act, { hasRatings: Boolean(summary.impact) })));
     if (!acts.length) append(list, append(node('div', 'catalogue-empty'),
       node('h2', '', 'No legislation yet'),
@@ -233,7 +233,6 @@ async function loadCatalogue() {
 }
 
 $('#method-button').addEventListener('click', () => $('#method-dialog').showModal());
-$('#count-guide-button').addEventListener('click', () => $('#method-dialog').showModal());
 $('#close-method').addEventListener('click', () => $('#method-dialog').close());
 $('#method-dialog').addEventListener('click', event => {
   if (event.target !== event.currentTarget) return;
