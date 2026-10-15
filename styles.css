@@ -249,7 +249,7 @@ summary {
 .comparison-impact-markers { margin: 12px 0; font-size: 12px; }
 .comparison-impact-markers > summary { cursor: pointer; color: var(--accent); }
 .document-review-state { max-width: 290px; }
-.document-subject { font: 400 22px/1.25 var(--serif); margin-bottom: 5px; }
+.document-subject { font: 400 22px/1.25 var(--serif); margin-bottom: 5px; overflow-wrap: anywhere; }
 .document-review-state { flex: none; font-size: 12px; padding: 4px 7px; background: var(--panel); border-radius: 3px; }
 .document-review-state.status-complete { background: #edf4ef; }
 .document-review-state.status-partial,
@@ -1185,6 +1185,7 @@ summary {
     gap: 12px;
     flex-wrap: wrap;
   }
+  .document-identity { flex-basis: 100%; }
   .document-review-state { margin-left: 0; }
   .focus-controls {
     width: 100%;

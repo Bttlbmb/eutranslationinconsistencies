@@ -3,7 +3,7 @@ import { catalogueLegislation } from './model.js?v=3';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
   englishWordCount, overallLanguageSummary
-} from './catalogue-model.js?v=3';
+} from './catalogue-model.js?v=4';
 import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=3';
 
 const $ = selector => document.querySelector(selector);
@@ -163,8 +163,8 @@ function renderAct(act, { hasRatings = false } = {}) {
   const row = node('article', 'catalogue-act');
   const identity = node('div', 'catalogue-identity');
   const heading = node('h2', 'catalogue-title');
-  append(heading, readerLink(act, introduction.title));
-  append(identity, node('p', 'catalogue-reference', introduction.reference), heading);
+  append(heading, readerLink(act, introduction.label));
+  append(identity, heading);
   if (introduction.description) append(identity, node('p', 'catalogue-description', introduction.description));
   const wordCount = englishWordCount(act);
   const version = renderSourceVersion(act, 'catalogue-version');

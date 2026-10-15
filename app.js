@@ -31,7 +31,7 @@ import {
   renderSourceVersion,
   renderSourceScope
 } from './view.js?v=3';
-import { actIntroduction, actSummary } from './catalogue-model.js?v=3';
+import { actIntroduction, actSummary } from './catalogue-model.js?v=4';
 
 const $ = (selector) => document.querySelector(selector);
 const state = {
@@ -186,7 +186,7 @@ function changeSelection(act, finding = null, { scroll = false, issue = null, is
     ? `${issue.title}. Potential impact and language evidence updated.`
     : finding
     ? `${finding.title}. Language comparison updated.`
-    : `${act?.short_title || act?.title || 'Collection'} selected.`;
+    : `${act ? actIntroduction(act).label : 'Collection'} selected.`;
 }
 function changeImpactSelection(family, preferredId = null, { scroll = true } = {}) {
   const member = issueMember(family, preferredId);
@@ -364,10 +364,10 @@ function renderLibrary() {
     );
     item.setAttribute('aria-current', act.id === state.act?.id ? 'true' : 'false');
     const introduction = actIntroduction(act);
-    append(item, node('span', 'legislation-name', introduction.title));
+    append(item, node('span', 'legislation-name', introduction.label));
     append(
       item,
-      node('span', 'legislation-item-bottom', `${introduction.reference} · ${summary}`)
+      node('span', 'legislation-item-bottom', summary)
     );
     container.append(item);
   });
@@ -376,18 +376,21 @@ function renderAct() {
   const act = state.act;
   const heading = $('#document-heading');
   heading.replaceChildren();
-  $('#act-picker-label').textContent = act ? actIntroduction(act).reference : 'Choose legislation';
+  const picker = $('#act-picker-label');
+  picker.textContent = act ? 'Change legislation' : 'Choose legislation';
+  picker.setAttribute('aria-label', act
+    ? `Change legislation. Current: ${actIntroduction(act).label}` : 'Choose legislation');
   if (!act) {
     renderEmptyCollection();
     return;
   }
   const introduction = actIntroduction(act);
   const summary = actSummary(act);
-  document.title = `${introduction.title} · EU Translation Inconsistencies`;
+  document.title = `${introduction.label} · EU Translation Inconsistencies`;
   const identity = node('div', 'document-identity');
   append(
     identity,
-    node('h1', 'document-subject', introduction.title),
+    node('h1', 'document-subject', introduction.label),
     renderSourceVersion(act, 'document-meta'),
     renderSourceScope(act)
   );

@@ -34,13 +34,21 @@ export function actIntroduction(act) {
   const introduction = introductions[act.id];
   const title = introduction?.title || act.short_title || act.title;
   const celex = act.id.match(/^3(\d{4})([RL])(\d{4})$/);
+  // Keep the official citation's suffix and numbering order, including older regulations.
+  const citation = act.title.trim().match(/^(?:(?:Council|Commission)\s+)?(Directive|Regulation)\s+(\((?:EU|EC|EEC)\)\s+)?(No\.?\s+)?(\d+\/\d+(?:\/(?:EU|EC|EEC))?)(?=\s|$)/i);
+  const reference = citation
+    ? [citation[1][0].toUpperCase() + citation[1].slice(1).toLowerCase(),
+      citation[2]?.trim().toUpperCase(), citation[3] ? 'No' : '', citation[4].toUpperCase()]
+      .filter(Boolean).join(' ')
+    : celex
+      ? `${celex[2] === 'R' ? 'Regulation' : 'Directive'} ${celex[1]}/${Number(celex[3])}`
+      : act.short_title || act.celex || act.id;
   return {
     title,
+    reference,
+    label: reference === title ? title : `${reference} — ${title}`,
     description: act.subject?.trim() || introduction?.description ||
-      (act.title !== title ? act.title : ''),
-    reference: celex
-      ? `${celex[2] === 'R' ? 'Regulation' : 'Directive'} ${celex[1]}/${Number(celex[3])}`
-      : act.short_title || act.celex || act.id
+      (act.title !== title ? act.title : '')
   };
 }
 

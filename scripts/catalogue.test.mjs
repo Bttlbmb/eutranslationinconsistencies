@@ -231,10 +231,21 @@ test('catalogue ordering preserves every new act and does not mutate the snapsho
 
 test('unrecognized legislation uses exported descriptions and titles', () => {
   assert.deepEqual(actIntroduction({ ...act, subject: 'Exported subject' }), {
-    title: 'Test act', description: 'Exported subject', reference: 'Test act'
+    title: 'Test act', description: 'Exported subject', reference: 'Test act', label: 'Test act'
   });
   assert.equal(actIntroduction({ ...act, short_title: undefined }).description, '');
   assert.equal(actIntroduction({ ...act, id: '32009L0024' }).reference, 'Directive 2009/24');
+});
+
+test('display citations retain official suffixes and older regulation numbering', () => {
+  const directive = actIntroduction({ ...act, id: '32009L0024', short_title: 'Directive 24/2009',
+    title: 'DIRECTIVE 2009/24/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 April 2009 on the legal protection of computer programs' });
+  assert.equal(directive.reference, 'Directive 2009/24/EC');
+  assert.equal(directive.label, 'Directive 2009/24/EC — Computer programs');
+  const regulation = actIntroduction({ ...act, id: '32012R0432',
+    title: 'COMMISSION REGULATION (EU) No 432/2012 of 16 May 2012 establishing a list of permitted health claims made on foods' });
+  assert.equal(regulation.reference, 'Regulation (EU) No 432/2012');
+  assert.equal(regulation.label, 'Regulation (EU) No 432/2012 — Food health claims');
 });
 
 test('reader links encode act IDs and preserve the language focus', () => {
