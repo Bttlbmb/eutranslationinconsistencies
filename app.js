@@ -413,29 +413,28 @@ function renderFocusControls(act) {
   const availableFindings = impactFocusedFindings(act, state.impact);
   const languages = focusLanguageIndex(act).map(language => ({
     ...language, count: findingCounts(availableFindings, language.code).findings
-  }));
+  })).filter(language => language.count > 0);
   append(select, node('option', '', `All languages (${findingCounts(availableFindings).findings})`));
   select.options[0].value = '';
   languages.forEach((language) => {
-    const suffix = language.availability === 'unavailable'
-      ? ' · source unavailable'
-      : language.availability === 'failed'
-        ? ' · source retrieval failed'
-        : language.coverageIncomplete
-          ? ' · incomplete source'
-          : language.reviewState === 'complete'
-            ? ' · review complete'
-            : language.reviewState === 'pending'
-              ? ' · review pending'
-            : language.reviewState === 'incomplete'
-              ? ' · review incomplete'
-              : ' · check coverage';
-    const option = node('option', '', `${language.name} (${language.count})${suffix}`);
+    const option = node('option', '', `${language.name} (${language.count})`);
     option.value = language.code;
     select.append(option);
   });
+  // Identify empty focuses from shared links or filter changes without offering
+  // zero-result languages in the menu.
+  if (state.language && !languages.some(language => language.code === state.language)) {
+    const language = focusedLanguage(act);
+    if (language) {
+      const option = node('option', '', `${language.name} (0)`);
+      option.value = language.code;
+      option.hidden = true;
+      option.disabled = true;
+      select.append(option);
+    }
+  }
   select.value = state.language || '';
-  select.disabled = !languages.length;
+  select.disabled = !languages.length && !state.language;
   select.addEventListener('change', () => changeLanguage(select.value || null));
   append(focus, node('span', 'focus-language-label', 'Language'), select);
   const impactFocus = node('label', 'focus-impact-control');

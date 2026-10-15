@@ -8,6 +8,9 @@ import { node, append, button, prettyDate, plural, renderSourceVersion, renderSo
 
 const $ = selector => document.querySelector(selector);
 const number = value => new Intl.NumberFormat('en-GB').format(value);
+const impactLegendLabels = Object.freeze({
+  high: 'High impact', moderate: 'Moderate impact', limited: 'Low impact', unrated: 'No rating yet'
+});
 
 function followLegacyLink() {
   const href = legacyReaderHref(location.hash, location.search);
@@ -133,12 +136,12 @@ function completionBadges(act, summary) {
 
 function renderImpactDistribution(act, summary) {
   const wrapper = node('div', 'catalogue-impact-distribution');
-  append(wrapper, node('p', 'catalogue-impact-label', 'Potential impact'));
   const bar = node('div', 'catalogue-impact-bar');
   bar.setAttribute('role', 'img');
-  bar.setAttribute('aria-label', `Potential impact among ${summary.count} published finding records: ${summary.distribution.map(segment => `${segment.label}: ${segment.count}`).join('; ')}.`);
+  bar.setAttribute('aria-label', `Impact ratings among ${summary.count} published finding records: ${summary.distribution.map(segment => `${impactLegendLabels[segment.level]}: ${segment.count}`).join('; ')}.`);
   const legend = node('ul', 'catalogue-impact-legend');
   summary.distribution.filter(segment => segment.count).forEach(segment => {
+    const label = impactLegendLabels[segment.level];
     const mark = node('span', `catalogue-impact-segment impact-${segment.level}`);
     mark.style.width = `${segment.share * 100}%`;
     mark.setAttribute('aria-hidden', 'true');
@@ -147,8 +150,8 @@ function renderImpactDistribution(act, summary) {
     if (segment.level !== 'unrated') link.href += '&view=impact';
     const swatch = node('span', `catalogue-impact-swatch impact-${segment.level}`);
     swatch.setAttribute('aria-hidden', 'true');
-    append(link, swatch, node('span', '', `${segment.label} ${number(segment.count)}`));
-    link.setAttribute('aria-label', `Open ${plural(segment.count, 'published finding')} with ${segment.level === 'unrated' ? 'no assigned impact rating' : segment.level === 'high' ? 'high potential impact' : `${segment.label.toLowerCase()} potential impact`}`);
+    append(link, swatch, node('span', '', `${label} ${number(segment.count)}`));
+    link.setAttribute('aria-label', `Open ${plural(segment.count, 'published finding')} with ${label.toLowerCase()}`);
     append(legend, append(node('li'), link));
   });
   return append(wrapper, bar, legend);

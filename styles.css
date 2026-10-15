@@ -138,21 +138,30 @@ summary {
   display: none;
 }
 .act-picker > summary {
-  max-width: min(45vw, 420px);
-  overflow: hidden;
-  text-overflow: ellipsis;
+  display: inline-flex;
+  align-items: center;
+  gap: 11px;
+  max-width: 100%;
+  min-height: 34px;
+  padding: 7px 11px;
+  border: 1px solid #c3c7c8;
+  border-radius: 4px;
+  background: var(--paper);
   font-weight: 600;
   font-size: 12px;
+  line-height: 1.25;
+}
+.act-picker > summary:hover,
+.act-picker[open] > summary {
+  border-color: var(--muted);
 }
 .act-picker > summary::after {
   content: '';
-  display: inline-block;
+  flex: none;
   width: 7px;
   height: 7px;
-  margin-left: 9px;
   border: solid currentColor;
   border-width: 0 1.5px 1.5px 0;
-  vertical-align: 0.15em;
   color: var(--muted);
   transform: rotate(45deg);
 }
@@ -169,7 +178,8 @@ summary {
   box-shadow: 0 10px 24px #2c303424;
 }
 .act-picker-menu {
-  left: -8px;
+  top: calc(100% + 6px);
+  left: 0;
   width: 325px;
   max-width: calc(100vw - 24px);
   max-height: min(70dvh, 550px);

@@ -111,6 +111,8 @@ Accepted candidates from a batch whose coverage review has not completed remain 
 
 Display `high` as **High potential impact**, `moderate` as **Moderate**, and `limited` as **Limited**. Display assigned `provisional` levels using the same level labels, with **Provisional AI assessment** identifying their status. Confidence is confidence in the proposed legal effect and is separate from impact size. Assignment coverage and rating coverage are different: unranked assessments contribute to the former only. A `needs_review` proposal has `impact_level: null` and displays **Impact under review** in the issue index. A finding without an assigned level appears under **No impact rating yet**, including when a needs-review explanation exists. That is a derived filter state, not a fourth `impact_level`. Never infer `limited` from a missing level or `high` from the finding's `substantial` publication threshold.
 
+The catalogue bar omits a separate impact heading and uses **High impact**, **Moderate impact**, **Low impact**, and **No rating yet** in its legend. **Low impact** maps to the existing `limited` level; it does not change the assessment or stored rubric. The reader retains the full labels above, and a missing rating remains separate from every assigned level.
+
 Each object describes one legal issue, which may link several language-specific findings and several English-quote display groups. A display group may also contain different issues. The reader must join by original finding ID, never infer family membership from a shared English quote. A finding can belong to at most one published family. Partial acts may contain proposals without implying complete act-wide impact coverage.
 
 | Field | Type | Meaning |
