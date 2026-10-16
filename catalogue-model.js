@@ -59,6 +59,10 @@ const introductions = {
   '32022R2065': {
     title: 'Digital Services Act',
     description: 'Sets liability, due diligence and enforcement rules for online intermediary services.'
+  },
+  '32024R1689': {
+    title: 'AI Act',
+    description: 'Regulates AI systems and general-purpose AI models, bans certain practices and sets safeguards for high-risk uses.'
   }
 };
 
