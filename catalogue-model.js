@@ -1,5 +1,5 @@
 /** Front-page summaries of the checked public snapshot. No research state is inferred. */
-import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel } from './model.js?v=5';
+import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel, targetReviewCoverage } from './model.js?v=5';
 
 // Editorial introductions to the existing acts, based on their preserved official
 // titles and scope provisions. Source metadata and legal wording stay unchanged.
@@ -145,13 +145,10 @@ export function actSummary(act) {
     reviewed === total && coverage.reviewed_languages === coverage.total_languages &&
     !(act.failed_languages || []).length &&
     !(act.languages || []).some(language => language.coverage_incomplete);
-  const reviewLabel = fullyReviewed ? 'Review complete' : {
-    complete: 'Review incomplete',
-    partial: 'Partially reviewed',
-    analyzing: 'Review ongoing',
-    failed: 'Review interrupted',
-    imported: 'Sources available'
-  }[act.status] || 'Review incomplete';
+  // Count fully compared target versions; English is the common reference.
+  // This is saved coverage, not an indication that a review is running now.
+  const targets = targetReviewCoverage(act);
+  const reviewLabel = `${targets.reviewed} of ${targets.total} languages reviewed · ${fullyReviewed ? 'Complete' : 'Incomplete'}`;
   const severities = new Map();
   for (const finding of findings) {
     const severity = finding.severity || 'unspecified';
@@ -164,21 +161,12 @@ export function actSummary(act) {
   families.filter(family => family.impact_level).forEach(family => impact[family.impact_level]++);
   const reviewingCount = families.filter(family => !family.impact_level).length;
   const reassessmentCount = families.filter(family => family.rating_status === 'needs_reassessment').length;
-  // A rounded value must never turn unfinished coverage into a 100% label.
-  const percentage = total > 0
-    ? Math.min(reviewed < total ? 99.9 : 100, Math.round(reviewed / total * 1000) / 10)
-    : null;
   return {
     count: findings.length,
     severities: [...severities].map(([level, count]) => ({ level, count })),
     languages: substantialLanguageIndex(act),
     fullyReviewed,
     reviewLabel,
-    reviewed,
-    total,
-    percentage,
-    reviewedLanguages: coverage.reviewed_languages || 0,
-    totalLanguages: coverage.total_languages || 0,
     impact,
     distribution,
     impactCount: families.length,

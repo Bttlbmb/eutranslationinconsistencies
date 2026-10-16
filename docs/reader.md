@@ -1,6 +1,8 @@
 # Reading the findings
 
-Start with a law in the collection. Its card tells you which source version was reviewed, how much of the comparison is complete, and how many findings have an impact assessment. These are different measures. A review can be complete without finding a difference, and a published finding can still lack an impact rating.
+Start with a law in the collection. Its card tells you which source version was reviewed, how many languages were reviewed, whether the check is complete, and how many findings have an impact assessment. These are different measures. A review can be complete without finding a difference, and a published finding can still lack an impact rating.
+
+The language count includes only non-English versions fully compared with English. Partly checked versions and failed source retrievals remain in the total but do not count as reviewed. Incomplete describes the saved coverage; it does not mean work is currently running. Review and sources gives the details.
 
 Open the law to see its English text beside a list of findings. Select highlighted wording or an item in the list to compare the language versions. Each comparison preserves the original quotation, its English translation and the explanation of the possible difference in meaning. English provides a common reference; it has no higher authority than the other official versions.
 

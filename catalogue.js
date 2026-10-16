@@ -3,7 +3,7 @@ import { catalogueLegislation } from './model.js?v=5';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
   englishWordCount, overallLanguageSummary
-} from './catalogue-model.js?v=6';
+} from './catalogue-model.js?v=7';
 import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=5';
 
 const $ = selector => document.querySelector(selector);
@@ -97,13 +97,8 @@ function languageDetails(act, summary) {
 }
 
 function reviewStatus(act, summary) {
-  const label = act.status === 'partial' && summary.percentage !== null
-    ? `Review in progress · ${number(summary.percentage)}% of comparisons checked`
-    : summary.reviewLabel;
-  const status = node('span', 'catalogue-status', label);
-  if (act.status === 'partial' && summary.percentage !== null) {
-    status.title = `${number(summary.reviewed)} of ${number(summary.total)} planned comparisons checked. Each checks one English passage against one other language version.`;
-  }
+  const status = node('span', 'catalogue-status', summary.reviewLabel);
+  status.title = 'Counts non-English language versions fully compared with English. Completion applies to the selected text version and source scope; incomplete does not mean a review is running.';
   const state = summary.fullyReviewed ? 'complete' : act.status === 'complete' ? 'partial' : act.status;
   status.classList.add(`catalogue-status-${state}`);
   return status;

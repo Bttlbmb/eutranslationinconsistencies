@@ -31,7 +31,7 @@ import {
   renderSourceVersion,
   renderSourceScope
 } from './view.js?v=5';
-import { actIntroduction, actSummary } from './catalogue-model.js?v=6';
+import { actIntroduction, actSummary } from './catalogue-model.js?v=7';
 
 const $ = (selector) => document.querySelector(selector);
 const state = {
@@ -394,10 +394,8 @@ function renderAct() {
     renderSourceVersion(act, 'document-meta'),
     renderSourceScope(act)
   );
-  const reviewLabel = act.status === 'partial' && summary.percentage !== null
-    ? `Review in progress · ${summary.percentage}% of comparisons checked` : summary.reviewLabel;
-  const reviewStatus = node('span', `document-review-state status-${summary.fullyReviewed ? 'complete' : act.status === 'complete' ? 'partial' : act.status}`, reviewLabel);
-  reviewStatus.title = 'Completion applies to this text version and available source scope. Each comparison checks one English passage against one other language version.';
+  const reviewStatus = node('span', `document-review-state status-${summary.fullyReviewed ? 'complete' : act.status === 'complete' ? 'partial' : act.status}`, summary.reviewLabel);
+  reviewStatus.title = 'Counts non-English language versions fully compared with English. Completion applies to the selected text version and source scope; incomplete does not mean a review is running.';
   append(heading, identity, reviewStatus);
   renderToolbar();
   renderReader();

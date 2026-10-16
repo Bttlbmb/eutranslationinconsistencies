@@ -133,14 +133,11 @@ test('overlapping invalid issue assignments cannot double count or choose a rati
   assert.equal(actSummary(data).assessedCount, 0);
 });
 
-test('unfinished and interrupted review states remain explicit with zero findings', () => {
-  for (const [status, label] of [
-    ['imported', 'Sources available'], ['analyzing', 'Review ongoing'],
-    ['partial', 'Partially reviewed'], ['failed', 'Review interrupted']
-  ]) {
+test('unfinished and interrupted reviews remain incomplete with zero findings', () => {
+  for (const status of ['imported', 'analyzing', 'partial', 'failed']) {
     const summary = actSummary({ ...act, status, findings: [] });
     assert.equal(summary.count, 0);
-    assert.equal(summary.reviewLabel, label);
+    assert.equal(summary.reviewLabel, '0 of 1 languages reviewed · Incomplete');
     assert.equal(summary.fullyReviewed, false);
   }
 });
@@ -149,16 +146,19 @@ test('complete review requires reconciled coverage and intact source expressions
   const complete = { ...act, status: 'complete', findings: [],
     coverage: { reviewed_units: 10, total_units: 10, reviewed_languages: 2, total_languages: 2 }
   };
-  assert.equal(actSummary(complete).reviewLabel, 'Review complete');
+  assert.equal(actSummary(complete).reviewLabel, '1 of 1 languages reviewed · Complete');
   assert.equal(actSummary({ ...complete, coverage: act.coverage }).fullyReviewed, false);
   assert.equal(actSummary({ ...complete, coverage: {} }).fullyReviewed, false);
   assert.equal(actSummary({ ...complete, failed_languages: [{ code: 'fr' }] }).fullyReviewed, false);
   assert.equal(actSummary({ ...complete, languages: [{ code: 'de', coverage_incomplete: true }] }).fullyReviewed, false);
 });
 
-test('rounding cannot label unfinished comparison coverage as 100 percent', () => {
-  assert.equal(actSummary({ ...act, coverage: { ...act.coverage, reviewed_units: 19999, total_units: 20000 } }).percentage, 99.9);
-  assert.equal(actSummary({ ...act, coverage: { ...act.coverage, reviewed_units: 0, total_units: 0 } }).percentage, null);
+test('review counts exclude English and retain failed sources in the target total', () => {
+  const summary = actSummary({ ...act, failed_languages: [{ code: 'fr' }],
+    coverage: { reviewed_units: 1, total_units: 2, reviewed_languages: 2,
+      total_languages: 3, reviewed_language_codes: ['de'] }
+  });
+  assert.equal(summary.reviewLabel, '1 of 2 languages reviewed · Incomplete');
 });
 
 test('catalogue totals include all acts and only reconciled complete reviews', () => {
