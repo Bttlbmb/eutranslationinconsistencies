@@ -32,7 +32,7 @@ import {
   renderSourceVersion,
   renderSourceScope
 } from './view.js?v=9';
-import { actIntroduction, actSummary } from './catalogue-model.js?v=12';
+import { actIntroduction, actSummary } from './catalogue-model.js?v=13';
 
 const $ = (selector) => document.querySelector(selector);
 const state = {

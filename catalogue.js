@@ -5,7 +5,7 @@ import {
   englishWordCount, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd,
   estimatedProcessingCost, collectionEstimatedProcessingCost, formatEstimatedUsd,
   sortOptions, parseSort, sortParam, sortActs
-} from './catalogue-model.js?v=12';
+} from './catalogue-model.js?v=13';
 import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=9';
 
 const $ = selector => document.querySelector(selector);
