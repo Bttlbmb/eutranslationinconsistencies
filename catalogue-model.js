@@ -1,5 +1,5 @@
 /** Front-page summaries of the checked public snapshot. No research state is inferred. */
-import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel, targetReviewCoverage } from './model.js?v=7';
+import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel, targetReviewCoverage } from './model.js?v=8';
 
 // Editorial introductions to the existing acts, based on their preserved official
 // titles and scope provisions. Source metadata and legal wording stay unchanged.

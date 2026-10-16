@@ -1,11 +1,11 @@
 /** The read-only catalogue front page. Requests use only the public static snapshot. */
-import { catalogueLegislation } from './model.js?v=7';
+import { catalogueLegislation } from './model.js?v=8';
 import {
   actIntroduction, actSummary, catalogueSummary, readerHref, legacyReaderHref,
   englishWordCount, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd,
   sortOptions, parseSort, sortParam, sortActs
-} from './catalogue-model.js?v=10';
-import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=7';
+} from './catalogue-model.js?v=11';
+import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=8';
 
 const $ = selector => document.querySelector(selector);
 const number = value => new Intl.NumberFormat('en-GB').format(value);

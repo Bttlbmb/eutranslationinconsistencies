@@ -682,6 +682,11 @@ summary {
 .method-impact-scale dd {
   margin: 0;
 }
+.finding-index-more {
+  color: var(--muted);
+  font-weight: 400;
+  white-space: nowrap;
+}
 .impact-index-item {
   display: block;
   width: 100%;

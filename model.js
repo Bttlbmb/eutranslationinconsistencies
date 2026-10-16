@@ -198,8 +198,10 @@ export function groupedFindings(act) {
   }
   const passageOrder = new Map((act?.passages || []).map((passage, index) => [passage.id, index]));
   return [...groups.values()].map(group => {
+    // A shared quote is named by its first language finding, as written; the
+    // list shows how many further findings the group holds.
     if (group.aliases.length > 1 || new Set(group.variants.map(variant => variant.language)).size > 1)
-      group.title = sharedQuoteTitle(act, group);
+      group.title = group.titles.find(Boolean) || sharedQuoteTitle(act, group);
     return group;
   }).sort(
     (a, b) => passageOrder.get(a.passage_id) - passageOrder.get(b.passage_id)
@@ -216,6 +218,14 @@ export function focusedFindingTitle(finding, language = null) {
   if (titles.length === 1) return titles[0];
   if (titles.length > 1) return `${titles.length} differences in meaning in this language`;
   return finding.title;
+}
+
+/** Further published findings in a group beyond the one naming it. */
+export function additionalFindingCount(group, language = null) {
+  const ids = new Set(group.variants
+    .filter((variant) => !language || variant.language === language)
+    .map((variant) => variant.finding_id || group.id));
+  return Math.max(0, ids.size - 1);
 }
 
 /** Count display groups and distinct published records within a language focus. */

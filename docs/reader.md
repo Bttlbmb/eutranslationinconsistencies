@@ -10,7 +10,7 @@ Open the law to see its English text beside a list of findings. Select highlight
 
 Language and impact filters work together. The language menu lists versions with matching findings. Major and Limited select assigned binary assessments; No impact rating yet includes findings without an assigned level. This last category can include an unresolved assessment and does not imply a limited effect.
 
-The list groups records that share an English passage and quotation. Its heading counts both, for example “24 differences in meaning at 13 places in the text”: language counts still count the original finding records, and each place is one shared English quotation. The arrows move between those places. Copy link preserves the selected comparison and filters.
+The list groups records that share an English passage and quotation. Its heading counts both, for example “24 differences in meaning at 13 places in the text”: language counts still count the original finding records, and each place is one shared English quotation. A place where several languages differ is listed under its first language finding's title, with “+N more” for the other findings there. The arrows move between those places. Copy link preserves the selected comparison and filters.
 
 Text order follows the source. Potential impact opens an issue-level view, where one issue can link several language-specific findings. A single note states that ratings are provisional AI assessments; an issue in any other state keeps its own label. A rating describes a possible change in legal outcome if a reading prevails, with its confidence and uncertainty shown separately. Earlier three-tier assessments retain their explanations as awaiting reassessment.
 

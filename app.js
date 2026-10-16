@@ -7,6 +7,7 @@ import {
   groupedFindings,
   focusedFindingTitle,
   findingCounts,
+  additionalFindingCount,
   comparedWording,
   impactDisplayLabel,
   impactFamilies,
@@ -17,7 +18,7 @@ import {
   overlappingFindings,
   selectedFromHash,
   selectionHash
-} from './model.js?v=7';
+} from './model.js?v=8';
 import {
   node,
   append,
@@ -30,8 +31,8 @@ import {
   explanationParagraph,
   renderSourceVersion,
   renderSourceScope
-} from './view.js?v=7';
-import { actIntroduction, actSummary } from './catalogue-model.js?v=10';
+} from './view.js?v=8';
+import { actIntroduction, actSummary } from './catalogue-model.js?v=11';
 
 const $ = (selector) => document.querySelector(selector);
 const state = {
@@ -813,13 +814,16 @@ function renderComparison() {
           ? finding.variants.filter((variant) => variant.language === state.language)
           : finding.variants;
         const title = displayedFindingTitle(finding);
+        const more = state.language ? 0 : additionalFindingCount(finding);
         const languages = [...new Set(matchingVariants.map(variant => variant.language_name || variant.language))];
         const passage = act.passages.find(passage => passage.id === finding.passage_id);
         const context = [passage?.label, languages.join(', ')].filter(Boolean).join(' · ');
         append(
           item,
           node('span', 'finding-index-number', String(index + 1).padStart(2, '0')),
-          append(node('span'), node('strong', '', title), node('small', '', context))
+          append(node('span'),
+            append(node('strong', '', title), more ? node('span', 'finding-index-more', ` +${more} more`) : null),
+            node('small', '', context))
         );
         list.append(item);
       });

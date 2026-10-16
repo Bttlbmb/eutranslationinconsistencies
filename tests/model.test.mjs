@@ -9,6 +9,7 @@ import {
   focusedFindingTitle,
   findingCounts,
   comparedWording,
+  additionalFindingCount,
   impactDisplayLabel,
   impactFamilies,
   impactFocusedFindings,
@@ -506,7 +507,7 @@ test('overlapping findings remain individually selectable across repeated wordin
   );
 });
 
-test('grouped differences keep a descriptive label and each language finding title', () => {
+test('grouped differences are named by their first finding and keep each language title', () => {
   const first = { ...act.findings[0], title: 'A different threshold' };
   const second = {
     ...act.findings[0],
@@ -515,9 +516,9 @@ test('grouped differences keep a descriptive label and each language finding tit
     variants: [{ language: 'de' }]
   };
   const group = groupedFindings({ ...act, findings: [first, second] })[0];
-  assert.ok(group.title.startsWith('“'));
-  assert.ok(group.title.includes(group.english_quote));
-  assert.ok(!group.title.includes(first.title));
+  assert.equal(group.title, first.title);
+  assert.equal(additionalFindingCount(group), 1);
+  assert.equal(additionalFindingCount(group, 'de'), 0);
   assert.deepEqual(
     group.variants.map((variant) => variant.finding_title),
     ['A different threshold', 'A narrower scope']
