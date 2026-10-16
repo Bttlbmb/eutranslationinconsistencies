@@ -228,6 +228,49 @@ export function orderedActs(acts) {
     actIntroduction(a).title.localeCompare(actIntroduction(b).title));
 }
 
+const MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august',
+  'september', 'october', 'november', 'december'];
+
+/** The act's own date from its official title ("… of 20 December 2006"), else its version date. */
+export function actDate(act) {
+  const match = (act.title || '').match(/\bof (\d{1,2}) ([A-Za-z]+) (\d{4})\b/);
+  const month = match ? MONTHS.indexOf(match[2].toLowerCase()) : -1;
+  if (month >= 0) return `${match[3]}-${String(month + 1).padStart(2, '0')}-${match[1].padStart(2, '0')}`;
+  return /^\d{4}-\d{2}-\d{2}/.test(act.version || '') ? act.version.slice(0, 10) : '';
+}
+
+export const sortOptions = Object.freeze([
+  { key: 'status', label: 'Review status' },
+  { key: 'date', label: 'Date of act', descending: 'newest first', ascending: 'oldest first' },
+  { key: 'findings', label: 'Differences', descending: 'most first', ascending: 'fewest first' }
+]);
+
+/** Read `?sort=date-desc`; anything unknown falls back to the review-status order. */
+export function parseSort(search = '') {
+  const value = new URLSearchParams(search).get('sort') || '';
+  const [key, direction] = value.split('-');
+  if (!sortOptions.some(option => option.key === key) || key === 'status') return { key: 'status', direction: 'desc' };
+  return { key, direction: direction === 'asc' ? 'asc' : 'desc' };
+}
+
+export function sortParam(sort) {
+  return sort.key === 'status' ? null : `${sort.key}-${sort.direction}`;
+}
+
+/** Review status keeps the editorial order; other sorts break ties by title. */
+export function sortActs(acts, sort = { key: 'status', direction: 'desc' }) {
+  const base = orderedActs(acts);
+  if (sort.key === 'status') return base;
+  const value = sort.key === 'date' ? actDate : act => publicFindings(act).length;
+  const sign = sort.direction === 'asc' ? 1 : -1;
+  return [...base].sort((a, b) => {
+    const left = value(a);
+    const right = value(b);
+    const order = typeof left === 'number' ? left - right : String(left).localeCompare(String(right));
+    return sign * order || actIntroduction(a).title.localeCompare(actIntroduction(b).title);
+  });
+}
+
 export function readerHref(act, language = null, impact = null) {
   const params = new URLSearchParams({ act: act.id });
   if (language) params.set('lang', language);

@@ -1,9 +1,10 @@
 /** The read-only catalogue front page. Requests use only the public static snapshot. */
 import { catalogueLegislation } from './model.js?v=7';
 import {
-  actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
-  englishWordCount, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd
-} from './catalogue-model.js?v=9';
+  actIntroduction, actSummary, catalogueSummary, readerHref, legacyReaderHref,
+  englishWordCount, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd,
+  sortOptions, parseSort, sortParam, sortActs
+} from './catalogue-model.js?v=10';
 import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=7';
 
 const $ = selector => document.querySelector(selector);
@@ -180,6 +181,51 @@ function renderAct(act) {
   return append(row, identity, facts);
 }
 
+// Cards are rendered once and only reordered, so open disclosures survive a sort.
+const renderedActs = new Map();
+let collection = [];
+
+function sortLabel(option, sort) {
+  if (option.key !== sort.key || option.key === 'status') return option.label;
+  return `${option.label} ${sort.direction === 'asc' ? '↑' : '↓'}`;
+}
+
+function showSorted() {
+  const sort = parseSort(location.search);
+  $('#catalogue-list').replaceChildren(...sortActs(collection, sort).map(act => renderedActs.get(act.id)));
+  for (const control of document.querySelectorAll('#catalogue-sort button')) {
+    const option = sortOptions.find(item => item.key === control.dataset.sort);
+    const active = option.key === sort.key;
+    control.textContent = sortLabel(option, sort);
+    control.setAttribute('aria-pressed', String(active));
+    control.setAttribute('aria-label', active && option.key !== 'status'
+      ? `${option.label}, ${sort.direction === 'asc' ? option.ascending : option.descending}. Select to reverse.`
+      : option.label);
+  }
+}
+
+function renderSortControl() {
+  const host = $('#catalogue-sort');
+  host.replaceChildren(node('span', 'catalogue-sort-label', 'Sort by'));
+  for (const option of sortOptions) {
+    const control = button(option.label, 'catalogue-sort-option', () => {
+      const current = parseSort(location.search);
+      const next = option.key === current.key
+        ? { key: option.key, direction: current.direction === 'desc' ? 'asc' : 'desc' }
+        : { key: option.key, direction: 'desc' };
+      const url = new URL(location.href);
+      const value = sortParam(next);
+      if (value) url.searchParams.set('sort', value);
+      else url.searchParams.delete('sort');
+      history.replaceState(null, '', url);
+      showSorted();
+    });
+    control.dataset.sort = option.key;
+    host.append(control);
+  }
+  host.hidden = collection.length < 2;
+}
+
 async function loadCatalogue() {
   const list = $('#catalogue-list');
   list.setAttribute('aria-busy', 'true');
@@ -193,12 +239,17 @@ async function loadCatalogue() {
     const totalCost = collectionProcessingCost(acts);
     $('#catalogue-total').textContent = `${plural(summary.acts, 'act')} · ${number(summary.findings)} differences in meaning · ${plural(summary.complete, 'complete review')}${totalCost === null ? '' : ` · ${formatUsd(totalCost)} AI processing`}`;
     $('#catalogue-date').textContent = catalogue.generated_at ? `Website data exported ${prettyDate(catalogue.generated_at)}` : '';
-    list.replaceChildren(...orderedActs(acts).map(act => renderAct(act)));
+    collection = acts;
+    renderedActs.clear();
+    acts.forEach(act => renderedActs.set(act.id, renderAct(act)));
+    renderSortControl();
+    showSorted();
     if (!acts.length) append(list, append(node('div', 'catalogue-empty'),
       node('h2', '', 'No legislation yet'),
       node('p', '', 'Source texts and reviewed findings will appear here when available.')));
   } catch {
     $('#catalogue-overall').hidden = true;
+    $('#catalogue-sort').hidden = true;
     $('#catalogue-total').textContent = 'Collection unavailable';
     $('#catalogue-date').textContent = '';
     list.replaceChildren(append(node('div', 'catalogue-empty'),

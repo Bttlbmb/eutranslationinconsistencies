@@ -55,7 +55,7 @@ The format has no quote offset. When quoted wording repeats, all exact non-overl
 
 For interface changes, exercise the real snapshot in a browser on desktop and narrow screens:
 
-- Choose different acts; search the collection.
+- Choose different acts; search the collection; sort it by each option in both directions and reload with the `?sort=` address.
 - Follow a highlight, switch overlapping findings, and inspect grouped language cards.
 - Switch between Text order and Potential impact; inspect rating labels, unranked issues, confidence notes, and related evidence locations. An empty impact index must not imply low impact.
 - Check that changed wording appears as continuous shaded runs in both the official English and its AI translation, each language row carries its own rating, Major badges stay the strongest mark, and accent blue appears only on links and controls.

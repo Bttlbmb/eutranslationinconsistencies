@@ -2,7 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
-  impactDistribution, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd
+  impactDistribution, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd,
+  actDate, parseSort, sortParam, sortActs
 } from '../catalogue-model.js';
 
 // Synthetic evidence is confined to tests and never enters the public catalogue.
@@ -271,4 +272,37 @@ test('AI processing cost sums only acts with a metered ledger', () => {
   assert.equal(processingCost(acts[2]), null);
   assert.equal(formatUsd(collectionProcessingCost(acts)), '$3.53');
   assert.equal(collectionProcessingCost([{}]), null);
+});
+
+test('act date comes from the official title, then the version date', () => {
+  assert.equal(actDate({ title: 'REGULATION (EC) No 1924/2006 of 20 December 2006 on claims', version: '2014-12-13' }), '2006-12-20');
+  assert.equal(actDate({ title: 'Untitled act', version: '2019-02-28' }), '2019-02-28');
+  assert.equal(actDate({ title: 'Untitled act' }), '');
+});
+
+test('sort parameters fall back to review status and round-trip', () => {
+  assert.deepEqual(parseSort(''), { key: 'status', direction: 'desc' });
+  assert.deepEqual(parseSort('?sort=unknown-asc'), { key: 'status', direction: 'desc' });
+  assert.deepEqual(parseSort('?sort=date-asc'), { key: 'date', direction: 'asc' });
+  assert.deepEqual(parseSort('?sort=findings'), { key: 'findings', direction: 'desc' });
+  assert.equal(sortParam({ key: 'status', direction: 'desc' }), null);
+  assert.equal(sortParam(parseSort('?sort=findings-asc')), 'findings-asc');
+});
+
+test('acts sort by date or differences, with title as the tie-break', () => {
+  const act = (id, title, count) => ({
+    id, title, short_title: id, status: 'partial', coverage: {}, languages: [],
+    passages: [{ id: 'p', text: 'A test quote from a synthetic fixture.' }],
+    findings: Array.from({ length: count }, (_, index) => finding(`${id}-${index}`))
+  });
+  const acts = [
+    act('B', 'Regulation B of 1 March 2010', 2),
+    act('A', 'Regulation A of 5 May 2020', 2),
+    act('C', 'Regulation C of 9 January 2001', 5)
+  ];
+  const ids = sort => sortActs(acts, sort).map(item => item.id);
+  assert.deepEqual(ids({ key: 'date', direction: 'desc' }), ['A', 'B', 'C']);
+  assert.deepEqual(ids({ key: 'date', direction: 'asc' }), ['C', 'B', 'A']);
+  assert.deepEqual(ids({ key: 'findings', direction: 'desc' }), ['C', 'A', 'B']);
+  assert.deepEqual(ids({ key: 'findings', direction: 'asc' }).slice(0, 2), ['A', 'B']);
 });

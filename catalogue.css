@@ -56,6 +56,11 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .catalogue-overall-ranking { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 0 18px; margin: 10px 0; padding: 0; list-style: none; font-size: 12px; }
 .catalogue-overall-ranking li { display: flex; justify-content: space-between; gap: 8px; padding: 4px 0; border-bottom: 1px solid var(--line); }
 .catalogue-overall-ranking strong { font-weight: 500; font-variant-numeric: tabular-nums; }
+.catalogue-sort { display: flex; align-items: baseline; flex-wrap: wrap; gap: 6px 16px; padding-top: 14px; color: var(--muted); font-size: 12px; }
+.catalogue-sort-option { border: 0; background: none; padding: 2px 0; color: var(--accent); font-size: 12px; }
+.catalogue-sort-option:hover { text-decoration: underline; text-underline-offset: 3px; }
+.catalogue-sort-option[aria-pressed="true"] { color: var(--ink); font-weight: 600; }
+.catalogue-sort:not([hidden]) + #catalogue-list > .catalogue-act:first-child { padding-top: 16px; }
 .catalogue-act { display: grid; grid-template-columns: minmax(0, 1fr) 350px; gap: 40px; padding: 22px 0; border-bottom: 1px solid var(--line); }
 .catalogue-act:last-child { border-bottom: 0; }
 .catalogue-identity, .catalogue-facts { min-width: 0; }
@@ -138,7 +143,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   .catalogue-footer { padding-inline: 18px; }
 }
 @media (pointer: coarse) {
-  .catalogue-overall-compare, .catalogue-overall-close { min-height: 44px; }
+  .catalogue-overall-compare, .catalogue-overall-close, .catalogue-sort-option { min-height: 44px; }
   .catalogue-read-link, .catalogue-dialog-close, .catalogue-retry, .catalogue-impact-key,
   .catalogue-languages > summary, .catalogue-language-link { min-height: 44px; display: flex; align-items: center; }
 }
