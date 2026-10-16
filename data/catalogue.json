@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-16T21:53:55.127015Z",
+  "generated_at": "2026-10-16T22:48:03.409272Z",
   "legislation": [
     {
       "id": "31997R1103",
@@ -45372,10 +45372,11 @@
       "failed_languages": [],
       "coverage": {
         "total_units": 3703,
-        "reviewed_units": 3307,
+        "reviewed_units": 3542,
         "total_languages": 24,
-        "reviewed_languages": 21,
+        "reviewed_languages": 23,
         "reviewed_language_codes": [
+          "bg",
           "cs",
           "da",
           "de",
@@ -45390,6 +45391,7 @@
           "lt",
           "lv",
           "mt",
+          "nl",
           "pl",
           "pt",
           "ro",
@@ -46505,6 +46507,34 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-16T07:30:24.648750+00:00"
+          }
+        },
+        {
+          "id": "codex-a51d2b2546299347c6e0f14ce5a8",
+          "passage_id": "p0066",
+          "english_quote": "The mandate shall empower the authorised representative to be addressed, in addition to or instead of the provider, by the AI Office or the competent authorities, on all issues related to ensuring compliance with this Regulation.",
+          "title": "The representative’s mandate additionally covers affected persons",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For providers subject to Article 54, Bulgarian requires the representative’s mandate to cover dealings with affected persons on compliance matters. English names the AI Office and competent authorities. The addition could require a broader mandate, without itself establishing a general disclosure right or transferring the provider’s liability.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "Пълномощното дава право на упълномощения представител да отговаря, наред или вместо доставчика, пред Службата по ИИ или компетентните органи и засегнатите лица по всички въпроси, свързани с осигуряването на съответствие с настоящия регламент.",
+              "translation": "The mandate empowers the authorised representative to answer, alongside or instead of the provider, to the AI Office or the competent authorities and affected persons on all matters relating to ensuring compliance with this Regulation.",
+              "explanation": "For providers subject to Article 54, Bulgarian requires the representative’s mandate to cover dealings with affected persons on compliance matters. English names the AI Office and competent authorities. The addition could require a broader mandate, without itself establishing a general disclosure right or transferring the provider’s liability.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T15:31:44.760574+00:00"
           }
         },
         {
@@ -49249,6 +49279,62 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-16T19:46:01.866207+00:00"
+          }
+        },
+        {
+          "id": "codex-d6c26c629485413f49303a3dd009",
+          "passage_id": "p0063",
+          "english_quote": "Such a request shall contain objective, detailed and new reasons that have arisen since the designation decision.",
+          "title": "Newly discovered reasons may broaden access to systemic-risk reassessment",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 52(5) in Dutch could admit a reassessment request based on a pre-existing circumstance discovered after designation. A stricter English reading could require the reason itself to arise afterward. Neither version guarantees reassessment or removal of the designation.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "Een dergelijk verzoek moet objectieve, gedetailleerde en nieuwe redenen bevatten die na het aanwijzingsbesluit aan het licht zijn gekomen.",
+              "translation": "Such a request must contain objective, detailed and new reasons that have come to light after the designation decision.",
+              "explanation": "Article 52(5) in Dutch could admit a reassessment request based on a pre-existing circumstance discovered after designation. A stricter English reading could require the reason itself to arise afterward. Neither version guarantees reassessment or removal of the designation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T18:15:12.745608+00:00"
+          }
+        },
+        {
+          "id": "codex-2c06730f0954a14ed4760d1a130e",
+          "passage_id": "p0100",
+          "english_quote": "(c) to submit to an inspection ordered by a decision pursuant to Article 75a(4);",
+          "title": "Narrower Dutch ground for inspection-related periodic penalties",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English includes ordered remote inspections within this ground for periodic penalty payments; Dutch expressly mentions only on-site inspections. If no other ground applies, the Dutch reading could prevent a direct periodic-payment order for refusing a remote inspection. Other enforcement powers remain available.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "c) zich aan een bij een besluit op grond van artikel 75 bis, lid 4, gelaste inspectie ter plaatse te onderwerpen;",
+              "translation": "c) to submit to an on-site inspection ordered by a decision under Article 75a(4);",
+              "explanation": "English includes ordered remote inspections within this ground for periodic penalty payments; Dutch expressly mentions only on-site inspections. If no other ground applies, the Dutch reading could prevent a direct periodic-payment order for refusing a remote inspection. Other enforcement powers remain available.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T18:27:37.550146+00:00"
           }
         },
         {
@@ -53589,6 +53675,314 @@
               "gpt-6-astra"
             ],
             "reviewed_at": "2026-10-16T21:30:45.600825+00:00"
+          }
+        },
+        {
+          "id": "codex-8019c5cc175b303d736a831b8e69",
+          "passage_id": "p0057",
+          "english_quote": "For high-risk AI systems provided digitally, a digital CE marking shall be used, only if it can easily be accessed via the interface from which that system is accessed or via an easily accessible machine-readable code or other electronic means.",
+          "title": "Digital CE-marking scope depends on system character rather than supply",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English applies Article 48(2) to systems provided digitally; Bulgarian applies it to systems that are only digital. If a digitally supplied system includes physical components within its system boundary, the Bulgarian reading could exclude it from the digital-marking requirement. General CE-marking duties would remain.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "За високорискови системи с ИИ, които са само цифрови, се използва цифрова маркировка „СЕ“ само ако тя е лесно достъпна чрез интерфейса, от който се осъществява достъпът до тази система, или чрез лесно достъпен машинночетим код или друго електронно средство.",
+              "translation": "For high-risk AI systems that are only digital, a digital CE marking shall be used only if it is easily accessible through the interface from which that system is accessed, or through an easily accessible machine-readable code or other electronic means.",
+              "explanation": "English applies Article 48(2) to systems provided digitally; Bulgarian applies it to systems that are only digital. If a digitally supplied system includes physical components within its system boundary, the Bulgarian reading could exclude it from the digital-marking requirement. General CE-marking duties would remain.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T15:24:44.187015+00:00"
+          }
+        },
+        {
+          "id": "codex-814ab3abf020343f1352a88815b7",
+          "passage_id": "p0066",
+          "english_quote": "released under a free and open-source licence that allows for the access, usage, modification, and distribution of the model",
+          "title": "A free-of-charge licence may be required for the representative exemption",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For an otherwise qualifying general-purpose AI model without systemic risks, Bulgarian could make a licence fee disqualify a third-country provider from the Article 54 representative exemption. English can accommodate a fee where the licence grants the specified freedoms. Public availability of the required model parameters remains necessary.",
+          "variants": [
+            {
+              "language": "bg",
+              "language_name": "Bulgarian",
+              "quote": "предоставени с безплатен лиценз с отворен код, който позволява достъп, използване, изменение и разпространение на модела",
+              "translation": "provided under a free-of-charge open-source licence that permits access, use, modification and distribution of the model",
+              "explanation": "For an otherwise qualifying general-purpose AI model without systemic risks, Bulgarian could make a licence fee disqualify a third-country provider from the Article 54 representative exemption. English can accommodate a fee where the licence grants the specified freedoms. Public availability of the required model parameters remains necessary.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/BG/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T15:31:44.760574+00:00"
+          }
+        },
+        {
+          "id": "codex-78e9934bd40d3d693e7800f54ef4",
+          "passage_id": "p0029",
+          "english_quote": "1. Prior to making their high-risk AI systems available on the Union market, providers established in third countries shall, by written mandate, appoint an authorised representative which is established in the Union.",
+          "title": "Different market triggers for appointing an authorised representative",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English requires appointment before making systems available on the Union market; Dutch ties appointment to first placement on that market. If a representative’s mandate ends, the Dutch wording could support a narrower replacement obligation before subsequent supply of the same already-placed system. Continuing representative duties and Article 83 strongly support harmonizing the provisions, so this is a potential difference in legal effect, not an established exemption.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "1. Aanbieders die in derde landen zijn gevestigd, wijzen voordat zij hun AI-systemen met een hoog risico in de Unie in de handel brengen, middels een schriftelijke machtiging een gemachtigde aan die is gevestigd in de Unie.",
+              "translation": "1. Providers established in third countries shall, before placing their high-risk AI systems on the market in the Union, appoint, by written mandate, an authorised representative established in the Union.",
+              "explanation": "English requires appointment before making systems available on the Union market; Dutch ties appointment to first placement on that market. If a representative’s mandate ends, the Dutch wording could support a narrower replacement obligation before subsequent supply of the same already-placed system. Continuing representative duties and Article 83 strongly support harmonizing the provisions, so this is a potential difference in legal effect, not an established exemption.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T17:40:23.016549+00:00"
+          }
+        },
+        {
+          "id": "codex-58dbacc0020322340c229fb4973c",
+          "passage_id": "p0039",
+          "english_quote": "Notified bodies shall be independent of the provider of a high-risk AI system in relation to which they perform conformity assessment activities.",
+          "title": "Provider independence may extend beyond systems assessed by the notified body",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 31(4) connects provider independence to systems assessed by the notified body. Dutch connects it to assessments performed by the provider, potentially extending the requirement to providers whose systems the body does not assess. The surrounding impartiality rules support a narrower, harmonized interpretation.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "Aangemelde instanties zijn onafhankelijk van de aanbieder van een AI-systeem met een hoog risico met betrekking waartoe de aanbieder conformiteitsbeoordelingsactiviteiten verricht.",
+              "translation": "Notified bodies shall be independent of the provider of a high-risk AI system in relation to which the provider performs conformity assessment activities.",
+              "explanation": "English Article 31(4) connects provider independence to systems assessed by the notified body. Dutch connects it to assessments performed by the provider, potentially extending the requirement to providers whose systems the body does not assess. The surrounding impartiality rules support a narrower, harmonized interpretation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T18:04:39.374326+00:00"
+          }
+        },
+        {
+          "id": "codex-6af7bc5c70b5b480935d527694b4",
+          "passage_id": "p0060",
+          "english_quote": "This obligation shall not apply to the extent the AI systems perform an assistive function for standard editing or do not substantially alter the input data provided by the deployer or the semantics thereof, or where authorised by law to detect, prevent, investigate or prosecute criminal offences.",
+          "title": "Dutch wording may widen the exception from synthetic-output marking",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 50(2) expressly tests substantial alteration of both input data and its meaning. Dutch places the reference to meaning inside the phrase identifying the supplier of input data. A literal reading could therefore exempt a small data edit that substantially changes meaning, although contextual interpretation strongly supports retaining the meaning-based test.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "Deze verplichting is niet van toepassing voor zover de AI-systemen een ondersteunende functie voor standaardbewerking vervullen of de door de gebruiksverantwoordelijke of de semantiek daarvan verstrekte inputdata niet substantieel wijzigen, of wanneer het bij wet is toegestaan strafbare feiten op te sporen, te voorkomen, te onderzoeken of te vervolgen.",
+              "translation": "This obligation does not apply insofar as the AI systems perform an assistive function for standard editing or do not substantially modify the input data supplied by the deployer or by the semantics thereof, or when detecting, preventing, investigating or prosecuting criminal offences is permitted by law.",
+              "explanation": "English Article 50(2) expressly tests substantial alteration of both input data and its meaning. Dutch places the reference to meaning inside the phrase identifying the supplier of input data. A literal reading could therefore exempt a small data edit that substantially changes meaning, although contextual interpretation strongly supports retaining the meaning-based test.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T18:15:12.745608+00:00"
+          }
+        },
+        {
+          "id": "codex-ee458c51452d84e2dca3ebe157f7",
+          "passage_id": "p0082",
+          "english_quote": "The standing sub-group for market surveillance should act as the administrative cooperation group (ADCO) for this Regulation within the meaning of Article 30 of Regulation (EU) 2019/1020.",
+          "title": "Different obligatory force for the market-surveillance subgroup’s ADCO role",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 65(6) uses “should” in English and “must” in Dutch for the subgroup’s ADCO role. If English permits treating that assignment as a recommendation, Dutch would require its performance. The mandatory establishment of the subgroup and the shared legal reference also support interpreting both versions alike.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "De permanente subgroep voor markttoezicht moet fungeren als de administratieve-samenwerkingsgroep (ADCO) voor deze verordening in de zin van artikel 30 van Verordening (EU) 2019/1020.",
+              "translation": "The standing subgroup for market surveillance must act as the administrative cooperation group (ADCO) for this Regulation within the meaning of Article 30 of Regulation (EU) 2019/1020.",
+              "explanation": "Article 65(6) uses “should” in English and “must” in Dutch for the subgroup’s ADCO role. If English permits treating that assignment as a recommendation, Dutch would require its performance. The mandatory establishment of the subgroup and the shared legal reference also support interpreting both versions alike.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T18:22:53.008680+00:00"
+          }
+        },
+        {
+          "id": "codex-f50affa1181b279e59ed09f0a84c",
+          "passage_id": "p0096",
+          "english_quote": "should report, without delay, to the European Central Bank any information identified in the course of their market surveillance activities that may be of potential interest for the prudential supervisory tasks of the European Central Bank specified in that Regulation.",
+          "title": "Stronger wording for reporting information to the ECB",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "For national market surveillance authorities supervising the specified credit institutions participating in the Single Supervisory Mechanism, Dutch expressly requires prompt reporting to the ECB. English uses less categorical wording, potentially leaving transmission as a recommendation.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "moeten onverwijld bij de Europese Centrale Bank alle informatie melden die zij bij hun markttoezichtactiviteiten hebben verkregen en die potentieel van belang kan zijn voor de in die verordening nader bepaalde prudentiële-toezichtstaken van de Europese Centrale Bank.",
+              "translation": "must report without delay to the European Central Bank all information that they have obtained during their market surveillance activities and that may potentially be relevant to the European Central Bank’s prudential supervisory tasks specified in that Regulation.",
+              "explanation": "For national market surveillance authorities supervising the specified credit institutions participating in the Single Supervisory Mechanism, Dutch expressly requires prompt reporting to the ECB. English uses less categorical wording, potentially leaving transmission as a recommendation.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T18:27:37.550146+00:00"
+          }
+        },
+        {
+          "id": "codex-abf3dbc79a7b605e86084678dee8",
+          "passage_id": "p0090",
+          "english_quote": "The information should be easily navigable and machine-readable.",
+          "title": "Stronger requirements for database information formats",
+          "category": "obligation",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Dutch expressly requires searchable, machine-readable database information, while English uses less categorical wording. The Dutch reading could require machine-readable information even where a user-friendly interface already provides public access.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "De informatie moet gemakkelijk te doorzoeken en machineleesbaar zijn.",
+              "translation": "The information must be easily searchable and machine-readable.",
+              "explanation": "Dutch expressly requires searchable, machine-readable database information, while English uses less categorical wording. The Dutch reading could require machine-readable information even where a user-friendly interface already provides public access.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T18:27:37.550146+00:00"
+          }
+        },
+        {
+          "id": "codex-a93c364e0fc44d8981d1a934c192",
+          "passage_id": "p0032",
+          "english_quote": "This paragraph shall not apply to third parties making accessible to the public tools, services, processes, or components, other than general-purpose AI models, under a free and open-source licence.",
+          "title": "Dutch price condition may narrow the open-source exception",
+          "category": "exception",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "Article 25(4) in Dutch expressly requires a licence to be free of charge. English can instead refer to licensing freedoms. For an otherwise qualifying paid licence between microenterprises, the Dutch reading could require a written compliance-assistance agreement where the English reading permits exemption. Shared licensing context may harmonize the wording.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "Dit lid is niet van toepassing op derden die andere instrumenten, diensten, processen of onderdelen dan AI-modellen voor algemene doeleinden onder een kosteloze en opensource licentie toegankelijk maken voor het publiek.",
+              "translation": "This paragraph does not apply to third parties making tools, services, processes or components other than general-purpose AI models accessible to the public under a free-of-charge and open-source licence.",
+              "explanation": "Article 25(4) in Dutch expressly requires a licence to be free of charge. English can instead refer to licensing freedoms. For an otherwise qualifying paid licence between microenterprises, the Dutch reading could require a written compliance-assistance agreement where the English reading permits exemption. Shared licensing context may harmonize the wording.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T19:07:17.575479+00:00"
+          }
+        },
+        {
+          "id": "codex-50b03b88798fb1b9d4c169923415",
+          "passage_id": "p0012",
+          "english_quote": "effective measures of redress in relation to the risks posed by an AI system, with the exclusion of claims for damages;",
+          "title": "Dutch wording may narrow the redress considered in risk assessments",
+          "category": "scope",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English Article 7(2)(k)(i) requires consideration of effective redress generally. Dutch could limit consideration to formal legal challenges, excluding standalone complaint mechanisms. This could change the Commission’s assessment when adding, modifying or removing Annex III use cases, without directly removing remedies or automatically changing classification.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "doeltreffende maatregelen om beroep aan te tekenen in verband met de risico’s van een AI-systeem, met uitzondering van vorderingen tot schadevergoeding;",
+              "translation": "effective measures for lodging an appeal in connection with the risks of an AI system, excluding claims for damages;",
+              "explanation": "English Article 7(2)(k)(i) requires consideration of effective redress generally. Dutch could limit consideration to formal legal challenges, excluding standalone complaint mechanisms. This could change the Commission’s assessment when adding, modifying or removing Annex III use cases, without directly removing remedies or automatically changing classification.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T19:07:17.575479+00:00"
+          }
+        },
+        {
+          "id": "codex-f73b876e657e0f2eab7dfc12ed55",
+          "passage_id": "p0040",
+          "english_quote": "it shall be presumed to comply with the requirements set out in Article 31 in so far as the applicable harmonised standards cover those requirements.",
+          "title": "Possible restriction of the partial conformity presumption in Article 32",
+          "category": "condition",
+          "severity": "substantial",
+          "status": "agent_reviewed",
+          "explanation": "English expressly limits the conformity presumption to requirements covered by applicable standards. Dutch could instead make coverage of all Article 31 requirements a condition for any presumption. Where coverage is partial, this could require separate proof even for covered requirements. Applying the Dutch condition separately to each requirement would reconcile the versions.",
+          "variants": [
+            {
+              "language": "nl",
+              "language_name": "Dutch",
+              "quote": "wordt zij geacht aan de eisen van artikel 31 te voldoen, op voorwaarde dat de van toepassing zijnde geharmoniseerde normen deze eisen dekken.",
+              "translation": "It shall be presumed to comply with the requirements of Article 31, provided that the applicable harmonised standards cover those requirements.",
+              "explanation": "English expressly limits the conformity presumption to requirements covered by applicable standards. Dutch could instead make coverage of all Article 31 requirements a condition for any presumption. Where coverage is partial, this could require separate proof even for covered requirements. Applying the Dutch condition separately to each requirement would reconcile the versions.",
+              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
+            }
+          ],
+          "review": {
+            "method": "Retained full-source comparison; separate Sol discovery and source review of outstanding questions; independent Astra source audit. English is a reference among equally authentic versions.",
+            "models": [
+              "gpt-6.1-sol",
+              "gpt-6-astra"
+            ],
+            "reviewed_at": "2026-10-16T19:09:32.248607+00:00"
           }
         },
         {
@@ -60172,34 +60566,6 @@
           }
         },
         {
-          "id": "codex-3063263993bba5c9f97184679415",
-          "passage_id": "p0009",
-          "english_quote": "1b. For the purposes of paragraph 1, first subparagraph, point (ba), an AI system that manipulates material in a way that does not increase the exposure of any depicted intimate parts or alter the nature of any depicted sexually explicit activities shall not constitute manipulation.",
-          "title": "Dutch wording may broaden the exclusion for intimate-material manipulation",
-          "category": "exception",
-          "severity": "substantial",
-          "status": "agent_reviewed",
-          "explanation": "English Article 5(1b) excludes edits that neither increase exposure nor change the nature of depicted sexual activities. Dutch can be read as excluding an edit whenever either feature remains unchanged. This could narrow the prohibition on non-consensual intimate manipulation, although the amending recital strongly supports requiring both features to remain unchanged.",
-          "variants": [
-            {
-              "language": "nl",
-              "language_name": "Dutch",
-              "quote": "1 ter. Voor de toepassing van lid 1, eerste alinea, punt b bis), vormt een AI-systeem dat materiaal zodanig manipuleert dat de blootstelling aan afgebeelde intieme delen niet toeneemt of dat de aard van afgebeelde seksueel expliciete gedragingen niet wordt gewijzigd, geen manipulatie.",
-              "translation": "1b. For the purposes of paragraph 1, first subparagraph, point (ba), an AI system that manipulates material in such a way that exposure to depicted intimate parts does not increase or that the nature of depicted sexually explicit activities is not changed does not constitute manipulation.",
-              "explanation": "English Article 5(1b) excludes edits that neither increase exposure nor change the nature of depicted sexual activities. Dutch can be read as excluding an edit whenever either feature remains unchanged. This could narrow the prohibition on non-consensual intimate manipulation, although the amending recital strongly supports requiring both features to remain unchanged.",
-              "source_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02024R1689-20260727"
-            }
-          ],
-          "review": {
-            "method": "Sol discovery and separate review; independent Astra source audit; an additional independent check of this finding and its governing context. Overall coverage remains partial where questions are open.",
-            "models": [
-              "gpt-6.1-sol",
-              "gpt-6-astra"
-            ],
-            "reviewed_at": "2026-10-16T15:20:29.504925+00:00"
-          }
-        },
-        {
           "id": "codex-336c4ee4061a0969ea1e497a7a63",
           "passage_id": "p0009",
           "english_quote": "issued upon a reasoned request and in accordance with the detailed rules of national law referred to in paragraph 5.",
@@ -62119,6 +62485,23 @@
           ]
         },
         {
+          "id": "codex-issue-814ab3abf020343f1352a88815b7",
+          "title": "A free-of-charge licence may be required for the representative exemption",
+          "legal_anchor": "Article 54",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Once Article 54 applies, an otherwise exempt third-country provider charging a licence fee could have to appoint a Union representative with verification, documentation-retention and regulatory-cooperation tasks.",
+          "rationale": "The disputed price condition changes eligibility for exemption from the article’s central representation duty, rather than merely changing the form of an existing mandate.",
+          "uncertainty": "The licence expressions may be harmonized as the same freedom-based category.",
+          "assessed_at": "2026-10-16T22:45:46.339456Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-814ab3abf020343f1352a88815b7"
+          ]
+        },
+        {
           "id": "codex-issue-7e6d94c54a1def76d9f793e00700",
           "title": "Italian may allow a sectoral deadline beyond the 15-working-day limit",
           "legal_anchor": "Article 79",
@@ -62748,6 +63131,23 @@
           ]
         },
         {
+          "id": "codex-issue-f73b876e657e0f2eab7dfc12ed55",
+          "title": "Possible restriction of the partial conformity presumption in Article 32",
+          "legal_anchor": "Article 32",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "If the collective coverage condition prevailed, a conformity assessment body relying on standards covering only some Article 31 requirements would need separate evidence even for the covered requirements.",
+          "rationale": "The supported change concerns the method of proving compliance. Articles 29 and 30 retain documentary verification and the same substantive eligibility requirements; incomplete standards coverage does not itself require exclusion.",
+          "uncertainty": "A requirement-specific interpretation, supported by the reference to parts of standards, could preserve the partial presumption.",
+          "assessed_at": "2026-10-16T22:45:46.340987Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-f73b876e657e0f2eab7dfc12ed55"
+          ]
+        },
+        {
           "id": "codex-issue-0471229ae01ee9f6a17aadef33b5",
           "title": "Irish Article 37(2) links disclosure to a notification given by the notified body",
           "legal_anchor": "Article 37",
@@ -63068,6 +63468,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "codex-ddf9265609d543011b444dc89ca2"
+          ]
+        },
+        {
+          "id": "codex-issue-f50affa1181b279e59ed09f0a84c",
+          "title": "Stronger wording for reporting information to the ECB",
+          "legal_anchor": "Article 74",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "An authority withholding potentially relevant surveillance information could breach an express reporting duty under the Dutch reading, whereas the English wording could be read as recommending transmission.",
+          "rationale": "The identified consequence is an inter-authority reporting obligation. The supplied provisions establish no resulting change to prudential powers, operator liability or substantive supervisory outcomes.",
+          "uncertainty": "The operative setting and shared coordination requirements may support a mandatory interpretation in both languages.",
+          "assessed_at": "2026-10-16T22:45:46.339789Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-f50affa1181b279e59ed09f0a84c"
           ]
         },
         {
@@ -64176,6 +64593,23 @@
           ]
         },
         {
+          "id": "codex-issue-50b03b88798fb1b9d4c169923415",
+          "title": "Dutch wording may narrow the redress considered in risk assessments",
+          "legal_anchor": "Article 7",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Under the narrower Dutch reading, the Commission could omit an effective standalone complaint mechanism from its redress assessment when considering an Annex III amendment.",
+          "rationale": "The identified consequence changes one assessment factor. Article 7 retains substantive risk conditions and removal safeguards; the wording itself neither withdraws remedies nor determines classification.",
+          "uncertainty": "Broadly interpreting the Dutch expression as effective recourse could harmonize the provisions.",
+          "assessed_at": "2026-10-16T22:45:46.340938Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-50b03b88798fb1b9d4c169923415"
+          ]
+        },
+        {
           "id": "codex-issue-acca140819061559fb9b245c17d1",
           "title": "Potentially broader consultation requirement before disclosure",
           "legal_anchor": "Article 78",
@@ -64496,6 +64930,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "codex-41efb480c0ca3a70e0d47b0ab177"
+          ]
+        },
+        {
+          "id": "codex-issue-a93c364e0fc44d8981d1a934c192",
+          "title": "Dutch price condition may narrow the open-source exception",
+          "legal_anchor": "Article 25",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Once Article 25(4) applies, a microenterprise provider using a qualifying component under a paid open-source licence from another microenterprise could lose the agreement exemption and face Article 99 penalties for non-compliance.",
+          "rationale": "Article 99(4)(da) expressly covers Article 25(4). Losing the exemption can expose the provider to substantial fines, subject to SME limits, proportionality and individual circumstances.",
+          "uncertainty": "Licensing context may harmonize the texts; no actual infringement or penalty is established.",
+          "assessed_at": "2026-10-16T22:45:46.340885Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-a93c364e0fc44d8981d1a934c192"
           ]
         },
         {
@@ -65451,6 +65902,23 @@
           ]
         },
         {
+          "id": "codex-issue-d6c26c629485413f49303a3dd009",
+          "title": "Newly discovered reasons may broaden access to systemic-risk reassessment",
+          "legal_anchor": "Article 52",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "After the six-month waiting period, a provider could obtain consideration of a request based on a newly discovered pre-designation circumstance that a strict post-designation-origin reading would exclude.",
+          "rationale": "The difference concerns grounds for requesting discretionary reassessment. It does not itself change Annex XIII criteria, remove designation or suspend the provider’s systemic-risk obligations.",
+          "uncertainty": "English may encompass newly discovered reasons; any change of designation requires a separate Commission assessment.",
+          "assessed_at": "2026-10-16T22:45:46.339679Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-d6c26c629485413f49303a3dd009"
+          ]
+        },
+        {
           "id": "codex-issue-e73daaae3f6064299b85335c975b",
           "title": "Publication naming duty refers only to undertakings",
           "legal_anchor": "Article 75d",
@@ -65791,6 +66259,23 @@
           ]
         },
         {
+          "id": "codex-issue-abf3dbc79a7b605e86084678dee8",
+          "title": "Stronger requirements for database information formats",
+          "legal_anchor": "Article 71",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "The Commission could be required to provide machine-readable database information under the Dutch reading even where a user-friendly human-readable interface already exists.",
+          "rationale": "The identified change concerns database functionality. Registration duties, public-access entitlements and confidentiality exceptions remain substantively unchanged.",
+          "uncertainty": "Shared user-friendly access and accessibility requirements may support a harmonized interpretation.",
+          "assessed_at": "2026-10-16T22:45:46.339839Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-abf3dbc79a7b605e86084678dee8"
+          ]
+        },
+        {
           "id": "codex-issue-0d0e9e51430b189e5045067dd172",
           "title": "Deepfake definition changes the conditions for disclosure",
           "legal_anchor": "Article 3",
@@ -65975,6 +66460,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "codex-b8795930e08550b995dfac08bc77"
+          ]
+        },
+        {
+          "id": "codex-issue-78e9934bd40d3d693e7800f54ef4",
+          "title": "Different market triggers for appointing an authorised representative",
+          "legal_anchor": "Article 22",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "For a system subject to Article 22, a third-country provider subsequently supplies the same already-placed system after its representative’s mandate ends. The narrower reading could remove the requirement to appoint a replacement before that supply.",
+          "rationale": "Continued supply without the Union representative responsible for conformity verification and regulatory cooperation would materially narrow a core compliance duty. The provider’s own documentation, corrective-action and cooperation duties would remain.",
+          "uncertainty": "Continuing duties, Article 83 and Article 54 support harmonization; neither appointment clause expressly regulates replacement.",
+          "assessed_at": "2026-10-16T22:45:46.339569Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-78e9934bd40d3d693e7800f54ef4"
           ]
         },
         {
@@ -67015,6 +67517,23 @@
           ]
         },
         {
+          "id": "codex-issue-8019c5cc175b303d736a831b8e69",
+          "title": "Digital CE-marking scope depends on system character rather than supply",
+          "legal_anchor": "Article 48",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "Where Article 83 applies, a digitally supplied mixed system with feasible accessible digital marking could face market restrictions under the English reading if its provider persistently retains only non-digital marking.",
+          "rationale": "The scope difference can determine compliance with Article 48(2). Article 83 connects persistent marking violations to proportionate market restrictions, prohibition, recall or withdrawal, even where other marking requirements are satisfied.",
+          "uncertainty": "System boundaries and digital supply remain interpretive; sectoral exclusions, transitional protection and proportionality constrain enforcement.",
+          "assessed_at": "2026-10-16T22:45:46.339336Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-8019c5cc175b303d736a831b8e69"
+          ]
+        },
+        {
           "id": "codex-issue-246133d297281ac835f8aeae73aa",
           "title": "The provider definition may exclude suppliers marketing only general-purpose AI models",
           "legal_anchor": "Article 3",
@@ -67301,23 +67820,6 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "codex-f9575297fc3925f884223d8346e7"
-          ]
-        },
-        {
-          "id": "codex-issue-3063263993bba5c9f97184679415",
-          "title": "Dutch wording may broaden the exclusion for intimate-material manipulation",
-          "legal_anchor": "Article 5",
-          "impact_level": "major",
-          "rating_status": "current",
-          "confidence": "medium",
-          "review_state": "provisional",
-          "effect": "Once applicable, the alternative Dutch reading could exclude deliberate non-consensual manipulation of realistic intimate material that increases exposure of an identifiable person’s intimate parts while leaving depicted sexual activity unchanged.",
-          "rationale": "The reading would remove conduct from a core prohibition protecting identifiable persons. The purpose conditions do not restore excluded manipulation, although other applicable prohibitions and remedies remain.",
-          "uncertainty": "Amending recital 12 strongly supports harmonization; no actual exemption or enforcement outcome is established.",
-          "assessed_at": "2026-10-16T21:16:38.983068Z",
-          "rubric_version": "conditional-binary-impact-1",
-          "finding_ids": [
-            "codex-3063263993bba5c9f97184679415"
           ]
         },
         {
@@ -68052,6 +68554,23 @@
           ]
         },
         {
+          "id": "codex-issue-58dbacc0020322340c229fb4973c",
+          "title": "Provider independence may extend beyond systems assessed by the notified body",
+          "legal_anchor": "Article 31",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A body otherwise meeting the notification requirements could be refused notification because it lacks independence from a provider whose systems it does not assess.",
+          "rationale": "Article 30(1) makes Article 31 compliance an eligibility condition. Article 36(4) also permits restriction, suspension or withdrawal following an established failure to comply.",
+          "uncertainty": "The surrounding assessment-specific safeguards strongly support limiting the requirement to the body's own assessments.",
+          "assessed_at": "2026-10-16T22:45:46.339627Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-58dbacc0020322340c229fb4973c"
+          ]
+        },
+        {
           "id": "codex-issue-f522dba49c6068d85ccd819e4307",
           "title": "Danish omits the request condition for submitting conformity declarations",
           "legal_anchor": "Article 47",
@@ -68372,6 +68891,40 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "codex-e81186be08a400a56dc6ab0f866d"
+          ]
+        },
+        {
+          "id": "codex-issue-6af7bc5c70b5b480935d527694b4",
+          "title": "Dutch wording may widen the exception from synthetic-output marking",
+          "legal_anchor": "Article 50",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "medium",
+          "review_state": "provisional",
+          "effect": "A covered synthetic-text system makes a non-standard edit reversing meaning with minimal data changes. The disputed reading would exempt its output from machine-readable marking once the duty applies.",
+          "rationale": "Exemption would remove Article 50(2)’s core marking duty. Article 99(4)(g) makes infringement potentially subject to substantial fines, subject to proportionality and enterprise-size safeguards.",
+          "uncertainty": "The anomalous syntax strongly supports contextual correction; substantial data alteration could itself include substantial changes in meaning.",
+          "assessed_at": "2026-10-16T22:45:46.339739Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-6af7bc5c70b5b480935d527694b4"
+          ]
+        },
+        {
+          "id": "codex-issue-a51d2b2546299347c6e0f14ce5a8",
+          "title": "The representative’s mandate additionally covers affected persons",
+          "legal_anchor": "Article 54",
+          "impact_level": "limited",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "A provider subject to Article 54 could need to amend a mandate limited to regulatory authorities so that its representative can also answer affected persons.",
+          "rationale": "The established change concerns the scope of representative communications. The provision creates no independent substantive disclosure entitlement, damages remedy or transfer of provider liability.",
+          "uncertainty": "Any substantive response obligation depends on the applicable rights and duties elsewhere.",
+          "assessed_at": "2026-10-16T22:45:46.339514Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-a51d2b2546299347c6e0f14ce5a8"
           ]
         },
         {
@@ -69647,6 +70200,23 @@
           "rubric_version": "conditional-binary-impact-1",
           "finding_ids": [
             "codex-38154303461139d11eecbba62fe4"
+          ]
+        },
+        {
+          "id": "codex-issue-2c06730f0954a14ed4760d1a130e",
+          "title": "Narrower Dutch ground for inspection-related periodic penalties",
+          "legal_anchor": "Article 75c",
+          "impact_level": "major",
+          "rating_status": "current",
+          "confidence": "high",
+          "review_state": "provisional",
+          "effect": "An operator refusing an ordered remote inspection could avoid a direct periodic-payment order under the Dutch reading where no separate ground applies, although the English reading permits that order.",
+          "rationale": "This could remove exposure to accumulating coercive payments. The shared income limb permits up to 5% of average daily income per day, subject to effectiveness, proportionality and judicial review.",
+          "uncertainty": "Other penalty grounds may apply; contextual interpretation may reconcile the inspection wording.",
+          "assessed_at": "2026-10-16T22:45:46.340591Z",
+          "rubric_version": "conditional-binary-impact-1",
+          "finding_ids": [
+            "codex-2c06730f0954a14ed4760d1a130e"
           ]
         },
         {
