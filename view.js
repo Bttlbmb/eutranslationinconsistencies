@@ -173,11 +173,11 @@ export function renderCoverage(act, { compact = false } = {}) {
       : `${usd(cost.metered_usd)} in metered API usage across ${cost.requests} ${cost.requests === 1 ? 'request' : 'requests'}.`];
     if (cost.unsettled_max_usd)
       parts.push(`Up to ${usd(cost.unsettled_max_usd)} more is held for an interrupted request whose usage is unknown.`);
-    parts.push('Source audits ran on a subscription and are not included.');
+    parts.push('Source audits used a signed-in Codex account and are not included.');
     append(content, node('p', 'coverage-cost', `AI processing: ${parts.join(' ')}`));
   } else if (cost && Number.isFinite(cost.estimated_usd)) {
     const estimate = node('p', 'coverage-cost',
-      `AI processing: $${Math.round(cost.estimated_usd).toLocaleString('en-US')} (est.). Equivalent API cost for ${cost.requests} saved review requests. ${cost.estimate_basis} The review ran through a Codex subscription; this is not an actual API charge. `);
+      `AI processing: $${Math.round(cost.estimated_usd).toLocaleString('en-US')} (est.). Equivalent API cost for ${cost.requests} saved review requests. ${cost.estimate_basis} The review used a signed-in Codex account; this is not an actual API charge. `);
     const pricing = node('a', '', `Standard API prices checked ${cost.pricing_date}`);
     pricing.href = cost.pricing_url;
     pricing.target = '_blank';

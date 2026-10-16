@@ -152,11 +152,11 @@ function renderAct(act) {
   const cost = processingCost(act);
   if (cost !== null) {
     const spent = node('span', '', ` · ${formatUsd(cost)} AI processing`);
-    spent.title = 'Metered API cost of this review. Source audits ran on a subscription and are not included; Review and sources gives details.';
+    spent.title = 'Metered API cost of this review. Source audits used a signed-in Codex account and are not included; Review and sources gives details.';
     append(versionLine, spent);
   } else if (estimatedProcessingCost(act) !== null) {
     const estimate = node('span', '', ` · ${formatEstimatedUsd(estimatedProcessingCost(act))} AI processing`);
-    estimate.title = 'Estimated equivalent API cost based on saved review usage, including the source audit. The review ran through a subscription; this is not an actual API charge. Review and sources gives details.';
+    estimate.title = 'Estimated equivalent API cost based on saved review usage, including the source audit. The review used a signed-in Codex account; this is not an actual API charge. Review and sources gives details.';
     append(versionLine, estimate);
   }
   append(identity, version, renderSourceScope(act));
