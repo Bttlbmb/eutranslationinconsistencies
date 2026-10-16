@@ -60,6 +60,18 @@ const introductions = {
     title: 'Digital Services Act',
     description: 'Sets liability, due diligence and enforcement rules for online intermediary services.'
   },
+  '32023R2854': {
+    title: 'Data Act',
+    description: 'Sets rules for accessing and sharing data from connected products, and for switching cloud services.'
+  },
+  '32024R1083': {
+    title: 'European Media Freedom Act',
+    description: 'Safeguards media independence and pluralism, with rules on ownership transparency, public media and state advertising.'
+  },
+  '32024R3015': {
+    title: 'Forced Labour Regulation',
+    description: 'Bans products made with forced labour from the EU market and from EU exports, with rules for investigations and enforcement.'
+  },
   '32024R1689': {
     title: 'AI Act',
     description: 'Regulates AI systems and general-purpose AI models, bans certain practices and sets safeguards for high-risk uses.'
