@@ -1,0 +1,316 @@
+NARIADENIE EURÓPSKEHO PARLAMENTU A RADY (EÚ) 2024/1083
+z 11. apríla 2024,
+ktorým sa stanovuje spoločný rámec pre mediálne služby na vnútornom trhu a mení smernica 2010/13/EÚ (Európsky akt o slobode médií)
+(Text s významom pre EHP)
+
+KAPITOLA I
+VŠEOBECNÉ USTANOVENIA
+
+Článok 1
+Predmet úpravy a rozsah pôsobnosti
+1. Týmto nariadením sa stanovujú spoločné pravidlá riadneho fungovania vnútorného trhu s mediálnymi službami a zriaďuje Európska rada pre mediálne služby pri zachovaní nezávislosti a plurality mediálnych služieb.
+2. Týmto nariadením nie sú dotknuté pravidlá, ktoré stanovuje: a) smernica 2000/31/ES; b) smernica Európskeho parlamentu a Rady (EÚ) 2019/790 ( 1 ); c) nariadenie (EÚ) 2019/1150; d) nariadenie (EÚ) 2022/2065; e) nariadenie (EÚ) 2022/1925; f) nariadenie Európskeho parlamentu a Rady (EÚ) 2024/900 ( 2 ); g) nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 ( 3 );
+3. Toto nariadenie nemá vplyv na možnosť členských štátov prijať podrobnejšie alebo prísnejšie pravidlá v oblastiach, na ktoré sa vzťahuje kapitola II, kapitola III oddiel 5 a článok 25, pokiaľ sa týmito pravidlami zabezpečuje vyššia úroveň ochrany plurality médií alebo redakčná nezávislosť v súlade s týmto nariadením a pokiaľ sú v súlade s právom Únie.
+
+Článok 2
+Vymedzenie pojmov
+Na účely tohto nariadenia sa uplatňuje toto vymedzenie pojmov:
+1.
+„mediálna služba“ je služba, ako ju vymedzujú články 56 a 57 ZFEÚ, pričom základný účel služby alebo jej oddeliteľnej časti je poskytovanie programov alebo tlačových publikácií, za ktoré je redakčne zodpovedný poskytovateľ mediálnych služieb, širokej verejnosti ľubovoľnými prostriedkami s cieľom informovať, zabávať alebo vzdelávať;
+2.
+„poskytovateľ mediálnych služieb“ je fyzická alebo právnická osoba, ktorej profesionálnou činnosťou je poskytovanie mediálnych služieb a ktorá má redakčnú zodpovednosť za výber obsahu mediálnej služby a určuje spôsob, akým je organizovaná;
+3.
+„poskytovateľ verejnoprávnych médií“ je poskytovateľ mediálnych služieb, ktorý je poverený vykonávaním verejnoprávneho poslania podľa vnútroštátneho práva a ktorý na vykonávanie takéhoto poslania dostáva finančné prostriedky z vnútroštátnych verejných zdrojov;
+4.
+„program“ je súbor pohybujúcich sa obrazov alebo zvukov predstavujúci bez ohľadu na svoje trvanie samostatnú položku v rámci programovej štruktúry alebo katalógu, ktorý zostavil poskytovateľ mediálnych služieb;
+5.
+„tlačová publikácia“ je tlačová publikácia v zmysle vymedzenia v článku 2 bode 4 smernice (EÚ) 2019/790;
+6.
+„audiovizuálna mediálna služba“ je audiovizuálna mediálna služba v zmysle vymedzenia v článku 1 ods. 1 písm. a) smernice 2010/13/EÚ;
+7.
+„redakčné rozhodnutie“ je rozhodnutie, ktoré sa pravidelne prijíma na účely plnenia redakčnej zodpovednosti a súvisí s každodennou prevádzkou poskytovateľa mediálnych služieb;
+8.
+„redakčná zodpovednosť“ je vykonávanie účinnej kontroly tak nad výberom programov alebo tlačových publikácií, ako aj nad ich usporiadaním na účely poskytovania mediálnej služby bez ohľadu na existenciu zodpovednosti podľa vnútroštátneho práva za poskytnutú službu;
+9.
+„online platforma“ je online platforma v zmysle vymedzenia v článku 3 písm. i) nariadenia (EÚ) 2022/2065;
+10.
+„poskytovateľ veľmi veľkej online platformy“ je poskytovateľ online platformy, ktorá bola ako veľmi veľká online platforma určená podľa článku 33 ods. 4 nariadenia (EÚ) 2022/2065;
+11.
+„služba platformy na zdieľanie videí“ je služba platformy na zdieľanie videí v zmysle vymedzenia v článku 1 ods. 1 písm. a. a.) smernice 2010/13/EÚ;
+12.
+„poskytovateľ platformy na zdieľanie videí“ je poskytovateľ platformy na zdieľanie videí v zmysle vymedzenia v článku 1 ods. 1 písm. da) smernice 2010/13/EÚ;
+13.
+„národný regulačný orgán alebo subjekt“ je akýkoľvek orgán alebo subjekt určený členským štátom podľa článku 30 smernice 2010/13/EÚ;
+14.
+„používateľské rozhranie“ je služba, ktorá riadi alebo spravuje prístup k mediálnym službám poskytujúcim programy a ich využívanie a ktorá používateľom umožňuje výber mediálnych služieb alebo obsahu;
+15.
+„koncentrácia na mediálnom trhu“ je koncentrácia v zmysle vymedzenia v článku 3 nariadenia (ES) č. 139/2004, ktorej účastníkom je aspoň jeden poskytovateľ mediálnych služieb alebo jedna online platforma poskytujúca prístup k mediálnemu obsahu;
+16.
+„meranie sledovanosti“ je činnosť získavania, interpretovania alebo iného spracúvania údajov o počte a vlastnostiach používateľov mediálnych služieb alebo používateľov obsahu na online platformách na účely rozhodovania o prideľovaní, cenách, nákupe alebo predaji reklamy, alebo rozhodovania o plánovaní alebo distribúcii obsahu;
+17.
+„proprietárne meranie sledovanosti“ je meranie sledovanosti, ktoré nie je v súlade s odvetvovými normami a najlepšími postupmi dohodnutými prostredníctvom samoregulačných mechanizmov;
+18.
+„orgán verejnej moci alebo verejný subjekt“ je orgán na celoštátnej úrovni alebo nižšej úrovni verejnej správy, regulačný orgán alebo subjekt, alebo subjekt priamo alebo nepriamo kontrolovaný orgánom verejnej moci na celoštátnej alebo na nižšej úrovni verejnej správy;
+19.
+„štátna reklama“ je umiestňovanie, propagácia, uverejňovanie alebo šírenie, v akejkoľvek mediálnej službe alebo online platforme, propagačného alebo seba propagačného oznámenia alebo verejného oznámenia alebo informačnej kampane, obvykle za protihodnotu alebo akúkoľvek inú odplatu, od, pre alebo v mene orgánu verejnej moci alebo verejného subjektu;
+20.
+„softvér na intruzívne sledovanie“ je akýkoľvek produkt s digitálnymi prvkami osobitne navrhnutý na využívanie zraniteľností iných produktov s digitálnymi prvkami, ktorý umožňuje utajené sledovanie fyzických alebo právnických osôb monitorovaním, extrahovaním, získavaním alebo analýzou údajov z takýchto produktov alebo od fyzických alebo právnických osôb používajúcich takéto produkty, a to aj nerozlišujúcim spôsobom;
+21.
+„mediálna gramotnosť“ sú zručnosti, znalosti a porozumenie, ktoré občanom umožnia využívať médiá účinne a bezpečne a ktoré sa neobmedzujú na učenie sa o nástrojoch a technológiách, ale ich účelom je, aby občania nadobudli zručnosti v oblasti kritického myslenia potrebné na posudzovanie, analyzovanie zložitých skutočností a rozpoznanie rozdielu medzi názorom a faktom.
+
+KAPITOLA II
+PRÁVA A POVINNOSTI POSKYTOVATEĽOV A PRÍJEMCOV MEDIÁLNYCH SLUŽIEB
+
+Článok 3
+Práva príjemcov mediálnych služieb
+Členské štáty rešpektujú právo príjemcov mediálnych služieb na prístup k pluralite redakčne nezávislého mediálneho obsahu a zabezpečia, aby boli zavedené rámcové podmienky v súlade s týmto nariadením s cieľom chrániť toto právo, v prospech slobodnej a demokratickej diskusie.
+
+Článok 4
+Práva poskytovateľov mediálnych služieb
+1. Poskytovatelia mediálnych služieb majú právo vykonávať svoje hospodárske činnosti na vnútornom trhu bez obmedzení, pokiaľ nejde o obmedzenia povolené podľa práva Únie.
+2. Členské štáty rešpektujú skutočnú redakčnú slobodu a nezávislosť poskytovateľov mediálnych služieb pri výkone ich profesionálnych činností. Členské štáty vrátane svojich národných regulačných orgánov a subjektov nezasahujú do redakčných politík a redakčných rozhodnutí poskytovateľov mediálnych služieb ani sa nesnažia o ich ovplyvňovanie.
+3. Členské štáty zabezpečujú účinnú ochranu novinárskych zdrojov a dôvernej komunikácie. Členské štáty neprijmú žiadne z týchto opatrení: a) uloženie poskytovateľom mediálnych služieb alebo ich redakčným pracovníkom, aby zverejnili informácie týkajúce sa novinárskych zdrojov alebo dôvernej komunikácie alebo umožňujúce ich identifikáciu, alebo uloženie všetkým osobám, ktoré by z dôvodu svojho pravidelného alebo profesionálneho vzťahu s poskytovateľom mediálnych služieb alebo jeho redakčnými pracovníkmi mohli mať také informácie, aby ich zverejnili; b) zadržanie, sankcionovanie, zadržiavanie alebo kontrolovanie poskytovateľov mediálnych služieb alebo ich redakčných pracovníkov alebo podrobenie ich alebo ich firemných alebo súkromných priestorov sledovaniu alebo prehliadke a zhabaniu na účely získania informácií týkajúcich sa novinárskych zdrojov alebo dôvernej komunikácie alebo umožňujúce ich identifikáciu, alebo zadržanie, sankcionovanie, zadržiavanie alebo kontrolovanie akýchkoľvek osôb, ktoré by z dôvodu svojho pravidelného alebo profesionálneho vzťahu s poskytovateľom mediálnych služieb alebo jeho redakčnými pracovníkmi mohli mať také informácie, alebo podrobenie ich alebo ich firemných alebo súkromných priestorov sledovaniu alebo prehliadke a zhabaniu na účely získania takých informácií; c) nasadenie softvéru na intruzívne sledovanie na akýkoľvek materiál, digitálne zariadenie, prístroj alebo nástroj, ktorý používajú poskytovatelia mediálnych služieb, ich redakční zamestnanci alebo akékoľvek osoby, ktoré by z dôvodu svojho pravidelného alebo profesionálneho vzťahu s poskytovateľom mediálnych služieb alebo jeho redakčnými pracovníkmi mohli mať informácie týkajúce sa novinárskych zdrojov alebo dôvernej komunikácie alebo umožňujúce ich identifikáciu.
+4. Odchylne od odseku 3 písm. a) a b) tohto článku môžu členské štáty prijať opatrenie uvedené v tomto článku za predpokladu, že: a) je stanovené právom Únie alebo vnútroštátnym právom; b) je v súlade s článkom 52 ods. 1 charty a iným právom Únie; c) je odôvodnené v jednotlivých prípadoch závažným dôvodom verejného záujmu a je primerané a d) podlieha predchádzajúcemu povoleniu súdneho orgánu alebo nezávislého a nestranného rozhodovacieho orgánu alebo v riadne odôvodnených výnimočných a naliehavých prípadoch ho následne bez zbytočného odkladu takýto orgán povolí.
+5. Odchylne od odseku 3 písm. c) môžu členské štáty nasadiť softvér na intruzívne sledovanie za predpokladu, že nasadenie: a) spĺňa podmienky uvedené v odseku 4 a b) vykonáva sa na účel vyšetrovania jednej z osôb uvedených v odseku 3 písm. c) v súvislosti s: i) trestnými činmi uvedenými v článku 2 ods. 2 rámcového rozhodnutia 2002/584/SVV, za ktoré možno v dotknutom členskom štáte uložiť trest odňatia slobody alebo ochranné opatrenie spojené s obmedzením osobnej slobody s hornou hranicou najmenej tri roky; alebo ii) inými závažnými trestnými činmi, za ktoré možno v dotknutom členskom štáte uložiť trest odňatia slobody alebo ochranné opatrenie spojené s obmedzením osobnej slobody s hornou hranicou najmenej päť rokov, ako sa stanovuje v práve uvedeného členského štátu.
+Členské štáty neprijmú opatrenie uvedené v odseku 3 písm. c), ak by na získanie požadovaných informácií bolo primerané a dostatočné opatrenie uvedené v písmene a) alebo b) uvedeného odseku.
+6. Členské štáty zabezpečia, aby opatrenia sledovania uvedené v odseku 3 písm. b) a nasadenie softvéru na intruzívne sledovanie uvedeného v písmene c) uvedeného odseku pravidelne preskúmaval súdny orgán alebo nezávislý a nestranný rozhodovací orgán s cieľom určiť, či sú naďalej splnené podmienky odôvodňujúce ich používanie.
+7. Smernica Európskeho parlamentu a Rady (EÚ) 2016/680 ( 4 ) vrátane záruk v nej stanovených, ako je právo dotknutej osoby na informácie a prístup k osobným údajom, ktoré sa spracúvajú, sa vzťahuje na každé spracúvanie osobných údajov vykonávané v súvislosti so zavádzaním opatrení sledovania uvedených v odseku 3 písm. b) tohto článku alebo so zavádzaním softvéru na intruzívne sledovanie uvedeného v písmene c) uvedeného odseku.
+8. Členské štáty zabezpečia, aby poskytovatelia mediálnych služieb, ich redakční pracovníci alebo akékoľvek osoby, ktoré by z dôvodu svojho pravidelného alebo profesionálneho vzťahu s poskytovateľom mediálnych služieb alebo jeho redakčnými pracovníkmi mohli mať informácie súvisiace s novinárskymi zdrojmi alebo dôvernou komunikáciou alebo umožňujúce ich identifikáciu, mali právo na účinnú súdnu ochranu v súlade s článkom 47 charty v prípadoch týkajúcich sa porušenia odsekov 3 až 7 tohto článku.
+Členské štáty poveria nezávislý orgán alebo subjekt s príslušnými odbornými znalosťami, aby osobám uvedeným v prvom pododseku poskytoval pomoc pri uplatňovaní uvedeného práva. Ak takýto orgán alebo subjekt neexistuje, uvedené osoby môžu požiadať o pomoc samoregulačný orgán alebo mechanizmus.
+9. Rešpektujú sa povinnosti členských štátov stanovené v Zmluve o EÚ a ZFEÚ.
+
+Článok 5
+Záruky nezávislého fungovania poskytovateľov verejnoprávnych médií.
+1. Členské štáty zabezpečia, aby poskytovatelia verejnoprávnych médií boli redakčne a funkčne nezávislí a aby svojmu publiku poskytovali pluralitu informácií a názorov nestranným spôsobom v súlade so svojím poslaním verejnoprávnej služby vymedzeným na vnútroštátnej úrovni v súlade s protokolom č. 29.
+2. Členské štáty zabezpečia, aby sa postupy menovania a odvolávania najvyššieho riadiaceho pracovníka alebo členov správnej rady poskytovateľov verejnoprávnych médií zameriavali na zaručenie nezávislosti poskytovateľov verejnoprávnych médií.
+Najvyšší riadiaci pracovník alebo členovia správnej rady poskytovateľov verejnoprávnych médií sa vymenúvajú na základe transparentných, otvorených, účinných a nediskriminačných postupov a transparentných, objektívnych, nediskriminačných a primeraných kritérií stanovených vopred na vnútroštátnej úrovni. Dĺžka ich funkčného obdobia musí byť dostatočná na zabezpečenie skutočnej nezávislosti poskytovateľov verejnoprávnych médií.
+Rozhodnutia o odvolaní najvyššieho riadiaceho pracovníka alebo členov správnej rady poskytovateľov verejnoprávnych médií pred skončením ich funkčného obdobia musia byť riadne odôvodnené, môžu sa prijímať len výnimočne, ak už nespĺňajú podmienky požadované na výkon ich povinností podľa kritérií vopred stanovených na vnútroštátnej úrovni, musia byť vopred oznámené dotknutej osobe a zahŕňajú možnosť súdneho preskúmania.
+3. Členské štáty zabezpečia, aby sa postupy financovania poskytovateľov verejnoprávnych médií zakladali na vopred stanovených transparentných a objektívnych kritériách. Uvedenými postupmi financovania sa zaručí, aby poskytovatelia verejnoprávnych médií mali primerané, udržateľné a predvídateľné finančné zdroje zodpovedajúce plneniu verejnoprávneho poslania a schopnosti rozvíjať sa v jeho rámci. Uvedené finančné zdroje musia byť dostatočné na zaručenie redakčnej nezávislosti poskytovateľov verejnoprávnych médií.
+4. Členské štáty určia jeden alebo viacero nezávislých orgánov alebo subjektov alebo zavedú mechanizmy nezávislé od politického vplyvu vlád na monitorovanie uplatňovania odsekov 1, 2 a 3. Výsledky uvedeného monitorovania sa zverejňujú.
+
+Článok 6
+Povinnosti poskytovateľov mediálnych služieb
+1. Poskytovatelia mediálnych služieb umožňujú príjemcom svojich služieb ľahký a priamy prístup k aktuálnym informáciám o: a) svojom obchodnom názve alebo názvoch a kontaktných údajoch; b) mene alebo názve alebo menách alebo názvoch ich priameho alebo nepriameho vlastníka alebo vlastníkov s podielmi, ktoré im umožňujú uplatňovať vplyv na prevádzku a prijímanie strategických rozhodnutí, a to aj o priamom alebo nepriamom vlastníctve štátom alebo orgánom verejnej moci alebo verejným subjektom; c) mene alebo menách svojho konečného užívateľa výhod alebo svojich konečných užívateľov výhod v zmysle vymedzenia v článku 3 bodu 6 smernice (EÚ) 2015/849; d) celkovej ročnej sume verejných finančných prostriedkov na štátnu reklamu, ktoré im boli pridelené, a celkovej ročnej sume príjmov z reklamy získaných od orgánov verejnej moci alebo verejných subjektov z tretích krajín.
+2. Členské štáty poveria národné regulačné orgány alebo subjekty alebo iné príslušné orgány alebo subjekty vytvorením národných databáz vlastníctva médií obsahujúcich informácie uvedené v odseku 1.
+3. Bez toho, aby bolo dotknuté národné ústavné právo v súlade s chartou, poskytovatelia mediálnych služieb, ktorí poskytujú spravodajský a publicistický obsah, prijmú opatrenia, ktoré považujú za vhodné na zaručenie nezávislosti jednotlivých redakčných rozhodnutí. Takéto opatrenia majú za cieľ najmä: a) zaručiť, aby sa redakčné rozhodnutia mohli prijímať slobodne v rámci stanovenej redakčnej línie dotknutého poskytovateľa mediálnych služieb; a b) zabezpečiť, aby boli zverejnené všetky skutočné alebo potenciálne konflikty záujmov, ktoré by mohli ovplyvniť poskytovanie spravodajského a publicistického obsahu.
+
+KAPITOLA III
+RÁMEC REGULAČNEJ SPOLUPRÁCE A RIADNEHO FUNGOVANIA VNÚTORNÉHO TRHU S MEDIÁLNYMI SLUŽBAMI
+ODDIEL 1
+Nezávislé orgány v oblasti médií
+
+Článok 7
+Národné regulačné orgány alebo subjekty
+1. Národné regulačné orgány alebo subjekty zabezpečia uplatňovanie tejto kapitoly v príslušných prípadoch prostredníctvom konzultácií alebo koordináciou s inými príslušnými orgánmi alebo subjektmi alebo v relevantných prípadoch so samoregulačnými orgánmi vo svojich členských štátoch.
+2. Národné regulačné orgány alebo subjekty podliehajú požiadavkám stanoveným v článku 30 smernice 2010/13/EÚ, pokiaľ ide o vykonávanie úloh, ktoré im boli zverené podľa tohto nariadenia.
+3. Členské štáty zabezpečia, aby národné regulačné orgány alebo subjekty mali na vykonávanie svojich úloh podľa tohto nariadenia primerané finančné, ľudské a technické zdroje.
+4. Ak je to potrebné na vykonávanie ich úloh podľa tohto nariadenia, členské štáty zabezpečia, aby národné regulačné orgány alebo subjekty boli oprávnené požadovať poskytnutie informácií a údajov, ktoré sú primerané a potrebné na vykonávanie úloh podľa tejto kapitoly v primeranej lehote od: a) fyzických alebo právnických osôb, na ktoré sa vzťahuje táto kapitola; a b) akejkoľvek inej fyzickej alebo právnickej osoby, o ktorej sa dá odôvodnene predpokladať, že by na účely súvisiace s jej obchodnou, podnikateľskou alebo profesijnou činnosťou mohla mať také informácie a údaje.
+
+ODDIEL 2
+Európska rada pre mediálne služby
+
+Článok 8
+Európska rada pre mediálne služby
+1. Týmto sa zriaďuje Európska rada pre mediálne služby (ďalej len „rada“).
+2. Rada nahrádza skupinu európskych regulačných orgánov pre audiovizuálne mediálne služby (ERGA) zriadenú článkom 30b smernice 2010/13/EÚ a je jej nástupcom.
+
+Článok 9
+Nezávislosť rady
+Rada koná pri plnení svojich úloh alebo výkone svojich právomocí úplne nezávisle. Pri plnení svojich úloh alebo výkone svojich právomocí rada najmä nežiada ani neprijíma pokyny od žiadnej vlády, inštitúcie, osoby alebo subjektu. Týmto nie sú dotknuté právomoci Komisie alebo národných regulačných orgánov alebo subjektov v súlade s týmto nariadením.
+
+Článok 10
+Štruktúra rady
+1. Rada je zložená zo zástupcov národných regulačných orgánov alebo subjektov.
+2. Každý člen rady má jeden hlas.
+3. Rada prijíma rozhodnutia dvojtretinovou väčšinou svojich členov s hlasovacím právom.
+4. Ak má členský štát viac ako jeden regulačný orgán alebo subjekt, tieto regulačné orgány alebo subjekty sa navzájom podľa potreby skoordinujú a vymenujú spoločného zástupcu. Spoločný zástupca uplatňuje hlasovacie právo.
+5. Rada spomedzi svojich členov volí predsedu a podpredsedu. Funkčné obdobie predsedu je jeden rok a môže sa raz obnoviť. Rada môže zriadiť riadiacu skupinu. Radu zastupuje jej predseda.
+6. Komisia určí zástupcu v rade. Zástupca Komisie sa zúčastňuje na rokovaniach rady bez hlasovacieho práva. Predseda rady priebežne informuje Komisiu o činnostiach rady.
+7. Rada môže na svoje zasadnutia pozvať expertov a so súhlasom Komisie aj stálych pozorovateľov.
+8. Rada prijme svoj rokovací poriadok na základe konzultácie s Komisiou. Tento rokovací poriadok zahŕňa opatrenia na predchádzanie konfliktom záujmov členov rady a ich manažment.
+
+Článok 11
+Sekretariát rady
+1. Rade pomáha sekretariát. Sekretariát zabezpečuje Komisia, pričom zohľadňuje potreby, ktoré rada určí. Sekretariát má primerané zdroje na plnenie svojich úloh.
+2. Hlavnou úlohou sekretariátu je prispievať k nezávislému vykonávaniu úloh rady stanovených v tomto nariadení a v smernici 2010/13/EÚ. Sekretariát koná výhradne podľa pokynov rady, pokiaľ ide o jeho úlohy podľa tohto nariadenia.
+3. Sekretariát poskytuje administratívnu a organizačnú podporu rade v súvislosti s jej činnosťami. Sekretariát takisto vecne pomáha rade pri vykonávaní jej úloh.
+
+Článok 12
+Konzultačný mechanizmus
+1. Ak rada zvažuje záležitosti mimo audiovizuálneho mediálneho sektora, konzultuje so zástupcami príslušných mediálnych sektorov pôsobiacich na úrovni Únie alebo na vnútroštátnej úrovni.
+2. Rada vo svojom rokovacom poriadku stanoví opatrenia na vedenie konzultácií uvedených v odseku 1. Takéto opatrenia zabezpečia, aby bolo možné podľa potreby zapojiť viacerých zástupcov.
+3. Ak je to možné, rada zverejní výsledky konzultácií uvedených v odseku 1.
+
+Článok 13
+Úlohy rady
+1. Bez toho, aby boli dotknuté právomoci udelené Komisii zmluvami, rada poskytuje Komisii poradenstvo a podporu v záležitostiach týkajúcich sa mediálnych služieb v rámci právomoci rady a podporuje konzistentné a účinné uplatňovanie tejto kapitoly a vykonávanie smernice 2010/13/EÚ v celej Únii. Rada preto: a) poskytuje Komisii technické odborné znalosti v súvislosti s jej úlohou zabezpečiť konzistentné a účinné uplatňovanie tejto kapitoly a vykonávanie smernice 2010/13/EÚ vo všetkých členských štátoch bez toho, aby boli dotknuté úlohy národných regulačných orgánov alebo subjektov; b) podporuje spoluprácu a účinnú výmenu informácií, skúseností a najlepších postupov medzi národnými regulačnými orgánmi alebo subjektmi pri uplatňovaní únijných a vnútroštátnych pravidiel uplatniteľných na mediálne služby vrátane tohto nariadenia a smernice 2010/13/EÚ, najmä pokiaľ ide o články 3, 4 a 7 uvedenej smernice; c) na žiadosť Komisie poskytuje stanoviská k technickým a vecným problémom, ktoré vznikli v súvislosti s článkom 2 ods. 5c, článkom 3 ods. 2 a 3, článkom 4 ods. 4 písm. c) a článkom 28a ods. 7 smernice 2010/13/EÚ; d) po konzultácii s Komisiou vypracúva stanoviská k: i) žiadostiam o spoluprácu medzi národnými regulačnými orgánmi alebo subjektmi v súlade s článkom 14 ods. 5 tohto nariadenia; ii) žiadostiam o opatrenia na presadzovanie práva v prípade sporu medzi žiadajúcim orgánom alebo subjektom a žiadaným orgánom alebo subjektom vrátane odporúčaných opatrení podľa článku 15 ods. 3 tohto nariadenia; iii) vnútroštátnym opatreniam týkajúcim sa mediálnych služieb nepochádzajúcich z Únie, v súlade s článkom 17 ods. 2 tohto nariadenia; e) na žiadosť poskytovateľa mediálnych služieb, s ktorým poskytovateľ veľmi veľkej online platformy nadviazal dialóg uvedený v článku 18 ods. 6 tohto nariadenia, vypracuje stanoviská k výsledkom takéhoto dialógu; f) z vlastnej iniciatívy, na žiadosť Komisie alebo na základe riadne odôvodnenej a podloženej žiadosti poskytovateľa mediálnych služieb, ktorý je individuálne a priamo dotknutý, vypracúva stanoviská týkajúce sa regulačných alebo administratívnych opatrení, ktoré pravdepodobne významne ovplyvnia fungovanie poskytovateľov mediálnych služieb na vnútornom trhu s mediálnymi službami, v súlade s článkom 21 ods. 4 tohto nariadenia; g) vypracúva stanoviská k návrhom posúdení alebo návrhom stanovísk národných regulačných orgánov alebo subjektov, v súlade s článkom 22 ods. 5 tohto nariadenia; h) z vlastnej iniciatívy alebo na žiadosť Komisie vypracúva stanoviská, v súvislosti s koncentráciami na mediálnom trhu, ktoré pravdepodobne ovplyvnia fungovanie vnútorného trhu s mediálnymi službami, v súlade s článkom 23 ods. 1 tohto nariadenia; i) pomáha Komisii pri vypracovaní usmernení, ktoré sa týkajú: i) uplatňovania tohto nariadenia a vykonávania smernice 2010/13/EÚ, v súlade s článkom 16 ods. 2 tohto nariadenia; ii) prvkov uvedených v článku 22 ods. 2 písm. a), b) a c) tohto nariadenia v súlade s odsekom 3 uvedeného článku; iii) uplatňovania článku 24 ods. 1, 2 a 3 tohto nariadenia podľa odseku 4 uvedeného článku; j) na žiadosť aspoň jedného z dotknutých národných regulačných orgánov alebo subjektov pôsobí ako sprostredkovateľ v prípade sporu medzi národnými regulačnými orgánmi alebo subjektmi, v súlade s článkom 15 ods. 3 tohto nariadenia; k) podporuje spoluprácu v oblasti harmonizovaných noriem týkajúcich sa navrhovania zariadení alebo používateľských rozhraní alebo digitálnych signálov prenášaných takýmito zariadeniami, v súlade s článkom 20 ods. 5 tohto nariadenia; l) koordinuje príslušné opatrenia dotknutých národných regulačných orgánov alebo subjektov, ktoré sa týkajú šírenia obsahu alebo prístupu k obsahu mediálnych služieb nepochádzajúcich z Únie, ktoré sa zameriavajú alebo majú dosah na publikum v Únii, pričom takéto mediálne služby ohrozujú verejnú bezpečnosť alebo predstavujú skutočné a závažné riziko jej ohrozenia, v súlade s článkom 17 ods. 1 tohto nariadenia, a po konzultácii s Komisiou vypracuje súbor kritérií uvedených v odseku 4 uvedeného článku; m) organizuje štruktúrovaný dialóg medzi poskytovateľmi veľmi veľkých online platforiem a zástupcami poskytovateľov mediálnych služieb a občianskej spoločnosti a informuje o výsledkoch takého dialógu Komisiu v súlade s článkom 19 tohto nariadenia; n) podporuje výmenu najlepších postupov v oblasti využívania systémov merania sledovanosti v súlade s článkom 24 ods. 5 tohto nariadenia; o) vymieňa si skúsenosti a najlepšie postupy v oblasti mediálnej gramotnosti, a to aj s cieľom podporiť rozvoj a využívanie účinných opatrení a nástrojov na posilnenie mediálnej gramotnosti; p) vypracúva podrobnú výročnú správu o svojej činnosti a úlohách.
+Rada sprístupní verejnosti podrobnú výročnú správu uvedenú v písmene p) prvého pododseku. Predseda na vyzvanie predkladá uvedenú správu Európskemu parlamentu.
+2. Ak Komisia žiada od rady odporúčanie alebo stanoviská, môže uviesť lehotu, pokiaľ sa neustanovuje inak v práve Únie, pričom zohľadní naliehavosť danej záležitosti.
+3. Rada postúpi svoje výstupy kontaktnému výboru zriadenému podľa článku 29 ods. 1 smernice 2010/13/EÚ (ďalej len „kontaktný výbor“).
+
+ODDIEL 3
+Regulačná spolupráca a konvergencia
+
+Článok 14
+Štruktúrovaná spolupráca
+1. Národný regulačný orgán alebo subjekt (ďalej len „žiadajúci orgán“) môže kedykoľvek požiadať jeden alebo viacero iných národných regulačných orgánov alebo subjektov (ďalej len „žiadané orgány“) o spoluprácu, a to aj prostredníctvom výmeny informácií alebo vzájomnej pomoci, s cieľom konzistentného a účinného uplatňovanie tejto kapitoly alebo vykonávania smernice 2010/13/EÚ.
+2. Žiadosť o spoluprácu musí obsahovať všetky potrebné informácie, ktoré sa jej týkajú, vrátane účelu a dôvodov žiadosti o spoluprácu.
+3. Žiadaný orgán môže vybavenie žiadosti o spoluprácu odmietnuť iba v týchto prípadoch: a) nie je príslušný, pokiaľ ide o predmet žiadosti o spoluprácu, alebo na poskytnutie požadovaného druhu spolupráce; b) vybavením žiadosti o spoluprácu by sa porušilo toto nariadenie, smernica 2010/13/EÚ alebo iné právo Únie alebo vnútroštátne právo, ktoré je v súlade s právom Únie a ktoré sa na žiadaný orgán vzťahuje; c) rozsah alebo predmet žiadosti o spoluprácu nebol riadne odôvodnený alebo je neprimeraný.
+Žiadaný orgán bez zbytočného odkladu uvedie dôvody každého odmietnutia vybavenia žiadosti o spoluprácu. Ak žiadaný orgán odmietol žiadosť o spoluprácu podľa písmena a) prvého pododseku, uvedie, ak je to možné, príslušný orgán.
+4. Žiadaný orgán urobí všetko pre to, aby sa žiadosťou o spoluprácu zaoberal a odpovedal na ňu bez zbytočného odkladu a aby pravidelne poskytoval aktuálne informácie o pokroku pri vybavovaní uvedenej žiadosti.
+5. Ak sa žiadajúci orgán nazdáva, že žiadaný orgán jeho žiadosť o spoluprácu nedostatočne vybavil alebo na ňu nedostatočne odpovedal, bez zbytočného odkladu informuje o tom žiadaný orgán s vysvetlením dôvodov svojej pozície. Ak žiadajúci orgán a žiadaný orgán nedospejú k dohode o žiadosti o spoluprácu, ktorýkoľvek orgán môže vec postúpiť rade. V súlade s lehotami, ktoré rada stanoví vo svojom rokovacom poriadku, rada po konzultácii s Komisiou vydá stanovisko k tejto záležitosti vrátane odporúčaných opatrení. Dotknuté orgány urobia všetko pre to, aby zohľadnili stanovisko rady.
+6. Ak sa žiadajúci orgán domnieva, že existuje skutočné a závažné riziko obmedzenia slobody poskytovať alebo prijímať mediálne služby na vnútornom trhu alebo skutočné a závažné riziko ohrozenia verejnej bezpečnosti, môže žiadanému orgánu predložiť žiadosť o zrýchlenú spoluprácu, pričom zabezpečí dodržiavanie základných práv, najmä slobody prejavu, a to aj na účely zabezpečenia účinného uplatňovania vnútroštátnych opatrení uvedených v článku 3 smernice 2010/13/EÚ. Žiadaný orgán odpovie na žiadosti o zrýchlenú spoluprácu a urobí všetko pre to, aby ich vybavil do 14 kalendárnych dní.
+Odseky 2, 3 a 5 tohto článku sa primerane uplatňujú na žiadosti o zrýchlenú spoluprácu.
+7. Rada vo svojom rokovacom poriadku stanoví ďalšie podrobnosti o postupe štruktúrovanej spolupráce, ako sa uvádza v tomto článku.
+
+Článok 15
+Žiadosti o presadzovanie povinností poskytovateľov platforiem na zdieľanie videí
+1. Bez toho, aby bol dotknutý článok 3 smernice 2000/31/ES, žiadajúci orgán môže podať riadne odôvodnenú žiadosť žiadanému orgánu, ktorý je príslušný pre predmet žiadosti, aby prijal potrebné a primerané opatrenia na účinné presadzovanie povinností uložených poskytovateľom platforiem na zdieľanie videí podľa článku 28b ods. 1, 2 a 3 smernice 2010/13/EÚ.
+2. Žiadaný orgán bez zbytočného odkladu informuje žiadajúci orgán o opatreniach, ktoré prijal alebo plánuje prijať, alebo o dôvodoch, pre ktoré sa opatrenia neprijali na základe žiadosti o presadzovanie podľa odseku 1. Rada na tento účel stanoví vo svojom rokovacom poriadku lehoty.
+3. V prípade sporu medzi žiadajúcim orgánom a žiadaným orgánom, pokiaľ ide o prijaté alebo plánované opatrenia alebo neprijatie opatrení v nadväznosti na žiadosť o presadzovanie podľa odseku 1, môže ktorýkoľvek orgán postúpiť záležitosť rade na účely mediácie s cieľom nájsť zmierlivé riešenie sporu.
+Ak sa po mediácii zo strany rady nenájde žiadne zmierlivé riešenie, žiadajúci orgán alebo žiadaný orgán môže požiadať radu o vydanie stanoviska k záležitosti. Rada vo svojom stanovisku posúdi, či bola žiadosť o presadzovanie podľa odseku 1 dostatočne vybavená. Ak rada dospeje k záveru, že žiadaný orgán žiadosť o presadzovanie dostatočne nevybavil, rada odporučí opatrenia na vybavenie žiadosti. Rada vydá svoje stanovisko na základe konzultácie s Komisiou bez zbytočného odkladu.
+4. Po prijatí stanoviska uvedeného v odseku 3 druhom pododseku žiadaný orgán bez zbytočného odkladu a v lehotách, ktoré rada stanoví vo svojom rokovacom poriadku, informuje radu, Komisiu a žiadajúci orgán o opatreniach, ktoré v súvislosti so stanoviskom prijal alebo plánuje prijať.
+
+Článok 16
+Usmernenie týkajúce sa regulácie médií
+1. Rada podporuje výmenu najlepších postupov medzi národnými regulačnými orgánmi alebo subjektmi, vo vhodných prípadoch konzultácie so zainteresovanými stranami o regulačných, technických alebo praktických aspektoch relevantných pre konzistentné a účinné uplatňovanie tejto kapitoly a vykonávanie smernice 2010/13/EÚ.
+2. Ak Komisia vydá usmernenia týkajúce sa uplatňovania tohto nariadenia alebo vykonávania smernice 2010/13/EÚ, rada jej pomáha poskytovaním odborných znalostí o regulačných, technických alebo praktických aspektoch, ktoré sa týkajú najmä: a) náležitého zdôraznenia audiovizuálnych mediálnych služieb všeobecného záujmu podľa článku 7a smernice 2010/13/EÚ; b) sprístupnenia informácií o vlastníckej štruktúre poskytovateľov mediálnych služieb, ako sa stanovuje v článku 5 ods. 2 smernice 2010/13/EÚ a v článku 6 ods. 1 tohto nariadenia.
+Ak Komisia vydá usmernenia týkajúce sa vykonávania smernice 2010/13/EÚ, konzultuje s kontaktným výborom.
+3. Ak Komisia vydá stanovisko k záležitosti týkajúcej sa uplatňovania tohto nariadenia alebo vykonávania smernice 2010/13/EÚ, rada Komisii pomáha.
+
+Článok 17
+Koordinácia opatrení, ktoré sa týkajú mediálnych služieb nepochádzajúcich z Únie
+1. Bez toho, aby bol dotknutý článok 3 smernice 2010/13/EÚ, rada na žiadosť národných regulačných orgánov alebo subjektov z aspoň dvoch členských štátov koordinuje príslušné opatrenia dotknutých národných regulačných orgánov alebo subjektov týkajúce sa šírenia mediálnych služieb alebo prístupu k mediálnym službám nepochádzajúcim z Únie alebo zabezpečovaných poskytovateľmi mediálnych služieb usadenými mimo Únie, ktoré, bez ohľadu na spôsob distribúcie alebo prístupu, sa zameriavajú alebo majú dosah na publikum v Únii, ak, okrem iného vzhľadom na kontrolu, ktorú by nad nimi mohli mať tretie krajiny, takéto mediálne služby ohrozujú verejnú bezpečnosť alebo predstavujú skutočné a závažné riziko ohrozenia verejnej bezpečnosti.
+2. Rada na základe konzultácie s Komisiou môže vydávať stanoviská k vhodným opatreniam uvedeným v odseku 1. Bez toho, aby boli dotknuté ich právomoci podľa vnútroštátneho práva, dotknuté príslušné národné orgány vrátane národných regulačných orgánov alebo subjektov sa maximálne usilujú o zohľadnenie stanovísk rady.
+3. Členské štáty zabezpečia, aby sa dotknutým národným regulačným orgánom alebo subjektom nebránilo zohľadniť stanovisko vydané radou podľa odseku 2 pri zvažovaní prijatia opatrení uvedených v odseku 1 proti poskytovateľovi mediálnych služieb.
+4. Rada na základe konzultácie s Komisiou vypracuje zoznam kritérií, ktoré majú národné regulačné orgány alebo subjekty zohľadniť pri výkone svojich regulačných právomocí voči poskytovateľom mediálnych služieb uvedeným v odseku 1. Dotknuté regulačné orgány alebo subjekty urobia všetko pre to, aby zohľadnili uvedené kritériá.
+
+ODDIEL 4
+Poskytovanie mediálnych služieb v digitálnom prostredí a prístup k nim
+
+Článok 18
+Obsah poskytovateľov mediálnych služieb na veľmi veľkých online platformách
+1. Poskytovatelia veľmi veľkých online platforiem zabezpečujú funkciu, ktorá príjemcom ich služieb umožňuje: a) vyhlásiť, že sú poskytovateľmi mediálnych služieb; b) vyhlásiť, že spĺňajú ustanovenia článku 6 ods. 1; c) vyhlásiť, že sú redakčne nezávislí od členských štátov, politických strán, tretích krajín a subjektov kontrolovaných alebo financovaných tretími krajinami; d) vyhlásiť, že podliehajú regulačným požiadavkám na vykonávanie redakčnej zodpovednosti v jednom alebo vo viacerých členských štátoch a dohľadu príslušného národného regulačného orgánu alebo subjektu alebo, že dodržiavajú koregulačný alebo samoregulačný mechanizmus, ktorým sa upravujú redakčné štandardy, ktorý je všeobecne uznávaný a akceptovaný v príslušnom mediálnom sektore v jednom alebo vo viacerých členských štátoch; e) vyhlásiť, že neposkytujú obsah vytvorený systémami umelej inteligencie bez toho, aby podliehal ľudskému preskúmaniu alebo redakčnej kontrole; f) poskytnúť svoj obchodný názov a kontaktné údaje vrátane e-mailovej adresy, prostredníctvom ktorých môže poskytovateľ veľmi veľkej online platformy s nimi rýchlo a priamo komunikovať; a g) uviesť kontaktné údaje príslušných národných regulačných orgánov alebo subjektov alebo zástupcov koregulačných alebo samoregulačných mechanizmov uvedených v písmene d).
+V prípade odôvodnenej pochybnosti o tom, či poskytovateľ mediálnych služieb dodržiava ustanovenia prvého pododseku písm. d), poskytovateľ veľmi veľkej online platformy požiada o potvrdenie príslušný národný regulačný orgán alebo subjekt alebo príslušný koregulačný alebo samoregulačný mechanizmus.
+2. Poskytovatelia veľmi veľkých online platforiem zabezpečia, aby sa informácie deklarované podľa odseku 1 s výnimkou informácií uvedených v odseku 1 prvom pododseku písm. f) zverejnili na ich online rozhraní ľahko dostupným spôsobom.
+3. Poskytovatelia veľmi veľkých online platforiem potvrdia prijatie vyhlásení predložených podľa odseku 1 a poskytnú svoje kontaktné údaje vrátane e-mailovej adresy, prostredníctvom ktorej môže poskytovateľ mediálnych služieb s nimi priamo a rýchlo komunikovať.
+Poskytovatelia veľmi veľkých online platforiem bez zbytočného odkladu uvedú, či vyhlásenia predložené podľa odseku 1 akceptujú alebo odmietajú.
+4. Ak poskytovateľ veľmi veľkej online platformy zamýšľa prijať rozhodnutie o pozastavení poskytovania svojich online sprostredkovateľských služieb v súvislosti s obsahom, ktorý poskytuje poskytovateľ mediálnych služieb, ktorý predložil vyhlásenie podľa odseku 1 tohto článku, alebo rozhodnutie o obmedzení viditeľnosti takého obsahu z dôvodu, že takýto obsah nie je v súlade s jeho obchodnými podmienkami, pred tým, ako také rozhodnutie o pozastavení alebo obmedzení viditeľnosti nadobudne účinnosť: a) oznámi dotknutému poskytovateľovi mediálnych služieb odôvodnenie svojho plánovaného rozhodnutia o pozastavení alebo obmedzení viditeľnosti, ako sa uvádza v článku 4 ods. 1 nariadenia (EÚ) 2019/1150 a článku 17 nariadenia (EÚ) 2022/2065; a b) poskytne poskytovateľovi mediálnych služieb možnosť odpovedať na odôvodnenie uvedené v prvom pododseku písm. a) tohto odseku do 24 hodín od jeho doručenia alebo v prípade krízy, ako sa uvádza v článku 36 ods. 2 nariadenia (EÚ) 2022/2065, v kratšej lehote, ktorá poskytovateľovi mediálnych služieb poskytne dostatočný čas na zmysluplnú odpoveď.
+Ak poskytovateľ veľmi veľkej online platformy po odpovedi uvedenej v prvom pododseku písm. b) alebo v prípade neposkytnutia takejto odpovede prijme rozhodnutie o pozastavení alebo obmedzení viditeľnosti, bez zbytočného odkladu o tom informuje dotknutého poskytovateľa mediálnych služieb.
+Tento odsek sa neuplatňuje, ak poskytovatelia veľmi veľkých online platforiem pozastavia poskytovanie svojich služieb v súvislosti s obsahom poskytovaným poskytovateľom mediálnych služieb alebo obmedzia viditeľnosť takéhoto obsahu v súlade s ich povinnosťami podľa článkov 28, 34 a 35 nariadenia (EÚ) 2022/2065 a článku 28b smernice 2010/13/EÚ alebo s ich povinnosťami týkajúcimi sa nezákonného obsahu podľa práva Únie.
+5. Poskytovatelia veľmi veľkých online platforiem prijmú všetky potrebné technické a organizačné opatrenia na zabezpečenie toho, aby sa sťažnosti podané poskytovateľmi mediálnych služieb podľa článku 11 nariadenia (EÚ) 2019/1150 alebo článku 20 nariadenia (EÚ) 2022/2065 vybavovali a aby sa o nich rozhodovalo prednostne a bez zbytočného odkladu. Poskytovateľa mediálnych služieb môže v postupe vnútorného vybavovania sťažností uvedenom v daných článkoch zastupovať orgán.
+6. Ak sa poskytovateľ mediálnych služieb, ktorý predložil vyhlásenie podľa odseku 1, domnieva, že poskytovateľ veľmi veľkej online platformy opakovane obmedzil alebo pozastavil bez dostatočných dôvodov poskytovanie svojich služieb vo vzťahu k obsahu, ktorý poskytuje poskytovateľ mediálnych služieb, poskytovateľ veľmi veľkej online platformy musí v dobrej viere nadviazať zmysluplný a účinný dialóg s poskytovateľom mediálnych služieb na jeho žiadosť s cieľom nájsť zmierlivé riešenie v primeranej lehote, aby sa ukončili neodôvodnené obmedzenia alebo pozastavenia a aby sa im predišlo v budúcnosti. Poskytovateľ mediálnych služieb môže oznámiť výsledok a podrobnosti takého dialógu rade a Komisii. Poskytovateľ mediálnych služieb môže požiadať radu o vydanie stanoviska k výsledku takého dialógu vrátane odporúčaných opatrení pre poskytovateľa veľmi veľkej online platformy v relevantných prípadoch. Rada o svojom stanovisku informuje Komisiu.
+7. Ak poskytovateľ veľmi veľkej online platformy odmietne alebo zruší platnosť vyhlásenia poskytovateľa mediálnych služieb predloženého podľa odseku 1 tohto článku, alebo ak sa po dialógu podľa odseku 6 tohto článku nenašlo zmierlivé riešenie, dotknutý poskytovateľ mediálnych služieb môže využiť mediáciu podľa článku 12 nariadenia (EÚ) 2019/1150 alebo využiť mimosúdne riešenie sporov podľa článku 21 nariadenia (EÚ) 2022/2065. Dotknutý poskytovateľ mediálnych služieb môže oznámiť rade výsledok uvedenej mediácie alebo mimosúdneho riešenia sporu.
+8. Poskytovateľ veľmi veľkej online platformy každoročne zverejňuje podrobné informácie o: a) počte prípadov, v ktorých zaviedol akékoľvek obmedzenie alebo pozastavenie z dôvodov nezlučiteľnosti obsahu poskytovaného poskytovateľom mediálnych služieb, ktorý predložil vyhlásenie podľa odseku 1, s jeho obchodnými podmienkami; b) dôvodoch na zavedenie takýchto obmedzení alebo pozastavení vrátane osobitných ustanovení v jeho obchodných podmienkach, pri ktorých sa prišlo k záveru, že obsah poskytovateľa mediálnych služieb s nimi nebol v súlade; c) počte dialógov s poskytovateľmi mediálnych služieb podľa odseku 6; d) počte prípadov, v ktorých odmietol vyhlásenia predložené poskytovateľom mediálnych služieb podľa odseku 1, a dôvodoch ich odmietnutia; e) počte prípadov, v ktorých zrušil platnosť vyhlásenia predloženého poskytovateľom mediálnych služieb podľa odseku 1, a dôvodoch zrušenia jeho platnosti.
+9. V záujme uľahčenia konzistentného a účinného vykonávania tohto článku Komisia vydáva usmernenia na uľahčenie účinného vykonávania funkcie uvedenej v odseku 1.
+
+Článok 19
+Štruktúrovaný dialóg
+1. Rada pravidelne organizuje štruktúrovaný dialóg medzi poskytovateľmi veľmi veľkých online platforiem, zástupcami poskytovateľov mediálnych služieb a zástupcami občianskej spoločnosti s cieľom: a) diskutovať o skúsenostiach a najlepších postupoch pri uplatňovaní článku 18, a to aj pokiaľ ide o fungovanie veľmi veľkých online platforiem a ich postupy moderovania obsahu poskytovaného poskytovateľmi mediálnych služieb; b) podporiť prístup k rôznym ponukám nezávislých médií na veľmi veľkých online platformách; a c) monitorovať dodržiavanie samoregulačných iniciatív zameraných na ochranu používateľov pred škodlivým obsahom vrátane dezinformácií a zahraničnej manipulácie s informáciami a zahraničného zasahovania do nich.
+2. Rada podáva Komisii správu o výsledkoch štruktúrovaného dialógu uvedeného v odseku 1. Ak je to možné, rada výsledky takýchto štruktúrovaných dialógov zverejňuje.
+
+Článok 20
+Právo na prispôsobenie mediálnej ponuky
+1. Používatelia majú právo jednoducho zmeniť konfiguráciu vrátane predvolených nastavení každého zariadenia alebo používateľského rozhrania, ktorým sa ovláda alebo riadi prístup k mediálnym službám poskytujúcim programy a ich používanie, aby si mohli prispôsobiť mediálnu ponuku podľa svojich záujmov alebo preferencií v súlade s právom Únie. Tento odsek nemá vplyv na vnútroštátne opatrenia, ktorými sa vykonáva článok 7a alebo 7b smernice 2010/13/EÚ.
+2. Keď sa zariadenia a používateľské rozhrania uvedené v odseku 1 uvádzajú na trh, výrobcovia, vývojári a dovozcovia zabezpečia, aby takéto zariadenia a používateľské rozhrania obsahovali funkciu umožňujúcu používateľom voľne a jednoducho kedykoľvek zmeniť ich konfiguráciu vrátane predvoleného nastavenia, ktorými sa kontroluje a riadi prístup k ponúkaným mediálnym službám a ich využívanie.
+3. Výrobcovia, vývojári a dovozcovia zariadení a používateľských rozhraní uvedených v odseku 1 zabezpečia, aby vizuálna identita poskytovateľov mediálnych služieb, k službám ktorých ich zariadenia a používateľské rozhrania poskytujú prístup, bola pre používateľov konzistentne a jasne viditeľná.
+4. Členské štáty prijmú vhodné opatrenia na zabezpečenie toho, aby výrobcovia, vývojári a dovozcovia zariadení alebo používateľských rozhraní uvedených v odseku 1 dodržiavali odseky 2 a 3.
+5. Rada podporuje spoluprácu medzi poskytovateľmi mediálnych služieb, normalizačnými orgánmi alebo akýmikoľvek inými príslušnými zainteresovanými stranami s cieľom propagovať vývoj harmonizovaných noriem týkajúcich sa navrhovania zariadení alebo používateľských rozhraní uvedených v odseku 1 alebo digitálnych signálov prenášaných takýmito zariadeniami.
+
+ODDIEL 5
+Požiadavky na opatrenia a postupy potrebné pre dobre fungujúci mediálny trh
+
+Článok 21
+Vnútroštátne opatrenia ovplyvňujúce poskytovateľov mediálnych služieb
+1. Legislatívne, regulačné alebo administratívne opatrenia prijaté členským štátom, ktoré sú spôsobilé ovplyvniť pluralitu médií alebo redakčnú nezávislosť poskytovateľov mediálnych služieb pôsobiacich na vnútornom trhu, musia byť riadne odôvodnené a primerané. Takéto opatrenia musia byť odôvodnené, transparentné, objektívne a nediskriminačné.
+2. Každý vnútroštátny postup použitý na účely prijatia administratívneho opatrenia uvedeného v odseku 1 sa riadi vopred stanovenými časovými rámcami. Takéto postupy sa uskutočňujú bez zbytočného odkladu.
+3. Každý poskytovateľ mediálnych služieb, na ktorého sa vzťahuje regulačné alebo administratívne opatrenie uvedené v odseku 1, ktoré sa ho týka jednotlivo a priamo, má právo odvolať sa proti tomuto opatreniu na odvolacom orgáne. Tento orgán, ktorým môže byť súd, je nezávislý od zúčastnených strán a od akéhokoľvek vonkajšieho zásahu alebo politického tlaku spôsobilého ohroziť jeho nezávislé posudzovanie predkladaných záležitostí. Má primerané odborné znalosti, ktoré mu umožňujú účinne a včas vykonávať svoje funkcie.
+4. Ak je pravdepodobné, že regulačné alebo administratívne opatrenie uvedené v odseku 1 významne ovplyvní fungovanie poskytovateľov mediálnych služieb na vnútornom trhu, rada z vlastnej iniciatívy, na žiadosť Komisie alebo na základe riadne odôvodnenej a podloženej žiadosti poskytovateľa mediálnych služieb, ktorý je takýmto opatrením individuálne a priamo dotknutý, vypracuje stanovisko k opatreniu. Komisia môže vydať vlastné stanovisko k záležitosti bez toho, aby boli dotknuté právomoci Komisie podľa zmlúv. Rada a Komisia svoje stanoviská zverejňujú.
+5. Na účel vypracovania stanoviska podľa odseku 4 môže rada a v príslušných prípadoch Komisia požiadať o relevantné informácie vnútroštátny orgán alebo subjekt, ktorý prijal regulačné alebo správne opatrenie uvedené v odseku 1, ktoré sa osobne a priamo týka poskytovateľa mediálnych služieb. Dotknutý vnútroštátny orgán alebo subjekt poskytne tieto informácie bez zbytočného odkladu elektronickými prostriedkami.
+
+Článok 22
+Posudzovanie koncentrácií na mediálnom trhu
+1. Členské štáty stanovia vo svojom vnútroštátnom práve hmotnoprávne a procesné pravidlá, ktorými sa umožní posúdenie koncentrácií na mediálnom trhu, ktoré by mohli mať významný vplyv na pluralitu médií a redakčnú nezávislosť. Uvedené pravidlá musia: a) byť transparentné, objektívne, primerané a nediskriminačné; b) požadovať od strán zapojených do takej koncentrácie na mediálnom trhu, aby koncentráciu vopred oznámili príslušným vnútroštátnym orgánom alebo subjektom, alebo aby takýmto orgánom alebo subjektom poskytli primerané právomoci na získanie informácií od týchto strán, ktoré sú potrebné na posúdenie koncentrácie; c) určiť národné regulačné orgány alebo subjekty ako zodpovedné za toto posúdenie alebo zabezpečiť, aby sa do posudzovania vecne zapojili; d) vopred stanoviť objektívne, nediskriminačné a primerané kritériá pre oznamovanie takýchto koncentrácií na mediálnom trhu a posudzovanie vplyvu na pluralitu médií a redakčnú nezávislosť; a e) vopred uviesť časové rámce na dokončenie takých posúdení.
+Posudzovanie koncentrácií na mediálnom trhu uvedené v tomto odseku je odlišné od posudzovania v oblasti práva hospodárskej súťaže na úrovni Únie a vnútroštátnej úrovni vrátane posudzovania vykonávaného podľa pravidiel kontroly fúzií. V príslušných prípadoch ním nie je dotknuté ani ustanovenie článku 21 ods. 4 nariadenia (ES) č. 139/2004.
+2. Pri posudzovaní koncentrácií na mediálnom trhu podľa odseku 1 sa berú do úvahy tieto prvky: a) očakávaný vplyv koncentrácie na mediálnom trhu na pluralitu médií vrátane jej vplyvu na formovanie verejnej mienky a na rozmanitosť mediálnych služieb a mediálnej ponuky na trhu s prihliadnutím na online prostredie a záujmy, prepojenia alebo činnosti strán v iných mediálnych podnikoch alebo podnikoch nesúvisiacich s médiami; b) záruky pre redakčnú nezávislosť vrátane opatrení prijatých poskytovateľmi mediálnych služieb s cieľom zaručiť nezávislosť redakčných rozhodnutí; c) to, či v prípade, ak by ku koncentrácii na mediálnom trhu nedošlo, by strany zapojené do koncentrácie na mediálnom trhu zostali hospodársky udržateľné a či existujú akékoľvek možné alternatívy na zabezpečenie ich hospodárskej udržateľnosti; d) v relevantných prípadoch zistenia výročnej správy Komisie o právnom štáte týkajúce sa plurality a slobody médií; a e) v príslušných prípadoch záväzky, ktoré by mohla ponúknuť ktorákoľvek zo strán zapojených do koncentrácie na mediálnom trhu s cieľom chrániť pluralitu médií a redakčnú nezávislosť.
+3. Komisia s pomocou rady vydá usmernenia týkajúce sa prvkov uvedených v odseku 2 písm. a), b) a c).
+4. Ak je pravdepodobné, že koncentrácia na mediálnom trhu ovplyvní fungovanie vnútorného trhu s mediálnymi službami, dotknutý národný regulačný orgán alebo subjekt vopred konzultuje s radou svoj návrh posúdenia alebo návrh stanoviska.
+5. Rada v lehotách, ktoré stanoví vo svojom rokovacom poriadku, vypracuje stanovisko k návrhu posúdenia alebo návrhu stanoviska uvedenom v odseku 4, pričom zohľadní prvky uvedené v odseku 2, a uvedené stanovisko postúpi dotknutému národnému regulačnému orgánu alebo subjektu a Komisii.
+6. Národný regulačný orgán alebo subjekt uvedený v odseku 4 v najväčšej možnej miere zohľadní stanovisko uvedené v odseku 5. Ak národný regulačný orgán alebo subjekt v plnej miere alebo čiastočne stanovisko nezohľadní, predloží rade a Komisii podložené odôvodnenie s vysvetlením svojej pozície v lehotách stanovených radou v jej rokovacom poriadku.
+
+Článok 23
+Stanoviská týkajúce sa koncentrácií na mediálnom trhu
+1. Keď neexistuje posúdenie ani konzultácia podľa článku 22, rada z vlastnej iniciatívy alebo na žiadosť Komisie vypracuje stanovisko k vplyvu koncentrácie na mediálnom trhu na pluralitu médií a redakčnú nezávislosť, ak uvedená koncentrácia na mediálnom trhu pravdepodobne ovplyvní fungovanie vnútorného trhu s mediálnymi službami. Rada vo svojom stanovisku vychádza z prvkov uvedených v článku 22 ods. 2 Rada môže Komisiu upozorniť na takéto koncentrácie na mediálnom trhu.
+2. Komisia môže vydať vlastné stanovisko k tejto záležitosti bez toho, aby boli dotknuté jej právomoci podľa zmlúv.
+3. Rada a Komisia svoje stanoviská uvedené v tomto článku zverejňujú.
+
+ODDIEL 6
+Transparentné a spravodlivé prideľovanie hospodárskych zdrojov
+
+Článok 24
+Meranie sledovanosti
+1. Poskytovatelia systémov merania sledovanosti zabezpečujú, aby ich systémy merania sledovanosti a metodika, ktorú používajú ich systémy merania sledovanosti, boli v súlade so zásadami transparentnosti, nestrannosti, inkluzívnosti, proporcionality, nediskriminácie, porovnateľnosti a overiteľnosti.
+2. Bez toho, aby bola dotknutá ochrana obchodných tajomstiev podnikov v zmysle vymedzenia v článku 2 bode 1 smernice (EÚ) 2016/943, poskytovatelia proprietárnych systémov merania sledovanosti bez zbytočného odkladu a bezodplatne poskytujú poskytovateľom mediálnych služieb a šíriteľom reklamy, ako aj tretím stranám, ktoré poskytovatelia mediálnych služieb a šíritelia reklamy oprávnili, presné, podrobné, komplexné, zrozumiteľné a aktuálne informácie o metodike použitej v ich systémoch merania sledovanosti.
+Poskytovatelia proprietárnych systémov merania sledovanosti zabezpečia, aby metodika, ktorú používajú ich systémy merania sledovanosti, a spôsob, akým sa uplatňuje, boli raz ročne predmetom nezávislého auditu. Poskytovateľ proprietárneho systému merania sledovanosti poskytne poskytovateľovi mediálnych služieb na jeho žiadosť informácie o výsledkoch merania sledovanosti vrátane neagregovaných údajov, ktoré sa týkajú mediálneho obsahu a mediálnych služieb uvedeného poskytovateľa mediálnych služieb.
+Tento odsek nemá vplyv na pravidlá Únie v oblasti ochrany údajov a súkromia.
+3. Národné regulačné orgány alebo subjekty nabádajú poskytovateľov systémov merania sledovanosti, aby spolu s poskytovateľmi mediálnych služieb, poskytovateľmi online platforiem, ich zastupujúcimi organizáciami a akýmikoľvek inými zainteresovanými stranami vypracovali kódexy správania, alebo nabádajú poskytovateľov systémov merania sledovanosti, aby dodržiavali kódexy správania, ktoré spoločne dohodli a všeobecne akceptujú poskytovatelia mediálnych služieb, ich zastupujúce organizácie a akékoľvek iné zainteresované strany.
+Kódexy správania uvedené v prvom pododseku tohto odseku sú určené na podporu pravidelného, nezávislého a transparentného monitorovania skutočného plnenia ich cieľov a dodržiavania zásad uvedených v odseku 1, a to aj prostredníctvom nezávislých a transparentných auditov.
+4. Komisia môže s pomocou rady vydať usmernenia k praktickému uplatňovaniu odsekov 1, 2 a 3, pričom vo vhodných prípadoch zohľadní kódexy správania uvedené v odseku 3.
+5. Rada podporuje výmenu najlepších postupov týkajúcich sa využívania systémov merania sledovanosti prostredníctvom pravidelného dialógu medzi zástupcami národných regulačných orgánov alebo subjektov, zástupcami poskytovateľov systémov merania sledovanosti, zástupcami poskytovateľov mediálnych služieb, zástupcami poskytovateľov online platforiem a inými zainteresovanými stranami.
+
+Článok 25
+Prideľovanie verejných finančných prostriedkov na štátnu reklamu a na zákazky na dodanie tovaru alebo poskytnutie služieb
+1. Verejné finančné prostriedky alebo každá iná odplata alebo výhoda, ktorú orgány verejnej moci alebo verejné subjekty priamo alebo nepriamo poskytnú poskytovateľom mediálnych služieb alebo poskytovateľom online platforiem na štátnu reklamu alebo na zákazky na dodanie tovaru alebo poskytnutie služieb sa udeľujú v súlade s transparentnými, objektívnymi, primeranými a nediskriminačnými kritériami, ktoré sa vopred zverejňujú elektronickými a používateľsky ústretovými prostriedkami a prostredníctvom otvorených, primeraných a nediskriminačných postupov.
+Členské štáty sa usilujú zabezpečiť, aby sa celkové ročné verejné výdavky pridelené na štátnu reklamu distribuovali širokej škále poskytovateľov mediálnych služieb zastúpených na trhu, pričom sa zohľadnia vnútroštátne a miestne špecifiká dotknutých mediálnych trhov.
+Tento článok nemá vplyv na zadávanie verejných zákaziek a koncesné zmluvy podľa pravidiel Únie v oblasti verejného obstarávania ani na uplatňovanie pravidiel Únie v oblasti štátnej pomoci.
+2. Orgány verejnej moci alebo verejné subjekty zverejňujú elektronickými a používateľsky ústretovými prostriedkami každoročne informácie o svojich verejných výdavkoch na štátnu reklamu. Tieto informácie obsahujú aspoň tieto údaje: a) obchodné názvy poskytovateľov mediálnych služieb alebo poskytovateľov online platforiem, od ktorých nakúpili služby; b) v príslušných prípadoch obchodné názvy podnikateľských zoskupení, ktorých súčasťou sú poskytovatelia mediálnych služieb alebo poskytovatelia online platforiem uvedení v písmene a); a c) celkovú sumu uhradenú ročne a sumy vyplatené ročne každému poskytovateľovi mediálnej služby alebo poskytovateľovi online platformy.
+Členské štáty môžu oslobodiť orgány na nižšej úrovni verejnej správy územných celkov s menej ako 100 000 obyvateľmi a subjekty priamo alebo nepriamo kontrolované takýmito orgánmi nižšej úrovne verejnej správy od povinnosti podľa prvého pododseku písm. b).
+3. Národné regulačné orgány alebo subjekty alebo iné príslušné nezávislé orgány alebo subjekty v členských štátoch každoročne monitorujú prideľovanie výdavkov na štátnu reklamu poskytovateľom mediálnych služieb a poskytovateľom online platforiem a každoročne o tom podávajú správy na základe informácií uvedených v odseku 2. Uvedené výročné správy sa zverejňujú ľahko dostupným spôsobom.
+Na účely posúdenia úplnosti informácií o štátnej reklame sprístupnených podľa odseku 2 môžu národné regulačné orgány alebo subjekty alebo iné príslušné nezávislé orgány alebo subjekty v členských štátoch žiadať od orgánov verejnej moci alebo verejných subjektov uvedených v odseku 2 prvom pododseku ďalšie informácie vrátane podrobnejších informácií o uplatnení kritérií a postupov uvedených v odseku 1.
+Ak monitorovanie, posudzovanie a podávanie správ vykonávajú iné príslušné nezávislé orgány alebo subjekty v členských štátoch, náležite informujú národné regulačné orgány alebo subjekty.
+
+KAPITOLA IV
+ZÁVEREČNÉ USTANOVENIA
+
+Článok 26
+Monitorovanie
+1. Komisia zabezpečí, aby bol vnútorný trh s mediálnymi službami vrátane rizík pre jeho fungovanie a pokroku jeho fungovania nezávisle a nepretržite monitorovaný (ďalej len „monitorovanie“). Zistenia uvedeného monitorovania sa konzultujú s radou a predkladajú sa kontaktnému výboru a prerokúvajú sa s ním.
+2. Komisia po konzultácii s radou vymedzí kľúčové ukazovatele výkonnosti, metodické záruky na ochranu objektívnosti a kritériá výberu výskumných pracovníkov pre monitorovanie.
+3. Monitorovanie zahŕňa: a) podrobnú analýzu mediálnych trhov vo všetkých členských štátoch, a to aj pokiaľ ide o úroveň koncentrácie médií a rizík zahraničnej manipulácie s informáciami a zahraničného zasahovania; b) prehľad a výhľadovo orientované posúdenie fungovania vnútorného trhu s mediálnymi službami ako celku, a to aj pokiaľ ide o vplyv online platforiem; c) prehľad rizík pre pluralitu médií a redakčnú nezávislosť poskytovateľov mediálnych služieb, ak by mohli ovplyvniť fungovanie vnútorného trhu; d) prehľad opatrení prijatých poskytovateľmi mediálnych služieb s cieľom zaručiť nezávislosť redakčných rozhodnutí; e) podrobný prehľad rámcov a postupov prideľovania verejných finančných prostriedkov na štátnu reklamu.
+4. Monitorovanie sa vykonáva každý rok. Výsledky monitorovania vrátane metodiky a údajov, ktoré sa pri ňom použili, sa každoročne zverejňujú a každoročne predkladajú Európskemu parlamentu.
+
+Článok 27
+Hodnotenie a podávanie správ
+1. Do 8. augusta 2028 a následne každé štyri roky Komisia vypracuje hodnotenie tohto nariadenia a podá správu Európskemu parlamentu, Rade a Európskemu hospodárskemu a sociálnemu výboru.
+2. V prvom takomto hodnotení uvedenom v odseku 1 tohto článku Komisia preskúma najmä účinnosť fungovania sekretariátu rady uvedeného v článku 11, a to aj pokiaľ ide o primeranosť zdrojov vo vzťahu k plneniu jeho úloh.
+3. Na účely odseku 1 a na žiadosť Komisie jej členské štáty a rada posielajú príslušné informácie.
+4. Pri vykonávaní hodnotení uvedených v odseku 1 tohto článku Komisia zohľadňuje: a) pozície a zistenia Európskeho parlamentu, Rady a iných príslušných subjektov alebo zdrojov; b) výsledky relevantných diskusií, ktoré prebehli na príslušných fórach; c) príslušné dokumenty, ktoré vydala rada; d) zistenia monitorovania podľa článku 26.
+5. Vo vhodných prípadoch sa k správe uvedenej v odseku 1 môže pripojiť návrh na zmenu tohto nariadenia.
+
+Článok 28
+Zmeny smernice 2010/13/EÚ
+Smernica 2010/13/EÚ sa mení takto:
+1.
+Článok 30b sa vypúšťa.
+2.
+Odkazy na článok 30b smernice 2010/13/EÚ sa považujú za odkazy na článok 13 ods. 1 písm. c) tohto nariadenia.
+
+Článok 29
+Nadobudnutie účinnosti a uplatňovanie
+Toto nariadenie nadobúda účinnosť dvadsiatym dňom nasledujúcim po jeho uverejnení v Úradnom vestníku Európskej únie .
+Toto nariadenie sa uplatňuje od 8. augusta 2025. Avšak:
+a)
+článok 3 sa uplatňuje od 8. novembra 2024;
+b)
+článok 4 ods. 1 a 2, článok 6 ods. 3 a články 7 až 13 a 28 sa uplatňujú od 8. februára 2025;
+c)
+články 14 až 17 sa uplatňujú od 8. mája 2025;
+d)
+článok 20 sa uplatňuje od 8. mája 2027.
+
+Toto nariadenie je záväzné v celom rozsahu a priamo uplatniteľné vo všetkých členských štátoch.
+
+( ) Smernica Európskeho parlamentu a Rady (EÚ) 2019/790 zo 17. apríla 2019 o autorskom práve a právach súvisiacich s autorským právom na digitálnom jednotnom trhu a o zmene smerníc 96/9/ES a 2001/29/ES (Ú. v. EÚ L 130, 17.5.2019, s. 92).
+( ) Nariadenie Európskeho parlamentu a Rady (EÚ) 2024/900 z 13. marca 2024 o transparentnosti a cielení politickej reklamy (Ú. v. EÚ L, 2024/900, 20.3.2024, ELI: http://data.europa.eu/eli/reg/2024/900/oj ).
+( ) Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) (Ú. v. EÚ L 119, 4.5.2016, s. 1).
+( ) Smernica Európskeho parlamentu a Rady (EÚ) 2016/680 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov príslušnými orgánmi na účely predchádzania trestným činom, ich vyšetrovania, odhaľovania alebo stíhania alebo na účely výkonu trestných sankcií a o voľnom pohybe takýchto údajov a o zrušení rámcového rozhodnutia Rady 2008/977/SVV (Ú. v. EÚ L 119, 4.5.2016, s. 89).

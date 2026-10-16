@@ -1,0 +1,316 @@
+EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS (EL) 2024/1083,
+11. aprill 2024 ,
+millega luuakse siseturul meediateenuste ühine raamistik ja muudetakse direktiivi 2010/13/EL (Euroopa meediavabaduse määrus)
+(EMPs kohaldatav tekst)
+
+I PEATÜKK
+ÜLDSÄTTED
+
+Artikkel 1
+Reguleerimisese ja kohaldamisala
+1. Käesoleva määrusega kehtestatakse ühised normid meediateenuste siseturu tõrgeteta toimimiseks ja luuakse Euroopa meediateenuste nõukoda, säilitades samal ajal meediateenuste sõltumatuse ja pluralismi.
+2. Käesolev määrus ei mõjuta õigusnorme, mis on sätestatud järgmistes õigusaktides: a) direktiiv 2000/31/EÜ; b) Euroopa Parlamendi ja nõukogu direktiiv (EL) 2019/790 ( 1 ); c) määrus (EL) 2019/1150; d) määrus (EL) 2022/2065; e) määrus (EL) 2022/1925; f) Euroopa Parlamendi ja nõukogu määrus (EL) 2024/900 ( 2 ); g) Euroopa Parlamendi ja nõukogu määrus (EL) 2016/679 ( 3 ).
+3. Käesolev määrus ei mõjuta liikmesriikide võimalust võtta vastu üksikasjalikumaid või rangemaid norme II peatükis, III peatüki 5. jaos ja artiklis 25 käsitletud valdkondades, tingimusel et nimetatud normid tagavad meedia mitmekesisuse või toimetuste sõltumatuse kaitse kõrgema taseme kooskõlas käesoleva määrusega ja on kooskõlas liidu õigusega.
+
+Artikkel 2
+Mõisted
+Käesolevas määruses kasutatakse järgmisi mõisteid:
+1)
+„meediateenus“ – teenus ELi toimimise lepingu artiklites 56 ja 57 määratletud tähenduses, kui teenuse või selle eristatava osa peamine eesmärk on pakkuda meediateenuse osutaja toimetusvastutusel mis tahes viisil üldsusele teavituslikke, meelelahutuslikke või hariduslikke saateid või ajakirjandusväljaandeid;
+2)
+„meediateenuse osutaja“ – füüsiline või juriidiline isik, kelle ametialane tegevus seisneb meediateenuse osutamises ning kellel on toimetusvastutus meediateenuse sisu valikul ja kes määrab selle esitamise viisi;
+3)
+„avalik-õiguslik meediateenuse osutaja“ – meediateenuse osutaja, kellele on riigisisese õiguse alusel usaldatud avaliku teenuse osutamine ja kes saab avaliku teenuse osutamiseks riigilt avaliku sektori vahendeid;
+4)
+„saade“ – liikuvate kujutiste või helide kogum, mis olenemata selle pikkusest moodustab meediateenuse osutaja koostatud kava või kataloogi raames eraldi elemendi;
+5)
+„ajakirjandusväljaanne“ – direktiivi (EL) 2019/790 artikli 2 punktis 4 määratletud ajakirjandusväljaanne;
+6)
+„audiovisuaalmeedia teenus“ – direktiivi 2010/13/EL artikli 1 lõike 1 punktis a määratletud audiovisuaalmeedia teenus;
+7)
+„toimetusotsus“ – toimetusvastutuse täitmise eesmärgil regulaarselt tehtav otsus, mis on seotud meediateenuse osutaja igapäevase tegevusega;
+8)
+„toimetusvastutus“ – tegelik kontroll nii saadete või ajakirjandusväljaannete valiku kui ka nende ülesehituse üle meediateenuse osutamise eesmärgil, olenemata riigisisese õiguse kohasest vastutusest osutatava teenuse eest;
+9)
+„digiplatvorm“ – digiplatvorm, nagu on määratletud määruse (EL) 2022/2065 artikli 3 punktis i;
+10)
+„väga suure digiplatvormi pakkuja“ – määruse (EL) 2022/2065 artikli 33 lõike 4 kohaselt määratletud väga suure digiplatvormi pakkuja;
+11)
+„videojagamisplatvormi teenus“ – direktiivi 2010/13/EL artikli 1 lõike 1 punktis aa määratletud videojagamisplatvormi teenus;
+12)
+„videojagamisplatvormi teenuse osutaja“ – direktiivi 2010/13/EL artikli 1 lõike 1 punktis da määratletud videojagamisplatvormi teenuse osutaja;
+13)
+„riiklik reguleeriv asutus või organ“ – asutus või organ, mille liikmesriik on määranud vastavalt direktiivi 2010/13/EL artiklile 30;
+14)
+„kasutajaliides“ – teenus, mis kontrollib või haldab juurdepääsu programmi pakkuvatele meediateenustele ja nende kasutamist ning võimaldab kasutajatel valida meediateenust või -sisu;
+15)
+„meediaturu kontsentratsioon“ – määruse (EÜ) nr 139/2004 artiklis 3 määratletud koondumine, mis puudutab vähemalt ühte meediateenuse osutajat või ühte meediasisule juurdepääsu võimaldavat digiplatvormi pakkujat;
+16)
+„kasutajaskonna mõõtmine“ – meediateenuste või digiplatvormide sisu kasutajate arvu ja omadusi käsitlevate andmete kogumine, tõlgendamine või muul viisil töötlemine, et teha otsuseid reklaami jaotamise, hinnakujunduse, ostmise või müügi või sisu kavandamise või levitamise kohta;
+17)
+„kasutajaskonna mõõtmine endale kuuluvate süsteemidega“ – kasutajaskonna mõõtmine, mis ei vasta tööstusharu standarditele ja parimatele tavadele, mis on kokku lepitud eneseregulatsiooni mehhanismide kaudu;
+18)
+„avaliku sektori asutus või üksus“ – riiklik või piirkondlik valitsus, reguleeriv asutus või organ või üksus, mida otseselt või kaudselt kontrollib riiklik või piirkondlik valitsus;
+19)
+„riiklik reklaam“ – edendamise või eneseedendamise sõnumi või avaliku teate või teabekampaania paigutamine, reklaam, avaldamine või levitamine meediateenuses või digiplatvormil, tavaliselt makse või muu tasu eest, kui seda teeb avaliku sektori asutus või üksus või seda tehakse sellise asutuse või üksuse heaks või selle nimel;
+20)
+„sekkuv jälgimistarkvara“ – digielemente sisaldav toode, mis on spetsiaalselt ette nähtud muude digielemente sisaldavate toodete nõrkuste ärakasutamiseks, mis võimaldab füüsiliste või juriidiliste isikute varjatud jälgimist, seirates, ekstraktides, kogudes või analüüsides andmeid sellistest toodetest või selliseid tooteid kasutavatelt füüsilistelt või juriidilistelt isikutelt, sealhulgas valimatult;
+21)
+„meediapädevus“ – oskused, teadmised ja mõistmine, mis võimaldavad kodanikel meediat tulemuslikult ja ohutult kasutada ning mis ei piirdu üksnes vahendite ja tehnoloogiate tundmaõppimisega, vaid mille eesmärk on anda kodanikele kriitilise mõtlemise oskused, mis on vajalikud otsustamiseks, keeruka reaalsuse analüüsimiseks ning arvamuste ja faktide erinevuse tuvastamiseks.
+
+II PEATÜKK
+MEEDIATEENUSE OSUTAJATE JA MEEDIATEENUSTE SAAJATE ÕIGUSED JA KOHUSTUSED
+
+Artikkel 3
+Meediateenuste saajate õigused
+Liikmesriigid austavad vaba ja demokraatliku arutelu huvides meediateenuste saajate õigust pääseda ligi mitmekesisele toimetuslikult sõltumatule meediasisule ning tagavad, et on kehtestatud raamtingimused kooskõlas käesoleva määrusega selle õiguse kaitsmiseks.
+
+Artikkel 4
+Meediateenuse osutajate õigused
+1. Meediateenuse osutajatel on õigus tegeleda siseturul majandustegevusega ilma muude piiranguteta peale nende, mis on lubatud vastavalt liidu õigusele.
+2. Liikmesriigid austavad meediateenuse osutajate tegelikku toimetusvabadust ja sõltumatust nende kutsetegevuses. Liikmesriigid, sealhulgas nende reguleerivad asutused ja organid, ei tohi sekkuda meediateenuste osutajate toimetuspoliitikasse või toimetuslikesse otsustesse või üritada neid mõjutada.
+3. Liikmesriigid tagavad, et ajakirjandusallikad ja konfidentsiaalsed teated on tulemuslikult kaitstud. Liikmesriigid ei võta meetmeid, millega: a) kohustatakse meediateenuse osutajaid või nende toimetuse töötajaid avalikustama ajakirjandusallikate või konfidentsiaalse teabevahetusega seotud või nende tuvastamist võimaldatavat teavet, või kohustatakse isikuid, kes võivad oma tavapärase või ametialase suhte tõttu meediateenuse osutaja või toimetuse töötajatega omada sellist teavet, sellist teavet avalikustama; b) peetakse kinni, karistatakse, kuulatakse pealt ja kontrollitakse meediateenuse osutajaid või nende toimetuse töötajaid, või jälgitakse, otsitakse läbi või arestitakse nende äri- või eraruume sellise teabe saamise eesmärgil, mis on seotud ajakirjandusallikate või konfidentsiaalse teabevahetusega või mis võimaldab nende tuvastamist, või peetakse kinni, karistatakse, kuulatakse pealt ja kontrollitakse isikuid, kes võivad oma tavapärase või ametialase suhte tõttu meediateenuse osutaja või selle toimetuse töötajatega omada sellist teavet, või jälgitakse, otsitakse läbi või arestitakse nende äri- või eraruume sellise teabe saamise eesmärgil; c) kasutatakse sekkuvat jälgimistarkvara materjali, digiseadme, -masina või -vahendi puhul, mida kasutavad meediateenuse osutajad, nende toimetuse töötajad või isikud, kes võivad oma tavapärase või ametialase suhte tõttu meediateenuse osutaja või tema toimetuse töötajatega omada teavet, mis on seotud ajakirjandusallikate või konfidentsiaalse teabevahetusega või mis võimaldab neid tuvastada.
+4. Erandina käesoleva artikli lõike 3 punktidest a ja b võivad liikmesriigid võtta nendes osutatud meetmeid, tingimusel et: a) see on ette nähtud liidu või riigisisese õigusega; b) see on kooskõlas põhiõiguste harta artikli 52 lõikega 1 ja muu liidu õigusega; c) see on igal üksikjuhul eraldi põhjendatud ülekaaluka avaliku huviga ja on proportsionaalne ning d) selleks on vaja õigusasutuse või sõltumatu ja erapooletu otsuseid tegeva asutuse eelnevat luba või igakülgselt põhjendatud erakorralistel ja kiireloomulistel juhtudel sellise asutuse põhjendamatu viivituseta luba.
+5. Erandina lõike 3 punktist c võivad liikmesriigid kasutada sekkuvat jälgimistarkvara, tingimusel et selle kasutuselevõtt a) vastab lõikes 4 osutatud tingimustele ja b) seda tehakse ühe lõike 3 punktis c osutatud isiku uurimise eesmärgil i) raamotsuse 2002/584/JSK artikli 2 lõikes 2 loetletud kuritegude puhul, mis on asjaomases liikmesriigis karistatavad vabadusekaotuse või vabadust piirava julgeolekumeetmega, mille maksimaalne pikkus on vähemalt kolm aastat, või ii) muude raskete kuritegude puhul, mis on asjaomases liikmesriigis karistatavad vabadusekaotuse või vabadust piirava julgeolekumeetmega, mille maksimaalne pikkus on vähemalt viis aastat, nagu on kindlaks määratud kõnealuse liikmesriigi õiguses.
+Liikmesriigid ei võta lõike 3 punktis c osutatud meedet, kui kõnealuse lõike punktis a või b osutatud meede oleks soovitava teabe saamiseks asjakohane ja piisav.
+6. Liikmesriigid tagavad, et õigusasutus või sõltumatu ja erapooletu otsuseid tegev asutus vaatab lõike 3 punktis b osutatud jälgimismeetmed ja kõnealuse lõike punktis c osutatud sekkuva jälgimistarkvara kasutuselevõtu korrapäraselt läbi, et teha kindlaks, kas nende kasutamist õigustavad tingimused on jätkuvalt täidetud.
+7. Käesoleva artikli lõike 3 punktis b osutatud jälgimismeetmete rakendamise või kõnealuse lõike punktis c osutatud sekkuva jälgimistarkvara kasutuselevõtu kontekstis tehtava isikuandmete töötlemise suhtes kohaldatakse Euroopa Parlamendi ja nõukogu direktiivi (EL) 2016/680, ( 4 ) sealhulgas selles sätestatud kaitsemeetmeid, nagu andmesubjekti õigus saada teavet ja juurdepääs töödeldavatele isikuandmetele.
+8. Liikmesriigid tagavad, et meediateenuse osutajatel või nende toimetuste töötajatel või kõigil isikutel, kellel võib oma korrapäraste või ametialaste suhete tõttu meediateenuse osutaja või tema toimetuse töötajatega olla teavet, mis on seotud ajakirjandusallikate või konfidentsiaalsete teadaannetega või suudab neid tuvastada, on õigus tõhusale kohtulikule kaitsele kooskõlas põhiõiguste harta artikliga 47 juhtudel, mis on seotud käesoleva artikli lõigete 3–7 rikkumisega.
+Liikmesriigid usaldavad sõltumatule asutusele või organile asjakohased eksperditeadmised, et abistada esimeses lõigus osutatud isikuid kõnealuse õiguse kasutamisel. Kui sellist asutust või organit ei ole, võivad nimetatud isikud taotleda abi eneseregulatsiooni organilt või mehhanismilt.
+9. Järgitakse ELi lepingus ja ELi toimimise lepingus sätestatud liikmesriikide kohustusi.
+
+Artikkel 5
+Kaitsemeetmed avalik-õiguslike meediateenuse osutajate sõltumatuks toimimiseks
+1. Liikmesriigid tagavad, et avalik-õiguslikud meediateenuse osutajad on toimetuslikult ja funktsionaalselt sõltumatud ning esitavad oma kasutajaskonnale erapooletul viisil mitmekesist teavet ja arvamusi kooskõlas nende avaliku teenuse osutamise ülesandega, mis on määratletud riigi tasandil kooskõlas protokolliga nr 29.
+2. Liikmesriigid tagavad, et avalik-õigusliku meediateenuse osutaja juhi või juhtkonna liikmete ametisse nimetamise ja ametist vabastamise korra eesmärk on tagada avalik-õiguslike meediateenuse osutajate sõltumatus.
+Avalik-õigusliku meediateenuse osutaja juht ja juhtkonna liikmed nimetatakse ametisse läbipaistva, avatud ja mittediskrimineeriva menetluse teel ning läbipaistvate, objektiivsete, mittediskrimineerivate ja proportsionaalsete kriteeriumide alusel, mis on eelnevalt sätestatud riiklikul tasandil. Nende ametiaeg peab olema avalik-õiguslike meediateenuse osutajate tegeliku sõltumatuse tagamiseks piisav.
+Otsused avalik-õiguslike meediateenuse osutajate juhi või juhtkonna liikmete ametist vabastamise kohta enne nende ametiaja lõppu peavad olema igakülgselt põhjendatud, neid võib vastu võtta üksnes erandjuhul, kui nad ei vasta enam tingimustele, mis on vajalikud nende ülesannete täitmiseks vastavalt riigi tasandil eelnevalt kehtestatud kriteeriumidele, nendest teavitatakse eelnevalt asjaomast isikut ja nende puhul on võimalik kohtulik kontroll.
+3. Liikmesriigid tagavad, et avalik-õiguslike meediateenuse osutajate rahastamismenetlused põhinevad eelnevalt kehtestatud läbipaistvatel ja objektiivsetel kriteeriumidel. Nimetatud rahastamismenetlustega tagatakse, et avalik-õiguslikel meediateenuse osutajatel on piisavad, kestlikud ja prognoositavad rahalised vahendid, mis vastavad nende avaliku teenuse osutamise ülesandele ja võimele selle raames areneda. Nimetatud rahalised vahendid peavad olema sellised, et avalik-õigusliku meediateenuse osutajate toimetuste sõltumatus oleks tagatud.
+4. Lõigete 1, 2 ja 3 kohaldamise seireks määravad liikmesriigid ühe või mitu sõltumatut asutust või organit või kehtestavad mehhanismid, mis on vabad valitsuse poliitilisest mõjust. Kõnealuse seire tulemused tehakse üldsusele kättesaadavaks.
+
+Artikkel 6
+Meediateenuse osutajate kohustused
+1. Meediateenuse osutajad teevad oma teenuse saajatele hõlpsasti ja vahetult kättesaadavaks järgmise ajakohase teabe: a) nende juriidiline nimi või juriidilised nimed ja kontaktandmed; b) sellise otsese või kaudse omaniku nimi või selliste otseste või kaudsete omanike nimed, kellel on osalus, mis võimaldab neil mõjutada teenuseosutaja tegevust ja strateegiliste otsuste tegemist, sealhulgas see, kas nad on otseselt või kaudselt riigi või avaliku sektori asutuse või üksuse omanduses; c) selle tegelikult kasu saava omaniku nimi või nende tegelikult kasu saavate omanike nimed, nagu on määratletud direktiivi (EL) 2015/849 artikli 3 punktis 6; d) neile riiklikuks reklaamiks eraldatud aastane kogusumma ja kolmandate riikide ametiasutustelt või üksustelt saadud reklaamitulude aastane kogusumma.
+2. Liikmesriigid teevad oma reguleerivatele asutustele või organitele või muudele pädevatele asutustele või organitele ülesandeks töötada välja riiklikud meediaomandi andmebaasid, mis sisaldavad lõikes 1 sätestatud teavet.
+3. Ilma et see piiraks riikliku põhiseaduse kohaldamist, mis on põhiõiguste hartaga kooskõlas, võtavad uudiseid ja päevakajalist sisu pakkuvad meediateenuse osutajad meetmeid, mida nad peavad asjakohaseks, et tagada toimetusotsuste sõltumatus. Selliste meetmete eesmärk on eelkõige a) tagada, et toimetusotsuseid saab teha vabalt asjaomase meediateenuse osutaja toimetuse väljakujunenud suuna alusel, ning b) tagada, et avalikustatakse kõik tegelikud või võimalikud huvide konfliktid, mis võivad mõjutada uudiste ja päevakajalise sisu pakkumist.
+
+III PEATÜKK
+REGULATIIVSE KOOSTÖÖ JA HÄSTI TOIMIVA MEEDIATEENUSTE SISETURU RAAMISTIK
+1. JAGU
+Sõltumatud meediaasutused
+
+Artikkel 7
+Liikmesriikide reguleerivad asutused või organid
+1. Liikmesriikide reguleerivad asutused või organid tagavad, kui see on kohaldatav, teiste asjaomaste asutuste või organitega või, kui see on asjakohane, oma liikmesriigi enesereguleerimise organitega konsulteerimise või koordineerimise kaudu käesoleva peatüki kohaldamise.
+2. Liikmesriikide reguleerivate asutuste või organite suhtes kohaldatakse direktiivi 2010/13/EL artiklis 30 sätestatud nõudeid seoses neile käesoleva määrusega määratud ülesannete täitmisega.
+3. Liikmesriigid tagavad, et nende reguleerivatel asutustel või organitel on käesolevast määrusest tulenevate ülesannete täitmiseks piisavad rahalised, inim- ja tehnilised ressursid.
+4. Kui see on vajalik käesolevast määrusest tulenevate ülesannete täitmiseks, tagavad liikmesriigid, et liikmesriikide reguleerivatel asutustel või organitel on õigus nõuda mõistliku aja jooksul teabe ja andmete esitamist, mis on proportsionaalsed ja vajalikud käesoleva peatüki kohaste ülesannete täitmiseks, järgmistelt isikutelt: a) füüsilised või juriidilised isikud, kelle suhtes kohaldatakse III peatükki, ning b) muu füüsiline või juriidiline isik, kelle valduses võib nende kaubandus-, äri- või kutsetegevusega seotud põhjustel olla sellist teavet ja andmeid.
+
+2. JAGU
+Euroopa meediateenuste nõukoda
+
+Artikkel 8
+Euroopa meediateenuste nõukoda
+1. Käesolevaga asutatakse Euroopa meediateenuste nõukoda (edaspidi „nõukoda“).
+2. Nõukoda asendab direktiivi 2010/13/EL artikliga 30b loodud audiovisuaalmeedia teenuste Euroopa regulaatorasutuste rühma (ERGA) ja on selle õigusjärglane.
+
+Artikkel 9
+Nõukoja sõltumatus
+Nõukoda tegutseb oma ülesannete täitmisel ja volituste kasutamisel täiesti sõltumatult. Eelkõige ei taotle ega võta nõukoda oma ülesannete täitmisel ja volituste kasutamisel vastu juhiseid üheltki valitsuselt, institutsioonilt, isikult ega asutuselt. See ei mõjuta komisjoni ja liikmesriikide reguleerivate asutuste või organite pädevusi kooskõlas käesoleva määrusega.
+
+Artikkel 10
+Nõukoja ülesehitus
+1. Nõukoda koosneb liikmesriikide reguleerivate asutuste või organite esindajatest.
+2. Igal nõukoja liikmel on üks hääl.
+3. Nõukoda teeb otsused hääleõiguslike liikmete kahekolmandikulise häälteenamusega.
+4. Kui liikmesriigil on rohkem kui üks riiklik reguleeriv asutus või organ, koordineerivad nimetatud riiklikud reguleerivad asutused või organid vajaduse korral oma tegevust ja nimetavad ühise esindaja. Ühine esindaja kasutab hääleõigust.
+5. Nõukoda valib oma liikmete hulgast eesistuja ja ase-eesistuja. Eesistuja ametiaeg kestab üks aasta ja seda võib pikendada ühe korra. Nõukoda võib moodustada juhtrühma. Nõukoda esindab eesistuja.
+6. Komisjon määrab nõukotta ühe esindaja. Komisjoni esindaja osaleb nõukoja aruteludel ilma hääleõiguseta. Nõukoja eesistuja teavitab komisjoni nõukoja tegevusest.
+7. Nõukoda võib kokkuleppel komisjoniga kutsuda oma koosolekutele eksperte ja alalisi vaatlejaid.
+8. Nõukoda võtab komisjoniga konsulteerides vastu oma kodukorra. Nimetatud kodukord sisaldab nõukoja liikmete huvide konfliktide ennetamise ja lahendamise korda.
+
+Artikkel 11
+Nõukoja sekretariaat
+1. Nõukoda abistab sekretariaat. Komisjon näeb ette sekretariaadi, võttes arvesse nõukoja osutatud vajadusi. Sekretariaadil on oma ülesannete täitmiseks piisavad ressursid.
+2. Sekretariaadi peamine ülesanne on aidata nõukojal täita sõltumatult ülesandeid, mis on sätestatud käesolevas määruses ja direktiivis 2010/13/EL. Sekretariaat täidab käesolevast määrusest tulenevate ülesannete täitmisel üksnes nõukoja juhiseid.
+3. Sekretariaat pakub nõukoja tegevusele haldus- ja korralduslikku tuge. Lisaks abistab sekretariaat nõukoda sisuliselt tema ülesannete täitmisel.
+
+Artikkel 12
+Konsulteerimismehhanism
+1. Kui nõukoda arutab küsimusi, mis ei kuulu audiovisuaalmeedia sektorisse, konsulteerib ta liidu või liikmesriigi tasandil tegutsevate asjaomaste meediasektorite esindajatega.
+2. Nõukoda sätestab oma kodukorras lõikes 1 osutatud konsulteerimise korra. Sellises korras tagatakse võimalus kaasata mitu esindajat, kui see on asjakohane.
+3. Võimaluse korral teeb nõukoda lõikes 1 osutatud konsulteerimise tulemused üldsusele kättesaadavaks.
+
+Artikkel 13
+Nõukoja ülesanded
+1. Ilma et see piiraks komisjonile aluslepingutega antud volitusi, nõustab ja toetab nõukoda komisjoni nõukoja pädevusse kuuluvates meediateenustega seotud küsimustes ning edendab käesoleva peatüki järjepidevat ja tulemuslikku kohaldamist ja direktiivi 2010/13/EL rakendamist kogu liidus. Seega nõukoda: a) teeb komisjonile kättesaadavaks tehnilise oskusteabe, täites oma ülesannet tagada käesoleva peatüki järjepidev ja tulemuslik kohaldamine ning direktiivi 2010/13/EL rakendamine kõigis liikmesriikides, ilma et see piiraks liikmesriikide reguleerivate asutuste või organite ülesandeid; b) edendab koostööd ning teabe, kogemuste ja parimate tavade tulemuslikku vahetamist liikmesriikide reguleerivate asutuste või organite vahel seoses meediateenuste suhtes kohaldatavate liidu ja riigisiseste normide, sealhulgas käesoleva määruse ja direktiivi 2010/13/EL kohaldamisega, eelkõige seoses kõnealuse direktiivi artiklitega 3, 4 ja 7; c) esitab komisjoni nõudmisel arvamusi tehniliste ja faktiliste küsimuste kohta, mis tekivad seoses direktiivi 2010/13/EL artikli 2 lõikega 5c, artikli 3 lõigetega 2 ja 3, artikli 4 lõike 4 punktiga c ning artikli 28a lõikega 7; d) koostab komisjoniga konsulteerides arvamusi: i) liikmesriikide reguleerivate asutuste või organite vahelise koostöö taotluste kohta, vastavalt käesoleva määruse artikli 14 lõikele 5; ii) täitemeetmete taotluste, sealhulgas soovitatud meetmete kohta juhul, kui taotluse esitanud asutus või organ ja taotluse saanud asutus või organ ei jõua kokkuleppele vastavalt käesoleva määruse artikli 15 lõikele 3; iii) riiklike meetmete kohta, mis käsitlevad väljastpoolt liitu osutatavaid meediateenuseid, vastavalt käesoleva määruse artikli 17 lõikele 2; e) koostab meediateenuse osutaja taotluse korral, kellega väga suure digiplatvormi pakkuja on osalenud käesoleva määruse artikli 18 lõikes 6 osutatud dialoogis, arvamusi sellise dialoogi tulemustest; f) koostab omal algatusel, komisjoni taotlusel või isiklikult ja otseselt puudutatud meediateenuse osutaja igakülgselt põhjendatud taotluse korral arvamusi regulatiivsete või haldusmeetmete kohta, mis tõenäoliselt mõjutavad oluliselt meediateenuse osutajate tegevust meediateenuste siseturul, vastavalt käesoleva määruse artikli 21 lõikele 4; g) koostab arvamusi liikmesriikide reguleerivate asutuste või organite hinnangute kavandite või arvamuste kavandite kohta vastavalt käesoleva määruse artikli 22 lõikele 5; h) koostab omal algatusel või komisjoni taotlusel arvamusi meediaturu kontsentratsiooni kohta, mis tõenäoliselt mõjutab meediateenuste siseturu toimimist, vastavalt käesoleva määruse artikli 23 lõikele 1; i) abistab komisjoni suuniste koostamisel: i) käesoleva määruse kohaldamise ja direktiivi 2010/13/EL rakendamise kohta, vastavalt käesoleva määruse artikli 16 lõikele 2; ii) käesoleva määruse artikli 22 lõike 2 punktides a, b ja c osutatud elementide kohta, vastavalt kõnealuse artikli lõikele 3; iii) käesoleva määruse artikli 24 lõigete 1, 2 ja 3 kohaldamise kohta, vastavalt kõnealuse artikli lõikele 4; j) tegutseb vastavalt käesoleva määruse artikli 15 lõikele 3 vähemalt ühe asjaomase riikliku reguleeriva asutuse või organi taotlusel vahendajana liikmesriikide reguleerivate asutuste või organite vaheliste erimeelsuste korral; k) edendab vastavalt käesoleva määruse artikli 20 lõikele 5 seadmete või kasutajaliideste projekteerimise või selliste seadmete edastatud digitaalsete signaalidega seotud ühtlustatud standardite alast koostööd; l) kooskõlastab vastavalt käesoleva määruse artikli 17 lõikele 1 asjaomaste liikmesriikide reguleerivate asutuste või organite asjakohaseid meetmeid, mis on seotud liiduvälise ja liidu kasutajaskonnale suunatud või nendeni jõudva meediateenuse sisu levitamise või sellele juurdepääsuga, kui selline meediateenus kahjustab avalikku julgeolekut või kaitset või kujutab endast tõsist ohtu avalikule julgeolekule ja kaitsele, ning töötab komisjoniga konsulteerides välja kõnealuse artikli lõikes 4 osutatud kriteeriumide kogumi; m) korraldab vastavalt käesoleva määruse artiklile 19 struktureeritud dialoogi väga suurte digiplatvormide pakkujate, meediateenuse osutajate ja kodanikuühiskonna esindajate vahel ning annab sellise dialoogi tulemustest aru komisjonile; n) edendab vastavalt käesoleva määruse artikli 24 lõikele 5 kasutajaskonna mõõtmise süsteemide kasutuselevõtuga seotud parimate tavade vahetamist; o) vahetab meediapädevuse alaseid kogemusi ja parimaid tavasid, sealhulgas selleks, et edendada mõjusate meetmete ja vahendite väljatöötamist ja kasutamist meediapädevuse tugevdamiseks; p) koostab oma tegevuse ja ülesannete kohta üksikasjaliku aastaaruande.
+Nõukoda teeb esimese lõigu punktis p osutatud üksikasjaliku aastaaruande üldsusele kättesaadavaks. Kui tal palutakse seda teha, esitab eesistuja kõnealuse aruande Euroopa Parlamendile.
+2. Kui komisjon küsib nõukojalt nõu või arvamust, võib ta esitada tähtaja, kui liidu õiguses ei ole sätestatud teisti, võttes arvesse küsimuse kiireloomulisust.
+3. Nõukoda edastab oma töö tulemused direktiivi 2010/13/EL artikli 29 lõike 1 alusel loodud kontaktkomiteele (edaspidi „kontaktkomitee“).
+
+3. JAGU
+Regulatiivne koostöö ja õigusnormide lähendamine
+
+Artikkel 14
+Struktureeritud koostöö
+1. Riiklik reguleeriv asutus või organ (edaspidi „taotluse esitanud asutus“) võib igal ajal taotleda ühelt või mitmelt muult riiklikult reguleerivalt asutuselt või organilt (edaspidi „taotluse saanud asutus“) temaga koostöö tegemist, sealhulgas vahetades teavet või osutades vastastikust abi käesoleva peatüki järjepidevaks ja tulemuslikuks kohaldamiseks või direktiivi 2010/13/EL rakendamiseks.
+2. Koostöö taotlused sisaldavad kogu vajalikku teavet, mis on sellega seotud, muu hulgas koostöö taotluse eesmärki ja põhjuseid.
+3. Taotluse saanud asutus võib taotluse käsitlemisest keelduda ainult järgmistel juhtudel: a) ta ei ole koostöö taotluse sisu või temalt nõutava koostöö liigi pakkumise küsimuses pädev; b) koostöö taotluse täitmine rikuks käesolevat määrust, direktiivi 2010/13/EL või muud liidu õigust või liidu õigusega kooskõlas olevat riigisisest õigust, mida taotluse saanud asutuse suhtes kohaldatakse; c) koostöö taotluse ulatus või sisu ei ole igakülgselt põhjendatud või on ebaproportsionaalne.
+Taotluse saanud asutus põhjendab põhjendamatu viivituseta koostöö taotluse käsitlemisest keeldumist. Kui taotluse saanud asutus keeldub koostöö taotluse käsitlemisest esimese lõigu punktis a osutatud juhtudel, märgib ta võimaluse korral pädeva asutuse.
+4. Taotluse saanud asutus teeb kõik endast oleneva, et koostöö taotlust põhjendamatu viivituseta käsitleda ja sellele vastata ning esitab korrapäraselt ajakohastatud teavet kõnealuse taotluse täitmise edenemise kohta.
+5. Kui taotluse esitanud asutus leiab, et koostöö taotluse saanud asutus ei ole taotlust piisavalt käsitlenud või sellele vastanud, teavitab ta sellest põhjendamatu viivituseta taotluse saanud asutust ja selgitab oma seisukoha põhjuseid. Kui taotluse esitanud asutus ja taotluse saanud asutus ei jõua koostöö taotluse suhtes kokkuleppele, võib kumbki asutus suunata küsimuse nõukojale. Kooskõlas ajakavaga, mille nõukoda kehtestab oma kodukorras, esitab nõukoda komisjoniga konsulteerides selles küsimuses arvamuse, sealhulgas soovitatavad meetmed. Asjaomased asutused teevad kõik endast oleneva, et nõukoja arvamust arvesse võtta.
+6. Kui taotluse esitanud asutus leiab, et esineb tõsine oht meediateenuste osutamise või saamise vabaduse piiramiseks siseturul või tõsine oht avalikule julgeolekule, võib ta esitada taotluse taotluse saanud asutusele kiirendatud koostööks või vastastikuseks abiks, tagades samal ajal põhiõiguste, eelkõige sõnavabaduse järgimise, sealhulgas selleks, et tagada direktiivi 2010/13/EL artiklis 3 osutatud riiklike meetmete tulemuslik rakendamine. Taotluse saanud asutus vastab kiirendatud koostöö taotlustele ja teeb kõik endast oleneva nende käsitlemiseks 14 kalendripäeva jooksul.
+Käesoleva artikli lõikeid 2, 3 ja 5 kohaldatakse mutatis mutandis kiirendatud koostöö taotluste suhtes.
+7. Nõukoda sätestab oma kodukorras täiendavad üksikasjad käesolevas artiklis osutatud struktureeritud koostöö menetluse kohta.
+
+Artikkel 15
+Videojagamisplatvormi teenuse osutajate kohustuste täitmise tagamise taotlused
+1. Ilma et see piiraks direktiivi 2000/31/EÜ artikli 3 kohaldamist, võib taotluse esitanud asutus esitada taotluse saanud asutusele igakülgselt põhjendatud taotluse võtta vajalikke ja proportsionaalseid meetmeid, et tagada videojagamisplatvormi teenuse osutajatele direktiivi 2010/13/EL artikli 28b lõigete 1, 2 ja 3 alusel kehtestatud kohustuste tulemuslik täitmine.
+2. Taotluse saanud asutus teavitab taotluse esitanud asutust põhjendamatu viivituseta meetmetest, mida ta on lõike 1 kohase kohustuse täitmise tagamise taotluse alusel võtnud või kavatseb võtta, või põhjustest, miks meetmeid ei võetud. Nõukoda kehtestab sellekohase ajakava oma kodukorras.
+3. Kui taotluse esitanud asutus ja taotluse saanud asutus ei jõua lõike 1 kohaselt võetavates või kavandatavates meetmetes või meetmete võtmata jätmises kokkuleppele pärast kohustuse täitmise taotluse esitamist, võib kumbki asutus suunata küsimuse lahendamiseks nõukojale, et leida mõlemat poolt rahuldav lahendus.
+Kui nõukoja vahenduse tulemusel ei jõuta mõlemat poolt rahuldava lahenduseni, võib taotluse esitanud asutus või taotluse saanud asutus paluda nõukojal esitada selles küsimuses arvamuse. Nõukoda hindab oma arvamuses, kas lõikes 1 osutatud kohustuste täitmise tagamise taotlust on piisavalt käsitletud. Kui nõukoda leiab, et taotluse saanud asutus ei ole kohustuste täitmise tagamise taotlust piisavalt käsitlenud, soovitab nõukoda meetmeid taotluse käsitlemiseks. Nõukoda esitab komisjoniga konsulteerides põhjendamatu viivituseta oma arvamuse.
+4. Pärast lõike 3 teises lõigus osutatud arvamuse saamist teavitab taotluse saanud asutus põhjendamatu viivituseta ja vastavalt ajakavale, mille nõukoda kehtestab oma kodukorras, nõukoda, komisjoni ja taotluse esitanud asutust seoses arvamusega võetud või kavandatud meetmetest.
+
+Artikkel 16
+Suunised meedia reguleerimise küsimustes
+1. Nõukoda edendab parimate tavade vahetamist riiklike reguleerivate asutuste või organite vahel, konsulteerides asjakohasel juhul sidusrühmadega regulatiivsetes, tehnilistes või praktilistes küsimustes, mis on olulised käesoleva peatüki järjepideva ja tulemusliku kohaldamise ja direktiivi 2010/13/EL rakendamise seisukohast.
+2. Kui komisjon annab välja suuniseid käesoleva määruse kohaldamise või direktiivi 2010/13/EL rakendamise kohta, abistab nõukoda teda eriteadmistega regulatiivsetes, tehnilistes või praktilistes küsimustes, eelkõige seoses järgmisega: a) üldist huvi pakkuvate audiovisuaalmeedia teenuste sobiv esiletoomine direktiivi 2010/13/EL artikli 7a kohaselt; b) meediateenuse osutajate omandistruktuuri käsitleva teabe kättesaadavaks tegemine, nagu on sätestatud direktiivi 2010/13/EL artikli 5 lõikes 2 ja käesoleva määruse artikli 6 lõikes 1.
+Kui komisjon annab välja suuniseid direktiivi 2010/13/EL rakendamise kohta, konsulteerib ta kontaktkomiteega.
+3. Kui komisjon esitab arvamuse küsimuses, mis on seotud käesoleva määruse kohaldamise või direktiivi 2010/13/EL rakendamisega, abistab komisjoni nõukoda.
+
+Artikkel 17
+Väljastpoolt liitu osutatavaid meediateenuseid käsitlevate meetmete koordineerimine
+1. Ilma et see piiraks direktiivi 2010/13/EL artikli 3 kohaldamist, koordineerib nõukoda vähemalt kahe riikliku reguleeriva asutuse või organi taotlusel asjaomaste riiklike reguleerivate asutuste või organite asjakohaseid meetmeid, mis on seotud väljastpoolt liitu osutatavate meediateenuste või väljaspool liitu asutatud meediateenuse osutajate pakutavate selliste meediateenuste levitamise või neile juurdepääsuga, mis sõltumata nende levitamise või juurdepääsu viisist on suunatud liidu kasutajaskonnale või jõuavad nendeni, kui sellised meediateenused ohustavad avalikku julgeolekut või kujutavad endast tõsist või väga tõsist ohtu julgeolekule, võttes muu hulgas arvesse kontrolli, mida kolmandad riigid võivad nende meediateenuste üle teostada.
+2. Nõukoda võib komisjoniga konsulteerides esitada arvamusi lõikes 1 osutatud asjakohaste meetmete kohta. Ilma et see piiraks nende riigisisesest õigusest tulenevaid volitusi, teevad asjaomased riigi pädevad ametiasutused, sealhulgas liikmesriikide reguleerivad asutused või organid, kõik endast oleneva, et nõukoja arvamusi arvesse võtta.
+3. Liikmesriigid tagavad, et asjaomastel riiklikel reguleerivatel asutustel või organitel ei ole välistatud võtta arvesse nõukoja lõike 2 kohaselt esitatud arvamust, kui nad kaaluvad meediateenuse osutaja suhtes lõikes 1 osutatud meetmete võtmist.
+4. Nõukoda töötab komisjoniga konsulteerides riiklike reguleerivate asutuste või organite jaoks välja kriteeriumide kogumi, millest nad lähtuvad reguleerimisvolituste kasutamisel lõikes 1 osutatud meediateenuse osutajate suhtes. Riiklikud reguleerivad asutused või organid teevad kõik endast oleneva, et kõnealused kriteeriumid arvesse võtta.
+
+4. JAGU
+Meediateenuste osutamine digikeskkonnas ja nendele juurdepääs
+
+Artikkel 18
+Meediateenuse osutajate sisu väga suurtel digiplatvormidel
+1. Väga suurte digiplatvormide pakkujad tagavad funktsiooni, mis võimaldab nende teenusesaajatel a) kinnitada, et nad on meediateenuse osutajad; b) kinnitada, et nad täidavad artikli 6 lõike 1 nõudeid; c) kinnitada, et nende toimetused on sõltumatud liikmesriikidest, erakondadest, kolmandatest riikidest ja kolmandate riikide kontrollitavatest või rahastatavatest üksustest; d) kinnitada, et nende suhtes kohaldatakse ühes või mitmes liikmesriigis toimetusvastutuse teostamise regulatiivseid nõudeid ja et nende üle teostab järelevalvet pädev riiklik reguleeriv asutus või organ või et nad järgivad toimetusstandardeid reguleerivat kaas- või enesereguleerimise mehhanismi, mis on asjaomases meediasektoris ühes või mitmes liikmesriigis laialdaselt tunnustatud; e) kinnitada, et nad ei paku tehisintellektisüsteemi loodud sisu, ilma et selle suhtes kohaldataks inimkontrolli või toimetusvastutust; f) esitada nende juriidiline nimi ja kontaktandmed, sealhulgas e-posti aadress, mille kaudu meediateenuse osutaja saab väga suure digiplatvormi pakkujaga kiiresti ja otse suhelda, ning g) esitada punktis d osutatud asjaomaste liikmesriikide reguleerivate asutuste või organite või kaas- või enesereguleerimise mehhanismide esindajate kontaktandmed.
+Kui tekib põhjendatud kahtlus, kas meediateenuse osutaja täidab esimese lõigu punkti d nõudeid, taotleb väga suure digiplatvormi pakkuja selle kohta kinnitust asjaomaselt riiklikult reguleerivalt asutuselt või organilt või asjaomaselt kaas- või enesereguleerimise mehhanismilt.
+2. Väga suurte digiplatvormide pakkujad tagavad, et lõike 1 kohaselt kinnitatud teave, välja arvatud lõike 1 esimese lõigu punktis f sätestatud teave, tehakse nende internetipõhises kasutajaliideses üldsusele kergesti juurdepääsetaval viisil kättesaadavaks.
+3. Väga suurte digiplatvormide pakkujad kinnitavad lõike 1 kohaselt esitatud kinnituste kättesaamist ja esitavad oma kontaktandmed, sealhulgas e-posti aadressi, mille kaudu meediateenuse osutaja saab nendega otse ja kiiresti suhelda.
+Väga suurte digiplatvormide pakkujad märgivad põhjendamatu viivituseta, kas nad võtavad lõike 1 kohaselt esitatud kinnitused vastu või lükkavad need tagasi.
+4. Kui väga suure digiplatvormi pakkuja kavatseb võtta vastu otsuse, millega peatatakse tema internetipõhiste vahendusteenuste pakkumine seoses käesoleva artikli lõike 1 kohaselt kinnituse esitanud meediateenuse osutaja pakutava sisuga, või otsuse, millega piiratakse sellise sisu nähtavust põhjusel, et see sisu ei ole tema tingimustega kooskõlas, teeb ta enne sellise nähtavuse peatamise või piiramise otsuse jõustumist järgmist: a) edastab asjaomasele meediateenuse osutajale kavandatava nähtavuse peatamise või piiramise otsuse määruse (EL) 2019/1150 artikli 4 lõikes 1 ja määruse (EL) 2022/2065 artiklis 17 osutatud põhjendused ning b) annab meediateenuse osutajale võimaluse vastata käesoleva lõike esimese lõigu punktis a osutatud põhjendustele 24 tunni jooksul pärast nende kättesaamist või määruse (EL) 2022/2065 artikli 36 lõikes 2 osutatud kriisi korral lühema aja jooksul, mis annab meediateenuse osutajale piisavalt aega sisulise vastuse esitamiseks.
+Kui väga suure digiplatvormi pakkuja teeb pärast käesoleva artikli esimese lõigu punktis b osutatud vastuse saamist või sellise vastuse puudumisel otsuse nähtavuse peatamiseks või piiramiseks, teavitab ta sellest põhjendamatu viivituseta asjaomast meediateenuse osutajat.
+Käesolevat lõiget ei kohaldata, kui väga suurte digiplatvormide pakkujad peatavad oma teenuste osutamise seoses meediateenuse osutaja pakutava sisuga või piiravad sellise sisu nähtavust kooskõlas määruse (EL) 2022/2065 artiklitest 28, 34 ja 35 ning direktiivi 2010/13/EL artiklist 28b tulenevate kohustustega või ebaseadusliku sisuga seotud liidu õigusest tulenevate kohustustega.
+5. Väga suurte digiplatvormide pakkujad võtavad kõik vajalikud tehnilised ja korralduslikud meetmed tagamaks, et määruse (EL) 2019/1150 artikli 11 või määruse (EL) 2022/2065 artikli 20 kohaseid meediateenuse osutajate esitatud kaebusi menetletakse ja nende kohta tehakse otsus eelisjärjekorras ja põhjendamatu viivituseta. Meediateenuse osutajat võib nimetatud artiklites osutatud ettevõttesiseste kaebuste menetlemisel esindada mõni organ.
+6. Kui lõike 1 kohaselt kinnituse esitanud meediateenuse osutaja leiab, et väga suure digiplatvormi pakkuja piirab või peatab korduvalt meediateenuse osutaja teenuste osutamise seoses tema pakutava sisuga ilma piisava põhjuseta, peab väga suure digiplatvormi pakkuja meediateenuse osutaja taotluse korral meediateenuse osutajaga heas usus sisulist ja tulemuslikku dialoogi, et jõuda mõistliku aja jooksul mõlemat poolt rahuldava lahenduseni põhjendamatute piirangute või peatamiste lõpetamises ja nende edaspidises vältimises. Meediateenuse osutaja võib teavitada sellise dialoogi tulemustest ja üksikasjadest nõukoda ja komisjoni. Meediateenuse osutaja võib taotleda nõukoja arvamust dialoogi tulemuse kohta, sealhulgas, kui see on asjakohane, väga suure digiplatvormi pakkujale soovitatud meetmete kohta. Nõukoda teavitab oma arvamusest komisjoni.
+7. Kui väga suurte digiplatvormide pakkuja lükkab käesoleva artikli lõike 1 kohaselt esitatud meediateenuse osutaja kinnituse tagasi või tunnistab selle kehtetuks või kui käesoleva artikli lõike 6 kohase dialoogi tulemusel ei leita mõlemat poolt rahuldavat lahendust, võib asjaomane meediateenuse osutaja kasutada määruse (EL) 2019/1150 artikli 12 kohast lepitusmenetlust või määruse (EL) 2022/2065 artikli 21 kohast vaidluste kohtuvälist lahendamist. Asjaomane meediateenuse osutaja võib teavitada nõukoda kõnealuse lepitusmenetluse või vaidluse kohtuvälise lahendamise tulemustest.
+8. Väga suure digiplatvormi pakkuja teeb igal aastal üldsusele kättesaadavaks üksikasjaliku teabe järgmise kohta: a) juhtumite arv, mille puhul teenus piirati või peatati põhjusel, et lõike 1 kohaselt kinnitus esitanud meediateenuse osutaja pakutav sisu ei ole tema tingimustega kooskõlas; b) piiramiste või peatamiste kehtestamise põhjused, sealhulgas tema tingimustes toodud konkreetsed klauslid, millega meediateenuse osutaja sisu peeti vastuolus olevaks; c) meediateenuse osutajatega lõike 6 kohaselt peetud dialoogide arv; d) juhtumite arv, mille puhul meediateenuse osutaja poolt lõike 1 kohaselt esitatud kinnitus lükati tagasi, ja tagasilükkamise põhjused; e) juhtumite arv, mille puhul meediateenuse osutaja poolt lõike 1 kohaselt esitatud kinnitus tunnistati kehtetuks, ja kehtetuks tunnistamise põhjused.
+9. Käesoleva artikli järjepideva ja tulemusliku rakendamise hõlbustamiseks annab komisjon välja suunised lõikes 1 osutatud funktsiooni tulemusliku rakendamise hõlbustamiseks.
+
+Artikkel 19
+Struktureeritud dialoog
+1. Nõukoda korraldab väga suurte digiplatvormide pakkujate, meediateenuse osutajate esindajate ja kodanikuühiskonna esindajate vahel korrapäraselt struktureeritud dialoogi, et: a) arutada artikli 18 kohaldamisel saadud kogemusi ja parimaid tavasid, sealhulgas seoses väga suurte digiplatvormide toimimise ja meediateenuse osutajate pakutava sisu modereerimise protsessidega; b) edendada juurdepääsu väga suurte digiplatvormide erinevatele sõltumatu meedia pakkumistele ning c) seirata enesereguleerimise algatuste järgimist, mille eesmärk on kaitsta kasutajaid kahjuliku sisu, sealhulgas desinformatsiooni ning välisriigist lähtuva infoga manipuleerimise ja sekkumise eest.
+2. Nõukoda annab lõikes 1 osutatud struktureeritud dialoogide tulemustest aru komisjonile. Võimaluse korral teeb nõukoda selliste struktureeritud dialoogide tulemused üldsusele kättesaadavaks.
+
+Artikkel 20
+Meediapakkumise kohandamise õigus
+1. Kasutajatel on õigus hõlpsasti muuta seadme või kasutajaliidese seadeid, sealhulgas vaikeseadeid, mis kontrollivad või haldavad juurdepääsu saateid pakkuvatele meediateenustele ja nende kasutamist, et kohandada meediapakkumist vastavalt nende huvidele või eelistustele kooskõlas liidu õigusega. Käesolev lõige ei mõjuta riiklikke meetmeid direktiivi 2010/13/EL artiklite 7a või 7b rakendamiseks.
+2. Lõikes 1 osutatud seadmete ja kasutajaliideste turule laskmisel tagavad tootjad, arendajad ja importijad, et sellistel seadmetel ja kasutajaliidestel on funktsioon, mis võimaldab kasutajatel vabalt ja lihtsalt igal ajal muuta seadeid, sealhulgas vaikeseadeid, mis kontrollivad või haldavad juurdepääsu pakutavatele meediateenustele ja nende kasutamist.
+3. Lõikes 1 osutatud seadmete ja kasutajaliideste tootjad, arendajad ja importijad tagavad, et meediateenuse osutajate visuaalne identiteet, kelle teenustele nende seadmed ja kasutajaliidesed annavad juurdepääsu, on kasutajatele järjepidevalt ja selgelt nähtav.
+4. Liikmesriigid võtavad asjakohaseid meetmeid tagamaks, et lõikes 1 osutatud seadmete ja kasutajaliideste tootjad, arendajad ja importijad järgivad lõigete 2 ja 3 nõudeid.
+5. Nõukoda edendab koostööd meediateenuse osutajate, standardiorganisatsioonide ja muude asjaomaste sidusrühmade vahel, et edendada ühtlustatud standardite väljatöötamist seoses seadmete või lõikes 1 osutatud kasutajaliideste projekteerimisega või seoses selliste seadmete edastatud digitaalsete signaalidega.
+
+5. JAGU
+Hästi toimiva meediaturu meetmetele ja menetlustele esitatavad nõuded
+
+Artikkel 21
+Meediateenuse osutajaid mõjutavad riiklikud meetmed
+1. Liikmesriigi võetavad seadusandlikud, regulatiivsed või haldusmeetmed, mis võivad mõjutada siseturul tegutsevate meediateenuste osutajate meedia mitmekesisust või toimetuste sõltumatust, peavad olema igakülgselt põhjendatud ja proportsionaalsed. Sellised meetmed peavad olema põhjendatud, läbipaistvad, objektiivsed ja mittediskrimineerivad.
+2. Iga lõikes 1 osutatud haldusmeetme vastuvõtmiseks kasutatava riigisisese menetluse suhtes kohaldatakse eelnevalt kindlaks määratud ajakava. Sellised menetlused viiakse läbi põhjendamatu viivituseta.
+3. Igal meediateenuse osutajal, kelle suhtes kohaldatakse lõikes 1 osutatud regulatiivset või haldusmeedet, mis teda isiklikult ja otseselt puudutab, on lisaks õigus esitada meetme kohta kaebus apellatsiooniorganile. See organ, mis võib olla kohus, peab olema sõltumatu asjaga seotud pooltest ja välisest sekkumisest või poliitilisest survest, mis võib ohustada tema menetluses olevate küsimuste sõltumatut hindamist. Tal peavad olema asjakohased eriteadmised, mis võimaldavad tal oma ülesandeid täita tulemuslikult ja õigeaegselt.
+4. Kui lõikes 1 osutatud regulatiivne või haldusmeede tõenäoliselt mõjutab oluliselt meediateenuse osutajate tegevust meediateenuste siseturul, koostab nõukoda omal algatusel, komisjoni taotlusel või sellisest meetmest isiklikult ja otseselt puudutatud meediateenuse osutaja igakülgselt põhjendatud taotluse korral meetme kohta arvamuse. Komisjon võib esitada selles küsimuses arvamuse, ilma et see piiraks talle aluslepingutega antud volitusi. Nõukoda ja komisjon teevad oma arvamused üldsusele kättesaadavaks.
+5. Lõike 4 kohase arvamuse koostamiseks võivad nõukoda ja kui see on kohaldatav, komisjon nõuda asjakohast teavet riigi ametiasutuselt või organilt, kes võtab vastu meediateenuse osutajat isiklikult ja otseselt puudutava lõikes 1 osutatud regulatiivse või haldusmeetme. Asjaomane riigi ametiasutus või organ esitab selle teabe põhjendamatu viivituseta elektrooniliselt.
+
+Artikkel 22
+Meediaturu kontsentratsiooni hindamine
+1. Liikmesriigid sätestavad oma riigisiseses õiguses materiaalõiguse ja menetlusnormid, mis võimaldavad meediaturu sellist kontsentratsiooni hindamist, millel võib olla oluline mõju meedia mitmekesisusele ja toimetuste sõltumatusele. Nimetatud normid peavad a) olema läbipaistvad, objektiivsed, proportsionaalsed ja mittediskrimineerivad; b) nõudma, et sellise meediaturu kontsentratsiooniga seotud osalised teataksid sellest kontsentratsioonist eelnevalt asjaomastele riigi ametiasutustele või organitele või annaksid sellistele ametiasutustele või organitele asjakohased volitused nõuda kõnealustelt osalistelt kontsentratsiooni hindamiseks vajalikku teavet; c) määrama hindamise eest vastutavaks riiklikud reguleerivad asutused või organid või tagama, et nad on hindamisse sisuliselt kaasatud; d) kehtestama eelnevalt objektiivsed, mittediskrimineerivad ja proportsionaalsed kriteeriumid sellisest meediaturu kontsentratsioonist teatamiseks ning mõju hindamiseks meedia mitmekesisusele ja toimetuste sõltumatusele, ning e) täpsustama eelnevalt ajakava selliste hindamiste lõpuleviimiseks.
+Käesolevas lõikes osutatud meediaturu kontsentratsiooni hindamine on eraldiseisev liidu ja riigisisese konkurentsiõiguse valdkonna hindamistest, sealhulgas ühinemiskontrolli normides sätestatud hindamistest. See ei piira vajaduse korral määruse (EÜ) nr 139/2004 artikli 21 lõike 4 kohaldamist.
+2. Lõikes 1 osutatud meediaturu kontsentratsiooni hindamise puhul võetakse arvesse järgmisi elemente: a) meediaturu kontsentratsiooni eeldatav mõju meedia mitmekesisusele, sh selle mõju avaliku arvamuse kujundamisele ja meediateenuste ja meediapakkumise mitmekesisusele, pidades silmas internetikeskkonda ning poolte huve, seoseid või tegevust teistes meedia- ja muudes ettevõtetes; b) toimetuse sõltumatuse kaitsemeetmed, sealhulgas meediateenuse osutajate võetud meetmed, mille eesmärk on tagada toimetusotsuste sõltumatus; c) kas meediaturu kontsentratsiooniga seotud osalised jääksid ilma meediaturu kontsentratsioonita majanduslikult kestlikuks ning kas on alternatiivseid võimalusi nende majandusliku kestlikkuse tagamiseks; d) kui see on asjakohane, komisjoni iga-aastase õigusriigi olukorda käsitleva aruande järeldused meedia mitmekesisuse ja meediavabaduse kohta ning e) kui see on kohaldatav, mis tahes meediaturu kontsentratsiooniga seotud osaliste võetavad kohustused meedia mitmekesisuse ja toimetuste sõltumatuse kaitsmiseks.
+3. Komisjon, keda abistab nõukoda, annab välja suunised lõike 2 punktides a, b ja c osutatud elementide kohta.
+4. Kui meediaturu kontsentratsioon tõenäoliselt mõjutab meediateenuste siseturu toimimist, konsulteerib asjaomane riiklik reguleeriv asutus või organ eelnevalt nõukojaga oma hinnangu kavandi või arvamuse kavandi osas.
+5. Vastavalt ajakavale, mille nõukoda kehtestab oma kodukorras, koostab nõukoda arvamuse lõikes 4 osutatud hinnangu kavandi või arvamuse kavandi kohta, võttes arvesse lõikes 2 osutatud elemente, ning edastab selle arvamuse asjaomasele riiklikule reguleerivale asutusele või organile ja komisjonile.
+6. Lõikes 4 osutatud riiklik reguleeriv asutus või organ võtab lõikes 5 osutatud arvamust täiel määral arvesse. Kui riiklik reguleeriv asutus või organ arvamust täielikult või osaliselt ei järgi, esitab ta vastavalt ajakavale, mille nõukoda kehtestab oma kodukorras, nõukojale ja komisjonile põhjendatud selgituse oma seisukoha kohta.
+
+Artikkel 23
+Arvamused meediaturu kontsentratsiooni kohta
+1. Kui artikli 22 kohast hindamist või konsulteerimist ei toimu, koostab nõukoda omal algatusel või komisjoni taotlusel arvamuse meediaturu kontsentratsiooni mõju kohta meedia mitmekesisusele ja toimetuste sõltumatusele, kui kõnealuse meediaturu kontsentratsioon võib mõjutada meediateenuste siseturu toimimist. Nõukoda tugineb oma arvamuses artikli 22 lõikes 2 osutatud elementidele. Nõukoda võib juhtida komisjoni tähelepanu sellisele meediaturu kontsentratsioonile.
+2. Komisjon võib esitada selles küsimuses arvamuse, ilma et see piiraks talle aluslepingutega antud volitusi.
+3. Nõukoda ja komisjon teevad oma käesolevas artiklis osutatud arvamused üldsusele kättesaadavaks.
+
+6. JAGU
+Majandusressursside läbipaistev ja õiglane jaotamine
+
+Artikkel 24
+Kasutajaskonna mõõtmine
+1. Kasutajaskonna mõõtmise süsteemide pakkujad tagavad, et nende kasutajaskonna mõõtmise süsteemid ja nende kasutajaskonna mõõtmise süsteemides kasutatav metoodika vastavad läbipaistvuse, erapooletuse, kaasavuse, proportsionaalsuse, mittediskrimineerimise, võrreldavuse ja kontrollitavuse põhimõtetele.
+2. Ilma et see piiraks ettevõtete ärisaladuste kaitset direktiivi (EL) 2016/943 artikli 2 punkti 1 tähenduses, esitavad ettevõtjad, kes pakuvad endale kuuluvaid kasutajaskonna mõõtmise süsteeme, meediateenuse osutajatele, reklaamijatele ning meediateenuse osutajate ja reklaamijate volitatud kolmandatele isikutele põhjendamatu viivituseta ja tasuta täpse, üksikasjaliku, põhjaliku, arusaadava ja ajakohase teabe neis kasutajaskonna mõõtmise süsteemides kasutatava metoodika kohta.
+Endale kuuluvate kasutajaskonna mõõtmise süsteemide pakkujad tagavad, et nende kasutajaskonna mõõtmise süsteemides kasutatavat metoodikat ja selle rakendamise viisi auditeeritakse sõltumatult kord aastas. Endale kuuluva kasutajaskonna mõõtmise süsteemi pakkuja esitab meediateenuse osutaja taotluse korral igale meediateenuse osutajale teabe kasutajaskonna mõõtmise tulemuste kohta, sealhulgas koondamata andmed, mis on seotud kõnealuse meediateenuse osutaja meediasisu ja meediateenustega.
+Käesolev lõige ei mõjuta liidu andmekaitse- ja eraelu puutumatuse norme.
+3. Liikmesriikide reguleerivad asutused või organid julgustavad kasutajaskonna mõõtmise süsteemide pakkujaid koos meediateenuse osutajate, digiplatvormide pakkujate, neid esindavate organisatsioonide ja muude huvitatud isikutega koostama käitumisjuhendeid või julgustavad kasutajaskonna mõõtmise süsteemide pakkujaid järgima meediateenuse osutajate, neid esindavate organisatsioonide ja muude huvitatud isikute poolt ühiselt kokku lepitud ja laialdaselt tunnustatud käitumisjuhendeid.
+Käesoleva lõike esimeses lõigus osutatud käitumisjuhendite eesmärk on edendada korrapärast, sõltumatut ja läbipaistvat seiret nende eesmärkide tulemusliku saavutamise ja lõikes 1 osutatud põhimõtete järgimise üle, sealhulgas sõltumatute ja läbipaistvate auditite kaudu.
+4. Komisjon, keda abistab nõukoda, võib anda välja suuniseid lõigete 1, 2 ja 3 kohaldamiseks praktikas, võttes asjakohasel juhul arvesse lõikes 3 osutatud käitumisjuhendeid.
+5. Nõukoda edendab kasutajaskonna mõõtmise süsteemide kasutuselevõtuga seotud parimate tavade vahetamist korrapärase dialoogi kaudu liikmesriikide reguleerivate asutuste või organite esindajate, kasutajaskonna mõõtmise süsteemide pakkujate esindajate, meediateenuse osutajate esindajate, digiplatvormide pakkujate esindajate ja muude huvitatud isikute vahel.
+
+Artikkel 25
+Avaliku sektori vahendite eraldamine riikliku reklaami ning tarne- või teenuse osutamise lepingute jaoks
+1. Avaliku sektori rahalisi vahendeid või muid tasusid või eeliseid, mida avaliku sektori asutused või üksused teevad otseselt või kaudselt kättesaadavaks meediateenuse osutajatele või digiplatvormide pakkujatele riiklikuks reklaamiks või meediateenuse osutajate või digiplatvormide pakkujatega sõlmitavate tarne- või teenuse osutamise lepinguteks, antakse üldsusele eelnevalt elektroonilisel ja kasutajasõbralikul viisil kättesaadavaks tehtud läbipaistvate, objektiivsete, proportsionaalsete ja mittediskrimineerivate kriteeriumide alusel ning avatud, proportsionaalsete ja mittediskrimineerivate menetluste kaudu.
+Liikmesriigid püüavad tagada, et riikliku reklaami jaoks eraldatavad iga-aastased avaliku sektori kogukulud jaotatakse paljudele erinevatele turul esindatud meediateenuse osutajatele, võttes arvesse asjaomaste meediaturgude riiklikke ja kohalikke eripärasid.
+Käesolev artikkel ei mõjuta riigihanke- ja kontsessioonilepingute sõlmimist liidu riigihanke normide alusel ega liidu riigiabi normide kohaldamist.
+2. Avaliku sektori asutused või üksused teevad igal aastal elektroonilisel ja kasutajasõbralikul viisil avalikult kättesaadavaks teabe riikliku reklaami avaliku sektori kulude kohta. Kõnealune teave sisaldab vähemalt järgmist: a) nende meediateenuse osutajate või digiplatvormide pakkujate ametlikud nimed, kellelt teenuseid osteti; b) kui see on kohaldatav, nende kontsernide ametlikud nimed, kuhu sellised punktis a osutatud meediateenuse osutajad või digiplatvormide pakkujad kuuluvad, ning c) aastas kokku kulutatud summa ning meediateenuse osutaja või digiplatvormi pakkuja kohta kulutatud iga-aastane summa.
+Liikmesriigid võivad esimese lõigu punktis b sätestatud kohustustest vabastada alla 100 000 elanikuga territoriaalüksuste piirkondlikud omavalitsused ning selliste piirkondlike omavalitsuste otsese või kaudse kontrolli all olevad üksused.
+3. Liikmesriikide reguleerivad asutused või organid või muud liikmesriikide pädevad sõltumatud asutused või organid seiravad lõikes 2 loetletud teabele tuginedes riikliku reklaami jaotamist meediateenuse osutajatele ja digiplatvormide pakkujatele ning annavad selle kohta igal aastal aru. Kõnealused aastaaruanded tehakse üldsusele kergesti juurdepääsetaval viisil kättesaadavaks.
+Selleks et hinnata lõike 2 kohaselt kättesaadavaks tehtud riiklikku reklaami käsitleva teabe täielikkust, võivad liikmesriikide reguleerivad asutused või organid või muud liikmesriikide pädevad sõltumatud asutused või organid nõuda lõike 2 esimeses lõigus osutatud avaliku sektori asutustelt või üksustelt lisateavet, muu hulgas üksikasjalikumat teavet lõikes 1 osutatud kriteeriumide ja korra kohaldamise kohta.
+Kui seiret, hindamist ja aruandlust teostavad muud liikmesriikide pädevad sõltumatud asutused või organid, teavitavad nad sellest nõuetekohaselt liikmesriikide reguleerivaid asutusi või organeid.
+
+IV PEATÜKK
+LÕPPSÄTTED
+
+Artikkel 26
+Seire
+1. Komisjon tagab meediateenuste siseturu, sealhulgas selle toimimise ja vastupidavusega seotud riskide ning edusammude sõltumatu ja pideva seire (edaspidi „seire“). Kõnealuse seire tulemuste üle konsulteeritakse nõukojaga ning need tulemused edastatakse kontaktkomiteele, kellega neid arutatakse.
+2. Komisjon määrab nõukojaga konsulteerides kindlaks põhilised tulemusnäitajad, objektiivsuse tagamise metodoloogilised kaitsemeetmed ja teadlaste valikukriteeriumid seire jaoks.
+3. Seire hõlmab järgmist: a) kõigi liikmesriikide meediaturgude üksikasjalik analüüs, muu hulgas seoses meedia kontsentratsiooni taseme ning välisriigist lähtuva infoga manipuleerimise ja sekkumisega; b) ülevaade ja tulevikku suunatud hinnang meediateenuste siseturu kui terviku toimimise kohta, sealhulgas seoses digiplatvormide mõjuga; c) ülevaade ohtudest meedia mitmekesisusele ja meediateenuse osutajate toimetuste sõltumatusele, kui need võivad mõjutada siseturu toimimist; d) ülevaade meetmetest, mida meediateenuse osutajad on võtnud toimetusotsuste sõltumatuse tagamiseks; e) üksikasjalik ülevaade raamistikest ja tavadest seoses avaliku sektori vahendite eraldamisega riikliku reklaami jaoks.
+4. Seiret tehakse igal aastal. Seire tulemused, sealhulgas selleks kasutatud metoodika ja andmed, tehakse üldsusele kättesaadavaks ja esitatakse igal aastal Euroopa Parlamendile.
+
+Artikkel 27
+Hindamine ja aruandlus
+1. Hiljemalt 8. augustiks 2028 ja pärast seda iga nelja aasta järel hindab komisjon käesolevat määrust ja esitab selle kohta aruande Euroopa Parlamendile, nõukogule ning Euroopa Majandus- ja Sotsiaalkomiteele.
+2. Esmakordses käesoleva artikli lõikes 1 osutatud hindamises uurib komisjon eelkõige artiklis 11 osutatud nõukoja sekretariaadi toimimise tulemuslikkust, sealhulgas vahendite piisavust seoses sekretariaadi ülesannete täitmisega.
+3. Komisjoni taotlusel saadavad liikmesriigid ja nõukoda talle lõike 1 kohaldamiseks asjakohase teabe.
+4. Käesoleva artikli lõikes 1 osutatud hindamiste läbiviimisel võtab komisjon arvesse järgmist: a) Euroopa Parlamendi, nõukogu ja muude asjaomaste organite või allikate seisukohad ja järeldused; b) asjakohastel foorumitel toimunud asjakohaste arutelude tulemused; c) nõukoja väljaantud asjakohased dokumendid; d) artiklis 26 osutatud seire tulemused.
+5. Lõikes 1 osutatud aruandele võib asjakohasel juhul lisada ettepaneku käesoleva määruse muutmiseks.
+
+Artikkel 28
+Direktiivi 2010/13/EL muutmine
+Direktiivi 2010/13/EL muudetakse järgmiselt:
+1)
+artikkel 30b jäetakse välja;
+2)
+viiteid direktiivi 2010/13/EL artiklile 30b käsitatakse viidetena käesoleva määruse artikli 13 lõike 1 punktile c.
+
+Artikkel 29
+Jõustumine ja kohaldamine
+Käesolev määrus jõustub kahekümnendal päeval pärast selle avaldamist Euroopa Liidu Teatajas .
+Käesolevat määrust kohaldatakse alates 8. augustist 2025. Siiski:
+a)
+artiklit 3 kohaldatakse alates 8. novembrist 2024;
+b)
+artikli 4 lõikeid 1 ja 2, artikli 6 lõiget 3, artikleid 7–13 ja artiklit 28 kohaldatakse alates 8. veebruarist 2025;
+c)
+artikleid 14–17 kohaldatakse alates 8. maist 2025;
+d)
+artiklit 20 kohaldatakse alates 8. maist 2027.
+
+Käesolev määrus on tervikuna siduv ja vahetult kohaldatav kõikides liikmesriikides.
+
+( ) Euroopa Parlamendi ja nõukogu 17. aprilli 2019. aasta direktiiv (EL) 2019/790, mis käsitleb autoriõigust ja autoriõigusega kaasnevaid õigusi digitaalsel ühtsel turul ning millega muudetakse direktiive 96/9/EÜ ja 2001/29/EÜ (ELT L 130, 17.5.2019, lk 92).
+( ) Euroopa Parlamendi ja nõukogu 13. märtsi 2024. aasta määrus (EL) 2024/900 poliitreklaami läbipaistvuse ja suunamise kohta (ELT L, 2024/900, 20.3.2024, ELI: http://data.europa.eu/eli/reg/2024/900/oj).
+( ) Euroopa Parlamendi ja nõukogu 27. aprilli 2016. aasta määrus (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus) (ELT L 119, 4.5.2016, lk 1).
+( ) Euroopa Parlamendi ja nõukogu 27. aprilli 2016. aasta direktiiv (EL) 2016/680, mis käsitleb füüsiliste isikute kaitset seoses pädevates asutustes isikuandmete töötlemisega süütegude tõkestamise, uurimise, avastamise ja nende eest vastutusele võtmise või kriminaalkaristuste täitmisele pööramise eesmärgil ning selliste andmete vaba liikumist ning millega tunnistatakse kehtetuks nõukogu raamotsus 2008/977/JSK (ELT L 119, 4.5.2016, lk 89).
