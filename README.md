@@ -4,6 +4,8 @@ The reader makes possible differences between EU language versions easier to ins
 
 This is a static website. It reads a checked export and never starts research or contacts the local backend. The [backend](../backend/README.md) has its own Git repository and preserves the private review history. This repository holds only public material and is backed up at [Bttlbmb/eutranslationinconsistencies](https://github.com/Bttlbmb/eutranslationinconsistencies).
 
+The published reader is at [bttlbmb.github.io/eutranslationinconsistencies](https://bttlbmb.github.io/eutranslationinconsistencies/). Every push to `main` runs the tests, validates the snapshot, builds `dist/`, and deploys that output to GitHub Pages. Pull requests run the same checks without deployment. The former OpenAI-hosted copy remains retired.
+
 ## Run the reader
 
 Use Node.js 20 or newer. There are no packages to install.

@@ -68,9 +68,11 @@ For interface changes, exercise the real snapshot in a browser on desktop and na
 
 ## Rebuild and share
 
-The owner retired the OpenAI-hosted reader on 16 October 2026. Public access was removed and the existing deployment is owner-only. The available Sites tools did not provide an undeploy operation. `.openai/publication-disabled` blocks the backend's automatic and explicit hosting commands. Keep the existing identity in `.openai/hosting.json` for reference; do not resume deployment without a new request.
+The owner retired the OpenAI-hosted reader on 16 October 2026. Public access was removed and the existing deployment is owner-only. The available Sites tools did not provide an undeploy operation. `.openai/publication-disabled` blocks the backend's automatic and explicit Sites commands, not GitHub Pages. Keep the existing identity in `.openai/hosting.json` for reference; do not resume Sites deployment without a new request.
 
-Updating the reader now means exporting a checked backend snapshot, rebuilding locally, and pushing reviewed changes to [GitHub](https://github.com/Bttlbmb/eutranslationinconsistencies). Follow the [workspace rules](../../backend/docs/workspace.md). A GitHub push stores the source; it does not establish website hosting.
+Updating the reader means exporting a checked backend snapshot, rebuilding locally, and pushing reviewed changes to [GitHub](https://github.com/Bttlbmb/eutranslationinconsistencies). The `Check and deploy reader` workflow tests, validates and builds each `main` commit, then publishes only `dist/` to [GitHub Pages](https://bttlbmb.github.io/eutranslationinconsistencies/). Pull requests never deploy. A failed check stops publication and retains the previous hosted version. Follow the [workspace rules](../../backend/docs/workspace.md), confirm the deployment job succeeded, and check the live reader before reporting it updated.
+
+Repository Settings → Pages must use **GitHub Actions** as the source. The workflow can also be run manually from Actions for `main`. It follows GitHub's [custom Pages workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages): upload the validated build, then deploy with the restricted Pages permissions. Source, tests and documentation are not part of the deployment artifact. Relative asset and data URLs support this repository's `/eutranslationinconsistencies/` path.
 
 The website never starts research or refreshes source legislation itself. Keep credentials, prompts, private traces, local paths and rejected evidence out of this repository. `robots.txt` and `noindex` remain search-engine instructions, not access control.
 
