@@ -839,6 +839,11 @@ summary {
   font-variant-numeric: tabular-nums;
   padding-top: 1px;
 }
+/* The section below draws its own rule; a closing item rule would double it. */
+.finding-index-item:last-child,
+.impact-index-item:last-child {
+  border-bottom: 0;
+}
 .finding-index-item strong {
   display: block;
   font-size: 14px;
