@@ -32,7 +32,7 @@ import {
   renderSourceVersion,
   renderSourceScope
 } from './view.js?v=9';
-import { actIntroduction, actSummary } from './catalogue-model.js?v=11';
+import { actIntroduction, actSummary } from './catalogue-model.js?v=12';
 
 const $ = (selector) => document.querySelector(selector);
 const state = {
@@ -489,20 +489,25 @@ function renderToolbar() {
   );
   const right = node('div', 'toolbar-right');
   if (findings.length) {
-    const toggle = button(
-      state.highlightsOnly ? 'Show full text' : 'Highlights only',
-      'highlight-toggle',
-      () => {
-        state.highlightsOnly = !state.highlightsOnly;
+    // Two named views with the current one marked, like the comparison tabs.
+    const views = node('div', 'text-view-switch');
+    views.setAttribute('role', 'group');
+    views.setAttribute('aria-label', 'English text view');
+    for (const [label, highlightsOnly] of [['Full text', false], ['Highlights', true]]) {
+      const view = button(label, 'comparison-view-button text-view-button', () => {
+        if (state.highlightsOnly === highlightsOnly) return;
+        state.highlightsOnly = highlightsOnly;
         renderToolbar();
         renderReader();
-        $('.highlight-toggle').focus({ preventScroll: true });
+        $('.text-view-button[aria-pressed="true"]').focus({ preventScroll: true });
         if (state.finding)
           requestAnimationFrame(() => scrollToFinding(state.finding, { behavior: 'auto', sourceOnly: true }));
-      }
-    );
-    toggle.setAttribute('aria-pressed', String(state.highlightsOnly));
-    append(right, toggle);
+      });
+      view.dataset.label = label;
+      view.setAttribute('aria-pressed', String(state.highlightsOnly === highlightsOnly));
+      views.append(view);
+    }
+    append(right, views);
   }
   append(toolbar, left, right);
 }

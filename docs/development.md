@@ -45,7 +45,7 @@ The optional `impact_families` export contains current model-reviewed assessment
 
 Build validation checks archive paths and bytes, exact English passages and quotations, foreign-language evidence, official source links, review metadata, language availability, and reconciled coverage. A complete label cannot conceal missing review coverage. Validation and copying use the same loaded bytes, so a newer export cannot silently replace data after it was checked. New browser modules must also be added to the explicit asset list in `scripts/build.mjs`.
 
-The reader renders source wording with text nodes. `passageRows` and highlights refer to offsets in that text, so visual list formatting never rewrites the source characters. Records sharing the same English passage and quote are grouped for display. A shared group uses a neutral English-quotation excerpt as its heading; each language’s original finding title and every original finding link remain available.
+The reader renders source wording with text nodes. `passageRows` and highlights refer to offsets in that text, so visual list formatting never rewrites the source characters. Records sharing the same English passage and quote are grouped for display. A shared group is listed under its first language finding’s title with “+N more”, and its view is headed by the location and language count; each language’s original finding title and every original finding link remain available.
 
 The format has no quote offset. When quoted wording repeats, all exact non-overlapping occurrences are highlighted, with a context note. This does not assert that each occurrence is independently discrepant. Overlapping findings remain separately selectable.
 
@@ -65,7 +65,7 @@ For interface changes, exercise the real snapshot in a browser on desktop and na
 - Use browser Back to restore the preceding selection or finding index.
 - Expand coverage/source notes, download a text, and use the method dialog with the keyboard.
 - Check that wording is readable, no horizontal overflow appears, and requests stay within the static reader or explicit official source links.
-- Verify the pane toolbar baselines at desktop widths, keep a selected quotation visible after toggling highlights or resizing, and check the compact pending and unavailable-language states.
+- Verify the pane toolbar baselines at desktop widths, keep a selected quotation visible after switching between Full text and Highlights or resizing, and check the compact pending and unavailable-language states.
 
 ## Rebuild and share
 

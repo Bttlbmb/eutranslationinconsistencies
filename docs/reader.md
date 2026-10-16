@@ -18,7 +18,7 @@ Text order follows the source. Potential impact opens an issue-level view, where
 
 The review status sits beside the source version at the top of the reader; the version disclosure holds its scope notes. Review and sources provides the exact version, source links, archives and coverage notes. A completed label refers to the preserved source scope. Missing languages, mixed-language official files and unfinished comparisons remain explicit. A source import checks currency at that point in time; the project does not continuously monitor later legal changes.
 
-Highlights reproduce exact substrings. When the same words occur several times, the reader can highlight several matches; this does not establish a separate discrepancy at every occurrence. The source itself is never rewritten to make a comparison clearer.
+The English text toolbar switches between Full text and Highlights, which shows only passages with findings; the current view is underlined. Highlights reproduce exact substrings. When the same words occur several times, the reader can highlight several matches; this does not establish a separate discrepancy at every occurrence. The source itself is never rewritten to make a comparison clearer.
 
 The collection's language summary compares only languages available in every fully reviewed act in its stated scope. It is a count within this collection, not a measure of overall translation quality. No finding should be read as an adjudicated legal error.
 

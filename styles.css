@@ -410,16 +410,27 @@ summary {
   font-size: 12px;
   white-space: nowrap;
 }
-.highlight-toggle {
-  background: transparent;
-  color: var(--muted);
-  font-size: 12px;
-  white-space: nowrap;
-  padding: 3px 0 3px 8px;
-  border-left: 1px solid var(--line);
+.toolbar-right {
+  align-self: stretch;
 }
-.highlight-toggle[aria-pressed='true'] {
-  color: var(--accent);
+.text-view-switch {
+  display: flex;
+  gap: 18px;
+  height: 100%;
+}
+.text-view-button {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  white-space: nowrap;
+}
+/* Reserve the bold width so switching views never moves either tab. */
+.text-view-button::after {
+  content: attr(data-label);
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
   font-weight: 600;
 }
 .reader {
