@@ -17,7 +17,7 @@ import {
   overlappingFindings,
   selectedFromHash,
   selectionHash
-} from './model.js?v=6';
+} from './model.js?v=7';
 import {
   node,
   append,
@@ -30,8 +30,8 @@ import {
   explanationParagraph,
   renderSourceVersion,
   renderSourceScope
-} from './view.js?v=6';
-import { actIntroduction, actSummary } from './catalogue-model.js?v=8';
+} from './view.js?v=7';
+import { actIntroduction, actSummary } from './catalogue-model.js?v=9';
 
 const $ = (selector) => document.querySelector(selector);
 const state = {
@@ -390,8 +390,7 @@ function renderAct() {
   const summary = actSummary(act);
   document.title = `${introduction.label} · EU Translation Inconsistencies`;
   const identity = node('div', 'document-identity');
-  const version = renderSourceVersion(act, 'document-meta');
-  append(version, renderSourceScope(act));
+  const version = renderSourceVersion(act, 'document-meta', renderSourceScope(act));
   const reviewStatus = node('span', `document-review-state status-${summary.fullyReviewed ? 'complete' : act.status === 'complete' ? 'partial' : act.status}`, `${summary.reviewState} · ${summary.reviewedLanguagesLabel}`);
   reviewStatus.title = 'Counts non-English language versions fully compared with English. Completion applies to the selected text version and source scope; incomplete does not mean a review is running.';
   append(
@@ -628,16 +627,14 @@ function renderImpactBadge(family) {
 }
 function renderImpactSummary(family, { select = false, memberId = null, showTitle = true } = {}) {
   const block = node('section', 'impact-summary');
-  append(block, node('p', 'impact-summary-label', 'Potential impact'));
   if (showTitle) append(block, node('h3', 'impact-issue-title', family.title));
-  if (family.confidence) append(block, node('p', 'impact-confidence', `Confidence in this legal effect: ${family.confidence}`));
   const reasonLabel = family.rating_status === 'needs_reassessment' ? 'Earlier assessment reasoning'
     : family.review_state === 'needs_review'
     ? 'Why the impact is under review'
     : `Why this is rated ${impactDisplayLabel(family.impact_level).toLowerCase()}`;
   append(
     block,
-    node('h4', 'impact-section-heading', 'If this reading prevails'),
+    node('h4', 'impact-section-heading', 'Potential impact if this reading prevails'),
     node('p', 'impact-effect', family.effect),
     node('h4', 'impact-section-heading', reasonLabel)
   );
@@ -653,6 +650,7 @@ function renderImpactSummary(family, { select = false, memberId = null, showTitl
     family.rating_status === 'needs_reassessment'
       ? 'This explanation uses the earlier three-level scale and awaits assessment on the Major/Limited scale.'
       : family.review_state === 'needs_review' ? 'No impact level assigned; context review needed' : '',
+    family.confidence ? `Confidence in the proposed legal effect: ${family.confidence}` : '',
     family.assessed_at ? `Assessed ${prettyDate(family.assessed_at)}` : '',
     family.rubric_version ? `Method ${family.rubric_version}` : ''
   ].filter(Boolean).join(' · ');
@@ -879,7 +877,9 @@ function renderComparison() {
       state.language && variants.length === 1
         ? variants[0].explanation || selected.explanation
         : selected.explanation;
-    append(detail, node('h2', '', state.issue?.title || detailTitle));
+    const passageLabel = act.passages.find((item) => item.id === selected.passage_id)?.label;
+    append(detail, node('h2', '', state.issue?.title || (variants.length > 1 && passageLabel
+      ? `${passageLabel} · ${plural(variants.length, 'language')}` : detailTitle)));
     const familiesHere = state.issue ? [state.issue] : displayedImpactFamilies(act).filter((family) =>
       family.members.some((member) => selected.aliases.includes(member.id) &&
         (!state.language || member.variants.some((variant) => variant.language === state.language)))
@@ -906,7 +906,8 @@ function renderComparison() {
         });
         detail.append(locationNav);
       }
-      append(detail, node('p', 'issue-evidence-intro', `Language evidence at this English passage · ${plural(variants.length, 'comparison')}`));
+      if (variants.length > 1)
+        append(detail, node('p', 'issue-evidence-intro', `Evidence in ${plural(variants.length, 'language')}`));
     }
     const passage = act.passages.find((item) => item.id === selected.passage_id);
     const occurrences = sourceOccurrences(passage?.text || '', selected.english_quote).length;
@@ -933,7 +934,22 @@ function renderComparison() {
       append(disclosure, choices);
       relatedDisclosure = disclosure;
     }
-    variants.forEach((variant) => {
+    // An impact section sits inside the one language it assesses; an issue
+    // spanning several languages here stays after them.
+    const impactSummary = (family, showTitle) => {
+      const memberId = family.finding_ids.find((id) => selected.aliases.includes(id) &&
+        (!state.language || family.members.find((member) => member.id === id)?.variants.some(
+          (variant) => variant.language === state.language))) || null;
+      return renderImpactSummary(family, { select: !state.issue, memberId, showTitle });
+    };
+    const impactPlacement = new Map();
+    familiesHere.forEach((family) => {
+      const matches = variants.map((variant, index) =>
+        family.finding_ids.includes(variant.finding_id || selected.id) ? index : -1).filter((index) => index >= 0);
+      if (matches.length === 1) impactPlacement.set(family, matches[0]);
+      else if (variants.length === 1) impactPlacement.set(family, 0);
+    });
+    variants.forEach((variant, variantIndex) => {
       const card = node('article', 'variant-card');
       const top = node('div', 'variant-title');
       const languageName = variant.language_name || variant.language;
@@ -985,18 +1001,12 @@ function renderComparison() {
           })
         )
       );
+      familiesHere.filter((family) => impactPlacement.get(family) === variantIndex)
+        .forEach((family) => card.append(impactSummary(family, false)));
       detail.append(card);
     });
-    familiesHere.forEach((family) => {
-      const memberId = family.finding_ids.find((id) => selected.aliases.includes(id) &&
-        (!state.language || family.members.find((member) => member.id === id)?.variants.some(
-          (variant) => variant.language === state.language))) || null;
-      detail.append(renderImpactSummary(family, {
-        select: !state.issue,
-        memberId,
-        showTitle: !state.issue && (familiesHere.length > 1 || family.title !== detailTitle)
-      }));
-    });
+    familiesHere.filter((family) => !impactPlacement.has(family)).forEach((family) =>
+      detail.append(impactSummary(family, !state.issue && (familiesHere.length > 1 || family.title !== detailTitle))));
     append(detail, relatedDisclosure);
     panel.append(detail);
   }

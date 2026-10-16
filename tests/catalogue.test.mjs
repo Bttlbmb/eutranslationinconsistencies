@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
-  impactDistribution, overallLanguageSummary
+  impactDistribution, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd
 } from '../catalogue-model.js';
 
 // Synthetic evidence is confined to tests and never enters the public catalogue.
@@ -264,4 +264,11 @@ test('legacy root links preserve the entire selection and query without treating
   assert.equal(legacyReaderHref('#impact=high'), './reader.html#impact=high');
   assert.equal(legacyReaderHref('#catalogue-list'), null);
   assert.equal(legacyReaderHref(''), null);
+});
+
+test('AI processing cost sums only acts with a metered ledger', () => {
+  const acts = [{ ai_processing: { metered_usd: 1.1726 } }, { ai_processing: { metered_usd: 2.3545 } }, {}];
+  assert.equal(processingCost(acts[2]), null);
+  assert.equal(formatUsd(collectionProcessingCost(acts)), '$3.53');
+  assert.equal(collectionProcessingCost([{}]), null);
 });

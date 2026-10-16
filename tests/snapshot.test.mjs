@@ -147,6 +147,25 @@ for (const [name, codes, reviewedLanguages] of [
   });
 }
 
+test('snapshot accepts a metered AI processing cost', async () => {
+  const { catalogue, files } = fixture();
+  catalogue.legislation[0].ai_processing = { metered_usd: 2.3545, requests: 4, reused_usd: 2.1768, unsettled_max_usd: 0.3916 };
+  await validateSnapshot(catalogue, (url) => files.get(url));
+});
+
+for (const [name, cost] of [
+  ['a negative amount', { metered_usd: -1, requests: 1, reused_usd: 0, unsettled_max_usd: 0 }],
+  ['a fractional request count', { metered_usd: 1, requests: 1.5, reused_usd: 0, unsettled_max_usd: 0 }],
+  ['reuse above the total', { metered_usd: 1, requests: 1, reused_usd: 2, unsettled_max_usd: 0 }],
+  ['a private field', { metered_usd: 1, requests: 1, reused_usd: 0, unsettled_max_usd: 0, response_ids: [] }]
+]) {
+  test(`snapshot rejects ${name} in AI processing cost`, async () => {
+    const { catalogue, files } = fixture();
+    catalogue.legislation[0].ai_processing = cost;
+    await assert.rejects(validateSnapshot(catalogue, (url) => files.get(url)), /AI processing|Unexpected aiProcessing/);
+  });
+}
+
 test('snapshot accepts an approved issue family linked to an original published finding', async () => {
   const { catalogue, files } = fixture();
   catalogue.legislation[0].impact_families = [approvedImpactFamily()];

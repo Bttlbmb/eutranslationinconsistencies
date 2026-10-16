@@ -1,5 +1,5 @@
 /** Front-page summaries of the checked public snapshot. No research state is inferred. */
-import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel, targetReviewCoverage } from './model.js?v=6';
+import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel, targetReviewCoverage } from './model.js?v=7';
 
 // Editorial introductions to the existing acts, based on their preserved official
 // titles and scope provisions. Source metadata and legal wording stay unchanged.
@@ -242,3 +242,16 @@ export function legacyReaderHref(hash, search = '') {
     ? `./reader.html${search}${hash.startsWith('#') ? hash : `#${hash}`}`
     : null;
 }
+
+/** Metered AI cost in US dollars, or null when no paid ledger covers the act. */
+export function processingCost(act) {
+  const cost = act?.ai_processing;
+  return cost && Number.isFinite(cost.metered_usd) ? cost.metered_usd : null;
+}
+
+export function collectionProcessingCost(acts) {
+  const costs = acts.map(processingCost).filter(cost => cost !== null);
+  return costs.length ? costs.reduce((total, cost) => total + cost, 0) : null;
+}
+
+export const formatUsd = value => `$${value.toFixed(2)}`;

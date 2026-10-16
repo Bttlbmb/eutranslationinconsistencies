@@ -5,6 +5,7 @@
   --ink: #2c3034;
   --muted: #60656a;
   --line: #e0e1de;
+  --rule-strong: #c9ccce;
   --accent: #346c9c;
   --highlight: #c7e4fa;
   --wording-change: #d9ebf9;
@@ -732,7 +733,6 @@ summary {
   padding: 18px 0 12px;
   border-top: 1px solid var(--line);
 }
-.impact-summary-label,
 .impact-section-heading {
   color: var(--muted);
   font: 500 12px/1.4 var(--sans);
@@ -744,6 +744,9 @@ summary {
 }
 .impact-section-heading {
   margin: 16px 0 4px;
+}
+.impact-summary > .impact-section-heading:first-child {
+  margin-top: 0;
 }
 .impact-summary + .impact-summary {
   margin-top: 3px;
@@ -895,8 +898,11 @@ summary {
 .finding-detail > h2 + .variant-card {
   padding-top: 0;
 }
-.variant-card + .variant-card {
-  margin-top: 16px;
+.variant-card + .variant-card,
+.variant-card + .impact-summary {
+  margin-top: 36px;
+  padding-top: 28px;
+  border-top: 1px solid var(--rule-strong);
 }
 .quote-excerpt {
   margin: 20px 0;
@@ -915,7 +921,7 @@ summary {
 }
 
 .variant-language h3 {
-  font: 500 14px/1.4 var(--sans);
+  font: 600 15px/1.4 var(--sans);
 }
 .variant-language .impact-level {
   font-size: 11px;
@@ -973,8 +979,12 @@ summary {
   color: var(--muted);
 }
 .difference-explanation {
-  padding: 18px 0;
-  border-top: 1px solid var(--line);
+  margin-top: 22px;
+}
+.variant-card > .impact-summary {
+  margin-top: 22px;
+  padding: 0;
+  border-top: 0;
 }
 .difference-explanation p {
   margin-top: 4px;

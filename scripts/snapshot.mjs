@@ -46,7 +46,8 @@ function requireValid(condition, message) {
 // Optional source_id is retained for compatibility with existing v2 snapshots.
 const publicFields = {
   catalogue: 'schema_version generated_at legislation',
-  act: 'id title short_title source_url celex version version_label retrieved_at status subject languages unavailable_languages failed_languages coverage passages findings notes impact_families',
+  act: 'id title short_title source_url celex version version_label retrieved_at status subject languages unavailable_languages failed_languages coverage passages findings notes impact_families ai_processing',
+  aiProcessing: 'metered_usd requests reused_usd unsettled_max_usd',
   language: 'code name source_url sha256 text_url notes coverage_incomplete',
   availability: 'code name reason',
   coverage: 'total_units reviewed_units total_languages reviewed_languages reviewed_language_codes',
@@ -227,6 +228,16 @@ export async function validateSnapshot(catalogue, readArchive) {
           `Variant source does not match its archived language in ${finding.id}`
         );
       }
+    }
+
+    // Optional metered AI cost from the private spending ledger; amounts only.
+    if (act.ai_processing !== undefined) {
+      const cost = act.ai_processing;
+      checkFields(cost, 'aiProcessing');
+      const amount = value => typeof value === 'number' && Number.isFinite(value) && value >= 0;
+      requireValid(amount(cost.metered_usd) && amount(cost.reused_usd) && amount(cost.unsettled_max_usd) &&
+        Number.isInteger(cost.requests) && cost.requests >= 0 && cost.reused_usd <= cost.metered_usd,
+        `Invalid AI processing cost in ${act.id}`);
     }
 
     // Impact is an optional, explicitly labeled model-review layer keyed to

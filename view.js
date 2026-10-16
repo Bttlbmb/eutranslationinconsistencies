@@ -1,7 +1,7 @@
 /** Stateless view helpers and source panels. All source wording uses textContent.
  * Navigation and selected-finding state stay in app.js; evidence rules stay in model.js.
  */
-import { officialURL, archiveURL, explanationSegments, sourceVersionInfo, targetReviewCoverage } from './model.js?v=6';
+import { officialURL, archiveURL, explanationSegments, sourceVersionInfo, targetReviewCoverage } from './model.js?v=7';
 
 export function node(tag, className, text) {
   const element = document.createElement(tag);
@@ -51,11 +51,16 @@ export function plural(count, singular, many = `${singular}s`) {
   return `${count} ${count === 1 ? singular : many}`;
 }
 
-export function renderSourceVersion(act, className = '') {
+/** A disclosure only when it has something to show; otherwise a plain line. */
+export function renderSourceVersion(act, className = '', extra = null) {
   const version = sourceVersionInfo(act);
+  const label = `${version.label}${act.version ? `${version.label.endsWith('as of') ? ' ' : ' · '}${prettyDate(act.version)}` : ''}`;
+  if (!version.explanation && !extra)
+    return append(node('p', `source-version source-version-plain ${className}`.trim()), node('span', '', label));
   const details = node('details', `source-version ${className}`);
-  append(details, node('summary', '', `${version.label}${act.version ? `${version.label.endsWith('as of') ? ' ' : ' · '}${prettyDate(act.version)}` : ''}`));
+  append(details, node('summary', '', label));
   if (version.explanation) append(details, node('p', '', version.explanation));
+  append(details, extra);
   return details;
 }
 
@@ -160,6 +165,17 @@ export function renderCoverage(act, { compact = false } = {}) {
         `${incompleteLanguages.map((language) => language.name || language.code).join(', ')}: the archived source contains incomplete language coverage. See the source archive notes below.`
       )
     );
+  const cost = act.ai_processing;
+  if (cost && Number.isFinite(cost.metered_usd)) {
+    const usd = value => `$${value.toFixed(2)}`;
+    const parts = [cost.reused_usd
+      ? `${usd(cost.metered_usd)} in metered API usage, including ${usd(cost.reused_usd)} for reused earlier work.`
+      : `${usd(cost.metered_usd)} in metered API usage across ${cost.requests} ${cost.requests === 1 ? 'request' : 'requests'}.`];
+    if (cost.unsettled_max_usd)
+      parts.push(`Up to ${usd(cost.unsettled_max_usd)} more is held for an interrupted request whose usage is unknown.`);
+    parts.push('Source audits ran on a subscription and are not included.');
+    append(content, node('p', 'coverage-cost', `AI processing: ${parts.join(' ')}`));
+  }
   if (act.notes?.length) {
     const notes = node('details', 'source-notes');
     append(notes, node('summary', '', 'Analysis notes'));

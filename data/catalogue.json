@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-16T00:48:55.436475Z",
+  "generated_at": "2026-10-16T02:38:41.368717Z",
   "legislation": [
     {
       "id": "31997R1103",
@@ -1067,6 +1067,12 @@
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
       ],
+      "ai_processing": {
+        "metered_usd": 1.1726,
+        "requests": 45,
+        "reused_usd": 0.0,
+        "unsettled_max_usd": 0.0
+      },
       "impact_families": [
         {
           "id": "api-issue-84b2e8a0219768004a748ae70685",
@@ -3641,6 +3647,12 @@
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
       ],
+      "ai_processing": {
+        "metered_usd": 6.6617,
+        "requests": 77,
+        "reused_usd": 0.0,
+        "unsettled_max_usd": 0.0
+      },
       "impact_families": [
         {
           "id": "api-issue-9926e068dcc8aea9fde8586c43e4",
@@ -7888,6 +7900,12 @@
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
       ],
+      "ai_processing": {
+        "metered_usd": 8.3548,
+        "requests": 72,
+        "reused_usd": 0.0,
+        "unsettled_max_usd": 0.0
+      },
       "impact_families": [
         {
           "id": "api-issue-738c14564249961138fb0816e29e",
@@ -11012,6 +11030,12 @@
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
       ],
+      "ai_processing": {
+        "metered_usd": 2.3545,
+        "requests": 4,
+        "reused_usd": 2.1768,
+        "unsettled_max_usd": 0.3916
+      },
       "impact_families": [
         {
           "id": "api-issue-7a7d40d0ee71e770cb5140dbbaea",
@@ -12404,6 +12428,12 @@
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors."
       ],
+      "ai_processing": {
+        "metered_usd": 1.1019,
+        "requests": 54,
+        "reused_usd": 0.0,
+        "unsettled_max_usd": 0.0
+      },
       "impact_families": [
         {
           "id": "api-issue-061c8cdf2981f09208cf98ff047d",
@@ -13788,6 +13818,12 @@
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors."
       ],
+      "ai_processing": {
+        "metered_usd": 1.9047,
+        "requests": 59,
+        "reused_usd": 0.0,
+        "unsettled_max_usd": 0.0
+      },
       "impact_families": [
         {
           "id": "api-issue-8228c211e916a4702e58d1580a4a",
@@ -14888,6 +14924,12 @@
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors."
       ],
+      "ai_processing": {
+        "metered_usd": 0.7458,
+        "requests": 45,
+        "reused_usd": 0.0,
+        "unsettled_max_usd": 0.0
+      },
       "impact_families": [
         {
           "id": "api-issue-39512c9baa747aeb1d2ff8f0a06d",
@@ -16006,6 +16048,12 @@
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors."
       ],
+      "ai_processing": {
+        "metered_usd": 1.2477,
+        "requests": 46,
+        "reused_usd": 0.0,
+        "unsettled_max_usd": 0.4133
+      },
       "impact_families": [
         {
           "id": "api-issue-88b9c78253a9b9aabb967e899918",
@@ -16833,6 +16881,12 @@
         "This cohort uses one independent API scan, separate API evidence review, bounded follow-up where needed, and an independent Astra source audit before publication.",
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors."
       ],
+      "ai_processing": {
+        "metered_usd": 0.5877,
+        "requests": 44,
+        "reused_usd": 0.0,
+        "unsettled_max_usd": 0.0
+      },
       "impact_families": [
         {
           "id": "api-issue-f45b44d8d60f8810196d801e73ea",
@@ -17572,6 +17626,12 @@
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
       ],
+      "ai_processing": {
+        "metered_usd": 0.8902,
+        "requests": 53,
+        "reused_usd": 0.0,
+        "unsettled_max_usd": 0.0
+      },
       "impact_families": [
         {
           "id": "api-issue-c2173aae09827505087132f71c57",

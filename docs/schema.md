@@ -36,6 +36,7 @@ Undocumented fields are rejected at every object level, including catalogue, act
 | `findings` | array of finding objects | Supported, agent-reviewed findings only; can be empty at any status. |
 | `impact_families` | array of impact-family objects, optional | Current potential-impact proposals linked to original finding IDs. Assigned levels and unranked issues are displayed; empty or absent means no proposal is available for this act. |
 | `notes` | array of strings | Public-safe context, source scope and analysis limitations. |
+| `ai_processing` | AI-processing object, optional | Metered model cost of this act's review, from the private spending ledger. Absent when no paid ledger covers the act. |
 
 ### Status rules
 
@@ -62,6 +63,17 @@ A complete review with no findings means no supported difference was identified 
 Unavailable-language and failed-language objects each contain `code`, `name`, and a public-safe `reason` string. Keep unavailable versions separate from retrieval failures: one means no corresponding expression was found; the other means an existing expression was not successfully preserved.
 
 `text_url` must begin with `texts/`, end in `.txt`, and contain only ASCII letters, digits, underscore, period, slash or hyphen. Parent directory segments (`..`), query strings, URL schemes, absolute paths and encoded path escapes are forbidden. Publication checks require the referenced file to exist and match `sha256`.
+
+## AI processing
+
+| Field | Type | Meaning |
+| --- | --- | --- |
+| `metered_usd` | non-negative number | Metered API cost in US dollars attributed to this act, including `reused_usd`. |
+| `requests` | non-negative integer | Metered requests in this act's own review run; reused earlier work is not counted. |
+| `reused_usd` | non-negative number, at most `metered_usd` | Documented charge of earlier paid work reused for this act. |
+| `unsettled_max_usd` | non-negative number | Upper bound held for interrupted requests whose usage could not be recovered; not counted as spent. |
+
+Source audits run through a signed-in subscription have no metered charge and are not included.
 
 ## Coverage
 

@@ -1,10 +1,10 @@
 /** The read-only catalogue front page. Requests use only the public static snapshot. */
-import { catalogueLegislation } from './model.js?v=6';
+import { catalogueLegislation } from './model.js?v=7';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
-  englishWordCount, overallLanguageSummary
-} from './catalogue-model.js?v=8';
-import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=6';
+  englishWordCount, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd
+} from './catalogue-model.js?v=9';
+import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=7';
 
 const $ = selector => document.querySelector(selector);
 const number = value => new Intl.NumberFormat('en-GB').format(value);
@@ -141,10 +141,17 @@ function renderAct(act) {
   if (introduction.description) append(identity, node('p', 'catalogue-description', introduction.description));
   const wordCount = englishWordCount(act);
   const version = renderSourceVersion(act, 'catalogue-version');
+  const versionLine = version.querySelector('summary') || version.firstElementChild;
   if (wordCount !== null) {
     const length = node('span', '', ` · ${number(wordCount)} ${wordCount === 1 ? 'word' : 'words'} in English`);
     length.title = 'Count of the preserved English source text shown in the reader, including introductory text, annexes and footnotes where available. Whitespace separates words; numbers count and standalone punctuation does not.';
-    append(version.querySelector('summary'), length);
+    append(versionLine, length);
+  }
+  const cost = processingCost(act);
+  if (cost !== null) {
+    const spent = node('span', '', ` · ${formatUsd(cost)} AI processing`);
+    spent.title = 'Metered API cost of this review. Source audits ran on a subscription and are not included; Review and sources gives details.';
+    append(versionLine, spent);
   }
   append(identity, version, renderSourceScope(act));
   const facts = node('div', 'catalogue-facts');
@@ -183,7 +190,8 @@ async function loadCatalogue() {
     const acts = catalogueLegislation(catalogue);
     const summary = catalogueSummary(acts);
     renderOverall(acts);
-    $('#catalogue-total').textContent = `${plural(summary.acts, 'act')} · ${number(summary.findings)} differences in meaning · ${plural(summary.complete, 'complete review')}`;
+    const totalCost = collectionProcessingCost(acts);
+    $('#catalogue-total').textContent = `${plural(summary.acts, 'act')} · ${number(summary.findings)} differences in meaning · ${plural(summary.complete, 'complete review')}${totalCost === null ? '' : ` · ${formatUsd(totalCost)} AI processing`}`;
     $('#catalogue-date').textContent = catalogue.generated_at ? `Website data exported ${prettyDate(catalogue.generated_at)}` : '';
     list.replaceChildren(...orderedActs(acts).map(act => renderAct(act)));
     if (!acts.length) append(list, append(node('div', 'catalogue-empty'),

@@ -82,7 +82,7 @@ export function sourceVersionInfo(act) {
     label: consolidated ? 'Consolidated version as of' : original ? 'Original publication' : act.version_label || 'Source version',
     explanation: consolidated
       ? 'A combined text incorporating amendments up to the stated date. The authentic legal acts are published in the Official Journal.'
-      : original ? 'The text as originally published in the Official Journal.' : '',
+      : '',
     limitations
   };
 }
@@ -99,10 +99,9 @@ export function targetReviewCoverage(act) {
 }
 
 function sharedQuoteTitle(act, group) {
-  const label = act.passages.find(passage => passage.id === group.passage_id)?.label || 'Shared wording';
   const quote = group.english_quote.trim().replace(/\s+/g, ' ');
   const excerpt = quote.length > 90 ? `${quote.slice(0, 90).replace(/\s+\S*$/, '')}…` : quote;
-  return `${label}: “${excerpt}”`;
+  return `“${excerpt}”`;
 }
 
 /** Languages with publishable substantial findings, counted by finding record. */

@@ -515,7 +515,7 @@ test('grouped differences keep a descriptive label and each language finding tit
     variants: [{ language: 'de' }]
   };
   const group = groupedFindings({ ...act, findings: [first, second] })[0];
-  assert.ok(group.title.startsWith('Shared wording: “'));
+  assert.ok(group.title.startsWith('“'));
   assert.ok(group.title.includes(group.english_quote));
   assert.ok(!group.title.includes(first.title));
   assert.deepEqual(

@@ -1,6 +1,6 @@
 # Reading the findings
 
-Start with a law in the collection. Its card gives the number of differences in meaning (a link to the reader), whether the review is complete and how many languages were reviewed, and an impact bar whose legend counts Major, Limited and No impact rating yet. The card also names the reviewed source version. These are different measures. A review can be complete without finding a difference, and a published finding can still lack an impact rating.
+Start with a law in the collection. Its card gives the number of differences in meaning (a link to the reader), whether the review is complete and how many languages were reviewed, and an impact bar whose legend counts Major, Limited and No impact rating yet. The card also names the reviewed source version and, where a paid ledger covers the act, its metered AI processing cost; Review and sources explains what that amount includes. These are different measures. A review can be complete without finding a difference, and a published finding can still lack an impact rating.
 
 The language count includes only non-English versions fully compared with English. Partly checked versions and failed source retrievals remain in the total but do not count as reviewed. Incomplete describes the saved coverage; it does not mean work is currently running. Review and sources gives the details.
 
