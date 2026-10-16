@@ -878,7 +878,7 @@ summary {
   padding: 22px var(--page-gutter) 0;
 }
 .finding-detail > h2 {
-  margin-bottom: 22px;
+  margin-bottom: 16px;
   font: 500 18px/1.4 var(--sans);
 }
 .finding-detail > h2,
@@ -891,6 +891,9 @@ summary {
 }
 .variant-card:first-of-type {
   border-top: 0;
+}
+.finding-detail > h2 + .variant-card {
+  padding-top: 0;
 }
 .variant-card + .variant-card {
   margin-top: 16px;
