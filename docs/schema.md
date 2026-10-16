@@ -59,8 +59,13 @@ A complete review with no findings means no supported difference was identified 
 | `sha256` | 64-character hexadecimal string | SHA-256 of the exact UTF-8 bytes in the referenced text file. |
 | `coverage_incomplete` | boolean, optional | True for a preserved expression with incomplete or mixed-language coverage; defaults to false. |
 | `notes` | array of strings, optional | Public-safe explanation of expression-specific source issues. |
+| `source_documents` | array of official-source-document objects, optional | Additional original publications or corrigenda needed for the reviewed context. Each keeps its own source URL, version and checked text archive. |
 
 Unavailable-language and failed-language objects each contain `code`, `name`, and a public-safe `reason` string. Keep unavailable versions separate from retrieval failures: one means no corresponding expression was found; the other means an existing expression was not successfully preserved.
+
+The primary `text_url` remains one official normalized expression. When a consolidation omits recitals, `source_documents` can preserve the original publication and relevant corrigenda separately. An assembled model dossier is private and must not replace the primary official expression in the public archive. Context documents do not add languages or completed comparisons to coverage.
+
+Each official-source-document object contains exactly `id`, `label`, `celex`, `version`, `retrieved_at`, `source_url`, `sha256` and `text_url`. Its identifier uses lowercase letters, digits and hyphens; identifiers and official URLs are unique within the language. The label identifies historical context or a corrigendum explicitly. The timestamp is UTC. URLs, archive paths, UTF-8 bytes and hashes pass the same checks as the primary expression. Every referenced context text is packaged in the self-contained snapshot.
 
 `text_url` must begin with `texts/`, end in `.txt`, and contain only ASCII letters, digits, underscore, period, slash or hyphen. Parent directory segments (`..`), query strings, URL schemes, absolute paths and encoded path escapes are forbidden. Publication checks require the referenced file to exist and match `sha256`.
 
@@ -161,7 +166,7 @@ The backend exports current provisional and needs-review proposals without a sep
 | `explanation` | non-empty string | Difference and its potential effect in the relevant context. |
 | `source_url` | HTTPS URL | Official EU source supporting the original quotation. |
 
-The variant language must be a preserved non-English language. Its source URL must match that language's archived source URL; an official link to a different act or version does not validate the quotation.
+The variant language must be a preserved non-English language. Its source URL must match that language's primary archived source URL or an explicitly registered `source_documents` URL. Its quotation must occur in the exact archive belonging to that cited URL. A quotation found in one context document cannot validate a link to another document; an unregistered act or version cannot validate the quotation.
 
 ### Review
 

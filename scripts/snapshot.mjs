@@ -47,8 +47,9 @@ function requireValid(condition, message) {
 const publicFields = {
   catalogue: 'schema_version generated_at legislation',
   act: 'id title short_title source_url celex version version_label retrieved_at status subject languages unavailable_languages failed_languages coverage passages findings notes impact_families ai_processing',
+  language: 'code name source_url sha256 text_url notes coverage_incomplete source_documents',
+  sourceDocument: 'id label celex version retrieved_at source_url sha256 text_url',
   aiProcessing: 'metered_usd requests reused_usd unsettled_max_usd',
-  language: 'code name source_url sha256 text_url notes coverage_incomplete',
   availability: 'code name reason',
   coverage: 'total_units reviewed_units total_languages reviewed_languages reviewed_language_codes',
   passage: 'id label text source_id',
@@ -104,8 +105,33 @@ export async function validateSnapshot(catalogue, readArchive) {
         `Text archive checksum mismatch for ${act.id}/${language.code}`
       );
       languageTexts.set(language.code, utf8.decode(bytes));
-      languageSources.set(language.code, officialURL(language.source_url));
+      const documentTexts = new Map([[officialURL(language.source_url), utf8.decode(bytes)]]);
       archives.set(url, bytes);
+      if (language.source_documents !== undefined) {
+        requireValid(Array.isArray(language.source_documents), `Invalid source documents in ${act.id}`);
+        const documentIds = new Set();
+        for (const document of language.source_documents) {
+          checkFields(document, 'sourceDocument');
+          requireValid(
+            nonempty(document.id) && /^[a-z][a-z0-9-]{0,80}$/.test(document.id) && !documentIds.has(document.id) &&
+              [document.label, document.celex, document.version].every(nonempty) &&
+              utcTimestamp(document.retrieved_at) && officialURL(document.source_url) &&
+              !documentTexts.has(officialURL(document.source_url)),
+            `Invalid or repeated source document in ${act.id}/${language.code}`
+          );
+          documentIds.add(document.id);
+          const documentURL = archiveURL(document.text_url);
+          requireValid(documentURL, `Unsafe source-document path for ${act.id}`);
+          const documentBytes = archives.get(documentURL) || await readArchive(documentURL);
+          requireValid(
+            createHash('sha256').update(documentBytes).digest('hex') === document.sha256,
+            `Source-document checksum mismatch for ${act.id}/${language.code}`
+          );
+          documentTexts.set(officialURL(document.source_url), utf8.decode(documentBytes));
+          archives.set(documentURL, documentBytes);
+        }
+      }
+      languageSources.set(language.code, documentTexts);
     }
     const english = languageTexts.get('en');
     requireValid(english !== undefined, `Missing English source archive for ${act.id}`);
@@ -219,13 +245,18 @@ export async function validateSnapshot(catalogue, readArchive) {
           `Incomplete variant in ${finding.id}`
         );
         requireValid(
-          variant.language !== 'en' && languageTexts.get(variant.language)?.includes(variant.quote),
+          variant.language !== 'en' &&
+            [...(languageSources.get(variant.language)?.values() || [])].some(text => text.includes(variant.quote)),
           `Original-language quote does not match preserved evidence for ${finding.id}`
         );
         requireValid(
           officialURL(variant.source_url) &&
-            officialURL(variant.source_url) === languageSources.get(variant.language),
+            languageSources.get(variant.language)?.has(officialURL(variant.source_url)),
           `Variant source does not match its archived language in ${finding.id}`
+        );
+        requireValid(
+          languageSources.get(variant.language).get(officialURL(variant.source_url)).includes(variant.quote),
+          `Quotation does not occur in its cited official source document in ${finding.id}`
         );
       }
     }
