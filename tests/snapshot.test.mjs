@@ -153,6 +153,33 @@ test('snapshot accepts a metered AI processing cost', async () => {
   await validateSnapshot(catalogue, (url) => files.get(url));
 });
 
+const estimatedCost = {
+  estimated_usd: 110, requests: 126, estimate_basis: 'Saved review usage at Standard rates.',
+  pricing_date: '2026-10-16', pricing_url: 'https://developers.openai.com/api/docs/pricing'
+};
+
+test('snapshot accepts a documented API-equivalent estimate without a metered charge', async () => {
+  const { catalogue, files } = fixture();
+  catalogue.legislation[0].ai_processing = { ...estimatedCost };
+  await validateSnapshot(catalogue, (url) => files.get(url));
+});
+
+for (const [name, change] of [
+  ['mixed metered and estimated amounts', { metered_usd: 110 }],
+  ['a private provenance path', { provenance_path: '/private/research.json' }],
+  ['a negative estimate', { estimated_usd: -1 }],
+  ['no estimate basis', { estimate_basis: '' }],
+  ['an invalid pricing date', { pricing_date: '2026-02-30' }],
+  ['a nonofficial pricing link', { pricing_url: 'https://example.com' }],
+  ['no saved requests', { requests: 0 }]
+]) {
+  test(`snapshot rejects ${name} in AI processing estimates`, async () => {
+    const { catalogue, files } = fixture();
+    catalogue.legislation[0].ai_processing = { ...estimatedCost, ...change };
+    await assert.rejects(validateSnapshot(catalogue, (url) => files.get(url)), /AI processing|Unexpected aiEstimate/);
+  });
+}
+
 for (const [name, cost] of [
   ['a negative amount', { metered_usd: -1, requests: 1, reused_usd: 0, unsettled_max_usd: 0 }],
   ['a fractional request count', { metered_usd: 1, requests: 1.5, reused_usd: 0, unsettled_max_usd: 0 }],

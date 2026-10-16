@@ -297,4 +297,16 @@ export function collectionProcessingCost(acts) {
   return costs.length ? costs.reduce((total, cost) => total + cost, 0) : null;
 }
 
+/** API-equivalent estimates stay separate from metered charges in collection totals. */
+export function estimatedProcessingCost(act) {
+  const cost = act?.ai_processing;
+  return cost && Number.isFinite(cost.estimated_usd) ? cost.estimated_usd : null;
+}
+
+export function collectionEstimatedProcessingCost(acts) {
+  const costs = acts.map(estimatedProcessingCost).filter(cost => cost !== null);
+  return costs.length ? costs.reduce((total, cost) => total + cost, 0) : null;
+}
+
 export const formatUsd = value => `$${value.toFixed(2)}`;
+export const formatEstimatedUsd = value => `$${Math.round(value).toLocaleString('en-US')} (est.)`;

@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
   impactDistribution, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd,
+  estimatedProcessingCost, collectionEstimatedProcessingCost, formatEstimatedUsd,
   actDate, parseSort, sortParam, sortActs
 } from '../catalogue-model.js';
 
@@ -272,6 +273,15 @@ test('AI processing cost sums only acts with a metered ledger', () => {
   assert.equal(processingCost(acts[2]), null);
   assert.equal(formatUsd(collectionProcessingCost(acts)), '$3.53');
   assert.equal(collectionProcessingCost([{}]), null);
+});
+
+test('estimated API equivalents are labeled and stay out of metered totals', () => {
+  const acts = [{ ai_processing: { metered_usd: 2.3545 } }, { ai_processing: { estimated_usd: 110 } }, {}];
+  assert.equal(processingCost(acts[1]), null);
+  assert.equal(estimatedProcessingCost(acts[0]), null);
+  assert.equal(formatUsd(collectionProcessingCost(acts)), '$2.35');
+  assert.equal(formatEstimatedUsd(collectionEstimatedProcessingCost(acts)), '$110 (est.)');
+  assert.equal(collectionEstimatedProcessingCost([acts[0], acts[2]]), null);
 });
 
 test('act date comes from the official title, then the version date', () => {

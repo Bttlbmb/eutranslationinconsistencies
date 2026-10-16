@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-16T04:31:53.962252Z",
+  "generated_at": "2026-10-16T04:52:44.818681Z",
   "legislation": [
     {
       "id": "31997R1103",
@@ -20090,6 +20090,13 @@
         "English provides navigation; all official language versions are equally authoritative. Findings are potential discrepancies reviewed by agents, not adjudicated legal errors.",
         "Analysis is incomplete. Absence of a published finding does not imply that the remaining passages or languages have been cleared."
       ],
+      "ai_processing": {
+        "estimated_usd": 110,
+        "requests": 126,
+        "estimate_basis": "Based on saved Sol and Astra usage for the current review, including discovery, rechecks and the independent source audit across all attempted languages. Uses Standard API rates without cache discounts, rounded to whole dollars; excludes the superseded initial source assembly.",
+        "pricing_date": "2026-10-16",
+        "pricing_url": "https://developers.openai.com/api/docs/pricing"
+      },
       "impact_families": [
         {
           "id": "dsa-issue-dc9f56f2231afe27422237f0",

@@ -50,6 +50,7 @@ const publicFields = {
   language: 'code name source_url sha256 text_url notes coverage_incomplete source_documents',
   sourceDocument: 'id label celex version retrieved_at source_url sha256 text_url',
   aiProcessing: 'metered_usd requests reused_usd unsettled_max_usd',
+  aiEstimate: 'estimated_usd requests estimate_basis pricing_date pricing_url',
   availability: 'code name reason',
   coverage: 'total_units reviewed_units total_languages reviewed_languages reviewed_language_codes',
   passage: 'id label text source_id',
@@ -261,13 +262,18 @@ export async function validateSnapshot(catalogue, readArchive) {
       }
     }
 
-    // Optional metered AI cost from the private spending ledger; amounts only.
+    // Metered charges and documented API-equivalent estimates are exclusive.
     if (act.ai_processing !== undefined) {
       const cost = act.ai_processing;
-      checkFields(cost, 'aiProcessing');
+      const estimated = cost && Object.hasOwn(cost, 'estimated_usd');
+      checkFields(cost, estimated ? 'aiEstimate' : 'aiProcessing');
       const amount = value => typeof value === 'number' && Number.isFinite(value) && value >= 0;
-      requireValid(amount(cost.metered_usd) && amount(cost.reused_usd) && amount(cost.unsettled_max_usd) &&
-        Number.isInteger(cost.requests) && cost.requests >= 0 && cost.reused_usd <= cost.metered_usd,
+      requireValid(Number.isInteger(cost.requests) && cost.requests >= (estimated ? 1 : 0) &&
+        (estimated
+          ? amount(cost.estimated_usd) && nonempty(cost.estimate_basis) &&
+            /^\d{4}-\d{2}-\d{2}$/.test(cost.pricing_date) && utcTimestamp(`${cost.pricing_date}T00:00:00Z`) &&
+            cost.pricing_url === 'https://developers.openai.com/api/docs/pricing'
+          : amount(cost.metered_usd) && amount(cost.reused_usd) && amount(cost.unsettled_max_usd) && cost.reused_usd <= cost.metered_usd),
         `Invalid AI processing cost in ${act.id}`);
     }
 

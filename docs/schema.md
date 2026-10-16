@@ -36,7 +36,7 @@ Undocumented fields are rejected at every object level, including catalogue, act
 | `findings` | array of finding objects | Supported, agent-reviewed findings only; can be empty at any status. |
 | `impact_families` | array of impact-family objects, optional | Current potential-impact proposals linked to original finding IDs. Assigned levels and unranked issues are displayed; empty or absent means no proposal is available for this act. |
 | `notes` | array of strings | Public-safe context, source scope and analysis limitations. |
-| `ai_processing` | AI-processing object, optional | Metered model cost of this act's review, from the private spending ledger. Absent when no paid ledger covers the act. |
+| `ai_processing` | AI-processing object, optional | Either a metered review cost or an explicitly documented API-equivalent estimate, using the exclusive variants below. Absent when neither is available. |
 
 ### Status rules
 
@@ -71,6 +71,8 @@ Each official-source-document object contains exactly `id`, `label`, `celex`, `v
 
 ## AI processing
 
+The metered variant comes from the private spending ledger:
+
 | Field | Type | Meaning |
 | --- | --- | --- |
 | `metered_usd` | non-negative number | Metered API cost in US dollars attributed to this act, including `reused_usd`. |
@@ -79,6 +81,18 @@ Each official-source-document object contains exactly `id`, `label`, `celex`, `v
 | `unsettled_max_usd` | non-negative number | Upper bound held for interrupted requests whose usage could not be recovered; not counted as spent. |
 
 Source audits run through a signed-in subscription have no metered charge and are not included.
+
+The estimated variant is used for a subscription review with a documented API-equivalent calculation. It contains only these fields, with none of the metered variant's amount fields:
+
+| Field | Type | Meaning |
+| --- | --- | --- |
+| `estimated_usd` | non-negative number | Approximate equivalent API cost in US dollars, displayed rounded to whole dollars with `(est.)`. It is not an actual charge. |
+| `requests` | positive integer | Saved review requests included in the estimate. |
+| `estimate_basis` | non-empty string | Public explanation of the included work, calculation assumptions and exclusions. |
+| `pricing_date` | ISO date | Date the Standard API rates were checked. |
+| `pricing_url` | official pricing URL | `https://developers.openai.com/api/docs/pricing`. |
+
+The backend binds an estimate to the current source fingerprint, review protocol and finding set. Private token counts and calculation provenance stay in the research backup. A metered ledger takes precedence if present. Collection totals keep estimated amounts separate from metered spending.
 
 ## Coverage
 

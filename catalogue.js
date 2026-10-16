@@ -3,9 +3,10 @@ import { catalogueLegislation } from './model.js?v=8';
 import {
   actIntroduction, actSummary, catalogueSummary, readerHref, legacyReaderHref,
   englishWordCount, overallLanguageSummary, processingCost, collectionProcessingCost, formatUsd,
+  estimatedProcessingCost, collectionEstimatedProcessingCost, formatEstimatedUsd,
   sortOptions, parseSort, sortParam, sortActs
-} from './catalogue-model.js?v=11';
-import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=8';
+} from './catalogue-model.js?v=12';
+import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=9';
 
 const $ = selector => document.querySelector(selector);
 const number = value => new Intl.NumberFormat('en-GB').format(value);
@@ -153,6 +154,10 @@ function renderAct(act) {
     const spent = node('span', '', ` · ${formatUsd(cost)} AI processing`);
     spent.title = 'Metered API cost of this review. Source audits ran on a subscription and are not included; Review and sources gives details.';
     append(versionLine, spent);
+  } else if (estimatedProcessingCost(act) !== null) {
+    const estimate = node('span', '', ` · ${formatEstimatedUsd(estimatedProcessingCost(act))} AI processing`);
+    estimate.title = 'Estimated equivalent API cost based on saved review usage, including the source audit. The review ran through a subscription; this is not an actual API charge. Review and sources gives details.';
+    append(versionLine, estimate);
   }
   append(identity, version, renderSourceScope(act));
   const facts = node('div', 'catalogue-facts');
@@ -237,7 +242,9 @@ async function loadCatalogue() {
     const summary = catalogueSummary(acts);
     renderOverall(acts);
     const totalCost = collectionProcessingCost(acts);
-    $('#catalogue-total').textContent = `${plural(summary.acts, 'act')} · ${number(summary.findings)} differences in meaning · ${plural(summary.complete, 'complete review')}${totalCost === null ? '' : ` · ${formatUsd(totalCost)} AI processing`}`;
+    const estimatedCost = collectionEstimatedProcessingCost(acts);
+    const costs = [totalCost === null ? null : formatUsd(totalCost), estimatedCost === null ? null : formatEstimatedUsd(estimatedCost)].filter(Boolean);
+    $('#catalogue-total').textContent = `${plural(summary.acts, 'act')} · ${number(summary.findings)} differences in meaning · ${plural(summary.complete, 'complete review')}${costs.length ? ` · ${costs.join(' + ')} AI processing` : ''}`;
     $('#catalogue-date').textContent = catalogue.generated_at ? `Website data exported ${prettyDate(catalogue.generated_at)}` : '';
     collection = acts;
     renderedActs.clear();
