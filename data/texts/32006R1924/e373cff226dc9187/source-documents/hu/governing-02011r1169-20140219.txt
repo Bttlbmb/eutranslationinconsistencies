@@ -1,0 +1,987 @@
+AZ EURÓPAI PARLAMENT ÉS A TANÁCS 1169/2011/EU RENDELETE
+(2011. október 25.)
+a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv, a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről
+(EGT-vonatkozású szöveg)
+
+I.
+FEJEZET
+ÁLTALÁNOS RENDELKEZÉSEK
+
+1. cikk
+Tárgy és hatály
+(1) Ez a rendelet alapul szolgál az élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó magas szintű fogyasztóvédelem biztosításához, figyelembe véve a fogyasztók felfogásában és tájékoztatási igényeikben kialakult különbségeket, ugyanakkor biztosítva a belső piac zökkenőmentes működését.
+(2) Ez a rendelet megállapítja az élelmiszerekkel kapcsolatos tájékoztatásra, különösen az élelmiszerek jelölésére irányadó általános elveket, követelményeket és kötelezettségeket. Megállapítja a fogyasztók tájékoztatáshoz való jogának biztosítására szolgáló eszközöket és az élelmiszerekkel kapcsolatos tájékoztatás eljárásait, figyelembe véve annak szükségességét, hogy elegendő rugalmasságot biztosítson a jövőbeli fejlesztések és új tájékoztatási igények megválaszolásához.
+(3) Ez a rendelet valamennyi élelmiszer-vállalkozóra vonatkozik, függetlenül attól, hogy azok az élelmiszerlánc mely szakaszában működnek, amennyiben azok tevékenységei összefüggenek a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásával. ►C1 Ezt a rendeletet a végső fogyasztónak szánt összes élelmiszerre alkalmazni kell, beleértve a vendéglátók, illetve közétkeztetők által szállított élelmiszereket és a vendéglátók, illetve közétkeztetők részére szánt élelmiszereket is. ◄
+Ez a rendelet akkor alkalmazandó a szállítmányozási vállalkozások által nyújtott vendéglátói szolgáltatásokra, ha a szállítás kiindulási helye olyan tagállamok területén található, amelyekre a Szerződések alkalmazandók.
+(4) E rendelet a meghatározott élelmiszerekre alkalmazandó külön uniós rendelkezésekben előírt jelölési követelmények sérelme nélkül alkalmazandó.
+
+2. cikk
+Fogalommeghatározások
+(1) E rendelet alkalmazásában a következő fogalommeghatározásokat kell alkalmazni:
+a) az „élelmiszer”, „élelmiszerjog”, „élelmiszer-vállalkozás”, „élelmiszer-vállalkozó”, „kiskereskedelem”, „forgalomba hozatal” és „végső fogyasztó” fogalomnak a 178/2002/EK rendelet 2. cikkében, valamint 3. cikkének 1., 2., 3., 7., 8. és 18. pontjában szereplő meghatározása;
+b) a „feldolgozás”, „feldolgozatlan termék” és „feldolgozott termék” fogalomnak az élelmiszer-higiéniáról szóló, 2004. április 29-i 852/2004/EK európai parlamenti és tanácsi rendelet ( 1 ) 2. cikke (1) bekezdésének m), n) és o) pontjában szereplő meghatározása;
+c) az „élelmiszerenzim” fogalomnak az élelmiszerenzimekről szóló, 2008. december 16-i 1332/2008/EK európai parlamenti és tanácsi rendelet ( 2 ) 3. cikke (2) bekezdésének a) pontjában szereplő meghatározása;
+d) az „élelmiszer-adalékanyag”, a „technológiai segédanyag” és a „hordozó” fogalomnak az élelmiszer-adalékanyagokról szóló, 2008. december 16-i 1333/2008/EK európai parlamenti és tanácsi rendelet ( 3 ) 3. cikke (2) bekezdésének a) és b) pontjában, illetve I. mellékletének 5. pontjában szereplő meghatározása;
+e) az „aroma” fogalomnak az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről szóló, 2008. december 16-i 1334/2008/EK európai parlamenti és tanácsi rendelet ( 4 ) 3. cikke (2) bekezdésének a) pontjában szereplő meghatározása;
+f) a „hús”, „csontokról mechanikusan lefejtett hús”, „előkészített hús”, „halászati termék” és „húskészítmények” fogalmaknak az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet ( 5 ) I. mellékletének 1.1., 1.14., 1.15., 3.1. és 7.1. pontjában foglalt meghatározása;
+g) a „reklám” fogalmának a megtévesztő és összehasonlító reklámról szóló, 2006. december 12-i 2006/114/EK európai parlamenti és tanácsi irányelv ( 6 ) 2. cikkének a) pontjában szereplő meghatározása.
+(2) A következő fogalommeghatározásokat szintén alkalmazni kell:
+a) „élelmiszerekre vonatkozó tájékoztatás”: valamely élelmiszerre vonatkozó, a címke vagy kísérő dokumentum, illetve bármilyen egyéb eszköz – beleértve a modern technológiai eszközöket vagy a szóbeli közlést – segítségével a végső fogyasztó számára elérhetővé tett információ;
+b) „élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó jogszabályok”: az élelmiszerekkel kapcsolatos tájékoztatást, különösen a jelölést szabályozó uniós rendelkezések, beleértve az összes élelmiszerre különleges körülmények között vagy élelmiszerek meghatározott csoportjaira vonatkozó általános szabályokat és azokat a szabályokat is, amelyeket kizárólag meghatározott élelmiszerekre kell alkalmazni;
+c) „élelmiszerekre vonatkozó kötelező tájékoztatás”: azok az adatok, amelyeket az uniós rendelkezések értelmében a végső fogyasztó számára meg kell adni;
+d) „vendéglátó, illetve közétkeztető”: minden olyan létesítmény (beleértve a járműveket, illetve a helyhez kötött vagy mozgó árusítóhelyeket), mint például éttermek, étkezdék, iskolák, kórházak és vendéglátó-ipari vállalkozások, amelyekben az üzleti tevékenység keretében a végső fogyasztó által történő közvetlen fogyasztásra szánt élelmiszereket készítenek;
+►C1 e) „előrecsomagolt élelmiszer”: a végső fogyasztónak vagy a vendéglátóknak, illetve közétkeztetőknek való eljuttatásra szánt olyan egység, ◄ amely az élelmiszerből és az élelmiszer csomagolásából áll, amelybe az élelmiszert értékesítésre való felkínálás előtt csomagolták be – függetlenül attól, hogy a csomagolás teljes egészében vagy csak részben tartalmazza-e az élelmiszert –, oly módon, hogy a csomagolás tartalmát ne lehessen megváltoztatni a csomagolás felnyitása vagy megváltoztatása nélkül; az értékesítés helyszínén a fogyasztó kérésére vagy közvetlen értékesítés céljára becsomagolt élelmiszer nem minősül előrecsomagolt élelmiszernek;
+f) „összetevő”: minden anyag vagy termék, beleértve az aromákat, az élelmiszer-adalékanyagokat és élelmiszerenzimeket is, vagy összetett összetevő bármely összetevőjét is, amelyet élelmiszer előállításánál vagy elkészítésénél használnak fel, és a késztermékben még jelen van, akár módosult formában is; a szermaradványok nem minősülnek összetevőnek;
+g) „eredet helye”: az a hely, amelyet az élelmiszer eredeteként feltüntetnek, és amely nem a 2913/92/EGK rendelet 23–26. cikkével összhangban meghatározott származási ország; az élelmiszer-vállalkozó nevének és címének a címkén való feltüntetése nem minősül e rendelet alkalmazásában az élelmiszer származási országa vagy eredete megjelölésének;
+h) „összetett összetevő”: olyan összetevő, amely már önmagában egynél több összetevőből áll;
+i) „címke”: valamely élelmiszer csomagolására vagy tárolóedényére írt, nyomtatott, másolt, azon jelölt, dombornyomott vagy bélyegzett, illetve a csomagoláshoz vagy a tárolóedényhez csatolt mindenfajta felirat, jelölés, jel, kép vagy más leíró jellegű anyag;
+j) „jelölés”: élelmiszerre vonatkozó bármilyen szöveg, adat, védjegy, márkanév, ábra vagy szimbólum, amelyet az élelmiszert kísérő vagy arra vonatkozó csomagoláson, dokumentumban, megjegyzésben, címkén, gyűrűn vagy galléron helyeznek el;
+k) „látómező”: a csomagolás összes olyan felülete, amely egy nézőpontból olvasható;
+l) „fő látómező”: az a látómező, amely vásárláskor valószínűsíthetően először kerül a fogyasztó figyelmébe, és amelynek alapján a fogyasztó azonnal azonosítani tudja a terméket jellemzői és tulajdonságai, illetve adott esetben a márkája alapján. Amennyiben egy csomagoláson több azonos főlátómező van, az élelmiszer-vállalkozó által e célra kiválasztott felület minősül fő látómezőnek;
+m) „olvashatóság”: a tájékoztatás fizikai megjelenése, amely a tájékoztatást vizuálisan hozzáférhetővé teszi a lakosság számára, és melyet számos paraméter határoz meg, többek között a betűméret, a betűköz, a sorköz, a betűvonal-vastagság, a betűszín, a betűtípus, a betűk szélességének és magasságának aránya, az anyag felülete, valamint a betűk és a háttér közötti kontraszt;
+n) „előírt név”: egy élelmiszernek a rá alkalmazandó uniós rendelkezésekben előírt neve, vagy ilyen uniós rendelkezések hiányában az abban a tagállamban alkalmazandó törvényi, rendeleti és közigazgatási rendelkezésekben előírt név, amellyel az élelmiszert a végső fogyasztónak vagy a vendéglátóknak, illetve közétkeztetőknek értékesítik;
+o) „szokásos név”: az élelmiszer értékesítésének helye szerinti tagállamban az élelmiszer neveként a fogyasztók által elfogadott név, amely név nem igényel további magyarázatot;
+p) „leíró név”: az élelmiszerről és szükség szerint annak felhasználásáról leírást adó név, amely kellően világos ahhoz, hogy a fogyasztó megismerhesse annak valódi jellegét, és megkülönböztethesse más termékektől, amelyekkel esetleg össze lehetne téveszteni;
+q) „elsődleges összetevő”: valamely élelmiszer olyan összetevője vagy összetevői, amelyek az adott élelmiszer több mint 50 %-át teszik ki, vagy amelyet a fogyasztó rendszerint az adott élelmiszer nevével azonosít, és amely esetében legtöbbször mennyiségi jelölés szükséges;
+r) „az élelmiszer minőségmegőrzési ideje”: az az időpont, ameddig az élelmiszer megfelelő tárolás mellett megőrzi egyedi tulajdonságait;
+s) „tápanyag”: az e rendelet XIII. melléklete A. részének 1. pontjában felsorolt fehérje, szénhidrát, zsír, rost, nátrium, vitamin és ásványi anyag, és a valamely ezen kategóriába tartozó vagy azok alkotórészét képező anyagok;
+t) „mesterséges nanoanyag”: olyan mesterségesen előállított anyag, amelynek egy vagy több dimenziója 100 nm vagy annál kisebb méretű, vagy amelynek belső része vagy felülete különálló funkcionális részekből áll, amelyek közül soknak egy vagy több dimenziója 100 nm vagy annál kisebb méretű, beleértve a struktúrát, agglomerátumokat vagy aggregátumokat, amelyek 100 nm vagy annál nagyobb méretűek lehetnek, de amelyeknek a nanoméretre jellemző tulajdonságaik vannak.
+A nanoméretre jellemző tulajdonságok közé tartoznak az alábbiak:
+i. a szóban forgó anyagok nagy fajlagos felületéhez kapcsolódó tulajdonságok; és/vagy
+ii. egyedi fizikai–kémiai tulajdonságok, amelyek eltérnek a nem nanotechnológiával előállított ugyanazon anyag tulajdonságaitól;
+u) a „távközlő eszköz” bármely eszköz, amelyet a szállító és a fogyasztó egyidejű fizikai jelenléte nélkül vehetnek igénybe az e felek közötti távértékesítési szerződés megkötése céljából.
+(3) E rendelet alkalmazásában az élelmiszer származási országa az élelmiszernek a 2913/92/EK rendelet 23–26. cikkével összhangban meghatározott származását jelenti.
+(4) Az I. mellékletben szereplő külön fogalommeghatározásokat szintén alkalmazni kell.
+
+II.
+FEJEZET
+AZ ÉLELMISZEREKKEL KAPCSOLATOS TÁJÉKOZTATÁS ÁLTALÁNOS ELVEI
+
+3. cikk
+Általános célkitűzések
+(1) Az élelmiszerekkel kapcsolatos tájékoztatás a fogyasztók egészségének és érdekeinek magas szintű védelmére törekszik azáltal, hogy a végső fogyasztók számára alapot biztosít a megalapozott választáshoz és az élelmiszerek biztonságos felhasználásához, különös tekintettel az egészségügyi, gazdasági, környezetvédelmi, társadalmi és etikai szempontokra.
+(2) Az élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó jogszabályok célja, hogy az Unióban megvalósítsák a jogszerűen előállított és forgalomba hozott élelmiszerek szabad mozgását, adott esetben figyelembe véve, hogy szükség van az előállítók jogszerű érdekeinek védelmére, valamint a jó minőségű termékek előállításának ösztönzésére.
+(3) Amikor az élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó jogszabályok új követelményeket állapítanak meg, az új követelmények hatálybalépését – egyes megfelelően indokolt esetek kivételével – átmeneti időszak követi. Az ilyen átmeneti időszakban az új követelményeknek nem megfelelően jelölt élelmiszereket forgalomba lehet hozni.
+(4) Az élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó jogszabályok előkészítése, értékelése és felülvizsgálata során – közvetlenül vagy érdek-képviseleti szervezeteken keresztül – nyitott és átlátható, többek között az érdekeltekkel folytatott nyilvános konzultációra van szükség, kivéve, ha az ügy sürgőssége ezt nem teszi lehetővé.
+
+4. cikk
+Az élelmiszerekre vonatkozó kötelező tájékoztatás elvei
+(1) Amennyiben az élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó jogszabályok élelmiszerekre vonatkozó kötelező tájékoztatást írnak elő, az elsősorban a következő csoportok valamelyikébe tartozó információkra vonatkozik:
+a) az élelmiszer azonosítására, összetételére, tulajdonságaira vagy egyéb jellemzőire vonatkozó információk;
+b) a fogyasztók egészségének védelmére és az élelmiszer biztonságos felhasználására vonatkozó információk. Ez különösen az alábbiakról szóló információra vonatkozik:
+i. olyan összetételi jellemzők, amelyek károsak lehetnek a fogyasztók bizonyos csoportjainak egészségére;
+ii. eltarthatóság, tárolás és biztonságos felhasználás;
+iii. az egészségre gyakorolt hatás, beleértve a valamely élelmiszer káros és veszélyes fogyasztásához kapcsolódó kockázatokat és következményeket;
+c) a táplálkozási jellemzőkre vonatkozó információk, hogy a fogyasztók – beleértve a különleges étrendi igényű fogyasztókat – megalapozott módon választhassanak.
+(2) Az élelmiszerekkel kapcsolatos kötelező tájékoztatás szükségességének mérlegelésekor figyelembe kell venni a fogyasztók többségénél megjelenő, bizonyos, általuk jelentős értékűnek ítélt információk iránti, széles körű igényeket, vagy a fogyasztók által általánosan elfogadott esetleges előnyöket, hogy megalapozott módon választhassanak.
+
+5. cikk
+Konzultáció az Európai Élelmiszer-biztonsági Hatósággal
+A közegészségre feltehetően hatással lévő, az élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó jogszabályokkal kapcsolatos uniós intézkedéseket az Európai Élelmiszer-biztonsági Hatósággal („a Hatóság”) folytatott konzultációt követően kell elfogadni.
+
+III.
+FEJEZET
+AZ ÉLELMISZEREKKEL KAPCSOLATOS TÁJÉKOZTATÁS ÁLTALÁNOS KÖVETELMÉNYEI ÉS AZ ÉLELMISZER-VÁLLALKOZÓK KÖTELEZETTSÉGEI
+
+6. cikk
+Alapkövetelmény
+A végső fogyasztónak vagy a vendéglátóknak, illetve közétkeztetőknek szánt valamennyi élelmiszert e rendeletnek megfelelő, élelmiszerekkel kapcsolatos tájékoztatásnak kell kísérnie.
+
+7. cikk
+Tisztességes tájékoztatási gyakorlatok
+(1) Az élelmiszerekkel kapcsolatos tájékoztatás nem lehet megtévesztő, különösen:
+a) az élelmiszer jellemzői és különösen annak jellege, azonossága, tulajdonságai, összetétele, mennyisége, eltarthatósága, származási országa vagy eredetének helye, előállításának vagy termelésének módja tekintetében;
+b) az élelmiszer olyan hatással vagy tulajdonsággal való felruházása révén, amellyel az nem rendelkezik;
+c) annak sugallása révén, hogy az élelmiszer különleges tulajdonságokkal rendelkezik, ha a szóban forgó tulajdonságokkal minden hasonló élelmiszer rendelkezik, különösen bizonyos összetevők és/vagy tápanyagok jelenlétének vagy hiányának kifejezett kiemelésével;
+d) oly módon, hogy a termék megjelenése, a leírás vagy a képi ábrázolások a fogyasztó számára egy bizonyos élelmiszer vagy összetevő jelenlétét sugallják, noha valójában az élelmiszer egyik természetes alkotóelemét vagy szokásosan felhasznált összetevőjét más alkotóelemmel, illetve összetevővel helyettesítették.
+(2) Az élelmiszerekkel kapcsolatos tájékoztatásnak pontosnak, egyértelműnek és a fogyasztók számára könnyen érthetőnek kell lennie.
+(3) Az élelmiszerekkel kapcsolatos tájékoztatás a természetes ásványvizekre és a különleges táplálkozási célú élelmiszerekre vonatkozó uniós jogi rendelkezésekben foglaltak figyelembevételével nem tulajdoníthat az élelmiszereknek emberi betegségek megelőzésére, kezelésére vagy gyógyítására vonatkozó tulajdonságokat, és ilyen tulajdonságokra nem is utalhat.
+(4) Az (1), (2) és (3) bekezdést az alábbiakra is alkalmazni kell:
+a) reklámozás;
+b) az élelmiszerek megjelenítése, különösen formájuk, megjelenésük vagy csomagolásuk, a használt csomagolóanyagok, elrendezésük módja és kiállításuk kellékei.
+
+8. cikk
+Felelősség
+(1) Az élelmiszerekkel kapcsolatos tájékoztatásért felelős élelmiszer-vállalkozó az a vállalkozó, akinek neve vagy cégneve alatt az élelmiszert forgalomba hozzák, vagy ha ez a vállalkozó nem letelepedett az Unió területén, akkor az élelmiszert az uniós piacra behozó importőr.
+(2) Az élelmiszerekkel kapcsolatos információkért felelős élelmiszer-vállalkozónak biztosítania kell, hogy az élelmiszerekkel kapcsolatos tájékoztatás feltüntetése és pontossága megfeleljen az élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó alkalmazandó jogszabályoknak és a vonatkozó nemzeti előírásoknak.
+(3) Azon élelmiszer-vállalkozók, amelyek tevékenysége nem érinti az élelmiszerekkel kapcsolatos tájékoztatást, nem értékesíthetnek olyan élelmiszert, amelyről tudják, vagy amelyről a birtokukban lévő szakmai információk alapján feltételezik, hogy az nem felel meg az élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó, alkalmazandó jogszabályoknak és a vonatkozó nemzeti előírásoknak.
+(4) Az élelmiszer-vállalkozók az ellenőrzésük alá tartozó vállalkozásokban nem módosíthatják az élelmiszereket kísérő információkat, amennyiben ez a módosítás megtévesztené a végső fogyasztót, vagy más módon csökkentené a fogyasztóvédelem szintjét, valamint a végső fogyasztó lehetőségét arra, hogy megalapozottan választhasson. Az élelmiszer-vállalkozók felelősek az élelmiszereket kísérő információkban általuk tett bármilyen változtatásokért.
+(5) A (2)–(4) bekezdés sérelme nélkül az élelmiszer-vállalkozóknak az ellenőrzésük alá tartozó vállalkozásokban biztosítaniuk kell az élelmiszerekkel kapcsolatos tájékoztatásra vonatkozó jogszabályok és a vonatkozó nemzeti előírások által, az általuk végzett tevékenységekre előírt követelmények betartását, és ellenőrzik e követelmények teljesülését.
+►C1 (6) Az élelmiszer-vállalkozóknak az ellenőrzésük alá tartozó vállalkozásokban biztosítaniuk kell, hogy a végső fogyasztónak vagy a vendéglátóknak, illetve közétkeztetőknek szánt, nem előrecsomagolt élelmiszerekkel kapcsolatos információkat ◄ az élelmiszert átvevő gazdasági szereplőnek továbbítsák, hogy szükség esetén lehetővé váljon az élelmiszerekkel kapcsolatos kötelező tájékoztatás ismertetése a végső fogyasztóval.
+(7) Az alábbi esetekben az élelmiszer-vállalkozóknak az ellenőrzésük alá tartozó vállalkozásokban biztosítaniuk kell, hogy a 9. és 10. cikk szerint előírt kötelező adatok megjelenjenek az előrecsomagolt élelmiszeren vagy az ahhoz rögzített címkén, vagy az élelmiszerekre vonatkozó kereskedelmi dokumentációban, amennyiben garantálható, hogy az ilyen dokumentációt vagy a tárgyukat képező élelmiszerekhez csatolják, vagy legkésőbb szállításának időpontjáig elküldik:
+a) amennyiben az előrecsomagolt élelmiszert a végső fogyasztónak szánják, de azokat a végső fogyasztónak való értékesítés előtti szakaszban forgalomba hozzák, feltéve, hogy ebben a szakaszban a valamely vendéglátó, illetve közétkeztető számára történő értékesítés nem szerepel;
+b) amennyiben az előrecsomagolt élelmiszert a vendéglátóknak, illetve közétkeztetőknek szánják, hogy azok azt elkészítsék, feldolgozzák, szétosszák vagy felvágják.
+Az élelmiszer-vállalkozóknak az első albekezdés rendelkezéseire tekintet nélkül biztosítani kell, hogy a 9. cikk (1) bekezdésének a), f), g) és h) pontjában megadott adatok a forgalmazásra szánt előrecsomagolt élelmiszereket tartalmazó gyűjtőcsomagoláson szintén megjelenjenek.
+(8) ►C1 Azon élelmiszer-vállalkozóknak, amelyek más élelmiszer-vállalkozók részére nem a végső fogyasztónak vagy a vendéglátóknak, illetve közétkeztetőknek szánt élelmiszert értékesítenek, biztosítaniuk kell, hogy ◄ ezen más vállalkozók megkapják az ahhoz szükséges információkat, hogy adott esetben a (2) bekezdés szerinti kötelezettségeiknek meg tudjanak felelni.
+
+IV.
+FEJEZET
+ÉLELMISZEREKKEL KAPCSOLATOS KÖTELEZŐ TÁJÉKOZTATÁS
+
+1.
+SZAKASZ
+Tartalom és megjelenés
+
+9. cikk
+A kötelező adatok felsorolása
+(1) A 10–35. cikknek megfelelően, és az e fejezetben foglalt kivételektől eltekintve a következő adatokat kötelező feltüntetni:
+a) az élelmiszer neve;
+b) az összetevők felsorolása;
+c) minden olyan, allergiát vagy intoleranciát okozó, a II. mellékletben szereplő, vagy a II. mellékletben szereplő anyagokból vagy termékekből származó összetevő vagy technológiai segédanyag, amelyet élelmiszer előállításánál vagy elkészítésénél használnak fel, és a késztermékben még jelen van, akár megváltozott formában is;
+d) bizonyos összetevők vagy összetevőcsoportok mennyisége;
+e) az élelmiszer nettó mennyisége;
+f) a minőségmegőrzési idő vagy a fogyaszthatósági idő;
+g) a különleges tárolási és/vagy felhasználási feltételek;
+h) a 8. cikk (1) bekezdésében említett élelmiszer-vállalkozás neve vagy cégneve és címe;
+i) a származási ország vagy az eredet helye, amennyiben azt a 26. cikk előírja;
+j) felhasználási útmutató, amennyiben ilyen útmutató hiányában nehéz megfelelően felhasználni az élelmiszert;
+k) az 1,2 térfogatszázaléknál nagyobb alkoholtartalmú italok esetében a tényleges alkoholtartalom térfogatszázalékban;
+l) tápértékjelölés.
+(2) Az (1) bekezdésben említett adatokat betűvel és számmal kell jelezni. A 35. cikk sérelme nélkül az adatok ezen túlmenően piktogramok vagy szimbólumok segítségével is feltüntethetők.
+(3) Azokban az esetekben, amelyekre vonatkozóan a Bizottság az e bekezdésben említett, felhatalmazáson alapuló és végrehajtási jogi aktusokat fogad el, az (1) bekezdésben említett adatok szavak vagy számok helyett piktogramok vagy szimbólumok segítségével is kifejezhetők.
+Annak érdekében, hogy a fogyasztók a kötelező adatok szavakkal és számokkal történő kifejezésétől eltérő egyéb kifejezési módjainak előnyeit is élvezhessék, és amennyiben a tájékoztatásnak ez a módja a szavakkal és számokkal történő adatközléssel azonos információértékkel bír, a Bizottság – figyelembe véve a fogyasztók általi egységes értelmezést igazoló bizonyítékokat – a 51. cikkel összhangban elfogadott, felhatalmazáson alapuló jogi aktusok révén megállapíthatja azokat a kritériumokat, melyek teljesülése esetén az (1) bekezdésben említett egy vagy több adat szavak vagy számok helyett piktogramok vagy szimbólumok segítségével is kifejezhető.
+(4) E cikk (3) bekezdésének egységes végrehajtásának biztosítása érdekében a Bizottság végrehajtási jogi aktusokat fogadhat el a (3) bekezdés értelmében az egy vagy több adat szavak és számok helyett piktogramok és szimbólumok segítségével történő közlésére megállapított kritériumok alkalmazásának szabályai tekintetében. Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárás keretében kell elfogadni.
+
+10. cikk
+Egyes élelmiszerfajtákra vagy -csoportokra vonatkozó kötelező kiegészítő adatok
+(1) A 9. cikk (1) bekezdésében említett adatokon felül a III. melléklet állapítja meg a meghatározott élelmiszerfajtákra vagy -csoportokra vonatkozó kiegészítő kötelező adatokat.
+2. A Bizottság a fogyasztók egyes élelmiszerfajtákkal vagy -csoportokkal kapcsolatos tájékoztatása, valamint a legújabb technológiai ismeretek és tudományos eredmények figyelembevétele, a fogyasztók egészségének védelme vagy az élelmiszer biztonságos felhasználása céljából felhatalmazáson alapuló jogi aktusok útján, az 51. cikkel összhangban módosíthatja a III. mellékletet.
+Ha a fogyasztók egészségét fenyegető kockázat felmerülése esetén sürgős okokból szükséges, az 52. cikkben előírt eljárás alkalmazandó az e cikk értelmében elfogadott felhatalmazáson alapuló jogi aktusokra.
+
+11. cikk
+Mértékegységek
+A 9. cikk rendelkezései nem érintik a mértékegységekre vonatkozó külön uniós rendelkezéseket.
+
+12. cikk
+Az élelmiszerekkel kapcsolatos kötelező tájékoztatás elérhetősége és elhelyezése
+(1) Az élelmiszerekkel kapcsolatos kötelező tájékoztatásnak e rendeletnek megfelelően rendelkezésre kell állnia, és könnyen hozzáférhetőnek kell lennie valamennyi élelmiszer esetében.
+(2) Előrecsomagolt élelmiszerek esetében az élelmiszerekre vonatkozó kötelező tájékoztatást közvetlenül a csomagoláson vagy az arra rögzített címkén kell feltüntetni.
+(3) Annak érdekében, hogy a fogyasztók egyes kötelező adatokról az adat jellegének jobban megfelelő módon értesüljenek, és amennyiben a tájékoztatásnak ez a módja a csomagoláson vagy címkén elhelyezett adatokkal azonos információértékkel bír, a Bizottság, figyelembe véve a fogyasztók általi egységes értelmezést és a szóban forgó tájékoztatási módok fogyasztók általi általános igénybevételét igazoló bizonyítékokat az 51. cikkel összhangban elfogadott felhatalmazáson alapuló jogi aktusok útján megállapíthat olyan kritériumokat, melyek teljesülése esetén egyes kötelező adatok a csomagoláson vagy címkén való feltüntetéstől eltérő módon is közölhetők.
+(4) E cikk (3) bekezdésének egységes végrehajtásának biztosítása érdekében a Bizottság végrehajtási jogi aktusokat fogadhat el a (3) bekezdésben egyes kötelező adatok csomagolástól vagy címkétől eltérő helyen történő közlésére megállapított kritériumok alkalmazásának szabályai tekintetében. Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárás keretében kell elfogadni.
+(5) Nem előrecsomagolt élelmiszer esetében a 44. cikk rendelkezéseit kell alkalmazni.
+
+13. cikk
+A kötelező adatok feltüntetése
+(1) A 44. cikk (2) bekezdése értelmében elfogadott nemzeti intézkedések sérelme nélkül, az élelmiszerekkel kapcsolatos kötelező tájékoztatást feltűnő helyen kell megjeleníteni úgy, hogy könnyen láthatók, jól olvashatók és adott esetben letörölhetetlenek legyenek. Nem rejthetik el, tehetik kivehetetlenné, vonhatják el róluk a figyelmet vagy szakíthatják meg azokat más írott vagy képi anyaggal vagy bármilyen egyéb közbeiktatott anyaggal.
+(2) A bizonyos élelmiszerekre alkalmazandó külön uniós rendelkezések sérelme nélkül, a 9. cikk (1) bekezdésében felsorolt kötelező adatok csomagoláson vagy az ahhoz rögzített címkén való feltüntetésekor azokat jól olvashatóan és olyan betűméretben kell a csomagolásra vagy a címkére nyomtatni, amelynél a IV. melléklet szerint meghatározott x-magasság legalább 1,2 mm.
+(3) Ha a csomagolás vagy tárolóedény legnagyobb felülete kisebb mint 80 cm 2 , a (2) bekezdésben említett betűméret x-magassága legalább 0,9 mm.
+(4) Az e rendeletben meghatározott célok elérése érdekében a Bizottság felhatalmazáson alapuló jogi aktusok útján, az 51. cikkel összhangban szabályokat állapít meg az olvashatóságra vonatkozóan.
+Az első albekezdésben említett okból a Bizottság felhatalmazáson alapuló jogi aktusok útján, az 51. cikkel összhangban kiterjesztheti az e cikk (5) bekezdésében említett követelményeket egyes meghatározott élelmiszerfajták- vagy -csoportok kiegészítő kötelező adataira is.
+(5) A 9. cikk (1) bekezdésének a), e) és k) pontjában felsorolt adatokat ugyanazon látómezőben kell feltüntetni.
+(6) A 16. cikk (1) és (2) bekezdésében meghatározott esetekben az e cikk (5) bekezdését nem kell alkalmazni.
+
+14. cikk
+Távértékesítés
+(1) A 9. cikkben megállapított tájékoztatási követelmények sérelme nélkül, a távközlő eszközzel értékesítésre kínált előrecsomagolt élelmiszerek esetében:
+a) az élelmiszerekkel kapcsolatos kötelező tájékoztatást – a 9. cikk (1) bekezdésének f) pontjában meghatározott adatok kivételével – a vásárlás befejezését megelőzően kell rendelkezésre bocsátani, és azokat fel kell tüntetni a távértékesítést elősegítő anyagban, vagy más megfelelő, az élelmiszer-vállalkozó által egyértelműen meghatározott eszközökkel kell azokat rendelkezésre bocsátani. Amennyiben más megfelelő eszközök kerülnek alkalmazásra, az élelmiszer-vállalkozónak az élelmiszerekkel kapcsolatos kötelező tájékoztatást bárminemű kiegészítő költség felszámítása nélkül kell a fogyasztó rendelkezésére bocsátani;
+b) az átadás időpontjában valamennyi kötelező adatot rendelkezésre kell bocsátani.
+(2) Távközlő eszközzel értékesítésre kínált nem előrecsomagolt élelmiszerek esetében a 44. cikk értelmében szükséges adatokat kell rendelkezésre bocsátani e cikk (1) bekezdésének megfelelően.
+(3) Az (1) bekezdés a) pontja nem vonatkozik az élelmiszer-automatákban és az automatizált értékesítő helyeken értékesítésre kínált élelmiszerekre.
+
+15. cikk
+Nyelvi követelmények
+(1) A 9. cikk (3) bekezdésének sérelme nélkül az élelmiszerekkel kapcsolatos kötelező tájékoztatást az élelmiszer forgalmazásának helye szerinti tagállam fogyasztói által könnyen érthető nyelven kell megjeleníteni.
+(2) Az élelmiszer forgalmazása szerinti tagállam saját területén előírhatja, hogy az adatokat tüntessék fel az Unió hivatalos nyelvei közül egy vagy több nyelven.
+(3) Az (1) és (2) bekezdés nem zárja ki az adatok több nyelven történő feltüntetését.
+
+16. cikk
+Egyes kötelező adatok elhagyása
+(1) Újrafelhasználásra szánt, letörölhetetlenül megjelölt és ezért címkét, gyűrűt vagy gallért nem viselő üvegpalackok esetében kizárólag a 9. cikk (1) bekezdésének a), c), e), f) és l) pontjában felsorolt adatok megadása kötelező.
+(2) Olyan csomagolás vagy tárolóedény esetében, amelynek legnagyobb felülete 10 cm 2 -nél kisebb, kizárólag a 9. cikk (1) bekezdésének a), c), e) és f) pontjában felsorolt adatok megadása kötelező a csomagoláson vagy a címkén. A 9. cikk (1) bekezdésének b) pontjában említett adatokat más eszközökkel kell megadni, vagy a fogyasztó kérésére rendelkezésre kell bocsátani.
+(3) A kötelező tápértékjelölést előíró egyéb uniós rendelkezések sérelme nélkül a 9. cikk (1) bekezdésének l) pontjában említett tájékoztatást nem kötelező feltüntetni az V. mellékletben felsorolt élelmiszerek esetében.
+(4) Az összetevők felsorolásának feltüntetését vagy a kötelező tápértékjelölést előíró egyéb uniós rendelkezések sérelme nélkül, a 9. cikk (1) bekezdésének b) és l) pontjában említett adatok feltüntetése nem kötelező a több mint 1,2 térfogatszázalék alkoholt tartalmazó italok esetében.
+A Bizottság 2014. december 13-ig jelentést készít a 18. cikknek és a 30. cikk (1) bekezdésének az e bekezdésben említett termékekre való alkalmazásáról és arról, hogy az alkoholtartalmú italokra a jövőben ki kell-e terjeszteni különösen az energiatartalomra vonatkozó tájékoztatási kötelezettséget, és az esetleges mentességek indokolását is belefoglalja a jelentésbe, figyelemmel az érintett uniós szakpolitikákkal való összhangra is. Ezzel összefüggésben a Bizottság megvizsgálja, hogy szükséges-e fogalommeghatározásra irányuló javaslatot előterjesztenie az „alcopopok” vonatkozásában.
+A Bizottság e jelentést adott esetben kiegészíti egy olyan jogalkotási javaslattal, amely meghatározza az e termékekre vonatkozó, az összetevők felsorolásának feltüntetésére vagy a kötelező tápértékjelölésre vonatkozó szabályokat.
+
+2.
+SZAKASZ
+A kötelező adatokra vonatkozó részletes rendelkezések
+
+17. cikk
+Az élelmiszer neve
+(1) Az élelmiszer megnevezése annak előírt neve. Ilyen név hiányában az élelmiszer megnevezése a szokásos neve, vagy amennyiben nincs szokásos neve, vagy a szokásos nevét nem használják, az élelmiszer leíró nevét kell feltüntetni.
+(2) A forgalomba hozatal helye szerinti tagállamban megengedett az élelmiszer azon nevének használata, amely alatt a terméket az előállítás helye szerinti tagállamban jogszerűen gyártják és forgalomba hozzák. Ha azonban e rendelet egyéb rendelkezéseinek, különösen a 9. cikkben szereplő rendelkezéseknek az alkalmazása nem tenné lehetővé, hogy a forgalomba hozatal helye szerinti tagállam fogyasztói megismerjék az élelmiszer valódi jellegét, és azt megkülönböztessék más élelmiszerektől, amelyekkel esetleg össze lehetne téveszteni, az élelmiszer nevét más leíró tájékoztatásnak kell kísérnie, amelynek az élelmiszer neve közelében kell megjelennie.
+(3) Az élelmiszernek az előállítás helye szerinti tagállamban használt neve kivételes esetekben nem alkalmazható a forgalomba hozatal helye szerinti tagállamban, ha az előállítás helye szerinti tagállamban az általa megjelölt élelmiszer az összetételét vagy előállítását tekintve annyira különbözik a forgalomba hozatal helye szerinti tagállamban az ilyen néven ismert élelmiszertől, hogy a (2) bekezdés nem elegendő annak biztosításához, hogy a fogyasztó a forgalomba hozatal helye szerinti tagállamban megfelelő tájékoztatást kapjon.
+(4) Az élelmiszer nevét nem helyettesítheti szellemi tulajdonként védett név, márkanév vagy fantázianév.
+(5) Az élelmiszer nevére vonatkozó külön rendelkezéseket és az azt kísérő adatokat az VI. melléklet állapítja meg.
+
+18. cikk
+Az összetevők felsorolása
+(1) Az összetevők felsorolását megfelelő kifejezés kezdi vagy előzi meg, amely az „összetevők” szóból áll vagy azt tartalmazza. A felsorolásnak tartalmaznia kell az élelmiszer összes összetevőjét, az élelmiszer előállításakor való felhasználásuk időpontjában mért tömegük szerinti csökkenő sorrendben.
+(2) Az összetevőket saját nevük szerint kell feltüntetni, adott esetben a 17. cikkben és a VI. mellékletben megállapított szabályoknak megfelelően.
+(3) A mesterséges nanoanyag formájában jelen lévő valamennyi összetevőt egyértelműen fel kell tüntetni az összetevők között. Ezen összetevők nevét a „nano” szó követi zárójelben.
+(4) Az e cikk (1) és (2) bekezdésének alkalmazására vonatkozó további szabályokat a VII. melléklet állapítja meg.
+(5) Az e rendeletben meghatározott célok elérése érdekében a Bizottság felhatalmazáson alapuló jogi aktusok útján, az 51. cikkel összhangban módosítja a 2. cikk (2) bekezdésének t) pontjában említett mesterséges nanoanyagokra vonatkozó fogalommeghatározást, hozzáigazítva azt az új műszaki és tudományos eredményekhez vagy a nemzetközileg elfogadott fogalommeghatározásokhoz.
+
+19. cikk
+Az összetevők felsorolásának elhagyása
+(1) Az alábbi élelmiszereken nem kötelező feltüntetni az összetevők felsorolását:
+a) friss gyümölcs és zöldség, beleértve a burgonyát, amelyet nem hámoztak meg, vágtak fel vagy kezeltek hasonló módon;
+b) szénsavas víz, amelynek leírásában szerepel, hogy az szénsavval dúsított;
+c) erjesztett ecetfélék, amelyek kizárólag egyetlen alapanyagból származnak, feltéve, hogy nem adtak hozzá más összetevőt;
+d) sajt, vaj, savanyú tej és tejszín, feltéve, hogy nem adtak hozzá az előállításukhoz szükséges tej eredetű alapanyagoktól, élelmiszer-enzimektől és mikrobatenyészettől, illetve a friss vagy ömlesztett sajttól eltérő sajtfélék esetében az azok előállításához szükséges étkezési sótól eltérő összetevőt;
+e) egyetlen összetevőből álló élelmiszer, amennyiben:
+i. az élelmiszer neve megegyezik az összetevő nevével; vagy
+ii. az élelmiszer neve lehetővé teszi az összetevő jellegének egyértelmű azonosítását.
+(2) Annak figyelembevétele érdekében, hogy meghatározott élelmiszerfajták vagy -csoportok esetében a fogyasztók számára milyen jelentőséggel bír az összetevők felsorolása, a Bizottság kivételes esetekben, felhatalmazáson alapuló jogi aktusok útján, az 51. cikkel összhangban kiegészítheti e cikk (1) bekezdését, feltéve, hogy az elhagyás nem eredményezi a végső fogyasztó, a vendéglátók, illetve közétkeztetők nem megfelelő tájékoztatását.
+
+20. cikk
+Az élelmiszer összetevőinek elhagyása az összetevők felsorolásából
+A 21. cikk sérelme nélkül, az élelmiszerek alábbi összetevőit nem kötelező feltüntetni az összetevők felsorolásában:
+a) az összetevő olyan alkotóelemei, amelyeket a gyártási folyamat során átmenetileg kivontak, majd később az eredeti aránynál nem nagyobb mértékben visszajuttattak;
+b) az olyan élelmiszer-adalékanyagok és élelmiszerenzimek,
+i. amelyek jelenléte az adott élelmiszerben kizárólag annak a ténynek tulajdonítható, hogy azokat az élelmiszer egy vagy több összetevője tartalmazta, de – az 1333/2008/EK rendelet 18. cikke (1) bekezdésének a) és b) pontjában említett átviteli elvvel összhangban – technológiai funkcióval a késztermékben már nem rendelkeznek; vagy
+ii. amelyeket technológiai segédanyagként használnak;
+c) hordozók és azok az anyagok, amelyek nem élelmiszer-adalékanyagok, de amelyeket – a szigorúan szükséges mértékben – a hordozókkal megegyező módon és megegyező célra használnak;
+d) azok az anyagok, amelyek nem élelmiszer-adalékanyagok, de amelyeket a technológiai segédanyagokkal megegyező módon és megegyező célra használnak, és a késztermékben még jelen vannak, akár megváltozott formában is;
+e) víz:
+i. amennyiben a vizet kizárólag koncentrált vagy dehidratált formában lévő összetevő eredeti állapotba való visszaállításához alkalmazzák az előállítás során; vagy
+ii. olyan folyadékközeg esetében, amelyet általában nem fogyasztanak el.
+
+21. cikk
+Egyes allergiát vagy intoleranciát okozó anyagok vagy termékek jelölése
+(1) A 44. cikk (2) bekezdésében elfogadott szabályok sérelme nélkül, a 9. cikk (1) bekezdésének c) pontjában említett adatoknak meg kell felelniük az alábbi követelményeknek:
+a) az adatokat a 18. cikk (1) bekezdésében megállapított szabályokkal összhangban az összetevők felsorolásában kell feltüntetni, a II. melléklet listáján szereplő anyag vagy termék nevének egyértelmű megjelölésével; és
+b) a II. melléklet listáján szereplő anyag vagy termék nevét olyan szedéssel – például betűtípussal, stílussal vagy háttérszínnel – kell kiemelni, amely azt egyértelműen elkülöníti a többi összetevőtől.
+Az összetevők felsorolásának hiányában a 9. cikk (1) bekezdésének c) pontjában említett adatok megjelölésének a „tartalmaz” szóból és a II. melléklet listáján szereplő anyag vagy termék nevéből kell állnia.
+Amennyiben egy adott élelmiszernek több összetevője vagy technológiai segédanyaga is egy bizonyos, a II. melléklet listáján szereplő anyagból vagy termékből származik, a jelölésen ezt minden érintett összetevő vagy technológiai segédanyag tekintetében egyértelműen fel kell tüntetni.
+Nem kell azonban feltüntetni a 9. cikk (1) bekezdésének c) pontjában említett adatokat azokban az esetekben, amikor az élelmiszer neve egyértelmű utalást tartalmaz az érintett anyagra vagy termékre vonatkozóan.
+(2) A Bizottság a fogyasztók jobb tájékoztatása, valamint a legújabb tudományos eredmények és technológiai ismeretek figyelembevétele céljából felhatalmazáson alapuló jogi aktusok útján, az 51. cikkel összhangban szisztematikusan átvizsgálja és szükség esetén naprakésszé teszi a II. mellékletben szereplő listát.
+Ha a fogyasztók egészségét fenyegető kockázat felmerülése esetén sürgős okokból szükséges, az 52. cikkben előírt eljárás alkalmazandó az e cikk értelmében elfogadott felhatalmazáson alapuló jogi aktusokra.
+
+22. cikk
+Az összetevők mennyiségi jelölése
+(1) Az élelmiszer előállítása vagy elkészítése során felhasznált valamely összetevőnek vagy az összetevők ilyen csoportjának mennyiségét kötelező feltüntetni, amennyiben az érintett összetevő vagy összetevők csoportja:
+a) megjelenik az élelmiszer nevében, vagy a fogyasztó azt rendszerint társítja az említett megnevezéssel;
+b) szavakkal, képpel vagy grafikával hangsúlyozva van a jelölésen; vagy
+c) alapvetően jellemez egy élelmiszert, és megkülönbözteti azt olyan termékektől, amelyekkel összetéveszthető lenne neve vagy megjelenítése miatt.
+(2) A VIII. melléklet állapítja meg az (1) bekezdés alkalmazására vonatkozó technikai szabályokat, beleértve azokat az egyedi eseteket, amikor a mennyiségi jelölés bizonyos összetevők tekintetében nem kötelező.
+
+23. cikk
+Nettó mennyiség
+(1) Az élelmiszerek nettó mennyiségét literben, centiliterben, milliliterben, kilogrammban vagy grammban kell kifejezni az alábbiak szerint:
+a) folyékony termékek esetében térfogategységben;
+b) más termékek esetében tömegegységben.
+(2) Annak érdekében, hogy a fogyasztók számára érthetőbbé váljanak az élelmiszerekre vonatkozóan a jelölésen feltüntetett információk, a Bizottság felhatalmazáson alapuló jogi aktusok útján, az 51. cikkel összhangban egyes élelmiszerek vonatkozásában a nettó mennyiségnek az e cikk (1) bekezdésében előírtaktól eltérő formában való közlését is előírhatja.
+(3) Az (1) bekezdés alkalmazására vonatkozó technikai szabályokat a IX. melléklet állapítja meg, beleértve azokat az eseteket, amikor a nettó mennyiség feltüntetése nem kötelező.
+
+24. cikk
+Minőségmegőrzési idő, fogyaszthatósági idő, valamint a fagyasztás időpontja
+(1) Olyan élelmiszerek esetében, amelyek mikrobiológiai szempontból gyorsan romlandók, és ezért rövid idő elteltével valószínűleg közvetlen veszélyt jelentenek az egészségre, a minőségmegőrzési időt a fogyaszthatósági idő helyettesíti. A fogyaszthatósági idő lejártát követően az élelmiszer a 178/2002/EK rendelet 14. cikkének (2)–(5) bekezdésével összhangban nem minősül biztonságosnak.
+(2) A megfelelő dátumot a X. melléklettel összhangban kell kifejezni.
+(3) A Bizottság a minőségmegőrzési idő X. melléklet 1. pontjának c) alpontja szerinti egységes feltüntetésének biztosítása érdekében részletes szabályokat megállapító végrehajtási jogi aktusokat fogadhat el erre vonatkozóan. Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárás keretében kell elfogadni.
+
+25. cikk
+Tárolási vagy felhasználási feltételek
+(1) Amennyiben az élelmiszer különleges tárolási és/vagy felhasználási feltételeket igényel, ezeket fel kell tüntetni.
+(2) Az élelmiszernek a csomagolás felbontása utáni megfelelő tárolása illetve felhasználása érdekében adott esetben a tárolási feltételeket és/vagy a felhasználhatósági időt is fel kell tüntetni.
+
+26. cikk
+Származási ország vagy az eredet helye
+(1) Ezt a cikket a vonatkozó uniós rendelkezésekben – különösen a hagyományos különleges terméknek minősülő mezőgazdasági termékekről és élelmiszerekről szóló, 2006. március 20-i 509/2006/EK tanácsi rendeletben ( 7 ) és a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló, 2006. március 20-i 510/2006/EK tanácsi rendeletben ( 8 ) – megállapított jelölési követelmények sérelme nélkül kell alkalmazni.
+(2) Kötelező feltüntetni a származási országot vagy az eredet helyét:
+a) abban az esetben, ha ezek feltüntetésének elmulasztása félrevezethetné a fogyasztókat az élelmiszer valódi származási országa vagy eredetének helye tekintetében, különösen, ha az élelmiszerrel kapcsolatos tájékoztatás vagy a címke egésze egyébként arra utalna, hogy az élelmiszer származási országa vagy eredetének helye más;
+b) a XI. mellékletben felsorolt Kombinált Nómenklatúra- (KN-) kódok alá tartozó hús esetében. ►C1 E pont alkalmazásának előfeltétele, hogy a (8) bekezdésben említett végrehajtási jogi aktusok elfogadásra kerüljenek. ◄
+(3) Ha az élelmiszer származási országát vagy eredetének helyét feltüntetik, és az nem egyezik meg elsődleges összetevője vagy összetevői származási országával vagy eredetének helyével,
+a) akkor az érintett elsődleges összetevő származási országát vagy eredetének helyét szintén meg kell adni; vagy
+b) akkor az elsődleges összetevő származási országát vagy eredetének helyét az élelmiszer származási országától vagy eredetének helyétől eltérőként kell feltüntetni.
+E bekezdés alkalmazásának előfeltétele, hogy a (8) bekezdésben említett végrehajtási jogi aktusok elfogadásra kerüljenek.
+(4) A Bizottság a (2) bekezdés b) pontja alkalmazásának kezdetét követő öt éven belül jelentést nyújt be az Európai Parlamentnek és a Tanácsnak az abban a pontban említett termékek származási országa vagy eredetének helye kötelező megjelölésének értékelése céljából.
+(5) A Bizottság 2014. december 13-ig jelentést nyújt be az Európai Parlamentnek és a Tanácsnak az alábbi élelmiszerek származási országának vagy eredetük helyének kötelező megjelöléséről:
+a) a marhahústól és a (2) bekezdés b) pontjában említettektől eltérő hústermékek;
+b) tej;
+c) a tejtermékek összetevőjeként felhasznált tej;
+d) feldolgozatlan élelmiszerek;
+e) egyetlen összetevőből álló termékek;
+f) a valamely élelmiszernek több mint 50 %-át kitevő összetevők.
+(6) A Bizottság 2013. december 13-ig jelentést nyújt be az Európai Parlamentnek és a Tanácsnak az összetevőként felhasznált hús származási országának vagy eredete helyének kötelező megjelöléséről.
+(7) Az (5) és (6) bekezdésekben említett jelentéseknek figyelembe kell vennie a fogyasztók tájékoztatás iránti igényét, a származási ország vagy az eredet helye kötelező jelölésének megvalósíthatóságát és az ezen intézkedések bevezetéséből eredő költségek és előnyök elemzését, ideértve a belső piacra és a nemzetközi kereskedelemre gyakorolt hatást is.
+A Bizottság e jelentéseihez a vonatkozó uniós rendelkezések módosítására vonatkozó javaslatokat is csatolhat.
+(8) ►C1 A Bizottság – hatástanulmányok elvégzését követően – 2013. december 13-ig elfogadja az e cikk (2) bekezdése b) pontjának és (3) bekezdésének alkalmazására vonatkozó végrehajtási jogi aktusokat. ◄ Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárás keretében kell elfogadni.
+(9) A (2) bekezdés b) pontjában, az (5) bekezdés a) pontjában és a (6) bekezdésben említett élelmiszerek esetén az e cikk szerinti jelentéseknek és hatásvizsgálatoknak ki kell térniük többek között a származási ország vagy az eredet helye feltüntetésének módozataira, különös tekintettel az összes alábbi, az állat élete szempontjából meghatározó helyre:
+a) születés helye;
+b) a nevelés helye;
+c) a levágás helye.
+
+27. cikk
+Felhasználási útmutató
+(1) Az élelmiszeren a felhasználási útmutatót úgy kell feltüntetni, hogy az lehetővé tegye az élelmiszer megfelelő felhasználását.
+(2) A Bizottság részletes szabályokat megállapító végrehajtási jogi aktusokat fogadhat el az (1) bekezdés egyes meghatározott élelmiszerek tekintetében történő végrehajtására vonatkozóan. Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárás keretében kell elfogadni.
+
+28. cikk
+Alkoholtartalom
+(1) A 2204 KN-kód alá tartozó termékek esetében a térfogatszázalékban megadott alkoholtartalom feltüntetésére vonatkozó szabályokat az ilyen termékekre vonatkozó külön uniós rendelkezések állapítják meg.
+(2) Az 1,2 térfogatszázalékot meghaladó alkoholtartalmú, az (1) bekezdésben említettektől eltérő italok térfogatszázalékban kifejezett tényleges alkoholtartalmát a XII. melléklettel összhangban kell feltüntetni.
+
+3.
+SZAKASZ
+Tápértékjelölés
+
+29. cikk
+Kapcsolat más jogszabályokkal
+(1) E szakaszt nem kell alkalmazni a következő jogszabályok hatálya alá tartozó élelmiszerekre:
+a) az étrend-kiegészítőkre vonatkozó tagállami jogszabályok közelítéséről szóló, 2002. június 10-i 2002/46/EK európai parlamenti és a tanácsi irányelv ( 9 );
+b) a természetes ásványvizek kinyeréséről és forgalmazásáról szóló, 2009. június 18-i 2009/54/EK európai parlamenti és a tanácsi irányelv ( 10 ).
+(2) E szakaszt a különleges táplálkozási célú élelmiszerekről szóló, 2009. május 6-i 2009/39/EK európai parlamenti és tanácsi irányelv ( 11 ), valamint az említett irányelv 4. cikkének (1) bekezdésében említett egyedi irányelvek sérelme nélkül kell alkalmazni.
+
+30. cikk
+Tartalom
+(1) A kötelező tápértékjelölésnek a következőket kell tartalmaznia:
+a) energiatartalom; és
+b) zsír- és telítettzsírsav-tartalom, szénhidráttartalom, cukortartalom, fehérjetartalom, valamint sótartalom.
+A tápértékjelölés közvetlen közelében adott esetben fel lehet tüntetni egy arra vonatkozó nyilatkozatot, hogy az élelmiszer kizárólag a nátrium természetes jelenlétéből adódóan tartalmaz sót.
+(2) A kötelező tápértékjelölés (1) bekezdésben említett tartalma kiegészíthető az alábbiak közül egy vagy több további tápanyag mennyiségének megjelölésével:
+a) egyszeresen telítetlen zsírsavak;
+b) többszörösen telítetlen zsírsavak;
+c) poliolok;
+d) keményítő;
+e) rost;
+f) a XIII. melléklet A. részének 1. pontjában felsorolt és a XIII. melléklet A. részének 2. pontjában foglalt meghatározás szerint jelentős mennyiségben jelen lévő vitaminok vagy ásványi anyagok.
+(3) Az (1) bekezdés szerinti kötelező tápértékjelölésnek az előrecsomagolt élelmiszerek jelölésén való feltüntetésekor azon a következő információkat lehet megismételni:
+a) az energiatartalom; vagy
+b) az energiatartalom és a zsír- és telítettzsírsav-tartalom, a cukortartalom, valamint a sótartalom.
+(4) A 36. cikk (1) bekezdésétől eltérően abban az esetben, ha a 16. cikk (4) bekezdésében említett termékek jelölése tartalmazza a tápértékjelölést, lehetőség van arra, hogy e tájékoztatás az energiatartalomra korlátozódjon.
+(5) A 44. cikk sérelme nélkül és a 36. cikk (1) bekezdésétől eltérően abban az esetben, ha a 44. cikk (1) bekezdésében említett termékek jelölése tartalmazza a tápértékjelölést, lehetőség van arra, hogy e tájékoztatás az alábbiakra korlátozódjon:
+a) az energiatartalom; vagy
+b) az energiatartalom és a zsír- és telítettzsírsav-tartalom, a cukortartalom, valamint a sótartalom.
+(6) Annak figyelembevétele érdekében, hogy az e cikk (2)–(5) bekezdésében említett információk a fogyasztók tájékoztatása szempontjából mennyire fontosak, a Bizottság felhatalmazáson alapuló jogi aktusok útján – az 51. cikkel összhangban – elemek hozzáadásával vagy törlésével módosíthatja e cikk (2)–(5) bekezdését.
+(7) A Bizottság legkésőbb 2014. december 13-ig jelentést nyújt be a transzzsírok élelmiszerekben és az uniós lakosság teljes étrendjében való jelenlétéről, figyelembe véve a tagállamokban szerzett tudományos bizonyítékokat és tapasztalatot. A jelentés értékeli azokat a módszereket, amelyek segítségével a fogyasztók képesek lehetnek egészségesebb élelmiszerek, illetve teljes étrend választására, vagy amelyek elősegíthetik, hogy egészségesebb élelmiszerválasztékot kínáljanak a fogyasztóknak, ideértve többek között a fogyasztók számára a transzzsírokról nyújtott tájékoztatást és ezek alkalmazásának korlátozását is. A Bizottság szükség esetén jogalkotási javaslatot csatol a jelentéshez.
+
+31. cikk
+Számítás
+(1) Az energiatartalmat a XIV. mellékletben felsorolt átszámítási együtthatók alkalmazásával kell kiszámítani.
+(2) A Bizottság felhatalmazáson alapuló jogi aktusok útján – az 51. cikkel összhangban – átszámítási együtthatókat fogadhat el a XIII. melléklet A. részének 1. pontjában említett vitaminok és ásványi anyagok tekintetében, lehetővé téve e vitaminok és ásványi anyagok élelmiszerekben található mennyiségének pontosabb kiszámítását. Ezeket az átváltási együtthatókat a XIV. mellékletbe kell beilleszteni.
+(3) A 30. cikk (1)–(5) bekezdésében említett energiatartalomnak és a tápanyagok mennyiségének az élelmiszer értékesítésre kerülő állapotára kell vonatkoznia.
+Adott esetben ezen információk vonatkozhatnak az elkészített élelmiszerre is, feltéve, hogy kellően részletes felhasználási utasításokat adnak meg, és az információk a fogyasztásra kész élelmiszerre vonatkoznak.
+(4) A megadott értékeknek az egyes esetek függvényében olyan átlagértékeknek kell lenniük, amelyek a következőkön alapulnak:
+a) az élelmiszer előállítója által végzett vizsgálatok;
+b) a felhasznált összetevők ismert vagy tényleges átlagértékeiből végzett számítások; vagy
+c) általánosan meghatározott és elfogadott adatokból kiinduló számítások.
+E bekezdés egységes alkalmazása érdekében a Bizottság részletes szabályokat megállapító végrehajtási jogi aktusokat fogadhat el a megadott értékek pontosságára vonatkozóan, például a megadott értékek és a hatósági ellenőrzések során meghatározott értékek közötti különbségeket illetően. Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárás keretében kell elfogadni.
+
+32. cikk
+Mennyiségek kifejezése 100 g-ra vagy 100 ml-re
+(1) Az energiatartalmat és a 30. cikk (1)–(5) bekezdésében említett tápanyagok mennyiségét a XV. mellékletben felsorolt mértékegységek használatával kell kifejezni.
+(2) A energiatartalmat és a 30. cikk (1)–(5) bekezdésében említett tápanyagok mennyiségét 100 g-ra vagy 100 ml-re vonatkozóan kell kifejezni.
+(3) A vitaminok és ásványi anyagok mennyiségét azok megadásakor a (2) bekezdésben említett formán kívül a XIII. melléklet A. részének 1. pontjában említett beviteli referenciaértékek százalékában is fel kell tüntetni, 100 g-ra vagy 100 ml-re kifejezve.
+(4) Az e cikk (2) bekezdésében említett kifejezési formákon kívül az energiatartalmat és a 30. cikk (1), (3), (4) és (5) bekezdésében említett tápanyagok mennyiségét adott esetben a XIII. melléklet B. részében említett beviteli referenciaértékek százalékában is meg lehet adni, 100 g-ra vagy 100 ml-re kifejezve
+(5) Amennyiben az adatokat a (4) bekezdés szerint adják meg, közvetlen közelükben fel kell tüntetni a következő mondatot: „Referencia beviteli érték egy átlagos felnőtt számára (8 400 kJ/2 000 kcal)”.
+
+33. cikk
+Adatok megadása adagonként vagy fogyasztási egységenként
+(1) Az alábbi esetekben az energiatartalom és a 30. cikk (1)–(5) bekezdésében említett tápanyagok mennyisége a fogyasztók számára könnyen felismerhető adagonként és/vagy fogyasztási egységenként is megadható, feltéve, hogy az adag vagy fogyasztási egység mennyiségét, valamint az egy csomagban található adagok vagy fogyasztási egységek számát a jelölésen feltüntetik:
+a) a 32. cikk (2) bekezdésében említett 100 g-ra vagy 100 ml-re vetített kifejezési forma kiegészítéseként;
+b) a 32. cikk (3) bekezdésében a vitaminok és ásványi anyagok tekintetében említett, 100 g-ra vagy 100 ml-re vetített kifejezési forma kiegészítéseként;
+c) a 32. cikk (4) bekezdésében említett 100 g-ra vagy 100 ml-re vetített kifejezési forma kiegészítéseként vagy ahelyett.
+(2) A 32. cikk (2) bekezdésétől eltérően, a 30. cikk (3) bekezdésének b) pontjában említett esetekben a tápanyagok mennyiségének megadása, és/vagy a XIII. melléklet B. részében felsorolt beviteli referenciaértékek százalékában való kifejezésük csak adagonként vagy fogyasztási egységenként is lehetséges.
+Amennyiben a tápanyagok mennyiségét az első albekezdés értelmében csak adagonként vagy fogyasztási egységenként adják meg, az energiatartalmat 100 g-ra vagy 100 ml-re vetítve és adagonként vagy fogyasztási egységenként is meg kell adni.
+(3) A 32. cikk (2) bekezdésétől eltérően, a 30. cikk (5) bekezdésében említett esetekben az energiatartalom és a tápanyagok mennyiségének megadása, és/vagy a XIII. melléklet B. részében felsorolt beviteli referenciaértékek százalékában való kifejezésük csak adagonként vagy fogyasztási egységenként is lehetséges.
+(4) A jelzett adag mennyiségét vagy a fogyasztási egységet a tápértékjelölés közvetlen közelében kell feltüntetni.
+(5) A tápértékjelölés adagonkénti vagy fogyasztási egységenkénti adatközlés egységességének, valamint a fogyasztók számára egységes összehasonlítási alapnak a biztosítása érdekében a Bizottság – a fogyasztók tényleges fogyasztási magatartásának és az étrendre vonatkozó ajánlásoknak a figyelembevételével végrehajtási rendelkezések révén szabályokat fogad el egyes meghatározott élelmiszercsoportok tekintetében a tápértékjelölés adagonkénti vagy fogyasztási egységenkénti adatközlésre vonatkozóan. Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárás keretében kell elfogadni.
+
+34. cikk
+Megjelenítés
+(1) A 30. cikk (1) és (2) bekezdésében említett adatokat ugyanazon látómezőben kell feltüntetni. Ezeket az adatokat együtt, érthető formában, és adott esetben a XV. mellékletben előírt feltüntetési sorrendben kell megadni.
+(2) A 30. cikk (1) és (2) bekezdésében említett adatokat – amennyiben a rendelkezésre álló hely ezt lehetővé teszi – táblázatos formátumban és sorba igazított számokkal kell megadni. Amennyiben a rendelkezésre álló hely miatt ez nem lehetséges, az információkat folyamatosan egymás után sorba írva kell megadni.
+(3) A 30. cikk (3) bekezdésében említett adatokat az alábbiak szerint kell feltüntetni:
+a) a fő látómezőben; valamint
+b) a 13. cikk (2) bekezdésnek megfelelő betűméretet használva.
+A 30. cikk (3) bekezdésében említett adatokat az e cikk (2) bekezdésében meghatározottól eltérő formátumban is meg lehet jeleníteni.
+(4) A 30. cikk (4) és (5) bekezdésében említett adatokat az e cikk (2) bekezdésében meghatározottól eltérő formátumban is meg lehet jeleníteni.
+(5) Amennyiben a termék energiatartalma, vagy a tápanyagok mennyisége elhanyagolható, az említett alkotóelemekre vonatkozó információk helyett az „Elhanyagolható mennyiségű …-t tartalmaz” szöveg tüntethető fel. Amennyiben ilyen tájékoztatás van, azt a tápértékjelölés közvetlen közelében kell szerepeltetni.
+E bekezdés egységes alkalmazásának biztosítása érdekében a Bizottság végrehajtási jogi aktusokat fogadhat el arra vonatkozóan, hogy az energiatartalom és a 30. cikk (1)–(5) bekezdésében említett tápanyagok mennyisége mikor minősül elhanyagolhatónak. Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárással összhangban kell elfogadni.
+(6) A Bizottság végrehajtási jogi aktusokat fogadhat el a tápértékjelölés e cikk (1)–(4) bekezdése szerinti formákban történő egységes feltüntetésének biztosítása érdekében. Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárással összhangban kell elfogadni.
+
+35. cikk
+További kifejezési és megjelenítési formák
+(1) Az energiatartalmat és a 30. cikk (1)–(5) bekezdésében említett tápanyagok mennyiségét a 32. cikk (2) és (4) bekezdésében, valamint a 33. cikkben említett kifejezési formákon, továbbá a 34. cikk (2) bekezdésében említett megjelenítési formákon kívül más kifejezési formákkal is meg lehet adni, illetve a szavakon és számokon kívül grafikus formákat és szimbólumokat is fel lehet használni azok megjelenítéséhez, feltéve, hogy a következő követelmények teljesülnek:
+a) megbízható, tudományosan megalapozott fogyasztói kutatáson alapszanak, és nem megtévesztők a fogyasztók számára, ahogyan azt a 7. cikk is előírja;
+b) kifejlesztésük az érintettek széles csoportjával folytatott kiterjedt konzultáció eredménye;
+c) céljuk az, hogy a fogyasztó számára érthetőbbé váljon az adott élelmiszer szerepe, vagy jelentősége a napi étrenden belüli energia- és tápanyagbevitelt illetően;
+d) tudományosan megalapozott bizonyítékkal van alátámasztva, hogy az átlagfogyasztó megérti az ilyen kifejezési és megjelenítési formákat;
+e) egyéb kifejezési formák esetében azok a XIII. mellékletben meghatározott harmonizált beviteli referenciaértékeken, vagy ezek hiányában az energia- vagy tápanyagbevitelre vonatkozó, általánosan elfogadott tudományos ajánlásokon alapulnak;
+f) tényszerűek és részrehajlástól mentesek; valamint
+g) alkalmazásuk nem gátolja az áruk szabad mozgását.
+(2) A tagállamok a tápértékjelölést illetően olyan további kifejezési és megjelenítési formákat is ajánlhatnak az élelmiszer-vállalkozásoknak, amelyek szerintük a leginkább teljesítik az (1) bekezdés a)–g) pontjában foglalt követelményeket. A tagállamoknak tájékoztatniuk kell a Bizottságot az ilyen további kifejezési és megjelenítési formák részleteiről.
+(3) A tagállamoknak biztosítaniuk kell a tápértékjelölés azon további kifejezési és megjelenítési formáinak megfelelő ellenőrzését, amelyek a piacukon jelen vannak.
+A további kifejezési és megjelenítési formák használata ellenőrzésének megkönnyítése érdekében a tagállamok előírhatják, hogy a területükön forgalmazott élelmiszereken ilyen formákat alkalmazó élelmiszer-vállalkozások tájékoztassák a hatáskörrel rendelkező hatóságot az ilyen, általuk használt egyéb kifejezési és megjelenítési formákról, és hogy a hatóság számára igazolják az (1) bekezdés a)–g) pontjában foglalt követelményeknek való megfelelést. Ilyen esetekben szintén előírható, hogy az élelmiszer-vállalkozások tájékoztassák a hatáskörrel rendelkező hatóságot a további kifejezési és megjelenítési formák használatának megszüntetéséről.
+(4) A Bizottság elősegíti és megszervezi az információcserét a Bizottság, a tagállamok és az érdekelt felek között a tápértékjelölés egyéb kifejezési és megjelenítési formáinak használatával kapcsolatos kérdéseket illetően.
+(5) A megszerzett tapasztalatok alapján a Bizottság legkésőbb 2017. december 13-ig jelentést nyújt be az Európai Parlamentnek és a Tanácsnak a további kifejezési és megjelenítési formák használatáról, a belső piacra gyakorolt hatásukról, valamint arról, hogy ajánlott-e ezeknek a kifejezési és megjelenítési formáknak a további harmonizációja. Ennek érdekében a tagállamoknak megfelelő tájékoztatást kell nyújtaniuk a Bizottság részére a területükön alkalmazott egyéb kifejezési és megjelenítési formákról. A Bizottság e jelentéséhez a vonatkozó uniós rendelkezések módosítására vonatkozó javaslatokat is csatolhat.
+(6) E cikk egységes alkalmazásának biztosítása érdekében a Bizottság részletes szabályokat megállapító végrehajtási jogi aktusokat fogad el e cikk (1), (3) és (4) bekezdésének végrehajtására vonatkozóan. Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárás keretében kell elfogadni.
+
+V.
+FEJEZET
+ÉLELMISZEREKKEL KAPCSOLATOS ÖNKÉNTES TÁJÉKOZTATÁS
+
+36. cikk
+Alkalmazandó követelmények
+(1) Amennyiben az élelmiszerekkel kapcsolatos, 9. és 10. cikkben említett tájékoztatás megadása önkéntes alapon történik, úgy ezen tájékoztatásnak meg kell felelnie az IV. fejezet 2. és 3. szakaszában megállapított követelményeknek.
+(2) Az élelmiszerekkel kapcsolatos, önkéntes alapon megadott tájékoztatásnak az alábbi követelményeknek kell megfelelnie:
+a) nem lehet megtévesztő a fogyasztók számára, ahogyan azt a 7. cikk is előírja;
+b) nem lehet bizonytalan értelmű vagy zavart keltő a fogyasztók számára; és
+c) adott esetben vonatkozó tudományos adatokon kell alapulniuk.
+(3) A Bizottság végrehajtási jogi aktusokat fogad el az e cikk (2) bekezdésében említett követelményeknek az alábbi, élelmiszerekkel kapcsolatos, önkéntesen megadott tájékoztatásokra való alkalmazására vonatkozóan:
+a) allergiát vagy intoleranciát okozó anyagoknak vagy termékeknek az élelmiszerben való esetleges szándékolatlan jelenléte;
+b) az élelmiszert vegetáriánus vagy vegán fogyasztók fogyaszthatják-e;
+c) a XIII. mellékletben meghatározott beviteli referenciaértékeken kívül a lakosság meghatározott csoportjaira vonatkozó beviteli referenciaértékek feltüntetése; és
+d) az élelmiszerek gluténmentességére vagy csökkentett gluténtartalmára vonatkozó tájékoztatás.
+Ezeket a végrehajtási jogi aktusokat a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárás keretében kell elfogadni.
+(4) Amennyiben az élelmiszerekkel kapcsolatban önkéntes alapon megadott információkat az élelmiszer-vállalkozók egymástól jelentősen eltérő módon alkalmazzák, és ez megtévesztheti vagy megzavarhatja a fogyasztókat, a Bizottság a fogyasztók megfelelő tájékoztatásának biztosítása érdekében felhatalmazásokon alapuló jogi aktusok útján, az 51. cikkel összhangban a (3) bekezdésben említett önkéntes információközlésen kívül az élelmiszerekkel kapcsolatos önkéntes információközlés terén további rendelkezéseket is meghatározhat.
+
+37. cikk
+Megjelenítés
+Az élelmiszerekkel kapcsolatos, önkéntesen megadott tájékoztatás feltüntetése nem történhet az élelmiszerekkel kapcsolatos kötelező tájékoztatás szerepeltetéséhez rendelkezésre álló hely rovására.
+
+VI.
+FEJEZET
+NEMZETI INTÉZKEDÉSEK
+
+38. cikk
+Nemzeti intézkedések
+(1) Az e rendelet által egyedileg harmonizált tárgykörökben a tagállamok nem fogadhatnak el és nem tarthatnak fenn nemzeti intézkedéseket, kivéve, ha azt uniós jog megengedi. Az ilyen nemzeti intézkedések nem gátolhatják az áruk szabad mozgását, és ezek következtében a más tagállamokból érkező élelmiszertermékeket hátrányos megkülönböztetés nem érheti.
+(2) A tagállamok a 39. cikk sérelme nélkül az e rendelet által egyedileg nem harmonizált kérdésekre vonatkozóan elfogadhatnak nemzeti intézkedéseket, feltéve, hogy azok nem tiltják, akadályozzák vagy korlátozzák az e rendelet előírásainak megfelelő áruk szabad mozgását.
+
+39. cikk
+A további kötelező adatokra vonatkozó nemzeti intézkedések
+(1) A 9. cikk (1) bekezdésében és a 10. cikkben említett kötelező adatok mellett a tagállamok a 45. cikkben meghatározott eljárással összhangban további kötelező adatokat előíró intézkedéseket fogadhatnak el egyes meghatározott élelmiszerfajták vagy -csoportok esetében, az alábbi indokok legalább egyike alapján:
+a) a közegészség védelme;
+b) a fogyasztók védelme;
+c) csalás megelőzése;
+d) ipari és kereskedelmi tulajdonjogok, származásmegjelölés, bejegyzett eredetmegjelölés védelme és a tisztességtelen verseny megelőzése.
+(2) Az (1) bekezdés értelmében a tagállamok csak akkor vezethetnek be az élelmiszer származási országával vagy eredete helyével kapcsolatos kötelező jelölésre vonatkozó intézkedéseket, ha bizonyított kapcsolat van az élelmiszer bizonyos jellemzői és származása vagy eredete között. A tagállamok a szóban forgó intézkedések Bizottságnak történő bejelentésekor bizonyítékot szolgáltatnak arról, hogy a fogyasztók többsége különösen értékesnek tartja az ilyen információ feltüntetését.
+
+40. cikk
+Tej és tejtermékek
+A tagállamok az újrafelhasználásra szánt üvegekben forgalmazott tej és tejtermékek esetében a 9. cikk (1) bekezdésétől és a 10. cikk (1) bekezdésétől eltérő intézkedéseket fogadhatnak el.
+Az ilyen intézkedések szövegét haladéktalanul közlik a Bizottsággal.
+
+41. cikk
+Alkoholtartalmú italok
+A tagállamok a 16. cikk (4) bekezdésében említett uniós rendelkezések elfogadásáig az 1,2 térfogatszázaléknál nagyobb alkoholtartalmú italok tekintetében fenntarthatják az összetevők felsorolására vonatkozó nemzeti intézkedéseket.
+
+42. cikk
+A nettó mennyiség kifejezése
+A 23. cikk (2) bekezdése szerinti uniós rendelkezések hiányában a nettó mennyiségek konkrét élelmiszerek esetében történő, a 23. cikk (1) bekezdésében foglaltaktól eltérő kifejezésére vonatkozóan, a tagállamok hatályban tarthatják az 2011. december 12-i előtt elfogadott vonatkozó nemzeti intézkedéseiket.
+2014. december 13-ig a tagállamoknak értesíteniük kell a Bizottságot az ilyen nemzeti intézkedésekről. A Bizottság felhívja a többi tagállam figyelmét e szabályokra.
+
+43. cikk
+A lakosság meghatározott csoportjaira vonatkozó beviteli referenciaértékek önkéntes feltüntetése
+A 36. cikk (3) bekezdése c) pontjában említett uniós rendelkezések elfogadásáig a tagállamok nemzeti intézkedéseket hozhatnak a lakosság meghatározott csoportjaira vonatkozó beviteli referenciaértékek önkéntes feltüntetéséről.
+A tagállamok haladéktalanul közlik a Bizottsággal az ilyen intézkedések szövegét.
+
+44. cikk
+A nem előrecsomagolt élelmiszerekre vonatkozó nemzeti intézkedések
+►C1 (1) Amennyiben az élelmiszereket előcsomagolás nélkül kínálják megvételre a végső fogyasztónak vagy a vendéglátóknak, illetve közétkeztetőknek, ◄ vagy ha az élelmiszereket az értékesítés helyén csomagolják a fogyasztó kérésére, vagy előrecsomagolják közvetlen értékesítés céljából:
+a) a 9. cikk (1) bekezdésének c) pontjában meghatározott adatokat kötelező megadni;
+b) a 9. és 10. cikkben említett egyéb adatok megadása nem kötelező, kivéve, ha a tagállamok olyan nemzeti intézkedéseket fogadnak el, amelyek előírják ezen adatok egy részének, mindegyikének vagy azok egyes elemeinek a megadását.
+(2) A tagállamok nemzeti intézkedéseket fogadhatnak el arról, hogy az (1) bekezdésben meghatározott adatokat vagy azok elemeit milyen eszközök segítségével kell rendelkezésre bocsátani, valamint adott esetben arról, hogy azokat milyen formában kell közölni és megjeleníteni.
+(3) A tagállamok az (1) bekezdés b) pontjában és a (2) bekezdésben említett intézkedések szövegét haladéktalanul közlik a Bizottsággal.
+
+45. cikk
+Értesítési eljárás
+(1) Amennyiben e cikkre történik hivatkozás, az élelmiszerekre vonatkozó tájékoztatásról szóló új jogszabály elfogadását szükségesnek tartó tagállam előzetesen értesíti a Bizottságot és a többi tagállamot a tervezett intézkedésekről, és azokat megindokolja.
+(2) A Bizottság konzultációt folytat a 178/2002/EK rendelet 58. cikkének (1) bekezdésével létrehozott Élelmiszerlánc- és Állat-egészségügyi Állandó Bizottsággal, amennyiben az ilyen konzultációt hasznosnak véli, vagy ha egy tagállam ezt kéri. Ebben az esetben a Bizottság gondoskodik arról, hogy ez a folyamat valamennyi érintett szereplő számára átlátható legyen.
+(3) Az élelmiszerekkel kapcsolatos tájékoztatásról szóló új jogszabály elfogadását szükségesnek tartó tagállam a tervezett intézkedéseket csak három hónappal az (1) bekezdésben említett értesítés után hozhatja meg, amennyiben a Bizottságtól nem érkezett kedvezőtlen vélemény.
+(4) Ha a Bizottság véleménye kedvezőtlen, az e cikk (3) bekezdésében említett időszak letelte előtt a 48. cikk (2) bekezdésében említett vizsgálóbizottsági eljárást kezdeményezi annak eldöntése érdekében, hogy a tervezett intézkedések – szükség esetén a megfelelő módosításokkal – végrehajthatók-e.
+(5) A műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról és az információs társadalom szolgáltatásaira vonatkozó szabályokról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv ( 12 ) nem alkalmazandó azokra az intézkedésekre, amelyek az e cikkben meghatározott értesítési eljárás hatálya alá tartoznak.
+
+VII.
+FEJEZET
+VÉGREHAJTÁSI, MÓDOSÍTÓ ÉS ZÁRÓ RENDELKEZÉSEK
+
+46. cikk
+A mellékletek módosításai
+A műszaki és tudományos fejlődésnek vagy a fogyasztók egészségének és tájékoztatás iránti igényeinek figyelembevétele érdekében, továbbá a 10. cikk (2) bekezdésének és a 21. cikk (2) bekezdésének a II. és III. melléklet módosításával kapcsolatos rendelkezéseire is figyelemmel, a Bizottság felhatalmazáson alapuló jogi aktusok útján, az 51. cikkel összhangban módosíthatja e rendelet mellékleteit.
+
+47. cikk
+A végrehajtási intézkedések és a felhatalmazáson alapuló jogi aktusok tekintetében biztosított átmeneti időszak, valamint azok alkalmazási időpontja
+(1) E cikk (2) bekezdésének sérelme nélkül, amikor a 48. cikk (2) bekezdésében említett vizsgálati eljárás keretében az e rendelet által rá ruházott hatáskörök gyakorlásakor végrehajtási rendelkezések révén intézkedéseket, illetve az 51. cikk alapján felhatalmazáson alapuló jogi aktusokat fogad el, a Bizottság:
+a) az új intézkedések alkalmazása tekintetében megfelelő átmeneti időszakot határoz meg, amelynek során az új intézkedéseknek meg nem felelő jelölést viselő élelmiszereket forgalomba lehet hozni, és az ilyen élelmiszereknek az átmeneti időszak letelte előtt forgalomba hozott készleteit azok kimerüléséig továbbra is értékesíteni lehet; és
+b) biztosítja, hogy az ilyen intézkedések bármely naptári év április 1-jétől legyenek alkalmazandók.
+(2) Az (1) bekezdés nem alkalmazandó sürgős esetben, amennyiben az abban a bekezdésben említett intézkedések célja az emberi egészség védelme.
+
+48. cikk
+A bizottság
+(1) A Bizottságot a 178/2002/EK rendelet 58. cikkének (1) bekezdésével létrehozott Élelmiszerlánc- és Állat-egészségügyi Állandó Bizottság segíti. Ez a bizottság a 182/2011/EU rendelet szerinti bizottságnak tekintendő.
+(2) Az e bekezdésre történő hivatkozáskor a 182/2011/EU rendelet 5. cikkét kell alkalmazni.
+Ha a bizottság nem nyilvánít véleményt, a Bizottság nem fogadhatja el a végrehajtási jogi aktus tervezetét, és a 182/2011/EU rendelet 5. cikke (4) bekezdésének harmadik albekezdése alkalmazandó.
+
+49. cikk
+Az 1924/2006/EK rendelet módosítása
+Az 1924/2006/EK rendelet 7. cikkének első és második bekezdése helyébe a következő szöveg lép:
+„Kötelező tápértékjelöléssel ellátni azokat a termékeket, amelyekkel kapcsolatban – az általános reklám kivételével – tápanyag-összetételre és/vagy egészségre vonatkozó állítást tettek. Az ezen feltüntetendő tájékoztatásnak a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendelet ( 13 ) 30. cikkének (1) bekezdésében felsoroltakból kell állnia. Amennyiben valamely, az 1169/2011/EU rendelet 30. cikkének (2) bekezdésében említett tápanyaggal kapcsolatban tápanyag-összetételre és/vagy egészségre vonatkozó állítást tettek, az adott tápanyag mennyiségét az 1169/2011/EU rendelet 31. és 34. cikkével összhangban közölni kell.
+A tápanyag-összetételre vagy egészségre vonatkozó állításban szereplő olyan anyag(ok) mennyiségét, amely(ek) a tápértékjelölésben nem jelenik/jelennek meg, a tápértékjelöléssel azonos látómezőben kell feltüntetni, és az 1169/2011/EU rendelet 31., 32. és 33. cikke szerinti formában kell megadni. Az adott anyag mennyiségének kifejezésére az adott anyagnak megfelelő mértékegységet kell használni.
+
+50. cikk
+Az 1925/2006/EK rendelet módosítása
+Az 1925/2006/EK rendelet 7. cikkének (3) bekezdése helyébe a következő szöveg lép:
+„(3) Azon termékeket, amelyekhez vitaminokat és ásványi anyagokat adtak hozzá, és e rendelet hatálya alá tartoznak, kötelező tápértékjelöléssel ellátni. Az ezen feltüntetendő információknak a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendelet ( 14 ) 30. cikkének (1) bekezdésében felsorolt adatokból, valamint a vitaminoknak és az ásványi anyagoknak az élelmiszerhez való hozzáadás utáni összes mennyiségéből kell állniuk.
+
+51. cikk
+A felhatalmazás gyakorlása
+(1) A felhatalmazáson alapuló jogi aktusok elfogadására vonatkozó, Bizottságra ruházott hatáskör gyakorlásának feltételeit ez a cikk határozza meg.
+(2) A 9. cikk (3) bekezdésében, a 10. cikk (2) bekezdésében, a 12. cikk (3) bekezdésében, a 13. cikk (4) bekezdésében, a 18. cikk (5) bekezdésében, a 19. cikk (2) bekezdésében, a 21. cikk (2) bekezdésében, a 23. cikk (2) bekezdésében, a 30. cikk (6) bekezdésében, a 31. cikk (2) bekezdésében, a 36. cikk (4) bekezdésében és a 46. cikkben említett felhatalmazás a 2011. december 12-t követő ötéves időszakra érvényes. A Bizottság legkésőbb kilenc hónappal az ötéves időszak letelte előtt jelentést készít a felhatalmazásról. Amennyiben az Európai Parlament vagy a Tanács nem ellenzi a meghosszabbítást legkésőbb három hónappal az egyes időtartamok vége előtt, akkor azok hallgatólagosan meghosszabbodnak a korábbival megegyező időtartamra.
+(3) Az Európai Parlament vagy a Tanács bármikor visszavonhatja a 9. cikk (3) bekezdésében, a 10. cikk (2) bekezdésében, a 12. cikk (3) bekezdésében, a 13. cikk (4) bekezdésében, a 18. cikk (5) bekezdésében, a 19. cikk (2) bekezdésében, a 21. cikk (2) bekezdésében, a 23. cikk (2) bekezdésében, a 30. cikk (6) bekezdésében, a 31. cikk (2) bekezdésében, a 36. cikk (4) bekezdésében és a 46. cikkben említett felhatalmazást. A visszavonásról szóló határozat megszünteti az abban meghatározott felhatalmazást. A visszavonásról szóló határozat az Európai Unió Hivatalos Lapjában való kihirdetését követő napon, vagy a benne megjelölt későbbi időpontban lép hatályba. A határozat nem érinti a már hatályban lévő felhatalmazáson alapuló jogi aktusok érvényességét.
+(4) A Bizottság felhatalmazáson alapuló jogi aktus elfogadása esetén erről haladéktalanul és egyidejűleg értesíti az Európai Parlamentet és a Tanácsot.
+(5) A 9. cikk (3) bekezdésének, a 10. cikk (2) bekezdésének, a 12. cikk (3) bekezdésének, a 13. cikk (4) bekezdésének, a 18. cikk (5) bekezdésének, a 19. cikk (2) bekezdésének, a 21. cikk (2) bekezdésének, a 23. cikk (2) bekezdésének, a 30. cikk (6) bekezdésének, a 31. cikk (2) bekezdésének, a 36. cikk (4) bekezdésének és a 46. cikknek megfelelően elfogadott, felhatalmazáson alapuló jogi aktus csak akkor léphet hatályba, ha az Európai Parlament vagy a Tanács a nevezett jogi aktusról szóló értesítésüktől számított két hónapos határidőn belül nem emel kifogást, illetve akkor, ha a nevezett határidő lejárta előtt mind az Európai Parlament, mind a Tanács tájékoztatta a Bizottságot, hogy nem kíván kifogást emelni. Az Európai Parlament vagy a Tanács kezdeményezésére ez a határidő két hónappal meghosszabbítható.
+
+52. cikk
+Sürgősségi eljárás
+(1) Az e cikk alapján elfogadott, felhatalmazáson alapuló jogi aktusok haladéktalanul hatályba lépnek és alkalmazandók, amennyiben nem emelnek ellenük kifogást a (2) bekezdésnek megfelelően. Az Európai Parlamentnek és a Tanácsnak küldött, a felhatalmazáson alapuló jogi aktusról szóló értesítés tartalmazza a sürgősségi eljárás alkalmazásának indokait.
+(2) Az Európai Parlament vagy a Tanács az 51. cikk (5) bekezdésében említett eljárás szerint kifogást emelhet a felhatalmazáson alapuló jogi aktus ellen. Ebben az esetben a Bizottság az Európai Parlament vagy a Tanács kifogásáról szóló határozatról való értesítést követően haladéktalanul hatályon kívül helyezi a felhatalmazáson alapuló jogi aktust.
+
+53. cikk
+Hatályon kívül helyezés
+(1) A 87/250/EGK, a 90/496/EGK, az 1999/10/EK, a 2000/13/EK, a 2002/67/EK és a 2008/5/EK irányelv, valamint a 608/2004/EK rendelet 2014. december 13-tól hatályát veszti.
+(2) A hatályon kívül helyezett jogi aktusokra történő hivatkozásokat az e rendeletre való hivatkozásként kell értelmezni.
+
+54. cikk
+Átmeneti intézkedések
+(1) A 2014. december 13. előtt forgalomba hozott vagy jelöléssel ellátott azon élelmiszerek, amelyek nem felelnek meg a rendelet előírásainak, mindaddig forgalmazhatók, amíg a készlet tart.
+A 2016. december 13. előtt forgalomba hozott vagy jelöléssel ellátott azon élelmiszerek, amelyek nem felelnek meg a rendelet 9. cikke (1) bekezdésének l) pontjában foglalt előírásainak, mindaddig forgalmazhatók, amíg a készlet tart.
+A 2014. január 1. előtt forgalomba hozott vagy jelöléssel ellátott azon élelmiszerek, amelyek nem felelnek meg a VI. melléklet B. részében foglalt előírásainak, mindaddig forgalmazhatók, amíg a készlet tart.
+2. A 2014. december 13. és a 2016. december 13. közötti időszakban, amennyiben a tápértékjelölés önkéntes alapon történik, annak meg kell felelnie a 30–35. cikknek.
+3. A 90/496/EGK irányelvtől, az 1924/2006/EK rendelet 7. cikkétől és az 1925/2006/EK rendelet 7. cikkének (3) bekezdésétől eltérve, az e rendelet 30–35. cikkének megfelelően jelöléssel ellátott élelmiszerek 2014. december 13. előtt forgalomba hozhatók.
+A 853/2004/EK, a 854/2004/EK és a 882/2004/EK európai parlamenti és tanácsi rendelet végrehajtására vonatkozó átmeneti intézkedések megállapításáról szóló, 2009. november 30-i 1162/2009/EK bizottsági rendelettől ( 15 ) eltérve, a jelen rendelet VI. melléklete B. részének megfelelően címkézett élelmiszerek 2014. január 1-jéig forgalomba hozhatók.
+
+55. cikk
+Hatálybalépés és az alkalmazás időpontja
+Ez a rendelet az Európai Unió Hivatalos Lapjában való kihirdetését követő huszadik napon lép hatályba.
+Ezt a rendeletet 2014. december 13-tól kell alkalmazni, kivéve a 9. cikk (1) bekezdésének 1) pontját, amelyet 2016. december 13-tól, valamint a VI. melléklet B. részét, amelyet 2014. január 1-jétől kell alkalmazni.
+Ez a rendelet teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban.
+
+I. MELLÉKLET
+EGYEDI FOGALOMMEGHATÁROZÁSOK
+a 2. cikk (4) bekezdése szerint
+1. „tápanyag-összetétellel kapcsolatos tájékoztatás” vagy „tápértékjelölés” kifejezés az alábbiakat tartalmazó információ:
+a) energiatartalom; vagy
+b) energiatartalom és egy vagy több kizárólag az alábbi tápanyagok közül:
+— zsír (telített zsírsavak, egyszeresen telítetlen zsírsavak, többszörösen telítetlen zsírsavak),
+— szénhidrát (cukrok, poliolok, keményítő),
+— só,
+— rost,
+— fehérje,
+— a XIII. melléklet A. részének 1. pontjában felsorolt és a XIII. melléklet A. része 2. pontjának meghatározása szerint jelentős mennyiségben jelen lévő bármely vitamin vagy ásványi anyag;
+2. a „zsír” az összes lipid, ideértve a foszfolipideket is;
+3. „telített zsírsavak”: a kettős kötés nélküli zsírsavak;
+4. „transzzsírsavak”: a legalább egy nem konjugált (vagyis legalább egy metiléncsoporttal megszakított) transz konfigurációjú szén-szén kettős kötést tartalmazó zsírsavak;
+5. „egyszeresen telítetlen zsírsavak”: az egy cisz kettős kötést tartalmazó zsírsavak;
+6. „többszörösen telítetlen zsírsavak”: a 2 vagy több cisz, cisz-metilénnel elválasztott kettős kötést tartalmazó zsírsavak;
+7. „szénhidrát”: az emberi szervezet anyagcseréjében átalakuló összes szénhidrát, ideértve a poliolokat is;
+8. „cukrok”: az élelmiszerekben jelen lévő összes monoszacharid és diszacharid, a poliolok kivételével;
+9. „poliolok”: a kettőnél több hidroxilcsoportot tartalmazó alkoholok;
+10. „fehérje”: a következő képlet szerint kiszámított fehérjetartalom: fehérje = az összes Kjeldahl szerint mért nitrogén × 6,25;
+11. „só”: a következő képlet szerint kiszámított sóegyenérték-tartalom: só = nátrium × 2,5;
+12. „rost”: olyan, legalább három monomeregységgel rendelkező szénhidrát-polimerek, amelyeket az emberi vékonybél nem emészt meg és nem szív fel, és amelyek az alábbi kategóriákba tartoznak:
+— az élelmiszer fogyasztásra kerülő formájában természetes módon jelen levő, ehető szénhidrát-polimerek,
+— élelmiszer-nyersanyagból fizikai, enzimes vagy vegyi eljárással kinyert ehető szénhidrát-polimerek, amelyek általánosan elfogadott tudományos bizonyítékok szerint kedvező élettani hatással bírnak,
+— ehető szintetikus szénhidrát-polimerek, amelyek általánosan elfogadott tudományos bizonyítékok szerint kedvező élettani hatással bírnak;
+13. „átlagérték”: az az érték, amely a legjobban mutatja az adott élelmiszer által tartalmazott tápanyag mennyiségét, ugyanakkor tükrözi a szezonális eltéréseket, a fogyasztási szokásokat, valamint az egyéb olyan tényezőket, amelyek az aktuális érték változásait okozhatják.
+
+II. MELLÉKLET
+ALLERGIÁT VAGY INTOLERANCIÁT OKOZÓ ANYAGOK ÉS TERMÉKEK
+1. Glutént tartalmazó gabonafélék, azaz búza (például tönkölybúza vagy khorasan búza), rozs, árpa, zab, illetve hibridizált fajtáik, valamint a belőlük készült termékek, kivéve:
+a) búzából készült glükózszirup, beleértve a dextrózt is ( 16 );
+b) búzából készült maltodextrin (16) ;
+c) árpából készült glükózszirup;
+d) alkoholpárlatok – így például mezőgazdasági eredetű etil-alkohol – készítéséhez használt gabonafélék.
+2. Rákfélék és a belőlük készült termékek.
+3. Tojás és a belőle készült termékek.
+4. Hal és a belőle készült termékek, kivéve:
+a) vitaminok vagy karotinoidkészítmények hordozójaként használt halenyv;
+b) a sör és a bor derítőanyagaként használt halenyv vagy vizahólyag.
+5. Földimogyoró és a belőle készült termékek.
+6. Szójabab és a belőle készült termékek, kivéve:
+a) teljes mértékben finomított szójababolaj és zsír (16) ;
+b) szójababból származó természetes vegyes tokoferolok (E306), természetes D-alfa tokoferol, természetes D-alfa tokoferol-acetát, természetes D-alfa tokoferol-szukcinát;
+c) szójabab olajából nyert fitoszterolok és fitoszterol-észterek;
+d) szójabab olajából nyert szterolokból előállított fitosztanol-észter.
+7. Tej és az abból készült termékek (beleértve a laktózt), kivéve:
+a) alkoholpárlatok – így például mezőgazdasági eredetű etil-alkohol – készítéséhez használt tejsavó;
+b) laktit.
+8. Diófélék, azaz mandula ( Amygdalus communis L.), mogyoró ( Corylus avellana ), dió ( Juglans regia ), kesudió ( Anacardium occidentale ), pekándió ( Carya illinoinensis [Wangenh.] K. Koch), brazil dió ( Bertholletia excelsa ), pisztácia ( Pistacia vera ), makadámia vagy queenslandi dió ( Macadamia ternifolia ) és a belőlük készült termékek, kivéve az alkoholpárlatok – így például mezőgazdasági eredetű etil-alkohol – készítéséhez használt csonthéjasok.
+9. Zeller és a belőle készült termékek.
+10. Mustár és a belőle készült termékek.
+11. Szezámmag és a belőle készült termékek.
+12. Kén-dioxid és az SO 2 -ben kifejezett szulfitok 10 mg/kg, illetve 10 mg/liter összkoncentrációt meghaladó mennyiségben; a számítást a fogyasztásra kész termékekre vagy a gyártó utasítása alapján elkészített termékekre vonatkozóan kell elvégezni.
+13. Csillagfürt és a belőle készült termékek.
+14. Puhatestűek és a belőlük készült termékek.
+
+III. MELLÉKLET
+AZOK AZ ÉLELMISZEREK, AMELYEK JELÖLÉSÉN EGY VAGY TÖBB KIEGÉSZÍTŐ ELEMNEK KELL SZEREPELNIE
+ÉLELMISZER TÍPUSA VAGY CSOPORTJA | ELEMEK
+1. Bizonyos gázokkal csomagolt élelmiszerek | 1. Bizonyos gázokkal csomagolt élelmiszerek
+1.1. Élelmiszerek, amelyek eltarthatósága az 1333/2008/EK rendelet alapján engedélyezett csomagológázok révén meghosszabbodott. | „Védőgázas csomagolásban”.
+2. Édesítőszereket tartalmazó élelmiszerek | 2. Édesítőszereket tartalmazó élelmiszerek
+2.1. Élelmiszerek, amelyek az 1333/2008/EK rendelet alapján engedélyezett édesítőszert vagy édesítőszereket tartalmaznak. | „Édesítőszerrel (édesítőszerekkel)” – ezt a kifejezést az élelmiszer nevéhez kapcsolódóan kell feltüntetni.
+2.2. Élelmiszerek, amelyek az 1333/2008/EK rendelet alapján engedélyezett hozzáadott cukrot vagy cukrokat és édesítőszert vagy édesítőszereket egyaránt tartalmaznak. | „Cukorral (cukrokkal) és édesítőszerrel (édesítőszerekkel)” – ezt a kifejezést az élelmiszer nevéhez kapcsolódóan kell feltüntetni.
+2.3. Élelmiszerek, amelyek az 1333/2008/EK rendelet alapján engedélyezett aszpartámot/aszpartám-aceszulfámsót tartalmaznak. | „Aszpartámot (fenilalanin-forrást) tartalmaz” – ezt a kifejezést fel kell tüntetni abban az esetben, ha az aszpartám/aszpartám-aceszulfámsó csak E-számmal szerepel az összetevők felsorolásában. „Fenilalanin-forrást tartalmaz” – ezt a kifejezést fel kell tüntetni abban az esetben, ha az aszpartám/aszpartám-aceszulfámsó saját nevével szerepel az összetevők felsorolásában.
+2.4. Élelmiszerek, amelyek az 1333/2008/EK rendelet alapján engedélyezett hozzáadott poliolt 10 %-nál nagyobb arányban tartalmaznak. | „Túlzott fogyasztása hashajtó hatású lehet”.
+3. Glicirrizinsavat vagy annak ammóniumsóját tartalmazó élelmiszerek | 3. Glicirrizinsavat vagy annak ammóniumsóját tartalmazó élelmiszerek
+3.1. Glicirrizinsavat vagy annak ammóniumsóját ezen anyag(ok) vagy Glycyrrhiza glabra édesgyökér növény hozzáadása révén, legalább 100 mg/kg vagy 10 mg/l koncentrációban tartalmazó édességek vagy italok. | Az „édesgyökeret tartalmaz” kifejezést közvetlenül az összetevők felsorolása után fel kell tüntetni, kivéve, ha az „édesgyökér” kifejezés már szerepel az összetevők felsorolásában vagy az élelmiszer nevében. Ha az összetevők felsorolása nincs feltüntetve, ezt a kifejezést az élelmiszer nevéhez kapcsolódóan kell feltüntetni.
+3.2. Glicirrizinsavat vagy annak ammóniumsóját ezen anyag(ok) vagy Glycyrrhiza glabra édesgyökér növény hozzáadása révén, legalább 4 g/kg koncentrációban tartalmazó édességek. | Az összetevők felsorolását követően a következőt kell feltüntetni: „édesgyökeret tartalmaz – magas vérnyomásban szenvedők kerüljék a túlzott fogyasztást”. Ha az összetevők felsorolása nincs feltüntetve, ezt a kifejezést az élelmiszer nevéhez kapcsolódóan kell feltüntetni.
+3.3. Glicirrizinsavat vagy annak ammóniumsóját ezen anyag(ok) vagy Glycyrrhiza glabra édesgyökér növény hozzáadása révén, legalább 50 mg/l, vagy 1,2 térfogatszázalékot meghaladó alkoholtartalmú italok esetén legalább 300 mg/l koncentrációban tartalmazó italok ( 1 ) . | Az összetevők felsorolását követően a következőt kell feltüntetni: „édesgyökeret tartalmaz – magas vérnyomásban szenvedők kerüljék a túlzott fogyasztást”. Ha az összetevők felsorolása nincs feltüntetve, ezt a kifejezést az élelmiszer nevéhez kapcsolódóan kell feltüntetni.
+4. Magas koffeintartalmú italok vagy hozzáadott koffeint tartalmazó élelmiszerek | 4. Magas koffeintartalmú italok vagy hozzáadott koffeint tartalmazó élelmiszerek
+4.1. Italok – kivéve azokat a kávé-, tea-, illetve kávé- vagy teakivonat-alapú italokat, amelyeknél az élelmiszer nevében szerepel a „kávé” vagy „tea” kifejezés: — amelyeket módosítás nélküli fogyasztásra szántak, és 150 milligramm/litert meghaladó arányban tartalmaznak bármilyen forrásból származó koffeint, vagy — amelyek koncentrált vagy szárított formájúak, és az eredeti állapotba való visszaállítás után 150 milligramm/litert meghaladó arányban tartalmaznak bármilyen forrásból származó koffeint. | „Magas koffeintartalmú. Fogyasztása gyermekek és terhes vagy szoptató nők számára nem ajánlott.” szövegű tájékoztatás az ital nevével megegyező látómezőben, amely után zárójelben és e rendelet 13. cikkének (1) bekezdésével összhangban hivatkozás következik a mg/100 ml formában kifejezett koffeintartalomra.
+4.2. Az italokon kívül egyéb élelmiszerek, amelyekhez a koffeint élettani célból adják hozzá. | ►C1 „Koffeint tartalmaz. Fogyasztása gyermekek és terhes nők számára nem ajánlott.” szövegű tájékoztatás a termék nevével megegyező látómezőben, amely után zárójelben és e rendelet 13. cikkének (1) bekezdésével összhangban hivatkozás következik a mg/100 g/ml formában kifejezett koffeintartalomra. Étrend-kiegészítők esetében a koffeintartalmat a jelölésen a javasolt napi fogyasztási mennyiségre vonatkoztatva kell kifejezni. ◄
+5. Hozzáadott fitoszterolokat, fitoszterol-észtereket, fitosztanolokat vagy fitosztanol-észtereket tartalmazó élelmiszerek | 5. Hozzáadott fitoszterolokat, fitoszterol-észtereket, fitosztanolokat vagy fitosztanol-észtereket tartalmazó élelmiszerek
+5.1. Hozzáadott fitoszterolokat, fitoszterol-észtereket, fitosztanolokat vagy fitosztanol-észtereket tartalmazó élelmiszerek vagy élelmiszer-összetevők. | 1. „Hozzáadott növényi szterolokat tartalmaz” vagy „hozzáadott növényi sztanolokat tartalmaz”, az élelmiszer nevével azonos látómezőben; 2. az összetevők felsorolásában fel kell tüntetni a hozzáadott fitoszterolok, fitoszterol-észterek, fitosztanolok vagy fitosztanol-észterek mennyiségét (az élelmiszer 100 g-jában vagy 100 ml-ének %-ában vagy az ekkora mennyiségben található szabad növényi szterolok/növényi sztanolok grammjában); ►M2 3. nyilatkozat, hogy a terméket nem szánják olyan személyeknek, akiknek nincs szükségük vérkoleszterinszintjük szabályozására; ◄ 4. nyilatkozat, hogy a koleszterinszint-csökkentő gyógykezelés alatt álló betegek a terméket kizárólag orvosi felügyelet mellett fogyaszthatják; 5. jól látható nyilatkozat arról, hogy az élelmiszer várandós és szoptató nők, illetve ötéves kor alatti gyermekek számára táplálkozási szempontból esetleg nem megfelelő; 6. arra vonatkozó tanács, hogy az élelmiszert kiegyensúlyozott és változatos étrend részeként kell felhasználni, beleértve a gyümölcsök és zöldségek rendszeres fogyasztását is, a karotinoidok szintjének fenntartása érdekében; 7. a fenti 3. pontban előírt nyilatkozattal megegyező látómezőben nyilatkozat arról, hogy a hozzáadott növényi szterolok/növényi sztanolok napi 3 grammot meghaladó mértékű fogyasztása kerülendő; 8. a szóban forgó élelmiszer vagy élelmiszer-összetevő adagjának meghatározása (lehetőleg grammban vagy milliliterben), a növényi szterol/növényi sztanol egyes adagokban található mennyiségével együtt.
+6. ►C1 Fagyasztott hús, fagyasztott előkészített húsok és fagyasztott feldolgozatlan halászati termékek ◄ | 6. ►C1 Fagyasztott hús, fagyasztott előkészített húsok és fagyasztott feldolgozatlan halászati termékek ◄
+►C1 6.1. Fagyasztott hús, fagyasztott előkészített húsok és fagyasztott feldolgozatlan halászati termékek. ◄ | A fagyasztás, vagy – amennyiben a terméket egynél több alkalommal fagyasztották le – az első fagyasztás időpontja, a X. melléklet 3. pontjának megfelelően.
+( 1 ) Az értéket a fogyasztásra kész vagy a gyártó útmutatásai szerint feloldott termékekre kell alkalmazni. | ( 1 ) Az értéket a fogyasztásra kész vagy a gyártó útmutatásai szerint feloldott termékekre kell alkalmazni.
+
+IV. MELLÉKLET
+AZ x-MAGASSÁG MEGHATÁROZÁSA
+x-MAGASSÁG
+Jelmagyarázat
+1 | Nyitó vonal
+2 | Betűmagasságot jelző vonal
+3 | Középvonal
+4 | Alapvonal
+5 | Záró vonal
+6 | x-magasság
+7 | Betűmagasság
+
+V. MELLÉKLET
+A KÖTELEZŐ TÁPÉRTÉKJELÖLÉS ALÓL MENTESÜLŐ ÉLELMISZEREK
+1. Feldolgozatlan termékek, amelyek egyetlen összetevőből vagy összetevőcsoportból állnak;
+2. feldolgozott termékek, amelyeken feldolgozásként kizárólag érlelést végeztek, és amelyek egyetlen összetevőből vagy összetevőcsoportból állnak;
+3. emberi fogyasztásra szánt vizek, beleértve azokat is, amelyekben az egyedüli hozzáadott összetevő a szén-dioxid és/vagy az aromák;
+4. fűszernövény, gyógynövény, fűszer vagy ezek keveréke;
+5. só és sóhelyettesítők;
+6. asztali édesítőszerek;
+7. a kávé- és cikóriakivonatokról szóló, 1999. február 22-i 1999/4/EK európai parlamenti és tanácsi irányelv ( 17 ) hatálya alá tartozó termékek, egész vagy őrölt kávébab és egész vagy őrölt koffeinmentes kávébab;
+8. olyan gyógynövény- és gyümölcstea, tea, koffeinmentes tea, instant vagy oldható tea vagy teakivonat, koffeinmentes instant vagy oldható tea vagy teakivonat, amely a tea tápértékét nem módosító aromákon kívül egyéb hozzáadott összetevőt nem tartalmaz;
+9. erjesztett ecetfélék és ecethelyettesítők, beleértve azokat, amelyekben az egyedüli hozzáadott összetevők az aromák;
+10. aromák;
+11. élelmiszer-adalékanyagok;
+12. technológiai segédanyagok;
+13. élelmiszerenzimek;
+14. zselatin;
+15. dzsemsűrítő anyagok;
+16. élesztő;
+17. rágógumi;
+18. olyan csomagolásban vagy tárolóedényben található élelmiszerek, amelyek legnagyobb felülete 25 cm 2 -nél kisebb;
+19. a végső fogyasztóhoz vagy a végső fogyasztót közvetlenül ellátó helyi kiskereskedelmi létesítményekbe közvetlenül a gyártó által, kis mennyiségben szállított élelmiszer, ideértve a kézműves élelmiszereket is.
+
+VI. MELLÉKLET
+AZ ÉLELMISZER NEVE ÉS KÍSÉRŐ ELEMEK
+A. RÉSZ — AZ ÉLELMISZER NEVÉT KÍSÉRŐ KÖTELEZŐ ELEMEK
+1. Az élelmiszer nevében vagy ahhoz kapcsolódóan szerepelnie kell az élelmiszer fizikai állapotának, valamint azon kezelési módszer meghatározásának, amelynek alávetették (például porított, újrafagyasztott, fagyasztva szárított, gyorsfagyasztott, koncentrált, füstölt), minden olyan esetben, amikor az ilyen tájékoztatás elmulasztása a vásárló félrevezetését jelentené.
+2. Az értékesítést megelőzően fagyasztva tárolt, majd kiolvasztott állapotban árusított élelmiszerek esetében az élelmiszer nevéhez hozzá kell fűzni a „kiolvasztott” megjelölést.
+Ez a rendelkezés nem alkalmazandó a következőkre:
+a) a késztermékben jelen lévő összetevőkre;
+b) olyan élelmiszerekre, amelyek esetében a fagyasztás az előállítási folyamat technológiai szempontból elengedhetetlen része;
+c) olyan élelmiszerekre, amelyek esetében a kiolvasztás nincs káros hatással az élelmiszer biztonságosságára vagy minőségére nézve.
+Ez a pont az 1. pont sérelme nélkül alkalmazandó.
+3. Az ionizáló energiával kezelt élelmiszerek jelölésében szerepelnie kell az alábbiak egyikének:
+„sugárkezelt” vagy „ionizáló sugárzással kezelt”, valamint az ionizáló sugárzással kezelt élelmiszerekre és élelmiszer-összetevőkre vonatkozó tagállami jogszabályok közelítéséről szóló, 1999. február 22-i 1999/2/EK európai parlamenti és a tanácsi irányelvben ( 18 ) szereplő egyéb megjelölések.
+4. Az olyan élelmiszerek esetében, amelyeknél a fogyasztók feltételezése szerint szokásosan vagy természetes módon jelen lévő valamely alkotóelemet vagy összetevőt más alkotóelemmel vagy összetevővel helyettesítették, a jelölésen – az összetevők felsorolásán kívül – egyértelműen meg kell nevezni a helyettesítésre részben vagy egészben használt alkotóelemet vagy összetevőt:
+a) a termék megnevezésének közvetlen közelében; és
+b) a termék megnevezésére használt betűméret legalább 75 %-át kitevő, x magasságú betűméretet használva, amely az e rendelet 13. cikkének (2) bekezdésében előírt legkisebb megengedett betűméretnél nem kisebb.
+5. Abban az esetben, ha a húskészítmények, előkészített húsok vagy halászati termékek más állatfajból származó fehérjét – beleértve a hidrolizált fehérjét is – tartalmaznak, az élelmiszer megnevezésének utalnia kell ezen fehérjék jelenlétére és származására.
+►C1 6. Olyan húskészítmények és előkészített húsok esetében, amelyek megjelenése ◄ darab, ízület, szelet, állati test vagy féltest, amennyiben a hozzáadott víz a késztermék tömegének 5 %-át meghaladja, az élelmiszer nevében fel kell tüntetni, hogy a termék hozzáadott vizet tartalmaz. Ugyanez a szabály alkalmazandó a halászati termékekre és feldolgozott halászati termékekre, amelyek megjelenése darab, ízület, szelet, haltest, filézett vagy egész hal formájú halászati termék.
+7. Azon húskészítmények, előkészített húsok és halászati termékek esetében, amelyek azt a látszatot keltik, hogy egy darab húsból vagy halból állnak, de valójában több darabból egyéb összetevőket – köztük élelmiszer-adalékanyagokat, élelmiszer-ipari enzimeket – felhasználva vagy más módon formázták őket egy darabbá, a jelölésen az alábbiakat kell feltüntetni:
+bolgárul | : | „формовано месо” és „формована риба”;
+spanyolul | : | „elaborado a partir de piezas de carne” és „elaborado a partir de piezas de pescado”;
+csehül | : | „ze spojovaných kousků masa” a „ze spojovaných kousků rybího masa”;
+dánul | : | „Sammensat af stykker af kød” és „Sammensat af stykker af fisk”;
+németül | : | „aus Fleischstücken zusammengefügt” és „aus Fischstücken zusammengefügt”;
+észtül | : | „liidetud liha” és „liidetud kala”;
+görögül | : | „μορφοποιημένο κρέας” és „μορφοποιημένο ψάρι”;
+angolul | : | „formed meat” és „formed fish”;
+franciául | : | „viande reconstituée” és „poisson reconstitué”;
+írül | : | „píosaí feola ceangailte” és „píosaí éisc ceangailte”;
+olaszul | : | „carne ricomposta” és „pesce ricomposto”;
+lettül | : | „formēta gaļa” és „formēta zivs”;
+litvánul | : | „sudarytas (-a) iš mėsos gabalų” és „sudarytas (-a) iš žuvies gabalų”;
+magyarul | : | „darabokból formázott hús” és „darabokból formázott hal”;
+máltaiul | : | „laħam rikostitwit” és „ħut rikostitwit”;
+hollandul | : | „samengesteld uit stukjes vlees” és „samengesteld uit stukjes vis”;
+lengyelül | : | „z połączonych kawałków mięsa” és „z połączonych kawałków ryby”;
+portugálul | : | „carne reconstituída” és „peixe reconstituído”;
+románul | : | „carne formată” és „carne de pește formată”;
+szlovákul | : | „zo spájaných kúskov mäsa” és „zo spájaných kúskov ryby”;
+szlovénül | : | „sestavljeno, iz koščkov oblikovano meso” és „sestavljene, iz koščkov oblikovane ribe”;
+finnül | : | „paloista yhdistetty liha” és „paloista yhdistetty kala”;
+svédül | : | „sammanfogade bitar av kött” és „sammanfogade bitar av fisk”.
+B. RÉSZ — A „DARÁLT HÚS” MEGNEVEZÉSÉRE VONATKOZÓ EGYEDI KÖVETELMÉNYEK
+1. Összetételre vonatkozó követelmények napi átlagon alapuló ellenőrzéssel:
+ | Zsírtartalom | Kollagén/húsfehérje arány ( 1 )
+— sovány húsból készített darált hús | ≤ 7 % | ≤ 12 %
+— darált marhahús | ≤ 20 % | ≤ 15 %
+— sertéshúst tartalmazó darált hús | ≤ 30 % | ≤ 18 %
+— egyéb fajok darált húsa | ≤ 25 % | ≤ 15 %
+( 1 ) A kollagén/húsfehérje arány százalékos arány, amely azt fejezi ki, hogy a húsfehérje milyen arányban tartalmaz kollagént. A kollagéntartalom a hidroxiprolin-tartalom nyolcszorosát jelenti. | ( 1 ) A kollagén/húsfehérje arány százalékos arány, amely azt fejezi ki, hogy a húsfehérje milyen arányban tartalmaz kollagént. A kollagéntartalom a hidroxiprolin-tartalom nyolcszorosát jelenti. | ( 1 ) A kollagén/húsfehérje arány százalékos arány, amely azt fejezi ki, hogy a húsfehérje milyen arányban tartalmaz kollagént. A kollagéntartalom a hidroxiprolin-tartalom nyolcszorosát jelenti.
+2. A jelölésnek a 853/2004/EK rendelet III. melléklete V. szakaszának IV. fejezetében meghatározott követelményeken felül a következő kifejezéseket is tartalmaznia kell:
+— „a zsírtartalom nem éri el a …”,
+— „a kollagén/húsfehérje arány nem éri el a …”.
+3. A tagállamok engedélyezhetik az olyan darált húsnak saját nemzeti piacukon való forgalomba hozatalát, amely nem felel meg az e rész 1. pontjában megállapított követelményeknek, de kizárólag nemzeti jelöléssel, amely nem téveszthető össze a 853/2004/EK rendelet 5. cikkének (1) bekezdésében előírt jelöléssel.
+C. RÉSZ — ►C1 A TÖLTELÉKES HÚSKÉSZÍTMÉNYEK BURKOLATÁNAK MEGNEVEZÉSÉRE VONATKOZÓ EGYEDI KÖVETELMÉNYEK
+Ha a töltelékes húskészítmény burkolata nem ehető, akkor azt fel kell tüntetni. ◄
+
+VII. MELLÉKLET
+AZ ÖSSZETEVŐK FELTÜNTETÉSE ÉS MEGNEVEZÉSE
+A. RÉSZ — EGYEDI RENDELKEZÉSEK AZ ÖSSZETEVŐK TÖMEGÜK SZERINTI CSÖKKENŐ SORRENDBEN TÖRTÉNŐ FELTÜNTETÉSÉRŐL
+Összetevők csoportja | A tömeg szerinti jelölésre vonatkozó rendelkezés
+1. Hozzáadott víz és illóanyagok | A késztermékben jelen lévő tömegük szerinti sorrendben sorolják fel. Egy élelmiszerben az összetevőként hozzáadott víz mennyiségét úgy számítják ki, hogy a késztermék összmennyiségéből levonják a felhasznált egyéb összetevők összmennyiségét. Ezt a mennyiséget nem kell figyelembe venni, ha tömege nem haladja meg a késztermék 5 %-át. ►C1 Ez az eltérés nem alkalmazandó a húsokra, az előkészített húsokra, a feldolgozatlan halászati termékekre és a feldolgozatlan kéthéjú kagylókra. ◄
+2. Koncentrált vagy dehidratált formában használt, majd a gyártásnál eredeti állapotukba visszaállított összetevők | A koncentrálásuk vagy dehidratálásuk előtt mért tömegük szerinti sorrendben is felsorolhatók.
+3. Összetevők, melyeket olyan koncentrált vagy dehidratált élelmiszerekben használnak, amelyek víz hozzáadásával hozhatók eredeti állapotba | Felsorolhatók az eredeti állapotba visszaállított termékben jelen lévő arányuk szerinti sorrendben is, feltéve, hogy az összetevők felsorolását megelőzi egy kifejezés, amely lehet például „hidratált termék összetevői:” vagy „felhasználásra kész termék összetevői”.
+4. Gyümölcsök, zöldségek vagy gombák, amelyek közül egyik összetevő sem emelkedik ki jelentősen tömegarányát tekintve, és élelmiszer-összetevőként várhatóan változó arányú keverékben kerülnek felhasználásra | Megengedett azok csoportos felsorolása az összetevők között „gyümölcsök”, „zöldségek”, illetve „gombák” gyűjtőnéven, amelyet a „változó arányban” kifejezés, majd a termékben ténylegesen jelen lévő gyümölcsök, zöldségek, illetve gombák felsorolása követ közvetlenül. Ilyen esetben a 18. cikk (1) bekezdésének megfelelően, a különféle gyümölcsök, zöldségek, illetve gombák teljes tömege alapján kell feltüntetni a keveréket az összetevők között.
+►C1 5. Fűszerek keverékei vagy fűszer-, illetve gyógynövények keverékei, ahol egyetlen adott fűszer, fűszernövény vagy gyógynövény sem emelkedik ki jelentősen a tömegarányát tekintve ◄ | Az összetevők felsorolhatók más sorrendben is, feltéve, hogy az összetevők felsorolásához csatolnak egy kifejezést, amely lehet például „változó arányban”.
+6. A késztermék kevesebb mint 2 %-át alkotó összetevők | Az egyéb összetevőket követően tetszőleges sorrendben is felsorolhatók.
+7. Egymáshoz hasonló, illetve egymással kölcsönösen helyettesíthető összetevők, amelyeket élelmiszer előállítása vagy elkészítése során úgy tudnak felhasználni, hogy az nem módosítja az élelmiszer összetételét, jellegét vagy élvezeti értékét, és amennyiben ezek a késztermék kevesebb mint 2 %-át alkotják | Az összetevők felsorolásakor a következőképpen is feltüntethetők: „…-t és/vagy …-t tartalmaz”, feltéve, hogy a késztermék tartalmaz legalább egyet a legfeljebb két ilyen összetevő közül. Ez a rendelkezés nem alkalmazandó az e melléklet C. részében felsorolt adalékanyagokra és összetevőkre, valamint a II. mellékletben szereplő, allergiát vagy intoleranciát okozó anyagokra és termékekre.
+8. Növényi eredetű finomított olajok | Megengedett azok csoportos felsorolása az összetevők között „növényi olajok” néven, amelyet közvetlenül követnie kell a növényi eredet leírásának, és amelyet a „változó arányban” kifejezés is követhet. Gyűjtőnév használata esetén a növényi olajokat a 18. cikk (1) bekezdésének megfelelően a jelen lévő olajok teljes tömege alapján kell feltüntetni az összetevők között. A „teljes mértékben hidrogénezett” vagy „részben hidrogénezett” kifejezést kötelező a hidrogénezett olajok megnevezéséhez hozzáfűzni.
+9. Növényi eredetű finomított zsírok | Megengedett azok csoportos felsorolása az összetevők között „növényi zsírok” néven, amelyet közvetlenül követnie kell a növényi eredet leírásának, és amelyet a „változó arányban” kifejezés is követhet. ►C1 Gyűjtőnév használata esetén a növényi zsírokat a 18. cikk (1) bekezdésének megfelelően a jelen lévő növényi zsírok teljes tömege alapján kell feltüntetni az összetevők között. ◄ A „teljes mértékben hidrogénezett” vagy „részben hidrogénezett” kifejezést kötelező a hidrogénezett zsírok megnevezéséhez hozzáfűzni.
+B. RÉSZ — BIZONYOS ÖSSZETEVŐKNEK A SAJÁT NÉV HELYETT A CSOPORT NEVÉVEL TÖRTÉNŐ MEGJELÖLÉSE
+A 21. cikk sérelme nélkül, az alább felsorolt élelmiszercsoportok egyikébe tartozó és egy másik élelmiszerben alkotóelemként megtalálható összetevőket pontos nevük helyett mindössze az adott csoport megnevezésével is meg lehet jelölni.
+Az élelmiszercsoport meghatározása | Megnevezés
+1. Állati eredetű finomított olajok | „Olaj”, az „állati” megjelöléssel, vagy a meghatározott állati eredet feltüntetésével. A „teljes mértékben hidrogénezett” vagy „részben hidrogénezett” kifejezést kötelező a hidrogénezett olajok megnevezéséhez hozzáfűzni.
+2. Állati eredetű finomított zsírok | „Zsír”, az „állati” megjelöléssel, vagy a meghatározott állati eredet feltüntetésével. A „teljes mértékben hidrogénezett” vagy „részben hidrogénezett” kifejezést kötelező a hidrogénezett zsírok megnevezéséhez hozzáfűzni.
+3. Két vagy több gabonaféléből nyert liszt keveréke | „Liszt”, amelyet azon gabonafélék felsorolása követ, amelyekből azt előállították, tömegük szerint csökkenő sorrendben.
+4. Keményítő és fizikai úton vagy enzimekkel módosított keményítő | „Keményítő”
+5. Minden halfajta, amennyiben a hal egy másik élelmiszer összetevőjét képezi, és feltéve, hogy az ilyen élelmiszer neve és kiszerelése nem utal egy adott halfajra | „Hal”
+6. Minden sajtféleség, amennyiben az adott sajt vagy sajtkeverék egy másik élelmiszer összetevőjét képezi, és feltéve, hogy az ilyen élelmiszer neve és kiszerelése nem utal egy adott sajtféleségre | „Sajt”
+7. Minden olyan fűszer, amelynek tömege nem haladja meg az élelmiszer tömegének 2 %-át | „Fűszer(ek)” vagy „kevert fűszerek”
+8. Minden olyan fűszernövény, gyógynövény vagy fűszernövény- illetve gyógynövényrész, amelynek tömege nem haladja meg az élelmiszer tömegének 2 %-át | „Fűszernövény(ek), gyógynövény(ek)” vagy „kevert fűszer-, illetve gyógynövények”
+9. Minden fajta gumikészítmény, amelyet a rágógumi gumialapjának gyártásához használnak | „Rágógumi-alapanyag”
+10. Sütőipari termékekből készült morzsák, kétszersültek | „Morzsa” vagy „kétszersült” az esettől függően
+11. Bármilyen típusú szacharóz | „Cukor”
+12. Vízmentes dextróz vagy dextróz-monohidrát | „Dextróz”
+13. Glükózszirup és vízmentes glükózszirup | „Glükózszirup”
+14. Bármilyen fajta tejfehérje (kazeinek, kazeinátok és tejsavó fehérjék) és ilyenek keveréke | „Tejfehérje”
+15. Sajtolt, kiválasztott vagy tisztított kakaóvaj | „Kakaóvaj”
+16. Bármilyen fajta, az 1234/2007/EK tanácsi rendelet ( 1 ) XI. melléklete B. részének hatálya alá tartozó bor | „Bor”
+17. Az emlős állatok és madárfajok emberi fogyasztásra alkalmasnak minősített, természetes alkotórészüket képező vagy hozzájuk kötődő szövetből álló vázizomzata ( 2 ) , ahol az összes zsír- és kötőszövet-állomány nem haladja meg az alább jelzett értékeket, és ahol a hús valamely más élelmiszer összetevőjét képezi. A „… hús” kifejezéssel megjelölt összetevők legnagyobb zsír- és kötőszövet-tartalma Állatfaj Zsírtartalom Kollagén/hús-fehérje arány ( 1 ) — Emlősök (a nyulakon és a sertésféléken kívül), valamint különböző állatfajok keveréke, amelyben az emlősök húsa van nagyobb mennyiségben 25 % 25 % — Sertésfélék 30 % 25 % — Madarak és nyulak 15 % 10 % ( 1 ) A kollagén/húsfehérje arány százalékos arány, amely azt fejezi ki, hogy a húsfehérje milyen arányban tartalmaz kollagént. A kollagéntartalom a hidroxiprolin-tartalom nyolcszorosát jelenti. Amennyiben e felső határértékeket túllépik, de a „hús” meghatározásra vonatkozó összes egyéb feltételnek megfelelnek, akkor a „… hús” tartalmat ennek megfelelően lefelé kell kiigazítani, valamint az összetevők jegyzékében a „… hús” kifejezés mellett meg kell említeni a zsír és/vagy kötőszövet jelenlétét is. A „csontokról mechanikusan lefejtett hús” fogalommeghatározás körébe tartozó termékek nem tartoznak e fogalommeghatározásba. | „… hús”, kiegészítve azon állatfajok nevével ( 3 ) , amelyből származik.
+18. A „csontokról mechanikusan lefejtett hús” fogalommeghatározásba tartozó termékek összes fajtája. | „csontokról mechanikusan lefejtett hús”, kiegészítve azon állatfajok neve(i)vel ( 3 ) , amelyekből származik
+( 1 ) HL L 299., 2007.11.16., 1. o. ( 2 ) A rekeszizom és a rágóizmok a vázizmok közé tartoznak, míg a szív, a nyelv, a fej izmai (a rágóizmok kivételével), az elülső és hátsó lábtő és a farok izmai nem tartoznak ide. ( 3 ) Angol nyelvű jelölés esetén ez a megnevezés az érintett állatfaj húsának szokásos elnevezésével helyettesíthető. | ( 1 ) HL L 299., 2007.11.16., 1. o. ( 2 ) A rekeszizom és a rágóizmok a vázizmok közé tartoznak, míg a szív, a nyelv, a fej izmai (a rágóizmok kivételével), az elülső és hátsó lábtő és a farok izmai nem tartoznak ide. ( 3 ) Angol nyelvű jelölés esetén ez a megnevezés az érintett állatfaj húsának szokásos elnevezésével helyettesíthető.
+C. RÉSZ — BIZONYOS ÖSSZETEVŐKNEK A CSOPORT NEVÉVEL TÖRTÉNŐ MEGJELÖLÉSE, SAJÁT NEVÜKKEL VAGY E-SZÁMUKKAL KIEGÉSZÍTVE
+A 21. cikk sérelme nélkül, a 20. cikk b) pontjában meghatározottaktól eltérő és az e részben felsorolt csoportok valamelyikébe tartozó élelmiszer-adalékanyagokat és élelmiszerenzimeket az adott csoport nevével kell megjelölni, saját nevükkel vagy adott esetben E-számukkal kiegészítve. Ha egy összetevő egynél több csoportba tartozik, a szóban forgó élelmiszer esetében a fő funkciónak megfelelő csoportot kell feltüntetni.
+Étkezési sav
+Savanyúságot szabályozó anyag
+►C2 Csomósodást gátló anyag ◄
+Habzásgátló
+Antioxidáns
+Tömegnövelő szer
+Színezék
+Emulgeálószer
+Emulgeálósók ( 19 )
+Szilárdítóanyag
+Ízfokozó
+Lisztkezelő szer
+Habosítószer
+Zselésítőanyag
+Fényezőanyag
+Nedvesítőszer
+Módosított keményítő ( 20 )
+Tartósítószer
+Hajtógáz
+Térfogatnövelő szer
+Kelátképző anyag
+Stabilizátor
+Édesítőszer
+Sűrítőanyag
+D. RÉSZ — AZ AROMÁK JELÖLÉSE AZ ÖSSZETEVŐK FELSOROLÁSÁBAN
+1. Az aromákat az alábbi kifejezésekkel kell jelölni:
+— az „aroma/aromák” szóval vagy az aroma pontosabb megjelölésével vagy leírásával, ha az aroma-összetevő az 1334/2008/EK rendelet 3. cikke (2) bekezdésének b), c), d), e), f), g), és h) pontjában meghatározott aromaanyagokat tartalmaz,
+— „füstaroma” („füstaromák”) vagy „élelmiszer(ek)ből, vagy élelmiszer-kategóriákból vagy -alapanyagból (például bükkfából) előállított füstaroma (füstaromák)”, ha az aroma-összetevő az 1334/2008/EK rendelet 3. cikke (2) bekezdésének f) pontjában meghatározott aromaanyagokat tartalmaz, és füstös ízt kölcsönöz az élelmiszernek.
+2. Az aromaanyagok leírásában a „természetes” kifejezést az 1334/2008/EK rendelet 16. cikkével összhangban kell használni.
+3. A valamely élelmiszer előállítása vagy elkészítése során aromaként felhasznált kinint és/vagy koffeint az összetevők felsorolásában közvetlenül az „aroma” („aromák”) kifejezés után, név szerint kell megemlíteni.
+E. RÉSZ — AZ ÖSSZETETT ÖSSZETEVŐK MEGJELÖLÉSE
+1. Egy összetett összetevőt saját nevével, teljes tömegének megadásával akkor lehet szerepeltetni az összetevők felsorolásában, amennyiben ezt jogszabály állapítja meg, vagy ha névhasználata megszokott, és közvetlenül a neve után az összetevőinek felsorolása szerepel.
+2. A 21. cikk sérelme nélkül az összetett összetevők esetében az összetevők felsorolásának megadása nem kötelező:
+a) amennyiben a jelenlegi uniós rendelkezések meghatározzák az összetett összetevő összetételét, és amennyiben az összetett összetevő a késztermék tömegének kevesebb mint 2 %-át teszi ki; ez a rendelkezés azonban a 20. cikk a)–d) pontjának rendelkezéseire is figyelemmel nem alkalmazandó az élelmiszer-adalékanyagokra;
+►C1 b) fűszerek és/vagy fűszer-, illetve gyógynövények keverékéből álló összetett összetevők, amelyek a készterméknek kevesebb mint 2 %-át teszik ki, ◄ ez azonban a 20. cikk a)–d) pontjának rendelkezéseire is figyelemmel nem vonatkozik az élelmiszer-adalékanyagokra; vagy
+c) amennyiben a összetett összetevő olyan élelmiszer, amelyre vonatkozóan az uniós rendelkezések nem teszik kötelezővé az összetevők felsorolásának megadását.
+
+VIII. MELLÉKLET
+AZ ÖSSZETEVŐK MENNYISÉGI JELÖLÉSE
+1. A mennyiségi jelölés nem kötelező:
+a) a következő összetevők vagy összetevők csoportja tekintetében:
+i. amely töltőtömegét a IX. melléklet 5. pontjának megfelelően feltüntették;
+ii. amely mennyiségének jelölésen való feltüntetése uniós rendelkezések értelmében már kötelező;
+iii. amelyet kis mennyiségben használnak ízesítés céljára; vagy
+iv. amelynek – jóllehet megjelenik az élelmiszer nevében – a jellege nem olyan, hogy meghatározóan befolyásolhatná a fogyasztó választását a forgalmazás szerinti országban, mivel a mennyiségi különbségek nem alapvetők az élelmiszer jellemzése szempontjából, és nem különböztetik meg azt hasonló élelmiszerektől;
+b) amennyiben a külön uniós rendelkezések pontosan előírják az összetevőnek vagy összetevők csoportjának a mennyiségét anélkül, hogy előírnák annak feltüntetését a jelölésen; vagy
+c) a VII. melléklet A. részének 4. és 5. pontjában említett esetekben.
+2. A 22. cikk (1) bekezdésének a) és b) pontját nem kell alkalmazni az alábbiak esetében:
+a) bármely összetevő vagy összetevők csoportja, amelyre az „édesítőszerrel (édesítőszerekkel)” vagy „cukorral (cukrokkal) és édesítőszerrel (édesítőszerekkel)” jelölés vonatkozik, ha az élelmiszer nevét ez a jelölés követi, amint azt a III. melléklet előírja; vagy
+b) bármely hozzáadott vitamin és ásványi anyag, amennyiben az adott anyag a tápértékjelölésben szerepel.
+3. Valamely összetevő vagy összetevők csoportja mennyiségének jelölését:
+a) százalékban kell kifejezni, amelynek az összetevő vagy összetevők felhasználáskori mennyiségének kell megfelelnie; valamint
+b) az élelmiszer nevében vagy közvetlenül amellett, vagy az összetevők felsorolásában a szóban forgó összetevőhöz vagy összetevők csoportjához kapcsolva kell feltüntetni.
+4. A 3. ponttól eltérve,
+►C1 a) olyan élelmiszerek esetén, amelyek hőkezelés vagy egyéb kezelés következtében nedvességet veszítettek, a mennyiséget úgy kell százalékban kifejezni, hogy az megfeleljen a felhasznált összetevő(k) késztermékben képviselt arányának, kivéve, ha ◄ ez a mennyiség vagy a jelölésen felsorolt összes összetevő mennyiségének összege meghaladja a 100 százalékot, amely esetben az összetevőknek azt a mennyiségét kell megjelölni, amelyet 100 g késztermék elkészítéséhez használtak;
+b) az illékony összetevők mennyiségét a késztermékben jelen lévő arányban kell megadni;
+c) azon koncentrált vagy dehidratált formában felhasznált összetevők mennyisége, amelyeket az előállítás során eredeti állapotukba visszaállítanak, jelölhető a koncentrálásuk vagy dehidratálásuk előtti tömegük arányával;
+d) az olyan koncentrált vagy dehidratált élelmiszerek esetén, amelyeket víz hozzáadásával szándékoznak eredeti állapotukba visszaállítani, az összetevők mennyiségét a késztermékhez viszonyított tömegarányukkal adják meg.
+
+IX. MELLÉKLET
+A NETTÓ MENNYISÉG FELTÜNTETÉSE
+1. Nem kötelező a nettó mennyiséget feltüntetni olyan élelmiszerek esetében:
+a) amelyek térfogata vagy tömege jelentősen csökken, és amelyeket darabszámra adnak el, vagy amelyet megmérnek a vásárló jelenlétében;
+►C1 b) amelyek nettó mennyisége kevesebb mint 5 g vagy 5 ml; mindazonáltal ezt a rendelkezést nem kell alkalmazni a fűszerekre és a fűszer-, illetve gyógynövényekre; ◄ vagy
+c) amelyek értékesítése általában darabszám szerint történik, feltéve, hogy az egységek száma egyértelműen látszik, és könnyen megszámlálható kívülről, vagy amennyiben ez nem lehetséges, akkor azt a jelölésen feltüntetik.
+2. Amennyiben az uniós rendelkezések, vagy ezek hiányában a nemzeti rendelkezések egy bizonyos típusú mennyiség feltüntetését (pl. névleges mennyiség, legkevesebb mennyiség, átlagos mennyiség) írják elő, ezt a mennyiséget nettó mennyiségnek kell tekinteni ezen rendelet alkalmazásában.
+3. Amennyiben az előrecsomagolt élelmiszer két vagy több különálló előrecsomagolt egységből áll, amelyek azonos termékből azonos mennyiséget tartalmaznak, a nettó mennyiséget az egyes csomagok által tartalmazott nettó mennyiségnek, valamint az ilyen csomagok számának megadásával kell feltüntetni. Mindazonáltal nem kötelező ezen adatok feltüntetése, amennyiben az egyes csomagok teljes száma egyértelműen látszik és könnyen megszámlálható kívülről, továbbá az egyes különálló csomagokban lévő mennyiség legalább egy jelölése tisztán látható kívülről.
+4. Amennyiben az előrecsomagolt élelmiszer két vagy több különálló előrecsomagolt egységből áll, amelyek nem tekinthetők külön értékesítési egységnek, a nettó mennyiséget, a teljes nettó mennyisége feltüntetésével és a különálló csomagok darabszámával kell megadni.
+5. Amennyiben egy szilárd élelmiszert folyadékközegben hoznak forgalomba, a jelölésen fel kell tüntetni az élelmiszer töltőtömegét is. ►C1 Glazúrréteggel (jégréteggel) bevont élelmiszer esetében az élelmiszer nettó tömegeként a glazúrréteg (jégréteg) nélküli tömeget kell megadni. ◄
+E bekezdés alkalmazásában „folyadékközeg” az alábbi termékek egyike, esetleg e termékek keveréke, akár fagyasztott vagy gyorsfagyasztott állapotban is, feltéve, hogy a folyadék nem alapvető összetevője a készítménynek, és így nem meghatározó tényező a vásárláskor: víz, sók vizes oldatai, sós víz, étkezési savak vizes oldatai, ecet, cukorfélék vizes oldatai, más édesítőanyagok vizes oldatai, gyümölcsök vagy zöldségek esetében gyümölcsök vagy zöldségek leve.
+
+X. MELLÉKLET
+MINŐSÉGMEGŐRZÉSI, FOGYASZTHATÓSÁGI IDŐ ÉS A FAGYASZTÁS IDŐPONTJA
+1. A minőségmegőrzési időt a következőképpen kell feltüntetni:
+a) A dátumot az alábbi szavaknak kell megelőznie:
+— „Minőségét megőrzi: …”, amennyiben a dátumban szerepel a nap megjelölése,
+— „Minőségét megőrzi … végéig” más esetekben.
+b) Az a) pontban meghatározott szavakat a következőkkel kell kiegészíteni:
+— maga a dátum, vagy
+— utalás arra, hogy a dátum hol található a jelölésen.
+Ha szükséges, ezeket az adatokat azon tárolási feltételek leírásának kell követnie, amelyeket be kell tartani ahhoz, hogy a termék megőrizze minőségét a megadott időszakban.
+c) A dátum kódolatlan formában tartalmazza a napot, a hónapot és szükség szerint az évet, ebben a sorrendben.
+Mindazonáltal azon élelmiszerek esetében:
+— amelyek minőségüket három hónapnál rövidebb ideig őrzik meg, elegendő a nap és a hónap feltüntetése,
+— amelyek minőségüket három hónapnál több, de 18 hónapnál rövidebb ideig őrzik meg, elegendő a hónap és az év feltüntetése,
+— amelyek minőségüket 18 hónapnál hosszabb ideig őrzik meg, elegendő az év feltüntetése.
+d) Az egyéb típusú minőségmegőrzési időt előíró uniós rendelkezésekre is figyelemmel a minőségmegőrzési idő feltüntetése nem szükséges az alábbiak esetében:
+— friss gyümölcs és zöldség, beleértve a burgonyát, amelyet nem hámoztak meg, vágtak fel vagy kezeltek hasonló módon; ez az eltérés nem vonatkozik a csírázó magokra és a hasonló termékekre, például hüvelyes növények hajtásaira,
+— borok, likőrborok, pezsgők, aromás borok és hasonló termékek, amelyeket nem szőlőből, hanem más gyümölcsből állítottak elő, továbbá a 2206 00 KN-kód alá sorolt és szőlőből vagy szőlőmustból előállított italok,
+— legalább 10 térfogatszázalék alkoholt tartalmazó italok,
+— cukrász- vagy sütőipari termékek, amelyeket természetüknél fogva a gyártásuktól számított 24 órán belül elfogyasztanak,
+— ecet,
+— étkezési só,
+— szilárd halmazállapotú cukor,
+— édesipari termékek, amelyek csaknem kizárólag aromaanyagokat és/vagy színezett cukorféléket tartalmaznak,
+— rágógumi és hasonló rágnivaló termékek.
+2. A fogyaszthatósági időt a következőképpen kell feltüntetni:
+a) A dátumot a „Fogyasztható: …” szó előzi meg.
+b) Az a) pontban szereplő szót követi:
+— maga a dátum, vagy
+— utalás arra, hogy a dátum hol található a jelölésen.
+Ezen adatokat a tárolási feltételek leírásának kell követni.
+c) A dátum kódolatlan formában tartalmazza a napot, a hónapot és szükség szerint az évet, ebben a sorrendben.
+d) A fogyaszthatósági időt minden egyes előre csomagolt adagon fel kell tüntetni.
+3. A III. melléklet 6. pontjában említett fagyasztási vagy első fagyasztási időpontot a következőképpen kell feltüntetni:
+a) A dátumot a „Fagyasztás időpontja: …” kifejezés előzi meg.
+b) Az a) pontban említett szót követi:
+— maga a dátum, vagy
+— utalás arra, hogy a dátum hol található a jelölésen.
+c) A dátum kódolatlan formában tartalmazza a napot, a hónapot és az évet, ebben a sorrendben.
+
+XI. MELLÉKLET
+HÚSFAJTÁK, AMELYEK ESETÉBEN A SZÁRMAZÁSI ORSZÁGNAK VAGY AZ EREDET HELYÉNEK A MEGJELÖLÉSE KÖTELEZŐ
+KN-kódok (Kombinált Nómenklatúra, 2010) | Megnevezés
+0203 | Sertéshús, friss, hűtött vagy fagyasztott
+0204 | Juh- vagy kecskehús frissen, hűtve vagy fagyasztva
+Ex 02 07 | A 0105 vtsz. alá tartozó baromfi húsa, frissen, hűtve vagy fagyasztva
+
+XII. MELLÉKLET
+ALKOHOLTARTALOM
+Az 1,2 térfogatszázalékot meghaladó alkoholtartalmú italok tényleges alkoholtartalmát kifejező számot legfeljebb egy tizedesjegyig kell megadni. Ezt a „% vol” vagy a „% (V/V)” jel követi, és az „alkohol” szó vagy az „alk.” vagy „alc.” rövidítés előzheti meg.
+Az alkoholtartalmat 20 °C-on kell meghatározni.
+A térfogatszázalékban kifejezett alkoholtartalom feltüntetésekor megengedett, abszolút értékben kifejezett pozitív és negatív tűréshatárok a következő táblázatban szerepelnek. Ezeket az alkoholtartalom meghatározására használt vizsgálati módszerből származtatott tűréshatárok sérelme nélkül kell alkalmazni.
+Az ital leírása | Pozitív vagy negatív tűréshatár
+1. A 2203 00 KN-kód alá tartozó, az 5,5 térfogatszázalékot meg nem haladó alkoholtartalmú sörök; a 2206 00 KN-kód alá tartozó, szőlőből előállított nem habzóborok; | 0,5 térfogatszázalék
+2. Az 5,5 térfogatszázalékot meghaladó alkoholtartalmú sörök; a 2206 00 KN-kód alá tartozó, szőlőből előállított habzóborok, valamint az almabor, körtebor, gyümölcsbor és hasonló, szőlőtől eltérő gyümölcsből készült, akár gyöngyöző-, akár habzóbor; mézbor; | 1 térfogatszázalék
+3. A macerált gyümölcsöket vagy növényi részeket tartalmazó italok; | 1,5 térfogatszázalék
+4. Minden egyéb, 1,2 térfogatszázalékot meghaladó alkoholtartalmú ital. | 0,3 térfogatszázalék
+
+XIII. MELLÉKLET
+BEVITELI REFERENCIAÉRTÉKEK
+A. RÉSZ – VITAMINOK ÉS ÁSVÁNYI ANYAGOK NAPI BEVITELI REFERENCIAÉRTÉKEI (FELNŐTTEK ESETÉBEN)
+1. A feltüntethető vitaminok és ásványi anyagok, valamint ezek táplálkozási referenciaértékei (NRV)
+A-vitamin (μg) | 800
+D-vitamin (μg) | 5
+E-vitamin (mg) | 12
+K-vitamin (μg) | 75
+C-vitamin (mg) | 80
+Tiamin (mg) | 1,1
+Riboflavin (mg) | 1,4
+Niacin (mg) | 16
+B6-vitamin (mg) | 1,4
+Folsav (μg) | 200
+B12-vitamin (μg) | 2,5
+Biotin (μg) | 50
+Pantoténsav (mg) | 6
+Kálium (mg) | 2 000
+Klorid (mg) | 800
+Kalcium (mg) | 800
+Foszfor (mg) | 700
+Magnézium (mg) | 375
+Vas (mg) | 14
+Cink (mg) | 10
+Réz (mg) | 1
+Mangán (mg) | 2
+Fluor (mg) | 3,5
+Szelén (μg) | 55
+Króm (μg) | 40
+Molibdén (μg) | 50
+Jód (μg) | 150
+2. Jelentős mennyiségű vitamin és ásványi anyag
+A jelentős mennyiség meghatározásánál alapszabályként az alábbi értékeket kell figyelembe venni:
+— az italok kivételével minden más termék esetében a 100 grammonként vagy 100 milliliterenként megadott, az 1. pontban meghatározott táplálkozási referenciaértékek 15 %-a,
+— az italok esetében a 100 milliliterenként megadott, az 1. pontban meghatározott táplálkozási referenciaértékek 7,5 %-a, vagy
+— egy adagot tartalmazó csomagolás esetében az adagonként megadott, az 1. pontban meghatározott táplálkozási referenciaértékek 15 %-a.
+B. RÉSZ – AZ ENERGIA, VALAMINT A VITAMINOKTÓL ÉS ÁSVÁNYI ANYAGOKTÓL ELTÉRŐ EGYES TÁPANYAGOK BEVITELI REFERENCIAÉRTÉKEI (FELNŐTTEK ESETÉBEN)
+Energia vagy tápanyag | Beviteli referenciaérték
+Energia | 8 400 kJ/2 000 kcal
+Összes zsír | 70 g
+Telített zsírsavak | 20 g
+Szénhidrátok | 260 g
+Cukrok | 90 g
+Fehérje | 50 g
+Só | 6 g
+
+XIV. MELLÉKLET
+ÁTVÁLTÁSI EGYÜTTHATÓK
+ÁTVÁLTÁSI EGYÜTTHATÓK AZ ENERGIA KISZÁMÍTÁSÁHOZ
+A feltüntetendő energiatartalmat a következő átváltási együtthatók alkalmazásával kell kiszámítani:
+— szénhidrát (a poliolok kivételével) | 17 kJ/g – 4 kcal/g
+— poliolok | 10 kJ/g – 2,4 kcal/g
+— fehérje | 17 kJ/g – 4 kcal/g
+— zsír | 37 kJ/g – 9 kcal/g
+►C1 — szalatrimok ◄ | 25 kJ/g – 6 kcal/g
+— alkohol (etil-alkohol) | 29 kJ/g – 7 kcal/g
+— szerves sav | 13 kJ/g – 3 kcal/g
+— rost | 8 kJ/g – 2 kcal/g
+— eritrit | 0 kJ/g – 0 kcal/g
+
+XV. MELLÉKLET
+A TÁPÉRTÉKJELÖLÉS KIFEJEZÉSE ÉS FELTÜNTETÉSE
+A tápértékjelölésben az energiára (kilojoule, (kJ) és kilokalória, (kcal)), valamint a tömegre (gramm (g), milligramm (mg) vagy mikrogramm (μg)) vonatkozóan használandó mértékegységek, valamint adott esetben az információk feltüntetési sorrendje a következő:
+energia | kJ/kcal
+zsír | g
+amelyből | amelyből
+— telített zsírsavak | g
+— egyszeresen telítetlen zsírsavak | g
+— többszörösen telítetlen zsírsavak | g
+szénhidrát | g
+amelyből | amelyből
+— cukrok | g
+— poliolok | g
+— keményítő | g
+rost | g
+fehérje | g
+só | g
+vitaminok és ásványi anyagok | a XIII. melléklet A. részének 1. pontjában megadott egységek
+
+( 1 ) HL L 139., 2004.4.30., 1. o.
+( 2 ) HL L 354., 2008.12.31., 7. o.
+( 3 ) HL L 354., 2008.12.31., 16. o.
+( 4 ) HL L 354., 2008.12.31., 34. o.
+( 5 ) HL L 139., 2004.4.30., 55. o.
+( 6 ) HL L 376., 2006.12.27., 21. o.
+( 7 ) HL L 93., 2006.3.31., 1. o.
+( 8 ) HL L 93., 2006.3.31., 12. o.
+( 9 ) HL L 183., 2002.7.12., 51. o.
+( 10 ) HL L 164., 2009.6.26., 45. o.
+( 11 ) HL L 124., 2009.5.20., 21. o.
+( 12 ) HL L 204., 1998.7.21., 37. o.
+( 13 ) HL L 304., 2011.11.22., 18. o.”
+( 14 ) HL L 304., 2011.11.22., 18. o.”
+( 15 ) HL L 314., 2009.12.1., 10. o.
+( 16 ) És a belőlük készült termékek, amennyiben a rajtuk elvégzett eljárás során nem növekszik az előállítás alapjául szolgáló termék EFSA által megállapított allergizáló hatás szintje.
+( 17 ) HL L 66., 1999.3.13., 26. o.
+( 18 ) HL L 66., 1999.3.13., 16. o.
+( 19 ) Csak az ömlesztett sajtok vagy ömlesztett sajt alapú termékek esetében.
+( 20 ) A saját nevet vagy E-számot nem szükséges feltüntetni.

@@ -1,0 +1,977 @@
+ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY (UE) NR 1169/2011
+z dnia 25 października 2011 r.
+w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004
+(Tekst mający znaczenie dla EOG)
+
+ROZDZIAŁ I
+PRZEPISY OGÓLNE
+
+Artykuł 1
+Przedmiot i zakres stosowania
+1. Niniejsze rozporządzenie stanowi podstawę zapewnienia wysokiego poziomu ochrony konsumentów w zakresie informacji na temat żywności, przy uwzględnieniu różnic percepcji ze strony konsumentów i ich potrzeb informacyjnych, z równoczesnym zapewnieniem płynnego funkcjonowania rynku wewnętrznego.
+2. Niniejsze rozporządzenie określa ogólne zasady, wymogi i zakresy odpowiedzialności dotyczące informacji na temat żywności, a w szczególności etykietowania żywności. Ustanawia ono środki gwarantujące konsumentom prawo do informacji oraz procedury przekazywania informacji na temat żywności, przy uwzględnieniu konieczności zapewnienia elastyczności wystarczającej do reagowania na przyszłe zmiany i nowe wymogi w zakresie informacji.
+3. Niniejsze rozporządzenie ma zastosowanie do podmiotów działających na rynku spożywczym na wszystkich etapach łańcucha żywnościowego, na których ich działania dotyczą przekazywania konsumentom informacji na temat żywności. Ma ono zastosowanie do wszelkich środków spożywczych przeznaczonych dla konsumenta finalnego, w tym do środków spożywczych dostarczanych przez zakłady żywienia zbiorowego i do środków spożywczych przeznaczonych do dostarczenia do zakładów żywienia zbiorowego.
+Niniejsze rozporządzenie ma zastosowanie do usług gastronomicznych świadczonych przez przedsiębiorstwa transportowe, jeżeli połączenie transportowe rozpoczyna się na terytorium państw członkowskich, do których zastosowanie mają Traktaty.
+4. Niniejsze rozporządzenie stosuje się bez uszczerbku dla wymogów dotyczących etykietowania, przewidzianych w szczególnych przepisach unijnych mających zastosowanie do szczególnych środków spożywczych.
+
+Artykuł 2
+Definicje
+1. Na użytek niniejszego rozporządzenia mają zastosowanie następujące definicje:
+a) definicje „żywności”, „prawa żywnościowego”, „przedsiębiorstwa spożywczego”, „podmiotu działającego na rynku spożywczym”, „handlu detalicznego”, „wprowadzenia na rynek” i „konsumenta finalnego” z art. 2 i art. 3 pkt 1, 2, 3, 7, 8 i 18 rozporządzenia (WE) nr 178/2002;
+b) definicje „przetwarzania”, „produktów nieprzetworzonych” i „produktów przetworzonych” z art. 2 ust. 1 lit. m), n) i o) rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych ( 1 );
+c) definicja „enzymu spożywczego” z art. 3 ust. 2 lit. a) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1332/2008 z dnia 16 grudnia 2008 r. w sprawie enzymów spożywczych ( 2 );
+d) definicje „dodatku do żywności”, „substancji pomocniczej w przetwórstwie” i „nośnika” z art. 3 ust. 2 lit. a) i b) oraz z pkt 5 załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności ( 3 );
+e) definicja „środków aromatyzujących (aromatów)” z art. 3 ust. 2 lit. a) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1334/2008 z dnia 16 grudnia 2008 r. w sprawie środków aromatyzujących i niektórych składników żywności o właściwościach aromatyzujących do użycia w oraz na środkach spożywczych ( 4 );
+f) definicje „mięsa”, „mięsa oddzielonego mechanicznie”, „surowych wyrobów mięsnych”, „produktów rybołówstwa” i „produktów mięsnych” z pkt 1.1, 1.14, 1.15, 3.1 i 7.1 załącznika I do rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego ( 5 );
+g) definicja „reklamy” z art. 2 lit. a) dyrektywy 2006/114/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. dotyczącej reklamy wprowadzającej w błąd i reklamy porównawczej ( 6 ).
+2. Zastosowanie mają również następujące definicje:
+a) „informacje na temat żywności” oznaczają informacje dotyczące danego środka spożywczego udostępniane konsumentowi finalnemu za pośrednictwem etykiety, innych materiałów towarzyszących lub innych środków, w tym nowoczesnych narzędzi technologicznych lub przekazu ustnego;
+b) „prawo dotyczące informacji na temat żywności” oznacza przepisy unijne regulujące informacje na temat żywności, w szczególności dotyczące etykietowania, w tym przepisy o ogólnym charakterze mające zastosowanie do wszystkich środków spożywczych w szczególnych okolicznościach lub do niektórych kategorii środków spożywczych oraz przepisy mające zastosowanie wyłącznie do określonych środków spożywczych;
+c) „obowiązkowe informacje na temat żywności” oznaczają dane szczegółowe, które muszą być przekazane konsumentowi finalnemu zgodnie z przepisami unijnymi;
+d) „zakład żywienia zbiorowego” oznacza wszelkie zakłady (w tym pojazdy oraz nieruchome lub ruchome punkty sprzedaży), takie jak restauracje, stołówki, szkoły, szpitale i przedsiębiorstwa świadczące usługi gastronomiczne, w których w ramach prowadzenia działalności gospodarczej przygotowuje się żywność gotową do spożycia przez konsumenta finalnego;
+e) „żywność opakowana” oznacza każdą pojedynczą sztukę przeznaczoną do prezentacji konsumentowi finalnemu i zakładom żywienia zbiorowego, składającą się ze środka spożywczego i opakowania, w które został on zapakowany przed oferowaniem na sprzedaż, niezależnie od tego, czy takie opakowanie obejmuje dany środek spożywczy całkowicie czy też jedynie częściowo, ale w każdym razie w taki sposób, że zawartość nie może być zmieniona bez otwarcia lub zmiany opakowania; „żywność opakowana” nie obejmuje żywności pakowanej w miejscu sprzedaży na życzenie konsumenta lub pakowanej do bezpośredniej sprzedaży;
+f) „składnik” oznacza każdą substancję lub produkt, w tym środki aromatyzujące, dodatki do żywności, enzymy spożywcze oraz każdy komponent składnika złożonego, użyte przy wytworzeniu lub przygotowywaniu danego środka spożywczego i nadal obecne w produkcie gotowym, nawet jeżeli ich forma uległa zmianie; pozostałości nie uważa się za składniki;
+g) „miejsce pochodzenia” oznacza miejsce, z którego według zamieszczonej informacji pochodzi dana żywność, a które nie stanowi „kraju pochodzenia” określonego zgodnie z art. 23–26 rozporządzenia (EWG) nr 2913/92; nazwa, firma lub adres podmiotu działającego na rynku spożywczym umieszczone na etykiecie nie stanowią oznaczenia kraju ani miejsca pochodzenia żywności w rozumieniu niniejszego rozporządzenia;
+h) „składnik złożony” oznacza składnik, który sam w sobie jest produktem zawierającym więcej niż jeden składnik;
+i) „etykieta” oznacza jakąkolwiek metkę, znak firmowy, znak handlowy, ilustrację lub inny opis pisany, drukowany, tłoczony, odbity lub w inny sposób naniesiony na opakowanie lub pojemnik z żywnością lub załączony do opakowania lub pojemnika z żywnością;
+j) „etykietowanie” oznacza wszelkie napisy, dane szczegółowe, znaki handlowe, nazwy marek, ilustracje lub symbole odnoszące się do danego środka spożywczego i umieszczone na wszelkiego rodzaju opakowaniu, dokumencie, ulotce, etykiecie, opasce lub pierścieniu towarzyszącym takiej żywności lub odnoszącym się do niej;
+k) „pole widzenia” oznacza wszystkie powierzchnie opakowania, których treść można odczytać z pojedynczego punktu widzenia;
+l) „główne pole widzenia” oznacza pole widzenia opakowania, które konsument najprawdopodobniej zobaczy przy pierwszym spojrzeniu na produkt w momencie zakupu i które umożliwia konsumentowi natychmiastową identyfikację produktu, jeśli chodzi o jego charakter lub rodzaj, a w stosownych przypadkach o jego markę. Jeżeli opakowanie ma kilka identycznych głównych pól widzenia, to główne pole widzenia jest polem wybranym przez podmiot działający na rynku spożywczym;
+m) „czytelność” oznacza fizyczny wygląd informacji, dzięki któremu informacja jest wizualnie dostępna ogółowi społeczeństwa, a który określają różne elementy, m.in. rozmiar czcionki, odstępy między literami, odstępy między wierszami, grubość linii pisma, barwa czcionki, rodzaj czcionki, stosunek szerokości liter do ich wysokości, powierzchnia materiału oraz kontrast między pismem a tłem;
+n) „nazwa przewidziana w przepisach” oznacza nazwę środka spożywczego określoną w mających zastosowanie przepisach unijnych lub, w przypadku braku takich przepisów unijnych, nazwę przewidzianą w przepisach ustawowych, wykonawczych i administracyjnych mających zastosowanie w państwie członkowskim, w którym żywność ta jest sprzedawana konsumentowi finalnemu lub zakładom żywienia zbiorowego;
+o) „nazwa zwyczajowa” oznacza nazwę, która jest akceptowana jako nazwa środka spożywczego przez konsumentów w państwie członkowskim, w którym żywność ta jest sprzedawana, bez potrzeby jej dalszego wyjaśniania;
+p) „nazwa opisowa” oznacza nazwę zawierającą opis środka spożywczego, a w razie potrzeby również jego zastosowania, który jest wystarczająco jasny, aby umożliwić konsumentom poznanie rzeczywistego charakteru tego środka spożywczego i odróżnienie go od innych produktów, z którymi może zostać pomylony;
+q) „podstawowy składnik” oznacza składnik lub składniki danego środka spożywczego, które stanowią więcej niż 50 % tego środka spożywczego lub które są na ogół kojarzone przez konsumenta z nazwą tego środka spożywczego i w odniesieniu do których jest wymagane w większości przypadków oznaczenie ilościowe;
+r) „data minimalnej trwałości środka spożywczego” oznacza datę, do której dany środek spożywczy zachowuje swoje szczególne właściwości pod warunkiem jego właściwego przechowywania;
+s) „składnik odżywczy” oznacza białko, węglowodany, tłuszcz, błonnik, sód, witaminy i składniki mineralne, wymienione w pkt 1 części A załącznika XIII do niniejszego rozporządzenia, oraz substancje, które należą do jednej z tych kategorii lub stanowią jej składniki;
+t) „wytworzony nanomateriał” oznacza każdy celowo wytworzony materiał, którego jeden lub więcej wymiarów jest rzędu 100 nm lub mniej lub który składa się z odrębnych elementów funkcjonalnych, wewnątrz lub na powierzchni, z których wiele ma jeden lub więcej wymiarów rzędu 100 nm lub mniej, włączając struktury, aglomeraty lub agregaty, które mogą mieć wielkość powyżej 100 nm, ale zachowują właściwości charakterystyczne nanoskali.
+Właściwości charakterystyczne nanoskali obejmują:
+(i) właściwości związane z określoną rozległą powierzchnią rozpatrywanych materiałów; lub
+(ii) szczególne właściwości fizyczno-chemiczne różniące się od właściwości tego samego materiału występującego w innej postaci niż nanomateriał;
+u) „środki porozumiewania się na odległość” oznaczają wszelkie środki, które bez jednoczesnej fizycznej obecności dostawcy i konsumenta mogą być wykorzystane do zawarcia umowy między tymi stronami.
+3. Na użytek niniejszego rozporządzenia kraj pochodzenia środka spożywczego odnosi się do pochodzenia środka spożywczego określonego zgodnie z art. 23–26 rozporządzenia (EWG) nr 2913/92.
+4. Zastosowanie mają również szczegółowe definicje określone w załączniku I.
+
+ROZDZIAŁ II
+OGÓLNE ZASADY DOTYCZĄCE INFORMACJI NA TEMAT ŻYWNOŚCI
+
+Artykuł 3
+Cele ogólne
+1. Podawanie informacji na temat żywności służy wysokiemu poziomowi ochrony zdrowia i interesów konsumentów przez zapewnienie konsumentom finalnym podstaw do dokonywania świadomych wyborów oraz bezpiecznego stosowania żywności, ze szczególnym uwzględnieniem uwarunkowań zdrowotnych, ekonomicznych, środowiskowych, społecznych i etycznych.
+2. Prawo dotyczące informacji na temat żywności ma na celu uzyskanie w Unii swobodnego przepływu legalnie wyprodukowanej i wprowadzonej na rynek żywności, w stosownych przypadkach z uwzględnieniem potrzeby ochrony słusznych interesów producentów i wspierania wytwarzania produktów odpowiedniej jakości.
+3. W przypadku gdy prawo dotyczące informacji na temat żywności wprowadza nowe wymogi, przyznaje się okres przejściowy po wejściu w życie nowych wymogów, z wyjątkiem należycie uzasadnionych przypadków. W okresie przejściowym środki spożywcze oznaczone etykietami niezgodnymi z nowymi wymogami mogą być wprowadzane na rynek, a zapasy takich środków spożywczych, które zostały wprowadzone na rynek przed zakończeniem okresu przejściowego, mogą być sprzedawane aż do ich wyczerpania.
+4. Podczas przygotowywania, oceny i przeglądu prawa dotyczącego informacji na temat żywności prowadzone są otwarte i przejrzyste konsultacje publiczne, w tym z zainteresowanymi stronami, bezpośrednio lub za pośrednictwem organów przedstawicielskich, chyba że nie pozwala na to pilny charakter sprawy.
+
+Artykuł 4
+Zasady dotyczące obowiązkowych informacji na temat żywności
+1. W przypadkach gdy prawo dotyczące informacji na temat żywności wymaga obowiązkowych informacji na temat żywności, dotyczy to w szczególności informacji zaliczanych do jednej z następujących kategorii:
+a) informacje o tożsamości i składzie, właściwościach lub innych cechach danego środka spożywczego;
+b) informacje o ochronie zdrowia konsumentów i bezpiecznym stosowaniu danego środka spożywczego. W szczególności obejmują one informacje na temat:
+(i) cech składu, które mogą być szkodliwe dla zdrowia niektórych grup konsumentów;
+(ii) trwałości, przechowywania i bezpieczeństwa użycia;
+(iii) skutków zdrowotnych, łącznie z zagrożeniami i konsekwencjami związanymi ze szkodliwym i niebezpiecznym spożywaniem danego środka spożywczego;
+c) informacje o charakterystyce żywieniowej, umożliwiające konsumentom, w tym konsumentom o szczególnych wymogach dietetycznych, podejmowanie świadomych wyborów.
+2. Przy rozważaniu potrzeby umieszczania obowiązkowej informacji na temat żywności, w celu umożliwienia konsumentom dokonywania świadomych wyborów, uwzględnia się rozpowszechnione zapotrzebowanie większości z nich na niektóre informacje, które uważają za szczególnie cenne, lub wszelkie ogólnie akceptowane korzyści dla konsumentów.
+
+Artykuł 5
+Konsultacje z Europejskim Urzędem ds. Bezpieczeństwa Żywności
+Wszelkie środki unijne w zakresie prawa dotyczącego informacji na temat żywności, które mogą wywierać wpływ na zdrowie publiczne, przyjmowane są po uprzedniej konsultacji z Europejskim Urzędem ds. Bezpieczeństwa Żywności (zwanym dalej „Urzędem”).
+
+ROZDZIAŁ III
+OGÓLNE WYMOGI DOTYCZĄCE INFORMACJI NA TEMAT ŻYWNOŚCI I ZAKRESY ODPOWIEDZIALNOŚCI PODMIOTÓW DZIAŁAJĄCYCH NA RYNKU SPOŻYWCZYM
+
+Artykuł 6
+Wymóg podstawowy
+Każdemu środkowi spożywczemu przeznaczonemu do dostarczenia konsumentowi finalnemu lub do zakładów żywienia zbiorowego muszą towarzyszyć informacje na temat żywności zgodnie z niniejszym rozporządzeniem.
+
+Artykuł 7
+Rzetelne informowanie
+1. Informacje na temat żywności nie mogą wprowadzać w błąd, w szczególności:
+a) co do właściwości środka spożywczego, a w szczególności co do jego charakteru, tożsamości, właściwości, składu, ilości, trwałości, kraju lub miejsca pochodzenia, metod wytwarzania lub produkcji;
+b) przez przypisywanie środkowi spożywczemu działania lub właściwości, których on nie posiada;
+c) przez sugerowanie, że środek spożywczy ma szczególne właściwości, gdy w rzeczywistości wszystkie podobne środki spożywcze mają takie właściwości, zwłaszcza przez szczególne podkreślanie obecności lub braku określonych składników lub składników odżywczych;
+d) przez sugerowanie poprzez wygląd, opis lub prezentacje graficzne, że chodzi o określony środek spożywczy lub składnik, mimo że w rzeczywistości komponent lub składnik naturalnie obecny lub zwykle stosowany w danym środku spożywczym został zastąpiony innym komponentem lub innym składnikiem.
+2. Informacje na temat żywności muszą być rzetelne, jasne i łatwe do zrozumienia dla konsumenta.
+3. Z zastrzeżeniem odstępstw przewidzianych w prawie Unii mającym zastosowanie do naturalnych wód mineralnych i żywności specjalnego przeznaczenia żywieniowego informacje na temat żywności nie mogą przypisywać jakiemukolwiek środkowi spożywczemu właściwości zapobiegania chorobom lub leczenia chorób ludzi bądź też odwoływać się do takich właściwości.
+4. Ust. 1, 2 i 3 mają również zastosowanie do:
+a) reklamy;
+b) prezentacji środków spożywczych, w szczególności kształtu, wyglądu lub opakowania, zastosowanych materiałów opakowaniowych, sposobu ustawienia oraz otoczenia, w jakim są pokazywane.
+
+Artykuł 8
+Zakres odpowiedzialności
+1. Podmiotem działającym na rynku spożywczym odpowiedzialnym za informację na temat żywności jest podmiot, pod którego nazwą lub firmą jest wprowadzany na rynek dany środek spożywczy lub – jeżeli ten podmiot nie prowadzi działalności w Unii – importer danego środka na rynek Unii.
+2. Podmiot działający na rynku spożywczym odpowiedzialny za informację na temat żywności zapewnia obecność i rzetelność informacji na temat żywności zgodnie z mającym zastosowanie prawem dotyczącym informacji na temat żywności oraz z wymogami odpowiednich przepisów krajowych.
+3. Podmioty działające na rynku spożywczym, które nie mają wpływu na informacje na temat żywności, nie mogą dostarczać żywności, o której wiedzą lub w stosunku do której mają podejrzenia – w oparciu o informacje posiadane w ramach działalności zawodowej – że jest niezgodna z mającym zastosowanie prawem dotyczącym informacji na temat żywności oraz z wymogami odpowiednich przepisów krajowych.
+4. Podmioty działające na rynku spożywczym w przedsiębiorstwach pozostających pod ich kontrolą nie mogą modyfikować informacji towarzyszących środkowi spożywczemu, jeżeli taka modyfikacja wprowadzałaby w błąd konsumenta finalnego lub w inny sposób zmniejszała poziom ochrony konsumentów i możliwości dokonywania świadomego wyboru przez konsumenta finalnego. Podmioty działające na rynku spożywczym są odpowiedzialne za wszelkie zmiany, których dokonują w informacjach na temat żywności towarzyszących środkowi spożywczemu.
+5. Bez uszczerbku dla ust. 2–4 podmioty działające na rynku spożywczym zapewniają przestrzeganie w przedsiębiorstwach pozostających pod ich kontrolą wymogów prawa dotyczącego informacji na temat żywności i odpowiednich przepisów krajowych mających znaczenie dla ich działalności i upewniają się, że wymogi te są spełnione.
+6. Podmioty działające na rynku spożywczym zapewniają w przedsiębiorstwach pozostających pod ich kontrolą przekazywanie informacji na temat żywności nieopakowanej przeznaczonej do dostarczenia do konsumenta finalnego lub do zakładów żywienia zbiorowego podmiotowi działającemu na rynku spożywczym otrzymującemu żywność, aby umożliwić, tam gdzie jest to wymagane, przekazywanie konsumentom finalnym obowiązkowych informacji na temat żywności.
+7. W następujących przypadkach podmioty działające na rynku spożywczym zapewniają w przedsiębiorstwach pozostających pod ich kontrolą, by obowiązkowe dane szczegółowe wymagane na mocy art. 9 i 10 znajdowały się na opakowaniu lub na umieszczonej na nim etykiecie, lub też w dokumentach handlowych odnoszących się do tych środków spożywczych, w przypadkach gdy można zagwarantować, że dokumenty albo będą towarzyszyć żywności, do której się odnoszą, albo zostały wysłane przed dostawą lub równocześnie z dostawą:
+a) w przypadku gdy żywność opakowana jest przeznaczona dla konsumenta finalnego, lecz wprowadzana na rynek na etapie przed sprzedażą konsumentowi finalnemu i gdy na tym etapie nie odbywa się sprzedaż do zakładów żywienia zbiorowego;
+b) w przypadku gdy żywność opakowana jest przeznaczona do zaopatrzenia zakładów żywienia zbiorowego w celu przygotowania, przetwarzania, dzielenia lub krojenia na kawałki.
+Niezależnie od akapitu pierwszego podmioty działające na rynku spożywczym zapewniają, by dane szczegółowe, o których mowa w art. 9 ust. 1 lit. a), f), g) i h), znajdowały się również na opakowaniu zewnętrznym, w którym żywność opakowana jest prezentowana w obrocie.
+8. Podmioty działające na rynku spożywczym dostarczające innym podmiotom działającym na rynku spożywczym żywność nieprzeznaczoną dla konsumenta finalnego ani dla zakładów żywienia zbiorowego zapewniają przekazywanie tym innym podmiotom działającym na rynku spożywczym wystarczających informacji, które umożliwią im w stosownych przypadkach spełnienie ich obowiązków na mocy ust. 2.
+
+ROZDZIAŁ IV
+OBOWIĄZKOWE INFORMACJE NA TEMAT ŻYWNOŚCI
+
+SEKCJA 1
+Treść i prezentacja
+
+Artykuł 9
+Wykaz danych szczegółowych, których podanie jest obowiązkowe
+1. Zgodnie z art. 10–35 i z zastrzeżeniem określonych w niniejszym rozdziale wyjątków obowiązkowe jest podanie następujących danych szczegółowych:
+a) nazwa żywności;
+b) wykaz składników;
+c) wszelkie składniki lub substancje pomocnicze w przetwórstwie wymienione w załączniku II lub uzyskane z substancji lub produktów wymienionych w załączniku II, powodujące alergie lub reakcje nietolerancji, użyte przy wytworzeniu lub przygotowywaniu żywności i nadal obecne w produkcie gotowym, nawet jeżeli ich forma uległa zmianie;
+d) ilość określonych składników lub kategorii składników;
+e) ilość netto żywności;
+f) data minimalnej trwałości lub termin przydatności do spożycia;
+g) wszelkie specjalne warunki przechowywania lub warunki użycia;
+h) nazwa lub firma i adres podmiotu działającego na rynku spożywczym, o którym mowa w art. 8 ust. 1;
+i) kraj lub miejsce pochodzenia w przypadku przewidzianym w art. 26;
+j) instrukcja użycia, w przypadku gdy w razie braku takiej instrukcji odpowiednie użycie danego środka spożywczego byłoby utrudnione;
+k) w odniesieniu do napojów o zawartości alkoholu większej niż 1,2 % objętościowo, rzeczywista zawartość objętościowa alkoholu;
+l) informacja o wartości odżywczej.
+2. Dane szczegółowe, o których mowa w ust. 1, są określane słownie i liczbowo. Bez uszczerbku dla art. 35 dane te można dodatkowo wyrazić za pomocą piktogramów lub symboli.
+3. Jeżeli Komisja przyjmie akty delegowane i wykonawcze, o których mowa w niniejszym artykule, dane szczegółowe, o których mowa w ust. 1, mogą być alternatywnie wyrażane za pomocą piktogramów lub symboli zamiast słownie lub liczbowo.
+Aby zapewnić konsumentom korzystanie z innych środków wyrażania obowiązkowych informacji na temat żywności niż słownie i liczbowo i pod warunkiem zapewnienia takiego samego poziomu informacji jak w przypadku słów i liczb, Komisja może ustanowić w drodze aktów delegowanych zgodnie z art. 51, przy uwzględnieniu dowodów jednolitego zrozumienia tego przez konsumentów, kryteria, na których podstawie jedna lub więcej danych szczegółowych, o których mowa w ust. 1, może być wyrażana za pomocą piktogramów lub symboli zamiast słownie lub liczbowo.
+4. W celu zapewnienia jednolitego wykonywania ust. 3 niniejszego artykułu Komisja może przyjąć akty wykonawcze dotyczące trybu stosowania kryteriów określonych zgodnie z ust. 3 do wyrażania jednej lub więcej danych szczegółowych za pomocą piktogramów lub symboli zamiast słownie i liczbowo. Te akty wykonawcze przyjmuje się zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+
+Artykuł 10
+Dodatkowe obowiązkowe dane szczegółowe dotyczące szczególnych rodzajów lub kategorii żywności
+1. Poza danymi szczegółowymi wymienionymi w art. 9 ust. 1 w załączniku III określono dodatkowe obowiązkowe dane szczegółowe dotyczące szczególnych rodzajów lub kategorii żywności.
+2. W celu zapewnienia informacji dla konsumentów w odniesieniu do szczególnych rodzajów lub kategorii żywności oraz uwzględnienia postępu technicznego, rozwoju naukowego, ochrony zdrowia konsumentów lub bezpiecznego stosowania danego środka spożywczego Komisja może zmienić załącznik III w drodze aktów delegowanych zgodnie z art. 51.
+Jeżeli wymaga tego szczególnie pilny charakter sprawy w razie wystąpienia zagrożenia dla zdrowia konsumentów, do aktów delegowanych przyjmowanych na podstawie niniejszego artykułu zastosowanie ma procedura przewidziana w art. 52.
+
+Artykuł 11
+Wagi i miary
+Art. 9 nie narusza bardziej szczegółowych przepisów unijnych dotyczących wag i miar.
+
+Artykuł 12
+Dostępność i umieszczanie obowiązkowych informacji na temat żywności
+1. Obowiązkowe informacje na temat żywności muszą być łatwo dostępne, zgodnie z niniejszym rozporządzeniem, w odniesieniu do każdego środka spożywczego.
+2. W przypadku żywności opakowanej obowiązkowe informacje na temat żywności muszą się znajdować bezpośrednio na opakowaniu lub na załączonej do niego etykiecie.
+3. Aby zapewnić konsumentom korzystanie z innych sposobów dostarczania obowiązkowych informacji na temat żywności, lepiej dostosowanych do niektórych obowiązkowych danych szczegółowych, i pod warunkiem zapewnienia takiego samego poziomu informacji jak w przypadku podania ich na opakowaniu lub etykiecie, Komisja może ustanowić w drodze aktów delegowanych zgodnie z art. 51, przy uwzględnieniu dowodów jednolitego zrozumienia tego przez konsumentów i powszechnego korzystania przez nich z tych sposobów podawania informacji, kryteria, na których podstawie niektóre obowiązkowe dane szczegółowe mogą być wyrażane innymi sposobami niż przez podanie na opakowaniu lub etykiecie.
+4. W celu zapewnienia jednolitego wykonywania ust. 3 niniejszego artykułu Komisja może przyjąć akty wykonawcze dotyczące trybu stosowania kryteriów, o których mowa w ust. 3, do wyrażania niektórych obowiązkowych danych szczegółowych innymi sposobami niż przez podanie na opakowaniu lub etykiecie. Te akty wykonawcze przyjmuje się zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+5. Do żywności nieopakowanej zastosowanie ma art. 44.
+
+Artykuł 13
+Przedstawienie obowiązkowych danych szczegółowych
+1. Bez uszczerbku dla przepisów krajowych przyjętych na mocy art. 44 ust. 2 obowiązkowe informacje na temat żywności muszą być umieszczone w widocznym miejscu w taki sposób, aby były dobrze widoczne, wyraźnie czytelne oraz, w stosownych przypadkach, nieusuwalne. Nie mogą być w żaden sposób ukryte, zasłonięte, pomniejszone ani przerwane jakimikolwiek innymi nadrukami, ilustracjami czy innym materiałem.
+2. Bez uszczerbku dla szczególnych przepisów unijnych mających zastosowanie do szczególnych środków spożywczych obowiązkowe dane szczegółowe wymienione w art. 9 ust. 1 – jeśli znajdują się na opakowaniu lub na załączonej do niego etykiecie – są wydrukowane na opakowaniu lub etykiecie w sposób zapewniający wyraźną czytelność, z użyciem znaków o rozmiarze czcionki, której wysokość x, zdefiniowana w załączniku IV, wynosi co najmniej 1,2 mm.
+3. W przypadku opakowań lub pojemników, których największa powierzchnia ma pole mniejsze niż 80 cm 2 , wysokość x rozmiaru czcionki, o którym mowa w ust. 2, wynosi co najmniej 0,9 mm.
+4. Aby osiągnąć cele niniejszego rozporządzenia, Komisja ustanawia – w drodze aktów delegowanych zgodnie z art. 51 – kryteria dotyczące czytelności.
+W celu określonym w akapicie pierwszym Komisja może – w drodze aktów delegowanych zgodnie z art. 51 – rozszerzyć wymogi, o których mowa w ust. 5 niniejszego artykułu, o dodatkowe obowiązkowe dane szczegółowe w odniesieniu do szczególnych rodzajów lub kategorii żywności.
+5. Dane szczegółowe wymienione w art. 9 ust. 1 lit. a), e) i k) muszą znajdować się w tym samym polu widzenia.
+6. Ust. 5 niniejszego artykułu nie ma zastosowania w przypadkach określonych w art. 16 ust. 1 i 2.
+
+Artykuł 14
+Sprzedaż na odległość
+1. Bez uszczerbku dla wymogów informacyjnych określonych w art. 9 w przypadku żywności opakowanej oferowanej do sprzedaży za pośrednictwem środków porozumiewania się na odległość:
+a) obowiązkowe informacje na temat żywności, z wyjątkiem danych szczegółowych określonych w art. 9 ust. 1 lit. f), muszą być dostępne przed ostatecznym dokonaniem zakupu i muszą znajdować się w materiałach towarzyszących sprzedaży na odległość lub być dostarczane z użyciem innych właściwych środków wyraźnie określonych przez dany podmiot działający na rynku spożywczym. Kiedy używane są inne właściwe środki, obowiązkowe informacje na temat żywności dostarcza się bez obciążania konsumentów dodatkowymi kosztami przez podmiot działający na rynku spożywczym;
+b) wszystkie obowiązkowe dane szczegółowe muszą być dostępne w momencie dostawy.
+2. W przypadku żywności nieopakowanej oferowanej do sprzedaży za pośrednictwem środków porozumiewania się na odległość dane szczegółowe wymagane na mocy art. 44 są udostępniane zgodnie z ust. 1 niniejszego artykułu.
+3. Ust. 1 lit. a) nie ma zastosowania do żywności oferowanej do sprzedaży przy wykorzystaniu automatów do sprzedaży lub zautomatyzowanych lokali handlowych.
+
+Artykuł 15
+Wymogi językowe
+1. Bez uszczerbku dla art. 9 ust. 3 obowiązkowe informacje na temat żywności muszą być podawane w języku łatwo zrozumiałym dla konsumentów z państw członkowskich, w których dany środek spożywczy jest wprowadzany na rynek.
+2. Na swoim własnym terytorium państwa członkowskie, w których dany środek spożywczy jest wprowadzany na rynek, mogą określić, że dane szczegółowe są podawane w jednym lub kilku językach urzędowych Unii.
+3. Ust. 1 i 2 nie zabraniają podawania danych szczegółowych w kilku językach.
+
+Artykuł 16
+Pominięcie niektórych obowiązkowych danych szczegółowych
+1. W przypadku szklanych butelek przeznaczonych do ponownego użycia, które są trwale oznakowane i które z tego powodu nie mają etykiet, opasek czy pierścieni, obowiązkowe są jedynie dane szczegółowe wymienione w art. 9 ust. 1 lit. a), c), e), f) i l).
+2. W przypadku opakowań lub pojemników, których największa powierzchnia jest mniejsza niż 10 cm 2 , obowiązkowe jest zamieszczanie na opakowaniu lub na etykiecie jedynie danych szczegółowych wymienionych w art. 9 ust. 1 lit. a), c), e) i f). Dane szczegółowe, o których mowa w art. 9 ust. 1 lit. b), są podawane za pośrednictwem innych środków lub udostępniane na życzenie konsumenta.
+3. Bez uszczerbku dla innych przepisów unijnych wymagających obowiązkowej informacji o wartości odżywczej, w odniesieniu do środków spożywczych wymienionych w załączniku V nie jest obowiązkowe podawanie informacji, o której mowa w art. 9 ust. 1 lit. l).
+4. Bez uszczerbku dla innych przepisów unijnych wymagających wykazu składników lub obowiązkowej informacji o wartości odżywczej, dane szczegółowe, o których mowa w art. 9 ust. 1 lit. b) i l), nie są obowiązkowe w odniesieniu do napojów o zawartości alkoholu wyższej niż 1,2 % objętościowo.
+Do dnia 13 grudnia 2014 r. Komisja sporządza sprawozdanie dotyczące stosowania art. 18 i art. 30 ust. 1 w odniesieniu do produktów, o których mowa w niniejszym ustępie, w celu uzyskania odpowiedzi na pytanie, czy napoje alkoholowe powinny w przyszłości być objęte w szczególności obowiązkiem podawania informacji na temat wartości energetycznej, oraz powodów uzasadniających ewentualne wyłączenia, z uwzględnieniem potrzeby zapewnienia spójności z innymi właściwymi politykami Unii. W tym kontekście Komisja rozważa potrzebę zaproponowania definicji tzw. alkopopów.
+Sprawozdaniu Komisji towarzyszy wniosek ustawodawczy, w stosownych przypadkach określający zasady dotyczące wykazu składników lub obowiązkowej informacji o wartości odżywczej w odniesieniu do tych produktów.
+
+SEKCJA 2
+Przepisy szczegółowe dotyczące obowiązkowych danych szczegółowych
+
+Artykuł 17
+Nazwa środka spożywczego
+1. Nazwą środka spożywczego jest jego nazwa przewidziana w przepisach. W przypadku braku takiej nazwy nazwą środka spożywczego jest jego nazwa zwyczajowa, a jeśli nazwa zwyczajowa nie istnieje lub nie jest stosowana, przedstawia się nazwę opisową tego środka spożywczego.
+2. Dozwolone jest stosowanie w państwie członkowskim, w którym środek spożywczy jest wprowadzany na rynek, nazwy środka spożywczego, pod którą produkt ten jest legalnie produkowany i wprowadzany na rynek w państwie członkowskim produkcji. W przypadku gdy stosowanie innych przepisów niniejszego rozporządzenia, w szczególności zawartych w art. 9, uniemożliwiałoby jednak konsumentom w państwie członkowskim, w którym środek spożywczy jest wprowadzany na rynek, poznanie prawdziwego charakteru tego środka spożywczego oraz odróżnienie go od środka spożywczego, z którym mógłby być mylony, nazwa tego środka spożywczego jest uzupełniana innymi informacjami opisowymi, które znajdują się w pobliżu nazwy tego środka spożywczego.
+3. W wyjątkowych przypadkach nazwa środka spożywczego państwa członkowskiego produkcji nie może być stosowana w państwie członkowskim, w którym środek spożywczy wprowadzany jest na rynek, jeśli środek spożywczy w państwie członkowskim produkcji jest na tyle różny w zakresie swego składu lub sposobu wytwarzania od środka spożywczego znanego pod tą nazwą w państwie członkowskim, w którym środek spożywczy jest wprowadzany na rynek, że ust. 2 nie jest wystarczający do zapewnienia nabywcom w państwie członkowskim, w którym środek spożywczy jest wprowadzany na rynek, prawidłowej informacji.
+4. Nazwa środka spożywczego nie może być zastąpiona nazwą chronioną jako własność intelektualna, nazwą marki lub nazwą wymyśloną.
+5. Przepisy szczegółowe dotyczące nazwy środka spożywczego i danych szczegółowych, które mu towarzyszą, są określone w załączniku VI.
+
+Artykuł 18
+Wykaz składników
+1. Wykaz składników rozpoczyna się lub jest poprzedzony właściwym nagłówkiem, który składa się z wyrazu „składniki” lub zawiera ten wyraz. Obejmuje on wszystkie składniki środka spożywczego, w malejącej kolejności ich masy w momencie użycia składników przy wytwarzaniu tego środka spożywczego.
+2. Składniki oznaczane są ich szczegółowymi nazwami, o ile mają one zastosowanie, zgodnie z zasadami określonymi w art. 17 i w załączniku VI.
+3. Wszelkie składniki obecne w postaci wytworzonych nanomateriałów są wyraźnie wskazane w wykazie składników. Po nazwie tych składników umieszcza się w nawiasach wyraz „nano”.
+4. Przepisy techniczne dotyczące stosowania ust. 1 i 2 niniejszego artykułu określono w załączniku VII.
+5. Aby osiągnąć cele niniejszego rozporządzenia, Komisja, w drodze aktów delegowanych zgodnie z art. 51, dopasowuje i dostosowuje definicję wytworzonych nanomateriałów, o której mowa w art. 2 ust. 2 lit. t), do postępu technicznego i naukowego lub do definicji uzgodnionych na szczeblu międzynarodowym.
+
+Artykuł 19
+Pominięcie wykazu składników
+1. W przypadku następujących środków spożywczych nie jest konieczny wykaz składników:
+a) świeże owoce i warzywa, w tym ziemniaki, które nie są obrane, pokrojone ani podobnie przygotowane;
+b) woda gazowana, której opis wskazuje, że została nasycona dwutlenkiem węgla;
+c) ocet uzyskany wyłącznie z jednego podstawowego produktu metodą fermentacyjną, pod warunkiem że nie zostały dodane żadne inne składniki;
+d) ser, masło, fermentowane mleko i śmietana/śmietanka, do których nie zostały dodane składniki inne niż przetwory mleczne, enzymy spożywcze i kultury drobnoustrojów niezbędne do produkcji lub, w przypadku sera innego niż ser świeży i ser topiony, sól potrzebna do jego produkcji;
+e) środki spożywcze zawierające jeden składnik, gdy:
+(i) nazwa środka spożywczego jest identyczna z nazwą składnika; lub
+(ii) nazwa środka spożywczego umożliwia wyraźne zidentyfikowanie charakteru składnika.
+2. Aby uwzględnić znaczenie, jakie dla konsumenta mają wykazy składników w odniesieniu do szczególnych rodzajów lub kategorii żywności, Komisja może w wyjątkowych przypadkach uzupełnić ust. 1 niniejszego artykułu, w drodze aktów delegowanych zgodnie z art. 51, o ile w wyniku pominięć konsument finalny lub zakłady żywienia zbiorowego nie zostaną nieodpowiednio poinformowani.
+
+Artykuł 20
+Pominięcie komponentów żywności w wykazie składników
+Bez uszczerbku dla art. 21 następujące komponenty środka spożywczego nie muszą być uwzględniane w wykazie składników:
+a) komponenty składnika, które zostały tymczasowo oddzielone podczas procesu produkcyjnego i później ponownie dodane w ilości nieprzekraczającej ich pierwotnej zawartości;
+b) dodatki do żywności i enzymy spożywcze:
+(i) których obecność w danym środku spożywczym wynika wyłącznie z faktu, że były zawarte w jednym lub w większej liczbie składników takiego środka spożywczego, zgodnie z zasadą przenoszenia, o której mowa w art. 18 ust. 1 lit. a) i b) rozporządzenia (WE) nr 1333/2008, pod warunkiem że nie pełnią one żadnej funkcji technologicznej w produkcie gotowym; lub
+(ii) które są stosowane jako substancje pomocnicze w przetwórstwie;
+c) stosowane w ilościach ściśle niezbędnych nośniki i substancje, które nie są dodatkami do środków spożywczych, lecz są stosowane w taki sam sposób i w tym samym celu co nośniki;
+d) substancje, które nie są dodatkami do żywności, lecz są stosowane w taki sam sposób i w tym samym celu co substancje pomocnicze w przetwórstwie i są nadal obecne w produkcie gotowym, nawet w zmienionej formie;
+e) woda:
+(i) jeżeli woda jest użyta podczas procesu produkcyjnego wyłącznie do odtworzenia składnika użytego w postaci skoncentrowanej lub odwodnionej; lub
+(ii) w przypadku roztworu wodnego, który nie jest zwykle spożywany.
+
+Artykuł 21
+Etykietowanie niektórych substancji lub produktów powodujących alergie lub reakcje nietolerancji
+1. Bez uszczerbku dla przepisów przyjętych na mocy art. 44 ust. 2 dane szczegółowe, o których mowa w art. 9 ust. 1 lit. c), spełniają następujące wymogi:
+a) są oznaczane w wykazie składników zgodnie z zasadami określonymi w art. 18 ust. 1 z dokładnym odniesieniem do nazwy substancji lub produktu wymienionego w załączniku II; oraz
+b) nazwa substancji lub produktu wymienionego w załączniku II jest podkreślona za pomocą pisma wyraźnie odróżniającego ją od reszty wykazu składników, np. za pomocą czcionki, stylu lub koloru tła.
+W przypadku braku wykazu składników oznaczenie danych szczegółowych, o których mowa w art. 9 ust. 1 lit. c), obejmuje słowo „zawiera”, po którym podana jest nazwa substancji lub produktu wymienionego w załączniku II.
+Gdy kilka składników lub substancji pomocniczych w przetwórstwie będących częścią danego środka spożywczego pochodzi od pojedynczej substancji lub produktu, które wymienione są w załączniku II, w etykietowaniu jest to sprecyzowane w odniesieniu do każdego takiego składnika lub substancji pomocniczej w przetwórstwie.
+Oznaczenie danych szczegółowych, o których mowa w art. 9 ust. 1 lit. c), nie jest wymagane w przypadkach, gdy nazwa środka spożywczego wyraźnie odnosi się do danej substancji lub produktu.
+2. Aby zapewnić konsumentom lepszą informację i uwzględnić najnowszą wiedzę naukową i techniczną, Komisja systematycznie analizuje i w razie potrzeby uaktualnia wykaz w załączniku II w drodze aktów delegowanych zgodnie z art. 51.
+Jeżeli wymaga tego szczególnie pilny charakter sprawy w razie wystąpienia zagrożenia dla zdrowia konsumentów, do aktów delegowanych przyjmowanych na podstawie niniejszego artykułu zastosowanie ma procedura przewidziana w art. 52.
+
+Artykuł 22
+Oznaczanie ilościowe składników
+1. Oznaczenie ilości składnika lub kategorii składników użytych do wytwarzania lub przygotowania danego środka spożywczego jest obowiązkowe, gdy dany składnik lub dana kategoria składników:
+a) występują w nazwie środka spożywczego lub są zwykle kojarzone z tą nazwą przez konsumenta;
+b) są podkreślone w etykietowaniu słownie, obrazowo lub graficznie; lub
+c) są istotne w celu scharakteryzowania danego środka spożywczego i odróżnienia go od produktów, z którymi mógłby być mylony ze względu na jego nazwę lub wygląd.
+2. Przepisy techniczne dotyczące stosowania ust. 1, obejmujące określone przypadki, gdy w odniesieniu do pewnych składników nie jest wymagane oznaczenie ilościowe, zostały określone w załączniku VIII.
+
+Artykuł 23
+Ilość netto
+1. Ilość netto danego środka spożywczego jest wyrażana w litrach, centylitrach, mililitrach, kilogramach lub gramach, odpowiednio:
+a) w jednostkach objętości w przypadku produktów płynnych;
+b) w jednostkach masy w przypadku innych produktów.
+2. Aby zapewnić lepsze rozumienie przez konsumenta informacji na temat żywności podanych w etykietowaniu, Komisja może w odniesieniu do pewnych szczególnych środków spożywczych określić, w drodze aktów delegowanych zgodnie z art. 51, inny sposób wyrażania ilości netto niż sposób określony w ust. 1 niniejszego artykułu.
+3. Przepisy techniczne dotyczące stosowania ust. 1, obejmujące określone przypadki, gdy oznaczenie ilości netto nie jest wymagane, zostały określone w załączniku IX.
+
+Artykuł 24
+Data minimalnej trwałości, termin przydatności do spożycia i data zamrożenia
+1. W przypadku środków spożywczych, które z mikrobiologicznego punktu widzenia szybko się psują i z tego względu już po krótkim czasie mogą stanowić bezpośrednie zagrożenie dla zdrowia ludzkiego, datę minimalnej trwałości zastępuje się terminem przydatności do spożycia. Po upłynięciu terminu przydatności do spożycia środek spożywczy jest uznawany za niebezpieczny zgodnie z art. 14 ust. 2–5 rozporządzenia (WE) nr 178/2002.
+2. Odpowiednia data jest podawana zgodnie z załącznikiem X.
+3. Aby zapewnić jednolite stosowanie sposobu oznaczania daty minimalnej trwałości, o której mowa w załączniku X pkt 1 lit. c), Komisja może przyjmować akty wykonawcze ustanawiające zasady w tym względzie. Te akty wykonawcze przyjmuje się zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+
+Artykuł 25
+Warunki przechowywania lub warunki użycia
+1. Jeżeli środki spożywcze wymagają szczególnych warunków przechowywania lub warunków użycia, należy podać te warunki.
+2. Aby umożliwić odpowiednie przechowywanie lub użycie żywności po otwarciu opakowania, w stosownych przypadkach podaje się warunki przechowywania lub termin przydatności do spożycia.
+
+Artykuł 26
+Kraj lub miejsce pochodzenia
+1. Niniejszy artykuł stosuje się bez uszczerbku dla wymogów dotyczących etykietowania, przewidzianych w szczegółowych przepisach unijnych, w szczególności w rozporządzeniu Rady (WE) nr 509/2006 z dnia 20 marca 2006 r. w sprawie produktów rolnych i środków spożywczych będących gwarantowanymi tradycyjnymi specjalnościami ( 7 ) i w rozporządzeniu Rady (WE) nr 510/2006 z dnia 20 marca 2006 r. w sprawie ochrony oznaczeń geograficznych i nazw pochodzenia produktów rolnych i środków spożywczych ( 8 ).
+2. Wskazanie kraju lub miejsca pochodzenia jest obowiązkowe:
+a) w przypadku gdy zaniechanie ich wskazania mogłoby wprowadzać w błąd konsumenta co do rzeczywistego kraju lub miejsca pochodzenia środka spożywczego, w szczególności gdyby informacje towarzyszące środkowi spożywczemu lub etykieta jako całość mogły sugerować, że dany środek spożywczy pochodzi z innego kraju lub miejsca;
+b) w odniesieniu do mięsa objętego kodami Nomenklatury scalonej („CN”) wymienionymi w załączniku XI. Stosowanie niniejszej litery wymaga przyjęcia aktów wykonawczych, o których mowa w ust. 8.
+3. Jeżeli jest podany kraj lub miejsce pochodzenia danego środka spożywczego i gdy nie jest on taki sam jak kraj lub miejsce pochodzenia jego podstawowego składnika:
+a) podaje się również kraj lub miejsce pochodzenia tego podstawowego składnika; lub
+b) wskazuje się, że kraj lub miejsce pochodzenia tego podstawowego składnika jest inne niż kraj lub miejsce pochodzenia środka spożywczego.
+Stosowanie niniejszego ustępu wymaga przyjęcia aktów wykonawczych, o których mowa w ust. 8.
+4. W ciągu pięciu lat od daty rozpoczęcia stosowania ust. 2 lit. b) Komisja przedstawi Parlamentowi Europejskiemu i Radzie sprawozdanie, aby ocenić obowiązek wskazania kraju lub miejsca pochodzenia w odniesieniu do produktów, o których mowa w ust. 2 lit. b).
+5. Do dnia 13 grudnia 2014 r. Komisja przedstawi Parlamentowi Europejskiemu i Radzie sprawozdania na temat obowiązku wskazania kraju lub miejsca pochodzenia w odniesieniu do następujących rodzajów żywności:
+a) rodzajów mięsa innych niż wołowina oraz niż te, o których mowa w ust. 2 lit. b);
+b) mleka;
+c) mleka wykorzystywanego jako składnik w produktach mlecznych;
+d) nieprzetworzonych środków spożywczych;
+e) produktów jednoskładnikowych;
+f) składników, które stanowią więcej niż 50 % środka spożywczego.
+6. Do dnia 13 grudnia 2013 r. Komisja przedstawi Parlamentowi Europejskiemu i Radzie sprawozdanie na temat obowiązku wskazania kraju lub miejsca pochodzenia w odniesieniu do mięsa wykorzystywanego jako składnik.
+7. Sprawozdania, o których mowa w ust. 5 i 6, uwzględniają potrzebę uzyskania informacji przez konsumenta, wykonalność obowiązku wskazania kraju lub miejsca pochodzenia oraz analizę kosztów i korzyści z wprowadzenia takich środków, w tym skutki prawne dla rynku wewnętrznego oraz wpływ na handel międzynarodowy.
+Komisja może dołączyć do tych sprawozdań wnioski mające na celu zmianę odpowiednich przepisów unijnych.
+8. Do dnia 13 grudnia 2013 r., po przeprowadzeniu ocen skutków, Komisja przyjmie akty wykonawcze dotyczące stosowania ust. 2 lit. b) niniejszego artykułu i stosowania ust. 3 niniejszego artykułu. Te akty wykonawcze przyjmuje się zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2
+9. W przypadku żywności, o której mowa w ust. 2 lit. b), ust. 5 lit. a) i w ust. 6, sprawozdania i oceny skutków opracowane na podstawie niniejszego artykułu uwzględniają m.in. różne możliwości wyrażania kraju lub miejsca pochodzenia tej żywności, w szczególności w odniesieniu do każdego z następujących decydujących etapów życia zwierzęcia:
+a) miejsce urodzenia;
+b) miejsce hodowli;
+c) miejsce uboju.
+
+Artykuł 27
+Instrukcje użycia
+1. Instrukcje użycia danego środka spożywczego oznaczane są w taki sposób, aby umożliwić jego właściwe użycie.
+2. Komisja może przyjąć akty wykonawcze określające szczegółowe przepisy dotyczące wykonania ust. 1 w odniesieniu do niektórych środków spożywczych. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+
+Artykuł 28
+Zawartość alkoholu
+1. Postanowienia dotyczące oznaczenia objętościowej zawartości alkoholu są, w przypadku produktów oznaczonych kodem CN 2204 , zawarte w szczegółowych przepisach unijnych mających zastosowanie do takich produktów.
+2. W przypadku napojów o zawartości alkoholu wyższej niż 1,2 % objętościowo, innych niż te, o których mowa w ust. 1, rzeczywista objętościowa zawartość alkoholu jest oznaczana zgodnie z załącznikiem XII.
+
+SEKCJA 3
+Informacja o wartości odżywczej
+
+Artykuł 29
+Powiązania z innymi przepisami
+1. Przepisy niniejszej sekcji nie mają zastosowania do środków spożywczych objętych zakresem stosowania następujących aktów prawnych:
+a) dyrektywa 2002/46/WE Parlamentu Europejskiego i Rady z dnia 10 czerwca 2002 r. w sprawie zbliżenia ustawodawstw państw członkowskich odnoszących się do suplementów żywnościowych ( 9 );
+b) dyrektywa 2009/54/WE Parlamentu Europejskiego i Rady z dnia 18 czerwca 2009 r. w sprawie wydobywania i wprowadzania do obrotu naturalnych wód mineralnych ( 10 ).
+2. Przepisy niniejszej sekcji stosuje się bez uszczerbku dla dyrektywy Parlamentu Europejskiego i Rady 2009/39/WE z dnia 6 maja 2009 r. w sprawie środków spożywczych specjalnego przeznaczenia żywieniowego ( 11 ) i dyrektyw szczegółowych, o których mowa w art. 4 ust. 1 wspomnianej dyrektywy.
+
+Artykuł 30
+Treść
+1. Obowiązkowa informacja o wartości odżywczej obejmuje następujące elementy:
+a) wartość energetyczna; oraz
+b) ilość tłuszczu, kwasów tłuszczowych nasyconych, węglowodanów, cukrów, białka oraz soli.
+W odpowiednich przypadkach można zamieścić – bezpośrednio w pobliżu informacji o wartości odżywczej – komunikat wskazujący, że zawartość soli wynika wyłącznie z obecności naturalnie występującego sodu.
+2. Treść obowiązkowej informacji o wartości odżywczej, o której mowa w ust. 1, może zostać uzupełniona informacją o ilości jednego lub większej liczby z następujących składników:
+a) kwasy tłuszczowe jednonienasycone;
+b) kwasy tłuszczowe wielonienasycone;
+c) alkohole wielowodorotlenowe;
+d) skrobia;
+e) błonnik;
+f) każda z witamin lub każdy ze składników mineralnych wymienionych w załączniku XIII część A pkt 1 i obecnych w znaczącej ilości zgodnie z jej definicją w załączniku XIII część A pkt 2.
+3. Jeżeli etykietowanie żywności opakowanej zawiera obowiązkową informację o wartości odżywczej, o której mowa w ust. 1, można powtórzyć w nim następujące informacje:
+a) wartość energetyczna; lub
+b) wartość energetyczna oraz ilość tłuszczu, kwasów tłuszczowych nasyconych, cukrów oraz soli.
+4. W drodze odstępstwa od art. 36 ust. 1, gdy etykietowanie produktów, o których mowa w art. 16 ust. 4, zawiera informację o wartości odżywczej, treść takiej informacji może ograniczać się jedynie do wartości energetycznej.
+5. Bez uszczerbku dla art. 44 i w drodze odstępstwa od art. 36 ust. 1, gdy etykietowanie produktów, o których mowa w art. 44 ust. 1, zawiera informację o wartości odżywczej, treść takiej informacji może ograniczać się jedynie do:
+a) wartości energetycznej; lub
+b) wartości energetycznej oraz ilości tłuszczu, kwasów tłuszczowych nasyconych, cukrów oraz soli.
+6. Aby uwzględnić znaczenie, jakie w informacjach dla konsumentów mają dane szczegółowe, o których mowa w ust. 2–5 niniejszego artykułu, Komisja może zmienić wykazy z ust. 2–5 niniejszego artykułu, w drodze aktów delegowanych zgodnie z art. 51, przez dodanie lub usunięcie pewnych danych szczegółowych.
+7. Do dnia 13 grudnia 2014 r. Komisja, uwzględniając dane naukowe i doświadczenia zebrane w państwach członkowskich, przedkłada sprawozdanie na temat obecności izomerów trans kwasów tłuszczowych w żywności oraz w ogólnej diecie populacji Unii. Celem sprawozdania jest ocena wpływu stosownych środków mogących pozwolić konsumentom na dokonywanie zdrowszych wyborów dotyczących żywności i ogólnej diety lub wspierać dostarczanie konsumentom zdrowszej żywności, w tym dostarczanie konsumentom informacji o izomerach trans kwasów tłuszczowych lub ograniczanie ich użycia. W stosownych przypadkach Komisja dołącza do tego sprawozdania odpowiedni wniosek ustawodawczy.
+
+Artykuł 31
+Obliczenie
+1. Wartość energetyczną oblicza się z zastosowaniem współczynników przeliczeniowych określonych w załączniku XIV.
+2. Komisja może przyjąć – w drodze aktów delegowanych zgodnie z art. 51 – współczynniki przeliczeniowe do obliczania ilości witamin i składników mineralnych określonych w załączniku XIII część A pkt 1, aby dokładniej obliczać zawartość takich witamin i składników mineralnych w środkach spożywczych. Przeliczniki te dodaje się do załącznika XIV.
+3. Wartość energetyczna i ilości składników odżywczych, o których mowa w art. 30 ust. 1–5, odnoszą się do żywności w postaci dostępnej w sprzedaży.
+W stosownych przypadkach informacje mogą się odnosić do żywności po przygotowaniu, pod warunkiem że podawane są wystarczająco dokładne instrukcje dotyczące przygotowania, a informacje odnoszą się do żywności przygotowanej do spożycia.
+4. Podawane wartości, odpowiednio dla danego przypadku, są wartościami średnimi opartymi na:
+a) analizie żywności dokonanej przez producenta;
+b) obliczeniu na podstawie znanych lub rzeczywistych wartości średnich użytych składników; lub
+c) obliczeniu na podstawie ogólnie dostępnych i zaakceptowanych danych.
+Komisja może przyjąć akty wykonawcze ustanawiające szczegółowe przepisy dotyczące jednolitego wykonania niniejszego ustępu w odniesieniu do precyzji podawanych wartości, w tym do różnic między wartościami podawanymi a wartościami ustalonymi w trybie urzędowych kontroli. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+
+Artykuł 32
+Wyrażanie ilości w przeliczeniu na 100 g lub na 100 ml
+1. Wartość energetyczna i ilość składników odżywczych, o których mowa w art. 30 ust. 1–5, jest wyrażana przy użyciu jednostek miary wymienionych w załączniku XV.
+2. Wartość energetyczna i ilość składników odżywczych, o których mowa w art. 30 ust. 1–5, jest wyrażana w przeliczeniu na 100 g lub na 100 ml.
+3. O ile jest podawana informacja o witaminach i składnikach mineralnych, jest ona również wyrażana, oprócz formy wyrażania, o której mowa w ust. 2, jako wartość procentowa referencyjnych wartości spożycia określonych w załączniku XIII część A pkt 1, w przeliczeniu na 100 g lub na 100 ml.
+4. Oprócz formy wyrażania, o której mowa w ust. 2 niniejszego artykułu, wartość energetyczna i ilość składników odżywczych, o których mowa w art. 30 ust. 1, 3, 4 i 5, może być wyrażana w stosownych przypadkach jako wartość procentowa referencyjnych wartości spożycia określonych w załączniku XIII część B, w przeliczeniu na 100 g lub na 100 ml.
+5. Jeżeli podawane są informacje zgodnie z ust. 4, bezpośrednio w ich pobliżu zamieszcza się następujący komunikat dodatkowy: „Referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8 400 kJ/2 000 kcal)”.
+
+Artykuł 33
+Wyrażanie ilości w przeliczeniu na porcję lub na jednostkową ilość żywności
+1. W następujących przypadkach wartość energetyczna i ilość składników odżywczych, o których mowa w art. 30 ust. 1–5, może być wyrażana w przeliczeniu na porcję lub na jednostkową ilość żywności łatwo rozpoznawalną dla konsumenta, pod warunkiem że ta porcja lub jednostkowa ilość są zgodne z informacją ilościową na etykiecie i że podana jest liczba porcji lub jednostkowych ilości zawartych w opakowaniu:
+a) oprócz formy wyrażania ilości w przeliczeniu na 100 g lub na 100 ml, o której mowa w art. 32 ust. 2;
+b) oprócz formy wyrażania ilości w przeliczeniu na 100 g lub na 100 ml, o której mowa w art. 32 ust. 3, w odniesieniu do ilości witamin i składników mineralnych;
+c) oprócz lub zamiast formy wyrażania ilości w przeliczeniu na 100 g lub na 100 ml, o której mowa w art. 32 ust. 4.
+2. W drodze odstępstwa od art. 32 ust. 2 w przypadkach, o których mowa w art. 30 ust. 3 lit. b), ilość składników odżywczych lub wartość procentowa referencyjnych wartości spożycia określonych w załączniku XIII część B może być wyrażana jedynie w przeliczeniu na porcję lub na jednostkową ilość żywności.
+Jeżeli ilość składników odżywczych jest wyrażona jedynie w przeliczeniu na porcję lub na jednostkową ilość żywności zgodnie z akapitem pierwszym, to wartość energetyczna musi być wyrażona w przeliczeniu na 100 g lub na 100 ml oraz w przeliczeniu na porcję lub na jednostkową ilość żywności.
+3. W drodze odstępstwa od art. 32 ust. 2 w przypadkach, o których mowa w art. 30 ust. 5, wartość energetyczna i ilość składników odżywczych lub wartość procentowa referencyjnych wartości spożycia określonych w załączniku XIII część B może być wyrażana jedynie w przeliczeniu na porcję lub na jednostkową ilość żywności.
+4. Użyte porcje lub jednostkowe ilości są wskazywane bezpośrednio w pobliżu informacji o wartości odżywczej.
+5. Aby zapewnić jednolite wyrażanie informacji o wartości odżywczej w przeliczeniu na porcję lub na jednostkową ilość spożywanej żywności i, aby zapewnić konsumentowi jednolitą podstawę porównawczą, Komisja przyjmuje, w drodze aktów wykonawczych i uwzględniając obecne wzorce zachowań konsumpcyjnych konsumentów oraz zalecenia żywieniowe, przepisy w sprawie wyrażania w przeliczeniu na porcję lub na jednostkową ilość spożywanej żywności w odniesieniu do określonych kategorii środków spożywczych. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+
+Artykuł 34
+Prezentacja
+1. Dane szczegółowe, o których mowa w art. 30 ust. 1 i 2, są zawarte w tym samym polu widzenia. Prezentowane są łącznie w czytelnym formacie oraz, w stosownych przypadkach, w kolejności prezentacji określonej w załączniku XV.
+2. Dane szczegółowe, o których mowa w art. 30 ust. 1 i 2, są prezentowane, jeżeli jest na to miejsce, w formacie tabeli z wyrównanymi liczbami. Jeżeli nie ma na to miejsca, informacja jest prezentowana w formacie liniowym.
+3. Dane szczegółowe, o których mowa w art. 30 ust. 3, są prezentowane:
+a) w głównym polu widzenia; oraz
+b) z zastosowaniem rozmiaru czcionki zgodnego z art. 13 ust. 2.
+Dane szczegółowe, o których mowa w art. 30 ust. 3, mogą być prezentowane w innym formacie niż określony w ust. 2 niniejszego artykułu.
+4. Dane szczegółowe, o których mowa w art. 30 ust. 4 i 5, mogą być prezentowane w innym formacie niż określony w ust. 2 niniejszego artykułu.
+5. W przypadkach gdy wartość energetyczna lub ilość składnika(-ów) odżywczego(-ych) w produkcie jest znikoma, informacje dotyczące tych elementów można zastąpić takim komunikatem, jak „Zawiera znikome ilości…”, który umieszcza się bezpośrednio w pobliżu informacji o wartości odżywczej, o ile informacja taka występuje.
+Aby zapewnić jednolite wykonanie niniejszego ustępu, Komisja może przyjąć akty wykonawcze dotyczące wartości energetycznej i ilości składników odżywczych, o których mowa w art. 30 ust. 1–5, które można uznać za znikome. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+6. Aby zapewnić jednolite stosowanie sposobu prezentacji informacji o wartości odżywczej w formatach, o których mowa w ust. 1–4 niniejszego artykułu, Komisja może przyjąć akty wykonawcze w tym względzie. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+
+Artykuł 35
+Dodatkowe formy wyrażania i prezentacji informacji
+1. Oprócz form wyrażania informacji, o których mowa w art. 32 ust. 2 i 4 oraz w art. 33, oraz form prezentacji, o których mowa w art. 34 ust. 2, wartość energetyczna i ilość składników odżywczych, o których mowa w art. 30 ust. 1–5, może być podawana za pośrednictwem innych form wyrażania lub prezentowania z zastosowaniem – oprócz słów i liczb – form graficznych lub symboli, pod warunkiem że zostaną spełnione następujące wymogi:
+a) opierają się one na rzetelnych, naukowo uzasadnionych badaniach konsumenckich i nie wprowadzają konsumenta w błąd, o czym mowa w art. 7;
+b) ich opracowanie jest wynikiem konsultacji z szerokim spektrum zainteresowanych grup;
+c) mają na celu ułatwienie konsumentowi zrozumienia znaczenia danej żywności dla zawartości energii i składników odżywczych w diecie;
+d) są one wsparte naukowo uzasadnionymi dowodami zrozumienia takich form wyrażania lub prezentacji informacji przez przeciętnego konsumenta;
+e) w przypadku innych form wyrażania informacji są one oparte albo na zharmonizowanych referencyjnych wartościach spożycia określonych w załączniku XIII, albo – w przypadku ich braku – na ogólnie przyjętych zaleceniach naukowych dotyczących spożycia energii lub składników odżywczych;
+f) są one obiektywne i niedyskryminacyjne; oraz
+g) ich stosowanie nie stwarza przeszkód dla swobodnego przepływu towarów.
+2. Państwa członkowskie mogą zalecać podmiotom działającym na rynku spożywczym stosowanie jednej lub większej liczby dodatkowych form wyrażania lub prezentacji informacji o wartości odżywczej, jakie uznają za najlepiej spełniające wymogi określone w ust. 1 lit. a)–g). Państwa członkowskie przekazują Komisji szczegółowe informacje na temat tych dodatkowych form wyrażania i prezentacji.
+3. Państwa członkowskie zapewniają odpowiednie monitorowanie dodatkowych form wyrażania lub prezentacji informacji o wartości odżywczej, które występują na rynku na ich terytorium.
+Aby ułatwić monitorowanie stosowania takich dodatkowych form wyrażania lub prezentacji, państwa członkowskie mogą wymagać od podmiotów działających na rynku spożywczym i wprowadzających na rynek na ich terytorium środki spożywcze oznaczone za pomocą takich informacji, aby powiadamiały właściwy organ o stosowaniu dodatkowej formy wyrażania lub prezentacji, odpowiednio uzasadniając spełnienie wymogów określonych w ust. 1 lit. a)–g). W takich przypadkach wymagana może być również informacja o zaprzestaniu stosowania takich dodatkowych form wyrażania lub prezentacji.
+4. Komisja ułatwia i organizuje wymianę informacji między państwami członkowskimi, nią samą i zainteresowanymi stronami w kwestiach związanych ze stosowaniem wszelkich dodatkowych form wyrażania lub prezentacji informacji o wartości odżywczej.
+5. W świetle zebranych doświadczeń Komisja przedstawi – do dnia 13 grudnia 2017 r. – Parlamentowi Europejskiemu i Radzie sprawozdanie na temat stosowania dodatkowych form wyrażania i prezentacji informacji oraz ich skutków dla rynku wewnętrznego, a także na temat celowości dalszej harmonizacji tych form wyrażania i prezentacji informacji. W tym celu państwa członkowskie dostarczą Komisji odpowiednich informacji dotyczących stosowania takich dodatkowych form wyrażania lub prezentacji na rynku na ich terytorium. Komisja może dołączyć do tego sprawozdania wnioski mające na celu zmianę odpowiednich przepisów unijnych.
+6. Aby zapewnić jednolite stosowanie niniejszego artykułu, Komisja przyjmuje akty wykonawcze ustanawiające przepisy szczegółowe dotyczące wykonania ust. 1, 3 i 4 niniejszego artykułu. Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+
+ROZDZIAŁ V
+DOBROWOLNE INFORMACJE NA TEMAT ŻYWNOŚCI
+
+Artykuł 36
+Wymogi mające zastosowanie
+1. W przypadku gdy informacje na temat żywności, o których mowa w art. 9 i 10, przekazywane są na zasadzie dobrowolności, muszą być zgodne z wymogami określonymi w rozdziale IV sekcje 2 i 3.
+2. Informacje na temat żywności przekazywane na zasadzie dobrowolności muszą spełniać następujące wymogi:
+a) nie mogą wprowadzać konsumenta w błąd, o czym mowa w art. 7;
+b) nie mogą być niejednoznaczne ani dezorientować konsumenta; oraz
+c) muszą być, w stosownych przypadkach, oparte na odpowiednich danych naukowych.
+3. Komisja przyjmuje akty wykonawcze dotyczące stosowania wymogów, o których mowa w ust. 2 niniejszego artykułu, w odniesieniu do następujących dobrowolnych informacji na temat żywności:
+a) informacji dotyczących możliwej i niezamierzonej obecności w żywności substancji lub produktów powodujących alergie lub reakcje nietolerancji;
+b) informacji o tym, czy dana żywność jest odpowiednia dla wegetarianów lub wegan;
+c) wskazania referencyjnych wartości spożycia dla szczególnych grup ludności oprócz referencyjnych wartości spożycia określonych w załączniku XIII; oraz
+d) informacji dotyczącej braku lub zmniejszonej obecności glutenu w żywności.
+Te akty wykonawcze są przyjmowane zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2.
+4. Aby zapewnić właściwe informowanie konsumentów w przypadku gdy podmioty działające na rynku spożywczym przekazują dobrowolne informacje na temat żywności na różnych podstawach, co może wprowadzać w błąd lub dezorientować konsumenta, Komisja może, w drodze aktów delegowanych zgodnie z art. 51, dopuścić dodatkowe przypadki przekazywania dobrowolnych informacji na temat żywności oprócz tych, o których mowa w ust. 3 niniejszego artykułu.
+
+Artykuł 37
+Prezentacja
+Nie można prezentować dobrowolnych informacji na temat żywności ze szkodą dla przestrzeni dostępnej do prezentacji obowiązkowych informacji na temat żywności.
+
+ROZDZIAŁ VI
+PRZEPISY KRAJOWE
+
+Artykuł 38
+Przepisy krajowe
+1. W odniesieniu do kwestii harmonizowanych w szczególny sposób niniejszym rozporządzeniem państwa członkowskie nie mogą przyjmować ani utrzymywać w mocy przepisów krajowych, chyba że zezwala na to prawo Unii. Przepisy krajowe nie mogą powodować utrudnień dla swobodnego przepływu towarów, w tym dyskryminacji środków spożywczych z innych państw członkowskich.
+2. Bez uszczerbku dla art. 39 państwa członkowskie mogą przyjmować przepisy krajowe w odniesieniu do kwestii, które nie zostały zharmonizowane w szczególny sposób niniejszym rozporządzeniem, pod warunkiem że nie zakazują one, nie utrudniają ani nie ograniczają swobodnego przepływu towarów, które są zgodne z niniejszym rozporządzeniem.
+
+Artykuł 39
+Przepisy krajowe w zakresie dodatkowych obowiązkowych danych szczegółowych
+1. Poza obowiązkowymi danymi szczegółowymi, o których mowa w art. 9 ust. 1 i w art. 10, państwa członkowskie mogą wymagać, zgodnie z procedurą określoną w art. 45, podawania dodatkowych obowiązkowych danych szczegółowych w odniesieniu do szczególnych rodzajów lub kategorii środków spożywczych, o ile jest to uzasadnione przynajmniej jednym z poniższych powodów:
+a) ochroną zdrowia publicznego;
+b) ochroną konsumentów;
+c) zapobieganiem nadużyciom;
+d) ochroną praw własności przemysłowej i handlowej, oznaczeń pochodzenia, zarejestrowanych nazw pochodzenia oraz zapobieganiem nieuczciwej konkurencji.
+2. Na podstawie ust. 1 państwa członkowskie mogą przyjmować przepisy dotyczące obowiązkowego określania kraju lub miejsca pochodzenia środków spożywczych jedynie wówczas, gdy istnieje udowodniony związek pewnych cech żywności z jej pochodzeniem. Zgłaszając Komisji takie przepisy, państwa członkowskie przedstawiają dowody świadczące o tym, że większość konsumentów przywiązuje znaczną wagę do takich informacji.
+
+Artykuł 40
+Mleko i produkty mleczne
+Państwa członkowskie mogą przyjmować przepisy stanowiące odstępstwo od art. 9 ust. 1 i art. 10 ust. 1 w przypadku mleka i produktów mlecznych w butelkach szklanych przeznaczonych do ponownego użycia.
+Państwa członkowskie bezzwłocznie przekazują Komisji tekst tych przepisów.
+
+Artykuł 41
+Napoje alkoholowe
+Państwa członkowskie mogą, do czasu przyjęcia przepisów unijnych, o których mowa w art. 16 ust. 4, utrzymać w mocy przepisy krajowe dotyczące wymieniania składników w przypadku napojów o zawartości alkoholu wyższej niż 1,2 % objętościowo.
+
+Artykuł 42
+Wyrażanie ilości netto
+W przypadku braku przepisów Unii, o których mowa w art. 23 ust. 2, dotyczących wyrażania ilości netto pewnych szczególnych środków spożywczych w sposób inny od przewidzianego w art. 23 ust. 1, państwa członkowskie mogą utrzymać w mocy przepisy krajowe przyjęte przed dniem 12 grudnia 2011 r.
+W terminie do dnia 13 grudnia 2014 r. państwa członkowskie informują Komisję o tych przepisach. Komisja przedstawia je pozostałym państwom członkowskim.
+
+Artykuł 43
+Dobrowolne podawanie referencyjnych wartości spożycia dla szczególnych grup ludności
+Do czasu przyjęcia przepisów unijnych, o których mowa w art. 36 ust. 3 lit. c), państwa członkowskie mogą przyjmować przepisy krajowe dotyczące dobrowolnego podawania referencyjnych wartości spożycia dla szczególnych grup ludności.
+Państwa członkowskie bezzwłocznie przekazują Komisji tekst tych przepisów.
+
+Artykuł 44
+Przepisy krajowe dotyczące żywności nieopakowanej
+1. W przypadku oferowania środków spożywczych do sprzedaży konsumentom finalnym lub zakładom żywienia zbiorowego bez opakowania lub w przypadku pakowania środków spożywczych w pomieszczeniu sprzedaży na życzenie konsumenta lub ich pakowania do bezpośredniej sprzedaży:
+a) przekazanie danych szczegółowych określonych w art. 9 ust. 1 lit. c) jest obowiązkowe;
+b) przekazanie innych danych szczegółowych określonych w art. 9 i 10 nie jest obowiązkowe, chyba że państwo członkowskie przyjmie przepisy krajowe zawierające wymóg przekazania części lub wszystkich tych danych szczegółowych, lub elementów tych danych szczegółowych.
+2. Państwa członkowskie mogą przyjmować przepisy krajowe dotyczące sposobu udostępniania danych szczegółowych lub elementów danych szczegółowych, o których mowa w ust. 1, oraz – w stosownych przypadkach – form ich wyrażania i prezentacji.
+3. Państwa członkowskie bezzwłocznie przekazują Komisji tekst przepisów, o których mowa w ust. 1 lit. b) i w ust. 2.
+
+Artykuł 45
+Procedura notyfikacji
+1. W przypadku odesłania do niniejszego artykułu państwo członkowskie, które uznaje za konieczne przyjęcie nowego prawodawstwa dotyczącego informacji na temat żywności, zawiadamia wcześniej Komisję i inne państwa członkowskie o planowanych przepisach i podaje powody, które je uzasadniają.
+2. Komisja zasięga opinii Stałego Komitetu ds. Łańcucha Żywnościowego i Zdrowia Zwierząt ustanowionego na mocy art. 58 ust. 1 rozporządzenia (WE) nr 178/2002, jeśli uzna, że taka opinia jest przydatna lub jeśli zażąda jej państwo członkowskie. W takim przypadku Komisja zapewnia przejrzystość tego procesu dla wszystkich zainteresowanych stron.
+3. Państwo członkowskie, które uznaje za konieczne przyjęcie nowego prawodawstwa dotyczącego informacji na temat żywności, może przyjąć planowane przepisy po upływie trzech miesięcy od zawiadomienia, o którym mowa w ust. 1, o ile nie otrzymało od Komisji negatywnej opinii.
+4. W przypadku wydania negatywnej opinii przez Komisję przed upływem okresu, o którym mowa w ust. 3 niniejszego artykułu, Komisja wszczyna procedurę sprawdzającą, o której mowa w art. 48 ust. 2, w celu ustalenia, czy planowane przepisy mogą być wprowadzone w życie, w razie potrzeby z zastrzeżeniem stosownych zmian.
+5. W odniesieniu do przepisów podlegających procedurze notyfikacji określonej w niniejszym artykule nie ma zastosowania dyrektywa 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiająca procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego ( 12 ).
+
+ROZDZIAŁ VII
+PRZEPISY WYKONAWCZE, ZMIENIAJĄCE I KOŃCOWE
+
+Artykuł 46
+Zmiany załączników
+Aby uwzględnić postęp techniczny, rozwój naukowy, zdrowie konsumentów lub potrzebę konsumentów w zakresie informacji i z zastrzeżeniem przepisów art. 10 ust. 2 i art. 21 ust. 2 dotyczących zmian w załącznikach II i III, Komisja może – w drodze aktów delegowanych zgodnie z art. 51 – dokonywać zmian w załącznikach do niniejszego rozporządzenia.
+
+Artykuł 47
+Okres przejściowy w odniesieniu do środków wykonawczych lub aktów delegowanych i data rozpoczęcia ich stosowania
+1. Bez uszczerbku dla ust. 2 niniejszego artykułu, wykonując przyznane w niniejszym rozporządzeniu uprawnienia do przyjmowania środków w drodze aktów wykonawczych zgodnie z procedurą sprawdzającą, o której mowa w art. 48 ust. 2, lub w drodze aktów delegowanych zgodnie z art. 51, Komisja:
+a) określa stosowny okres przejściowy dla nowych środków, w trakcie którego środki spożywcze oznaczone etykietami niezgodnymi z nowymi środkami mogą być wprowadzane na rynek i po upływie którego zapasy takich środków spożywczych wprowadzone na rynek przed zakończeniem okresu przejściowego mogą być sprzedawane aż do ich wyczerpania; oraz
+b) zapewnia rozpoczęcie stosowania tych środków od dnia 1 kwietnia danego roku kalendarzowego.
+2. Ust. 1 nie ma zastosowania w nagłych przypadkach, gdy celem środków, o których mowa w tym ustępie, jest ochrona zdrowia ludzkiego.
+
+Artykuł 48
+Komitet
+1. Komisję wspomaga Stały Komitet ds. Łańcucha Żywnościowego i Zdrowia Zwierząt ustanowiony na mocy art. 58 ust. 1 rozporządzenia (WE) nr 178/2002. Komitet ten jest komitetem w rozumieniu rozporządzenia (UE) nr 182/2011.
+2. W przypadku odesłania do niniejszego ustępu stosuje się art. 5 rozporządzenia (UE) nr 182/2011.
+W przypadku gdy komitet nie wyda żadnej opinii, Komisja nie przyjmuje projektu aktu wykonawczego i stosuje się art. 5 ust. 4 akapit trzeci rozporządzenia (UE) nr 182/2011.
+
+Artykuł 49
+Zmiany rozporządzenia (WE) nr 1924/2006
+Art. 7 akapity pierwszy i drugi rozporządzenia (WE) nr 1924/2006 otrzymują brzmienie:
+„Etykietowanie dotyczące wartości odżywczej produktów, w odniesieniu do których składane jest oświadczenie żywieniowe lub oświadczenie zdrowotne, jest obowiązkowe, z wyjątkiem reklamy ogólnej. Wymagane informacje zawierają elementy określone w art. 30 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności ( 13 ). Jeżeli składane jest oświadczenie żywieniowe lub oświadczenie zdrowotne w odniesieniu do składnika odżywczego, o którym mowa w art. 30 ust. 2 rozporządzenia (UE) nr 1169/2011, podaje się ilość tego składnika odżywczego zgodnie z art. 31–34 tego rozporządzenia.
+Informacja o ilości substancji, której(-ych) dotyczy oświadczenie żywieniowe lub zdrowotne, a która nie jest podana w etykietowaniu dotyczącym wartości odżywczej, jest zamieszczana w tym samym polu widzenia, w którym znajduje się etykietowanie dotyczące wartości odżywczej, i wyrażana zgodnie z art. 31, 32 i 33 rozporządzenia (UE) nr 1169/2011. Jednostki miary wykorzystywane do wyrażenia ilości substancji są jednostkami właściwymi dla poszczególnych substancji.
+
+Artykuł 50
+Zmiany rozporządzenia (WE) nr 1925/2006
+Artykuł 7 ust. 3 rozporządzenia (WE) nr 1925/2006 otrzymuje brzmienie:
+„3. Etykietowanie dotyczące wartości odżywczej produktów z dodatkiem witamin i składników mineralnych, które objęte są niniejszym rozporządzeniem, jest obowiązkowe. Wymagana informacja zawiera elementy określone w art. 30 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności ( 14 ) oraz całkowite ilości witamin i składników mineralnych obecne w żywności po ich dodaniu.
+
+Artykuł 51
+Wykonywanie przekazanych uprawnień
+1. Komisji przekazuje się uprawnienie do przyjmowania aktów delegowanych na warunkach określonych w niniejszym artykule.
+2. Uprawnienia do przyjmowania aktów delegowanych, o których mowa w art. 9 ust. 3, art. 10 ust. 2, art. 12 ust. 3, art. 13 ust. 4, art. 18 ust. 5, art. 19 ust. 2, art. 21 ust. 2, art. 23 ust. 2, art. 30 ust. 6, art. 31 ust. 2, art. 36 ust. 4 i art. 46, przekazuje się Komisji na okres pięciu lat od dnia 12 grudnia 2011 r. Komisja sporządza sprawozdanie na temat przekazania uprawnień nie później niż dziewięć miesięcy przed upływem tego pięcioletniego okresu. Przekazanie uprawnień jest automatycznie przedłużane na takie same okresy, chyba że Parlament Europejski lub Rada sprzeciwią się takiemu przedłużeniu nie później niż trzy miesiące przed końcem danego okresu.
+3. Przekazanie uprawnień, o których mowa w art. 9 ust. 3, art. 10 ust. 2, art. 12 ust. 3, art. 13 ust. 4, art. 18 ust. 5, art. 19 ust. 2, art. 21 ust. 2, art. 23 ust. 2, art. 30 ust. 6, art. 31 ust. 2, art. 36 ust. 4 i art. 46, może zostać w dowolnym momencie odwołane przez Parlament Europejski lub przez Radę. Decyzja o odwołaniu kończy przekazanie uprawnień określonych w tej decyzji. Decyzja ta staje się skuteczna następnego dnia po jej opublikowaniu w Dzienniku Urzędowym Unii Europejskiej lub w określonym w tej decyzji późniejszym terminie. Nie wpływa ona na ważność jakichkolwiek już obowiązujących aktów delegowanych.
+4. Niezwłocznie po przyjęciu aktu delegowanego Komisja powiadamia o nim jednocześnie Parlament Europejski i Radę.
+5. Akt delegowany przyjęty na podstawie art. 9 ust. 3, art. 10 ust. 2, art. 12 ust. 3, art. 13 ust. 4, art. 18 ust. 5, art. 19 ust. 2, art. 21 ust. 2, art. 23 ust. 2, art. 30 ust. 6, art. 31 ust. 2, art. 36 ust. 4 i art. 46 wchodzi w życie tylko wtedy, gdy Parlament Europejski ani Rada nie wyraziły sprzeciwu w terminie dwóch miesięcy od powiadomienia o nim Parlamentu Europejskiego i Rady lub przed upływem tego terminu, jeśli zarówno Parlament Europejski, jak i Rada poinformowały Komisję, że nie wniosą sprzeciwu. Z inicjatywy Parlamentu Europejskiego lub Rady termin ten jest przedłużany o dwa miesiące.
+
+Artykuł 52
+Procedura w trybie pilnym
+1. Akty delegowane przyjęte na podstawie niniejszego artykułu wchodzą w życie niezwłocznie i mają zastosowanie, dopóki nie zostanie wniesiony sprzeciw zgodnie z ust. 2. W powiadomieniu o akcie delegowanym skierowanym do Parlamentu Europejskiego i Rady podaje się powody, dla których skorzystano z procedury w trybie pilnym.
+2. Parlament Europejski lub Rada mogą wnieść sprzeciw wobec aktu delegowanego zgodnie z procedurą, o której mowa w art. 51 ust. 5. W takim przypadku Komisja bezzwłocznie uchyla akt w następstwie powiadomienia o decyzji o wniesieniu sprzeciwu przez Parlament Europejski lub przez Radę.
+
+Artykuł 53
+Uchylenie
+1. Dyrektywy 87/250/EWG, 90/496/EWG, 1999/10/WE, 2000/13/WE, 2002/67/WE i 2008/5/WE oraz rozporządzenie (WE) nr 608/2004 tracą moc z dniem 13 grudnia 2014 r.
+2. Odesłania do uchylonych aktów traktuje się jako odesłania do niniejszego rozporządzenia.
+
+Artykuł 54
+Środki przejściowe
+1. Środki spożywcze wprowadzone na rynek lub opatrzone etykietą przed dniem 13 grudnia 2014 r., które nie spełniają wymogów niniejszego rozporządzenia, mogą pozostawać w obrocie do czasu wyczerpania zapasów tych środków.
+Środki spożywcze wprowadzone na rynek lub opatrzone etykietą przed dniem 13 grudnia 2016 r., które nie spełniają wymogu określonego w art. 9 ust. 1 lit. l), mogą pozostawać w obrocie do czasu wyczerpania zapasów tych środków.
+Środki spożywcze wprowadzone na rynek lub opatrzone etykietą przed dniem 1 stycznia 2014 r., które nie spełniają wymogów określonych w części B załącznika VI, mogą pozostawać w obrocie do czasu wyczerpania zapasów tych środków.
+2. Między dniem 13 grudnia 2014 r. a dniem 13 grudnia 2016 r. w przypadku gdy informacja o wartości odżywczej jest przekazywana na zasadzie dobrowolności, musi ona spełniać wymogi art. 30–35.
+3. Niezależnie od dyrektywy 90/496/EWG, od art. 7 rozporządzenia (WE) nr 1924/2006 i od art. 7 ust. 3 rozporządzenia (WE) nr 1925/2006 środki spożywcze opatrzone etykietą zgodnie z art. 30–35 niniejszego rozporządzenia mogą być wprowadzane na rynek przed dniem 13 grudnia 2014 r.
+Niezależnie od rozporządzenia Komisji (WE) nr 1162/2009 z dnia 30 listopada 2009 r. ustanawiającego środki przejściowe do celów wykonania rozporządzeń (WE) nr 853/2004, (WE) nr 854/2004 oraz (WE) nr 882/2004 Parlamentu Europejskiego i Rady ( 15 ) środki spożywcze opatrzone etykietą zgodnie z częścią B załącznika VI do niniejszego rozporządzenia mogą być wprowadzane na rynek przed dniem 1 stycznia 2014 r.
+
+Artykuł 55
+Wejście w życie i data rozpoczęcia stosowania
+Niniejsze rozporządzenie wchodzi w życie dwudziestego dnia po jego opublikowaniu w Dzienniku Urzędowym Unii Europejskiej .
+Niniejsze rozporządzenie stosuje się od dnia 13 grudnia 2014 r. z wyjątkiem art. 9 ust. 1 lit. l), który stosuje się od dnia 13 grudnia 2016 r., i części B załącznika VI, którą stosuje się od dnia 1 stycznia 2014 r.
+Niniejsze rozporządzenie wiąże w całości i jest bezpośrednio stosowane we wszystkich państwach członkowskich.
+
+ZAŁĄCZNIK I
+SZCZEGÓŁOWE DEFINICJE,
+o których mowa w art. 2 ust. 4
+1. „informacja o wartości odżywczej” lub „etykietowanie dotyczące wartości odżywczej” oznaczają informacje określające:
+a) wartość energetyczną; lub
+b) wartość energetyczną i tylko jeden lub więcej niż jeden spośród następujących składników odżywczych:
+— tłuszcz (kwasy tłuszczowe nasycone, kwasy tłuszczowe jednonienasycone, kwasy tłuszczowe wielonienasycone),
+— węglowodany (cukry, alkohole wielowodorotlenowe, skrobia),
+— sól,
+— błonnik,
+— białko,
+— każda z witamin lub każdy ze składników mineralnych wymienionych w pkt 1 części A załącznika XIII i obecnych w znaczących ilościach zgodnie z określeniem w pkt 2 części A załącznika XIII;
+2. „tłuszcz” oznacza tłuszcz całkowity, łącznie z fosfolipidami;
+3. „kwasy tłuszczowe nasycone” oznaczają kwasy tłuszczowe bez podwójnych wiązań;
+4. „izomery trans kwasów tłuszczowych” oznaczają kwasy tłuszczowe z co najmniej jednym niesprzężonym (tj. przerwanym co najmniej jedną grupą metylenową) wiązaniem podwójnym węgiel-węgiel w konfiguracji trans;
+5. „kwasy tłuszczowe jednonienasycone” oznaczają kwasy tłuszczowe z jednym podwójnym wiązaniem cis;
+6. „kwasy tłuszczowe wielonienasycone” oznaczają kwasy tłuszczowe z co najmniej dwoma podwójnymi wiązaniami cis przerwanymi cis-metylenem;
+7. „węglowodany” oznaczają wszelkie węglowodany, które podlegają procesom metabolizmu w organizmie człowieka, łącznie z alkoholami wielowodorotlenowymi;
+8. „cukry” oznaczają wszelkie cukry proste i dwucukry obecne w żywności, z wyjątkiem alkoholi wielowodorotlenowych;
+9. „alkohole wielowodorotlenowe” oznaczają alkohole zawierające więcej niż dwie grupy hydroksylowe;
+10. „białko” oznacza zawartość białka obliczoną z użyciem wzoru: białko = całkowity azot oznaczony metodą Kjeldahla × 6,25;
+11. „sól” oznacza równoważną zawartość soli obliczoną z użyciem wzoru: sól = sód × 2,5;
+12. „błonnik” oznacza polimery węglowodanowe z co najmniej trzema jednostkami monomerów, które nie są trawione ani wchłaniane w jelicie cienkim człowieka i należą do następujących kategorii:
+— jadalne polimery węglowodanowe naturalnie występujące w żywności przygotowanej do spożycia,
+— jadalne polimery węglowodanowe otrzymane z surowców żywnościowych za pomocą środków fizycznych, enzymatycznych lub chemicznych, których korzystne efekty fizjologiczne potwierdzają powszechnie uznane dowody naukowe,
+— jadalne syntetyczne polimery węglowodanowe, których korzystne efekty fizjologiczne potwierdzają powszechnie uznane dowody naukowe;
+13. „wartość średnia” oznacza wartość, która najlepiej określa ilość składnika odżywczego zawartego w danym środku spożywczym i uwzględnia sezonową zmienność, wzorce konsumpcji i inne czynniki, które mogą mieć wpływ na zmianę wartości rzeczywistej.
+
+ZAŁĄCZNIK II
+SUBSTANCJE LUB PRODUKTY POWODUJĄCE ALERGIE LUB REAKCJE NIETOLERANCJI
+1. Zboża zawierające gluten, tj. pszenica (w tym orkisz i pszenica khorasan), żyto, jęczmień, owies lub ich odmiany hybrydowe, a także produkty pochodne, z wyjątkiem:
+a) syropów glukozowych na bazie pszenicy zawierających dekstrozę ( 16 );
+b) maltodekstryn na bazie pszenicy (16) ;
+c) syropów glukozowych na bazie jęczmienia;
+d) zbóż wykorzystywanych do produkcji destylatów alkoholowych, w tym alkoholu etylowego pochodzenia rolniczego;
+2. Skorupiaki i produkty pochodne;
+3. Jaja i produkty pochodne;
+4. Ryby i produkty pochodne, z wyjątkiem:
+a) żelatyny rybnej stosowanej jako nośnik preparatów zawierających witaminy lub karotenoidy;
+b) żelatyny rybnej lub karuku stosowanych jako środki klarujące do piwa i wina;
+5. Orzeszki ziemne (arachidowe) i produkty pochodne;
+6. Soja i produkty pochodne, z wyjątkiem:
+a) całkowicie rafinowanego oleju i tłuszczu sojowego (16) ;
+b) mieszaniny naturalnych tokoferoli (E306), naturalnego D-alfa-tokoferolu, naturalnego octanu D-alfa-tokoferolu, naturalnego bursztynianu D-alfa-tokoferolu pochodzenia sojowego;
+c) fitosteroli i estrów fitosteroli otrzymanych z olejów roślinnych pochodzenia sojowego;
+d) estru stanolu roślinnego produkowanego ze steroli olejów roślinnych pochodzenia sojowego;
+7. Mleko i produkty pochodne (łącznie z laktozą), z wyjątkiem:
+a) serwatki wykorzystywanej do produkcji destylatów alkoholowych, w tym alkoholu etylowego pochodzenia rolniczego,
+b) laktitolu;
+8. Orzechy, tj. migdały ( Amygdalus communis L.), orzechy laskowe ( Corylus avellana ), orzechy włoskie ( Juglans regia ), orzechy nerkowca ( Anacardium occidentale ), orzeszki pekan ( Carya illinoinensis (Wangenh.) K. Koch), orzechy brazylijskie ( Bertholletia excelsa ), pistacje/orzechy pistacjowe ( Pistacia vera ), orzechy makadamia lub orzechy Queensland ( Macadamia ternifolia ), a także produkty pochodne z wyjątkiem orzechów wykorzystywanych do produkcji destylatów alkoholowych, w tym alkoholu etylowego pochodzenia rolniczego;
+9. Seler i produkty pochodne;
+10. Gorczyca i produkty pochodne;
+11. Nasiona sezamu i produkty pochodne;
+12. Dwutlenek siarki i siarczyny w stężeniach powyżej 10 mg/kg lub 10 mg/litr w przeliczeniu na całkowitą zawartość SO 2 dla produktów w postaci gotowej bezpośrednio do spożycia lub w postaci przygotowanej do spożycia zgodnie z instrukcjami wytwórców;
+13. Łubin i produkty pochodne;
+14. Mięczaki i produkty pochodne.
+
+ZAŁĄCZNIK III
+ŚRODKI SPOŻYWCZE, W PRZYPADKU KTÓRYCH ETYKIETOWANIE MUSI ZAWIERAĆ CO NAJMNIEJ JEDEN DODATKOWY RODZAJ DANYCH SZCZEGÓŁOWYCH
+RODZAJ LUB KATEGORIA ŻYWNOŚCI | DANE SZCZEGÓŁOWE
+1. Środki spożywcze pakowane w atmosferze niektórych gazów | 1. Środki spożywcze pakowane w atmosferze niektórych gazów
+1.1. Środki spożywcze, których trwałość została przedłużona w wyniku użycia gazów opakowaniowych dozwolonych zgodnie z rozporządzeniem (WE) nr 1333/2008. | „pakowano(-y) w atmosferze ochronnej”.
+2. Środki spożywcze zawierające substancje słodzące | 2. Środki spożywcze zawierające substancje słodzące
+2.1. Środki spożywcze zawierające substancję słodzącą lub substancje słodzące dozwolone zgodnie z rozporządzeniem (WE) nr 1333/2008. | „zawiera substancję(-e) słodzącą(-e)”; informację tę umieszcza się obok nazwy środka spożywczego.
+2.2. Środki spożywcze zawierające zarówno dodatek cukru lub cukrów, jak i substancję słodzącą lub substancje słodzące dozwolone zgodnie z rozporządzeniem (WE) nr 1333/2008. | „zawiera cukier (cukry) i substancję(-e) słodzącą(-e)”; informację tę umieszcza się obok nazwy środka spożywczego.
+2.3. Środki spożywcze zawierające aspartam/sól aspartamu-acesulfamu dozwolone zgodnie z rozporządzeniem (WE) nr 1333/2008. | „zawiera aspartam (źródło fenyloalaniny)”; informację tę umieszcza się na etykiecie, jeżeli w wykazie składników aspartam/sól aspartamu-acesulfamu są oznaczone wyłącznie numerem E. „zawiera źródło fenyloalaniny”; informację tę umieszcza się na etykiecie, jeżeli w wykazie składników podana jest nazwa szczególna aspartamu/soli aspartamu-acesulfamu.
+2.4. Środki spożywcze zawierające ponad 10 % dodanych alkoholi wielowodorotlenowych dozwolonych zgodnie z rozporządzeniem (WE) nr 1333/2008. | „spożycie w nadmiernych ilościach może mieć efekt przeczyszczający”.
+3. Środki spożywcze zawierające kwas glicyryzynowy lub jego sól amonową | 3. Środki spożywcze zawierające kwas glicyryzynowy lub jego sól amonową
+►C2 3.1. Wyroby cukiernicze lub napoje zawierające kwas glicyryzynowy lub ◄ jego sól amonową w wyniku dodania substancji jako takiej (takich) lub lukrecji Glycyrrhiza glabra , w stężeniu 100 mg/kg lub 10 mg/l lub większym. | Bezpośrednio po wykazie składników należy dodać następującą informację: „zawiera lukrecję”, chyba że termin „lukrecja” został już włączony do wykazu składników lub do nazwy środka spożywczego. W razie braku wykazu składników informację umieszcza się obok nazwy środka spożywczego.
+►C2 3.2. Wyroby cukiernicze zawierające kwas glicyryzynowy lub ◄ jego sól amonową w wyniku dodania substancji jako takiej (takich) lub lukrecji Glycyrrhiza glabra w stężeniu 4 g/kg lub większym. | Bezpośrednio po wykazie składników należy dodać następującą informację: „zawiera lukrecję – chorzy na nadciśnienie powinni unikać nadmiernego spożycia”. W razie braku wykazu składników informację umieszcza się obok nazwy środka spożywczego.
+3.3. Napoje zawierające kwas glicyryzynowy lub jego sól amonową w wyniku dodania substancji jako takiej (takich) lub lukrecji Glycyrrhiza glabra w stężeniu 50 mg/l lub większym, lub 300 mg/l lub większym w przypadku napojów o zawartości alkoholu wyższej niż 1,2 % objętości ( 1 ) . | Bezpośrednio po wykazie składników należy dodać następującą informację: „zawiera lukrecję – chorzy na nadciśnienie powinni unikać nadmiernego spożycia”. W razie braku wykazu składników informację umieszcza się obok nazwy środka spożywczego.
+4. Napoje o wysokiej zawartości kofeiny lub środki spożywcze z dodatkiem kofeiny | 4. Napoje o wysokiej zawartości kofeiny lub środki spożywcze z dodatkiem kofeiny
+4.1. Napoje, z wyjątkiem napojów na bazie kawy, herbaty lub ekstraktu kawy lub herbaty, w przypadku gdy nazwa środka spożywczego zawiera określenie „kawa” lub „herbata”, które: — są przeznaczone do spożycia w stanie niezmodyfikowanym i zawierają kofeinę, niezależnie od jej źródła, w proporcji przewyższającej 150 mg/l, lub — występują w postaci skoncentrowanej lub suchej i po przygotowaniu do spożycia zawierają kofeinę, niezależnie od jej źródła, w proporcji przewyższającej 150 mg/l. | „Wysoka zawartość kofeiny; nie zaleca się stosowania u dzieci, kobiet w ciąży i kobiet karmiących piersią” w tym samym polu widzenia co nazwa napoju, po czym w nawiasach, zgodnie z art. 13 ust. 1 niniejszego rozporządzenia, umieszcza się informację dotyczącą zawartości kofeiny wyrażonej w mg na 100 ml.
+4.2. Środki spożywcze inne niż napoje, do których dodano kofeinę w celu fizjologicznym. | „Zawiera kofeinę; nie zaleca się stosowania u dzieci i kobiet w ciąży” w tym samym polu widzenia co nazwa środka spożywczego, po czym w nawiasach, zgodnie z art. 13 ust. 1 niniejszego rozporządzenia, umieszcza się informację dotyczącą zawartości kofeiny wyrażonej w mg na 100 g/ml. W przypadku suplementów diety zawartość kofeiny jest wyrażona w przeliczeniu na porcję zgodnie z zaleceniem w sprawie dziennego spożycia podanym na etykiecie.
+5. Środki spożywcze z dodatkiem fitosteroli, estrów fitosteroli, fitostanoli lub estrów fitostanoli | 5. Środki spożywcze z dodatkiem fitosteroli, estrów fitosteroli, fitostanoli lub estrów fitostanoli
+5.1. Środki spożywcze lub składniki żywności z dodatkiem fitosteroli, estrów fitosteroli, fitostanoli lub estrów fitostanoli. | 1) „z dodatkiem steroli roślinnych” lub „z dodatkiem stanoli roślinnych” w tym samym polu widzenia, co nazwa środka spożywczego; 2) zawartość dodanego fitosterolu, estrów fitosteroli, fitostanolu i estrów fitostanoli (wyrażona w % lub w g wolnych steroli roślinnych/stanoli roślinnych na 100 g lub 100 ml środka spożywczego) określona jest w wykazie składników; ►M2 3) oświadczenie, że produkt nie jest przeznaczony dla ludzi, którzy nie muszą kontrolować swojego poziomu cholesterolu we krwi; ◄ 4) informacja, że pacjenci zażywający leki na obniżenie stężenia cholesterolu powinni spożywać dany produkt wyłącznie pod kontrolą lekarza; 5) łatwo widoczna informacja, że środek spożywczy może nie być odpowiedni w żywieniu kobiet w ciąży lub karmiących piersią oraz dla dzieci w wieku poniżej pięciu lat; 6) porada, że środek spożywczy należy stosować w ramach zrównoważonej i różnorodnej diety, obejmującej regularne spożywanie owoców i warzyw w celu utrzymania poziomów karotenoidów; 7) w tym samym polu widzenia co informacja wymagana zgodnie z pkt 3 powyżej, informacja, że należy unikać spożycia dodatku steroli roślinnych/stanoli roślinnych w ilościach większych niż 3 g/dobę; 8) definicja porcji danego środka spożywczego lub danego składnika żywności (najlepiej w g lub ml) wraz z informacją o zawartej w niej ilości sterolu roślinnego/stanolu roślinnego.
+6. Zamrożone mięso, zamrożone surowe wyroby mięsne i zamrożone nieprzetworzone produkty rybołówstwa | 6. Zamrożone mięso, zamrożone surowe wyroby mięsne i zamrożone nieprzetworzone produkty rybołówstwa
+6.1. Zamrożone mięso, zamrożone surowe wyroby mięsne i zamrożone nieprzetworzone produkty rybołówstwa. | data zamrożenia lub data pierwszego zamrożenia w przypadku produktów zamrażanych więcej niż jednokrotnie, zgodnie z pkt 3 załącznika X.
+( 1 ) Poziom ten stosuje się do produktów w postaci gotowej bezpośrednio do spożycia lub w postaci przygotowanej do spożycia zgodnie z instrukcjami wytwórców. | ( 1 ) Poziom ten stosuje się do produktów w postaci gotowej bezpośrednio do spożycia lub w postaci przygotowanej do spożycia zgodnie z instrukcjami wytwórców.
+
+ZAŁĄCZNIK IV
+OKREŚLENIE WYSOKOŚCI x
+WYSOKOŚĆ x
+Legenda
+1 | linia wydłużenia górnego
+2 | linia wersalika
+3 | średnia linia pisma
+4 | linia pisma
+5 | linia wydłużenia dolnego
+6 | wysokość x
+7 | rozmiar czcionki
+
+ZAŁĄCZNIK V
+ŚRODKI SPOŻYWCZE, KTÓRE SĄ ZWOLNIONE Z WYMOGU PRZEDSTAWIANIA OBOWIĄZKOWEJ INFORMACJI O WARTOŚCI ODŻYWCZEJ
+1. Produkty nieprzetworzone, które zawierają pojedynczy składnik lub pojedynczą kategorię składników;
+2. produkty przetworzone, w przypadku których jedynym procesem przetwarzania, jakim je poddano, jest dojrzewanie, i które obejmują pojedynczy składnik lub pojedynczą kategorię składników;
+3. wody przeznaczone do spożywania przez ludzi, w tym wody, których jedynymi dodanymi składnikami są dwutlenek węgla lub środki aromatyzujące;
+4. zioła, przyprawy lub ich mieszaniny;
+5. sól i substytuty soli;
+6. słodziki stołowe;
+7. produkty objęte dyrektywą 1999/4/WE Parlamentu Europejskiego i Rady z dnia 22 lutego 1999 r. odnoszącą się do ekstraktów kawy i ekstraktów cykorii ( 17 ), całe lub zmielone ziarna kawy oraz całe lub zmielone bezkofeinowe ziarna kawy;
+8. napary ziołowe i owocowe, herbata, herbata bezkofeinowa, herbata instant lub rozpuszczalna lub ekstrakt herbaty, bezkofeinowa herbata instant lub rozpuszczalna lub ekstrakt herbaty, które nie zawierają innych dodanych składników niż środki aromatyzujące, które nie zmieniają wartości odżywczej herbaty;
+9. octy fermentowane i substytuty octu, w tym te, których jedynymi dodanymi składnikami są środki aromatyzujące;
+10. środki aromatyzujące;
+11. dodatki do żywności;
+12. substancje pomocnicze w przetwórstwie;
+13. enzymy spożywcze;
+14. żelatyna;
+15. składniki powodujące zestalanie się dżemów;
+16. drożdże;
+17. gumy do żucia;
+18. żywność w opakowaniach lub pojemnikach, których największa powierzchnia jest mniejsza niż 25 cm 2 ;
+19. żywność, w tym żywność wytwarzana ręcznie, dostarczana bezpośrednio przez wytwórcę małych ilości produktów konsumentowi finalnemu lub miejscowym placówkom handlu detalicznego bezpośrednio zaopatrującym konsumenta finalnego.
+
+ZAŁĄCZNIK VI
+NAZWA ŚRODKA SPOŻYWCZEGO I KONKRETNE TOWARZYSZĄCE MU DANE SZCZEGÓŁOWE
+CZĘŚĆ A — OBOWIĄZKOWE DANE SZCZEGÓŁOWE TOWARZYSZĄCE NAZWIE ŚRODKA SPOŻYWCZEGO
+1. Nazwa danego środka spożywczego zawiera dane szczegółowe dotyczące warunków fizycznych tego środka spożywczego lub szczególnego przetwarzania, jakiemu został on poddany (np. sproszkowany, ponownie zamrożony, liofilizowany, głęboko mrożony, zagęszczony, wędzony), bądź dane takie towarzyszą nazwie, we wszystkich przypadkach, w których pominięcie takiej informacji mogłoby wprowadzić nabywcę w błąd.
+2. W przypadku środków spożywczych, które zostały przed sprzedażą zamrożone, a które są sprzedawane rozmrożone, nazwie danego środka spożywczego towarzyszy określenie „rozmrożone”.
+Wymóg ten nie ma zastosowania do:
+a) składników obecnych w produkcie końcowym;
+b) środków spożywczych, w których przypadku mrożenie to niezbędny etap technologiczny procesu produkcji;
+c) środków spożywczych, w których przypadku rozmrożenie nie ma negatywnego wpływu na bezpieczeństwo ani na jakość żywności.
+Niniejszy punkt stosuje się bez uszczerbku dla postanowień pkt 1.
+3. Środki spożywcze poddane procesom promieniowania jonizującego muszą być opatrzone jednym z następujących oznaczeń:
+„napromieniono(-y)” lub „poddano(-y) promieniowaniu jonizującemu” i innymi oznaczeniami określonymi w dyrektywie 1999/2/WE Parlamentu Europejskiego i Rady z dnia 22 lutego 1999 r. w sprawie zbliżenia ustawodawstw państw członkowskich dotyczących środków spożywczych oraz składników środków spożywczych poddanych działaniu promieniowania jonizującego ( 18 ).
+4. W przypadku środków spożywczych, w którym komponent lub składnik, których normalnego stosowania lub naturalnej obecności oczekują konsumenci, został zastąpiony innym komponentem lub składnikiem, etykietowanie zawiera – oprócz wykazu składników – jasne wskazanie, że ten komponent lub składnik został użyty w ramach częściowego lub całkowitego zastąpienia:
+a) bezpośrednio w pobliżu nazwy produktu; oraz
+b) z wykorzystaniem rozmiaru czcionki o wysokości x wynoszącej co najmniej 75 % wysokości x nazwy produktu i nie mniejszego niż minimalny rozmiar czcionki wymagany w art. 13 ust. 2 niniejszego rozporządzenia.
+5. W przypadku produktów mięsnych, surowych wyrobów mięsnych i produktów rybołówstwa zawierających dodatek białka jako takiego, w tym hydrolizatów białkowych, z różnych źródeł zwierzęcych, nazwa żywności opatrzona jest informacją o obecności tych białek i o ich pochodzeniu.
+6. W przypadku produktów mięsnych i surowych wyrobów mięsnych w formie płata, sztuki mięsa, plastra, porcji lub tuszy zwierzęcej nazwa żywności obejmuje informację o dodanej wodzie, jeżeli dodana woda przekracza 5 % wagi gotowego produktu. Ta sama zasada ma zastosowanie do produktów rybołówstwa i przygotowanych produktów rybołówstwa w formie płata, sztuki, plastra, porcji, filetu lub całego produktu rybołówstwa.
+7. Produkty mięsne, surowe wyroby mięsne i produkty rybołówstwa, które mogą sprawiać wrażenie, że stanowią jeden kawałek mięsa lub ryby, a w rzeczywistości składają się z różnych kawałków połączonych za pomocą innych składników, w tym dodatków do żywności i enzymów spożywczych, lub innymi sposobami, opatrzone są następującą informacją:
+w języku bułgarskim | : | „формовано месо” i „формована риба”,
+w języku hiszpańskim | : | „elaborado a partir de piezas de carne” i „elaborado a partir de piezas de pescado”,
+w języku czeskim | : | „ze spojovaných kousků masa” i „ze spojovaných kousků rybího masa”,
+w języku duńskim | : | „Sammensat af stykker af kød” i „Sammensat af stykker af fisk”,
+w języku niemieckim | : | „aus Fleischstücken zusammengefügt” i „aus Fischstücken zusammengefügt”,
+w języku estońskim | : | „liidetud liha” i „liidetud kala”,
+w języku greckim | : | „μορφοποιημένο κρέας” i „μορφοποιημένο ψάρι”,
+w języku angielskim | : | „formed meat” i „formed fish”,
+w języku francuskim | : | „viande reconstituée” i „poisson reconstitué”,
+w języku irlandzkim | : | „píosaí feola ceangailte” i „píosaí éisc ceangailte”,
+w języku włoskim | : | „carne ricomposta” i „pesce ricomposto”,
+w języku łotewskim | : | „formēta gaļa” i „formēta zivs”,
+w języku litewskim | : | „sudarytas (-a) iš mėsos gabalų” i „sudarytas (-a) iš žuvies gabalų”,
+w języku węgierskim | : | „darabokból újraformázott hús” i „darabokból újraformázott hal”,
+w języku maltańskim | : | „laħam rikostitwit” i „ħut rikostitwit”,
+w języku niderlandzkim | : | „samengesteld uit stukjes vlees” i „samengesteld uit stukjes vis”,
+w języku polskim | : | „z połączonych kawałków mięsa” i „z połączonych kawałków ryby”,
+w języku portugalskim | : | „carne reconstituída” i „peixe reconstituído”,
+w języku rumuńskim | : | „carne formată” i „carne de pește formată”,
+w języku słowackim | : | „zo spájaných kúskov mäsa” i „zo spájaných kúskov ryby”,
+w języku słoweńskim | : | „sestavljeno, iz koščkov oblikovano meso” i „sestavljene, iz koščkov oblikovane ribe”,
+w języku fińskim | : | „paloista yhdistetty liha” i „paloista yhdistetty kala”,
+w języku szwedzkim | : | „sammanfogade bitar av kött” i „sammanfogade bitar av fisk”.
+CZĘŚĆ B — SZCZEGÓŁOWE WYMOGI DOTYCZĄCE NAZEWNICTWA „MIĘSA MIELONEGO”
+1. Kryteria składu sprawdzane na podstawie średniej dobowej:
+ | Zawartość tłuszczu | Stosunek: kolagen/białko mięsa ( 1 )
+— chude mięso mielone | ≤ 7 % | ≤ 12 %
+— mielona czysta wołowina | ≤ 20 % | ≤ 15 %
+— mięso mielone zawierające wieprzowinę | ≤ 30 % | ≤ 18 %
+— mięso mielone innego gatunku | ≤ 25 % | ≤ 15 %
+( 1 ) Stosunek: kolagen/białko mięsa podawany jest jako procentowa zawartość kolagenu w białku mięsa. Zawartość kolagenu oznacza zawartość hydroksyproliny pomnożonej przez współczynnik 8. | ( 1 ) Stosunek: kolagen/białko mięsa podawany jest jako procentowa zawartość kolagenu w białku mięsa. Zawartość kolagenu oznacza zawartość hydroksyproliny pomnożonej przez współczynnik 8. | ( 1 ) Stosunek: kolagen/białko mięsa podawany jest jako procentowa zawartość kolagenu w białku mięsa. Zawartość kolagenu oznacza zawartość hydroksyproliny pomnożonej przez współczynnik 8.
+2. Oprócz wymogów ustanowionych w rozdziale IV sekcji V załącznika III do rozporządzenia (WE) nr 853/2004 w etykietowaniu muszą się znajdować następujące wyrażenia informujące:
+— „zawartość procentowa tłuszczu poniżej …”;
+— „stosunek kolagenu do białka mięsa poniżej …”.
+3. Państwa członkowskie mogą zezwolić na wprowadzanie na ich krajowy rynek mięsa mielonego, które nie spełnia kryteriów ustanowionych w pkt 1 niniejszej części, pod znakiem krajowym, który nie może być mylony ze znakami przewidzianymi w art. 5 ust. 1 rozporządzenia (WE) nr 853/2004.
+CZĘŚĆ C — SZCZEGÓŁOWE WYMOGI DOTYCZĄCE NAZEWNICTWA OSŁONEK WĘDLIN
+Jeżeli osłonka wędliny nie jest jadalna, musi to zostać wskazane.
+
+ZAŁĄCZNIK VII
+OZNACZANIE I OKREŚLANIE SKŁADNIKÓW
+CZĘŚĆ A — PRZEPISY SZCZEGÓŁOWE DOTYCZĄCE OZNACZANIA SKŁADNIKÓW W MALEJĄCEJ KOLEJNOŚCI WAGOWEJ
+Kategoria składników | Przepis dotyczący oznaczania w kolejności wagowej
+1. Dodana woda oraz dodane produkty lotne | Wymieniane są w kolejności według ich masy w produkcie gotowym. Ilość wody dodanej jako składnik do środka spożywczego oblicza się przez odjęcie od całkowitej ilości produktu gotowego całkowitej ilości innych użytych składników. Ilość ta nie musi być brana pod uwagę, jeżeli nie przekracza wagowo 5 % produktu gotowego. To odstępstwo nie ma zastosowania do mięsa, surowych wyrobów mięsnych, nieprzetworzonych produktów rybołówstwa i nieprzetworzonych małży.
+2. Składniki używane w postaci skoncentrowanej lub odwodnionej i odtworzone podczas wytwarzania | Mogą być wymienione w kolejności wagowej zarejestrowanej przed ich koncentracją lub odwodnieniem.
+3. Składniki używane w skoncentrowanych lub odwodnionych środkach spożywczych, przeznaczonych do odtworzenia przez dodanie wody | Mogą być wymienione w kolejności ich proporcjonalnej zawartości w produkcie odtworzonym, pod warunkiem że wykazowi składników towarzyszy sformułowanie „składniki odtworzonego produktu” lub „składniki produktu gotowego do spożycia”.
+4. Owoce, warzywa lub grzyby, gdy żaden z ich poszczególnych gatunków nie ma znacznej przewagi wagowej i gdy są one stosowane w proporcjach, które mogą się zmieniać, stosowane w mieszance jako składniki środka spożywczego | Mogą być grupowane w wykazie składników pod nazwą „owoce”, „warzywa” lub „grzyby”, z następującą po niej frazą „w zmiennych proporcjach”, bezpośrednio po której podany jest wykaz danych owoców, warzyw lub grzybów. W takich przypadkach mieszanka musi być uwzględniona w wykazie składników zgodnie z art. 18 ust. 1, na podstawie całkowitej masy danych owoców, warzyw lub grzybów.
+5. Mieszanki przypraw lub ziół, gdy żadna z przypraw i żadne z ziół nie ma znacznej przewagi w proporcji wagowej | Mogą być wymienione w różnej kolejności, pod warunkiem że wykazowi składników towarzyszy sformułowanie „w zmiennych proporcjach” lub podobne.
+6. Składniki stanowiące mniej niż 2 % produktu gotowego | Mogą być wymienione w dowolnej kolejności, po pozostałych składnikach.
+7. Składniki, które są podobne lub wzajemnie zastępowalne, które mogą być stosowane podczas wytwarzania lub przygotowywania żywności bez zmiany jej składu, charakteru lub postrzeganej wartości, o ile stanowią mniej niż 2 % produktu gotowego | Mogą być określane w wykazie składników z użyciem komunikatu „zawiera … i/lub …”, o ile co najmniej jeden z maksymalnie dwóch składników występuje w produkcie gotowym. Ten przepis nie ma zastosowania do dodatków do żywności lub składników wymienionych w części C niniejszego załącznika ani do substancji lub produktów powodujących alergie lub reakcje nietolerancji wymienionych w załączniku II.
+8. Rafinowane oleje pochodzenia roślinnego | Mogą być grupowane w wykazie składników pod nazwą „oleje roślinne” z następującym niezwłocznie po tej nazwie wykazem oznaczeń określonych źródeł roślinnych; może po nim następować fraza „w zmiennych proporcjach”. Jeżeli oleje roślinne są grupowane w wykazie składników, to umieszczane są w nim zgodnie z art. 18 ust. 1, na podstawie całkowitej masy danych olejów roślinnych. Oznaczeniu oleju uwodornionego musi towarzyszyć określenie „całkowicie uwodorniony/utwardzony” lub „częściowo uwodorniony/utwardzony”.
+9. Rafinowane tłuszcze pochodzenia roślinnego | Mogą być grupowane w wykazie składników pod nazwą „tłuszcze roślinne” z następującym niezwłocznie po tej nazwie wykazem oznaczeń określonych źródeł roślinnych; może po nim następować fraza „w zmiennych proporcjach”. Jeżeli tłuszcze roślinne są grupowane w wykazie składników, to umieszczane są w nim zgodnie z art. 18 ust. 1, na podstawie całkowitej masy danych tłuszczów roślinnych. Oznaczeniu tłuszczu uwodornionego musi towarzyszyć określenie „całkowicie uwodorniony/utwardzony” lub „częściowo uwodorniony/utwardzony”.
+CZĘŚĆ B — OKREŚLANIE NIEKTÓRYCH SKŁADNIKÓW NAZWĄ KATEGORII ZAMIAST NAZWY SZCZEGOŁOWEJ
+Bez uszczerbku dla art. 21 składniki, które należą do jednej z kategorii żywności wymienionych poniżej i są komponentami innej żywności, mogą być oznaczane nazwą tej kategorii zamiast nazwy szczegółowej.
+Definicja kategorii żywności | Oznaczenie
+1. Rafinowane oleje pochodzenia zwierzęcego | „Olej” wraz z przymiotnikiem „zwierzęcy” albo oznaczeniem określonego pochodzenia zwierzęcego. Oznaczeniu oleju uwodornionego musi towarzyszyć określenie „całkowicie uwodorniony/utwardzony” lub „częściowo uwodorniony/utwardzony”.
+2. Rafinowane tłuszcze pochodzenia zwierzęcego | „Tłuszcz” wraz z przymiotnikiem „zwierzęcy” albo oznaczeniem określonego pochodzenia zwierzęcego. Oznaczeniu tłuszczu uwodornionego musi towarzyszyć określenie „całkowicie uwodorniony/utwardzony” lub „częściowo uwodorniony/utwardzony”.
+3. Mieszanki mąki uzyskane z dwu lub więcej gatunków zbóż | „Mąka”, wraz z wykazem zbóż, z których została uzyskana, w malejącej kolejności wagowej.
+4. Skrobie oraz skrobie modyfikowane na drodze fizycznej lub enzymatycznej | „Skrobia”
+5. Wszystkie gatunki ryb, gdy ryba stanowi składnik innego środka spożywczego, pod warunkiem że nazwa i prezentacja takiego środka spożywczego nie odnosi się do określonego gatunku ryby | „Ryby”
+6. Wszystkie rodzaje sera, gdy ser lub mieszanka serów stanowi składnik innego środka spożywczego, pod warunkiem że nazwa i prezentacja takiego środka spożywczego nie odnosi się do określonego rodzaju sera | „Ser”
+7. Wszystkie przyprawy w ilości nieprzekraczającej wagowo 2 % środka spożywczego | „Przyprawy” lub „Mieszanka przypraw”
+8. Wszystkie zioła lub części ziół w ilości nieprzekraczającej wagowo 2 % środka spożywczego | „Zioła” lub „mieszanka ziół”
+9. Wszystkie rodzaje preparatów gumowych użytych do produkcji podstawy do gumy do żucia | „Baza gumowa”
+10. Wszystkie rodzaje rozdrobnionych pieczonych produktów zbożowych | Odpowiednio „bułka tarta” lub „suchary”
+11. Wszystkie rodzaje sacharozy | „Cukier”
+12. Bezwodna glukoza (bezwodna dekstroza) lub jednowodna glukoza (jednowodna dekstroza) | „Glukoza”
+13. Syrop glukozowy i bezwodny syrop glukozowy | „Syrop glukozowy”
+14. Wszystkie rodzaje białek mleka (kazeiny, kazeiniany oraz białka z serwatki) i ich mieszanki | „Białka mleka”
+15. Prasowany, tłoczony lub rafinowany tłuszcz kakaowy | „Tłuszcz kakaowy”
+16. Wszystkie rodzaje wina objęte załącznikiem XI b do rozporządzenia (WE) nr 1234/2007 ( 1 ) | „Wino”
+17. Mięśnie szkieletowe ( 2 ) gatunków ssaków i ptaków uznane za odpowiednie do spożycia przez ludzi, z naturalnie zawartą lub przynależną tkanką, gdzie całkowita zawartość tłuszczu i tkanki łącznej nie przekracza wartości wskazanych poniżej, oraz w przypadku gdy mięso stanowi składnik innego środka spożywczego. Maksymalna zawartość tłuszczu i tkanki łącznej dla składników nazwanych terminem „mięso …” Gatunek Zawartość tłuszczu Stosunek: kolagen/białko mięsa ( 1 ) — Ssaki (inne niż króliki i świnie) i mieszaniny gatunków z przewagą ssaków 25 % 25 % — Świnie 30 % 25 % — Ptaki i króliki 15 % 10 % ( 1 ) Stosunek: kolagen/białko mięsa podawany jest jako procentowa zawartość kolagenu w białku mięsa. Zawartość kolagenu oznacza zawartość hydroksyproliny pomnożonej przez współczynnik 8. W przypadku przekroczenia tych maksymalnych limitów, ale przy spełnieniu pozostałych kryteriów definicji „mięsa”, zawartość „mięsa …” musi zostać odpowiednio obniżona, a w wykazie składników musi być wymieniona oprócz terminu „mięso …” zawartość tłuszczu lub tkanki łącznej. Produkty objęte definicją „mięsa oddzielonego mechanicznie” wyłącza się z zakresu niniejszej definicji. | „mięso …” i nazwa (nazwy) ( 3 ) gatunków zwierząt, z których pochodzi.
+18. Wszystkie rodzaje produktów objętych definicją „mięso oddzielone mechanicznie”. | „mięso oddzielone mechanicznie” i nazwa(-y) ( 3 ) gatunków zwierząt, z których pochodzi.
+( 1 ) Rozporządzenie Rady (WE) nr 1234/2007 z 22 października 2007 r. ustanawiające wspólną organizację rynków rolnych oraz przepisy szczegółowe dotyczące niektórych produktów rolnych (rozporządzenie o jednolitej wspólnej organizacji rynku) (Dz.U. L 299 z 16.11.2007, s. 1). ( 2 ) Przepona i żwacze należą do mięśni szkieletowych, podczas gdy serce, język, mięśnie głowy (inne niż żwacze), mięśnie nadgarstka, stępu i ogona są wyłączone z tego zakresu. ( 3 ) W przypadku etykietowania w języku angielskim niniejsze oznaczenie może być zastąpione nazwą rodzajową składnika dla danego gatunku zwierząt. | ( 1 ) Rozporządzenie Rady (WE) nr 1234/2007 z 22 października 2007 r. ustanawiające wspólną organizację rynków rolnych oraz przepisy szczegółowe dotyczące niektórych produktów rolnych (rozporządzenie o jednolitej wspólnej organizacji rynku) (Dz.U. L 299 z 16.11.2007, s. 1). ( 2 ) Przepona i żwacze należą do mięśni szkieletowych, podczas gdy serce, język, mięśnie głowy (inne niż żwacze), mięśnie nadgarstka, stępu i ogona są wyłączone z tego zakresu. ( 3 ) W przypadku etykietowania w języku angielskim niniejsze oznaczenie może być zastąpione nazwą rodzajową składnika dla danego gatunku zwierząt.
+CZĘŚĆ C — OKREŚLANIE NIEKTÓRYCH SKŁADNIKÓW NAZWĄ KATEGORII WRAZ Z PODANIEM ICH SZCZEGÓŁOWEJ NAZWY LUB NUMERU E
+Bez uszczerbku dla art. 21 dodatki do środków spożywczych i enzymy spożywcze inne niż określone w art. 20 lit. b), należące do jednej z kategorii wymienionych w niniejszej części, muszą być oznaczone nazwą tej kategorii, po której podana jest ich szczegółowa nazwa lub, jeśli jest to właściwe, numer E. W przypadku gdy składnik należy do więcej niż jednej z kategorii, należy oznaczyć kategorię właściwą dla zasadniczej funkcji składnika w przypadku danego środka spożywczego.
+Kwas
+Regulator kwasowości
+Substancja przeciwzbrylająca
+Substancja przeciwpieniąca
+Przeciwutleniacz
+Substancja wypełniająca
+Barwnik
+Emulgator
+Sole emulgujące ( 19 )
+Substancja wiążąca
+Wzmacniacz smaku
+Środek do przetwarzania mąki (polepszacz)
+Substancja pianotwórcza
+Substancja żelująca
+Substancja glazurująca
+Substancja utrzymująca wilgoć
+Skrobia modyfikowana ( 20 )
+Substancja konserwująca
+Gaz nośny
+Substancja spulchniająca
+Sekwestranty
+Stabilizator
+Substancja słodząca
+Substancja zagęszczająca
+CZĘŚĆ D — OKREŚLENIE NAZW ŚRODKÓW AROMATYZUJĄCYCH W WYKAZIE SKŁADNIKÓW
+1. Środki aromatyzujące (aromaty) są określone wyrazami:
+— „środek(-ki) aromatyzujący(-e)” lub „aromat(-y)” lub nazwą bardziej szczegółową lub opisem środka aromatyzującego (aromatu), jeżeli składnik aromatyzujący zawiera środki aromatyzujące (aromaty) zdefiniowane w art. 3 ust. 2 lit. b), c), d), e), f), g) i h) rozporządzenia (WE) nr 1334/2008,
+— „środek(-ki) aromatyzujący(-e) dymu wędzarniczego” lub „aromat(-y) dymu wędzarniczego” lub „środek(-ki) aromatyzujący(-e) dymu wędzarniczego wyprodukowany(-e) ze środków spożywczych lub kategorii albo źródeł środków spożywczych” (np. „środek aromatyzujący dymu wędzarniczego wyprodukowany z buczyny”) lub „aromat(-y) dymu wędzarniczego wyprodukowany(-e) ze środków spożywczych lub kategorii albo źródeł środków spożywczych” (np. „aromat dymu wędzarniczego wyprodukowany z buczyny”), jeżeli składnik aromatyzujący zawiera środki aromatyzujące określone w art. 3 ust. 2 lit. f) rozporządzenia (WE) nr 1334/2008 i nadaje żywności aromat dymu wędzarniczego.
+2. Termin „naturalny” do opisu środków aromatycznych (aromatów) jest używany zgodnie z art. 16 rozporządzenia (WE) nr 1334/2008.
+3. Chinina lub kofeina stosowane jako środek aromatyzujący (aromat) w produkcji lub przygotowaniu środka spożywczego są wymienione z nazwy w wykazie składników bezpośrednio po określeniu „środek(-ki) aromatyzujący(-e)” lub „aromat(-y)”.
+CZĘŚĆ E — OZNACZANIE SKŁADNIKÓW ZŁOŻONYCH
+1. Składnik złożony może być włączony do wykazu składników pod własną nazwą, w zakresie, w jakim jest to przewidziane przez prawo lub przyjęte zwyczajowo, w przeliczeniu na jego całkowitą masę, pod warunkiem że natychmiast po nim występuje wykaz jego składników.
+2. Bez uszczerbku dla art. 21 wykaz składników w przypadku składników złożonych nie jest obowiązkowy:
+a) w przypadku gdy skład składnika złożonego jest zdefiniowany w aktualnych przepisach unijnych, o ile składnik złożony stanowi mniej niż 2 % produktu gotowego; jednakże przepis ten nie ma zastosowania w przypadku dodatków do żywności, z zastrzeżeniem przepisów art. 20 lit. a)–d);
+b) w przypadku składników złożonych składających się z mieszanek przypraw lub ziół stanowiących mniej niż 2 % produktu gotowego, z wyjątkiem dodatków do żywności, z zastrzeżeniem przepisów art. 20 lit. a)–d); lub
+c) w przypadku gdy składnik złożony jest środkiem spożywczym, w przypadku którego nie wymaga się wykazu składników zgodnie z przepisami unijnymi.
+
+ZAŁĄCZNIK VIII
+OZNACZENIE ILOŚCIOWE SKŁADNIKÓW
+1. Oznaczenie ilościowe nie jest wymagane:
+a) w przypadku składnika lub kategorii składników:
+(i) których masa netto po odsączeniu jest oznaczona zgodnie z załącznikiem IX pkt 5;
+(ii) w przypadku których oznaczenie ilości w etykietowaniu jest już obowiązkowe zgodnie z przepisami unijnymi;
+(iii) które są użyte w małych ilościach do celów aromatyczno-smakowych; lub
+(iv) które występując w nazwie środków spożywczych, nie wpływają na wybór dokonywany przez konsumenta w kraju, w którym są wprowadzone na rynek, ponieważ zmiana ilości nie ma zasadniczego wpływu na charakterystykę środków spożywczych lub nie odróżnia tego środka spożywczego od podobnych środków spożywczych;
+b) w przypadku gdy szczegółowe przepisy unijne ustalają dokładnie ilość składnika lub kategorii składników, nie przewidując oznaczenia ich na etykiecie; lub
+c) w przypadkach, o których mowa w załączniku VII część A pkt 4 i 5.
+2. Artykuł 22 ust. 1 lit. a) i b) nie mają zastosowania w przypadku:
+a) jakiegokolwiek składnika lub kategorii składników objętych określeniem „z substancją słodzącą (substancjami słodzącymi)” lub „z cukrem (cukrami) i substancją słodzącą (substancjami słodzącymi)”, jeśli to określenie towarzyszy nazwie żywności, zgodnie z załącznikiem III; lub
+b) jakiejkolwiek dodanej witaminy i jakiegokolwiek dodanego składnika mineralnego, jeśli taka substancja jest przedmiotem informacji o wartości odżywczej.
+3. Określenie ilości składnika lub kategorii składników:
+a) jest wyrażone wartością procentową, która musi odpowiadać ilości składnika lub składników w chwili jego/ich użycia; oraz
+b) znajduje się albo w nazwie środka spożywczego, albo bezpośrednio przy niej lub w wykazie składników w powiązaniu z danym składnikiem lub kategorią składników.
+4. W drodze odstępstwa od pkt 3:
+a) w przypadku gdy środki spożywcze utraciły wilgotność po przetwarzaniu termicznym lub innego rodzaju przetwarzaniu, ilość jest wyrażona jako wartość procentowa odpowiadająca ilości zastosowanych składników lub zastosowanego składnika względem produktu gotowego, chyba że ta ilość lub całkowita ilość wszystkich składników określonych w etykietowaniu przekracza 100 %, w którym to przypadku ilość jest określona na podstawie masy składnika lub składników wykorzystanych do przygotowania 100 g produktu gotowego;
+b) ilość składników lotnych jest określona na podstawie ich wagowego udziału w produkcie gotowym;
+c) ilość składników użytych w postaci skoncentrowanej lub odwodnionej i odtworzonych podczas wytwarzania może być określona na podstawie ich wagowego udziału zarejestrowanego przed ich koncentracją lub odwodnieniem;
+d) w przypadku skoncentrowanych lub odwodnionych środków spożywczych, przeznaczonych do odtworzenia przez dodanie wody, ilość składników może być określona na podstawie ich wagowego udziału w odtworzonym produkcie.
+
+ZAŁĄCZNIK IX
+OZNACZANIE ILOŚCI NETTO
+1. Oznaczanie ilości netto nie jest obowiązkowe w przypadku środków spożywczych:
+a) które znacznie tracą na objętości lub masie i które są sprzedawane na sztuki lub ważone w obecności nabywcy;
+b) których ilość netto jest mniejsza niż 5 g lub 5 ml; jednakże niniejszy przepis nie ma zastosowania do przypraw i ziół; lub
+c) zazwyczaj sprzedawanych na sztuki, pod warunkiem że liczba sztuk jest wyraźnie widoczna i łatwa do policzenia z zewnątrz lub, w przeciwnym przypadku, jest oznaczona na etykiecie.
+2. W przypadku gdy oznaczenie określonego rodzaju ilości (np. ilość nominalna, ilość minimalna, ilość średnia) jest wymagane na mocy przepisów unijnych, lub – w przypadku ich braku – na mocy przepisów krajowych, ilość ta jest uważana za ilość netto do celów niniejszego rozporządzenia.
+3. W przypadku gdy opakowany artykuł składa się z dwóch lub więcej pojedynczych sztuk w opakowaniach jednostkowych zawierających taką samą ilość tego samego produktu, ilość netto oznaczona jest przez wymienienie ilości netto zawartej w każdym opakowaniu jednostkowym oraz całkowitej liczby takich opakowań. Oznaczenie tych danych szczegółowych nie jest jednakże obowiązkowe, w przypadku gdy całkowita liczba opakowań jednostkowych jest wyraźnie widoczna i łatwa do policzenia z zewnątrz oraz gdy przynajmniej jedno oznaczenie ilości netto, zawartej w każdym opakowaniu jednostkowym, jest wyraźnie widoczne z zewnątrz.
+4. W przypadku gdy opakowany artykuł składa się z dwóch lub więcej opakowań jednostkowych, które nie są uznawane za jednostki sprzedaży, ilość netto jest podawana przez oznaczenie całkowitej ilości netto oraz całkowitej liczby opakowań jednostkowych.
+5. W przypadku gdy środek spożywczy w stanie stałym jest prezentowany w środku płynnym, na etykiecie należy również podać masę netto środka spożywczego po odsączeniu. W przypadku gdy środek spożywczy został glazurowany, deklarowana masa netto tego środka podawana jest z wyłączeniem glazury.
+Do celów niniejszego punktu „środek płynny” oznacza następujące produkty, które mogą występować jako mieszanki, a także w postaci zamrożonej lub szybko zamrożonej, pod warunkiem że płyn jest jedynie dodatkiem do podstawowych składników tego preparatu i przez to nie jest czynnikiem decydującym o zakupie: woda, wodne roztwory soli, solanka, wodne roztwory kwasów spożywczych, ocet, wodne roztwory cukrów, wodne roztwory innych substancji słodzących, soki owocowe lub warzywne w przypadku owoców lub warzyw.
+
+ZAŁĄCZNIK X
+DATA MINIMALNEJ TRWAŁOŚCI, TERMIN PRZYDATNOŚCI DO SPOŻYCIA I DATA ZAMROŻENIA
+1. Data minimalnej trwałości jest oznaczana następująco:
+a) datę poprzedza sformułowanie:
+— „Najlepiej spożyć przed …” – gdy data zawiera oznaczenie dnia,
+— „Najlepiej spożyć przed końcem …” – w innych przypadkach;
+b) sformułowaniom określonym w lit. a) towarzyszy:
+— sama data, albo
+— odesłanie do miejsca, gdzie data jest podana w etykietowaniu.
+W razie potrzeby po tych danych szczegółowych następuje opis warunków przechowywania, które muszą być przestrzegane, aby produkt mógł być przechowywany przez określony okres;
+c) data składa się z dnia, miesiąca i ewentualnie roku, w takiej kolejności oraz w niekodowanej formie.
+Jednakże w przypadku środków spożywczych:
+— których trwałość nie przekracza trzech miesięcy, wystarczy oznaczenie dnia oraz miesiąca,
+— których trwałość przekracza trzy miesiące, lecz nie przekracza 18 miesięcy, wystarczy oznaczenie miesiąca oraz roku,
+— których trwałość przekracza 18 miesięcy, wystarczy oznaczenie roku;
+d) z zastrzeżeniem przepisów unijnych przewidujących inne rodzaje oznaczenia daty oznaczenie daty minimalnej trwałości nie jest wymagane dla:
+— świeżych owoców i warzyw, w tym ziemniaków, które nie są obrane, pokrojone ani podobnie przygotowane; odstępstwo to nie ma zastosowania do kiełkujących nasion i podobnych produktów, takich jak kiełki warzywne,
+— win, win likierowych, win musujących, win aromatyzowanych oraz podobnych produktów uzyskanych z owoców innych niż winogrona, a także napojów objętych kodem CN 2206 00 uzyskanych z winogron lub moszczu winogronowego,
+— napojów o zawartości alkoholu wynoszącej 10 % objętościowo lub więcej,
+— wyrobów piekarniczych lub cukierniczych, które ze względu na swoją specyfikę są zwykle spożywane w ciągu 24 godzin od wytworzenia,
+— octu,
+— soli kuchennej,
+— cukru w stanie stałym,
+— wyrobów cukierniczych składających się prawie wyłącznie z cukrów aromatyzowanych lub barwionych,
+— gum do żucia oraz podobnych produktów do żucia.
+2. Termin przydatności do spożycia jest oznaczany następująco:
+a) poprzedza go sformułowanie „Należy spożyć do …”;
+b) sformułowaniu w lit. a) towarzyszy:
+— sama data, albo
+— odesłanie do miejsca, gdzie data jest podana w etykietowaniu.
+Po tych danych szczegółowych następuje opis warunków przechowywania, które muszą być przestrzegane;
+c) data składa się z dnia, miesiąca i ewentualnie roku, w takiej kolejności oraz w niekodowanej formie;
+d) termin przydatności do spożycia znajduje się na każdej z oddzielnie zapakowanych porcji.
+3. Datę zamrożenia lub datę pierwszego zamrożenia, o której mowa w załączniku III pkt 6, oznacza się następująco:
+a) poprzedza ją sformułowanie „Zamrożone dnia …”;
+b) sformułowaniu, o którym mowa w lit. a), towarzyszy:
+— sama data, lub
+— odesłanie do miejsca, gdzie data jest podana w etykietowaniu;
+c) data składa się z dnia, miesiąca i roku, w takiej kolejności oraz w niekodowanej formie.
+
+ZAŁĄCZNIK XI
+RODZAJE MIĘSA, W ODNIESIENIU DO KTÓRYCH OBOWIĄZKOWE JEST OKREŚLANIE KRAJU LUB MIEJSCA POCHODZENIA
+Kody CN (Nomenklatura scalona 2010) | Opis
+0203 | Mięso ze świń, świeże, schłodzone lub zamrożone
+0204 | Mięso z owiec lub kóz, świeże, schłodzone lub zamrożone
+Ex 02 07 | Mięso z drobiu objętego pozycją 0105 , świeże, schłodzone lub zamrożone
+
+ZAŁĄCZNIK XII
+ZAWARTOŚĆ ALKOHOLU
+Rzeczywista objętościowa zawartość alkoholu w napojach o zawartości alkoholu ponad 1,2 % objętościowo jest określana liczbą z uwzględnieniem nie więcej niż jednego miejsca po przecinku. ►C1 Następuje po niej symbol „% obj.” lub „% vol.” i może ona być poprzedzona wyrazem „alkohol” lub skrótem „alk.”. ◄
+Oznaczenie zawartości alkoholu odbywa się w temperaturze 20 °C.
+Zakresy dopuszczalnych odchyleń dodatnich lub ujemnych dozwolonych w odniesieniu do oznaczania zawartości alkoholu według objętości, w wartościach bezwzględnych, są określone w poniższej tabeli. Stosuje się je bez uszczerbku dla zakresu dopuszczalnych odchyleń wynikających z metody analizy zastosowanej do określenia zawartości alkoholu.
+Opis napoju | Dopuszczalne odchylenia dodatnie lub ujemne
+1. Piwo oznaczone kodem CN 2203 00 o zawartości alkoholu nieprzekraczającej 5,5 % obj.; napoje spokojne objęte kodem CN 2206 00 uzyskane z winogron | 0,5 % obj.
+2. Piwo o zawartości alkoholu przekraczającej 5,5 % obj.; napoje musujące objęte kodem CN 2206 00 uzyskane z winogron, cydr, perry, wino owocowe itp., uzyskane z owoców innych niż winogrona, również półmusujące lub musujące; miód pitny | 1 % obj.
+3. Napoje zawierające zmacerowane owoce lub części roślin | 1,5 % obj.
+4. Wszelkie inne napoje o zawartości alkoholu wyższej niż 1,2 % objętościowo | 0,3 % obj.
+
+ZAŁĄCZNIK XIII
+REFERENCYJNE WARTOŚCI SPOŻYCIA
+CZĘŚĆ A – DZIENNE REFERENCYJNE WARTOŚCI SPOŻYCIA WITAMIN I SKŁADNIKÓW MINERALNYCH (DLA OSÓB DOROSŁYCH)
+1. Witaminy i składniki mineralne, które mogą być podawane, oraz ich referencyjne wartości spożycia
+Witamina A (μg) | 800
+Witamina D (μg) | 5
+Witamina E (mg) | 12
+Witamina K (μg) | 75
+Witamina C (mg) | 80
+Tiamina (mg) | 1,1
+Ryboflawina (mg) | 1,4
+Niacyna (mg) | 16
+Witamina B6 (mg) | 1,4
+Kwas foliowy (μg) | 200
+Witamina B12 (μg) | 2,5
+Biotyna (μg) | 50
+Kwas pantotenowy (mg) | 6
+Potas (mg) | 2 000
+►C1 Chlorek (mg) | 800 ◄
+Wapń (mg) | 800
+Fosfor (mg) | 700
+Magnez (mg) | 375
+Żelazo (mg) | 14
+Cynk (mg) | 10
+Miedź (mg) | 1
+Mangan (mg) | 2
+►C1 Fluorek (mg) | 3,5 ◄
+Selen (μg) | 55
+Chrom (μg) | 40
+Molibden (μg) | 50
+Jod (μg) | 150
+2. Znacząca ilość witamin i składników mineralnych
+Co do zasady do celów określania, czy dana substancja stanowi ilość znaczącą, należy uwzględniać następujące wartości:
+— 15 % referencyjnych wartości spożycia określonych w pkt 1, zawarte w 100 g lub 100 ml, w przypadku produktów innych niż napoje,
+— 7,5 % referencyjnych wartości spożycia określonych w pkt 1, zawarte w 100 ml, w przypadku napojów, lub
+— 15 % referencyjnych wartości spożycia określonych w pkt 1, w przeliczeniu na porcję, jeżeli dane opakowanie zawiera wyłącznie jedną porcję.
+CZĘŚĆ B – REFERENCYJNE WARTOŚCI SPOŻYCIA DLA WARTOŚCI ENERGETYCZNEJ I WYBRANYCH SKŁADNIKÓW ODŻYWCZYCH INNYCH NIŻ WITAMINY I SKŁADNIKI MINERALNE (DLA OSÓB DOROSŁYCH)
+Wartość energetyczna lub składnik odżywczy | Referencyjne wartości spożycia
+Wartość energetyczna | 8 400 kJ/2 000 kcal
+Tłuszcz | 70 g
+Kwasy tłuszczowe nasycone | 20 g
+Węglowodany | 260 g
+Cukry | 90 g
+Białko | 50 g
+Sól | 6 g
+
+ZAŁĄCZNIK XIV
+WSPÓŁCZYNNIKI PRZELICZENIOWE
+WSPÓŁCZYNNIKI PRZELICZENIOWE DO OBLICZANIA WARTOŚCI ENERGETYCZNEJ
+Podawaną wartość energetyczną oblicza się z użyciem następujących współczynników przeliczeniowych:
+— węglowodany (z wyjątkiem alkoholi wielowodorotlenowych) | 17 kJ/g — 4 kcal/g
+— alkohole wielowodorotlenowe (poliole) | 10 kJ/g — 2,4 kcal/g
+— białko | 17 kJ/g — 4 kcal/g
+— tłuszcz | 37 kJ/g — 9 kcal/g
+— salatrimy | 25 kJ/g — 6 kcal/g
+— alkohol (etanol) | 29 kJ/g — 7 kcal/g
+— kwasy organiczne | 13 kJ/g — 3 kcal/g
+— błonnik | 8 kJ/g — 2 kcal/g
+— erytrytol | 0 kJ/g — 0 kcal/g
+
+ZAŁĄCZNIK XV
+SPOSÓB WYRAŻENIA I PREZENTACJA INFORMACJI O WARTOŚCI ODŻYWCZEJ
+Jednostki miary stosowane w informacji o wartości odżywczej w przypadku wartości energetycznej (kilodżule (kJ) i kilokalorie (kcal)), masy (gramy (g), miligramy (mg) lub mikrogramy (μg)) oraz kolejność przedstawienia informacji, w odpowiednich przypadkach, są następujące:
+wartość energetyczna (energia) | kJ/kcal
+tłuszcz | g
+w tym | w tym
+— kwasy tłuszczowe nasycone (kwasy nasycone) | g
+— kwasy tłuszczowe jednonienasycone (jednonienasycone) | g
+— kwasy tłuszczowe wielonienasycone (wielonienasycone) | g
+węglowodany | g
+w tym | w tym
+— cukry | g
+— alkohole wielowodorotlenowe (poliole) | g
+— skrobia | g
+błonnik | g
+białko | g
+sól | g
+witaminy i składniki mineralne | jednostki określone w załączniku XIII część A pkt 1
+
+( 1 ) Dz.U. L 139 z 30.4.2004, s. 1.
+( 2 ) Dz.U. L 354 z 31.12.2008, s. 7.
+( 3 ) Dz.U. L 354 z 31.12.2008, s. 16.
+( 4 ) Dz.U. L 354 z 31.12.2008, s. 34.
+( 5 ) Dz.U. L 139 z 30.4.2004, s. 55.
+( 6 ) Dz.U. L 376 z 27.12.2006, s. 21.
+( 7 ) Dz.U. L 93 z 31.3.2006, s. 1.
+( 8 ) Dz.U. L 93 z 31.3.2006, s. 12.
+( 9 ) Dz.U. L 183 z 12.7.2002, s. 51.
+( 10 ) Dz.U. L 164 z 26.6.2009, s. 45.
+( 11 ) Dz.U. L 124 z 20.5.2009, s. 21.
+( 12 ) Dz.U. L 204 z 21.7.1998, s. 37.
+( 13 ) Dz.U. L 304 z 22.11.2011, s. 18.”.
+( 14 ) Dz.U. L 304 z 22.11.2011, s. 18.”.
+( 15 ) Dz.U. L 314 z 1.12.2009, s. 10.
+( 16 ) Oraz produkty pochodne, o ile obróbka, jakiej je poddano, najprawdopodobniej nie wpływa na zwiększenie alergenności, ocenionej przez właściwy organ w odniesieniu do produktu, z którego powstały.
+( 17 ) Dz.U. L 66 z 13.3.1999, s. 26.
+( 18 ) Dz.U. L 66 z 13.3.1999, s. 16.
+( 19 ) Tylko dla serów przetworzonych oraz produktów wytwarzanych na bazie serów przetworzonych.
+( 20 ) Nazwa szczegółowa ani numer E nie muszą być oznaczane.

@@ -1,0 +1,587 @@
+RICHTLINIE 2000/13/EG DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 20. März 2000
+zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Etikettierung und Aufmachung von Lebensmitteln sowie die Werbung hierfür
+
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION —
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft, insbesondere auf Artikel 95,
+auf Vorschlag der Kommission,
+nach Stellungnahme des Wirtschafts- und Sozialausschusses ( 1 ),
+gemäß dem Verfahren des Artikels 251 des Vertrags ( 2 ),
+(1) | Die Richtlinie 79/112/EWG des Rates vom 18. Dezember 1978 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Etikettierung und Aufmachung von Lebensmitteln sowie die Werbung hierfür ( 3 ) ist mehrfach in wesentlichen Punkten geändert worden ( 4 ). Aus Gründen der Übersichtlichkeit und Klarheit empfiehlt es sich, die genannte Richtlinie zu kodifizieren.
+(2) | Die Unterschiede, die zwischen den Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Etikettierung von Lebensmitteln bestehen, behindern den freien Verkehr mit diesen Erzeugnissen und können eine ungleiche Wettbewerbslage hervorrufen.
+(3) | Diese Rechtsvorschriften sind daher für ein besseres Funktionieren des Binnenmarktes anzugleichen.
+(4) | Mit dieser Richtlinie sollen die allgemeinen, horizontalen Gemeinschaftsregeln für alle Lebensmittel festgesetzt werden, die in den Handel gebracht werden.
+(5) | Die spezifischen, vertikalen Regeln, die nur bestimmte Lebensmittel betreffen, müssen dagegen im Rahmen der Vorschriften für diese Erzeugnisse festglegt werden.
+(6) | Jede Regelung der Etikettierung von Lebensmitteln soll vor allem der Unterrichtung und dem Schutz der Verbraucher dienen.
+(7) | Diese Anforderung bedeutet, daß die Mitgliedstaaten unter Beachtung der Bestimmungen des Vertrags Vorschriften über die zu verwendende Sprache vorsehen können.
+(8) | Eine detaillierte Etikettierung, die Auskunft gibt über die genaue Art und die Merkmale des Erzeugnisses, ermöglicht es dem Verbraucher, sachkundig seine Wahl zu treffen, und ist insofern am zweckmäßigsten, als sie die geringsten Handelshemmnisse nach sich zieht.
+(9) | Deshalb ist ein Verzeichnis der Angaben aufzustellen, die grundsätzlich bei der Etikettierung aller Lebensmittel zu beachten sind.
+(10) | Der horizontale Charakter dieser Richtlinie hat es in einem ersten Stadium nicht gestattet, unter die zwingend vorgeschriebenen Angaben all diejenigen aufzunehmen, die dem grundsätzlich für sämtliche Lebensmittel geltenden Verzeichnis hinzuzufügen sind; in einem weiteren Stadium müssen jedoch Gemeinschaftsvorschriften erlassen werden, die auf eine Ergänzung der derzeitigen Regeln abzielen.
+(11) | Bei Fehlen spezifischer Gemeinschaftsregeln müssen die Mitgliedstaaten zwar die Befugnis behalten, gewisse einzelstaatliche Vorschriften vorzusehen, die zu den allgemeinen Bestimmungen dieser Richtlinie hinzutreten; für diese einzelstaatlichen Vorschriften muß jedoch ein Gemeinschaftsverfahren gelten.
+(12) | Dieses Gemeinschaftsverfahren muß in der Form eines Rechtsaktes der Gemeinschaft bestehen, wenn ein Mitgliedstaat neue Vorschriften erlassen will.
+(13) | Es ist ferner dem Gemeinschaftsgesetzgeber die Möglichkeit vorzubehalten, in Ausnahmefällen von bestimmten, allgemeinen Vorschriften abzuweichen.
+(14) | Die Regeln für die Etikettierung müssen auch das Verbot enthalten, den Käufer zu täuschen oder den Lebensmitteln medizinische Eigenschaften zuzuschreiben. Um wirksam zu sein, muß dieses Verbot auf die Aufmachung der Lebensmittel und auf die Lebensmittelwerbung ausgedehnt werden.
+(15) | Zum Zwecke der Erleichterung des Handelsverkehrs zwischen den Mitgliedstaaten kann gestattet werden, daß auf der dem Verkauf an den Endverbraucher vorangehenden Stufe nur die Angaben über die wesentlichen Merkmale auf der äußeren Verpackung angebracht werden und daß bestimmte, für ein vorverpacktes Lebensmittel vorgeschriebene Angaben lediglich auf den Warenbegleitpapieren erscheinen.
+(16) | Die Mitgliedstaaten müssen weiterhin die Möglichkeit haben, entsprechend den örtlichen Verhältnissen und praktischen Umständen die Einzelheiten der Etikettierung unverpackter Lebensmittel festzulegen. Jedoch muß die Unterrichtung des Verbrauchers in diesem Fall gewährleistet sein.
+(17) | Zur Verfahrensvereinfachung und -beschleunigung ist der Erlaß technischer Durchführungsmaßnahmen der Kommission zu übertragen.
+(18) | Die zur Durchführung dieser Richtlinie erforderlichen Maßnahmen sollten gemäß dem Beschluß 1999/468/EG des Rates vom 28. Juni 1999 zur Festlegung der Modalitäten für die Ausübung der der Kommission übertragenen Durchführungsbefugnisse ( 5 ) erlassen werden.
+(19) | Die Pflichten der Mitgliedstaaten hinsichtlich der in Anhang IV Teil B aufgeführten Richtlinien und deren Umsetzungsfristen dürfen durch diese Richtlinie nicht berührt werden —
+HABEN FOLGENDE RICHTLINIE ERLASSEN:
+
+Artikel 1
+(1) Diese Richtlinie gilt für die Etikettierung von Lebensmitteln, die ohne weitere Verarbeitung an den Endverbraucher abgegeben werden sollen, sowie für bestimmte Aspekte ihrer Aufmachung und der für sie durchgeführten Werbung.
+(2) Diese Richtlinie gilt auch für Lebensmittel, die an Gaststättenbetriebe, Krankenhäuser, Kantinen und ähnliche gemeinschaftliche Einrichtungen (nachstehend „gemeinschaftliche Einrichtungen“ genannt) abgegeben werden sollen.
+(3) Im Sinne dieser Richtlinie bedeutet:
+a) „Etikettierung“ alle Angaben, Kennzeichnungen, Hersteller- oder Handelsmarken, Abbildungen oder Zeichen, die sich auf ein Lebensmittel beziehen und auf jeglicher Art von Verpackung, Schriftstück, Tafel, Etikett, Ring oder Verschluß angebracht sind und dieses Lebensmittel begleiten oder sich auf dieses Lebensmittel beziehen;
+b) „vorverpackte Lebensmittel“ die Verkaufseinheit, die ohne weitere Verarbeitung an den Endverbraucher und an gemeinschaftliche Einrichtungen abgegeben werden soll und die aus einem Lebensmittel und der Verpackung besteht, in die das Lebensmittel vor dem Feilbieten abgepackt worden ist, gleichviel, ob die Verpackung es ganz oder teilweise umschließt, jedoch auf solche Weise, daß der Inhalt nicht verändert werden kann, ohne daß die Verpackung geöffnet werden muß oder eine Veränderung erfährt.
+
+Artikel 2
+(1) Die Etikettierung und die Art und Weise, in der sie erfolgt, dürfen nicht
+a) geeignet sein, den Käufer irrezuführen, und zwar insbesondere nicht
+i) über die Eigenschaften des Lebensmittels, namentlich über Art, Identität, Beschaffenheit, Zusammensetzung, Menge, Haltbarkeit, Ursprung oder Herkunft und Herstellungs- oder Gewinnungsart;
+ii) durch Angabe von Wirkungen oder Eigenschaften, die das Lebensmittel nicht besitzt;
+iii) indem zu verstehen gegeben wird, daß das Lebensmittel besondere Eigenschaften besitzt, obwohl alle vergleichbaren Lebensmittel dieselben Eigenschaften besitzen;
+b) vorbehaltlich der Gemeinschaftsvorschriften über natürliche Mineralwässer und über Lebensmittel, die für eine besondere Ernährung bestimmt sind, einem Lebensmittel Eigenschaften der Vorbeugung, Behandlung oder Heilung einer menschlichen Krankheit zuschreiben oder den Eindruck dieser Eigenschaften entstehen lassen.
+(2) Der Rat stellt nach dem Verfahren des Artikels 95 des Vertrags ein erweiterungsfähiges Verzeichnis von Werbebehauptungen im Sinne von Absatz 1 auf, deren Verwendung in jedem Fall zu untersagen oder einzuschränken ist.
+(3) Die Verbote oder Einschränkungen nach den Absätzen 1 und 2 gelten auch
+a) für die Aufmachung von Lebensmitteln, insbesondere die Form oder das Aussehen dieser Lebensmittel oder ihrer Verpackung, das verwendete Verpackungsmaterial, die Art und Weise ihrer Anordnung sowie die Umgebung, in der sie feilgehalten werden;
+b) für die Werbung.
+
+Artikel 3
+(1) Die Etikettierung der Lebensmittel enthält nach Maßgabe der Artikel 4 bis 17 und vorbehaltlich der dort vorgesehenen Ausnahmen nur folgende zwingende Angaben:
+1. die Verkehrsbezeichnung,
+2. das Verzeichnis der Zutaten,
+3. die Menge bestimmter Zutaten oder Zutatenklassen gemäß Artikel 7,
+4. bei vorverpackten Lebensmitteln die Nettofüllmenge,
+5. das Mindesthaltbarkeitsdatum oder bei in mikribiologischer Hinsicht sehr leicht verderblichen Lebensmitteln das Verbrauchsdatum,
+6. gegebenenfalls die besonderen Anweisungen für Aufbewahrung und Verwendung,
+7. den Namen oder die Firma und die Anschrift des Herstellers, des Verpackers oder eines in der Gemeinschaft niedergelassenen Verkäufers.
+Den Mitgliedstaaten ist es jedoch bei Butter, die in ihrem Hoheitsgebiet erzeugt wird, gestattet, lediglich die Angabe des Herstellers, des Verpackers oder des Verkäufers zu verlangen.
+Unbeschadet der in Artikel 24 vorgesehenen Unterrichtung teilen die Mitgliedstaaten der Kommission und den übrigen Mitgliedstaaten alle gemäß Unterabsatz 2 getroffenen Maßnahmen mit,
+8. den Ursprungs- oder Herkunftsort, falls ohne diese Angabe ein Irrtum des Verbrauchers über den tatsächlichen Ursprung oder die wahre Herkunft des Lebensmittels möglich wäre,
+9. eine Gebrauchsanleitung, falls ohne sie der Käufer nicht in der Lage wäre, das Lebensmittel angemessen zu verwenden,
+10. für Getränke mit einem Alkoholgehalt von mehr als 1,2 Volumenprozent die Angabe des vorhandenen Alkoholgehalts in Volumenprozent.
+(2) Abweichend von Absatz 1 dürfen die Mitgliedstaaten einzelstaatliche Vorschriften beibehalten, die die Angabe des Herstellungsbetriebs oder des Verpackungsbetriebs für ihre einzelstaatliche Erzeugung vorschreiben.
+(3) Die Bestimmungen dieses Artikels berühren nicht präzisere oder weitergehende meßtechnische Bestimmungen.
+
+Artikel 4
+(1) Die Gemeinschaftsvorschriften, die nur für einzelne Lebensmittel und nicht für Lebensmittel im allgemeinen gelten, können ausnahmsweise von den Vorschriften des Artikels 3 Absatz 1 Nummern 2 und 5 abweichen, sofern die Unterrichtung des Käufers dadurch nicht beeinträchtigt wird.
+(2) Die Gemeinschaftsvorschriften, die nur für einzelne Lebensmittel und nicht für Lebensmittel im allgemeinen gelten, können zusätzlich zu den in Artikel 3 aufgeführten Angaben weitere zwingende Angaben verlangen.
+Fehlen solche Vorschriften, so können die Mitgliedstaaten derartige Angaben gemäß dem Verfahren des Artikels 19 vorschreiben.
+(3) Die in den Absätzen 1 und 2 genannten Gemeinschaftsvorschriften werden nach dem Verfahren des Artikels 20 Absatz 2 erlassen.
+
+Artikel 5
+(1) Die Verkehrsbezeichnung eines Lebensmittels ist die Bezeichnung, die in den für dieses Lebensmittel geltenden gemeinschaftlichen Rechtsvorschriften vorgesehen ist.
+a) Beim Fehlen gemeinschaftlicher Vorschriften ist die Verkehrsbezeichnung die Bezeichnung, die in den Rechts- und Verwaltungsvorschriften des Mitgliedsstaats vorgesehen ist, in dem die Abgabe an den Endverbraucher oder an gemeinschaftliche Einrichtungen erfolgt.
+Beim Fehlen einer solchen Bezeichnung ist die Verkehrsbezeichnung die verkehrsübliche Bezeichnung in dem Mitgliedstaat, in dem die Abgabe an den Endverbraucher oder an gemeinschaftliche Einrichtungen erfolgt, oder eine Beschreibung des Lebensmittels und erforderlichenfalls seiner Verwendung, die hinreichend genau ist, um es dem Käufer zu ermöglichen, die tatsächliche Art des Lebensmittels zu erkennen und es von Erzeugnissen zu unterscheiden, mit denen es verwechselt werden könnte.
+b) Die Verwendung der Verkehrsbezeichnung, unter der das Erzeugnis im Herstellungsmitgliedstaat rechtmäßig hergestellt und vermarktet wird, im Vermarktungsmitgliedstaat ist ebenfalls zulässig.
+Wenn jedoch die Anwendung der anderen Bestimmungen dieser Richtlinie, insbesondere derjenigen des Artikels 3, es dem Verbraucher im Vermarktungsmitgliedstaat nicht ermöglicht, die tatsächliche Art des Lebensmittels zu erkennen und es von Lebensmitteln zu unterscheiden, mit denen es verwechselt werden könnte, wird die Verkehrsbezeichnung von weiteren beschreibenden Informationen begleitet, die in der Nähe der Verkehrsbezeichnung anzubringen sind.
+c) In Ausnahmefällen wird die Verkehrsbezeichnung des Herstellungsmitgliedstaats im Vermarktungsmitgliedstaat nicht verwendet, wenn das mit ihr bezeichnete Lebensmittel im Hinblick auf seine Zusammensetzung oder Herstellung von dem unter dieser Bezeichnung bekannten Lebensmittel derart abweicht, daß die Bestimmungen des Buchstabens b) nicht ausreichen, um im Vermarktungsmitgliedstaat eine korrekte Unterrichtung des Verbrauchers zu gewährleisten.
+(2) Eine Hersteller- oder Handelsmarke oder ein Phantasiename kann die Verkehrsbezeichnung nicht ersetzen.
+(3) Die Verkehrsbezeichnung enthält oder wird ergänzt durch eine Angabe über den physikalischen Zustand des Lebensmittels oder über die besondere Behandlung, die es erfahren hat (z. B. pulverförmig, gefriergetrocknet, tiefgekühlt, konzentriert, geräuchert), sofern die Unterlassung einer solchen Angabe geeignet wäre, beim Käufer einen Irrtum herbeizuführen.
+Jedes Lebensmittel, das mit ionisierenden Strahlen behandelt wurde, muß einen der folgenden Hinweise tragen:
+— in bulgarischer Sprache:
+— „облъчено“ oder „обработено с йонизиращо лъчение“;
+— in spanischer Sprache:
+— „irradiado“ oder „tratado con radiación ionizante“;
+— in tschechischer Sprache:
+— „ozářeno“ oder „ošetřeno ionizujícím zářením“;
+— in dänischer Sprache:
+— „bestrålet/…“ oder „strålekonserveret“ oder „behandlet med ioniserende stråling“ oder „konserveret med ioniserende stråling“;
+— in deutscher Sprache:
+— „bestrahlt“ oder „mit ionisierenden Strahlen behandelt“;
+— in estnischer Sprache:
+— „kiiritatud“ oder „töödeldud ioniseeriva kiirgusega“;
+— in griechischer Sprache:
+— „επεξεργασμένο με ιονίζουσα ακτινοβολία“ oder „ακτινοβολημένο“;
+— in englischer Sprache:
+— „irradiated“ oder „treated with ionising radiation“;
+— in französischer Sprache:
+— „traité par rayonnements ionisants“ oder „traité par ionisation“;
+— in italienischer Sprache:
+— „irradiato“ oder „trattato con radiazioni ionizzanti“;
+— in lettischer Sprache:
+— „apstarots“ oder „apstrādāts ar jonizējošo starojumu“;
+— in litauischer Sprache:
+— „apšvitinta“ oder „apdorota jonizuojančiąja spinduliuote“;
+— in ungarischer Sprache:
+— „sugárkezelt vagy ionizáló energiával kezelt“;
+— in maltesischer Sprache:
+— „ittrattat bir-radjazzjoni“ oder „ittrattat b'radjazzjoni jonizzanti“;
+— in niederländischer Sprache:
+— „doorstraald“ oder „door bestraling behandeld“ oder „met ioniserende stralen behandeld“;
+— in polnischer Sprache:
+— „napromieniony“ oder „poddany działaniu promieniowania jonizującego“;
+— in portugiesischer Sprache:
+— „irradiado“ oder „tratado por irradiação“ or „tratado por radiação ionizante“;
+— in rumänischer Sprache:
+— „iradiate“ oder „tratate cu radiații ionizate“;
+— in slowakischer Sprache:
+— „ošetrené ionizujúcim žiarením“;
+— in slowenischer Sprache:
+— „obsevano“ oder „obdelano z ionizirajočim sevanjem“;
+— in finnischer Sprache:
+— „säteilytetty“ oder „käsitelty ionisoivalla säteilyllä“;
+— in schwedischer Sprache:
+— „bestrålad“ oder „behandlad med joniserande strålning“.
+
+Artikel 6
+(1) Das Verzeichnis der Zutaten wird nach Maßgabe dieses Artikels und der Anhänge I, II, III und IIIa angegeben.
+(2) Die Angabe der Zutaten ist nicht erforderlich bei:
+a)
+— frischem Obst und Gemüse — einschließlich Kartoffeln —, das nicht geschält, geschnitten oder ähnlich behandelt worden ist,
+— Tafelwasser, das mit Kohlensäure versetzt ist und in dessen Bezeichnung dieses Merkmal aufgeführt ist,
+— Gärungsessig, der nur aus einem Grundstoff hergestellt ist und dem keine weitere Zutat zugesetzt ist;
+b)
+— Käse,
+— Butter,
+— fermentierter Milch und Sahne,
+soweit es sich bei den Zutaten ausschließlich um für die Herstellung notwendige Milchinhaltsstoffe, Enzyme und Mikroorganismen-Kulturen oder um für die Herstellung von Käse — ausgenommen Frisch- oder Schmelzkäse — notwendiges Salz handelt;
+c) Erzeugnissen aus einer einzigen Zutat,
+— sofern die Verkehrsbezeichnung mit der Zutatenbezeichnung identisch ist oder
+— sofern die Verkehrsbezeichnung eindeutig auf die Art der Zutaten schließen läßt.
+(3) Bezüglich der Getränke mit einem Alkoholgehalt von mehr als 1,2 Volumenprozent legt der Rat auf Vorschlag der Kommission vor dem 22. Dezember 1982 die Einzelheiten der Angabe der Zutaten auf der Etikettierung fest.
+(3a) Unbeschadet der nach Absatz 3 festzulegenden Einzelheiten der Angabe ist jede Zutat im Sinne von Absatz 4 Buchstabe a), die in Anhang IIIa aufgeführt ist, in der Etikettierung anzugeben, wenn sie in Getränken nach Absatz 3 vorhanden ist. Diese Angabe umfasst das Wort „Enthält“, gefolgt von der Bezeichnung der betreffenden Zutat(en). Die Angabe ist jedoch nicht erforderlich, wenn die Zutat bereits unter ihrem spezifischen Namen im Verzeichnis der Zutaten oder in der Verkehrsbezeichnung des Getränks enthalten ist.
+Soweit erforderlich, können ausführliche Vorschriften zur Aufmachung der Angabe gemäß Unterabsatz 1 nach folgenden Verfahren festgelegt werden:
+a) für die in Artikel 1 Absatz 2 der Verordnung (EG) Nr. 1493/99 des Rates vom 17. Mai 1999 über die gemeinsame Marktorganisation für Wein ( 6 ) genannten Erzeugnisse nach dem in Artikel 75 jener Verordnung vorgesehenen Verfahren;
+b) für die in Artikel 2 Absatz 1 der Verordnung (EWG) Nr. 1601/91 des Rates vom 10. Juni 1991 zur Festlegung der allgemeinen Regeln für die Begriffsbestimmung, Bezeichnung und Aufmachung aromatisierten Weines, aromatisierter weinhaltiger Getränke und aromatisierter weinhaltiger Cocktails ( 7 ) genannten Erzeugnisse nach dem in Artikel 13 jener Verordnung vorgesehenen Verfahren;
+c) für die in Artikel 1 Absatz 2 der Verordnung (EWG) Nr. 1576/89 des Rates vom 29. Mai 1989 zur Festlegung der allgemeinen Regeln für die Begriffsbestimmung, Bezeichnung und Aufmachung von Spirituosen ( 8 ) genannten Erzeugnisse nach dem in Artikel 14 jener Verordnung vorgesehenen Verfahren;
+d) für andere Erzeugnisse nach dem in Artikel 20 Absatz 2 der vorliegenden Richtlinie genannten Verfahren.
+(4)
+a) „Zutat“ ist jeder Stoff, einschließlich Zusatzstoffe und Enzyme, der bei der Herstellung oder Zubereitung eines Lebensmittels verwendet wird und — wenn auch möglicherweise in veränderter Form — im Enderzeugnis vorhanden bleibt.
+b) Ist eine Zutat eines Lebensmittels ihrerseits aus mehreren Zutaten hergestellt worden, so gelten die letzteren als Zutaten dieses Lebensmittels.
+c) Als Zutaten gelten jedoch nicht:
+i) Bestandteile einer Zutat, die während der Herstellung vorübergehend entfernt und dann dem Lebensmittel wieder hinzugefügt werden, ohne daß sie mengenmäßig ihren ursprünglichen Anteil überschreiten;
+ii) ►M6 Zusatzstoffe und Enzyme ◄ ,
+— deren Vorhandensein in einem Lebensmittel lediglich darauf beruht, daß sie in einer oder in mehreren Zutaten dieses Lebensmittels enthalten waren, sofern sie im Enderzeugnis keine technologische Wirkung mehr ausüben,
+— die als technologische Hilfsstoffe verwendet werden;
+iii) Stoffe, die in den unbedingt erforderlichen Dosen als Lösungsmittel oder Träger ►M6 für die Zusatzstoffe, die Enzyme und die Aromen ◄ verwendet werden;
+iv) Stoffe, die keine Zusatzstoffe sind, die aber auf dieselbe Weise und zu demselben Zweck wie technologische Hilfsstoffe verwendet werden und — wenn auch möglicherweise in veränderter Form — im Enderzeugnis vorhanden bleiben.
+d) In bestimmten Fällen kann nach dem Verfahren des Artikels 20 Absatz 2 entschieden werden, ob die Bedingungen nach Buchstabe c) Ziffer ii) und iii) erfüllt sind.
+(5) Das Verzeichnis der Zutaten besteht in einer Aufzählung sämtlicher Zutaten des Lebensmittels in absteigender Reihenfolge ihres Gewichtsanteils zum Zeitpunkt der Verarbeitung. Ihm wird eine geeignete Bezeichnung vorangestellt, in der das Wort „Zutaten“ erscheint.
+Abweichend hiervon
+— werden zugefügtes Wasser und flüchtige Zutaten nach Maßgabe ihres Gewichtsanteils am Enderzeugnis angegeben; die in einem Lebensmittel als Zutat verwendete Menge Wasser wird durch Abzug aller anderen einbezogenen Zutaten von der Gesamtmenge des Enderzeugnisses bestimmt. Stellt die Menge nicht mehr als 5 v. H. des Gewichts des Enderzeugnisses dar, so kann sie unberücksichtigt bleiben;
+— können die in konzentrierter oder getrockneter Form verwendeten und bei der Herstellung in ihren ursprünglichen Zustand zurückgeführten Zutaten nach Maßgabe ihres Gewichtsanteils vor der Eindickung oder vor dem Trocknen im Verzeichnis angegeben werden;
+— kann die Aufzählung, wenn es sich um konzentrierte oder getrocknete Lebensmittel handelt, denen Wasser zugesetzt werden muß, nach der Reihenfolge der Anteile an dem in seinen ursprünglichen Zustand zurückgeführten Erzeugnis erfolgen, sofern das Verzeichnis der Zutaten eine Angabe wie „Zutaten des in seinen ursprünglichen Zustand zurückgeführten Erzeugnisses“ oder „Zutaten des gebrauchsfertigen Erzeugnisses“ enthält;
+— können Obst, Gemüse oder Pilze, von denen keines nach seinem Gewichtsanteil deutlich dominiert und die mit potenziell veränderlichen Anteilen verwendet werden, wenn sie in einer Mischung als Zutat für ein Lebensmittel verwendet werden, im Verzeichnis der Zutaten unter der Bezeichnung „Obst“, „Gemüse“ oder „Pilze“, gefolgt von dem Vermerk „in veränderlichen Gewichtsanteilen“, zusammengefasst werden, wobei unmittelbar danach die vorhandenen Obst-, Gemüse- oder Pilzsorten aufzuführen sind; in diesem Fall wird die Mischung gemäß Unterabsatz 1 nach dem Gewichtsanteil der Gesamtheit der vorhandenen Obst-, Gemüse- oder Pilzsorten im Verzeichnis der Zutaten aufgeführt;
+— können im Falle von Gewürzmischungen und Gewürzzubereitungen die Gewürzarten, die sich in ihrem Gewichtsanteil nicht wesentlich unterscheiden, in einer anderen Reihenfolge aufgezählt werden, wobei das Verzeichnis der genannten Zutaten jedoch einen Vermerk wie „in veränderlichen Gewichtsanteilen“ enthalten muß;
+— können Zutaten, die weniger als 2 v. H. des Enderzeugnisses ausmachen, in anderer Reihenfolge nach den übrigen Zutaten aufgezählt werden;
+— können ähnliche und untereinander austauschbare Zutaten, die bei der Herstellung oder Zubereitung eines Lebensmittels verwendet werden können, ohne dass sie dessen Zusammensetzung, dessen Art oder dessen empfundenen Wert verändern, und die weniger als 2 v. H. des Enderzeugnisses ausmachen, im Verzeichnis der Zutaten mit dem Vermerk „Enthält … und/oder …“ aufgeführt werden, sofern mindestens eine von höchstens zwei Zutaten im Enderzeugnis vorhanden ist. Diese Bestimmung gilt nicht für Zusatzstoffe oder Zutaten nach Anhang IIIa.
+(6) Die Zutaten werden mit ihrem spezifischen Namen, gegebenenfalls nach Maßgabe von Artikel 5, bezeichnet.
+Abweichend hiervon
+— brauchen Zutaten, die zu einer der in Anhang I aufgeführten Klassen gehören und die Bestandteile eines anderen Lebensmittels sind, nur mit dem Namen dieser Klasse bezeichnet zu werden.
+— Änderungen der Liste der in Anhang I aufgeführten Klassen können nach dem Verfahren des Artikels 20 Absatz 2 beschlossen werden.
+— Die im Anhang I aufgeführte Bezeichnung „Stärke“ muß jedoch immer mit der Angabe ihrer spezifischen pflanzlichen Herkunft ergänzt werden, wenn dieser Bestandteil „Gluten“ enthalten könnte;
+— müssen Zutaten, die zu einer der in Anhang II aufgeführten Klassen gehören, mit dem Namen dieser Klasse bezeichnet werden, dem der spezifische Name oder die EG-Nummer zu folgen hat; gehört eine Zutat zu mehreren Klassen, so ist die Klasse anzugeben, der die Zutat aufgrund ihrer hauptsächlichen Wirkung für das betreffende Lebensmittel zuzuordnen ist.
+— Die an diesem Anhang entsprechend dem Fortschritt der wissenschaftlichen und technischen Kenntnisse vorzunehmenden Änderungen werden nach dem Verfahren des Artikels 20 Absatz 2 beschlossen.
+— Die in Anhang II aufgeführte Bezeichnung „modifizierte Stärke“ muß jedoch immer mit der Angabe ihrer spezifischen pflanzlichen Herkunft ergänzt werden, wenn dieser Bestandteil „Gluten“ enthalten könnte;
+— werden Aromen gemäß Anhang III bezeichnet;
+— werden die besonderen Gemeinschaftsbestimmungen über den Hinweis auf die Behandlung einer Zutat mit ionisierenden Strahlen gemäß Artikel 95 des Vertrags zu einem späteren Zeitpunkt festgelegt,
+— andere Enzyme als die in Absatz 4 Buchstabe c Ziffer ii genannten müssen durch die Bezeichnung einer der Kategorien der in Anhang II angeführten Zutaten, gefolgt von ihrer spezifischen Bezeichnung, genannt werden.
+(7) Die Gemeinschaftsvorschriften oder — falls solche fehlen — die einzelstaatlichen Vorschriften können für bestimmte Lebensmittel vorsehen, daß bei ihrer Verkehrsbezeichnung eine oder mehrere bestimmte Zutaten angegeben werden müssen.
+Das Verfahren des Artikels 19 findet auf einzelstaatliche Vorschriften Anwendung.
+Die in diesem Absatz genannten Gemeinschaftsvorschriften werden nach dem Verfahren des Artikels 20 Absatz 2 erlassen.
+(8) In dem in Absatz 4 Buchstabe b) genannten Fall kann eine zusammengesetzte Zutat im Verzeichnis der Zutaten unter ihrer Bezeichnung, sofern diese in einer Regelung festgelegt oder üblich ist, nach Maßgabe ihres Gesamtgewichtsanteils angegeben werden, sofern unmittelbar danach eine Aufzählung ihrer Zutaten folgt.
+Die Aufzählung nach Unterabsatz 1 ist nicht zwingend vorgeschrieben,
+a) wenn die Zusammensetzung der zusammengesetzten Zutat in einer geltenden Gemeinschaftsregelung festgelegt ist, sofern die zusammengesetzte Zutat weniger als 2 v. H. des Enderzeugnisses ausmacht; dies gilt jedoch vorbehaltlich des Absatzes 4 Buchstabe c) nicht für Zusatzstoffe;
+b) für die aus Gewürz- und/oder Kräutermischungen bestehenden zusammengesetzten Zutaten, die weniger als 2 v. H. des Enderzeugnisses ausmachen, mit Ausnahme von Zusatzstoffen, vorbehaltlich des Absatzes 4 Buchstabe c);
+c) wenn die zusammengesetzte Zutat ein Lebensmittel ist, für das nach der Gemeinschaftsregelung kein Verzeichnis der Zutaten erforderlich ist.
+(9) Abweichend von Absatz 5 muß der Zusatz von Wasser nicht erwähnt werden,
+a) wenn das Wasser bei der Herstellung lediglich dazu dient, eine Zutat in konzentrierter oder getrockneter Form in ihren ursprünglichen Zustand zurückzuführen;
+b) bei Aufgußflüssigkeit, die üblicherweise nicht mitverzehrt wird.
+(10) Ungeachtet des Absatzes 2, des Absatzes 6 Unterabsatz 2 und des Absatzes 8 Unterabsatz 2 werden bei der Herstellung eines Lebensmittels verwendete Zutaten, die in Anhang IIIa aufgeführt sind oder die aus einer Zutat nach Anhang IIIa gewonnen wurden, und die — wenn auch möglicherweise in veränderter Form — im Enderzeugnis vorhanden bleiben, mit einem deutlichen Hinweis auf die Bezeichnung dieser Zutaten auf dem Etikett angegeben.
+Die Angabe nach Unterabsatz 1 ist nicht erforderlich, wenn die Verkehrsbezeichnung des Lebensmittels einen deutlichen Hinweis auf die betreffende Zutat enthält.
+Ungeachtet des Absatzes 4 Buchstabe c) Ziffern ii), iii) und iv) werden bei der Herstellung eines Lebensmittels verwendete Stoffe, die aus einer Zutat nach Anhang IIIa gewonnen wurden, und die — wenn auch möglicherweise in veränderter Form — im Enderzeugnis vorhanden bleiben, als Zutaten betrachtet und mit einem deutlichen Hinweis auf die Bezeichnung der Zutat angegeben, aus der sie gewonnen wurden.
+(11) Das Verzeichnis in Anhang IIIa wird auf der Grundlage der neuesten wissenschaftlichen Erkenntnisse regelmäßig überprüft und erforderlichenfalls aktualisiert. Die erste Überprüfung erfolgt spätestens am 25. November 2005.
+Die Aktualisierung kann auch darin bestehen, dass Zutaten, bei denen wissenschaftlich nachgewiesen ist, dass sie keine unerwünschten Reaktionen hervorrufen können, aus Anhang IIIa gestrichen werden. Zu diesem Zweck können der Kommission bis zum 25. August 2004 die Studien mitgeteilt werden, die derzeit durchgeführt werden, um festzustellen, ob Zutaten oder Stoffe, die aus den in Anhang IIIa aufgeführten Zutaten gewonnen werden, unter bestimmten Umständen wahrscheinlich keine unerwünschten Reaktionen hervorrufen. Die Kommission beschließt bis zum 25. November 2004 nach Konsultation der Europäischen Behörde für Lebensmittelsicherheit ein Verzeichnis der Zutaten oder Stoffe, die sodann, bis die endgültigen Ergebnisse der mitgeteilten Studien vorliegen oder spätestens bis zum 25. November 2007, aus Anhang IIIa ausgeschlossen werden.
+Unbeschadet von Unterabsatz 2 kann Anhang IIIa entsprechend dem in Artikel 20 Absatz 2 genannten Verfahren nach Einholung eines gemäß Artikel 29 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit ( 9 ) abgegebenen Gutachtens der Europäischen Behörde für Lebensmittelsicherheit geändert werden.
+Erforderlichenfalls können technische Leitlinien für die Auslegung des Verzeichnisses in Anhang IIIa entsprechend dem in Artikel 20 Absatz 2 genannten Verfahren festgelegt werden.
+
+Artikel 7
+(1) Die Angabe der bei der Herstellung oder Zubereitung eines Lebensmittels verwandten Menge einer Zutat oder Zutatenklasse erfolgt gemäß diesem Artikel.
+(2) Die Angabe nach Absatz 1 ist vorgeschrieben,
+a) wenn die betreffende Zutat oder Zutatenklasse in der Verkehrsbezeichnung genannt ist oder normalerweise vom Verbraucher mit dieser Verkehrsbezeichnung in Verbindung gebracht wird oder
+b) wenn die betreffende Zutat oder Zutatenklasse auf dem Etikett durch Worte, Bilder oder eine graphische Darstellung hervorgehoben ist oder
+c) wenn die betreffende Zutat oder Zutatenklasse von wesentlicher Bedeutung für die Charakterisierung eines Lebensmittels und seine Unterscheidung von anderen Erzeugnissen ist, mit denen es aufgrund seiner Bezeichnung oder seines Aussehens verwechselt werden könnte, oder
+d) in den nach dem Verfahren des Artikels 20 Absatz 2 bestimmten Fällen.
+(3) Absatz 2 gilt nicht
+a) für eine Zutat oder Zutatenklasse,
+— deren Abtropfgewicht gemäß Artikel 8 Absatz 4 angegeben ist oder
+— deren Menge aufgrund von Gemeinschaftsbestimmungen bereits auf dem Etikett angegeben sein muß, oder
+— die, in kleinen Mengen zur Geschmacksgebung verwendet wird oder
+— die, obwohl sie in der Verkehrsbezeichnung aufgeführt wird, für die Wahl des Verbrauchers nicht ausschlaggebend ist, weil unterschiedliche Mengen für die Charakterisierung des betreffenden Lebensmittels nicht wesentlich sind oder es nicht von ähnlichen Lebensmitteln unterscheiden. In Zweifelsfällen wird nach dem Verfahren des Artikels 20 Absatz 2 entschieden, ob die Bedingungen dieses Gedankenstrichs erfüllt sind;
+b) wenn in spezifischen Gemeinschaftsbestimmungen die Menge der Zutat oder der Zutatenklasse präzise festgelegt, deren Angabe in der Etikettierung aber nicht vorgesehen ist;
+c) in den Fällen des Artikels 6 Absatz 5 vierter und fünfter Gedankenstrich;
+d) in den nach dem Verfahren des Artikels 20 Absatz 2 bestimmten Fällen.
+(4) Die als Prozentsatz anzugebende Menge entspricht der Menge der Zutat bzw. Zutaten zum Zeitpunkt ihrer Verarbeitung. Für bestimmte Lebensmittel können Gemeinschaftsbestimmungen jedoch Ausnahmen von diesem Grundsatz vorsehen. Diese Bestimmungen werden nach dem Verfahren des Artikels 20 Absatz 2 erlassen.
+(5) Die Angabe gemäß Absatz 1 ist entweder in der Verkehrsbezeichnung selbst oder in ihrer unmittelbaren Nähe oder in der Liste der Zutaten zusammen mit der betreffenden Zutat oder Zutatenklasse aufzuführen.
+(6) Dieser Artikel gilt unbeschadet der Gemeinschaftsvorschriften über die Nährwertkennzeichnung.
+
+Artikel 8
+(1) Die Nettofüllmenge eines vorverpackten Lebensmittels wird angegeben
+— bei flüssigen Lebensmitteln in Volumeneinheiten,
+— bei sonstigen Erzeugnissen in Masseeinheiten,
+wobei entweder die Einheiten Liter, Zentiliter oder Milliliter oder aber die Einheiten Kilogramm oder Gramm verwendet werden.
+Die Gemeinschaftsvorschriften oder — falls solche fehlen — die einzelstaatlichen Vorschriften für bestimmte Lebensmittel können von dieser Regel abweichen.
+Das Verfahren des Artikels 19 findet auf einzelstaatliche Vorschriften Anwendung.
+(2)
+a) Sofern die Angabe einer bestimmten Mengenart (wie Nennfüllmenge, Mindestmenge, mittlere Menge) in den Gemeinschaftsvorschriften oder — falls solche fehlen — in den einzelstaatlichen Vorschriften vorgesehen ist, so ist diese Menge die Nettofüllmenge im Sinne dieser Richtlinie.
+Unbeschadet der in Artikel 24 vorgesehenen Unterrichtung teilen die Mitgliedstaaten der Kommission und den übrigen Mitgliedstaaten jede gemäß diesem Buchstaben getroffene Maßnahme mit.
+b) Die Gemeinschaftsvorschriften oder — falls solche fehlen — die einzelstaatlichen Vorschriften können für bestimmte Lebensmittel, die in Klassen je nach Menge eingeteilt sind, andere Mengenangaben vorsehen.
+Das Verfahren des Artikels 19 findet auf einzelstaatliche Vorschriften Anwendung.
+c) Besteht eine Vorverpackung aus zwei oder mehr Einzelvorverpackungen mit derselben Menge desselben Erzeugnisses, so wird die Nettofüllmenge in der Weise angegeben, daß die in jeder Einzelpackung enthaltene Nettofüllmenge und die Gesamtzahl der Einzelpackungen angegeben werden. Diese Angaben können jedoch entfallen, wenn die Gesamtzahl der Einzelpackungen von außen leicht zu sehen und einfach zu zählen ist, und wenn mindestens eine Angabe der Nettofüllmenge jeder Einzelpackung deutlich von außen sichtbar ist.
+d) Besteht eine Vorverpackung aus zwei oder mehr Einzelpackungen, die nicht als Verkaufseinheiten anzusehen sind, so wird die Nettofüllmenge in der Weise angegeben, daß die Gesamtfüllmenge und die Gesamtzahl der Einzelpackungen angegeben werden. Die Gemeinschaftsvorschriften oder — falls solche fehlen — die einzelstaatlichen Vorschriften brauchen für bestimmte Lebensmittel nicht die Angabe der Gesamtzahl der Einzelpackungen vorzusehen.
+Unbeschadet der in Artikel 24 vorgesehenen Unterrichtung teilen die Mitgliedstaaten der Kommission und den übrigen Mitgliedstaaten jede gemäß diesem Buchstaben getroffene Maßnahme mit.
+(3) Für Lebensmittel, die gewöhnlich nach Stückzahlen in den Verkehr gebracht werden, können die Mitgliedstaaten von der Verpflichtung zur Angabe der Nettofüllmenge absehen, sofern die Stückzahl von außen leicht zu sehen und einfach zu zählen ist oder, falls das nicht der Fall ist, in der Etikettierung angegeben ist.
+Unbeschadet der in Artikel 24 vorgesehenen Unterrichtung teilen die Mitgliedstaaten der Kommission und den übrigen Mitgliedstaaten jede gemäß diesem Absatz getroffene Maßnahme mit.
+(4) Befindet sich ein festes Lebensmittel in einer Aufgußflüssigkeit, so ist auch das Abtropfgewicht dieses Lebensmittels in der Etikettierung anzugeben.
+Als Aufgußflüssigkeiten im Sinne dieses Absatzes gelten folgende Erzeugnisse — auch gefroren oder tiefgefroren, einschließlich ihrer Mischungen —, sofern sie gegenüber den wesentlichen Bestandteilen der betreffenden Zubereitung nur eine untergeordnete Rolle spielen und folglich für den Kauf nicht ausschlaggebend sind: Wasser, wäßrige Salzlösungen, Salzlake; Genußsäure in wäßriger Lösung; Essig; wäßrige Zuckerlösungen, wäßrige Lösungen von anderen Süßungsstoffen oder -mitteln; Frucht- oder Gemüsesäfte bei Obst und Gemüse.
+Diese Aufzählung kann nach dem Verfahren des Artikels 20 Absatz 2 ergänzt werden.
+Methoden zur Kontrolle des Abtropfgewichts werden nach dem Verfahren des Artikels 20 Absatz 2 festgelegt.
+(5) Die Angabe der Nettofüllmenge ist nicht vorgeschrieben für Lebensmittel,
+a) bei denen in Volumen oder Masse erhebliche Verluste auftreten können und die nach Stückzahlen in den Verkehr gebracht oder in Anwesenheit des Käufers abgewogen werden;
+b) deren Nettofüllmenge unter 5 g oder 5 ml liegt; dies gilt jedoch nicht für Gewürze und Kräuter.
+Die Gemeinschaftsvorschriften oder — falls solche fehlen — die einzelstaatlichen Vorschriften für bestimmte Lebensmittel können ausnahmsweise Schwellenwerte über 5 g oder 5 ml vorsehen, sofern die Unterrichtung des Käufers dadurch nicht beeinträchtigt wird.
+Unbeschadet der in Artikel 24 vorgesehenen Unterrichtung teilen die Mitgliedstaaten der Kommission und den übrigen Mitgliedstaaten jede gemäß diesem Absatz getroffene Maßnahme mit.
+(6) Die in Absatz 1 Unterabsatz 2, in Absatz 2 Buchstaben b) und d) sowie in Absatz 5 Unterabsatz 2 genannten Gemeinschaftsvorschriften werden nach dem Verfahren des Artikels 20 Absatz 2 erlassen.
+
+Artikel 9
+(1) Das Mindesthaltbarkeitsdatum eines Lebensmittels ist das Datum, bis zu dem dieses Lebensmittel seine spezifischen Eigenschaften unter angemessenen Aufbewahrungsbedingungen behält.
+Es wird gemäß den Absätzen 2 bis 5 angegeben.
+(2) Das Mindesthaltbarkeitsdatum wird mit folgenden Worten angegeben:
+— „mindestens haltbar bis …“, wenn der Tag genannt wird;
+— „mindestens haltbar bis Ende …“ in den anderen Fällen.
+(3) In Verbindung mit der Angabe nach Absatz 2 wird angegeben
+— entweder das Datum selbst
+— oder die Stellke, an der es in der Etikettierung angegeben ist.
+Diese Angaben werden erforderlichenfalls durch die Bezeichnung der Aufbewahrungsbedingungen ergänzt, deren Einhaltung die angegebene Haltbarkeit gewährleistet.
+(4) Das Datum besteht aus der unverschlüsselten Angabe von Tag, Monat und Jahr in dieser Reihenfolge.
+Bei Lebensmitteln,
+— deren Haltbarkeit weniger als drei Monate beträgt, reicht die Angabe des Tages und des Monats aus;
+— deren Haltbarkeit mehr als drei Monate, jedoch höchstens achtzehn Monate beträgt, reicht die Angabe des Monats und des Jahres aus;
+— deren Haltbarkeit mehr als achtzehn Monate beträgt, reicht die Angabe des Jahres aus.
+Einzelheiten für die Angabe des Datums können nach dem Verfahren des Artikels 20 Absatz 2 festgelegt werden.
+(5) Die Angabe des Mindesthaltbarkeitsdatums ist vorbehaltlich der Gemeinschaftsvorschriften, in denen andere Datumsangaben vorgeschrieben sind, nicht erforderlich bei
+— frischem Obst und Gemüse — einschließlich Kartoffeln —, das nicht geschält, geschnitten oder ähnlich behandelt worden ist. Diese Ausnahmeregelung gilt nicht für Keime von Samen und ähnliche Erzeugnisse, wie Sprossen von Hülsenfrüchten,
+— Wein, Likörwein, Schaumwein, aromatisiertem Wein und ähnlichen Erzeugnissen aus anderen Früchten als Weintrauben sowie aus Weintrauben oder Traubenmost hergestellten Getränken der KN-Codes 2206 00 91, 2206 00 93 und 2206 00 99,
+— Getränken mit einem Alkoholgehalt von 10 oder mehr Volumenprozent,
+— alkoholfreien Erfrischungsgetränken, Fruchtsäften, Fruchtnektar und alkoholischen Getränken in Einzelbehältnissen von mehr als 5 Litern, die an gemeinschaftliche Einrichtungen geliefert werden,
+— Backware, die ihrer Art nach normalerweise innerhalb von 24 Stunden nach der Herstellung verzehrt werden,
+— Essig,
+— Speisesalz,
+— Zucker in fester Form,
+— Zuckerwaren, die fast nur aus Zuckerarten mit Aromastoffen und/oder Farbstoffen bestehen,
+— Kaugummi und ähnlichen Erzeugnissen zum Kauen,
+— Speiseeis in Portionspackungen.
+
+Artikel 10
+(1) Bei in mikrobiologischer Hinsicht sehr leicht verderblichen Lebensmitteln, die folglich nach kurzer Zeit eine unmittelbare Gefahr für die menschliche Gesundheit darstellen könnten, wird das Mindesthaltbarkeitsdatum durch ein Verbrauchsdatum ersetzt.
+(2) Diesem Datum geht folgende Angabe voran:
+— in bulgarischer Sprache: „използвай преди“,
+— in spanischer Sprache: „fecha de caducidad“,
+— in tschechischer Sprache: „spotřebujte do“,
+— in dänischer Sprache: „sidste anvendelsesdato“,
+— in deutscher Sprache: „verbrauchen bis“,
+— in estnischer Sprache: „kõlblik kuni“,
+— in griechischer Sprache: „ανάλωση μέχρι“,
+— in englischer Sprache: „use by“,
+— in französischer Sprache: „à consommer jusqu'au“,
+— in italienischer Sprache: „da consumare entro“,
+— in lettischer Sprache: „izlietot līdz“,
+— in litauischer Sprache: „tinka vartoti iki“,
+— in ungarischer Sprache: „fogyasztható“,
+— in maltesischer Sprache: „uża sa“,
+— in niederländischer Sprache: „te gebruiken tot“,
+— in polnischer Sprache: „należy spożyć do“,
+— in portugiesischer Sprache: „a consumir até“,
+— in rumänischer Sprache: „a expiră la data de“,
+— in slowakischer Sprache: „spotrebujte do“,
+— in slowenischer Sprache: „porabiti do“,
+— in finnischer Sprache: „viimeinen käyttöajankohta“,
+— in schwedischer Sprache: „sista förbrukningsdag“.
+Dieser Angabe wird folgendes hinzugefügt:
+— entweder das Datum selbst oder
+— ein Hinweis darauf, wo das Datum in der Etikettierung zu finden ist.
+Diese Angaben werden durch eine Beschreibung der einzuhaltenden Aufbewahrungsbedingungen ergänzt.
+(3) Das Datum besteht aus der unverschlüsselten Angabe von Tag, Monat und gegebenenfalls Jahr in dieser Reihenfolge.
+(4) Nach dem Verfahren des Artikels 20 Absatz 2 kann in bestimmten Fällen entschieden werden, ob die Bedingungen des Absatzes 1 erfüllt sind.
+
+Artikel 11
+(1) Die Gebrauchsanweisung für ein Lebensmittel muß so abgefaßt sein, daß dieses in geeigneter Weise verwendet werden kann.
+(2) Die Gemeinschaftsvorschriften oder — falls solche fehlen — die einzelstaatlichen Vorschriften können für bestimmte Lebensmittel die Modalitäten festlegen, nach denen die Gebrauchsanweisung abzufassen ist.
+Das Verfahren des Artikels 19 findet auf einzelstaatliche Vorschriften Anwendung.
+Die in diesem Absatz genannten Gemeinschaftsvorschriften werden nach dem Verfahren des Artikels 20 Absatz 2 erlassen.
+
+Artikel 12
+Die Einzelheiten betreffend die Angabe des Alkoholgehalts in Volumenprozent werden für Erzeugnisse der Tarifnummern 22.04 und 22.05 in den spezifischen Gemeinschaftsbestimmungen festgelegt, die darauf Anwendung finden.
+Für die anderen Getränke mit einem Alkoholgehalt von mehr als 1,2 Volumenprozent werden sie nach dem Verfahren des Artikels 20 Absatz 2 festgelegt.
+
+Artikel 13
+(1)
+a) Bei vorverpackten Lebensmitteln befinden sich die in Artikel 3 und Artikel 4 Absatz 2 genannten Angaben auf der Vorverpackung oder auf einem mit ihr verbundenen Etikett.
+b) Sofern die vorverpackten Lebensmittel
+— für den Endverbraucher bestimmt sind, aber auf einer dem Verkauf an den Endverbraucher vorangehenden Stufe vermarktet werden, sofern diese Stufe nicht der Verkauf an eine gemeinschaftliche Einrichtung ist,
+— an gemeinschaftliche Einrichtungen abgegeben werden sollen, um dort zubereitet, verarbeitet, aufgeteilt oder abgegeben zu werden,
+brauchen die in Artikel 3 und Artikel 4 Absatz 2 genannten Angaben abweichend von Buchstabe a) und unbeschadet der Gemeinschaftsvorschriften für die Nennfüllmengen nur in den dazugehörenden Geschäftspapieren aufgeführt zu sein, wenn sichergestellt ist, daß diese Papiere mit allen Etikettierungsangaben entweder die Lebensmittel, auf die sie sich beziehen, begleiten, oder vor bzw, gleichzeitig mit der Lieferung abgesandt wurden.
+c) In den unter Buchstabe b) genannten Fällen befinden sich die in Artikel 3 Absatz 1 Nummern 1, 5 und 7 sowie gegebenenfalls die in Artikel 10 genannten Angaben auch auf der äußeren Verpackung, in der die Lebensmittel vermarktet werden.
+(2) Die in Artikel 3 und Artikel 4 Absatz 2 vorgesehenen Angaben müssen leicht verständlich sein und werden an gut sichtbarer Stelle deutlich lesbar und unverwischbar angebracht.
+Sie dürfen auf keinen Fall durch andere Angaben oder Bildzeichen verdeckt oder getrennt werden.
+(3) Die in Artikel 3 Absatz 1 Nummern 1, 4, 5 und 10 genannten Angaben werden im gleichen Sichtfeld angebracht.
+Diese Verpflichtung kann auf die in Artikel 4 Absatz 2 vorgesehenen Angaben ausgedehnt werden.
+(4) Bei zur Wiederverwendung bestimmten Glasflaschen, die eine unverwischbare Aufschrift tragen und dementsprechend weder ein Etikett noch eine Halsschleife noch ein Brustschild haben, sowie bei Verpackungen oder Behältnissen, deren größte Oberfläche weniger als 10 cm 2 beträgt, brauchen nur die in Artikel 3 Absatz 1 Nummern 1, 4 und 5 genannten Angaben aufgeführt zu werden.
+Absatz 3 gilt in diesem Fall nicht.
+(5) Irland, die Niederlande und das Vereinigte Königreich können für Milch und Milcherzeugnisse in Glasflaschen, die zur Wiederverwendung bestimmt sind, Abweichungen von Artikel 3 Absatz 1 und von Absatz 3 des vorliegenden Artikels vorsehen.
+Sie teilen der Kommission alle gemäß Unterabsatz 1 getroffenen Maßnahmen mit.
+
+Artikel 14
+Bei Lebensmitteln, die dem Endverbraucher und gemeinschaftlichen Einrichtungen in nicht vorverpackter Form feilgeboten werden oder die auf Wunsch des Käufers am Verkaufsort verpackt oder im Hinblick auf ihren unmittelbaren Verkauf vorverpackt werden, regeln die Mitgliedstaaten die Art und Weise, in der die in Artikel 3 und Artikel 4 Absatz 2 genannten Angaben gemacht werden.
+Sie brauchen diese Angaben insgesamt oder teilweise nicht zwingend vorzuschreiben, sofern die Unterrichtung des Käufers gewährleistet ist.
+
+Artikel 15
+Diese Richtlinie läßt die einzelstaatlichen Vorschriften unberührt, die bei Fehlen von Gemeinschaftsvorschriften die Etikettierung bestimmter Lebensmittel in Phantasieverpackungen — wie Figuren oder Andenkeartikel — in weniger strenger Weise regeln.
+
+Artikel 16
+(1) Die Mitgliedstaaten sorgen dafür, daß in ihrem Hoheitsgebiet keine Lebensmittel in den Verkehr gebracht werden dürfen, bei denen die in Artikel 3 und Artikel 4 Absatz 2 genannten Angaben nicht in einer dem Verbraucher leicht verständlichen Sprache abgefaßt sind, es sei denn, die Information des Verbrauchers ist durch andere Maßnahmen für eine oder mehrere Angaben auf dem Etikett effektiv sichergestellt; diese Maßnahmen werden nach dem Verfahren des Artikels 20 Absatz 2 festgelegt.
+(2) Der Mitgliedstaat, in dem das Erzeugnis vermarktet wird, kann in seinem Hoheitsgebiet unter Beachtung der Bestimmungen des EG-Vertrags vorschreiben, daß diese Angaben auf dem Etikett zumindest in einer oder mehreren von ihm bestimmten Amtssprachen der Gemeinschaft abgefaßt sind.
+(3) Die Absätze 1 und 2 stehen der Abfassung der Angaben auf dem Etikett in mehreren Sprachen nicht entgegen.
+
+Artikel 17
+Die Mitgliedstaaten sehen davon ab, die Art und Weise, in der die in Artikel 3 und Artikel 4 Absatz 2 genannten Angaben anzubringen sind, näher zu regeln, als dies in den Artikeln 3 bis 13 vorgesehen ist.
+
+Artikel 18
+(1) Die Mitgliedstaaten dürfen den Verkehr mit Lebensmitteln, die den Bestimmungen dieser Richtlinie entsprechen, nicht durch die Anwendung nichtharmonisierter einzelstaatlicher Vorschriften verbieten, die die Etikettierung und Aufmachung einzelner Lebensmittel oder der Lebensmittel im allgemeinen regeln.
+(2) Absatz 1 findet keine Anwendung auf nichtharmonisierte einzelstaatliche Vorschriften, die gerechtfertigt sind zum Schutz
+— der Gesundheit,
+— vor Täuschung, sofern sie nicht bewirken, daß die Anwendung der in dieser Richtlinie vorgesehenen Definitionen und Bestimmungen beeinträchtigt wird,
+— des gewerblichen und kommerziellen Eigentums, der Herkunftsbezeichnungen und Ursprungsangaben sowie vor unlauterem Wettbewerb.
+
+Artikel 19
+Wird auf diesen Artikel Bezug genommen, so gilt folgendes Verfahren, wenn es ein Mitgliedstaat für erforderlich hält, neue Rechtsvorschriften zu erlassen.
+Er teilt der Kommission und den übrigen Mitgliedstaaten die in Aussicht genommenen Maßnahmen mit einer Begründung mit. Die Kommission konsultiert die Mitgliedstaaten in ►M2 dem mit der Verordnung (EG) Nr. 178/2002 eingesetzten Ständigen Ausschuss für die Lebensmittelkette und Tiergesundheit ◄ , wenn sie diese Konsultierung für zweckdienlich hält oder wenn ein Mitgliedstaat dies beantragt.
+Ein Mitgliedstaat kann die in Aussicht genommenen Maßnahmen erst drei Monate nach dieser Mitteilung und unter der Bedingung treffen, daß er vorher keine gegenteilige Stellungnahme der Kommission erhalten hat.
+In letzterem Fall leitet die Kommission vor Ablauf der vorgenannten Frist das Verfahren des Artikels 20 Absatz 2 ein, um beschließen zu lassen, ob die in Aussicht genommenen Maßnahmen — gegebenenfalls mit geeigneten Änderungen — zur Anwendung gebracht werden können.
+
+Artikel 20
+(1) Die Kommission wird ►M2 von dem Ständigen Ausschuss für die Lebensmittelkette und Tiergesundheit ◄ (nachstehend „Ausschuß“ genannt) unterstützt.
+(2) Wird auf diesen Absatz Bezug genommen, so gelten die Artikel 5 und 7 des Beschlusses 1999/468/EG unter Beachtung von dessen Artikel 8.
+Der Zeitraum nach Artikel 5 Absatz 6 des Beschlusses 1999/468/EG wird auf drei Monate festgesetzt.
+(3) Der Ausschuß gibt sich eine Geschäftsordnung.
+
+Artikel 21
+Erweisen sich Übergangsbestimmungen als notwendig, um die Anwendung dieser Richtlinie zu erleichtern, so werden sie nach dem Verfahren des Artikels 20 Absatz 2 erlassen.
+
+Artikel 22
+Diese Richtlinie berührt nicht die am 22. Dezember 1978 bereits bestehenden Gemeinschaftsvorschriften über Etikettierung und Aufmachung bestimmter Lebensmittel.
+Die Änderungen, die zur Anpassung dieser Vorschriften an diese Richtlinie notwendig sind, werden nach dem jeweils auf sie anwendbaren Verfahren beschlossen.
+
+Artikel 23
+Diese Richtlinie gilt nicht für zur Ausfuhr aus der Gemeinschaft bestimmte Erzeugnisse.
+
+Artikel 24
+Die Mitgliedstaaten tragen dafür Sorge, daß der Kommission der Wortlaut der wichtigsten innerstaatlichen Rechtsvorschriften mitgeteilt wird, die sie auf dem unter diese Richtlinie fallenden Gebiet erlassen.
+
+Artikel 25
+Diese Richtlinie gilt auch für die französischen überseeischen Departements.
+
+Artikel 26
+(1) Die Richtlinie 79/112/EWG, geändert durch die im Anhang IV Teil A aufgefürten Richtlinien, wird unbeschadet der Pflichten der Mitgliedstaaten hinsichtlich der im Anhang IV Teil B genannten Umsetzungsfristen aufgehoben.
+(2) Bezugnahmen auf die aufgehobene Richtlinie gelten als Bezugnahmen auf die vorliegende Richtlinie und sind nach Maßgabe der Entsprechungstabelle in Anhang V zu lesen.
+
+Artikel 27
+Diese Richtlinie tritt am 20. Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Gemeinschaften in Kraft.
+
+Artikel 28
+Diese Richtlinie ist an die Mitgliedstaaten gerichtet.
+
+ANHANG I
+KATEGORIEN VON ZUTATEN, BEI DENEN DER SPEZIFISCHE NAME DURCH DIE ANGABE DER KLASSE ERSETZT WERDEN KANN
+Definition | Bezeichnung | 
+Raffinierte Öle außer Olivenöl | „Öl“, ergänzt: — entweder durch den Vermerk „pflanzlich“ oder „tierisch“ — oder durch die Angabe der spezifischen pflanzlichen oder tierischen Herkunft. Der Hinweis auf ein gehärtetes Öl muß mit dem Vermerk „gehärtet“ versehen sein. | 
+Raffinierte Fette | „Fett“, ergänzt: — entweder durch den Vermerk „pflanzlich“ oder „tierisch“ — oder durch die Angabe der spezifischen pflanzlichen oder tierischen Herkunft Der Hinweis auf ein gehärtetes Fett muß mit dem Vermerk „gehärtet“ versehen sein. | 
+Mischungen von Mehl aus zwei oder mehreren Getreidearten | „Mehl“, gefolgt von der Aufzählung der Getreidearten, aus denen es hergestellt ist, in abnehmender Reihenfolge ihres Gewichtsanteils. | 
+Natürliche Stärke und auf physikalischem oder enzymatischem Wege modifizierte Stärke | „Stärke“ | 
+Fisch aller Art, wenn der Fisch Zutat eines anderen Lebensmittels ist und sofern Bezeichnung und Aufmachung dieses Lebensmittels sich nicht auf eine bestimmte Fischart beziehen | „Fisch“ | 
+Käse allert Art, wenn der Käse oder die Käsemischung Zutat eines anderen Lebensmittels ist und sofern Bezeichnung und Aufmachung dieses Lebensmittels sich nicht auf eine bestimmte Käseart beziehen | „Käse“ | 
+Gewürze jeder Art, die nicht mehr als 2 Gewichtsprozent des Lebensmittels ausmachen | „Gewürz(e)“ oder „Gewürzmischung“ | 
+Kräuter oder Kräuterteile jeder Art, die nicht mehr als 2 Gewichtsprozent des Lebensmittels ausmachen | „Kräuter“ oder „Kräutermischung“ | 
+Grundstoffe jeder Art, die für die Herstellung der Kaumasse von Kaugummi verwendet werden | „Kaumasse“ | 
+Paniermehl jeglichen Ursprungs | „Paniermehl“ | 
+Saccharose jeder Art | „Zucker“ | 
+Dextroseanhydrid oder Dextrosemonohydrat | „Dextrose“ | 
+Glucosesirup und getrockneter Glucosesirup | „Glucosesirup“ | 
+Milcheiweiß aller Art (Kaseine, Kaseinate und Molkenweiß) und Mischungen daraus | „Milcheiweiß“ | 
+Kakaopreßbutter, Expeller-Kakaobutter, raffinierte Kakaobutter | „Kakaobutter“ | 
+Weine aller Art im Sinne der Verordnung (EG) Nr. 1493/1999 des Rates vom 17. Mai 1999 über die gemeinsame Marktorganisation für Wein ( 1 ) | „Wein“ | 
+Die Skelettmuskeln ( 3 ) von Tieren der Spezies „Säugetiere“ und „Vögel“, die als für den menschlichen Verzehr geeignet gelten, mitsamt dem wesensgemäß darin eingebetteten oder damit verbundenen Gewebe, deren Gesamtanteil an Fett und Bindegewebe die nachstehend aufgeführten Werte nicht übersteigt, und soweit das Fleisch Zutat eines anderen Lebensmittels ist. Die unter die gemeinschaftliche Definition von „Separatorenfleisch“ fallenden Erzeugnisse sind von der vorliegenden Definition ausgenommen. Höchstwerte der Fett- und Bindegewebeanteile für Zutaten, die mit dem Begriff „…fleisch“ bezeichnet werden. Spezies Fett (%) Bindegewebe ( 1 ) (%) Säugetiere (ausgenommen Kaninchen und Schweine) und Mischungen von Spezies, bei denen Säugetiere überwiegen 25 25 Schweine 30 25 Vögel und Kaninchen 15 10 ( 1 ) Der Bindegewebeanteil wird berechnet aufgrund des Verhältnisses zwischen Kollagengehalt und Fleischeinweißgehalt. Als Kollagengehalt gilt der mit dem Faktor 8 vervielfältigte Gehalt an Hydroxyprolin. Werden diese Höchstwerte überschritten und sind alle anderen Kriterien der Definition von „…fleisch“ erfüllt, so muss der „…fleischanteil“ entsprechend nach unten angepasst werden und das Verzeichnis der Zutaten muss neben der Angabe des Begriffs „…fleisch“, dem der/die Name/Namen der Tierspezies, von der/denen es stammt vorangestellt ist/sind, die Angabe der Zutat Fett bzw. Bindegewebe enthalten. | „…fleisch“, dem der/die Name/Namen der Tierspezies ( 2 ) , von der/denen es stammt, vorangestellt ist/sind. | 
+( 1 ) ABl. L 179 vom 14.7.1999, S. 1. ( 2 ) Bei der Etikettierung in englischer Sprache kann diese Bezeichnung durch die Gattungsbezeichnung für das Fleisch der betreffenden Tierspezies ersetzt werden ( 3 ) Das Zwerchfell und die Kaumuskeln gehören zu den Skelettmuskeln, während das Herz, die Zungen, die Muskeln des Kopfes (außer den Kaumuskeln), des Karpal- und Tarsalgelenkes und des Schwanzes nicht darunter fallen. | ( 1 ) ABl. L 179 vom 14.7.1999, S. 1. ( 2 ) Bei der Etikettierung in englischer Sprache kann diese Bezeichnung durch die Gattungsbezeichnung für das Fleisch der betreffenden Tierspezies ersetzt werden ( 3 ) Das Zwerchfell und die Kaumuskeln gehören zu den Skelettmuskeln, während das Herz, die Zungen, die Muskeln des Kopfes (außer den Kaumuskeln), des Karpal- und Tarsalgelenkes und des Schwanzes nicht darunter fallen. | ( 1 ) ABl. L 179 vom 14.7.1999, S. 1. ( 2 ) Bei der Etikettierung in englischer Sprache kann diese Bezeichnung durch die Gattungsbezeichnung für das Fleisch der betreffenden Tierspezies ersetzt werden ( 3 ) Das Zwerchfell und die Kaumuskeln gehören zu den Skelettmuskeln, während das Herz, die Zungen, die Muskeln des Kopfes (außer den Kaumuskeln), des Karpal- und Tarsalgelenkes und des Schwanzes nicht darunter fallen.
+
+ANHANG II
+KATEGORIEN VON ZUTATEN, BEI DENEN DIE BEZEICHNUNG UNTER DEM NAMEN DER KLASSE, GEFOLGT VON IHREM SPEZIFISCHEN NAMEN ODER DER EG-NUMMER, ZWINGEND VORGESCHRIEBEN IST
+Farbstoff
+Konservierungsstoff
+Antioxidationsmittel
+Emulgator
+Verdickungsmittel
+Geliermittel
+Stabilisator
+Geschmacksverstärker
+Säuerungsmittel
+Säureregulator
+Trennmittel
+Modifizierte Stärke ( 10 )
+Süßstoff
+Backtriebmittel
+Schaumverhüter
+Überzugsmittel
+Schmelzsalz ( 11 )
+Mehlbehandlungsmittel
+Festigungsmittel
+Feuchthaltemittel
+Füllstof
+Treibgas
+
+ANHANG III
+BEZEICHNUNG VON AROMEN IN DER ZUTATENLISTE
+1. Aromen sind entweder mit dem Wort „Aroma“ oder mit einer genaueren Bezeichung oder einer Beschreibung des Aromas zu bezeichnen.
+2. Das Wort „natürlich“ oder ein anderer Begriff mit im wesentlichen gleicher Bedeutung darf nur für Aromen verwendet werden, deren Aromabestandteil ausschließlich Aromastoffe gemäß Artikel 1 Absatz 2 Buchstabe b) Ziffer i) der Richtlinie 88/388/EWG des Rates vom 22. Juni 1988 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Aromen zur Verwendung in Lebensmitteln und über Ausgangsstoffe für ihre Herstellung ( 12 ) und/oder Aromaextrakte gemäß Artikel 1 Absatz 2 Buchstabe c) der genannten Richtlinie enthält.
+3. Enthält die Bezeichnung des Aromas einen Hinweis auf Art oder pflanzlichen bzw. tierischen Ursprung der verwendeten Stoffe, darf das Wort „natürlich“ oder ein anderer Begriff mit im wesentlichen gleicher Bedeutung nur verwendet werden, wenn der Aromabestandteil durch geeignete physikalische oder enzymatische bzw. mikrobiologische Verfahren oder herkömmliche Lebensmittelzubereitungsverfahren ausschließlich oder nahezu ausschließlich aus dem Lebensmittel oder Aromaträger isoliert wurde.
+
+ANHANG IIIa
+Zutaten gemäß Artikel 6 Absätze 3a, 10 und 11
+1. Glutenhaltige Getreide (d. h. Weizen, Roggen, Gerste, Hafer, Dinkel, Kamut oder deren Hybridstämme) und daraus gewonnene Erzeugnisse, außer
+a) Glukosesirupe auf Weizenbasis einschließlich Dextrose ( 13 );
+b) Maltodextrine auf Weizenbasis (13) ;
+c) Glukosesirupe auf Gerstenbasis;
+d) Getreide zur Herstellung von Destillaten oder Ethylalkohol landwirtschaftlichen Ursprungs für Spirituosen und andere alkoholische Getränke.
+2. Krebstiere und daraus gewonnene Erzeugnisse.
+3. Eier und daraus gewonnene Erzeugnisse.
+4. Fische und daraus gewonnene Erzeugnisse, außer
+a) Fischgelatine, die als Träger für Vitamin- oder Karotinoidzubereitungen verwendet wird;
+b) Fischgelatine oder Hausenblase, die als Klärhilfsmittel in Bier und Wein verwendet wird.
+5. Erdnüsse und daraus gewonnene Erzeugnisse.
+6. Sojabohnen und daraus gewonnene Erzeugnisse, außer
+a) vollständig raffiniertes Sojabohnenöl und -fett (13) ;
+b) natürliche gemischte Tocopherole (E306), natürliches D-alpha-Tocopherol, natürliches D-alpha-Tocopherolazetat, natürliches D-alpha-Tocopherolsukzinat aus Sojabohnenquellen;
+c) aus pflanzlichen Ölen aus Sojabohnen gewonnene Phytosterine und Phytosterinester;
+d) aus Pflanzenölsterinen gewonnene Phytostanolester aus Sojabohnenquellen.
+7. Milch und daraus gewonnene Erzeugnisse (einschließlich Laktose), außer
+a) Molke zur Herstellung von Destillaten oder Ethylalkohol landwirtschaftlichen Ursprungs für Spirituosen und andere alkoholische Getränke;
+b) Lactit.
+8. Schalenfrüchte, d. h. Mandeln ( Amygdalus communis L.), Haselnüsse ( Corylus avellana ), Walnüsse ( Juglans regia ), Kaschunüsse ( Anacardium occidentale ), Pekannüsse ( Carya illinoiesis (Wangenh.) K. Koch ), Paranüsse ( Bertholletia excelsa ), Pistazien ( Pistacia vera ), Makadamianüsse und Queenslandnüsse ( Macadamia ternifolia ) und daraus gewonnene Erzeugnisse, außer
+a) Schalenfrüchte für die Herstellung von Destillaten oder Ethylalkohol landwirtschaftlichen Ursprungs für Spirituosen und andere alkoholische Getränke.
+9. Sellerie und daraus gewonnene Erzeugnisse.
+10. Senf und daraus gewonnene Erzeugnisse.
+11. Sesamsamen und daraus gewonnene Erzeugnisse.
+12. Schwefeldioxid und Sulphite in Konzentrationen von mehr als 10 mg/kg oder 10 mg/l, ausgedrückt als SO 2 .
+13. Lupinen und daraus gewonnene Erzeugnisse.
+14. Weichtiere und daraus gewonnene Erzeugnisse.
+
+ANHANG IV
+TEIL A
+AUFGEHOBENE RICHTLINIE UND IHRE NACHFOLGENDEN ÄNDERUNGEN
+(nach Artikel 26)
+Richtlinie 79/112/EWG des Rates (ABl. L 33 vom 8.2.1979, S. 1)
+Richtlinie 85/7/EWG des Rates (ABl. L 2 vom 3.1.1985, S. 22), nur Artikel 1 Nr. 9
+Richtlinie 86/197/EWG des Rates (ABl. L 144 vom 29.5.1986, S. 38)
+Richtlinie 89/395/EWG des Rates (ABl. L 186 vom 30.6.1989, S. 17)
+Richtlinie 91/72/EWG der Kommission (ABl. L 42 vom 15.2.1991, S. 27)
+Richtlinie 93/102/EG der Kommission (ABl. L 291 vom 25.11.1993, S. 14)
+Richtlinie 95/42/EG der Kommission (ABl. L 182 vom 2.8.1995, S. 20)
+Richtlinie 97/4/EG der Europäischen Parlaments und des Rates (ABl. L 43 vom 14.2.1997, S. 21)
+TEIL B
+LISTE DER FRISTEN FÜR DIE UMSETZUNG IN INNERSTAATLICHES RECHT
+(nach Artikel 26)
+Richtlinie | Endgültiges Datum der Umsetzung | Zulassung des Handels mit Produkten, die dieser Richtlinie entsprechen | Verbot des Handels mit Produkten, die nicht mit dieser Richtlinie übereinstimmen
+79/112/EWG |  | 22. Dezember 1980 | 22. Dezember 1982
+85/7/EWG |  |  | 
+86/197/EWG |  | 1. Mai 1988 | 1. Mai 1989
+89/395/EWG |  | 20. Dezember 1990 | 20. Juni 1992
+91/72/EWG |  | 30. Juni 1992 | 1. Januar 1994
+93/102/EG | 30. Dezember 1994 | 1. Januar 1995 | 30. Juni 1996
+95/42/EG |  |  | 
+97/4/EG |  | 14. August 1998 | 14. Februar 2000
+
+ANHANG V
+ENTSPRECHUNGSTABELLE
+Richtlinie 79/112/EWG | Vorliegende Richtlinie
+Artikel 1 | Artikel 1
+Artikel 2 | Artikel 2
+Artikel 3 Absatz 1 Nr. 1 | Artikel 3 Absatz 1 Nr. 1
+Artikel 3 Absatz 1 Nr. 2 | Artikel 3 Absatz 1 Nr. 2
+Artikel 3 Absatz 1 Nr. 2a | Artikel 3 Absatz 1 Nr. 3
+Artikel 3 Absatz 1 Nr. 3 | Artikel 3 Absatz 1 Nr. 4
+Artikel 3 Absatz 1 Nr. 4 | Artikel 3 Absatz 1 Nr. 5
+Artikel 3 Absatz 1 Nr. 5 | Artikel 3 Absatz 1 Nr. 6
+Artikel 3 Absatz 1 Nr. 6 | Artikel 3 Absatz 1 Nr. 7
+Artikel 3 Absatz 1 Nr. 7 | Artikel 3 Absatz 1 Nr. 8
+Artikel 3 Absatz 1 Nr. 8 | Artikel 3 Absatz 1 Nr. 9
+Artikel 3 Absatz 1 Nr. 9 | Artikel 3 Absatz 1 Nr. 10
+Artikel 3, Absätze 2 und 3 | Artikel 3 Absätze 2 und 3
+Artikel 4 | Artikel 4
+Artikel 5 | Artikel 5
+Artikel 6, Absätze 1, 2 und 3 | Artikel 6, Absätze 1, 2 und 3
+Artikel 6 Absatz 4 Buchstaben a) und b) | Artikel 6 Absatz 4 Buchstaben a) und b)
+Artikel 6 Absatz 4 Buchstabe c) Ziffer i) | Artikel 6 Absatz 4 Buchstabe c) Ziffer i)
+Artikel 6 Absatz 4 Buchstabe c) Ziffer ii) erster Gedankenstrich | Artikel 6 Absatz 4 Buchstabe c) Ziffer ii)
+Artikel 6 Absatz 4 Buchstabe c) Ziffer ii) zweiter Gedankenstrich | Artikel 6 Absatz 4 Buchstabe c) Ziffer iii)
+Artikel 6 Absatz 4 Buchstabe d) | Artikel 6 Absatz 4 Buchstabe d)
+Artikel 6 Absatz 5 Buchstabe a) | Artikel 6 Absatz 5
+Artikel 6 Absatz 5 Buchstabe b) | Artikel 6 Absatz 6
+Artikel 6 Absatz 6 | Artikel 6 Absatz 7
+Artikel 6 Absatz 7 Unterabsatz 1 | Artikel 6 Absatz 8 Unterabsatz 1
+Artikel 6 Absatz 7 Unterabsatz 2 erster und zweiter Gedankenstrich | Artikel 6 Absatz 8 Unterabsatz 2 Buchstaben a) und b)
+Artikel 6 Absatz 8 | Artikel 6 Absatz 9
+Artikel 7 | Artikel 7
+Artikel 8 Absätze 1 bis 5 | Artikel 8 Absätze 1 bis 5
+Artikel 8 Absatz 6 | —
+Artikel 8 Absatz 7 | Artikel 8 Absatz 6
+Artikel 9 Absätze 1 bis 4 | Artikel 9 Absätze 1 bis 4
+Artikel 9 Absatz 5 | —
+Artikel 9 Absatz 6 | Artikel 9 Absatz 5
+Artikel 9a | Artikel 10
+Artikel 10 | Artikel 11
+Artikel 10a | Artikel 12
+Artikel 11 Absätze 1 und 2 | Artikel 13 Absätze 1 und 2
+Artikel 11 Absatz 3 Buchstabe a) | Artikel 13 Absatz 3
+Artikel 11 Absatz 3 Buchstabe b) | —
+Artikel 11 Absatz 4 | Artikel 13 Absatz 4
+Artikel 11 Absatz 5 | —
+Artikel 11 Absatz 6 | Artikel 13 Absatz 5 Unterabsatz 1
+Artikel 11 Absatz 7 | Artikel 13 Absatz 5 Unterabsatz 2
+Artikel 12 und 13 | Artikel 14 und 15
+Artikel 13a | Artikel 16
+Artikel 14 und 15 | Artikel 17 und 18
+Artikel 16 Nr. 1 | —
+Artikel 16 Nr. 2 | Artikel 19
+Artikel 17 Absatz 1 | Artikel 20 Absatz 1
+Artikel 17 Absätze 2, 3, 4 und 5 | Artikel 20 Absatz 2
+Artikel 18 | —
+Artikel 19, 20 und 21 | Artikel 21, 22 und 23
+Artikel 22 Absätze 1, 2 und 3 | —
+Artikel 22 Absatz 4 | Artikel 24
+Artikel 23 | —
+Artikel 24 | Artikel 25
+Artikel 25 | —
+Artikel 26 | —
+— | Artikel 26
+— | Artikel 27
+— | Artikel 28
+Anhang I | Anhang I
+Anhang II | Anhang II
+Anhang III | Anhang III
+— | Anhang IV
+— | Anhang V
+
+( 1 ) ABl. C 258 vom 10.9.1999, S. 12.
+( 2 ) Stellungnahme des Europäischen Parlaments vom 18. Januar 2000 (noch nicht im Amtsblatt veröffentlicht) und Beschluß des Rates vom 13. März 2000.
+( 3 ) ABl. L 33 vom 8.2.1979, S. 1. Richtlinie zuletzt geändert durch die Richtlinie 97/4/EG des Europäischen Parlaments und des Rates (ABl. L 43 vom 14.2.1997, S. 21).
+( 4 ) Siehe Anhang IV Teil B.
+( 5 ) ABl. L 184 vom 17.7.1999, S. 23.
+( 6 ) ABl. L 179 vom 14.7.1999, S. 1. Zuletzt geändert durch die Verordnung (EG) Nr. 1795/2003 der Kommission (ABl. L 262 vom 14.10.2003, S. 13).
+( 7 ) ABl. L 149 vom 14.6.1991, S. 1. Zuletzt geändert durch die Verordnung (EG) Nr. 2061/96 des Europäischen Parlaments und des Rates (ABl. L 277 vom 30.10.1996, S. 1).
+( 8 ) ABl. L 160 vom 12.6.1989, S. 1. Zuletzt geändert durch die Verordnung (EG) Nr. 3378/94 des Europäischen Parlaments und des Rates (ABl. L 366 vom 31.12.1994, S. 1).
+( 9 ) ABl. L 31 vom 1.2.2002, S. 1. Geändert durch die Verordnung (EG) Nr. 1642/2003 (ABl. L 245 vom 29.9.2003, S. 4).
+( 10 ) Die Angabe des spezifischen Namens über der EG-Nummer ist nicht erforderlich.
+( 11 ) Nur im Fall von Schmelzkäse und von Erzeugnissen auf der Grundlage von Schmelzkäse.
+( 12 ) ABl. L 184 vom 15.7.1988, S. 61. Richtlinie geändert durch die Richtlinie 91/71/EWG der Kommission (ABl. L 42 vom 15.2.1991, S. 25).
+( 13 ) Und daraus gewonnene Erzeugnisse, soweit das Verfahren, das sie durchlaufen haben, die Allergenität, die von der EFSA für das entsprechende Erzeugnis ermittelt wurde, aus dem sie gewonnen wurden, wahrscheinlich nicht erhöht.

@@ -1,0 +1,470 @@
+SMERNICA EURÓPSKEHO PARLAMENTU A RADY 2013/11/EÚ
+z 21. mája 2013
+o alternatívnom riešení spotrebiteľských sporov, ktorou sa mení nariadenie (ES) č. 2006/2004 a smernica 2009/22/ES
+(smernica o alternatívnom riešení spotrebiteľských sporov)
+
+EURÓPSKY PARLAMENT A RADA EURÓPSKEJ ÚNIE,
+
+so zreteľom na Zmluvu o fungovaní Európskej únie, a najmä na jej článok 114,
+
+so zreteľom na návrh Európskej komisie,
+
+po postúpení návrhu legislatívneho aktu národným parlamentom,
+
+so zreteľom na stanovisko Európskeho hospodárskeho a sociálneho výboru ( 1 ) ,
+
+konajúc v súlade s riadnym legislatívnym postupom ( 2 ) ,
+
+keďže:
+
+(1) | V článku 169 ods. 1 a ods. 2 písm. a) Zmluvy o fungovaní Európskej únie (ZFEÚ) sa stanovuje, že Únia má prispievať k dosiahnutiu vysokej úrovne ochrany spotrebiteľa opatreniami, ktoré prijíma podľa článku 114 ZFEÚ. V článku 38 Charty základných práv Európskej únie sa stanovuje, že Únia svojimi politikami zabezpečí vysokú úroveň ochrany spotrebiteľa.
+
+(2) | V súlade s článkom 26 ods. 2 ZFEÚ má vnútorný trh zahŕňať oblasť bez vnútorných hraníc, v ktorej je zaručený voľný pohyb tovaru a služieb. Vnútorný trh by mal spotrebiteľom poskytovať pridanú hodnotu v podobe vyššej kvality, väčšej rozmanitosti, primeraných cien a vysokých bezpečnostných požiadaviek na tovar a služby, čo by malo podporiť vysokú úroveň ochrany spotrebiteľa.
+
+(3) | Fragmentácia vnútorného trhu škodí konkurencieschopnosti, rastu a vytváraniu pracovných miest v rámci Únie. Odstránenie priamych a nepriamych prekážok riadneho fungovania vnútorného trhu a zvýšenie dôvery občanov majú pre dobudovanie vnútorného trhu zásadný význam.
+
+(4) | Zo zabezpečenia prístupu k jednoduchým, efektívnym, rýchlym a nízkonákladným spôsobom riešenia vnútroštátnych a cezhraničných sporov, ktoré vyplývajú z kúpnych zmlúv alebo zmlúv o službách, by mali mať prospech spotrebitelia, a tým by sa mala zvýšiť ich dôvera v trh. Tento prístup by sa mal vzťahovať na transakcie online i offline a je dôležitý najmä pri cezhraničných nákupoch.
+
+(5) | Alternatívne riešenie sporov (ARS) ponúka jednoduché, rýchle a nízkonákladné mimosúdne riešenie sporov medzi spotrebiteľmi a obchodníkmi. Nie je však ešte dostatočne a rovnomerne rozvinuté v celej Únii. Je poľutovaniahodné, že napriek odporúčaniam Komisie 98/257/ES z 30. marca 1998 o zásadách platných pre orgány zodpovedné za mimosúdne riešenie spotrebiteľských sporov ( 3 ) a 2001/310/ES zo 4. apríla 2001 o zásadách pre mimosúdne orgány, ktoré sa zaoberajú konsenzuálnym urovnaním spotrebiteľských sporov ( 4 ) , nebol ARS správne ustanovený a nefunguje uspokojivo vo všetkých geografických oblastiach ani odvetviach podnikania v Únii. Spotrebitelia a obchodníci ešte stále nie sú informovaní o existujúcich alternatívnych mechanizmoch nápravy a len malé percento občanov vie, ako podať sťažnosť subjektu ARS. Ak aj postupy ARS existujú, ich kvalita sa v jednotlivých členských štátoch značne líši, pričom subjekty ARS cezhraničné spory často neriešia efektívne.
+
+(6) | Rozdiely v rozsahu, kvalite a povedomí o ARS v členských štátoch predstavujú prekážku pre vnútorný trh a sú jedným z dôvodov, pre ktoré sa spotrebitelia vyhýbajú cezhraničnému nakupovaniu a prečo nedôverujú tomu, že potenciálne spory s obchodníkmi sa môžu vyriešiť jednoduchým, rýchlym a nie nákladným spôsobom. Z tých istých dôvodov by sa obchodníci mohli vyhýbať predaju spotrebiteľom v iných členských štátoch, v ktorých nie je dostatočný prístup k vysokokvalitným postupom ARS. Obchodníci so sídlom v členskom štáte, v ktorom nie sú dostatočne dostupné vysokokvalitné postupy ARS, sú okrem toho v konkurenčnej nevýhode vo vzťahu k obchodníkom, ktorí majú k takýmto postupom prístup, a tak môžu riešiť spotrebiteľské spory rýchlejšie a lacnejšie.
+
+(7) | Aby mohli spotrebitelia plne využívať potenciál vnútorného trhu, ARS by malo byť k dispozícii pre všetky druhy domácich a cezhraničných sporov, na ktoré sa vzťahuje táto smernica, postupy ARS by mali spĺňať jednotné požiadavky kvality, ktoré sa uplatňujú v celej Únii, a spotrebitelia a obchodníci by mali byť informovaní o existencii týchto postupov. Vzhľadom na zvýšený cezhraničný obchod a pohyb osôb je tiež dôležité, aby subjekty ARS riešili cezhraničné spory efektívne.
+
+(8) | Ako odporúčal Európsky parlament vo svojom uznesení z 25. októbra 2011 o alternatívnom riešení sporov v občianskych, obchodných a rodinných veciach a v uznesení z 20. mája 2010 o zabezpečení jednotného trhu pre spotrebiteľov a občanov, každý komplexný prístup k jednotnému trhu, ktorý má byť pre občanov efektívny, by mal v prvom rade vytvárať jednoduchý, cenovo dostupný, účelný a prístupný systém nápravy.
+
+(9) | Komisia vo svojom oznámení z 13. apríla 2011 nazvanom Akt o jednotnom trhu – Dvanásť hybných síl podnecovania rastu a posilňovania dôvery – Spoločne za nový rast označila právne predpisy o ARS, ktoré zahŕňajú rozmer elektronického obchodu (e-obchod), za jednu z dvanástich hybných síl podnecovania rastu, posilňovania dôvery v jednotný trh a pokroku k jeho dobudovaniu.
+
+(10) | Vo svojich záveroch z 24. až 25. marca a 23. októbra 2011 Európska rada vyzvala Európsky parlament a Radu, aby do konca roka 2012 prijali prvý súbor prioritných opatrení, ktoré jednotnému trhu dodajú nový impulz. Vo svojich záveroch z 30. mája 2011 o prioritách na oživenie jednotného trhu Európska rada navyše zdôraznila význam elektronického obchodu a súhlasila, že systémy ARS sú schopné ponúkať nízkonákladnú, jednoduchú a rýchlu nápravu pre spotrebiteľov i obchodníkov. Úspešné zavedenie týchto systémov si vyžaduje trvalú politickú vôľu a podporu všetkých aktérov bez toho, aby bola ohrozená cenová dostupnosť, transparentnosť, pružnosť, rýchlosť a kvalita rozhodovania subjektov ARS, na ktoré sa vzťahuje táto smernica.
+
+(11) | Vzhľadom na narastajúcu dôležitosť obchodu online, najmä cezhraničného obchodu, ako piliera hospodárskej činnosti Únie riadne fungujúca infraštruktúra alternatívneho riešenia spotrebiteľských sporov (RSO) a riadne integrovaný rámec riešenia spotrebiteľských sporov online, pokiaľ ide o spory z transakcií online, sú nevyhnutné na dosiahnutie cieľa Aktu o jednotnom trhu, ktorým je zvýšenie dôvery občanov vo vnútorný trh.
+
+(12) | Táto smernica a nariadenie Európskeho parlamentu a Rady (EÚ) č. 524/2013 z 21. mája 2013 o riešení spotrebiteľských sporov online ( 5 ) sú dva vzájomne prepojené a dopĺňajúce sa legislatívne nástroje. V nariadení (EÚ) č. 524/2013 sa ustanovuje vytvorenie platformy RSO, ktorá spotrebiteľom a obchodníkom poskytne jednotné prístupové miesto pre mimosúdne riešenie sporov, a to prostredníctvom subjektov ARS, ktoré sú prepojené s platformou a ponúkajú ARS prostredníctvom kvalitných postupov ARS. Dostupnosť kvalitných subjektov ARS v celej Únii je tak základnou podmienkou riadneho fungovania platformy RSO.
+
+(13) | Táto smernica by sa nemala vzťahovať na služby všeobecného záujmu nehospodárskeho charakteru. Služby nehospodárskeho charakteru sú služby, ktoré sa nevykonávajú za ekonomickú protihodnotu. V dôsledku toho by sa táto smernica nemala vzťahovať na služby všeobecného záujmu nehospodárskeho charakteru, ktoré bezodplatne vykonáva štát alebo ktoré sa bezodplatne vykonávajú v jeho mene, bez ohľadu na právnu formu, prostredníctvom ktorej sa tieto služby poskytujú.
+
+(14) | Táto smernica by sa okrem toho nemala vzťahovať na služby zdravotnej starostlivosti v zmysle článku 3 písm. a) smernice Európskeho parlamentu a Rady 2011/24/EÚ z 9. marca 2011 o uplatňovaní práv pacientov pri cezhraničnej zdravotnej starostlivosti ( 6 ) .
+
+(15) | Rozvoj riadne fungujúceho ARS v rámci Únie je potrebný na posilnenie dôvery spotrebiteľov vo vnútorný trh vrátane oblasti obchodu online a na naplnenie potenciálu a využitie príležitostí cezhraničného obchodu a online obchodu. Takýto rozvoj by mal stavať na existujúcich postupoch ARS v členských štátoch a mal by rešpektovať ich právne tradície. Existujúce i novovzniknuté riadne fungujúce subjekty na riešenie sporov, ktoré spĺňajú kvalitatívne požiadavky stanovené v tejto smernici, by sa mali považovať za „subjekty ARS“ v zmysle tejto smernice. Rozšírenie ARS sa taktiež môže ukázať ako dôležité v členských štátoch, v ktorých je veľa neukončených súdnych konaní, čo bráni občanom Únie uplatňovať svoje právo na spravodlivý proces v primeranom čase.
+
+(16) | Táto smernica by sa mala vzťahovať na spory medzi spotrebiteľmi a obchodníkmi, ktoré sa týkajú zmluvných záväzkov z kúpnych zmlúv alebo zo zmlúv o službách online aj offline vo všetkých odvetviach hospodárstva s výnimkou vyňatých odvetví. To by malo zahŕňať aj spory, ktoré vznikajú pri predaji alebo poskytovaní digitálneho obsahu za odplatu. Táto smernica by sa mala vzťahovať na sťažnosti podané spotrebiteľmi na obchodníkov. Nemala by sa vzťahovať na sťažnosti, ktoré podali obchodníci na spotrebiteľov, ani na spory medzi obchodníkmi. Nemala by však členským štátom brániť v tom, aby prijali alebo si zachovali v platnosti ustanovenia o postupoch mimosúdneho riešenia takýchto sporov.
+
+(17) | Členským štátom by sa malo povoliť zachovať alebo zaviesť vnútroštátne ustanovenia týkajúce sa postupov, na ktoré sa nevzťahuje táto smernica, ako sú napríklad vnútorné postupy vybavovania sťažností prevádzkované obchodníkom. Takéto vnútorné postupy vybavovania sťažností môžu predstavovať účinný prostriedok na riešenie spotrebiteľských sporov v skorom štádiu.
+
+(18) | Vymedzenie pojmu „spotrebiteľ“ by malo zahŕňať fyzické osoby, ktoré konajú mimo svojej obchodnej, podnikateľskej, remeselnej alebo profesijnej činnosti. Ak sa však zmluva uzavrie čiastočne na účely obchodnej činnosti a čiastočne na účely nesúvisiace s obchodnou činnosťou dotknutej osoby (dvojúčelové zmluvy), pričom účel obchodnej činnosti je obmedzený do tej miery, že v celkovom kontexte dodávky neprevažuje, takáto osoba by sa tiež mala považovať za spotrebiteľa.
+
+(19) | Niektoré existujúce právne akty Únie už obsahujú ustanovenia o ARS. V záujme zabezpečenia právnej istoty by sa malo ustanoviť, že v prípade kolízie právnych noriem má prednosť táto smernica, pokiaľ sa v nej výslovne neustanovuje inak. Predovšetkým by touto smernicou nemala byť dotknutá smernica Európskeho parlamentu a Rady 2008/52/ES z 21. mája 2008 o určitých aspektoch mediácie v občianskych a obchodných veciach ( 7 ) , ktorou sa už stanovuje rámec pre systémy mediácie na úrovni Únie, pre cezhraničné spory, pričom sa nebráni jej uplatňovaniu na vnútroštátne systémy mediácie. Táto smernica by sa mala uplatňovať horizontálne na všetky typy postupov ARS vrátane postupov ARS, na ktoré sa vzťahuje smernica 2008/52/ES.
+
+(20) | Subjekty ARS sa navzájom veľmi líšia v rámci Únie, ale aj v rámci jednotlivých členských štátov. Táto smernica by sa mala vzťahovať na každý subjekt, ktorý je zriadený ako stály subjekt, ponúka riešenie sporov medzi spotrebiteľmi a obchodníkmi prostredníctvom postupov ARS a ktorý je uvedený v zozname v súlade s touto smernicou. Táto smernica sa môže v prípade, že sa tak členské štáty rozhodnú, vzťahovať aj na subjekty riešenia sporov, ktoré účastníkom ukladajú záväzné riešenie. Mimosúdny postup, ktorý sa vytvorí ad hoc v prípade jedného sporu medzi spotrebiteľom a obchodníkom, by sa však nemal pokladať za postup ARS.
+
+(21) | Takisto postupy ARS sa v rámci Únie i v rámci jednotlivých členských štátov veľmi líšia. Môžu mať formu postupov, pri ktorých subjekt ARS zariaďuje stretnutie účastníkov s cieľom sprostredkovať zmierlivé riešenie, alebo postupov, kde subjekt ARS navrhuje riešenie, alebo postupov, kde subjekt ARS stanovuje riešenie. Môžu mať tiež formu kombinácie dvoch alebo viacerých takýchto postupov. Táto smernica by nemala mať vplyv na formu postupov ARS v členských štátoch.
+
+(22) | Postupy pred subjektmi riešenia sporov, pri ktorých sú fyzické osoby poverené riešením sporu zamestnané výlučne obchodníkom alebo dostávajú odmeny v akejkoľvek podobe výlučne od obchodníka a pri ktorých je pravdepodobné, že by v ich prípade mohlo dôjsť ku konfliktu záujmov. Z tohto dôvodu by sa v zásade mali uvedené postupy vylúčiť z pôsobnosti tejto smernice, pokiaľ daný členský štát nerozhodne, že takéto postupy je možné uznať za postupy ARS podľa tejto smernice, a pokiaľ uvedené subjekty v plnej miere spĺňajú špecifické požiadavky ustanovené v tejto smernici týkajúce sa nezávislosti a nestrannosti. Subjekty ARS, ktoré ponúkajú riešenie sporov prostredníctvom takýchto postupov, by sa mali pravidelne hodnotiť z hľadiska dodržiavania kvalitatívnych požiadaviek ustanovených v tejto smernici vrátane špecifických dodatočných požiadaviek, ktoré zaisťujú ich nezávislosť.
+
+(23) | Táto smernica by sa nemala vzťahovať na postupy pred systémami vybavovania spotrebiteľských sťažností prevádzkovanými obchodníkmi ani na priame rokovania medzi účastníkmi. Okrem toho by sa nemala vzťahovať na pokusy sudcov o urovnanie sporu v priebehu súdneho konania týkajúceho sa daného sporu.
+
+(24) | Členské štáty by mali zabezpečiť, aby sa spory, na ktoré sa vzťahuje táto smernica, mohli predkladať subjektu ARS, ktorý spĺňa požiadavky stanovené v tejto smernici a ktorý je uvedený v zozname v súlade s touto smernicou. Členské štáty by mali mať možnosť splniť túto povinnosť tak, že budú budovať na existujúcich riadne fungujúcich subjektoch ARS a v prípade potreby upravia ich právomoc, alebo tak, že ustanovia vytvorenie nových subjektov ARS. Táto smernica by nemala brániť fungovaniu existujúcich subjektov riešenia sporov pôsobiacich v rámci vnútroštátnych orgánov členských štátov na ochranu spotrebiteľov, v ktorých sú riešením sporov poverení štátni úradníci. Štátni úradníci by sa mali považovať za zástupcov záujmov spotrebiteľov i obchodníkov. Táto smernica by nemala zaväzovať členské štáty na to, aby vytvorili špecifický subjekt ARS v každom maloobchodnom sektore. V prípade potreby a s cieľom zabezpečiť úplné odvetvové a geografické pokrytie a prístup k alternatívnemu riešeniu sporov by členské štáty mali mať možnosť ustanoviť vytvorenie univerzálneho subjektu ARS, ktorý by sa zaoberal spormi, na ktorých riešenie nie je príslušný žiadny osobitný subjekt ARS. Tieto subjekty ARS sú myslené ako záruka pre spotrebiteľov a obchodníkov, ktorými sa zabezpečí, aby v prístupe k subjektom ARS neexistovali nepokryté miesta.
+
+(25) | Táto smernica by nemala brániť členským štátom v zachovaní alebo zavedení právnych predpisov, ktoré sa týkajú postupov pri mimosúdnych riešeniach sporov zo spotrebiteľských zmlúv a ktoré spĺňajú požiadavky ustanovené v tejto smernici. Na účely zabezpečenia ich efektívneho fungovania by subjekty ARS okrem toho mali mať možnosť zachovať alebo zaviesť v súlade s právnymi predpismi členského štátu, v ktorom majú sídlo, procedurálne pravidlá, ktoré im za špecifických okolností umožnia odmietnuť zaoberať sa spormi, napríklad v prípade sporu, ktorý je príliš zložitý a ktorý by preto lepšie vyriešil súd. Procedurálne pravidlá umožňujúce subjektom ARS odmietnuť zaoberať sa sporom by nemali výrazne zhoršiť prístup spotrebiteľov k postupom ARS, a to ani v prípade cezhraničných sporov. Členské štáty by preto pri stanovovaní peňažnej prahovej hodnoty mali vždy brať do úvahy, že skutočná hodnota sporu sa môže v jednotlivých členských štátoch líšiť, a v dôsledku toho by stanovenie neprimerane vysokej prahovej hodnoty v jednom členskom štáte mohlo zhoršiť prístup k postupom ARS pre spotrebiteľov z iných členských štátov. Členské štáty by nemali mať povinnosť zabezpečiť, aby spotrebiteľ v prípade, že subjekt ARS, ktorému bola sťažnosť podaná ako prvému, sa ňou odmietne zaoberať z dôvodu svojich procedurálnych pravidiel, mohol svoju sťažnosť podať inému subjektu ARS. V takýchto prípadoch by sa povinnosť členských štátov zabezpečiť úplné pokrytie subjektov ARS mala považovať za splnenú.
+
+(26) | Touto smernicou by sa malo umožniť, aby obchodníci so sídlom v jednom členskom štáte mohli patriť do pôsobnosti subjektu ARS, ktorý je usadený v inom členskom štáte. Na účely zlepšenia pokrytia a prístupu spotrebiteľov k ARS v celej Únii by členské štáty mali mať možnosť rozhodnúť sa využiť subjekty ASR so sídlom v inom členskom štáte alebo regionálne, nadnárodné alebo celoeurópske subjekty ARS, v rámci ktorých obchodníci z rôznych členských štátov patria do pôsobnosti toho istého subjektu ARS. Využívaním subjektov ARS so sídlom v inom členskom štáte alebo nadnárodných alebo celoeurópskych subjektov ARS by však nemala byť dotknutá zodpovednosť členských štátov zabezpečiť úplné pokrytie subjektov ARS a prístup k týmto subjektom.
+
+(27) | Touto smernicou by nemala byť dotknutá možnosť, aby si členské štáty zachovali alebo zaviedli postupy ARS pri spoločnom riešení identických alebo podobných sporov medzi obchodníkom a viacerými spotrebiteľmi. Komplexné posúdenie vplyvu by sa malo v prípade kolektívnych mimosúdnych urovnaní vykonávať predtým, než sú tieto urovnania navrhnuté na úrovni Únie. Účinný systém podávania kolektívnych žiadostí a jednoduchý prístup k ARS by sa mali dopĺňať a nemali by to byť postupy, ktoré sa navzájom vylučujú.
+
+(28) | Spracúvanie informácií súvisiacich so spormi, na ktoré sa vzťahuje táto smernica, by malo byť v súlade s predpismi o ochrane osobných údajov stanovenými v zákonoch, iných právnych predpisoch a správnych opatreniach členských štátov prijatých podľa smernice Európskeho parlamentu a Rady 95/46/ES z 24. októbra 1995 o ochrane fyzických osôb pri spracovaní osobných údajov a voľnom pohybe týchto údajov ( 8 ) .
+
+(29) | Počas celého postupu ARS by sa mala rešpektovať dôvernosť a súkromie. Členské štáty je potrebné podporovať v tom, aby chránili dôvernosť postupov ARS v každom následnom občianskom alebo obchodnom súdnom či arbitrážnom konaní.
+
+(30) | Členské štáty by však mali zabezpečiť, aby subjekty ARS zverejňovali informácie o akýchkoľvek častých systematických alebo závažných problémoch, ktoré vedú k sporom medzi spotrebiteľmi a obchodníkmi. K takýmto informáciám by sa mohli priložiť odporúčania o tom, ako by bolo možné sa takýmto problémom v budúcnosti vyhnúť alebo ako by bolo možné ich v budúcnosti vyriešiť, s cieľom zvýšiť požiadavky na obchodníkov a uľahčiť výmenu informácií a najlepších postupov.
+
+(31) | Členské štáty by mali zabezpečiť, aby subjekty ARS riešili spory spravodlivým, praktickým a primeraným spôsobom z hľadiska spotrebiteľov i obchodníkov, vychádzali pritom z objektívneho posúdenia okolností, za akých bola sťažnosť podaná, a náležite prihliadali na práva účastníkov sporu.
+
+(32) | Nezávislosť a integrita subjektov ARS sú kľúčové pre získanie dôvery občanov Únie v to, že mechanizmy ARS im zaistia spravodlivé a nezávislé výsledky. Fyzická osoba alebo kolektívny orgán poverené ARS by mali byť nezávislé od všetkých subjektov, ktoré by mohli mať záujem na výsledku, a nemali by byť v žiadnom konflikte záujmov, ktorý by im mohol brániť v prijatí spravodlivého, nestranného a nezávislého rozhodnutia.
+
+(33) | Fyzické osoby poverené ARS by sa mali pokladať za nestranné len vtedy, ak na ne nemôže byť vyvíjaný tlak, ktorý môže ovplyvniť ich postoj k danému sporu. V záujme zaistenia nezávislosti ich činnosti by sa taktiež uvedené osoby mali vymenúvať na dostatočne dlhé funkčné obdobia a nemali by podliehať pokynom žiadneho z účastníkov sporu alebo ich zástupcov.
+
+(34) | Na účely zabezpečenia toho, aby nedochádzalo k žiadnemu konfliktu záujmov, by fyzické osoby poverené ARS mali oznámiť všetky okolnosti, ktoré by mohli mať vplyv na ich nezávislosť a nestrannosť alebo ktoré by mohli viesť ku konfliktu záujmov vo vzťahu ku ktorémukoľvek účastníkovi sporu, ktorý boli požiadané vyriešiť. Medzi tieto okolnosti môže patriť akýkoľvek priamy alebo nepriamy finančný záujem vo vzťahu k výsledku postupu ARS alebo akýkoľvek osobný alebo obchodný vzťah k jednému alebo viacerým účastníkom sporu v priebehu troch rokov pred začatím vykonávania funkcie vrátane akéhokoľvek iného pôsobenia ako pôsobenia na účely ARS, v rámci ktorého dotknutá osoba konala pre jedného alebo viacerých účastníkov sporu, profesijnú organizáciu alebo obchodné združenie, ktorých je niektorý z účastníkov sporu členom, alebo pre akéhokoľvek iného člena takejto profesijnej organizácie alebo obchodného združenia.
+
+(35) | Je potrebné zabezpečiť najmä to, aby sa takýto tlak nevyvíjal v prípade, keď sú fyzické osoby poverené alternatívnym riešením sporu zamestnancami obchodníka alebo im tento obchodník poskytuje odmeny v akejkoľvek podobe. Z tohto dôvodu by sa mali ustanoviť osobitné požiadavky pre prípad, keď sa členské štáty rozhodnú, že sa postupy riešenia sporov v takýchto prípadoch budú považovať za postupy ARS podľa tejto smernice. Keď sú fyzické osoby poverené ARS zamestnancami profesijnej organizácie alebo obchodného združenia, ktorých je obchodník členom, alebo im takáto profesijná organizácia alebo obchodné združenie poskytuje odmeny v akejkoľvek podobe, mali by mať k dispozícii samostatný a vyhradený rozpočet postačujúci na plnenie ich úloh.
+
+(36) | Pre úspech ARS, najmä v záujme zabezpečenia potrebnej dôvery v postupy ARS, je nevyhnutné, aby fyzické osoby poverené ARS mali potrebné odborné znalosti vrátane všeobecných znalostí v oblasti práva. Uvedené osoby by predovšetkým mali mať dostatočné vedomosti o právnych otázkach, ktoré im umožnia chápať právne dôsledky sporu, a to bez toho, aby museli byť kvalifikovaným právnikom.
+
+(37) | Uplatniteľnosť určitých zásad kvality na postupy ARS posilňuje dôveru spotrebiteľov i obchodníkov voči týmto postupom. Takéto zásady kvality sa na úrovni Únie prvýkrát vypracovali v odporúčaniach Komisie 98/257/ES a 2001/310/ES. Tým, že sa niektoré zo zásad ustanovených v týchto odporúčaniach Komisie stali záväznými, touto smernicou sa ustanovuje súbor požiadaviek kvality, ktoré sa vzťahujú na všetky postupy ARS vykonávané subjektom ARS, ktorý bol oznámený Komisii.
+
+(38) | Touto smernicou by sa mali ustanoviť požiadavky kvality pre subjekty ARS, ktorými by sa mala zaručiť rovnaká úroveň ochrany a práv spotrebiteľov vo vnútroštátnych i cezhraničných sporoch. Táto smernica by nemala brániť členským štátom v prijímaní ani zachovaní pravidiel, ktoré idú nad rámec ustanovení smernice.
+
+(39) | Subjekty ARS by mali byť dostupné a transparentné. Aby sa zabezpečila transparentnosť subjektov a postupov ARS, je potrebné, aby účastníci dostali jasné a zrozumiteľné informácie, ktoré potrebujú na to, aby sa mohli informovane rozhodnúť o účasti na postupe ARS. Poskytovanie takýchto informácií obchodníkom by nemalo byť povinné v prípade, že ich účasť na postupoch ARS je podľa vnútroštátnych právnych predpisov povinná.
+
+(40) | Riadne fungujúci subjekt ARS by mal vyriešiť spory online a offline rýchlo, pričom od doručenia úplného spisu sťažnosti subjektu ARS vrátane úplnej príslušnej dokumentácie, ktorá sa jej týka, do sprístupnenia výsledku postupu ARS by nemalo uplynúť viac ako 90 kalendárnych dní. Subjekt ARS, ktorý dostal sťažnosť, by mal informovať účastníkov sporu hneď po tom, ako získa všetky písomnosti potrebné na vykonanie postupu ARS. V určitých výnimočných prípadoch veľmi zložitej povahy, vrátane prípadu, ak sa niektorý z účastníkov sporu nemôže z opodstatnených dôvodov zúčastniť na postupe ARS, by subjekty ARS mali mať na účely preskúmania daného prípadu možnosť uvedenú lehotu predĺžiť. Účastníci sporu by mali byť informovaní o každom takomto predĺžení a o predpokladanom približnom čase, ktorý bude potrebný na uzavretie sporu.
+
+(41) | Postupy ARS by mali byť pre spotrebiteľov podľa možnosti bezplatné. V prípade, že sa platia náklady, postup ARS by mal byť pre spotrebiteľov prístupný, atraktívny a nie nákladný. Na tento účel by náklady nemali byť vyššie ako symbolický poplatok.
+
+(42) | Postupy ARS by mali byť spravodlivé v tom zmysle, že účastníci sporu by mali byť plne informovaní o svojich právach a dôsledkoch svojich rozhodnutí v kontexte postupu ARS. Predtým, ako spotrebitelia súhlasia s navrhovaným riešením alebo takéto riešenie uplatnia, by ich subjekty ARS mali informovať o ich právach. Obaja účastníci sporu by tiež mali mať možnosť predkladať svoje informácie a dôkazy bez toho, aby boli fyzicky prítomní.
+
+(43) | Dohoda medzi spotrebiteľom a obchodníkom predkladať sťažnosti subjektu ARS by nemala byť pre spotrebiteľa záväzná, ak bola uzavretá pred tým, ako spor vznikol, a ak je v jej dôsledku spotrebiteľ zbavený práva podať v záujme vyriešenia sporu žalobu na súd. Pri postupoch ARS, ktorých cieľom je vyriešiť spor uložením riešenia, by okrem toho uložené riešenie malo byť pre účastníkov záväzné len v prípade, ak boli o jeho záväznej povahe vopred informovaní a výslovne to akceptovali. Výslovný súhlas obchodníka by sa nemal vyžadovať, ak sa vo vnútroštátnych predpisoch ustanovuje, že takéto riešenia sú pre obchodníkov záväzné.
+
+(44) | Pri postupoch ARS, ktorých cieľom je vyriešiť spor uložením riešenia spotrebiteľovi v prípade, keď nedochádza ku kolízii právnych poriadkov, by uložené riešenie nemalo viesť k pozbaveniu ochrany, ktorú mu poskytujú ustanovenia, od ktorých sa podľa práva členského štátu, v ktorom má spotrebiteľ a obchodník obvyklý pobyt, nemožno odchýliť dohodou. V prípade kolízie právnych poriadkov, v ktorej sa rozhodné právo pre kúpne zmluvy alebo zmluvy o službách určuje podľa článku 6 ods. 1 a 2 nariadenia Európskeho parlamentu a Rady (ES) č. 593/2008 zo 17. júna 2008 o rozhodnom práve pre zmluvné záväzky (Rím I) ( 9 ) , by spotrebiteľ nemal byť v dôsledku riešenia uloženého subjektom ARS pozbavený ochrany poskytovanej ustanoveniami, od ktorých sa podľa práva členského štátu, v ktorom má spotrebiteľ obvyklý pobyt, nemožno odchýliť dohodou. V prípade kolízie právnych poriadkov, v ktorej sa rozhodné právo pre kúpne zmluvy alebo zmluvy o službách určuje podľa článku 5 ods. 1 až 3 Dohovoru o rozhodnom práve pre zmluvné záväzky z 19. júna 1980 ( 10 ) , by spotrebiteľ nemal byť v dôsledku riešenia uloženého subjektom ARS pozbavený ochrany poskytovanej spotrebiteľovi kogentnými ustanoveniami práva členského štátu, v ktorom má spotrebiteľ obvyklý pobyt.
+
+(45) | Právo na účinný prostriedok nápravy a právo na spravodlivý proces sú základnými právami ustanovenými v článku 47 Charty základných práv Európskej únie. Z tohto dôvodu by sa postupy ARS nemali navrhovať s cieľom nahradiť súdne konanie a nemali by spotrebiteľov ani obchodníkov zbaviť ich práva na súdnu ochranu. Táto smernica by nemala brániť účastníkom uplatniť ich právo na prístup k súdnemu systému. V prípadoch, keď spor nemožno vyriešiť prostredníctvom daného postupu ARS, ktorého výsledok nie je záväzný, by sa účastníkom nemalo brániť v začatí súdneho konania v súvislosti s týmto sporom. Voľba vhodných prostriedkov na dosiahnutie tohto cieľa náleží členským štátom. Členské štáty by mali mať okrem iného možnosť ustanoviť, že počas postupu ARS neuplynie premlčacia ani prekluzívna lehota.
+
+(46) | Subjekty ARS by mali mať na efektívne fungovanie k dispozícii dostatočné ľudské, materiálne a finančné zdroje. Členské štáty by mali rozhodnúť o vhodnej forme financovania subjektov ARS na svojom území bez obmedzenia financovania subjektov, ktoré už fungujú. Táto smernica by nemala mať vplyv na skutočnosť, či sú subjekty ARS financované verejne, súkromne, alebo kombináciou verejných a súkromných zdrojov. Subjekty ARS je však potrebné podporovať, aby osobitne zvažovali súkromné formy financovania a aby využívali verejné prostriedky len podľa uváženia členských štátov. Touto smernicou by nemala byť ovplyvnená možnosť, aby podniky, profesijné organizácie alebo obchodné združenia financovali subjekty ARS.
+
+(47) | Keď dôjde k sporu, je potrebné, aby spotrebitelia dokázali rýchlo identifikovať, ktoré subjekty ARS sú príslušné na riešenie ich sťažnosti, a aby vedeli, či sa dotknutý obchodník zúčastní na postupe riešenia sporu predloženého subjektu ARS. Obchodníci, ktorí sa zaviažu využívať na riešenie sporov so spotrebiteľmi subjekty ARS, by mali spotrebiteľov informovať o adrese a webovej stránke subjektu alebo subjektov ARS, do ktorých pôsobnosti patria. Uvedené informácie by sa mali poskytovať jasným, zrozumiteľným a jednoducho prístupným spôsobom, a to na obchodníkovej webovej stránke, ak takáto stránka existuje a ak je to možné vo všeobecných podmienkach kúpnych zmlúv alebo zmlúv o službách medzi obchodníkom a spotrebiteľom. Obchodníci by mali mať možnosť uviesť na svojich webových stránkach a v podmienkach príslušných zmlúv akékoľvek ďalšie informácie o svojich vnútorných postupoch vybavovania sťažností alebo o iných spôsoboch, ako ich možno priamo kontaktovať s cieľom urovnať spory so spotrebiteľmi bez toho, aby sa postúpili subjektu ARS. Keď nemožno spor vyriešiť priamo, obchodník by mal informácie o príslušných subjektoch ARS spotrebiteľovi poskytnúť písomne alebo na inom trvalom nosiči a mal by uviesť, či subjekty ARS využije.
+
+(48) | Povinnosťou obchodníkov informovať spotrebiteľov o subjektoch ARS, do ktorých pôsobnosti títo obchodníci patria, by nemali byť dotknuté ustanovenia týkajúce sa informácií pre spotrebiteľov o postupoch mimosúdneho urovnania uvedené v iných právnych aktoch Únie, ktoré by sa mali uplatňovať popri príslušnej povinnosti poskytovať informácie ustanovenej v tejto smernici.
+
+(49) | V tejto smernici by sa nemalo vyžadovať, aby účasť obchodníkov na postupoch ARS bola povinná alebo aby výsledok takýchto postupov bol pre obchodníkov záväzný, ak spotrebiteľ proti nim podal sťažnosť. Aby sa však zabezpečilo, že spotrebitelia budú mať možnosť nápravy a že nebudú nútení vzdať sa svojich nárokov, obchodníci by sa mali podporovať, aby sa v čo najväčšej možnej miere zúčastňovali na postupoch ARS. Touto smernicou by preto nemali byť dotknuté žiadne vnútroštátne predpisy, na základe ktorých je účasť obchodníkov na takýchto postupoch povinná alebo je predmetom stimulov alebo sankcií, alebo na základe ktorých je ich výsledok pre obchodníkov záväzný, za predpokladu, že takéto právne predpisy nebránia účastníkom, aby uplatňovali svoje právo na prístup k súdnemu systému, ako sa ustanovuje v článku 47 Charty základných práv Európskej únie.
+
+(50) | Aby sa zabránilo zbytočnému zaťaženiu subjektov ARS, členské štáty by mali podporovať spotrebiteľov, aby pred tým, ako podajú sťažnosť subjektu ARS, kontaktovali obchodníka s cieľom vyriešiť problém dvojstranne. V mnohých prípadoch by takýto postup umožnil spotrebiteľom vyriešiť ich spory rýchlo a v počiatočnom štádiu.
+
+(51) | Členské štáty by do vývoja ARS mali zapojiť zástupcov profesijných organizácií, obchodných združení a organizácií spotrebiteľov najmä vo vzťahu k zásadám nestrannosti a nezávislosti.
+
+(52) | Členské štáty by mali zabezpečiť, aby subjekty ARS spolupracovali pri riešení cezhraničných sporov.
+
+(53) | Siete subjektov ARS, ako je sieť mimosúdneho riešenia sporov v oblasti finančných služieb FIN-NET, by sa v rámci Únie mali posilniť. Členské štáty by mali podporovať subjekty ARS, aby sa stali súčasťou takýchto sietí.
+
+(54) | Úzka spolupráca medzi subjektmi ARS a vnútroštátnymi orgánmi by mala posilniť účinné uplatňovanie právnych aktov Únie v oblasti ochrany spotrebiteľa. Komisia a členské štáty by mali uľahčiť spoluprácu subjektov ARS v záujme podpory výmeny najlepších postupov a technických odborných znalostí a diskusie o akýchkoľvek problémoch, ktoré sa vyskytli v súvislosti s fungovaním postupov ARS. Táto spolupráca by sa mala okrem iného podporiť prostredníctvom nadchádzajúceho programu Únie Spotrebitelia.
+
+(55) | Subjekty ARS by sa mali dôsledne monitorovať, aby sa zabezpečilo ich správne a účinné fungovanie. Každý členský štát na tento účel určí príslušný orgán alebo príslušné orgány, ktoré budú túto funkciu plniť. Komisia a príslušné orgány v zmysle tejto smernice by mali uverejniť a aktualizovať zoznam subjektov ARS, ktoré sú v súlade s touto smernicou. Členské štáty by mali zabezpečiť, aby subjekty ARS, sieť európskych spotrebiteľských centier, a ak je to vhodné, orgány určené v súlade s touto smernicou uverejnili uvedený zoznam na svojich webových stránkach prostredníctvom odkazu na webovú stránku Komisie a poskytovali ho tiež vždy, keď je to možné, na trvalom nosiči vo svojich priestoroch. Členské štáty by okrem toho mali tiež podporovať príslušné organizácie spotrebiteľov a združenia podnikateľov, aby zoznam uverejňovali. Členské štáty by taktiež mali zabezpečiť vhodné šírenie informácií o tom, čo majú spotrebitelia robiť v prípade sporu s obchodníkom. Príslušné orgány by okrem toho mali uverejňovať pravidelné správy o vývoji a fungovaní subjektov ARS vo svojich členských štátoch. Subjekty ARS by mali príslušným orgánom poskytovať špecifické informácie, na ktorých by sa tieto správy mali zakladať. Členské štáty by mali podporovať subjekty ARS, aby pri poskytovaní takýchto informácií využívali odporúčanie Komisie 2010/304/EÚ z 12. mája 2010 o používaní harmonizovanej metodiky klasifikácie a ohlasovania sťažností a otázok spotrebiteľov ( 11 ) .
+
+(56) | Je potrebné, aby členské štáty stanovili pravidlá týkajúce sa sankcií za porušenie vnútroštátnych ustanovení, ktoré sa prijmú na dosiahnutie súladu s touto smernicou, a zabezpečili uplatňovanie týchto pravidiel. Sankcie by mali byť účinné, primerané a odrádzajúce.
+
+(57) | Nariadenie Európskeho parlamentu a Rady (ES) č. 2006/2004 z 27. októbra 2004 o spolupráci medzi národnými orgánmi zodpovednými za vynucovanie právnych predpisov na ochranu spotrebiteľa („nariadenie o spolupráci v oblasti ochrany spotrebiteľa“) ( 12 ) by sa malo zmeniť tak, aby bol v jeho prílohe uvedený odkaz na túto smernicu s cieľom posilniť cezhraničnú spoluprácu v oblasti presadzovania tejto smernice.
+
+(58) | Smernica Európskeho parlamentu a Rady 2009/22/ES z 23. apríla 2009 o súdnych príkazoch na ochranu spotrebiteľských záujmov ( 13 ) (smernica o súdnych príkazoch) by sa mala zmeniť tak, aby v jej prílohe bol uvedený odkaz na túto smernicu, s cieľom zabezpečiť, aby boli chránené kolektívne záujmy spotrebiteľov stanovené v tejto smernici.
+
+(59) | V súlade so spoločným politickým vyhlásením členských štátov a Komisie z 28. septembra 2011 k vysvetľujúcim dokumentom ( 14 ) sa členské štáty zaviazali v odôvodnených prípadoch pripojiť k svojim oznámeniam o transpozičných opatreniach jeden alebo viacero dokumentov vysvetľujúcich vzťah medzi prvkami smernice a zodpovedajúcimi časťami vnútroštátnych transpozičných nástrojov. V súvislosti s touto smernicou sa zákonodarca domnieva, že zasielanie takýchto dokumentov je odôvodnené.
+
+(60) | Keďže cieľ tejto smernice, a to prispievať dosiahnutím vysokej úrovne ochrany spotrebiteľov, a bez toho, aby sa obmedzil prístup spotrebiteľov k súdom, k riadnemu fungovaniu vnútorného trhu, nemožno uspokojivo dosiahnuť na úrovni samotných členských štátov, ale ho možno lepšie dosiahnuť na úrovni Únie, môže Únia prijať opatrenia v súlade so zásadou subsidiarity podľa článku 5 Zmluvy o Európskej únii. V súlade so zásadou proporcionality podľa uvedeného článku táto smernica neprekračuje rámec nevyhnutný na dosiahnutie tohto cieľa.
+
+(61) | Táto smernica rešpektuje základné práva a dodržiava zásady, ktoré boli uznané najmä v Charte základných práv Európskej únie, konkrétne v jej článkoch 7, 8, 38 a 47.
+
+(62) | S európskym dozorným úradníkom pre ochranu údajov sa konzultovalo v súlade s článkom 28 ods. 2 nariadenia Európskeho parlamentu a Rady (ES) č. 45/2001 z 18. decembra 2000 o ochrane jednotlivcov so zreteľom na spracovanie osobných údajov inštitúciami a orgánmi Spoločenstva a o voľnom pohybe takýchto údajov ( 15 ) a európsky dozorný úradník pre ochranu údajov vydal stanovisko 12. januára 2012 ( 16 ) ,
+
+PRIJALI TÚTO SMERNICU:
+KAPITOLA I
+VŠEOBECNÉ USTANOVENIA
+
+Článok 1
+Predmet úpravy
+Cieľom tejto smernice je dosiahnutím vysokej úrovne ochrany spotrebiteľov prispieť k riadnemu fungovaniu vnútorného trhu tým, že sa zabezpečí, aby spotrebitelia mohli na dobrovoľnom základe predkladať sťažnosti na obchodníkov subjektom, ktoré ponúkajú nezávislé, nestranné, transparentné, účinné, rýchle a spravodlivé postupy alternatívneho riešenia sporov. Touto smernicou nie sú dotknuté vnútroštátne právne predpisy, na základe ktorých je účasť na takýchto postupoch povinná, pokiaľ takéto právne predpisy nebránia účastníkom v uplatňovaní ich práva na prístup k súdnemu systému.
+
+Článok 2
+Rozsah pôsobnosti
+1. Táto smernica sa vzťahuje na postupy mimosúdneho riešenia domácich a cezhraničných sporov, ktoré sa týkajú zmluvných záväzkov vyplývajúcich z kúpnych zmlúv alebo zo zmlúv o službách medzi obchodníkom so sídlom v Únii a spotrebiteľom s pobytom v Únii, pri ktorých zasahuje subjekt ARS, ktorý navrhne alebo uloží riešenie, alebo oboch účastníkov spojí s cieľom uľahčiť zmierlivé riešenie.
+2. Táto smernica sa nevzťahuje na:
+a) | konania pred subjektmi riešenia sporov, v prípade ktorých fyzické osoby poverené riešením sporov zamestnáva výlučne tento konkrétny obchodník alebo im výlučne on vypláca odmenu, okrem prípadu, ak sa členské štáty rozhodnú takéto postupy umožniť ako postupy ARS podľa tejto smernice a ak sú splnené požiadavky ustanovené v kapitole II vrátane osobitných požiadaviek na nezávislosť a transparentnosť ustanovených v článku 6 ods. 3;
+b) | konania v rámci systémov vybavovania sťažností spotrebiteľov prevádzkovaných obchodníkmi;
+c) | služby všeobecného záujmu nehospodárskeho charakteru;
+d) | spory medzi obchodníkmi;
+e) | priame rokovania medzi spotrebiteľom a obchodníkom;
+f) | pokusy sudcov o urovnanie sporu v priebehu súdneho konania týkajúceho sa daného sporu;
+g) | postupy iniciované obchodníkom proti spotrebiteľovi;
+h) | zdravotnú starostlivosť, ktorú pacientom poskytujú zdravotnícki pracovníci s cieľom posúdiť, zachovať alebo obnoviť ich zdravotný stav, vrátane predpisovania, výdaja a poskytovania liekov a zdravotníckych pomôcok;
+i) | verejných poskytovateľov ďalšieho alebo vyššieho vzdelávania.
+3. Touto smernicou sa stanovujú harmonizované požiadavky kvality pre subjekty ARS a postupy ARS s cieľom zaistiť, aby spotrebitelia mali po jej vykonaní prístup k vysokokvalitným, transparentným, účinným a spravodlivým mimosúdnym mechanizmom nápravy bez ohľadu na to, kde v Únii majú pobyt. Členské štáty môžu v záujme zabezpečenia vyššej úrovne ochrany spotrebiteľov zachovať alebo zaviesť pravidlá, ktoré idú nad rámec ustanovení tejto smernice.
+4. Táto smernica uznáva, že je v právomoci členských štátov rozhodnúť, či subjekty ARS so sídlom na ich území majú mať oprávnenie uložiť riešenie.
+
+Článok 3
+Vzťah k iným právnym aktom Únie
+1. Pokiaľ sa v tejto smernici neustanovuje inak, v prípade, že je ktorékoľvek ustanovenie tejto smernice v rozpore s ustanovením iného právneho aktu Únie a týka sa mimosúdnych postupov nápravy iniciovaných spotrebiteľom proti obchodníkovi, prednosť má ustanovenie tejto smernice.
+2. Táto smernica sa uplatňuje bez toho, aby bola dotknutá smernica 2008/52/ES.
+3. Článkom 13 tejto smernice nie sú dotknuté ustanovenia o informáciách pre spotrebiteľov o postupoch mimosúdneho urovnania uvedené v iných právnych aktoch Únie, ktoré sa uplatňujú popri uvedenom článku.
+
+Článok 4
+Vymedzenie pojmov
+1. Na účely tejto smernice:
+a) | „spotrebiteľ“ je akákoľvek fyzická osoba, ktorá koná na účely, ktoré sú mimo rámca jej obchodnej, podnikateľskej, remeselnej alebo profesijnej činnosti;
+b) | „obchodník“ je akákoľvek fyzická alebo právnická osoba bez ohľadu na to, či je v súkromnom alebo verejnom vlastníctve, ktorá koná na účely súvisiace s jej obchodnou, podnikateľskou, remeselnou alebo profesijnou činnosťou, a to aj prostredníctvom inej osoby konajúcej v jej mene alebo na jej účet;
+c) | „kúpna zmluva“ je akákoľvek zmluva, na základe ktorej obchodník prevedie alebo sa zaviaže, že prevedie vlastníctvo tovaru na spotrebiteľa a spotrebiteľ zaplatí alebo sa zaviaže, že zaplatí jeho cenu, a to vrátane akejkoľvek zmluvy, ktorej predmetom je tak tovar, ako aj služby;
+d) | „zmluva o službách“ je akákoľvek iná zmluva ako kúpna zmluva, na základe ktorej obchodník poskytne alebo sa zaviaže, že poskytne spotrebiteľovi službu a spotrebiteľ zaplatí alebo sa zaviaže, že zaplatí jej cenu;
+e) | „domáci spor“ je zmluvný spor z kúpnej zmluvy alebo zo zmluvy o službách, pri ktorom má spotrebiteľ v čase, keď si objednáva tovar alebo služby, pobyt v rovnakom členskom štáte, ako je členský štát, v ktorom má sídlo obchodník;
+f) | „cezhraničný spor“ je zmluvný spor z kúpnej zmluvy alebo zo zmluvy o službách, pri ktorom má spotrebiteľ v čase, keď si objednáva tovar alebo služby, pobyt v inom členskom štáte, ako je členský štát, v ktorom má sídlo obchodník;
+g) | „postup ARS“ je postup uvedený v článku 2, ktorý je v súlade s požiadavkami uvedenými v tejto smernici a ktorý vykonáva subjekt ARS;
+h) | „subjekt ARS“ je akýkoľvek subjekt, ktorý je akokoľvek nazvaný alebo uvedený, ktorý je zriadený ako stály subjekt, ponúka riešenie sporov prostredníctvom postupov ARS a je zaradený do zoznamu v súlade s článkom 20 ods. 2;
+i) | „príslušný orgán“ je akýkoľvek orgán verejnej moci, ktorý členský štát určí na účely tejto smernice a ktorý je zriadený na celoštátnej, regionálnej alebo miestnej úrovni.
+2. Obchodník má sídlo:
+— | ak je obchodník fyzickou osobou, v mieste podnikania,
+— | ak je obchodník spoločnosťou alebo inou právnickou osobou alebo združením fyzických alebo právnických osôb, v mieste registrovaného sídla, ústredia alebo hlavného miesta podnikania vrátane pobočky, zastúpenia alebo akejkoľvek inej prevádzkarne.
+3. Subjekt ARS má sídlo:
+— | ak ho prevádzkuje fyzická osoba, v mieste, kde vykonáva činnosti ARS,
+— | ak ho prevádzkuje právnická osoba alebo združenie fyzických alebo právnických osôb, v mieste, kde táto právnická osoba alebo združenie fyzických alebo právnických osôb vykonáva činnosti ARS alebo má svoje registrované sídlo,
+— | ak ho prevádzkuje orgán alebo iný verejný subjekt, v mieste, kde má tento orgán alebo iný verejný subjekt svoje sídlo.
+
+KAPITOLA II
+PRÍSTUP K SUBJEKTOM ARS A POSTUPOM ARS A POŽIADAVKY, KTORÉ SA UPLATŇUJÚ NA SUBJEKTY ARS A POSTUPY ARS
+
+Článok 5
+Prístup k subjektom ARS a postupom ARS
+1. Členské štáty uľahčia prístup spotrebiteľov k postupom ARS a zabezpečia, aby sa spory, na ktoré sa vzťahuje táto smernica a ktorých účastníkom je obchodník so sídlom na ich území, mohli predkladať subjektu ARS, ktorý spĺňa požiadavky stanovené v tejto smernici.
+2. Členské štáty zabezpečia, aby subjekty ARS:
+a) | viedli aktualizované webové stránky, ktorými sa účastníkom poskytne ľahký prístup k informáciám o postupe ARS a ktorými sa spotrebiteľom umožní podať sťažnosť a požadovanú sprievodnú dokumentáciu online;
+b) | na požiadanie poskytovali účastníkom na trvalom nosiči informácie uvedené v písmene a);
+c) | ak je to možné, dali spotrebiteľom možnosť podať sťažnosť offline;
+d) | umožnili výmenu informácií medzi účastníkmi pomocou elektronických prostriedkov alebo ak je to možné, poštou;
+e) | prijímali vnútroštátne aj cezhraničné spory vrátane sporov, na ktoré sa vzťahuje nariadenie Európskeho parlamentu a Rady (EÚ) č. 524/2013, a
+f) | pri riešení sporov, na ktoré sa vzťahuje táto smernica, prijímali opatrenia potrebné na zabezpečenie toho, aby spracúvanie osobných údajov bolo v súlade s pravidlami ochrany osobných údajov ustanovenými vo vnútroštátnych právnych predpisoch, ktorými sa vykonáva smernica 95/46/ES, platnými v členskom štáte, v ktorom má subjekt ARS sídlo.
+3. Členské štáty môžu splniť svoju povinnosť uvedenú v odseku 1 tak, že zabezpečia, aby existoval univerzálny subjekt ARS, ktorý by bol príslušný zaoberať sa spormi podľa uvedeného odseku, na ktorých riešenie nie je príslušný žiadny existujúci subjekt ARS. V situácii, keď obchodníci z rozličných členských štátov patria do pôsobnosti rovnakého subjektu ARS, môžu členské štáty túto povinnosť splniť aj využitím subjektov ARS so sídlom v inom členskom štáte alebo regionálnych, nadnárodných alebo celoeurópskych subjektov riešenia sporov bez toho, aby to malo nepriaznivý dosah na ich zodpovednosť zabezpečiť úplné pokrytie subjektov ARS a prístup k týmto subjektom.
+4. Členské štáty sa môžu rozhodnúť, že subjektom ARS povolia zachovať si alebo zaviesť procedurálne pravidlá, ktoré im umožnia odmietnuť zaoberať sa konkrétnym sporom z dôvodu, že:
+a) | spotrebiteľ sa nepokúsil kontaktovať s dotknutým obchodníkom, aby o svojej sťažnosti diskutoval a snažil sa v prvom rade vyriešiť problém priamo s obchodníkom;
+b) | spor je neopodstatnený alebo šikanózny;
+c) | spor už posudzuje alebo predtým posudzoval iný subjekt ARS alebo súd;
+d) | hodnota nároku je nižšia alebo vyššia ako vopred určená peňažná prahová hodnota;
+e) | spotrebiteľ sťažnosť subjektu ARS nepodal v rámci vopred určenej lehoty, ktorá sa nesmie stanoviť na menej ako jeden rok odo dňa, v ktorý spotrebiteľ podal sťažnosť obchodníkovi;
+f) | riešením takéhoto sporu by sa inak vážne narušilo účinné fungovanie subjektu ARS.
+V prípade, že sa subjekt ARS nemôže v súlade so svojimi procedurálnymi pravidlami zaoberať sporom, ktorý mu bol predložený, poskytne obom účastníkom v lehote troch týždňov od prijatia spisu sťažnosti vysvetlenie o dôvodoch, pre ktoré sa sporom nemôže zaoberať.
+Takéto procedurálne pravidlá nesmú výrazne zhoršiť prístup spotrebiteľov k postupom ARS, a to ani v prípade cezhraničných sporov.
+5. Členské štáty zabezpečia, aby v prípade, že je subjektom ARS povolené stanoviť vopred určenú peňažnú prahovú hodnotu na účely obmedzenia prístupu k postupom ARS, uvedené prahové hodnoty neboli stanovené na úrovni, ktorou by sa výrazne zhoršil prístup spotrebiteľov k riešeniu sťažností subjektmi ARS.
+6. V prípade, ak sa subjekt ARS nemôže v súlade s procedurálnymi pravidlami uvedenými v odseku 4 zaoberať sťažnosťou, ktorá mu bola predložená, členský štát nie je povinný zabezpečiť, aby spotrebiteľ mohol svoju sťažnosť predložiť inému subjektu ARS.
+7. Ak je subjekt ARS, ktorý sa zaoberá spormi v konkrétnom hospodárskom sektore, príslušný na riešenie sporov týkajúcich sa obchodníka, ktorý pôsobí v uvedenom sektore, ale ktorý nie je členom organizácie ani združenia, ktoré je zriaďovateľom subjektu ARS alebo ktoré ho financuje, považuje sa povinnosť členského štátu podľa odseku 1 za splnenú aj vo vzťahu k sporom týkajúcim sa tohto obchodníka.
+
+Článok 6
+Odborné znalosti, nezávislosť a nestrannosť
+1. Členské štáty zabezpečia, aby fyzické osoby poverené ARS mali potrebné odborné znalosti a aby boli nezávislé a nestranné. Splnenie tejto požiadavky sa zaručí tým, že sa zabezpečí, aby tieto osoby:
+a) | mali potrebné znalosti a zručnosti v oblasti alternatívneho alebo súdneho riešenia spotrebiteľských sporov, ako aj všeobecné znalosti v oblasti práva;
+b) | boli do funkcie vymenované na dostatočne dlhé obdobie v záujme zaistenia nezávislosti ich činnosti a neboli neopodstatnene oslobodené od svojich povinností;
+c) | nedostávali žiadne pokyny od ktoréhokoľvek účastníka alebo jeho zástupcu;
+d) | boli odmeňované spôsobom, ktorý nesúvisí s výsledkom postupu;
+e) | bez zbytočného odkladu informovali subjekt ARS o akýchkoľvek okolnostiach, ktoré by mohli mať vplyv na ich nezávislosť a nestrannosť alebo ktoré by mohli vytvoriť zadanie vplyvu na ich nezávislosť a nestrannosť, alebo ktoré by mohli spôsobiť konflikt záujmov vo vzťahu ku ktorémukoľvek účastníkovi sporu, ktorý boli požiadané vyriešiť. Povinnosť informovať o takýchto okolnostiach by sa mala vzťahovať na celý priebeh postupu ARS. Takáto povinnosť neplatí, ak subjekt ARS tvorí iba jedna fyzická osoba.
+2. Členské štáty zabezpečia, aby subjekty ARS mali zavedené postupy, ktorými sa zaistí, že v prípade okolností uvedených v odseku 1 písm. e):
+a) | sa dotknutá fyzická osoba nahradí inou fyzickou osobou, ktorá sa poverí vedením postupu ARS, alebo v prípade, že to tak nie je,
+b) | sa dotknutá fyzická osoba zdrží vedenia postupu ARS, a ak je to možné, subjekt ARS účastníkom navrhne, aby spor predložili inému subjektu ARS, ktorý je príslušný zaoberať sa daným sporom, alebo v prípade, že to tak nie je,
+c) | sa tieto okolnosti oznámia účastníkom a dotknutej fyzickej osobe sa umožní pokračovať vo vedení postupu ARS, iba ak účastníci nepodajú námietku po tom, čo boli informovaní o okolnostiach a o svojom práve podať námietku.
+Týmto odsekom nie je dotknutý článok 9 ods. 2 písm. a).
+Ak subjekt ARS pozostáva iba z jednej fyzickej osoby, uplatňujú sa iba písmená b) a c) prvého pododseku tohto odseku.
+3. Keď sa členské štáty rozhodnú povoliť postupy uvedené v článku 2 ods. 2 písm. a) ako postupy ARS podľa tejto smernice, zabezpečia, aby uvedené postupy popri všeobecných požiadavkách ustanovených v odsekoch 1 a 5 spĺňali aj tieto osobitné požiadavky:
+a) | fyzické osoby poverené riešením sporov sú vymenované kolektívnym orgánom zloženým z rovnakého počtu zástupcov organizácií spotrebiteľov a zástupcov obchodníkov v tomto orgáne alebo sú členmi tohto orgánu a ich vymenovanie je výsledkom transparentného postupu;
+b) | funkčné obdobie fyzických osôb poverených riešením sporu je aspoň trojročné, aby sa zabezpečila nezávislosť ich konania;
+c) | fyzické osoby poverené riešením sporov sa zaväzujú nepracovať pre obchodníka ani profesijnú organizáciu alebo obchodné združenie, ktorých je obchodník členom, počas troch rokov odo dňa zániku funkcie v subjekte riešenia sporov;
+d) | subjekt riešenia sporov nemá žiadne hierarchické ani funkčné spojenie s obchodníkom a je jasne oddelený od prevádzkových subjektov obchodníka, pričom má k dispozícii dostatočný rozpočet na plnenie svojich úloh, ktorý je oddelený od všeobecného rozpočtu obchodníka.
+4. Keď sú fyzické osoby poverené ARS zamestnancami profesijnej organizácie alebo obchodného združenia, ktorých je obchodník členom, alebo ich takéto obchodné združenie alebo profesijná organizácia odmeňuje, členské štáty zabezpečia, aby popri spĺňaní všeobecných požiadaviek ustanovených v odsekoch 1 a 5 mali k dispozícii samostatný a vyhradený rozpočet postačujúci na plnenie ich úloh.
+Tento odsek sa neuplatňuje v prípade, že dotknuté fyzické osoby sú súčasťou kolektívneho orgánu zloženého z rovnakého počtu zástupcov profesijnej organizácie alebo obchodného združenia, ktorej sú zamestnancami alebo ktorá im vypláca odmeny, a spotrebiteľských organizácií.
+5. Členské štáty zabezpečia, aby subjekty ARS v prípade, že fyzické osoby poverené riešením sporov tvoria súčasť kolektívneho orgánu, stanovili pre tento orgán rovnaký počet zástupcov záujmov spotrebiteľov ako zástupcov záujmov obchodníkov.
+6. Členské štáty na účely odseku 1 písm. a) podporujú subjekty ARS, aby fyzickým osobám povereným ARS poskytovali odbornú prípravu. Ak sa takáto odborná príprava poskytuje, príslušné orgány monitorujú programy odbornej prípravy subjektov ARS na základe informácií, ktoré im boli oznámené v súlade s článkom 19 ods. 3 písm. g).
+
+Článok 7
+Transparentnosť
+1. Členské štáty zabezpečia, aby subjekty ARS na svojich webových stránkach, na trvalom nosiči (na požiadanie) a akýmikoľvek inými prostriedkami, ktoré považujú za vhodné, zverejňovali jasné a ľahko zrozumiteľné informácie, ktoré sa týkajú:
+a) | ich kontaktných údajov vrátane poštovej a e-mailovej adresy;
+b) | skutočnosti, že subjekty ARS sú zaradené do zoznamu v súlade s článkom 20 ods. 2;
+c) | fyzických osôb poverených ARS, spôsobu ich vymenovania a dĺžky ich funkčného obdobia;
+d) | odborných znalostí, nestrannosti a nezávislosti fyzických osôb poverených ARS, ak sú zamestnané alebo odmeňované výlučne obchodníkom;
+e) | ich prípadného členstva v sieťach subjektov ARS, ktoré uľahčujú cezhraničné riešenie sporov;
+f) | druhov sporov, na ktorých riešenie sú príslušné, vrátane akejkoľvek prípadnej prahovej hodnoty;
+g) | procedurálnych pravidiel, ktorými sa riadi riešenie sporu, a dôvodov, na základe ktorých môže subjekt ARS odmietnuť zaoberať sa konkrétnym sporom v súlade s článkom 5 ods. 4;
+h) | jazykov, v ktorých sa môžu predkladať sťažnosti subjektu ARS a v ktorých postup prebieha;
+i) | druhov pravidiel, ktoré môže subjekt ARS použiť ako základ riešenia sporov (napríklad právne normy, aspekty spravodlivosti, kódexy správania);
+j) | akýchkoľvek predbežných požiadaviek, ktoré účastníci budú prípadne musieť splniť pred tým, ako sa bude môcť postup ARS začať, vrátane požiadavky, aby sa spotrebiteľ pokúsil o riešenie priamo s obchodníkom;
+k) | toho, či účastníci môžu, alebo nemôžu odstúpiť z postupu;
+l) | prípadných nákladov, ktoré budú musieť účastníci uhradiť, vrátane akýchkoľvek pravidiel náhrady nákladov na konci postupu;
+m) | priemernej dĺžky postupu ARS;
+n) | právneho účinku, ktorý bude mať výsledok postupu ARS, vrátane prípadných sankcií za neplnenie v prípade rozhodnutia, ktoré je pre účastníkov záväzné;
+o) | ak je to opodstatnené, vykonateľnosti rozhodnutia ARS.
+2. Členské štáty zabezpečia, aby subjekty ARS na svojich webových stránkach, na trvalom nosiči (na požiadanie) a akýmikoľvek inými prostriedkami, ktoré považujú za vhodné, zverejňovali výročné správy o činnosti. Tieto správy zahŕňajú tieto informácie týkajúce sa domácich aj cezhraničných sporov:
+a) | počet prijatých sporov a druhy sťažností, ktorých sa týkajú;
+b) | akékoľvek časté systematické alebo závažné problémy, ktoré vedú k sporom medzi spotrebiteľmi a obchodníkmi; k takýmto informáciám sa môžu priložiť odporúčania o tom, ako by bolo možné sa takýmto problémom v budúcnosti vyhnúť alebo ako by bolo možné ich v budúcnosti vyriešiť, s cieľom zvýšiť požiadavky na obchodníkov a uľahčiť výmenu informácií a najlepších postupov;
+c) | podiel sporov, ktorými sa subjekt ARS odmietol zaoberať, a percentuálny podiel jednotlivých druhov dôvodov odmietnutia podľa článku 5 ods. 4;
+d) | v prípade postupov uvedených v článku 2 ods. 2 písm. a) percentuálny podiel riešení navrhnutých alebo uložených v prospech spotrebiteľa a v prospech obchodníka a sporov vyriešených zmierlivým riešením;
+e) | percentuálny podiel postupov ARS, ktoré boli zastavené, a dôvody ich zastavenia, ak sú známe;
+f) | priemernú dĺžku riešenia sporov;
+g) | mieru dodržiavania výsledkov postupov ARS, ak je známa;
+h) | prípadnú spoluprácu subjektov ARS v rámci sietí subjektov ARS, ktoré uľahčujú riešenie cezhraničných sporov.
+
+Článok 8
+Účinnosť
+Členské štáty zabezpečia, aby postupy ARS boli účinné a spĺňali tieto požiadavky:
+a) | postup ARS je k dispozícii a ľahko prístupný online a offline obom účastníkom bez ohľadu na to, kde sú;
+b) | účastníci majú prístup k postupu bez toho, aby boli povinní mať advokáta alebo právneho poradcu, ale postup nesmie účastníkov zbaviť ich práva na nezávislé poradenstvo alebo na to, aby boli zastupované treťou osobou alebo aby im tretia osoba pomáhala v ktoromkoľvek štádiu postupu;
+c) | postup ARS je pre spotrebiteľov bezplatný alebo dostupný za symbolický poplatok;
+d) | subjekt ARS, ktorý dostal sťažnosť, informuje účastníkov sporu hneď po tom, ako získa všetky písomnosti obsahujúce príslušné informácie súvisiace so sťažnosťou;
+e) | výsledok postupu ARS sa sprístupní v lehote 90 kalendárnych dní odo dňa, keď subjekt ARS dostal sťažnosť a úplný spis sťažnosti. V prípade veľmi zložitých sporov môže subjekt ARS, ktorý spor rieši, podľa vlastnej úvahy lehotu 90 kalendárnych dní predĺžiť. Účastníci sú informovaní o každom predĺžení tejto lehoty a o predpokladanom čase, ktorý bude potrebný na uzavretie sporu.
+
+Článok 9
+Spravodlivosť
+1. Členské štáty zabezpečia, aby pri postupoch ARS:
+a) | mali účastníci možnosť v rámci primeranej lehoty vyjadriť svoje stanovisko, dostať od subjektu ARS tvrdenia, dôkazy, písomnosti a fakty predložené druhým účastníkom, ako aj akékoľvek výpovede a posudky znalcov, a vyjadriť sa k nim;
+b) | boli účastníci informovaní o tom, že nie sú povinní mať advokáta ani právneho poradcu, ale že môžu v ktoromkoľvek štádiu postupu využiť nezávislé poradenstvo alebo sa dať zastúpiť treťou osobou, alebo im tretia osoba môže pomáhať;
+c) | boli účastníci informovaní o výsledku postupu ARS písomne alebo na trvalom nosiči a poskytlo sa im odôvodnenie výsledku.
+2. Členské štáty zabezpečia, aby pri postupoch ARS, ktorých cieľom je vyriešenie sporu navrhnutím riešenia:
+a) | mali účastníci možnosť ukončiť svoju účasť na postupe v ktoromkoľvek štádiu, ak sú nespokojní so spôsobom fungovania alebo priebehom postupu. O tomto práve sú informovaní pred začatím postupu. Ak vnútroštátna právna úprava stanovuje povinnú účasť obchodníka v postupoch ARS, toto písmeno sa vzťahuje len na spotrebiteľa;
+b) | účastníci sa pred tým, ako s navrhovaným riešením vyjadria súhlas alebo ho uplatnia, informujú o tom, že: i) majú možnosť sa rozhodnúť, či s navrhovaným riešením vyjadria súhlas a či ho uplatnia; ii) účasť na postupe nevylučuje možnosť domáhať sa nápravy v súdnom konaní; iii) navrhované riešenie sa môže líšiť od výsledku stanoveného súdom, ktorý uplatňuje právne normy;
+c) | boli účastníci pred tým, ako s navrhovaným riešením vyjadria súhlas alebo ho uplatnia, informovaní o právnom účinku súhlasu s navrhovaným riešením alebo jeho uplatnenia;
+d) | mali účastníci pred vyjadrením súhlasu s navrhovaným riešením alebo zmierlivou dohodou k dispozícii primerané obdobie na zváženie.
+3. Keď sa v súlade s vnútroštátnymi právnymi predpismi výsledok postupov ARS stáva pre obchodníka záväzný po tom, ako spotrebiteľ akceptuje navrhované riešenie, vzťahuje sa článok 9 ods. 2 iba na spotrebiteľa.
+
+Článok 10
+Zásada slobody
+1. Členské štáty zabezpečia, aby dohoda medzi spotrebiteľom a obchodníkom predkladať sťažnosti subjektu ARS nebola pre spotrebiteľa záväzná, ak bola uzavretá pred tým, ako spor vznikol a ak je v jej dôsledku spotrebiteľ zbavený práva podať v záujme vyriešenia sporu žalobu na súd.
+2. Členské štáty zabezpečia, aby pri postupoch ARS, ktorých cieľom je vyriešiť spor uložením riešenia, mohlo byť uložené riešenie pre účastníkov záväzné len v prípade, ak boli o jeho záväznej povahe vopred informovaní a výslovne to akceptovali. Výslovný súhlas obchodníka sa nevyžaduje, ak sa vo vnútroštátnych predpisoch ustanovuje, že riešenia sú pre obchodníkov záväzné.
+
+Článok 11
+Zásada zákonnosti
+1. Členské štáty zabezpečia, aby pri postupoch ARS, ktorých cieľom je vyriešenie sporu uložením riešenia spotrebiteľovi:
+a) | v prípade, keď nedochádza ku kolízii právnych poriadkov, dôsledkom uloženého riešenia nesmie byť pozbavenie spotrebiteľa ochrany poskytovanej ustanoveniami, od ktorých sa podľa práva členského štátu, v ktorom má spotrebiteľ a obchodník obvyklý pobyt, nemožno odchýliť dohodou;
+b) | v prípade kolízie právnych poriadkov, v ktorej sa rozhodné právo pre kúpne zmluvy alebo zmluvy o službách určuje v súlade s článkom 6 ods. 1 a 2 nariadenia (ES) č. 593/2008, dôsledkom riešenia uloženého subjektom ARS nesmie byť pozbavenie spotrebiteľa ochrany poskytovanej ustanoveniami, od ktorých sa podľa práva členského štátu, v ktorom má spotrebiteľ obvyklý pobyt, nemožno odchýliť dohodou;
+c) | v prípade kolízie právnych poriadkov, v ktorej sa rozhodné právo pre kúpne zmluvy alebo zmluvy o službách stanovuje v súlade s článkom 5 ods. 1 až 3 Rímskeho dohovoru z 19. júna 1980, dôsledkom riešenia uloženého subjektom ARS nesmie byť pozbavenie spotrebiteľa ochrany poskytovanej kogentnými normami práva členského štátu, v ktorom má spotrebiteľ obvyklý pobyt.
+2. Na účely tohto článku sa „obvyklý pobyt“ určuje podľa nariadenia (ES) č. 593/2008.
+
+Článok 12
+Účinok postupov ARS na premlčacie a prekluzívne lehoty
+1. Členské štáty zabezpečia, aby sa účastníkom, ktorí sa v snahe o urovnanie sporu rozhodli pre postupy ARS, ktorých výsledok nie je záväzný, následne nebránilo v začatí súdneho konania v súvislosti s daným sporom v dôsledku uplynutia premlčacích alebo prekluzívnych lehôt počas postupu ARS.
+2. Odsekom 1 nie sú dotknuté ustanovenia o premlčaní alebo preklúzii ustanovené v medzinárodných dohodách, ktorých zmluvnými stranami sú členské štáty.
+
+KAPITOLA III
+INFORMOVANIE A SPOLUPRÁCA
+
+Článok 13
+Informovanie spotrebiteľov obchodníkmi
+1. Členské štáty zabezpečia, aby obchodníci so sídlom na ich území informovali spotrebiteľov o subjekte alebo subjektoch ARS, do ktorých pôsobnosti títo obchodníci patria, v prípade, že sa títo obchodníci zaviažu alebo sú povinní využívať tieto subjekty na riešenie sporov so spotrebiteľmi. Tieto informácie zahŕňajú adresu webovej stránky príslušného subjektu alebo subjektov ARS.
+2. Informácie uvedené v odseku 1 sa uvádzajú jasným, zrozumiteľným a ľahko prístupným spôsobom na obchodníkovej webovej stránke, ak takáto stránka existuje, a prípadne vo všeobecných podmienkach kúpnych zmlúv alebo zmlúv o službách medzi obchodníkom a spotrebiteľom.
+3. Členské štáty zabezpečia, aby v prípade, že spor medzi spotrebiteľom a obchodníkom so sídlom na ich území nemožno urovnať na základe sťažnosti, ktorú spotrebiteľ predložil priamo obchodníkovi, obchodník spotrebiteľovi poskytol informácie uvedené v odseku 1 a uviedol, či na urovnanie sporu využije príslušné subjekty ARS. Tieto informácie sa poskytnú písomne alebo na inom trvalom nosiči.
+
+Článok 14
+Pomoc spotrebiteľom
+1. Členské štáty zabezpečia, aby spotrebitelia v prípade sporov vznikajúcich pri cezhraničných kúpnych zmluvách alebo zmluvách o službách mohli získať pomoc s cieľom nadviazať kontakt so subjektom ARS pôsobiacim v inom členskom štáte, ktorý je príslušný na riešenie ich cezhraničného sporu.
+2. Členské štáty prenášajú zodpovednosť za úlohu uvedenú v odseku 1 na svoje centrá patriace do siete európskych spotrebiteľských centier, organizácie spotrebiteľov alebo akýkoľvek iný subjekt.
+
+Článok 15
+Všeobecné informácie
+1. Členské štáty zabezpečia, aby subjekty ARS, centrá patriace do siete európskych spotrebiteľských centier a prípadne subjekty určené v súlade s článkom 14 ods. 2 zverejnili na svojich webových stránkach zoznam subjektov ARS uvedený v článku 20 ods. 4 tak, že uvedú odkaz na webovú stránku Komisie, a podľa možnosti na trvalom nosiči vo svojich priestoroch.
+2. Členské štáty podporujú príslušné organizácie spotrebiteľov a združenia podnikateľov v tom, aby na svojich webových stránkach a akýmikoľvek inými prostriedkami, ktoré považujú za vhodné, zverejnili zoznam subjektov ARS uvedený v článku 20 ods. 4.
+3. Komisia a členské štáty zabezpečia vhodné šírenie informácií o tom, ako sa spotrebitelia môžu dostať k postupom ARS na riešenie sporov, na ktoré sa vzťahuje táto smernica.
+4. Komisia a členské štáty prijmú sprievodné opatrenia, prostredníctvom ktorých budú podporovať organizácie spotrebiteľov a profesijné organizácie na úrovni Únie i na vnútroštátnej úrovni, aby zlepšili informovanosť o subjektoch ARS a ich postupoch a podporovali využívanie ARS podnikateľmi i spotrebiteľmi. Tieto orgány sa zároveň podporujú v tom, aby po prijatí sťažností spotrebiteľov im poskytovali informácie o príslušných subjektoch ARS.
+
+Článok 16
+Spolupráca a výmena skúseností medzi subjektmi ARS
+1. Členské štáty zabezpečia, aby subjekty ARS spolupracovali pri riešení cezhraničných sporov a aby si pravidelne vymieňali najlepšie postupy v súvislosti s urovnaním cezhraničných a domácich sporov.
+2. Komisia podporuje a uľahčuje vytváranie sietí medzi subjektmi ARS a výmenu a šírenie najlepších postupov a skúseností.
+3. V prípade, že v oblasti špecifickej pre konkrétny sektor existuje v rámci Únie sieť subjektov ARS uľahčujúcich riešenie cezhraničných sporov, členské štáty podporujú subjekty ARS, ktoré sa zaoberajú spormi v danej oblasti, aby sa stali členmi uvedenej siete.
+4. Komisia uverejňuje zoznam obsahujúci názvy a kontaktné údaje sietí uvedených v odseku 3. Komisia v prípade potreby tento zoznam aktualizuje.
+
+Článok 17
+Spolupráca medzi subjektmi ARS a vnútroštátnymi orgánmi presadzujúcimi právne akty Únie o ochrane spotrebiteľov
+1. Členské štáty podporujú spoluprácu medzi subjektmi ARS a vnútroštátnymi orgánmi poverenými presadzovaním právnych aktov Únie o ochrane spotrebiteľov.
+2. Táto spolupráca zahŕňa najmä vzájomnú výmenu informácií o praktikách v špecifických sektoroch podnikania, na ktoré spotrebitelia opakovane podávajú sťažnosti. Zahŕňa aj poskytovanie technického posúdenia a informácií týmito vnútroštátnymi orgánmi subjektom ARS v prípade, že sú takéto posúdenie alebo informácie pri riešení jednotlivých sporov potrebné a už sú k dispozícii.
+3. Členské štáty zabezpečia, aby spolupráca a vzájomná výmena informácií podľa odsekov 1 a 2 boli v súlade s normami o ochrane osobných údajov ustanovenými v smernici 95/46/ES.
+4. Týmto článkom nie sú dotknuté ustanovenia o služobnom a obchodnom tajomstve, ktoré sa vzťahujú na vnútroštátne orgány presadzujúce právne akty Únie o ochrane spotrebiteľov. Na subjekty ARS sa vzťahujú pravidlá služobného tajomstva alebo iné rovnocenné povinnosti zachovávania dôvernosti stanovené v právnych predpisoch členského štátu, v ktorom majú sídlo.
+
+KAPITOLA IV
+ÚLOHA PRÍSLUŠNÝCH ORGÁNOV A KOMISIE
+
+Článok 18
+Určenie príslušných orgánov
+1. V každom členskom štáte sa určí príslušný orgán, ktorý vykonáva úlohy uvedené v článkoch 19 a 20. Každý členský štát môže určiť aj viac ako jeden príslušný orgán. Ak tak členský štát urobí, určí, ktorý z príslušných orgánov bude jednotným kontaktným miestom pre Komisiu. Každý členský štát oznámi Komisii príslušný orgán, prípadne príslušné orgány vrátane jednotného kontaktného miesta, ktoré určil.
+2. Komisia vypracuje zoznam príslušných orgánov vrátane prípadných jednotných kontaktných miest, ktoré jej boli oznámené v súlade s odsekom 1, a uverejní ho v Úradnom vestníku Európskej únie .
+
+Článok 19
+Informácie, ktoré majú subjekty riešenia sporov oznamovať príslušným orgánom
+1. Členské štáty zabezpečia, aby subjekty riešenia sporov so sídlom na ich území, ktoré majú záujem byť považované za subjekty ARS podľa tejto smernice a byť uvedené v zozname v súlade s článkom 20 ods. 2, príslušnému orgánu oznamovali tieto informácie:
+a) | názov, kontaktné údaje a adresu webovej stránky;
+b) | informácie o svojej štruktúre a financovaní vrátane informácií o fyzických osobách poverených riešením sporu, ich financovaní, odmeňovaní, funkčnom období a o tom, kto ich zamestnáva;
+c) | svoje procedurálne pravidlá;
+d) | prípadné poplatky, ktoré účtujú;
+e) | priemernú dĺžku postupov riešenia sporu;
+f) | jazyk alebo jazyky, v ktorých sa môžu predkladať sťažnosti a viesť postup riešenia sporu;
+g) | vyhlásenie o druhoch sporov, na ktoré sa postup riešenia sporu vzťahuje;
+h) | dôvody, na základe ktorých môže subjekt riešenia sporov odmietnuť zaoberať sa konkrétnym sporom v súlade s článkom 5 ods. 4;
+i) | odôvodnené vyhlásenie o tom, či je subjekt spôsobilý ako subjekt ARS, ktorý patrí do rozsahu pôsobnosti tejto smernice, a či spĺňa požiadavky kvality stanovené v kapitole II.
+V prípade zmien v informáciách uvedených v písmenách a) až h) ich subjekty ARS bez zbytočného odkladu ohlasujú príslušnému orgánu.
+2. Ak sa členské štáty rozhodnú povoliť postupy uvedené v článku 2 ods. 2 písm. a), zabezpečia, aby subjekty ARS pri uplatňovaní týchto postupov oznámili príslušnému orgánu okrem informácií a vyhlásení uvedených v odseku 1 aj informácie potrebné na posúdenie ich súladu s osobitnými dodatočnými požiadavkami nezávislosti a transparentnosti stanovenými v článku 6 ods. 3.
+3. Členské štáty zabezpečia, aby subjekty ARS poskytovali príslušným orgánom každé dva roky informácie o:
+a) | počte prijatých sporov a druhoch sťažností, ktorých sa týkajú;
+b) | percentuálnom podiele postupov ARS, ktoré boli zastavené pred dosiahnutím výsledku;
+c) | priemernej dĺžke riešenia prijatých sporov;
+d) | miere dodržiavania výsledkov postupov ARS, ak je známa;
+e) | akýchkoľvek opakovaných alebo výrazných problémoch, ktoré sa často vyskytujú a vedú k sporom medzi spotrebiteľmi a obchodníkmi. K informáciám oznámeným v tejto súvislosti sa môžu priložiť odporúčania o tom, ako sa možno v budúcnosti takýmto problémom vyhnúť alebo ako ich možno riešiť;
+f) | prípadných posúdeniach účinnosti ich spolupráce v rámci sietí subjektov ARS, ktoré uľahčujú riešenie cezhraničných sporov;
+g) | prípadne o odbornej príprave poskytovanej fyzickým osobám povereným ARS v súlade s článkom 6 ods. 6;
+h) | hodnotení účinnosti postupu ARS, ktorý subjekt ponúka, a možných spôsoboch zlepšenia jeho činnosti.
+
+Článok 20
+Úloha príslušných orgánov a Komisie
+1. Každý príslušný orgán na základe informácií, ktoré dostal v súlade s článkom 19 ods. 1, posúdi, či sú subjekty riešenia sporov, ktoré mu boli oznámené, spôsobilé ako subjekty ARS, ktoré patria do pôsobnosti tejto smernice, a či spĺňajú požiadavky kvality stanovené v kapitole II a vo vnútroštátnych ustanoveniach, ktorými sa transponuje, vrátane vnútroštátnych ustanovení, ktoré prekračujú požiadavky tejto smernice, a to v súlade s právom Únie.
+2. Na základe posúdenia uvedeného v odseku 1 každý príslušný orgán vypracuje zoznam všetkých subjektov ARS, ktoré mu boli oznámené a ktoré spĺňajú podmienky stanovené v odseku 1.
+Uvedený zoznam zahŕňa tieto informácie:
+a) | názov, kontaktné údaje a adresu webovej stránky subjektov ARS uvedených v prvom pododseku;
+b) | prípadné poplatky, ktoré účtujú;
+c) | jazyk alebo jazyky, v ktorých sa môžu predkladať sťažnosti a viesť postupy ARS;
+d) | druhy sporov, na ktoré sa postup ARS vzťahuje;
+e) | sektory a kategórie sporov, ktoré jednotlivé subjekty ARS riešia;
+f) | prípadne potrebu fyzickej prítomnosti účastníkov alebo ich zástupcov vrátane vyhlásenia subjektu ARS o tom, či postup ARS prebieha alebo môže prebiehať ústne alebo písomne;
+g) | záväzný alebo nezáväzný charakter výsledku postupu a
+h) | dôvody, na základe ktorých môže subjekt ARS odmietnuť zaoberať sa konkrétnym sporom v súlade s článkom 5 ods. 4.
+Každý príslušný orgán oznamuje zoznam uvedený v prvom pododseku tohto odseku Komisii. Ak sa príslušnému orgánu oznámia akékoľvek zmeny v informáciách v súlade s článkom 19 ods. 1 druhým pododsekom, uvedený zoznam sa bez zbytočného odkladu aktualizuje a príslušné informácie sa oznámia Komisii.
+Ak subjekt riešenia sporov uvedený podľa tejto smernice v zozname ako subjekt ARS už nespĺňa požiadavky uvedené v odseku 1, dotknutý príslušný orgán sa s týmto subjektom riešenia sporov skontaktuje, pričom uvedie požiadavky, ktoré subjekt riešenia sporov nespĺňa, a požiada ho, aby bezodkladne zabezpečil ich splnenie. Ak subjekt riešenia sporov nesplní požiadavky uvedené v odseku 1 ani v lehote troch mesiacov, príslušný orgán ho vyradí zo zoznamu uvedeného v prvom pododseku tohto odseku. Uvedený zoznam sa bez zbytočného odkladu aktualizuje a príslušné informácie sa oznámia Komisii.
+3. Ak členský štát určil viac ako jeden príslušný orgán, zoznam a aktualizácie uvedené v odseku 2 oznamuje Komisii jednotné kontaktné miesto uvedené v článku 18 ods. 1. Uvedený zoznam a aktualizácie sa týkajú všetkých subjektov ARS so sídlom v danom členskom štáte.
+4. Komisia vypracuje zoznam subjektov ARS, ktoré sa jej oznámili v súlade s odsekom 2, a uvedený zoznam aktualizuje vždy, keď sa jej oznámia zmeny. Komisia tento zoznam zverejní a aktualizuje ho na svojej webovej stránke a na trvalom nosiči. Komisia zašle tento zoznam a jeho aktualizované verzie príslušným orgánom. Ak členský štát určil jednotné kontaktné miesto v súlade s článkom 18 ods. 1, Komisia zašle uvedený zoznam a jeho aktualizované znenie tomuto jednotnému kontaktnému miestu.
+5. Každý príslušný orgán zverejní konsolidovaný zoznam subjektov ARS uvedený v odseku 4 na svojej webovej stránke tak, že uvedie odkaz na príslušnú webovú stránku Komisie. Okrem toho každý príslušný orgán zverejní uvedený konsolidovaný zoznam na trvalom nosiči.
+6. Každý príslušný orgán uverejní do 9. júl 2018 a potom každé štyri roky správu o vývoji a fungovaní subjektov ARS a zašle ju Komisii. V tejto správe sa konkrétne:
+a) | uvedú najlepšie postupy subjektov ARS;
+b) | v prípade potreby poukáže na nedostatky podložené štatistikami, ktoré bránia fungovaniu subjektov ARS pri vnútroštátnych aj cezhraničných sporoch;
+c) | v prípade potreby uvedú odporúčania, ako zvýšiť účinnosť a efektívnosť fungovania subjektov ARS.
+7. Ak členský štát určil viac ako jeden príslušný orgán v súlade s článkom 18 ods. 1, správu uvedenú v odseku 6 tohto článku uverejňuje jednotné kontaktné miesto uvedené v článku 18 ods. 1. Táto správa sa týka všetkých subjektov ARS so sídlom v danom členskom štáte.
+
+KAPITOLA V
+ZÁVEREČNÉ USTANOVENIA
+
+Článok 21
+Sankcie
+Členské štáty ustanovia pravidlá o sankciách za porušenie vnútroštátnych ustanovení prijatých najmä podľa článku 13 a prijmú všetky opatrenia potrebné na to, aby zabezpečili ich vykonávanie. Ustanovené sankcie musia byť účinné, primerané a odrádzajúce.
+
+Článok 22
+Zmena nariadenia (ES) č. 2006/2004
+V prílohe k nariadeniu (ES) č. 2006/2004 sa dopĺňa tento bod:
+„20. | Smernica Európskeho parlamentu a Rady 2013/11/EÚ z 21. mája 2013 o alternatívnom riešení spotrebiteľských sporov ( Ú. v. EÚ L 165, 18.6.2013, s. 63 ): článok 13.“
+
+Článok 23
+Zmena smernice 2009/22/ES
+V prílohe I k smernici 2009/22/ES sa dopĺňa tento bod:
+„14. | Smernica Európskeho parlamentu a Rady 2013/11/EÚ z 21. mája 2013 o alternatívnom riešení spotrebiteľských sporov ( Ú. v. EÚ L 165, 18.6.2013, s. 63 ): článok 13.“
+
+Článok 24
+Oznamovanie
+1. Členské štáty oznámia do 9. júl 2015 Komisii:
+a) | v príslušných prípadoch názvy a kontaktné údaje orgánov určených v súlade s článkom 14 ods. 2 a
+b) | príslušné orgány, prípadne aj jednotné kontaktné miesto určené v súlade s článkom 18 ods. 1.
+Členské štáty informujú Komisiu o všetkých následných zmenách v týchto informáciách.
+2. Členské štáty oznámia do 9. januára 2016 Komisii prvý zoznam uvedený v článku 20 ods. 2.
+3. Komisia postúpi informácie uvedené v odseku 1 písm. a) členským štátom.
+
+Článok 25
+Transpozícia
+1. Členské štáty uvedú do účinnosti zákony, iné právne predpisy a správne opatrenia potrebné na dosiahnutie súladu s touto smernicou do 9. júl 2015. Znenie týchto ustanovení bezodkladne oznámia Komisii.
+Členské štáty uvedú priamo v prijatých opatreniach alebo pri ich úradnom uverejnení odkaz na túto smernicu. Podrobnosti o odkaze upravia členské štáty.
+2. Členské štáty oznámia Komisii znenie hlavných ustanovení vnútroštátnych právnych predpisov, ktoré prijmú v oblasti pôsobnosti tejto smernice.
+
+Článok 26
+Správa
+Komisia do 9. júl 2019 a potom každé štyri roky predloží Európskemu parlamentu, Rade a Európskemu hospodárskemu a sociálnemu výboru správu o uplatňovaní tejto smernice. V uvedenej správe sa posúdi vývoj a využívanie subjektov ARS, ako aj vplyv tejto smernice na spotrebiteľov a obchodníkov, najmä informovanosť spotrebiteľov a úroveň prijatia obchodníkmi. K tejto správe sa podľa potreby priložia návrhy na zmenu tejto smernice.
+
+Článok 27
+Nadobudnutie účinnosti
+Táto smernica nadobúda účinnosť dvadsiatym dňom po jej uverejnení v Úradnom vestníku Európskej únie .
+
+Článok 28
+Adresáti
+Táto smernica je určená členským štátom.
+
+V Štrasburgu 21. mája 2013
+Za Európsky parlament
+predseda
+M. SCHULZ
+Za Radu
+predsedníčka
+L. CREIGHTON
+( 1 ) Ú. v. EÚ C 181, 21.6.2012, s. 93 .
+( 2 ) Pozícia Európskeho parlamentu z 12. marca 2013 (zatiaľ neuverejnená v úradnom vestníku) a rozhodnutie Rady z 22. apríla 2013.
+( 3 ) Ú. v. ES L 115, 17.4.1998, s. 31 .
+( 4 ) Ú. v. ES L 109, 19.4.2001, s. 56 .
+( 5 ) Pozri stranu 1 tohto úradného vestníka.
+( 6 ) Ú. v. EÚ L 88, 4.4.2011, s. 45 .
+( 7 ) Ú. v. EÚ L 136, 24.5.2008, s. 3 .
+( 8 ) Ú. v. ES L 281, 23.11.1995, s. 31 .
+( 9 ) Ú. v. EÚ L 177, 4.7.2008, s. 6 .
+( 10 ) Ú. v. ES L 266, 9.10.1980, s. 1 .
+( 11 ) Ú. v. EÚ L 136, 2.6.2010, s. 1 .
+( 12 ) Ú. v. EÚ L 364, 9.12.2004, s. 1 .
+( 13 ) Ú. v. EÚ L 110, 1.5.2009, s. 30 .
+( 14 ) Ú. v. EÚ C 369, 17.12.2011, s. 14 .
+( 15 ) Ú. v. ES L 8, 12.1.2001, s. 1 .
+( 16 ) Ú. v. EÚ C 136, 11.5.2012, s. 1 .

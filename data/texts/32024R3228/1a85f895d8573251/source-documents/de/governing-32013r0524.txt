@@ -1,0 +1,326 @@
+VERORDNUNG (EU) Nr. 524/2013 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 21. Mai 2013
+über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG (Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten)
+
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION —
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf Artikel 114,
+
+auf Vorschlag der Europäischen Kommission,
+
+nach Zuleitung des Entwurfs des Gesetzgebungsakts an die nationalen Parlamente,
+
+nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses ( 1 ) ,
+
+gemäß dem ordentlichen Gesetzgebungsverfahren ( 2 ) ,
+
+in Erwägung nachstehender Gründe:
+
+(1) | Gemäß Artikel 169 Absatz 1 und Artikel 169 Absatz 2 Buchstabe a des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) leistet die Union durch Maßnahmen, die sie nach Artikel 114 AEUV erlässt, einen Beitrag zur Erreichung eines hohen Verbraucherschutzniveaus. Gemäß Artikel 38 der Charta der Grundrechte der Europäischen Union hat die Politik der Union ein hohes Verbraucherschutzniveau sicherzustellen.
+
+(2) | Gemäß Artikel 26 Absatz 2 AEUV soll der Binnenmarkt einen Raum ohne Binnengrenzen umfassen, in dem der freie Verkehr von Waren und Dienstleistungen gewährleistet ist. Damit die Verbraucher Vertrauen in den digitalen Binnenmarkt haben und diesen in vollem Umfang nutzen können, müssen sie Zugang zu einfachen, effizienten, schnellen und kostengünstigen Möglichkeiten der Beilegung von Streitigkeiten haben, die sich aus dem Online-Verkauf von Waren oder der Online-Erbringung von Dienstleistungen ergeben. Dies gilt insbesondere, wenn Verbraucher Einkäufe über die Grenzen hinweg tätigen.
+
+(3) | In ihrer Mitteilung vom 13. April 2011 mit dem Titel „Binnenmarktakte — Zwölf Hebel zur Förderung von Wachstum und Vertrauen — ‚Gemeinsam für neues Wachstum‘ “ bezeichnete die Kommission Rechtsvorschriften über alternative Streitbeilegung (im Folgenden „AS“) auch für den elektronischen Geschäftsverkehr als einen der zwölf Hebel zur Förderung des Wachstums und des Vertrauens in den Binnenmarkt.
+
+(4) | Eine Fragmentierung des Binnenmarktes behindert Bemühungen um die Steigerung von Wettbewerbsfähigkeit und Wachstum. Darüber hinaus stellt die ungleichmäßige Verfügbarkeit, Qualität und Bekanntheit einfacher, effizienter, schneller und kostengünstiger Möglichkeiten zur Beilegung von Streitigkeiten, die sich aus dem Verkauf von Waren oder der Bereitstellung von Dienstleistungen innerhalb der gesamten Union ergeben, ein Hindernis auf dem Binnenmarkt dar, durch das das Vertrauen von Verbrauchern und Unternehmern in den grenzübergreifenden Ein- und Verkauf untergraben wird.
+
+(5) | In seinen Schlussfolgerungen vom 24.-25. März und vom 23. Oktober 2011 hat der Europäische Rat das Europäische Parlament und den Rat aufgefordert, bis Ende 2012 ein erstes Bündel vorrangiger Maßnahmen zu verabschieden, um dem Binnenmarkt neue Impulse zu geben.
+
+(6) | Verbraucher erfahren den Binnenmarkt in ihrem täglichen Leben als eine Realität, wenn sie reisen, einkaufen oder Zahlungen vornehmen. Verbraucher sind wichtige Akteure im Binnenmarkt und sollten daher in dessen Mittelpunkt stehen. Die digitale Dimension des Binnenmarkts ist sowohl für die Verbraucher als auch für die Unternehmer von entscheidender Bedeutung. Verbraucher tätigen immer häufiger Einkäufe online und immer mehr Unternehmer verkaufen online. Verbraucher und Unternehmer sollten sich bei der Online-Durchführung von Rechtsgeschäften sicher fühlen; daher ist es unerlässlich, bestehende Hindernisse zu beseitigen und das Vertrauen der Verbraucher zu stärken. Die Verfügbarkeit einer zuverlässigen und effizienten Online-Streitbeilegung (im Folgenden „OS“) könnte einen großen Beitrag zur Verwirklichung dieses Ziels leisten.
+
+(7) | Die Tatsache, dass eine Möglichkeit zur einfachen und kostengünstigen Beilegung von Streitigkeiten besteht, kann das Vertrauen der Verbraucher und Unternehmer in den digitalen Binnenmarkt stärken. Noch stoßen Verbraucher und Unternehmer bei der Suche nach außergerichtlichen Lösungen jedoch auf Hindernisse, insbesondere, wenn die Streitigkeiten von grenzübergreifenden Online-Rechtsgeschäften ausgehen. Daher bleiben solche Streitigkeiten oft ungeklärt.
+
+(8) | Die OS bietet eine einfache, effiziente, schnelle und kostengünstige außergerichtliche Lösung für Streitigkeiten, die sich aus Online-Rechtsgeschäften ergeben. Allerdings fehlt es gegenwärtig an Mechanismen, die es Verbrauchern und Unternehmern erlauben, solche Streitigkeiten auf elektronischem Wege beizulegen; dies ist nachteilig für Verbraucher, stellt ein Hemmnis insbesondere für grenzübergreifende Online-Rechtsgeschäfte dar, schafft ungleiche Ausgangsvoraussetzungen für die Unternehmer und behindert so die allgemeine Entwicklung des Online-Geschäftsverkehrs.
+
+(9) | Diese Verordnung sollte für die außergerichtliche Beilegung von Streitigkeiten gelten, bei denen in der Union wohnhafte Verbraucher gegen in der Union niedergelassene Unternehmer vorgehen und die unter die Richtlinie 2013/11/EU des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die alternative Beilegung verbraucherrechtlicher Streitigkeiten (Richtlinie über alternative Streitbeilegung in Verbraucherangelegenheiten) ( 3 ) fallen.
+
+(10) | Um zu gewährleisten, dass die Plattform zur OS (im Folgenden „OS-Plattform“) auch für AS-Verfahren genutzt werden kann, die es Unternehmern ermöglichen, Beschwerden gegen Verbraucher einzureichen, sollte diese Verordnung auch für die außergerichtliche Beilegung von Streitigkeiten gelten, bei denen Unternehmer gegen Verbraucher vorgehen, sofern die betreffenden AS-Verfahren von AS-Stellen angeboten werden, die in einer Liste gemäß Artikel 20 Absatz 2 der Richtlinie 2013/11/EU geführt sind. Die Anwendung dieser Verordnung auf solche Streitigkeiten sollte die Mitgliedstaaten nicht verpflichten sicherzustellen, dass die AS-Stellen solche Verfahren anbieten.
+
+(11) | Obwohl insbesondere Verbraucher und Unternehmer, die grenzübergreifende Online-Rechtsgeschäfte durchführen, Nutzen aus der OS-Plattform ziehen werden, sollte diese Verordnung auch für inländische Online-Rechtsgeschäfte gelten, um tatsächlich gleiche Wettbewerbsbedingungen im Bereich des Online-Geschäftsverkehrs zu schaffen.
+
+(12) | Die Richtlinie 2008/52/EG des Europäischen Parlaments und des Rates vom 21. Mai 2008 über bestimmte Aspekte der Mediation in Zivil- und Handelssachen ( 4 ) sollte von dieser Verordnung nicht berührt werden.
+
+(13) | Die Definition des Begriffs „Verbraucher“ sollte natürliche Personen, die außerhalb ihrer gewerblichen, geschäftlichen, handwerklichen oder beruflichen Tätigkeit handeln, umfassen. Wird ein Vertrag jedoch teils im Rahmen, teils außerhalb des Rahmens des Gewerbes einer Person abgeschlossen (Verträge mit doppeltem Zweck) und ist der gewerbliche Zweck so gering, dass er im Gesamtkontext des Geschäfts als nicht überwiegend erscheint, sollte die betreffende Person ebenfalls als Verbraucher gelten.
+
+(14) | Die Definition des Begriffs „Online-Kaufvertrag oder Online-Dienstleistungsvertrag“ sollte einen Kauf- oder Dienstleistungsvertrag erfassen, bei dem der Unternehmer oder der Vermittler des Unternehmers Waren oder Dienstleistungen über eine Website oder auf anderem elektronischen Weg angeboten hat und der Verbraucher diese Waren oder Dienstleistungen auf dieser Website oder auf anderem elektronischen Weg bestellt hat. Dies sollte auch Fälle abdecken, in denen der Verbraucher die Website oder den anderen Dienst der Informationsgesellschaft über ein mobiles elektronisches Gerät aufruft, beispielsweise über ein Mobiltelefon.
+
+(15) | Diese Verordnung sollte weder für Streitigkeiten zwischen Verbrauchern und Unternehmern, die aus offline geschlossenen Kauf- oder Dienstleistungsverträgen erwachsen, noch für Streitigkeiten zwischen Unternehmern gelten.
+
+(16) | Diese Verordnung sollte in Verbindung mit der Richtlinie 2013/11/EU gesehen werden, wonach die Mitgliedstaaten gewährleisten müssen, dass jede Streitigkeit zwischen in der Union wohnhaften Verbrauchern und in der Union niedergelassenen Unternehmern im Zusammenhang mit dem Verkauf von Waren oder der Erbringung von Dienstleistungen einer AS-Stelle vorgelegt werden kann.
+
+(17) | Die Mitgliedstaaten sollten die Verbraucher dazu anhalten, vor der Einreichung ihrer Beschwerde über die OS-Plattform bei einer AS-Stelle auf geeignetem Wege mit dem Ziel einer gütlichen Einigung Kontakt mit dem Unternehmer aufzunehmen.
+
+(18) | Ziel dieser Verordnung ist die Einrichtung einer OS-Plattform auf Unionsebene. Die OS-Plattform sollte eine interaktive Website sein, die eine zentrale Anlaufstelle für Verbraucher und Unternehmer darstellt, die aus Online-Rechtsgeschäften entstandene Streitigkeiten außergerichtlich beilegen möchten. Die OS-Plattform sollte allgemeine Informationen über die außergerichtliche Beilegung von aus Online-Kaufverträgen und Online-Dienstleistungsverträgen erwachsenden vertraglichen Streitigkeiten zwischen Verbrauchern und Unternehmern enthalten. Verbraucher und Unternehmer sollten die Möglichkeit haben, auf dieser Plattform durch Ausfüllen eines in allen Amtssprachen der Organe der Union verfügbaren Online-Formulars Beschwerden einzureichen und einschlägige Unterlagen beizufügen. Die Beschwerden sollten dann über die Plattform an die für die betreffende Streitigkeit zuständige AS-Stelle weitergeleitet werden. Die OS-Plattform sollte ein kostenloses elektronisches Fallbearbeitungsinstrument bereitstellen, das es den AS-Stellen ermöglicht, das Streitbeilegungsverfahren mit den Parteien über die OS-Plattform abzuwickeln. AS-Stellen sollten nicht verpflichtet sein, das Fallbearbeitungsinstrument zu verwenden.
+
+(19) | Die Kommission sollte für die Entwicklung, den Betrieb und die Pflege der OS-Plattform zuständig sein und die für den Betrieb der Plattform notwendige technische Ausstattung bereitstellen. Die OS-Plattform sollte eine elektronische Übersetzungsfunktion bieten, die es den Parteien und der AS-Stelle ermöglicht, gegebenenfalls Informationen, die über die OS-Plattform ausgetauscht werden und die für die Beilegung der Streitigkeit erforderlich sind, übersetzen zu lassen. Durch diese Funktion sollten — erforderlichenfalls mit menschlicher Unterstützung — alle notwendigen Übersetzungen erledigt werden können. Die Kommission sollte die Beschwerdeführer über die OS-Plattform ferner von der Möglichkeit unterrichten, dass sie um Unterstützung durch die OS-Kontaktstellen ersuchen können.
+
+(20) | Die OS-Plattform sollte den sicheren Datenaustausch mit den AS-Stellen ermöglichen und die zugrunde liegenden Prinzipien des Europäischen Interoperabilitätsrahmens achten, der gemäß dem Beschluss 2004/387/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über die interoperable Erbringung europaweiter elektronischer Behördendienste (eGovernment-Dienste) für öffentliche Verwaltungen, Unternehmen und Bürger (IDABC) ( 5 ) verabschiedet wurde.
+
+(21) | Die OS-Plattform sollte insbesondere über das gemäß Anhang II des Beschlusses 2004/387/EG eingerichtete Portal „Ihr Europa“ zugänglich sein, das Zugang zu europaweiten, mehrsprachigen und interaktiven Online-Informationsdiensten für Unternehmen und Bürger in der Union bietet. Die OS-Plattform sollte auf dem Portal „Ihr Europa“ an herausragender Stelle platziert werden.
+
+(22) | Eine OS-Plattform auf Unionsebene sollte auf den existierenden AS-Stellen der Mitgliedstaaten aufbauen und die Rechtstraditionen der Mitgliedstaaten achten. Wird eine Beschwerde über die OS-Plattform an eine AS-Stelle weitergeleitet, sollten daher auch hinsichtlich der Kosten die dieser Stelle eigenen Verfahrensregeln gelten. In dieser Verordnung werden jedoch einige gemeinsame Regeln festgelegt, die für diese Verfahren gelten und deren Effektivität gewährleisten sollen. Dazu sollten Regeln gehören, die sicherstellen, dass für eine solche Streitbeilegung die Anwesenheit der Parteien oder ihrer Vertreter bei der AS-Stelle nicht notwendig ist, es sei denn, die Verfahrensregeln der AS-Stelle sehen diese Möglichkeit vor und die Parteien stimmen zu.
+
+(23) | Indem dafür Sorge getragen wird, dass alle in einer Liste gemäß Artikel 20 Absatz 2 der Richtlinie 2013/11/EU geführten AS-Stellen auf der OS-Plattform registriert sind, sollte eine vollständige Abdeckung bei der außergerichtlichen Online-Beilegung von Streitigkeiten, die aus Online-Kaufverträgen oder Online-Dienstleistungsverträgen erwachsen, ermöglicht werden.
+
+(24) | Durch diese Verordnung sollte keine der in der Union existierenden Online-Streitbeilegungsstellen an ihrer Arbeit gehindert werden; dies gilt auch für OS-Mechanismen. Auch sollte diese Verordnung nicht dazu führen, dass Streitbeilegungsstellen oder -mechanismen Online-Streitigkeiten, die direkt bei ihnen eingereicht wurden, nicht bearbeiten.
+
+(25) | OS-Kontaktstellen, in denen mindestens zwei OS-Berater tätig sind, sollten in allen Mitgliedstaaten benannt werden. Die OS-Kontaktstellen sollten die Parteien einer Streitigkeit, die über die OS-Plattform eingereicht wurde, unterstützen, ohne jedoch verpflichtet zu sein, mit dieser Streitigkeit verbundene Unterlagen zu übersetzen. Die Mitgliedstaaten sollten die Möglichkeit haben, ihre Zentren des Europäischen Netzes der Verbraucherzentren mit der Betreuung der OS-Kontaktstellen zu beauftragen. Die Mitgliedstaaten sollten diese Möglichkeit nutzen, damit die OS-Kontaktstellen sich uneingeschränkt auf die Erfahrung der Zentren des Europäischen Netzes der Verbraucherzentren stützen können, um die Beilegung von Streitigkeiten zwischen Verbrauchern und Unternehmern zu erleichtern. Die Kommission sollte ein Netz von OS-Kontaktstellen einrichten, um ihre Zusammenarbeit und ihre Tätigkeit zu erleichtern, und sie sollte — in Zusammenarbeit mit den Mitgliedstaaten — geeignete Schulungen für die OS-Kontaktstellen anbieten.
+
+(26) | Das Recht auf einen wirksamen Rechtsbehelf und das Recht auf ein unparteiisches Gericht gehören zu den in Artikel 47 der Charta der Grundrechte der Europäischen Union niedergelegten Grundrechten. OS ist nicht dazu bestimmt, gerichtliche Verfahren zu ersetzen und kann nicht dementsprechend gestaltet sein; außerdem sollte sie Verbrauchern oder Unternehmern nicht das Recht nehmen, die Durchsetzung ihrer Rechte vor Gericht zu suchen. Diese Verordnung sollte daher die Parteien in keiner Weise daran hindern, ihr Recht auf Zugang zum Gerichtssystem wahrzunehmen.
+
+(27) | Die Verarbeitung von Daten im Rahmen dieser Verordnung sollte strengen Sicherheitsgarantien unterliegen und den datenschutzrechtlichen Bestimmungen der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr ( 6 ) sowie der Verordnung (EG) Nr. 45/2001 des Europäischen Parlaments und des Rates vom 18. Dezember 2000 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe und Einrichtungen der Gemeinschaft und zum freien Datenverkehr ( 7 ) genügen. Diese Bestimmungen sollten für die gemäß dieser Verordnung durchgeführte Verarbeitung personenbezogener Daten durch die verschiedenen Akteure der OS-Plattform gelten, unabhängig davon, ob sie alleine oder zusammen mit anderen solcher Akteure der Plattform tätig werden.
+
+(28) | Die Betroffenen sollten durch einen umfassenden Datenschutzhinweis gemäß den Artikeln 11 und 12 der Verordnung (EG) Nr. 45/2001 und den gemäß den Artikeln 10 und 11 der Richtlinie 95/46/EG erlassenen nationalen Rechtsvorschriften über die Verarbeitung ihrer personenbezogenen Daten im Rahmen der OS-Plattform unterrichtet werden und dieser zustimmen sowie über ihre diesbezüglichen Rechte unterrichtet werden; dieser Datenschutzhinweis wird von der Kommission öffentlich zugänglich gemacht und legt in klarer und verständlicher Sprache dar, welche Verarbeitungsschritte von den verschiedenen Akteuren der Plattform vorgenommen werden.
+
+(29) | Diese Verordnung sollte die Bestimmungen zur Vertraulichkeit in nationalen Rechtsvorschriften über AS unberührt lassen.
+
+(30) | Damit möglichst viele Verbraucher Kenntnis von dem Bestehen der OS-Plattform haben, sollten in der Union niedergelassene Unternehmer, die Online-Kaufverträge oder Online-Dienstleistungsverträge eingehen, auf ihren Websites einen Link zur OS-Plattform bereitstellen. Unternehmer sollten ferner ihre E-Mail-Adresse angeben, damit die Verbraucher über eine erste Anlaufstelle verfügen. Ein wesentlicher Anteil der Online-Kaufverträge und Online-Dienstleistungsverträge wird über Online-Marktplätze abgewickelt, die Verbraucher und Unternehmer zusammenführen oder Online-Rechtsgeschäfte zwischen Verbrauchern und Unternehmern erleichtern. Online-Marktplätze sind Online-Plattformen, die es Unternehmern ermöglichen, den Verbrauchern ihre Waren und Dienstleistungen anzubieten. Diese Online-Marktplätze sollten daher gleichermaßen verpflichtet sein, einen Link zur OS-Plattform bereitzustellen. Diese Verpflichtung sollte Artikel 13 der Richtlinie 2013/11/EU bezüglich der Pflicht der Unternehmer, Verbraucher über die AS-Verfahren in Kenntnis zu setzen, von denen diese Unternehmer erfasst werden, sowie darüber, ob sie sich dazu verpflichten, zur Beilegung von Streitigkeiten mit Verbrauchern auf AS-Verfahren zurückzugreifen, nicht berühren. Auch sollte diese Verpflichtung Artikel 6 Absatz 1 Buchstabe t und Artikel 8 der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2011 über die Rechte der Verbraucher ( 8 ) unberührt lassen. Gemäß Artikel 6 Absatz 1 Buchstabe t der Richtlinie 2011/83/EU hat der Unternehmer bei Fernabsatzverträgen und bei außerhalb von Geschäftsräumen geschlossenen Verträgen den Verbraucher über die Möglichkeit des Zugangs zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, und die Voraussetzungen für diesen Zugang zu informieren, bevor dieser durch einen Vertrag gebunden ist. Aus den gleichen Gründen der Kenntnis der Verbraucher sollten die Mitgliedstaaten den einschlägigen Verbraucher- und Wirtschaftsverbänden empfehlen, auf ihren Websites einen Link zur Website der OS-Plattform bereitzustellen.
+
+(31) | Um den Kriterien, nach denen AS-Stellen ihren Zuständigkeitsbereich bestimmen, Rechnung zu tragen, sollte der Kommission die Befugnis zum Erlass von Rechtsakten gemäß Artikel 290 AEUV übertragen werden, um die Informationen anzupassen, die ein Beschwerdeführer in dem elektronischen Beschwerdeformular auf der OS-Plattform angeben muss. Bei ihren Vorbereitungsarbeiten sollte die Kommission dabei unbedingt angemessene Konsultationen unter Einbeziehung der Sachverständigenebene durchführen. Bei der Vorbereitung und Ausarbeitung delegierter Rechtsakte sollte die Kommission gewährleisten, dass die einschlägigen Dokumente dem Europäischen Parlament und dem Rat gleichzeitig, rechtzeitig und auf angemessene Weise übermittelt werden.
+
+(32) | Damit eine einheitliche Umsetzung dieser Verordnung gewährleistet ist, sollten der Kommission hinsichtlich des Betriebs der OS-Plattform, der Modalitäten der Einreichung von Beschwerden sowie der Zusammenarbeit mit dem Netz der OS-Kontaktstellen Durchführungsbefugnisse übertragen werden. Diese Befugnisse sollten gemäß der Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 zur Festlegung der allgemeinen Regeln und Grundsätze, nach denen die Mitgliedstaaten die Wahrnehmung der Durchführungsbefugnisse durch die Kommission kontrollieren ( 9 ) , ausgeübt werden. Die Annahme von Durchführungsrechtsakten zum elektronischen Beschwerdeformular sollte in Anbetracht seines rein technischen Charakters im Wege des Beratungsverfahrens erfolgen. Zur Annahme der Regeln über die Modalitäten der Zusammenarbeit der Mitglieder des Netzes der OS-Kontaktstellen untereinander sollte das Prüfverfahren angewandt werden.
+
+(33) | Bei der Anwendung dieser Verordnung sollte die Kommission gegebenenfalls den Europäischen Datenschutzbeauftragten konsultieren.
+
+(34) | Da das Ziel dieser Verordnung, nämlich die Einrichtung einer gemeinsamen Regeln unterliegenden Europäischen OS-Plattform von Online-Streitigkeiten, auf Ebene der Mitgliedstaaten nicht ausreichend verwirklicht werden kann und daher wegen ihres Ausmaßes und ihrer Auswirkungen besser auf Unionsebene zu verwirklichen ist, kann die Union im Einklang mit dem in Artikel 5 des Vertrags über die Europäische Union niedergelegten Subsidiaritätsprinzip tätig werden. Entsprechend dem in demselben Artikel genannten Grundsatz der Verhältnismäßigkeit geht diese Verordnung nicht über das zur Erreichung dieser Ziele erforderliche Maß hinaus.
+
+(35) | Diese Verordnung steht im Einklang mit den Grundrechten und Grundsätzen, die insbesondere in der Charta der Grundrechte der Europäischen Union, speziell in den Artikeln 7, 8, 38 und 47, anerkannt sind.
+
+(36) | Der Europäische Datenschutzbeauftragte wurde gemäß Artikel 28 Absatz 2 der Verordnung (EG) Nr. 45/2001 konsultiert und hat am 12. Januar 2012 eine Stellungnahme ( 10 ) abgegeben —
+
+HABEN FOLGENDE VERORDNUNG ERLASSEN:
+KAPITEL I
+ALLGEMEINE BESTIMMUNGEN
+
+Artikel 1
+Gegenstand
+Der Zweck dieser Verordnung ist es, durch Erreichen eines hohen Verbraucherschutzniveaus zum reibungslosen Funktionieren des Binnenmarktes, insbesondere seiner digitalen Dimension, beizutragen, indem eine Europäische OS-Plattform (im Folgenden „OS-Plattform“) eingerichtet wird, die eine unabhängige, unparteiische, transparente, effektive, schnelle und faire außergerichtliche Online-Beilegung von Streitigkeiten zwischen Verbrauchern und Unternehmern ermöglicht.
+
+Artikel 2
+Geltungsbereich
+(1) Diese Verordnung gilt für die außergerichtliche Beilegung von Streitigkeiten über vertragliche Verpflichtungen aus Online-Kaufverträgen oder Online-Dienstleistungsverträgen zwischen einem in der Union wohnhaften Verbraucher und einem in der Union niedergelassenen Unternehmer, die durch Einschalten einer in einer Liste gemäß Artikel 20 Absatz 2 der Richtlinie 2013/11/EU geführten AS-Stelle und unter Nutzung der OS-Plattform erfolgt.
+(2) Diese Verordnung gilt für die außergerichtliche Beilegung von Streitigkeiten im Sinne des Absatzes 1 dieses Artikels, bei denen ein Unternehmer gegen einen Verbraucher vorgeht, sofern die Beilegung von Streitigkeiten durch Einschalten einer AS-Stelle nach den Rechtsvorschriften des Mitgliedstaats, in dem der Verbraucher seinen gewöhnlichen Aufenthalt hat, zulässig ist.
+(3) Die Mitgliedstaaten teilen der Kommission mit, ob die Beilegung von Streitigkeiten im Sinne des Absatzes 1, bei denen ein Unternehmer gegen einen Verbraucher vorgeht, durch Einschalten einer AS-Stelle nach ihren Rechtsvorschriften zulässig ist oder nicht. Bei Übermittlung der Liste gemäß Artikel 20 Absatz 2 der Richtlinie 2013/11/EU teilen die zuständigen Behörden der Kommission mit, welche AS-Stellen solche Streitigkeiten bearbeiten.
+(4) Die Anwendung dieser Verordnung auf Streitigkeiten im Sinne des Absatzes 1, bei denen ein Unternehmer gegen einen Verbraucher vorgeht, verpflichtet die Mitgliedstaaten in keiner Weise dazu sicherzustellen, dass die AS-Stellen Verfahren für die außergerichtliche Beilegung solcher Streitigkeiten anbieten.
+
+Artikel 3
+Verhältnis zu anderen Rechtsakten der Europäischen Union
+Die Richtlinie 2008/52/EG wird durch diese Verordnung nicht berührt.
+
+Artikel 4
+Begriffsbestimmungen
+(1) Für die Zwecke dieser Verordnung bezeichnet der Ausdruck
+a) | „Verbraucher“ einen Verbraucher im Sinne des Artikels 4 Absatz 1 Buchstabe a der Richtlinie 2013/11/EU;
+b) | „Unternehmer“ einen Unternehmer im Sinne des Artikels 4 Absatz 1 Buchstabe b der Richtlinie 2013/11/EU;
+c) | „Kaufvertrag“ einen Kaufvertrag im Sinne des Artikels 4 Absatz 1 Buchstabe c der Richtlinie 2013/11/EU;
+d) | „Dienstleistungsvertrag“ einen Dienstleistungsvertrag im Sinne des Artikels 4 Absatz 1 Buchstabe d der Richtlinie 2013/11/EU;
+e) | „Online-Kaufvertrag oder Online-Dienstleistungsvertrag“ einen Kauf- oder Dienstleistungsvertrag, bei dem der Unternehmer oder der Vermittler des Unternehmers Waren oder Dienstleistungen über eine Website oder auf anderem elektronischen Wege angeboten hat und der Verbraucher diese Waren oder Dienstleistungen auf dieser Website oder auf anderem elektronischen Wege bestellt hat;
+f) | „Online-Marktplatz“ einen Diensteanbieter im Sinne des Artikels 2 Buchstabe b der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt („Richtlinie über den elektronischen Geschäftsverkehr“) ( 11 ) , der es Verbrauchern und Unternehmern ermöglicht, auf der Website des Online-Marktplatzes Online-Kaufverträge und Online-Dienstleistungsverträge abzuschließen;
+g) | „auf elektronischem Wege“ elektronische Verfahren zur Verarbeitung (einschließlich digitaler Kompression) und Speicherung von Daten, die vollständig über Kabel, Funk oder auf optischem oder anderem elektromagnetischem Wege gesendet, übermittelt und empfangen werden;
+h) | „Verfahren zur alternativen Streitbeilegung“ (im Folgenden „AS-Verfahren“) ein Verfahren zur außergerichtlichen Beilegung von Streitigkeiten im Sinne des Artikels 2 dieser Verordnung;
+i) | „Stelle für alternative Streitbeilegung“ (im Folgenden „AS-Stelle“) eine AS-Stelle im Sinne des Artikels 4 Absatz 1 Buchstabe h der Richtlinie 2013/11/EU;
+j) | „Beschwerdeführer“ den Verbraucher oder Unternehmer, der über die OS-Plattform eine Beschwerde eingereicht hat;
+k) | „Beschwerdegegner“ den Verbraucher oder Unternehmer, gegen den über die OS-Plattform eine Beschwerde eingereicht wurde;
+l) | „zuständige Behörde“ eine Behörde im Sinne des Artikels 4 Absatz 1 Buchstabe i der Richtlinie 2013/11/EU;
+m) | „personenbezogene Daten“ alle Informationen über eine bestimmte oder bestimmbare natürliche Person (im Folgenden „betroffene Person“); als bestimmbar wird eine Person angesehen, die direkt oder indirekt identifiziert werden kann, insbesondere durch Zuordnung zu einer Kennnummer oder zu einem oder mehreren spezifischen Elementen, die Ausdruck ihrer physischen, physiologischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität sind.
+(2) Der Niederlassungsort des Unternehmers und der AS-Stelle werden gemäß Artikel 4 Absätze 2 und 3 der Richtlinie 2013/11/EU bestimmt.
+
+KAPITEL II
+OS-PLATTFORM
+
+Artikel 5
+Einrichtung der OS-Plattform
+(1) Die Kommission entwickelt die OS-Plattform und ist für den Betrieb, einschließlich sämtlicher für die Zwecke dieser Verordnung erforderlichen Übersetzungsfunktionen, die Pflege, die Finanzierung und die Datensicherheit dieser Plattform zuständig. Die OS-Plattform ist benutzerfreundlich. Im Hinblick auf Entwicklung, Betrieb und Pflege der OS-Plattform wird darauf geachtet, dass der Schutz der Privatsphäre der Nutzer bereits bei der Planung berücksichtigt wird („eingebauter Datenschutz“), und dass sie möglichst für alle zugänglich ist und von allen genutzt werden kann, auch von schutzbedürftigen Personen („Design für alle“).
+(2) Die OS-Plattform stellt eine zentrale Anlaufstelle für Verbraucher und Unternehmer dar, die Streitigkeiten, die in den Anwendungsbereich dieser Verordnung fallen, außergerichtlich beilegen möchten. Sie ist eine interaktive Website, auf die in allen Amtssprachen der Organe der Europäischen Union elektronisch zugegriffen werden kann; ihre Nutzung ist kostenfrei.
+(3) Die Kommission macht die OS-Plattform gegebenenfalls über ihre Websites, auf denen sie Informationen für die Bürger und Unternehmen der Union veröffentlicht, und insbesondere über das Portal „Ihr Europa“, das sie gemäß dem Beschluss 2004/387/EG eingerichtet hat, zugänglich.
+(4) Der OS-Plattform kommen folgende Funktionen zu:
+a) | Bereitstellung eines elektronischen Beschwerdeformulars, das vom Beschwerdeführer gemäß Artikel 8 ausgefüllt werden kann;
+b) | Unterrichtung des Beschwerdegegners über die Beschwerde;
+c) | Ermittlung der zuständigen AS-Stelle oder der zuständigen AS-Stellen und Übermittlung der Beschwerde an die AS-Stelle, auf die sich die Parteien gemäß Artikel 9 geeinigt haben;
+d) | kostenlose Bereitstellung eines elektronischen Fallbearbeitungsinstruments, das es den Parteien und der AS-Stelle ermöglicht, das Streitbeilegungsverfahren online über die OS-Plattform durchzuführen;
+e) | Versorgung der Parteien und der AS-Stelle mit Übersetzungen der Informationen, die für die Streitbeilegung erforderlich sind und über die OS-Plattform ausgetauscht werden;
+f) | Bereitstellung eines elektronischen Formulars, mithilfe dessen die AS-Stellen die in Artikel 10 Buchstabe c genannten Informationen übermitteln;
+g) | Bereitstellung eines Feedback-Systems, über das sich die Parteien zur Funktionsweise der OS-Plattform und der AS-Stelle, die ihre Streitigkeit bearbeitet hat, äußern können;
+h) | öffentlich zugänglich Machen i) allgemeiner Information über AS als eine Möglichkeit zur außergerichtlichen Beilegung von Streitigkeiten; ii) von Informationen zu den gemäß Artikel 20 Absatz 2 der Richtlinie 2013/11/EU in einer Liste geführten AS-Stellen, die für die Bearbeitung der von dieser Verordnung erfassten Streitigkeiten zuständig sind; iii) eines Online-Leitfadens für die Einreichung von Beschwerden über die OS-Plattform; iv) von Informationen, einschließlich Kontaktangaben, über die von den Mitgliedstaaten gemäß Artikel 7 Absatz 1 dieser Verordnung benannten OS-Kontaktstellen; v) statistischer Daten über den Ausgang der Streitigkeiten, die über die OS-Plattform an die AS-Stellen weitergeleitet wurden.
+(5) Die Kommission stellt sicher, dass die in Absatz 4 Buchstabe h genannten Informationen richtig, aktuell, eindeutig, verständlich und leicht zugänglich sind.
+(6) AS-Stellen, die gemäß Artikel 20 Absatz 2 der Richtlinie 2013/11/EU in einer Liste geführt werden und für die Bearbeitung der von dieser Verordnung erfassten Streitigkeiten zuständig sind, werden elektronisch bei der OS-Plattform angemeldet;
+(7) Die Kommission erlässt im Wege von Durchführungsrechtsakten Maßnahmen in Bezug auf die Modalitäten der Ausübung der in Absatz 4 dieses Artikels genannten Aufgaben. Die Annahme dieser Durchführungsrechtsakte erfolgt gemäß dem Prüfverfahren nach Artikel 16 Absatz 3 dieser Verordnung.
+
+Artikel 6
+Test der OS-Plattform
+(1) Die Kommission testet bis zum 9. Januar 2015 die technische Funktionalität und die Benutzerfreundlichkeit der OS-Plattform und des Beschwerdeformulars, auch im Hinblick auf die Übersetzung. Der Test wird in Zusammenarbeit mit Sachverständigen der Mitgliedstaaten für OS sowie mit Vertretern der Verbraucher und Unternehmer durchgeführt und bewertet. Die Kommission unterbreitet dem Europäischen Parlament und dem Rat einen Bericht über die Ergebnisse des Tests und ergreift gegebenenfalls geeignete Maßnahmen zur Behebung von Problemen, um das effektive Funktionieren der OS-Plattform sicherzustellen.
+(2) In dem Bericht nach Absatz 1 dieses Artikels legt die Kommission zudem dar, welche technischen und organisatorischen Maßnahmen sie zu ergreifen gedenkt, um sicherzustellen, dass die OS-Plattform die Datenschutzbestimmungen der Verordnung (EG) Nr. 45/2001 erfüllt.
+
+Artikel 7
+Netz der Kontaktstellen für die OS
+(1) Jeder Mitgliedstaat benennt eine OS-Kontaktstelle und teilt der Kommission deren Bezeichnung und Kontaktangaben mit. Die Mitgliedstaaten können die Zuständigkeit für die OS-Kontaktstellen ihren Zentren des Europäischen Netzes der Verbraucherzentren, Verbraucherverbänden oder jeder anderen Einrichtung übertragen. In jeder OS-Kontaktstelle sind mindestens zwei Online-Streitbeilegungsberater tätig.
+(2) Die OS-Kontaktstellen unterstützen die Beilegung der Streitigkeiten im Zusammenhang mit Beschwerden, die über die OS-Plattform eingereicht werden, indem sie
+a) | auf Verlangen die Kommunikation zwischen den Parteien und der zuständigen AS-Stelle erleichtern, wozu insbesondere Folgendes gehören kann: i) Hilfe bei der Einreichung der Beschwerde und gegebenenfalls der einschlägigen Unterlagen; ii) Versorgung der Parteien und AS-Stellen mit allgemeinen Informationen über die Rechte der Verbraucher in Bezug auf die Kauf- und Dienstleistungsverträge, die in dem Mitgliedstaat der OS-Kontaktstelle, bei der der betreffende OS-Berater tätig ist, gelten; iii) Bereitstellung von Informationen zur Funktionsweise der OS-Plattform; iv) Erläuterungen für die Parteien zu den von den ermittelten AS-Stellen angewandten Verfahrensregeln; v) Information des Beschwerdeführers über andere Möglichkeiten des Rechtschutzes, wenn eine Streitbeilegung über die OS-Plattform nicht möglich ist;
+b) | alle zwei Jahre Übermittlung eines auf Grundlage der in Ausübung ihrer Aufgaben erworbenen praktischen Erfahrungen erstellten Tätigkeitsberichts an die Kommission und die Mitgliedstaaten;
+(3) Die OS-Kontaktstelle ist nicht verpflichtet, die in Absatz 2 aufgeführten Aufgaben auszuführen, wenn die Parteien ihren gewöhnlichen Aufenthalt im selben Mitgliedstaat haben.
+(4) Unbeschadet des Absatzes 3 können die Mitgliedstaaten in Anbetracht der nationalen Gegebenheiten beschließen, dass die OS-Kontaktstelle auch dann eine oder mehrere der in Absatz 2 aufgeführten Aufgaben ausführt, wenn die Parteien ihren gewöhnlichen Aufenthalt im selben Mitgliedstaat haben.
+(5) Die Kommission richtet ein Netz von Kontaktstellen (im Folgenden „OS-Kontaktstellennetz“) ein, das eine Zusammenarbeit der Kontaktstellen ermöglicht und zur Erfüllung der in Absatz 2 aufgeführten Aufgaben beiträgt.
+(6) Mindestens zweimal im Jahr beruft die Kommission eine Versammlung der Mitglieder des OS-Kontaktstellennetzes ein, um einen Austausch bewährter Verfahren und eine Erörterung wiederkehrender Probleme beim Betrieb der OS-Plattform zu ermöglichen.
+(7) Die Kommission legt im Wege von Durchführungsrechtsakten Regeln in Bezug auf die Modalitäten der Zusammenarbeit der OS-Kontaktstellen untereinander fest. Die Annahme dieser Durchführungsrechtsakte erfolgt gemäß dem Prüfverfahren nach Artikel 16 Absatz 3.
+
+Artikel 8
+Einreichen einer Beschwerde
+(1) Um eine Beschwerde auf der OS-Plattform einzureichen, füllt der Beschwerdeführer das elektronische Beschwerdeformular aus. Das Beschwerdeformular ist benutzerfreundlich und über die OS-Plattform leicht zugänglich.
+(2) Die Angaben des Beschwerdeführers müssen zur Ermittlung der zuständigen AS-Stelle ausreichen. Diese Angaben sind im Anhang dieser Verordnung aufgelistet. Der Beschwerdeführer kann Dokumente beifügen, die seine Beschwerde unterstützen.
+(3) Um den Kriterien Rechnung zu tragen, nach denen AS-Stellen, die gemäß Artikel 20 Absatz 2 der Richtlinie 2013/11/EU in einer Liste geführt sind und die für die Bearbeitung der von dieser Verordnung erfassten Streitigkeiten zuständig sind, ihren jeweiligen Zuständigkeitsbereich definieren, wird die Kommission ermächtigt, delegierte Rechtsakte gemäß Artikel 17 dieser Verordnung zu erlassen, um die im Anhang dieser Verordnung aufgeführten Informationen anzupassen.
+(4) Die Kommission legt die Regeln bezüglich der Einzelheiten des elektronischen Beschwerdeformulars mittels Durchführungsrechtsakten fest. Die Annahme dieser Durchführungsrechtsakte erfolgt gemäß dem Beratungsverfahren nach Artikel 16 Absatz 2.
+(5) Über das elektronische Beschwerdeformular und seine Anlagen werden nur Daten verarbeitet, die richtig und zweckdienlich sind und nicht über den Zweck hinausgehen, für den sie erhoben werden.
+
+Artikel 9
+Bearbeitung und Übermittlung einer Beschwerde
+(1) Eine über die OS-Plattform eingereichte Beschwerde wird bearbeitet, wenn alle notwendigen Felder des Beschwerdeformulars vollständig ausgefüllt wurden.
+(2) Wurde das Beschwerdeformular nicht vollständig ausgefüllt, so wird dem Beschwerdeführer mitgeteilt, dass seine Beschwerde erst dann weiterbearbeitet werden kann, wenn er die fehlenden Informationen nachgereicht hat.
+(3) Nach Eingang eines vollständig ausgefüllten Beschwerdeformulars übermittelt die OS-Plattform in leicht zugänglicher Weise und unverzüglich dem Beschwerdegegner in der von ihm gewählten Amtssprache der Organe der Union die Beschwerde sowie Folgendes:
+a) | die Information, dass sich die Parteien auf eine zuständige AS-Stelle einigen müssen, damit die Beschwerde an diese weitergeleitet werden kann, und dass die Beschwerde nicht weiter bearbeitet wird, falls sich die Parteien nicht einigen oder keine zuständige AS-Stelle ermittelt werden kann;
+b) | Informationen über die AS-Stelle oder AS-Stellen, die für die Beschwerde zuständig ist oder sind, falls AS-Stellen im elektronischen Beschwerdeformular angegeben sind oder von der OS-Plattform auf Grundlage der darin enthaltenen Informationen ermittelt wurden;
+c) | falls es sich beim Beschwerdegegner um einen Unternehmer handelt, eine Aufforderung, innerhalb von zehn Kalendertagen anzugeben, — ob der Unternehmer sich verpflichtet hat oder verpflichtet ist, eine bestimmte AS-Stelle für die Beilegung von Streitigkeiten mit Verbrauchern zu nutzen, und — ob der Unternehmer bereit ist, eine AS-Stelle aus den unter Buchstabe b aufgeführten AS-Stellen zu nutzen, es sei denn, er ist verpflichtet, eine bestimmte AS-Stelle nutzen;
+d) | falls es sich bei dem Beschwerdegegner um einen Verbraucher handelt und der Unternehmer verpflichtet ist, eine bestimmte AS-Stelle zu nutzen, eine Aufforderung, sich innerhalb von zehn Kalendertagen mit dieser AS-Stelle einverstanden zu erklären, oder falls der Unternehmer nicht verpflichtet ist, eine bestimmte AS-Stelle zu nutzen, eine Aufforderung, eine oder mehrere AS-Stellen aus den unter Buchstabe b aufgeführten auszuwählen;
+e) | Name und Kontaktangaben der OS-Kontaktstelle in dem Mitgliedstaat, in dem der Beschwerdegegner seine Niederlassung oder seinen Wohnsitz hat, sowie eine kurze Beschreibung der in Artikel 7 Absatz 2 Buchstabe a genannten Aufgaben.
+(4) Nach Eingang der in Absatz 3 Buchstabe c oder d genannten Informationen des Beschwerdegegners teilt die OS-Plattform dem Beschwerdeführer in der von ihm gewählten Amtssprache der Organe der Union leicht verständlich und unverzüglich Folgendes mit:
+a) | die in Absatz 3 Buchstabe a genannten Informationen,
+b) | falls es sich bei dem Beschwerdeführer um einen Verbraucher handelt, Informationen über die AS-Stelle oder die AS-Stellen, die der Unternehmer gemäß Absatz 3 Buchstabe c angegeben hat, und eine Aufforderung, sich innerhalb von zehn Kalendertagen mit einer AS-Stelle einverstanden zu erklären;
+c) | falls es sich bei dem Beschwerdeführer um einen Unternehmer handelt und der Unternehmer nicht verpflichtet ist, eine bestimmte AS-Stelle zu nutzen, Informationen über die AS-Stelle oder die AS-Stellen, die der Verbraucher gemäß Absatz 3 Buchstabe d angegeben hat, und eine Aufforderung, sich innerhalb von zehn Kalendertagen mit einer AS-Stelle einverstanden zu erklären;
+d) | Name und Kontaktangaben der OS-Kontaktstelle in dem Mitgliedstaat, in dem der Beschwerdeführer seine Niederlassung oder seinen Wohnsitz hat, sowie eine kurze Beschreibung der in Artikel 7 Absatz 2 Buchstabe a genannten Aufgaben.
+(5) Die in Absatz 3 Buchstabe b und Absatz 4 Buchstaben b und c genannten Informationen enthalten folgende Angaben zu jeder AS-Stelle:
+a) | Name, Kontaktangaben und Website-Adresse der AS-Stelle;
+b) | die gegebenenfalls für das AS-Verfahren anfallenden Gebühren;
+c) | Sprache oder Sprachen, in der/denen das AS-Verfahren durchgeführt werden kann;
+d) | die durchschnittliche Dauer des AS-Verfahrens;
+e) | die Verbindlichkeit oder Unverbindlichkeit des Ergebnisses des AS-Verfahrens;
+f) | die Gründe, aus denen die AS-Stelle die Bearbeitung einer bestimmten Streitigkeit gemäß Artikel 5 Absatz 4 der Richtlinie 2013/11/EU ablehnen kann.
+(6) Die OS-Plattform leitet die Beschwerde automatisch und unverzüglich an die AS-Stelle weiter, auf die sich die Parteien gemäß den Absätzen 3 und 4 geeinigt haben.
+(7) Die AS-Stelle, an die die Beschwerde weitergeleitet wurde, teilt den Parteien unverzüglich mit, ob sie die Bearbeitung der Streitigkeit nach Artikel 5 Absatz 4 der Richtlinie 2013/11/EU übernimmt oder ablehnt. Die AS-Stelle, die die Bearbeitung der Streitigkeit übernommen hat, unterrichtet die Parteien zudem über ihre Verfahrensregeln und gegebenenfalls über die Kosten des betreffenden Streitbeilegungsverfahrens.
+(8) Können sich die Parteien nicht innerhalb von 30 Kalendertagen nach Einreichung des Beschwerdeformulars auf eine AS-Stelle einigen oder lehnt die AS-Stelle die Bearbeitung der Streitigkeit ab, so wird die Beschwerde nicht weiter bearbeitet. Der Beschwerdeführer wird darüber informiert, dass er sich an einen OS-Berater wenden kann, um allgemeine Informationen über andere Möglichkeiten des Rechtsschutzes zu erhalten.
+
+Artikel 10
+Beilegung der Streitigkeit
+Eine AS-Stelle, die die Bearbeitung einer Streitigkeit gemäß Artikel 9 dieser Verordnung übernommen hat,
+a) | schließt das AS-Verfahren innerhalb der in Artikel 8 Buchstabe e der Richtlinie 2013/11/EU genannten Frist ab;
+b) | verlangt nicht die persönliche Anwesenheit der Parteien oder ihrer Vertreter, es sei denn, ihre Verfahrensregeln sehen diese Möglichkeit vor und die Parteien stimmen zu;
+c) | übermittelt unverzüglich folgende Angaben an die OS-Plattform: i) das Datum des Eingangs der Beschwerdeakte, ii) den Streitgegenstand, iii) das Datum des Abschlusses des AS-Verfahrens, iv) das Ergebnis des AS-Verfahrens;
+d) | ist nicht verpflichtet, das AS-Verfahren über die OS-Plattform durchzuführen.
+
+Artikel 11
+Datenbank
+Die Kommission trifft die erforderlichen Maßnahmen zur Einrichtung und Pflege einer elektronischen Datenbank, in der die gemäß Artikel 5 Absatz 4 und Artikel 10 Buchstabe c verarbeiteten Daten gespeichert werden, wobei sie Artikel 13 Absatz 2 gebührend Rechnung trägt.
+
+Artikel 12
+Verarbeitung personenbezogener Daten
+(1) Zugang zu den erforderlichen Informationen im Zusammenhang mit einer Streitigkeit, einschließlich personenbezogener Daten, die in der in Artikel 11 genannten Datenbank gespeichert sind, wird ausschließlich der AS-Stelle gewährt, an die die Streitigkeit gemäß Artikel 9 weitergeleitet wurde, und zwar zu den in Artikel 10 genannten Zwecken. Den OS-Kontaktstellen wird ebenfalls soweit erforderlich Zugang zu diesen Informationen gewährt, und zwar zu den in Artikel 7 Absätze 2 und 4 genannten Zwecken.
+(2) Die Kommission hat zum Zweck der Überwachung der Verwendung und der Funktionsweise der OS-Plattform sowie der Erstellung der in Artikel 21 genannten Berichte Zugang zu den gemäß Artikel 10 verarbeiteten Daten. Sie verarbeitet die personenbezogenen Daten der Nutzer der OS-Plattform nur, soweit dies für den Betrieb und die Pflege der OS-Plattform — einschließlich der Überwachung der Nutzung der OS-Plattform durch die AS-Stellen und die OS-Kontaktstellen — erforderlich ist.
+(3) Personenbezogene Daten im Zusammenhang mit einer Streitigkeit werden in der in Absatz 1 dieses Artikels genannten Datenbank nur so lange gespeichert, wie dies erforderlich ist, um die Zwecke, zu denen sie erhoben wurden, zu erreichen und um sicherzustellen, dass die betreffenden Personen Zugang zu den Daten haben und ihre diesbezüglichen Rechte ausüben können; danach werden die Daten automatisch gelöscht, und zwar spätestens sechs Monate nach Abschluss der Streitigkeit, dessen Datum der OS-Plattform gemäß Artikel 10 Buchstabe c Ziffer iii mitgeteilt wurde. Diese Speicherfrist gilt auch für personenbezogene Daten, die in den nationalen Akten der AS-Stelle oder der OS-Kontaktstelle, die die Streitigkeit bearbeitet hat, erfasst wurden, es sei denn, in den von der AS-Stelle angewendeten Verfahrensregeln oder in besonderen nationalen Rechtsvorschriften ist eine längere Speicherfrist vorgesehen.
+(4) Jeder OS-Berater gilt hinsichtlich der eigenen Datenverarbeitungstätigkeit im Rahmen dieser Verordnung als für die Verarbeitung Verantwortlicher im Sinne des Artikels 2 Buchstabe d der Richtlinie 95/46/EG und stellt sicher, dass diese Tätigkeit unter Beachtung der nationalen Rechtsvorschriften stattfindet, die in dem Mitgliedstaat der OS-Kontaktstelle, bei der der betreffende OS-Berater tätig ist, gemäß der Richtlinie 95/46/EG erlassen wurden.
+(5) Jede AS-Stelle gilt hinsichtlich der eigenen Datenverarbeitungstätigkeit im Rahmen dieser Verordnung als für die Verarbeitung Verantwortliche im Sinne des Artikels 2 Buchstabe d der Richtlinie 95/46/EG und stellt sicher, dass diese Tätigkeit unter Beachtung der nationalen Rechtsvorschriften stattfindet, die in dem Mitgliedstaat, in dem sie eingerichtet ist, gemäß der Richtlinie 95/46/EG erlassen wurden.
+(6) Die Kommission gilt hinsichtlich ihrer Pflichten im Rahmen dieser Verordnung und der damit verbundenen Verarbeitung personenbezogener Daten als für die Verarbeitung Verantwortliche im Sinne von Artikel 2 Buchstabe d der Verordnung (EG) Nr. 45/2001.
+
+Artikel 13
+Vertraulichkeit und Sicherheit der Daten
+(1) Die OS-Kontaktstellen unterliegen der beruflichen Geheimhaltungspflicht oder gleichwertigen Verpflichtungen zur Vertraulichkeit gemäß den Rechtsvorschriften des betreffenden Mitgliedstaats.
+(2) Die Kommission trifft technische und organisatorische Maßnahmen gemäß Artikel 22 der Verordnung (EG) Nr. 45/2001, die geeignet sind, die Sicherheit der im Rahmen dieser Verordnung verarbeiteten Daten sicherzustellen, einschließlich einer geeigneten Überwachung des Datenzugangs, eines Sicherheitsplans und der Behandlung von Sicherheitsvorfällen.
+
+Artikel 14
+Information der Verbraucher
+(1) In der Union niedergelassene Unternehmer, die Online-Kaufverträge oder Online-Dienstleistungsverträge eingehen, und in der Union niedergelassene Online-Marktplätze stellen auf ihren Websites einen Link zur OS-Plattform ein. Dieser Link muss für Verbraucher leicht zugänglich sein. In der Union niedergelassene Unternehmer, die Online-Kaufverträge oder Online-Dienstleistungsverträge eingehen, geben zudem ihre E-Mail-Adressen an.
+(2) In der Union niedergelassene Unternehmer, die Online-Kaufverträge oder Online-Dienstleistungsverträge eingehen und sich verpflichtet haben oder verpflichtet sind, eine oder mehrere AS-Stellen für die Beilegung von Streitigkeiten mit Verbrauchern zu nutzen, informieren die Verbraucher über die Existenz der OS-Plattform und die Möglichkeit, diese für die Beilegung ihrer Streitigkeiten zu nutzen. Sie stellen auf ihren Websites sowie, falls das Angebot über E-Mail erfolgt, in dieser E-Mail einen Link zu der OS-Plattform ein. Diese Informationen sind gegebenenfalls auch in die allgemeinen Geschäftsbedingungen für Online-Kaufverträge oder Online-Dienstleistungsverträge aufzunehmen.
+(3) Absätze 1 und 2 dieses Artikels gelten unbeschadet des Artikels 13 der Richtlinie 2013/11/EU und der in anderen Rechtsakten der Union enthaltenen Bestimmungen über die Information der Verbraucher über außergerichtliche Rechtsbehelfsverfahren, die zusätzlich zu diesem Artikel gelten.
+(4) Die in Artikel 20 Absatz 5 der Richtlinie 2013/11/EU genannte Liste der AS-Stellen und ihre aktualisierten Fassungen werden auf der OS-Plattform veröffentlicht.
+(5) Die Mitgliedstaaten sorgen dafür, dass AS-Stellen, die Zentren des Europäischen Netzes der Verbraucherzentren, die zuständigen Behörden im Sinne des Artikels 18 Absatz 1 der Richtlinie 2013/11/EU und gegebenenfalls die gemäß Artikel 14 Absatz 2 der Richtlinie 2013/11/EU bezeichneten Einrichtungen auf ihren Websites einen Link zu der OS-Plattform einstellen.
+(6) Die Mitgliedstaaten empfehlen den einschlägigen Verbraucher- und Wirtschaftsverbänden, auf ihren Websites einen Link zu der OS-Plattform einzustellen.
+(7) Unternehmer, die verpflichtet sind, Informationen gemäß den Absätzen 1 und 2 und den in Absatz 3 genannten Bestimmungen zu veröffentlichen, veröffentlichen diese Informationen möglichst gebündelt.
+
+Artikel 15
+Rolle der zuständigen Behörden
+Die zuständige Behörde des jeweiligen Mitgliedstaats beurteilt, ob die in diesem Mitgliedstaat eingerichteten AS-Stellen die in dieser Verordnung festgelegten Verpflichtungen erfüllen.
+
+KAPITEL III
+SCHLUSSBESTIMMUNGEN
+
+Artikel 16
+Ausschussverfahren
+(1) Die Kommission wird von einem Ausschuss unterstützt. Dabei handelt es sich um einen Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011.
+(2) Wird auf diesen Absatz Bezug genommen, so gilt Artikel 4 der Verordnung (EU) Nr. 182/2011.
+(3) Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der Verordnung (EU) Nr. 182/2011.
+(4) Wird die Stellungnahme des Ausschusses gemäß den Absätzen 2 und 3 im schriftlichen Verfahren eingeholt, so wird das Verfahren ohne Ergebnis abgeschlossen, wenn der Vorsitz des Ausschusses dies innerhalb der Frist für die Abgabe der Stellungnahme beschließt oder eine einfache Mehrheit der Ausschussmitglieder dies verlangt.
+
+Artikel 17
+Ausübung der Befugnisübertragung
+(1) Die Befugnis zum Erlass delegierter Rechtsakte wird der Kommission unter den in diesem Artikel festgelegten Bedingungen übertragen.
+(2) Die Befugnis zum Erlass delegierter Rechtsakte gemäß Artikel 8 Absatz 3 wird der Kommission auf unbestimmte Zeit ab dem 8. Juli 2013 übertragen.
+(3) Die Befugnisübertragung gemäß Artikel 8 Absatz 3 kann vom Europäischen Parlament oder vom Rat jederzeit widerrufen werden. Der Beschluss über den Widerruf beendet die Übertragung der in diesem Beschluss angegebenen Befugnis. Er wird am Tag nach seiner Veröffentlichung im Amtsblatt der Europäischen Union oder zu einem darin angegebenen späteren Zeitpunkt wirksam. Die Gültigkeit von delegierten Rechtsakten, die bereits in Kraft sind, wird von dem Beschluss über den Widerruf nicht berührt.
+(4) Sobald die Kommission einen delegierten Rechtsakt erlässt, übermittelt sie ihn gleichzeitig dem Europäischen Parlament und dem Rat.
+(5) Ein gemäß Artikel 8 Absatz 3 erlassener delegierter Rechtsakt tritt nur in Kraft, wenn weder das Europäische Parlament noch der Rat innerhalb einer Frist von zwei Monaten ab dem Tag der Übermittlung des Rechtsakts an das Europäische Parlament und den Rat Einwände erhoben haben oder wenn sowohl das Europäische Parlament als auch der Rat vor Ablauf dieser Frist der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. Auf Initiative des Europäischen Parlaments oder des Rates wird diese Frist um zwei Monate verlängert.
+
+Artikel 18
+Sanktionen
+Die Mitgliedstaaten legen fest, welche Sanktionen bei einem Verstoß gegen diese Verordnung zu verhängen sind, und treffen die zu deren Durchsetzung erforderlichen Maßnahmen. Die vorgesehenen Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein.
+
+Artikel 19
+Änderung der Verordnung (EG) Nr. 2006/2004
+Im Anhang der Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates ( 12 ) wird die folgende Nummer angefügt:
+„21. | Verordnung (EG) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten (Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten) ( ABl. L 165 vom 18.6.2013, S. 1 ): Artikel 14.“
+
+Artikel 20
+Änderung der Richtlinie 2009/22/EG
+Die Richtlinie 2009/22/EG des Europäischen Parlaments und des Rates ( 13 ) wird wie folgt geändert:
+1. | In Artikel 1 Absätze 1 und 2 und in Artikel 6 Absatz 2 Buchstabe b werden die Worte „in Anhang I aufgeführten Richtlinien“ durch die Worte „in Anhang I aufgeführten Rechtsakte der Union“ ersetzt.
+2. | In der Überschrift des Anhangs I werden die Worte „LISTE DER RICHTLINIEN“ durch die Worte „LISTE DER RECHTSAKTE DER UNION“ ersetzt.
+3. | Im Anhang I wird die folgende Nummer angefügt: „15. Verordnung (EG) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten (Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten) ( ABl. L 165 vom 18.6.2013, S. 1 ): Artikel 14.“
+
+Artikel 21
+Berichte
+(1) Die Kommission erstattet dem Europäischen Parlament und dem Rat jährlich und erstmals ein Jahr nach Inbetriebnahme der OS-Plattform über die Funktionsweise dieser Plattform Bericht.
+(2) Bis zum 9. Juli 2018 und alle drei Jahre danach legt die Kommission dem Europäischen Parlament und dem Rat einen Bericht über die Anwendung dieser Verordnung vor, in dem sie insbesondere auch auf die Benutzerfreundlichkeit des Beschwerdeformulars und die eventuell erforderliche Anpassung der im Anhang aufgeführten Informationen eingeht. Diesem Bericht sind gegebenenfalls Vorschläge zur Anpassung der Verordnung beizufügen.
+(3) Fallen die in den Absätzen 1 und 2 genannten Berichte im selben Jahr an, so wird nur ein einziger gemeinsamer Bericht vorgelegt.
+
+Artikel 22
+Inkrafttreten
+(1) Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
+(2) Diese Verordnung gilt ab dem 9. Januar 2016; ausgenommen sind die folgenden Bestimmungen:
+— | Artikel 2 Absatz 3 und Artikel 7 Absätze 1 und 5, die ab 9. Juli 2015 gelten;
+— | Artikel 5 Absätze 1 und 7, Artikel 6, Artikel 7 Absatz 7, Artikel 8 Absätze 3 und 4 und Artikel 11, 16 und 17, die ab 8. Juli 2013 gelten.
+
+Diese Verordnung ist in allen ihren Teilen verbindlich und gilt unmittelbar in jedem Mitgliedstaat.
+Geschehen zu Straßburg am 21. Mai 2013.
+Im Namen des Europäischen Parlaments
+Der Präsident
+M. SCHULZ
+Im Namen des Rates
+Die Präsidentin
+L. CREIGHTON
+( 1 ) ABl. C 181 vom 21.6.2012, S. 99 .
+( 2 ) Standpunkt des Europäischen Parlaments vom 12. März 2013 (noch nicht im Amtsblatt veröffentlicht) und Beschluss des Rates vom 22. April 2013.
+( 3 ) Siehe Seite 63 dieses Amtsblatts.
+( 4 ) ABl. L 136 vom 24.5.2008, S. 3 .
+( 5 ) ABl. L 144 vom 30.4.2004, S. 62 .
+( 6 ) ABl. L 281 vom 23.11.1995, S. 31 .
+( 7 ) ABl. L 8 vom 12.1.2001, S. 1 .
+( 8 ) ABl. L 304 vom 22.11.2011, S. 64 .
+( 9 ) ABl. L 55 vom 28.2.2011, S. 13 .
+( 10 ) ABl. C 136 vom 11.5.2012, S. 1 .
+( 11 ) ABl. L 178 vom 17.7.2000, S. 1 .
+( 12 ) ABl. L 364 vom 9.12.2004, S. 1 .
+( 13 ) ABl. L 110 vom 1.5.2009, S. 30 .
+
+ANHANG
+Beim Einreichen einer Beschwerde anzugebende Informationen
+ | 1. | Angabe, ob es sich bei dem Beschwerdeführer um einen Verbraucher oder einen Unternehmer handelt;
+ | 2. | Name, E-Mail-Adresse und Anschrift des Verbrauchers;
+ | 3. | Name, E-Mail-Adresse und Website-Adresse sowie Anschrift des Unternehmers;
+ | 4. | gegebenenfalls Name, E-Mail-Adresse und Anschrift des Vertreters des Beschwerdeführers;
+ | 5. | Sprache(n) des Beschwerdeführers oder gegebenenfalls seines Vertreters;
+ | 6. | Sprache des Beschwerdegegners, sofern bekannt;
+ | 7. | die Art der Waren oder Dienstleistungen, auf die sich die Beschwerde bezieht;
+ | 8. | Angabe, ob das Angebot der Waren oder Dienstleistungen durch den Unternehmer und die Bestellung durch den Verbraucher über eine Website oder auf anderem elektronischen Wege erfolgt sind;
+ | 9. | Preis der erworbenen Ware oder Dienstleistung;
+ | 10. | Datum, an dem der Verbraucher die Ware oder die Dienstleistung erworben hat;
+ | 11. | Angabe, ob der Verbraucher direkt Kontakt mit dem Unternehmer aufgenommen hat;
+ | 12. | Angabe, ob die Streitigkeit zur Zeit von einer AS-Stelle oder einem Gericht behandelt wird oder bereits von einer AS-Stelle oder einem Gericht behandelt worden ist;
+ | 13. | Art der Beschwerde;
+ | 14. | Beschreibung der Beschwerde;
+ | 15. | falls es sich bei dem Beschwerdeführer um einen Verbraucher handelt, Angabe der AS-Stellen, zu deren Einschaltung der Unternehmer gemäß Artikel 13 Absatz 1 der Richtlinie 2013/11/EU verpflichtet ist oder sich verpflichtet hat, sofern bekannt;
+ | 16. | falls es sich bei dem Beschwerdeführer um einen Unternehmer handelt, Angabe der AS-Stellen, zu deren Einschaltung der Unternehmer sich verpflichtet hat oder verpflichtet ist.

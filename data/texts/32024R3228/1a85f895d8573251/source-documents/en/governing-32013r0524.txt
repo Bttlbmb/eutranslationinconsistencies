@@ -1,0 +1,326 @@
+REGULATION (EU) No 524/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 21 May 2013
+on online dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (Regulation on consumer ODR)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee ( 1 ) ,
+
+Acting in accordance with the ordinary legislative procedure ( 2 ) ,
+
+Whereas:
+
+(1) | Article 169(1) and point (a) of Article 169(2) of the Treaty on the Functioning of the European Union (TFEU) provide that the Union is to contribute to the attainment of a high level of consumer protection through measures adopted pursuant to Article 114 TFEU. Article 38 of the Charter of Fundamental Rights of the European Union provides that Union policies are to ensure a high level of consumer protection.
+
+(2) | In accordance with Article 26(2) TFEU, the internal market is to comprise an area without internal frontiers in which the free movement of goods and services is ensured. In order for consumers to have confidence in and benefit from the digital dimension of the internal market, it is necessary that they have access to simple, efficient, fast and low-cost ways of resolving disputes which arise from the sale of goods or the supply of services online. This is particularly important when consumers shop cross-border.
+
+(3) | In its Communication of 13 April 2011 entitled ‘Single Market Act — Twelve levers to boost growth and strengthen confidence — “Working together to create new growth” ’, the Commission identified legislation on alternative dispute resolution (ADR) which includes an electronic commerce dimension as one of the twelve levers to boost growth and strengthen confidence in the Single Market.
+
+(4) | Fragmentation of the internal market impedes efforts to boost competitiveness and growth. Furthermore, the uneven availability, quality and awareness of simple, efficient, fast and low-cost means of resolving disputes arising from the sale of goods or provision of services across the Union constitutes a barrier within the internal market which undermines consumers’ and traders’ confidence in shopping and selling across borders.
+
+(5) | In its conclusions of 24-25 March and 23 October 2011, the European Council invited the European Parliament and the Council to adopt, by the end of 2012, a first set of priority measures to bring a new impetus to the Single Market.
+
+(6) | The internal market is a reality for consumers in their daily lives, when they travel, make purchases and make payments. Consumers are key players in the internal market and should therefore be at its heart. The digital dimension of the internal market is becoming vital for both consumers and traders. Consumers increasingly make purchases online and an increasing number of traders sell online. Consumers and traders should feel confident in carrying out transactions online so it is essential to dismantle existing barriers and to boost consumer confidence. The availability of reliable and efficient online dispute resolution (ODR) could greatly help achieve this goal.
+
+(7) | Being able to seek easy and low-cost dispute resolution can boost consumers’ and traders’ confidence in the digital Single Market. Consumers and traders, however, still face barriers to finding out-of-court solutions in particular to their disputes arising from cross-border online transactions. Thus, such disputes currently are often left unresolved.
+
+(8) | ODR offers a simple, efficient, fast and low-cost out-of-court solution to disputes arising from online transactions. However, there is currently a lack of mechanisms which allow consumers and traders to resolve such disputes through electronic means; this leads to consumer detriment, acts as a barrier, in particular, to cross-border online transactions, and creates an uneven playing field for traders, and thus hampers the overall development of online commerce.
+
+(9) | This Regulation should apply to the out-of-court resolution of disputes initiated by consumers resident in the Union against traders established in the Union which are covered by Directive 2013/11/EU of the European Parliament and of the Council of 21 May 2013 on alternative dispute resolution for consumer disputes (Directive on consumer ADR) ( 3 ) .
+
+(10) | In order to ensure that the ODR platform can also be used for ADR procedures which allow traders to submit complaints against consumers, this Regulation should also apply to the out-of-court resolution of disputes initiated by traders against consumers where the relevant ADR procedures are offered by ADR entities listed in accordance with Article 20(2) of Directive 2013/11/EU. The application of this Regulation to such disputes should not impose any obligation on Member States to ensure that the ADR entities offer such procedures.
+
+(11) | Although in particular consumers and traders carrying out cross-border online transactions will benefit from the ODR platform, this Regulation should also apply to domestic online transactions in order to allow for a true level playing field in the area of online commerce.
+
+(12) | This Regulation should be without prejudice to Directive 2008/52/EC of the European Parliament and of the Council of 21 May 2008 on certain aspects of mediation in civil and commercial matters ( 4 ) .
+
+(13) | The definition of ‘consumer’ should cover natural persons who are acting outside their trade, business, craft or profession. However, if the contract is concluded for purposes partly within and partly outside the person’s trade (dual purpose contracts) and the trade purpose is so limited as not to be predominant in the overall context of the supply, that person should also be considered as a consumer.
+
+(14) | The definition of ‘online sales or service contract’ should cover a sales or service contract where the trader, or the trader’s intermediary, has offered goods or services through a website or by other electronic means and the consumer has ordered those goods or services on that website or by other electronic means. This should also cover cases where the consumer has accessed the website or other information society service through a mobile electronic device such as a mobile telephone.
+
+(15) | This Regulation should not apply to disputes between consumers and traders that arise from sales or service contracts concluded offline and to disputes between traders.
+
+(16) | This Regulation should be considered in conjunction with Directive 2013/11/EU which requires Member States to ensure that all disputes between consumers resident and traders established in the Union which arise from the sale of goods or provisions of services can be submitted to an ADR entity.
+
+(17) | Before submitting their complaint to an ADR entity through the ODR platform, consumers should be encouraged by Member States to contact the trader by any appropriate means, with the aim of resolving the dispute amicably.
+
+(18) | This Regulation aims to create an ODR platform at Union level. The ODR platform should take the form of an interactive website offering a single point of entry to consumers and traders seeking to resolve disputes out-of-court which have arisen from online transactions. The ODR platform should provide general information regarding the out-of-court resolution of contractual disputes between traders and consumers arising from online sales and service contracts. It should allow consumers and traders to submit complaints by filling in an electronic complaint form available in all the official languages of the institutions of the Union and to attach relevant documents. It should transmit complaints to an ADR entity competent to deal with the dispute concerned. The ODR platform should offer, free of charge, an electronic case management tool which enables ADR entities to conduct the dispute resolution procedure with the parties through the ODR platform. ADR entities should not be obliged to use the case management tool.
+
+(19) | The Commission should be responsible for the development, operation and maintenance of the ODR platform and provide all technical facilities necessary for the functioning of the platform. The ODR platform should offer an electronic translation function which enables the parties and the ADR entity to have the information which is exchanged through the ODR platform and is necessary for the resolution of the dispute translated, where appropriate. That function should be capable of dealing with all necessary translations and should be supported by human intervention, if necessary. The Commission should also provide, on the ODR platform, information for complainants about the possibility of requesting assistance from the ODR contact points.
+
+(20) | The ODR platform should enable the secure interchange of data with ADR entities and respect the underlying principles of the European Interoperability Framework adopted pursuant to Decision 2004/387/EC of the European Parliament and of the Council of 21 April 2004 on interoperable delivery of pan-European eGovernment services to public administrations, businesses and citizens (IDABC) ( 5 ) .
+
+(21) | The ODR platform should be made accessible, in particular, through the ‘Your Europe portal’ established in accordance with Annex II to Decision 2004/387/EC, which provides access to pan-European, multilingual online information and interactive services to businesses and citizens in the Union. The ODR platform should be given prominence on the ‘Your Europe portal’.
+
+(22) | An ODR platform at Union level should build on existing ADR entities in the Member States and respect the legal traditions of the Member States. ADR entities to which a complaint has been transmitted through the ODR platform should therefore apply their own procedural rules, including rules on cost. However, this Regulation intends to establish some common rules applicable to those procedures that will safeguard their effectiveness. This should include rules ensuring that such dispute resolution does not require the physical presence of the parties or their representatives before the ADR entity, unless its procedural rules provide for that possibility and the parties agree.
+
+(23) | Ensuring that all ADR entities listed in accordance with Article 20(2) of Directive 2013/11/EU are registered with the ODR platform should allow for full coverage in online out-of-court resolution for disputes arising from online sales or service contracts.
+
+(24) | This Regulation should not prevent the functioning of any existing dispute resolution entity operating online or of any ODR mechanism within the Union. It should not prevent dispute resolution entities or mechanisms from dealing with online disputes which have been submitted directly to them.
+
+(25) | ODR contact points hosting at least two ODR advisors should be designated in each Member State. The ODR contact points should support the parties involved in a dispute submitted through the ODR platform without being obliged to translate documents relating to that dispute. Member States should have the possibility to confer the responsibility for the ODR contact points on their centres of the European Consumer Centres Network. Member States should make use of that possibility in order to allow ODR contact points to fully benefit from the experience of the centres of the European Consumer Centres Network in facilitating the settlement of disputes between consumers and traders. The Commission should establish a network of ODR contact points to facilitate their cooperation and work and provide, in cooperation with Member States, appropriate training for ODR contact points.
+
+(26) | The right to an effective remedy and the right to a fair trial are fundamental rights laid down in Article 47 of the Charter of Fundamental Rights of the European Union. ODR is not intended to and cannot be designed to replace court procedures, nor should it deprive consumers or traders of their rights to seek redress before the courts. This Regulation should not, therefore, prevent parties from exercising their right of access to the judicial system.
+
+(27) | The processing of information under this Regulation should be subject to strict guarantees of confidentiality and should comply with the rules on the protection of personal data laid down in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ( 6 ) and in Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data ( 7 ) . Those rules should apply to the processing of personal data carried out under this Regulation by the various actors of the ODR platform, whether they act alone or jointly with other such actors.
+
+(28) | Data subjects should be informed about, and give their consent to, the processing of their personal data in the ODR platform, and should be informed about their rights with regard to that processing, by means of a comprehensive privacy notice to be made publicly available by the Commission and explaining, in clear and simple language, the processing operations performed under the responsibility of the various actors of the platform, in accordance with Articles 11 and 12 of Regulation (EC) No 45/2001 and with national legislation adopted pursuant to Articles 10 and 11 of Directive 95/46/EC.
+
+(29) | This Regulation should be without prejudice to provisions on confidentiality in national legislation relating to ADR.
+
+(30) | In order to ensure broad consumer awareness of the existence of the ODR platform, traders established within the Union engaging in online sales or service contracts should provide, on their websites, an electronic link to the ODR platform. Traders should also provide their email address so that consumers have a first point of contact. A significant proportion of online sales and service contracts are concluded using online marketplaces, which bring together or facilitate online transactions between consumers and traders. Online marketplaces are online platforms which allow traders to make their products and services available to consumers. Such online marketplaces should therefore have the same obligation to provide an electronic link to the ODR platform. This obligation should be without prejudice to Article 13 of Directive 2013/11/EU concerning the requirement that traders inform consumers about the ADR procedures by which those traders are covered and about whether or not they commit to use ADR procedures to resolve disputes with consumers. Furthermore, that obligation should be without prejudice to point (t) of Article 6(1) and to Article 8 of Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights ( 8 ) . Point (t) of Article 6(1) of Directive 2011/83/EU stipulates for consumer contracts concluded at a distance or off premises, that the trader is to inform the consumer about the possibility of having recourse to an out-of-court complaint and redress mechanism to which the trader is subject, and the methods for having access to it, before the consumer is bound by the contract. For the same consumer awareness reasons, Member States should encourage consumer associations and business associations to provide an electronic link to the website of the ODR platform.
+
+(31) | In order to take into account the criteria by which the ADR entities define their respective scopes of application the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to adapt the information which a complainant is to provide in the electronic complaint form made available on the ODR platform. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level. The Commission, when preparing and drawing up delegated acts, should ensure a simultaneous, timely and appropriate transmission of relevant documents to the European Parliament and to the Council.
+
+(32) | In order to ensure uniform conditions for the implementation of this Regulation implementing powers should be conferred on the Commission in respect of the functioning of the ODR platform, the modalities for the submission of a complaint and cooperation within the network of ODR contact points. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers ( 9 ) . The advisory procedure should be used for the adoption of implementing acts relating to the electronic complaint form given its purely technical nature. The examination procedure should be used for the adoption of the rules concerning the modalities of cooperation between the ODR advisors of the network of ODR contact points.
+
+(33) | In the application of this Regulation, the Commission should consult, where appropriate, the European Data Protection Supervisor.
+
+(34) | Since the objective of this Regulation, namely to set up a European ODR platform for online disputes governed by common rules, cannot be sufficiently achieved by the Member States and can therefore, by reason of its scale and effects, be better achieved at Union level, the Union may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective.
+
+(35) | This Regulation respects fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union and specifically Articles 7, 8, 38 and 47 thereof.
+
+(36) | The European Data Protection Supervisor was consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 and delivered an opinion on 12 January 2012 ( 10 ) ,
+
+HAVE ADOPTED THIS REGULATION:
+CHAPTER I
+GENERAL PROVISIONS
+
+Article 1
+Subject matter
+The purpose of this Regulation is, through the achievement of a high level of consumer protection, to contribute to the proper functioning of the internal market, and in particular of its digital dimension by providing a European ODR platform (‘ODR platform’) facilitating the independent, impartial, transparent, effective, fast and fair out-of-court resolution of disputes between consumers and traders online.
+
+Article 2
+Scope
+1. This Regulation shall apply to the out-of-court resolution of disputes concerning contractual obligations stemming from online sales or service contracts between a consumer resident in the Union and a trader established in the Union through the intervention of an ADR entity listed in accordance with Article 20(2) of Directive 2013/11/EU and which involves the use of the ODR platform.
+2. This Regulation shall apply to the out-of-court resolution of disputes referred to in paragraph 1, which are initiated by a trader against a consumer, in so far as the legislation of the Member State where the consumer is habitually resident allows for such disputes to be resolved through the intervention of an ADR entity.
+3. Member States shall inform the Commission about whether or not their legislation allows for disputes referred to in paragraph 1, which are initiated by a trader against a consumer, to be resolved through the intervention of an ADR entity. Competent authorities shall, when they notify the list referred to in Article 20(2) of Directive 2013/11/EU, inform the Commission about which ADR entities deal with such disputes.
+4. The application of this Regulation to disputes referred to in paragraph 1, which are initiated by a trader against a consumer, shall not impose any obligation on Member States to ensure that ADR entities offer procedures for the out-of-court resolution of such disputes.
+
+Article 3
+Relationship with other Union legal acts
+This Regulation shall be without prejudice to Directive 2008/52/EC.
+
+Article 4
+Definitions
+1. For the purposes of this Regulation:
+(a) | ‘consumer’ means a consumer as defined in point (a) of Article 4(1) of Directive 2013/11/EU;
+(b) | ‘trader’ means a trader as defined in point (b) of Article 4(1) of Directive 2013/11/EU;
+(c) | ‘sales contract’ means a sales contract as defined in point (c) of Article 4(1) of Directive 2013/11/EU;
+(d) | ‘service contract’ means a service contract as defined in point (d) of Article 4(1) of Directive 2013/11/EU;
+(e) | ‘online sales or service contract’ means a sales or service contract where the trader, or the trader’s intermediary, has offered goods or services on a website or by other electronic means and the consumer has ordered such goods or services on that website or by other electronic means;
+(f) | ‘online marketplace’ means a service provider, as defined in point (b) of Article 2 of Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’) ( 11 ) , which allows consumers and traders to conclude online sales and service contracts on the online marketplace’s website;
+(g) | ‘electronic means’ means electronic equipment for the processing (including digital compression) and storage of data which is entirely transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means;
+(h) | ‘alternative dispute resolution procedure’ (‘ADR procedure’) means a procedure for the out-of-court resolution of disputes as referred to in Article 2 of this Regulation;
+(i) | ‘alternative dispute resolution entity’ (‘ADR entity’) means an ADR entity as defined in point (h) of Article 4(1) of Directive 2013/11/EU;
+(j) | ‘complainant party’ means the consumer who or the trader that has submitted a complaint through the ODR platform;
+(k) | ‘respondent party’ means the consumer against whom or the trader against whom a complaint has been submitted through the ODR platform;
+(l) | ‘competent authority’ means a public authority as defined in point (i) of Article 4(1) of Directive 2013/11/EU;
+(m) | ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to that person’s physical, physiological, mental, economic, cultural or social identity.
+2. The place of establishment of the trader and of the ADR entity shall be determined in accordance with Article 4(2) and (3) of Directive 2013/11/EU, respectively.
+
+CHAPTER II
+ODR PLATFORM
+
+Article 5
+Establishment of the ODR platform
+1. The Commission shall develop the ODR platform (and be responsible for its operation, including all the translation functions necessary for the purpose of this Regulation, its maintenance, funding and data security. The ODR platform shall be user-friendly. The development, operation and maintenance of the ODR platform shall ensure that the privacy of its users is respected from the design stage (‘privacy by design’) and that the ODR platform is accessible and usable by all, including vulnerable users (‘design for all’), as far as possible.
+2. The ODR platform shall be a single point of entry for consumers and traders seeking the out-of-court resolution of disputes covered by this Regulation. It shall be an interactive website which can be accessed electronically and free of charge in all the official languages of the institutions of the Union.
+3. The Commission shall make the ODR platform accessible, as appropriate, through its websites which provide information to citizens and businesses in the Union and, in particular, through the ‘Your Europe portal’ established in accordance with Decision 2004/387/EC.
+4. The ODR platform shall have the following functions:
+(a) | to provide an electronic complaint form which can be filled in by the complainant party in accordance with Article 8;
+(b) | to inform the respondent party about the complaint;
+(c) | to identify the competent ADR entity or entities and transmit the complaint to the ADR entity, which the parties have agreed to use, in accordance with Article 9;
+(d) | to offer an electronic case management tool free of charge, which enables the parties and the ADR entity to conduct the dispute resolution procedure online through the ODR platform;
+(e) | to provide the parties and ADR entity with the translation of information which is necessary for the resolution of the dispute and is exchanged through the ODR platform;
+(f) | to provide an electronic form by means of which ADR entities shall transmit the information referred to in point (c) of Article 10;
+(g) | to provide a feedback system which allows the parties to express their views on the functioning of the ODR platform and on the ADR entity which has handled their dispute;
+(h) | to make publicly available the following: (i) general information on ADR as a means of out-of-court dispute resolution; (ii) information on ADR entities listed in accordance with Article 20(2) of Directive 2013/11/EU which are competent to deal with disputes covered by this Regulation; (iii) an online guide about how to submit complaints through the ODR platform; (iv) information, including contact details, on ODR contact points designated by the Member States in accordance with Article 7(1) of this Regulation; (v) statistical data on the outcome of the disputes which were transmitted to ADR entities through the ODR platform.
+5. The Commission shall ensure that the information referred to in point (h) of paragraph 4 is accurate, up to date and provided in a clear, understandable and easily accessible way.
+6. ADR entities listed in accordance with Article 20(2) of Directive 2013/11/EU which are competent to deal with disputes covered by this Regulation shall be registered electronically with the ODR platform.
+7. The Commission shall adopt measures concerning the modalities for the exercise of the functions provided for in paragraph 4 of this Article through implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(3) of this Regulation.
+
+Article 6
+Testing of the ODR platform
+1. The Commission shall, by 9 January 2015 test the technical functionality and user-friendliness of the ODR platform and of the complaint form, including with regard to translation. The testing shall be carried out and evaluated in cooperation with experts in ODR from the Member States and consumer and trader representatives. The Commission shall submit a report to the European Parliament and the Council of the result of the testing and take the appropriate measures to address potential problems in order to ensure the effective functioning of the ODR platform.
+2. In the report referred to in paragraph 1 of this Article, the Commission shall also describe the technical and organisational measures it intends to take to ensure that the ODR platform meets the privacy requirements set out in Regulation (EC) No 45/2001.
+
+Article 7
+Network of ODR contact points
+1. Each Member State shall designate one ODR contact point and communicate its name and contact details to the Commission. The Member States may confer responsibility for the ODR contact points on their centres of the European Consumer Centres Network, on consumer associations or on any other body. Each ODR contact point shall host at least two ODR advisors.
+2. The ODR contact points shall provide support to the resolution of disputes relating to complaints submitted through the ODR platform by fulfilling the following functions:
+(a) | if requested, facilitating communication between the parties and the competent ADR entity, which may include, in particular: (i) assisting with the submission of the complaint and, where appropriate, relevant documentation; (ii) providing the parties and ADR entities with general information on consumer rights in relation to sales and service contracts which apply in the Member State of the ODR contact point which hosts the ODR advisor concerned; (iii) providing information on the functioning of the ODR platform; (iv) providing the parties with explanations on the procedural rules applied by the ADR entities identified; (v) informing the complainant party of other means of redress when a dispute cannot be resolved through the ODR platform;
+(b) | submitting, based on the practical experience gained from the performance of their functions, every two years an activity report to the Commission and to the Member States.
+3. The ODR contact point shall not be obliged to perform the functions listed in paragraph 2 in the case of disputes where the parties are habitually resident in the same Member State.
+4. Notwithstanding paragraph 3, the Member States may decide, taking into account national circumstances, that the ODR contact point performs one or more functions listed in paragraph 2 in the case of disputes where the parties are habitually resident in the same Member State.
+5. The Commission shall establish a network of contact points (‘ODR contact points network’) which shall enable cooperation between contact points and contribute to the performance of the functions listed in paragraph 2.
+6. The Commission shall at least twice a year convene a meeting of members of the ODR contact points network in order to permit an exchange of best practice, and a discussion of any recurring problems encountered in the operation of the ODR platform.
+7. The Commission shall adopt the rules concerning the modalities of the cooperation between the ODR contact points through implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(3).
+
+Article 8
+Submission of a complaint
+1. In order to submit a complaint to the ODR platform the complainant party shall fill in the electronic complaint form. The complaint form shall be user-friendly and easily accessible on the ODR platform.
+2. The information to be submitted by the complainant party shall be sufficient to determine the competent ADR entity. That information is listed in the Annex to this Regulation. The complainant party may attach documents in support of the complaint.
+3. In order to take into account the criteria by which the ADR entities, that are listed in accordance with Article 20(2) of Directive 2013/11/EU and that deal with disputes covered by this Regulation, define their respective scopes of application, the Commission shall be empowered to adopt delegated acts in accordance with Article 17 of this Regulation to adapt the information listed in the Annex to this Regulation.
+4. The Commission shall lay down the rules concerning the modalities for the electronic complaint form by means of implementing acts. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 16(2).
+5. Only data which are accurate, relevant and not excessive in relation to the purposes for which they are collected shall be processed through the electronic complaint form and its attachments.
+
+Article 9
+Processing and transmission of a complaint
+1. A complaint submitted to the ODR platform shall be processed if all the necessary sections of the electronic complaint form have been completed.
+2. If the complaint form has not been fully completed, the complainant party shall be informed that the complaint cannot be processed further, unless the missing information is provided.
+3. Upon receipt of a fully completed complaint form, the ODR platform shall, in an easily understandable way and without delay, transmit to the respondent party, in one of the official languages of the institutions of the Union chosen by that party, the complaint together with the following data:
+(a) | information that the parties have to agree on an ADR entity in order for the complaint to be transmitted to it, and that, if no agreement is reached by the parties or no competent ADR entity is identified, the complaint will not be processed further;
+(b) | information about the ADR entity or entities which are competent to deal with the complaint, if any are referred to in the electronic complaint form or are identified by the ODR platform on the basis of the information provided in that form;
+(c) | in the event that the respondent party is a trader, an invitation to state within 10 calendar days: — whether the trader commits to, or is obliged to use, a specific ADR entity to resolve disputes with consumers, and — unless the trader is obliged to use a specific ADR entity, whether the trader is willing to use any ADR entity or entities from those referred to in point (b);
+(d) | in the event that the respondent party is a consumer and the trader is obliged to use a specific ADR entity, an invitation to agree within 10 calendar days on that ADR entity or, in the event that the trader is not obliged to use a specific ADR entity, an invitation to select one or more ADR entities from those referred to in point (b);
+(e) | the name and contact details of the ODR contact point in the Member State where the respondent party is established or resident, as well as a brief description of the functions referred to in point (a) of Article 7(2).
+4. Upon receipt from the respondent party of the information referred to in point (c) or point (d) of paragraph 3, the ODR platform shall in an easily understandable way and without delay communicate to the complainant party, in one of the official languages of the institutions of the Union chosen by that party, the following information:
+(a) | the information referred to in point (a) of paragraph 3;
+(b) | in the event that the complainant party is a consumer, the information about the ADR entity or entities stated by the trader in accordance with point (c) of paragraph 3 and an invitation to agree within 10 calendar days on an ADR entity;
+(c) | in the event that the complainant party is a trader and the trader is not obliged to use a specific ADR entity, the information about the ADR entity or entities stated by the consumer in accordance with point (d) of paragraph 3 and an invitation to agree within 10 calendar days on an ADR entity;
+(d) | the name and contact details of the ODR contact point in the Member State where the complainant party is established or resident, as well as a brief description of the functions referred to in point (a) of Article 7(2).
+5. The information referred to in point (b) of paragraph 3 and in points (b) and (c) of paragraph 4 shall include a description of the following characteristics of each ADR entity:
+(a) | the name, contact details and website address of the ADR entity;
+(b) | the fees for the ADR procedure, if applicable;
+(c) | the language or languages in which the ADR procedure can be conducted;
+(d) | the average length of the ADR procedure;
+(e) | the binding or non-binding nature of the outcome of the ADR procedure;
+(f) | the grounds on which the ADR entity may refuse to deal with a given dispute in accordance with Article 5(4) of Directive 2013/11/EU.
+6. The ODR platform shall automatically and without delay transmit the complaint to the ADR entity that the parties have agreed to use in accordance with paragraphs 3 and 4.
+7. The ADR entity to which the complaint has been transmitted shall without delay inform the parties about whether it agrees or refuses to deal with the dispute in accordance with Article 5(4) of Directive 2013/11/EU. The ADR entity which has agreed to deal with the dispute shall also inform the parties of its procedural rules and, if applicable, of the costs of the dispute resolution procedure concerned.
+8. Where the parties fail to agree within 30 calendar days after submission of the complaint form on an ADR entity, or the ADR entity refuses to deal with the dispute, the complaint shall not be processed further. The complainant party shall be informed of the possibility of contacting an ODR advisor for general information on other means of redress.
+
+Article 10
+Resolution of the dispute
+An ADR entity which has agreed to deal with a dispute in accordance with Article 9 of this Regulation shall:
+(a) | conclude the ADR procedure within the deadline referred to in point (e) of Article 8 of Directive 2013/11/EU;
+(b) | not require the physical presence of the parties or their representatives, unless its procedural rules provide for that possibility and the parties agree;
+(c) | without delay transmit the following information to the ODR platform: (i) the date of receipt of the complaint file; (ii) the subject-matter of the dispute; (iii) the date of conclusion of the ADR procedure; (iv) the result of the ADR procedure;
+(d) | not be required to conduct the ADR procedure through the ODR platform.
+
+Article 11
+Database
+The Commission shall take the necessary measures to establish and maintain an electronic database in which it shall store the information processed in accordance with Article 5(4) and point (c) of Article 10 taking due account of Article 13(2).
+
+Article 12
+Processing of personal data
+1. Access to information, including personal data, related to a dispute and stored in the database referred to in Article 11 shall be granted, for the purposes referred to in Article 10, only to the ADR entity to which the dispute was transmitted in accordance with Article 9. Access to the same information shall be granted also to ODR contact points, in so far as it is necessary, for the purposes referred to in Article 7(2) and (4).
+2. The Commission shall have access to information processed in accordance with Article 10 for the purposes of monitoring the use and functioning of the ODR platform and drawing up the reports referred to in Article 21. It shall process personal data of the users of the ODR platform in so far as it is necessary for the operation and maintenance of the ODR platform, including for the purposes of monitoring the use of the ODR platform by ADR entities and ODR contact points.
+3. Personal data related to a dispute shall be kept in the database referred to in paragraph 1 of this Article only for the time necessary to achieve the purposes for which they were collected and to ensure that data subjects are able to access their personal data in order to exercise their rights, and shall be automatically deleted, at the latest, six months after the date of conclusion of the dispute which has been transmitted to the ODR platform in accordance with point (iii) of point (c) of Article 10. That retention period shall also apply to personal data kept in national files by the ADR entity or the ODR contact point which dealt with the dispute concerned, except if the procedural rules applied by the ADR entity or any specific provisions of national law provide for a longer retention period.
+4. Each ODR advisor shall be regarded as a controller with respect to its data processing activities under this Regulation, in accordance with point (d) of Article 2 of Directive 95/46/EC, and shall ensure that those activities comply with national legislation adopted pursuant to Directive 95/46/EC in the Member State of the ODR contact point hosting the ODR advisor.
+5. Each ADR entity shall be regarded as a controller with respect to its data processing activities under this Regulation, in accordance with point (d) of Article 2 of Directive 95/46/EC, and shall ensure that those activities comply with national legislation adopted pursuant to Directive 95/46/EC in the Member State where the ADR entity is established.
+6. In relation to its responsibilities under this Regulation and the processing of personal data involved therein, the Commission shall be regarded as a controller in accordance with point (d) of Article 2 of Regulation (EC) No 45/2001.
+
+Article 13
+Data confidentiality and security
+1. ODR contact points shall be subject to rules of professional secrecy or other equivalent duties of confidentiality laid down in the legislation of the Member State concerned.
+2. The Commission shall take the appropriate technical and organisational measures to ensure the security of information processed under this Regulation, including appropriate data access control, a security plan and a security incident management, in accordance with Article 22 of Regulation (EC) No 45/2001.
+
+Article 14
+Consumer information
+1. Traders established within the Union engaging in online sales or service contracts, and online marketplaces established within the Union, shall provide on their websites an electronic link to the ODR platform. That link shall be easily accessible for consumers. Traders established within the Union engaging in online sales or service contracts shall also state their e-mail addresses.
+2. Traders established within the Union engaging in online sales or service contracts, which are committed or obliged to use one or more ADR entities to resolve disputes with consumers, shall inform consumers about the existence of the ODR platform and the possibility of using the ODR platform for resolving their disputes. They shall provide an electronic link to the ODR platform on their websites and, if the offer is made by e-mail, in that e-mail. The information shall also be provided, where applicable, in the general terms and conditions applicable to online sales and service contracts.
+3. Paragraphs 1 and 2 of this Article shall be without prejudice to Article 13 of Directive 2013/11/EU and the provisions on consumer information on out-of-court redress procedures contained in other Union legal acts, which shall apply in addition to this Article.
+4. The list of ADR entities referred to in Article 20(4) of Directive 2013/11/EU and its updates shall be published in the ODR platform.
+5. Member States shall ensure that ADR entities, the centres of the European Consumer Centres Network, the competent authorities defined in Article 18(1) of Directive 2013/11/EU, and, where appropriate, the bodies designated in accordance with Article 14(2) of Directive 2013/11/EU provide an electronic link to the ODR platform.
+6. Member States shall encourage consumer associations and business associations to provide an electronic link to the ODR platform.
+7. When traders are obliged to provide information in accordance with paragraphs 1 and 2 and with the provisions referred to in paragraph 3, they shall, where possible, provide that information together.
+
+Article 15
+Role of the competent authorities
+The competent authority of each Member State shall assess whether the ADR entities established in that Member State comply with the obligations set out in this Regulation.
+
+CHAPTER III
+FINAL PROVISIONS
+
+Article 16
+Committee procedure
+1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+2. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+3. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+4. Where the opinion of the committee under paragraphs 2 and 3 is to be obtained by written procedure, that procedure shall be terminated without result when, within the time-limit for delivery of the opinion, the chair of the committee so decides or a simple majority of committee members so request.
+
+Article 17
+Exercise of the delegation
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2. The power to adopt delegated acts referred to in Article 8(3) shall be conferred for an indeterminate period of time from 8 July 2013.
+3. The delegation of power referred to in Article 8(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+5. A delegated act adopted pursuant to Article 8(3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+Article 18
+Penalties
+Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+Article 19
+Amendment to Regulation (EC) No 2006/2004
+In the Annex to Regulation (EC) No 2006/2004 of the European Parliament and of the Council ( 12 ) the following point is added:
+‘21. | Regulation (EU) No 524/2013 of the European Parliament and of the Council of 21 May 2013 on online dispute resolution for consumer disputes (Regulation on consumer ODR) ( OJ L 165, 18.6.2013, p. 1 ): Article 14.’
+
+Article 20
+Amendment to Directive 2009/22/EC
+Directive 2009/22/EC of the European Parliament and of the Council ( 13 ) is amended as follows:
+(1) | in Article 1(1) and (2) and point (b) of Article 6(2), the words ‘Directives listed in Annex I’ are replaced with the words ‘Union acts listed in Annex I’;
+(2) | in the heading of Annex I, the words ‘LIST OF DIRECTIVES’ are replaced by the words ‘LIST OF UNION ACTS’;
+(3) | in Annex I, the following point is added: ‘15. Regulation (EU) No 524/2013 of the European Parliament and of the Council of 21 May 2013 on online dispute resolution for consumer disputes (Regulation on consumer ODR) ( OJ L 165, 18.6.2013, p. 1 ): Article 14.’
+
+Article 21
+Reports
+1. The Commission shall report to the European Parliament and the Council on the functioning of the ODR platform on a yearly basis and for the first time one year after the ODR platform has become operational.
+2. By 9 July 2018 and every three years thereafter the Commission shall submit to the European Parliament and the Council a report on the application of this Regulation, including in particular on the user-friendliness of the complaint form and the possible need for adaptation of the information listed in the Annex to this Regulation. That report shall be accompanied, if necessary, by proposals for adaptations to this Regulation.
+3. Where the reports referred to in paragraphs 1 and 2 are to be submitted in the same year, only one joint report shall be submitted.
+
+Article 22
+Entry into force
+1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+2. This Regulation shall apply from 9 January 2016, except for the following provisions:
+— | Article 2(3) and Article 7(1) and (5), which shall apply from 9 July 2015,
+— | Article 5(1) and (7), Article 6, Article 7(7), Article 8(3) and (4) and Articles 11, 16 and 17, which shall apply from 8 July 2013.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Strasbourg, 21 May 2013.
+For the European Parliament
+The President
+M. SCHULZ
+For the Council
+The President
+L. CREIGHTON
+( 1 ) OJ C 181, 21.6.2012, p. 99 .
+( 2 ) Position of the European Parliament of 12 March 2013 (not yet published in the Official Journal) and Decision of the Council of 22 April 2013.
+( 3 ) See page 63 of this Official Journal.
+( 4 ) OJ L 136, 24.5.2008, p. 3 .
+( 5 ) OJ L 144, 30.4.2004, p. 62 .
+( 6 ) OJ L 281, 23.11.1995, p. 31 .
+( 7 ) OJ L 8, 12.1.2001, p. 1 .
+( 8 ) OJ L 304, 22.11.2011, p. 64 .
+( 9 ) OJ L 55, 28.2.2011, p. 13 .
+( 10 ) OJ C 136, 11.5.2012, p. 1 .
+( 11 ) OJ L 178, 17.7.2000, p. 1 .
+( 12 ) OJ L 364, 9.12.2004, p. 1 .
+( 13 ) OJ L 110, 1.5.2009, p. 30 .
+
+ANNEX
+Information to be provided when submitting a complaint
+ | (1) | Whether the complainant party is a consumer or a trader;
+ | (2) | The name and e-mail and geographical address of the consumer;
+ | (3) | The name and e-mail, website and geographical address of the trader;
+ | (4) | The name and email and geographical address of the complainant party’s representative, if applicable;
+ | (5) | The language(s) of the complainant party or representative, if applicable;
+ | (6) | The language of the respondent party, if known;
+ | (7) | The type of good or service to which the complaint relates;
+ | (8) | Whether the good or service was offered by the trader and ordered by the consumer on a website or by other electronic means;
+ | (9) | The price of the good or service purchased;
+ | (10) | The date on which the consumer purchased the good or service;
+ | (11) | Whether the consumer has made direct contact with the trader;
+ | (12) | Whether the dispute is being or has previously been considered by an ADR entity or by a court;
+ | (13) | The type of complaint;
+ | (14) | The description of the complaint;
+ | (15) | If the complainant party is a consumer, the ADR entities the trader is obliged to or has committed to use in accordance with Article 13(1) of Directive 2013/11/EU, if known;
+ | (16) | If the complainant party is a trader, which ADR entity or entities the trader commits to or is obliged to use.

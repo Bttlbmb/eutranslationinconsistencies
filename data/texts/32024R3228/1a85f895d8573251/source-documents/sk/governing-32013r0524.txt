@@ -1,0 +1,326 @@
+NARIADENIE EURÓPSKEHO PARLAMENTU A RADY (EÚ) č. 524/2013
+z 21. mája 2013
+o riešení spotrebiteľských sporov online, ktorým sa mení nariadenie (ES) č. 2006/2004 a smernica 2009/22/ES (nariadenie o riešení spotrebiteľských sporov online)
+
+EURÓPSKY PARLAMENT A RADA EURÓPSKEJ ÚNIE,
+
+so zreteľom na Zmluvu o fungovaní Európskej únie, a najmä na jej článok 114,
+
+so zreteľom na návrh Európskej komisie,
+
+po postúpení návrhu legislatívneho aktu národným parlamentom,
+
+so zreteľom na stanovisko Európskeho hospodárskeho a sociálneho výboru ( 1 ) ,
+
+konajúc v súlade s riadnym legislatívnym postupom ( 2 ) ,
+
+keďže:
+
+(1) | V článku 169 ods. 1 a ods. 2 písm. a) Zmluvy o fungovaní Európskej únie (ZFEÚ) sa stanovuje, že Únia má prispievať k dosiahnutiu vysokej úrovne ochrany spotrebiteľov opatreniami, ktoré prijíma podľa článku 114 ZFEÚ. V článku 38 Charty základných práv Európskej únie sa stanovuje, že Únia svojimi politikami zabezpečí vysokú úroveň ochrany spotrebiteľa.
+
+(2) | V súlade s článkom 26 ods. 2 ZFEÚ má vnútorný trh zahŕňať oblasť bez vnútorných hraníc, v ktorej je zaručený voľný pohyb tovaru a služieb. Na to, aby spotrebitelia dôverovali elektronickému rozmeru vnútorného trhu a využívali ho, je potrebné, aby mali prístup k jednoduchým, efektívnym, rýchlym a nízkonákladovým spôsobom riešenia sporov, ktoré vznikajú pri predaji tovaru alebo poskytovaní služieb online. Toto je dôležité najmä vtedy, keď spotrebitelia nakupujú cezhranične.
+
+(3) | Komisia vo svojom oznámení z 13. apríla 2011 nazvanom Akt o jednotnom trhu – Dvanásť hybných síl podnecovania rastu a posilňovania dôvery – Spoločne za nový rast označila právne predpisy o alternatívnom riešení sporov (ARS), ktoré zahŕňajú rozmer elektronického obchodu, za jednu z dvanástich hybných síl podnecovania rastu a posilňovania dôvery v jednotný trh.
+
+(4) | Fragmentácia vnútorného trhu bráni úsiliu o zvýšenie konkurencieschopnosti a rastu. Okrem toho nerovnomerná dostupnosť, kvalita a informovanosť o jednoduchých, efektívnych, rýchlych a nízkonákladových spôsoboch riešenia sporov vzniknutých pri predaji tovaru a poskytovaní služieb v celej Únii, predstavuje prekážku v rámci vnútorného trhu, ktorá narúša dôveru spotrebiteľov a obchodníkov v cezhraničný nákup a predaj.
+
+(5) | Vo svojich záveroch z 24. a 25. marca a 23. októbra 2011 Európska rada vyzvala Európsky parlament a Radu, aby do konca roka 2012 prijali prvý súbor prioritných opatrení, ktoré jednotnému trhu dodajú nový impulz.
+
+(6) | Vnútorný trh je pre spotrebiteľov každodennou realitou, keď cestujú, nakupujú a realizujú platby. Spotrebitelia sú na vnútornom trhu kľúčovými hráčmi, a preto by mali byť v centre pozornosti. Elektronický rozmer vnútorného trhu sa stáva dôležitým pre spotrebiteľov, ako aj pre obchodníkov. Spotrebitelia čoraz viac nakupujú online a čoraz viac obchodníkov predáva online. Spotrebitelia a obchodníci by mali mať dôveru v uskutočňovanie transakcií online, preto je nevyhnutné odstrániť existujúce prekážky a zvýšiť dôveru spotrebiteľov. Na dosiahnutie tohto cieľa by vo veľkej miere mohla prispieť dostupnosť spoľahlivého a efektívneho riešenia sporov online (RSO).
+
+(7) | Prístup k ľahkému a nízkonákladovému riešeniu sporov môže posilniť dôveru spotrebiteľov a obchodníkov v digitálny jednotný trh. Napriek tomu však spotrebitelia a obchodníci ešte stále čelia prekážkam pri hľadaní mimosúdnych riešení, najmä v prípade sporov vzniknutých pri cezhraničných transakciách online. V súčasnosti preto zostávajú takéto spory často nevyriešené.
+
+(8) | RSO ponúka jednoduché, efektívne, rýchle a nízkonákladové mimosúdne riešenie sporov vzniknutých pri transakciách online. V súčasnosti však chýbajú mechanizmy, vďaka ktorým by spotrebitelia a obchodníci mohli takéto spory vyriešiť elektronickými prostriedkami; tento nedostatok vedie k ujme spotrebiteľa, predstavuje prekážku najmä pri uskutočňovaní cezhraničných transakcií online a vytvára rozdiely v podmienkach pre obchodníkov, čím súčasne brzdí celkový rozvoj obchodu online.
+
+(9) | Toto nariadenie by sa malo vzťahovať na mimosúdne riešenie sporov začatých spotrebiteľmi s pobytom v Únii voči obchodníkom so sídlom v Únii, na ktoré sa vzťahuje smernica Európskeho parlamentu a Rady 2013/11/EÚ z 21. mája 2013 o alternatívnom riešení spotrebiteľských sporov (smernica o alternatívnom riešení spotrebiteľských sporov) ( 3 ) .
+
+(10) | V záujme zabezpečenia toho, aby sa platforma RSO mohla používať aj na postupy ARS, ktoré obchodníkom umožňujú predkladať sťažnosti voči spotrebiteľom, by sa toto nariadenie malo vzťahovať aj na mimosúdne riešenie sporov, ktoré začnú obchodníci voči spotrebiteľom v prípade, že subjekty ARS uvedené na zozname v súlade s článkom 20 ods. 2 smernice 2013/11/EÚ + ponúkajú príslušné postupy ARS. Uplatňovaním tohto nariadenia na takéto spory by členským štátom nemala vzniknúť povinnosť zabezpečiť, aby subjekty ARS ponúkali takéto postupy.
+
+(11) | Napriek tomu, že platformy RSO budú využívať najmä spotrebitelia a obchodníci, ktorí uskutočňujú cezhraničné transakcie online, toto nariadenie by sa malo vzťahovať aj na domáce transakcie online, aby sa v oblasti obchodu online umožnili skutočne rovnaké podmienky.
+
+(12) | Týmto nariadením by nemala byť dotknutá smernica Európskeho parlamentu a Rady 2008/52/ES z 21. mája 2008 o určitých aspektoch mediácie v občianskych a obchodných veciach ( 4 ) .
+
+(13) | Vymedzenie pojmu „spotrebiteľ“ by malo zahŕňať fyzické osoby, ktoré konajú mimo svojej obchodnej, podnikateľskej, remeselnej alebo profesijnej činnosti. Ak sa však zmluva uzavrie čiastočne na účely obchodnej činnosti a čiastočne na účely nesúvisiace s obchodnou činnosťou dotknutej osoby (dvojúčelové zmluvy), pričom účel obchodnej činnosti je obmedzený do tej miery, že v celkovom kontexte dodávky neprevažuje, takáto osoba by sa tiež mala považovať za spotrebiteľa.
+
+(14) | Vymedzenie pojmu „kúpna zmluva alebo zmluva o službách online“ by sa malo vzťahovať na kúpnu zmluvu alebo zmluvu o službách, pri ktorej obchodník alebo jeho sprostredkovateľ ponúkol tovar alebo služby prostredníctvom webovej stránky alebo iných elektronických prostriedkov a spotrebiteľ si uvedený tovar alebo služby objednal na tejto webovej stránke alebo prostredníctvom iných elektronických prostriedkov. Malo by sa vzťahovať aj na prípady, keď sa spotrebiteľ dostal na webovú stránku alebo inú službu informačnej spoločnosti prostredníctvom mobilného elektronického zariadenia, akým je napríklad mobilný telefón.
+
+(15) | Toto nariadenie by sa nemalo vzťahovať na spory medzi spotrebiteľmi a obchodníkmi, ktoré vznikajú z kúpnych zmlúv alebo zmlúv o službách uzavretých off-line a na spory medzi obchodníkmi.
+
+(16) | Toto nariadenie by sa malo vykladať v spojení so smernicou 2013/11/EÚ, v ktorej sa od členských štátov vyžaduje, aby zabezpečili, že všetky spory medzi spotrebiteľmi s pobytom a obchodníkmi so sídlom v Únii, ktoré vznikli pri predaji tovaru alebo poskytovaní služieb, sa môžu predložiť subjektu ASR.
+
+(17) | Členské štáty by mali podporovať spotrebiteľov, aby predtým, ako prostredníctvom platformy RSO predložia sťažnosť subjektu ARS, vhodným spôsobom skontaktovali obchodníka v záujme sprostredkovania zmierlivého vyriešenia sporu.
+
+(18) | Cieľom tohto nariadenia je vytvoriť platformu RSO na úrovni Únie. Platforma RSO by mala mať podobu interaktívnej webovej stránky s jediným prístupovým miestom pre spotrebiteľov a obchodníkov, ktorí sa snažia mimosúdne vyriešiť spory vzniknuté pri transakciách online. Prostredníctvom platformy RSO by sa mali poskytovať všeobecné informácie o mimosúdnom riešení zmluvných sporov medzi obchodníkmi a spotrebiteľmi z kúpnych zmlúv alebo zo zmlúv o službách online. Mala by umožniť spotrebiteľom a obchodníkom predkladať sťažnosti vyplnením elektronického formulára sťažnosti, ktorý je dostupný vo všetkých úradných jazykoch inštitúcií Únie, a priložiť relevantné dokumenty. Sťažnosti by mala postúpiť príslušnému subjektu ARS, ktorý je príslušný riešiť dotknutý spor. Platforma RSO by mala bezplatne ponúkať elektronický nástroj správy prípadov, ktorý subjektom ARS umožní viesť postup riešenia sporu s účastníkmi prostredníctvom platformy RSO. Subjekty ARS by nemali byť povinné používať elektronický nástroj správy prípadov.
+
+(19) | Komisia by mala byť zodpovedná za vývoj, prevádzku a údržbu platformy RSO a poskytovať všetky technické zariadenia potrebné na jej fungovanie. Platforma RSO by mala obsahovať funkciu elektronického prekladu, ktorá účastníkom a subjektu ARS umožní prípadný preklad informácií, ktoré sa vymieňajú prostredníctvom platformy RSO a sú potrebné na vyriešenie sporu. Táto funkcia by mala vedieť zabezpečiť všetky potrebné preklady a podľa potreby umožňovať ľudské zásahy. Komisia by v rámci platformy RSO mala tiež sťažovateľom poskytovať informácie o možnosti požiadať kontaktné miesta RSO o pomoc.
+
+(20) | Platforma RSO by mala umožniť bezpečnú výmenu údajov so subjektmi ARS a rešpektovať základné zásady európskeho rámca interoperability prijatého podľa rozhodnutia Európskeho parlamentu a Rady 2004/387/ES z 21. apríla 2004 o vzájomnej súčinnosti pri poskytovaní paneurópskych e-government služieb pre verejnú správu, podnikateľské subjekty a občanov (IDABC) ( 5 ) .
+
+(21) | Platforma RSO by mala byť prístupná najmä prostredníctvom portálu Vaša Európa zriadeného v súlade s prílohou II k rozhodnutiu 2004/387/ES, ktorým sa poskytuje prístup k paneurópskym viacjazyčným informáciám a interaktívnych službám pre podniky a občanov v Únii. Platforma RSO by mala byť na portáli Vaša Európa zvýraznená.
+
+(22) | Platforma RSO na úrovni Únie by mala vychádzať z existujúcich subjektov ARS v členských štátoch a mala by byť v súlade s právnymi tradíciami členských štátov. Subjekty ARS, ktorým bola sťažnosť postúpená prostredníctvom platformy RSO, by preto mali uplatňovať svoje vlastné procedurálne pravidlá vrátane pravidiel týkajúcich sa nákladov. Cieľom tohto nariadenia je však stanoviť určité spoločné pravidlá uplatniteľné na uvedené postupy, ktoré zabezpečia ich účinnosť. Mali by zahŕňať pravidlá na zabezpečenie toho, aby si takéto riešenie sporov nevyžadovalo fyzickú prítomnosť účastníkov alebo ich zástupcov pred subjektom ARS, ibaže jeho procedurálne pravidlá ustanovujú takúto možnosť a účastníci súhlasia.
+
+(23) | Zabezpečením registrácie všetkých subjektov ARS, ktoré sú uvedené na zozname v súlade s článkom 20 ods. 2 smernice 2013/11/EÚ v rámci platformy RSO, by sa malo umožniť, aby sa na všetky prípady sporov z kúpnych zmlúv alebo zmlúv o službách online vzťahovalo mimosúdne riešenie online.
+
+(24) | Toto nariadenie by nemalo brániť v činnosti žiadnemu existujúcemu subjektu riešenia sporov, ktorý pôsobí online, alebo ktorémukoľvek mechanizmu RSO v rámci Únie. Nemalo by brániť subjektom alebo mechanizmom riešenia sporov, aby riešili spory online, ktoré im boli priamo predložené.
+
+(25) | V každom členskom štáte by sa mali určiť kontaktné miesta, ktoré budú hostiteľom najmenej dvoch poradcov pre RSO. Kontaktné miesta RSO by mali poskytovať podporu účastníkom sporu predloženému prostredníctvom platformy RSO bez toho, aby museli prekladať dokumenty súvisiace so sporom. Členské štáty by mali mať možnosť preniesť zodpovednosť za kontaktné miesta RSO na svoje centrá siete európskych spotrebiteľských centier. Členské štáty by mali uvedenú možnosť využiť, aby kontaktným miestam umožnili v plnej miere využívať skúsenosti centier v rámci siete európskych spotrebiteľských centier pri uľahčovaní urovnávania sporov medzi spotrebiteľmi a obchodníkmi. Komisia by mala zriadiť sieť kontaktných miest RSO na uľahčenie ich spolupráce a činnosti a v spolupráci s členskými štátmi poskytnúť kontaktným miestam RSO vhodnú odbornú prípravu.
+
+(26) | Právo na účinný prostriedok nápravy a právo na spravodlivý proces sú základnými právami ustanovených v článku 47 Charty základných práv Európskej únie. Účelom RSO nie je nahradiť súdne konanie a nemôže sa navrhovať s týmto cieľom, zároveň by nemalo spotrebiteľov ani obchodníkov zbaviť ich práva na súdnu ochranu. Toto nariadenie by preto nemalo brániť účastníkom uplatniť ich právo na prístup k súdnemu systému.
+
+(27) | Spracúvanie informácií podľa tohto nariadenia by malo podliehať prísnym zárukám zachovania dôvernosti a malo by byť v súlade s pravidlami ochrany osobných údajov stanovenými v smernici Európskeho parlamentu a Rady 95/46/ES z 24. októbra 1995 o ochrane fyzických osôb pri spracovaní osobných údajov a voľnom pohybe týchto údajov ( 6 ) a v nariadení Európskeho parlamentu a Rady (ES) č. 45/2001 z 18. decembra 2000 o ochrane jednotlivcov so zreteľom na spracovanie osobných údajov inštitúciami a orgánmi Spoločenstva a o voľnom pohybe takýchto údajov ( 7 ) . Tieto pravidlá by sa mali uplatňovať na spracúvanie osobných údajov, ktoré podľa tohto nariadenia vykonávajú rôzni aktéri platformy RSO, či už samostatne, alebo v spolupráci s inými takýmito aktérmi.
+
+(28) | Dotknuté osoby by mali byť informované o spracúvaní svojich osobných údajov v platforme RSO a mali by byť informované o svojich právach súvisiacich s uvedeným spracúvaním, a to formou zrozumiteľného vyhlásenia o ochrane súkromia, ktoré Komisia sprístupní verejnosti, a v ktorom sa jasným a jednoduchým spôsobom vysvetľujú spracovateľské operácie, za ktorých výkon zodpovedajú rôzni aktéri platformy, v súlade s článkami 11 a 12 nariadenia (ES) č. 45/2001 a s vnútroštátnymi právnymi predpismi prijatými podľa článkov 10 a 11 smernice 95/46/ES a zároveň by k takémuto spracúvaniu mali dať svoj súhlas.
+
+(29) | Týmto nariadením by nemali byť dotknuté ustanovenia vnútroštátnych právnych predpisov, ktoré sa týkajú dôvernosti v súvislosti s ARS.
+
+(30) | V záujme zabezpečenia širokej informovanosti spotrebiteľov o existencii platformy RSO by obchodníci so sídlom na území Únie, ktorí uzatvárajú kúpne zmluvy online, mali uviesť elektronický odkaz na platformu RSO na svojich webových stránkach. Obchodníci by mali tiež uviesť svoju e-mailovú adresu, aby mali spotrebitelia prvý kontaktný bod. Významná časť kúpnych zmlúv a zmlúv o službách sa uzatvára prostredníctvom obchodných miest online, ktoré spájajú spotrebiteľov a obchodníkov a uľahčujú medzi nimi uzatváranie transakcií online. Obchodné miesta online sú platformy online, ktoré obchodníkom umožňujú sprístupniť svoje produkty a služby spotrebiteľom. Takéto obchodné miesta online by preto mali mať rovnakú povinnosť uvádzať elektronický odkaz na platformu RSO. Touto povinnosťou by nemal byť dotknutý článok 13 smernice 2013/11/EÚ týkajúci sa požiadavky, aby obchodníci informovali spotrebiteľov o postupoch ARS, ktoré sa vzťahujú na týchto obchodníkov bez ohľadu na to, či sa zaviažu využívať postupy ARS so spotrebiteľmi. Touto povinnosťou by nemal byť dotknutý ani článok 6 ods. 1 písm. t) a článok 8 smernice Európskeho parlamentu a Rady 2011/83/EÚ z 25. októbra 2011 o právach spotrebiteľov ( 8 ) . V článku 6 ods. 1 písm. t) smernice 2011/83/EÚ sa stanovuje, že v prípade spotrebiteľských zmlúv uzavretých na diaľku alebo mimo prevádzkových priestorov má obchodník informovať spotrebiteľa o možnosti využiť mimosúdny mechanizmus riešenia sporov prostredníctvom sťažností a prostriedkov nápravy, ktorému podlieha obchodník a o podmienkach využitia tohto postupu ešte predtým, než sa spotrebiteľ zaviaže zmluvou. Z tých istých dôvodov, ktorými je informovanosť spotrebiteľov, by členské štáty mali podporovať združenia spotrebiteľov a združenia podnikateľov, aby uvádzali elektronický odkaz na webovú stránku platformy RSO.
+
+(31) | Na účely zohľadnenia kritérií, podľa ktorých subjekty ARS vymedzujú svoju právomoc, by sa mala Komisii udeliť právomoc prijímať akty v súlade s článkom 290 ZFEÚ, prispôsobiť informácie, ktoré má sťažovateľ poskytnúť v elektronickom formulári sťažnosti sprístupnenom platformou RSO. Je osobitne dôležité, aby Komisia počas prípravných prác uskutočnila vhodné konzultácie, a to aj na expertnej úrovni. Pri príprave a vypracovávaní delegovaných aktov by mala Komisia zabezpečiť súčasné, včasné a vhodné postúpenie príslušných dokumentov Európskemu parlamentu a Rade.
+
+(32) | S cieľom zabezpečiť jednotné podmienky vykonávania tohto nariadenia by sa mali na Komisiu preniesť vykonávacie právomoci, pokiaľ ide o fungovanie platformy RSO, spôsob predkladania sťažností a spoluprácu v rámci siete kontaktných miest pre RSO. Uvedené právomoci by sa mali vykonávať v súlade s nariadením Európskeho parlamentu a Rady (EÚ) č. 182/2011 zo 16. februára 2011, ktorým sa ustanovujú pravidlá a všeobecné zásady mechanizmu, na základe ktorého členské štáty kontrolujú vykonávanie vykonávacích právomocí Komisie ( 9 ) . Pri prijímaní vykonávacích aktov v súvislosti s príslušným elektronickým formulárom sťažnosti by sa vzhľadom na jeho čisto technický charakter mal použiť konzultačný postup. Pri prijímaní pravidiel týkajúcich sa spôsobov spolupráce medzi poradcami pre RSO pôsobiacimi v sieti kontaktných miest pre RSO by sa mal použiť postup preskúmania.
+
+(33) | Pri uplatňovaní tohto nariadenia by Komisia mala v prípade potreby konzultovať európskeho dozorného úradníka pre ochranu údajov.
+
+(34) | Keďže cieľ tohto nariadenia, konkrétne zriadenie európskej platformy RSO pre spory online, ktorá by sa spravovala spoločnými pravidlami, nie je možné uspokojivo dosiahnuť na úrovni samotných členských štátov, ale vzhľadom na rozsah a dôsledky opatrenia ich možno lepšie dosiahnuť na úrovni Únie, môže Únia prijať opatrenia v súlade so zásadou subsidiarity podľa článku 5 Zmluvy o Európskej únii. V súlade so zásadou proporcionality podľa uvedeného článku toto nariadenie neprekračuje rámec nevyhnutný na dosiahnutie tohto cieľa.
+
+(35) | V tomto nariadení sú rešpektované základné práva a dodržané zásady, uznané najmä v Charte základných práv Európskej únie a osobitne v jej článkoch 7, 8, 38 a 47.
+
+(36) | Európsky dozorný úradník pre ochranu údajov bol konzultovaný v súlade s článkom 28 ods. 2 nariadenia (ES) č. 45/2001 a vydal stanovisko 12. januára 2012 ( 10 ) ,
+
+PRIJALI TOTO NARIADENIE:
+KAPITOLA I
+VŠEOBECNÉ USTANOVENIA
+
+Článok 1
+Predmet úpravy
+Cieľom tohto nariadenia je prostredníctvom dosiahnutia vysokej úrovne ochrany spotrebiteľa prispieť k riadnemu fungovaniu vnútorného trhu, a najmä jeho elektronického rozmeru, a to zriadením Európskej platformy RSO (ďalej len „platforma RSO“), ktorá uľahčí nezávislé, nestranné, transparentné, účinné, rýchle a spravodlivé mimosúdne riešenie sporov online medzi spotrebiteľmi a obchodníkmi.
+
+Článok 2
+Rozsah pôsobnosti
+1. Toto nariadenie sa vzťahuje na mimosúdne riešenie sporov týkajúcich sa zmluvných záväzkov z kúpnych zmlúv alebo zmlúv o službách online medzi spotrebiteľmi s pobytom v Únii a obchodníkmi so sídlom v Únii prostredníctvom zásahu subjektu ARS uvedeného na zozname v súlade s článkom 20 ods. 2 smernice 2013/11/EÚ, ktoré zahŕňa využitie platformy RSO.
+2. Toto nariadenie sa vzťahuje na mimosúdne riešenie sporov uvedených v odseku 1, ktoré začne obchodník voči spotrebiteľovi v rozsahu, v ktorom právne predpisy členského štátu, v ktorom má spotrebiteľ obvyklý pobyt, umožňujú riešenie takýchto sporov prostredníctvom zásahu subjektu ARS.
+3. Členské štáty informujú Komisiu o tom, či ich právne predpisy umožňujú, aby sa spory uvedené v odseku 1, ktoré začne obchodník voči spotrebiteľovi, riešili prostredníctvom zásahu subjektu ARS. Príslušné orgány oznámia Komisii spolu so zoznamom uvedeným v článku 20 ods. 2 smernice 2013/11/EÚ informácie o tom, ktoré subjekty ARS budú takéto spory riešiť.
+4. Uplatňovaním tohto nariadenia na spory uvedené v odseku 1, ktoré začne obchodník voči spotrebiteľovi, nevzniká členským štátom povinnosť zabezpečiť, aby subjekty ARS ponúkali postupy pre mimosúdne riešenie takýchto sporov.
+
+Článok 3
+Vzťah k iným právnym aktom Únie
+Týmto nariadením nie je dotknutá smernica 2008/52/ES.
+
+Článok 4
+Vymedzenie pojmov
+1. Na účely tohto nariadenia:
+a) | „spotrebiteľ“ je spotrebiteľ v zmysle článku 4 ods. 1 písm. a) smernice 2013/11/EÚ;
+b) | „obchodník“ je obchodník v zmysle článku 4 ods. 1 písm. b) smernice 2013/11/EÚ;
+c) | „kúpna zmluva“ je kúpna zmluva v zmysle článku 4 písm. ods. 1 písm. c) smernice 2013/11/EÚ;
+d) | „zmluva o službách“ je zmluva o službách v zmysle článku 4 písm. ods. 1 písm. d) smernice 2013/11/EÚ;
+e) | „kúpna zmluva alebo zmluva o službách online“ je kúpna zmluva alebo zmluva o službách, pri ktorej obchodník alebo jeho sprostredkovateľ ponúkol tovar alebo služby na webovej stránke alebo prostredníctvom iných elektronických prostriedkov a spotrebiteľ si uvedený tovar alebo služby objednal na danej webovej stránke alebo prostredníctvom iných elektronických prostriedkov;
+f) | „obchodné miesto online“ je poskytovateľ služieb v zmysle článku 2 písm. b) smernice Európskeho parlamentu a Rady 2000/31/ES z 8. júna 2000 o určitých právnych aspektoch služieb informačnej spoločnosti na vnútornom trhu, najmä o elektronickom obchode (smernica o elektronickom obchode) ( 11 ) , ktorý umožňuje spotrebiteľom a obchodníkom uzatvoriť kúpne zmluvy alebo zmluvy o službách online na webovej stránke obchodného miesta online;
+g) | „elektronický prostriedok“ je elektronické zariadenie určené na spracúvanie (vrátane digitálnej kompresie) a uchovávanie údajov, ktoré sú v plnej miere prenášané, zasielané a prijímané prostredníctvom káblových rozvodov, rádiových vĺn, optických prostriedkov alebo iných elektromagnetických prostriedkov;
+h) | „postup alternatívneho riešenia sporov“ (ďalej len „postup ARS“) je postup mimosúdneho riešenia sporov uvedených v článku 2 tohto nariadenia;
+i) | „subjekt alternatívneho riešenia sporov“ (ďalej len „subjekt ARS“) je subjekt ARS v zmysle článku 4 ods. 1 písm. h) smernice 2013/11/EÚ;
+j) | „sťažovateľ“ je spotrebiteľ alebo obchodník, ktorý predložil sťažnosť prostredníctvom platformy RSO;
+k) | „respondent“ je spotrebiteľ alebo obchodník, voči ktorému bola predložená sťažnosť prostredníctvom platformy RSO;
+l) | „príslušný orgán“ je orgán verejnej moci v zmysle článku 4 ods. 1 písm. i) smernice 2013/11/EÚ;
+m) | „osobné údaje“ sú akékoľvek informácie, ktoré sa týkajú identifikovanej alebo identifikovateľnej fyzickej osoby (ďalej len „dotknutej osoby“); identifikovateľná osoba je osoba, ktorá môže byť priamo alebo nepriamo identifikovaná, najmä uvedením identifikačného čísla alebo jedného alebo viacerých faktorov špecifických pre fyzickú, fyziologickú, duševnú, ekonomickú, kultúrnu alebo spoločenskú identitu uvedenej osoby.
+2. Sídlo obchodníka a subjektu ARS sa určí v súlade s článkom 4 ods. 2 a 3 smernice 2013/11/EÚ.
+
+KAPITOLA II
+PLATFORMA RSO
+
+Článok 5
+Zriadenie platformy RSO
+1. Komisia vyvinie platformu RSO a nesie zodpovednosť za jej prevádzku vrátane všetkých prekladateľských funkcií potrebných na účely tohto nariadenia, jej údržbu, financovanie a bezpečnosť údajov. Platforma RSO bude užívateľsky jednoduchá. Prostredníctvom vývoja, prevádzky a údržby platformy RSO sa zabezpečí ochrana súkromia jej používateľov od štádia návrhu (ďalej len „ochrana súkromia už v štádiu návrhu“) a v čo najväčšej možnej miere aj prístupnosť a ľahké využívanie platformy RSO pre všetkých, a to aj pre zraniteľných používateľov (ďalej len „návrh pre všetkých“).
+2. Platforma RSO je jediným prístupovým miestom pre spotrebiteľov a obchodníkov, ktorí sa snažia o mimosúdne riešenie sporov, na ktoré sa vzťahuje toto nariadenie. Je interaktívnou webovou stránkou, ktorá je elektronicky a bezplatne prístupná vo všetkých úradných jazykoch inštitúcií Únie.
+3. Komisia platformu RSO primerane sprístupní na svojich webových stránkach, prostredníctvom ktorých poskytuje informácie občanom a podnikom v Únii, a to najmä prostredníctvom portálu Vaša Európa, zriadenom v súlade s rozhodnutím 2004/387/ES.
+4. Platforma RSO má tieto funkcie:
+a) | poskytovať elektronický formulár sťažnosti, ktorý môže sťažovateľ vyplniť v súlade s článkom 8;
+b) | informovať respondenta o sťažnosti;
+c) | identifikovať príslušný subjekt alebo subjekty ARS a postúpiť sťažnosť subjektu ARS, ktorý sa účastníci dohodli využiť, a to v súlade s článkom 9;
+d) | bezplatne ponúkať elektronický nástroj správy prípadov, ktorý účastníkom a subjektu ARS umožní viesť postup riešenia sporu online prostredníctvom platformy RSO;
+e) | zabezpečiť pre účastníkov a subjekt ARS preklad informácií, ktoré sú potrebné na vyriešenie sporu a ktoré sa vymieňajú prostredníctvom platformy RSO;
+f) | poskytnúť elektronický formulár, prostredníctvom ktorého subjekty ARS postúpia informácie uvedené v článku 10 písm. c);
+g) | zabezpečiť systém na poskytnutie spätnej väzby, ktorý účastníkom umožní vyjadriť názory na fungovanie platformy RSO a na subjekt ARS, ktorý riešil ich spor;
+h) | sprístupniť verejnosti tieto informácie: i) všeobecné informácie o ARS ako prostriedku mimosúdneho urovnania sporov; ii) informácie o subjektoch ARS uvedených na zozname v súlade s článkom 20 ods. 2 smernice 2013/11/EÚ, ktoré sú príslušné na riešenie sporov, na ktoré sa vzťahuje toto nariadenie; iii) príručku online o spôsoboch predkladania sťažností prostredníctvom platformy RSO; iv) informácie vrátane kontaktných údajov, ktoré sa týkajú kontaktných miest RSO určených členskými štátmi v súlade s článkom 7 ods. 1 tohto nariadenia; v) štatistické údaje o výsledkoch sporov, ktoré sa predložili subjektom ARS prostredníctvom platformy RSO.
+5. Komisia zabezpečí, aby boli informácie uvedené v odseku 4 písm. h) presné, aktuálne a uvedené jasným, zrozumiteľným a ľahko dostupným spôsobom.
+6. Subjekty ARS uvedené na zozname v súlade s článkom 20 ods. 2 smernice 2013/11/EÚ, ktoré sú príslušné na riešenie sporov, na ktoré sa vzťahuje toto nariadenie, sa zaregistrujú elektronicky na platforme RSO.
+7. Komisia prijíma opatrenia týkajúce sa spôsobov vykonávania funkcií stanovených v odseku 4 tohto článku prostredníctvom vykonávacích aktov. Tieto vykonávacie akty sa prijímajú v súlade s postupom preskúmania uvedeným v článku 16 ods. 3 tohto nariadenia.
+
+Článok 6
+Testovanie platformy RSO
+1. Komisia do 9. januára 2015 otestuje technické fungovanie a jednoduchosť používania platformy RSO a formulára na podávanie sťažností, a to aj pokiaľ ide o preklady. Testovanie sa uskutoční a vyhodnotí v spolupráci s expertmi na RSO z členských štátov a zástupcami spotrebiteľov a obchodníkov. Komisia predloží správu o výsledku testovania Európskemu parlamentu a Rade a prijme primerané opatrenia na riešenie prípadných problémov s cieľom zabezpečiť účinné fungovanie platformy RSO.
+2. V správe uvedenej v odseku 1 tohto článku Komisia zároveň opíše technické a organizačné opatrenia, ktoré zamýšľa prijať s cieľom zabezpečiť, aby platforma RSO spĺňala požiadavky týkajúce sa ochrany súkromia ustanovené v nariadení (ES) č. 45/2001.
+
+Článok 7
+Sieť kontaktných miest na RSO
+1. Každý členský štát určí jedno kontaktné miesto RSO a oznámi Komisii jeho názov a kontaktné údaje. Členské štáty môžu preniesť zodpovednosť za kontaktné miesta RSO na svoje centrá siete európskych spotrebiteľských centier, na združenia spotrebiteľov alebo na akýkoľvek iný subjekt. Každé kontaktné miesto RSO je hostiteľom najmenej dvoch poradcov pre RSO.
+2. Kontaktné miesta RSO poskytujú podporu pre riešenie sporov v súvislosti so sťažnosťami predloženými prostredníctvom platformy RSO, a to plnením týchto funkcií:
+a) | na požiadanie sprostredkovanie komunikácie medzi účastníkmi a príslušným subjektom ARS, ktoré zahŕňa najmä: i) pomoc pri predkladaní sťažnosti a prípadne súvisiacej dokumentácie; ii) poskytovanie všeobecných informácií o právach spotrebiteľa v súvislosti s kúpnymi zmluvami alebo zmluvami o službách, ktoré sa uplatňujú v členskom štáte kontaktného miesta RSO hosťujúcom dotknutých poradcov pre RSO, účastníkom a subjektom ARS; iii) poskytovanie informácií o fungovaní platformy RSO; iv) poskytnutie procedurálnych pravidiel s vysvetlením, ktoré uplatňujú identifikované subjekty ARS, účastníkom; v) informovanie sťažovateľov o iných prostriedkoch nápravy v prípade, že sa spor nemôže vyriešiť prostredníctvom platformy RSO;
+b) | predkladaním správy o činnosti, ktorá sa zakladá na praktických skúsenostiach získaných pri výkone ich funkcií, Komisii a členským štátom, a to každé dva roky.
+3. Kontaktné miesto RSO nemá povinnosť vykonávať funkcie uvedené v odseku 2 v prípade sporov, pri ktorých majú účastníci obvyklý pobyt v tom istom členskom štáte.
+4. Bez ohľadu na odsek 3 sa členské štáty môžu s prihliadnutím na vnútroštátne okolnosti rozhodnúť, že kontaktné miesto RSO bude vykonávať jednu alebo viacero funkcií uvedených v odseku 2 v prípade sporov, ktorých účastníci majú obvyklý pobyt v tom istom členskom štáte.
+5. Komisia zriadi sieť kontaktných miest na riešenie sporov online (ďalej len „sieť kontaktných miest RSO“), ktorá umožní spoluprácu medzi kontaktnými miestami a prispeje k výkonu funkcií uvedených v odseku 2.
+6. Komisia zvolá aspoň dvakrát za rok stretnutie členov siete kontaktných miest RSO, aby umožnila výmenu najlepších postupov a diskusiu o akýchkoľvek problémoch, ktoré sa opakovane vyskytli pri prevádzke platformy RSO.
+7. Komisia prijíma pravidlá týkajúce sa spôsobov spolupráce medzi kontaktnými miestami RSO prostredníctvom vykonávacích aktov. Tieto vykonávacie akty sa prijímajú v súlade s postupom preskúmania uvedeným v článku 16 ods. 3.
+
+Článok 8
+Predkladanie sťažnosti
+1. Pri predkladaní sťažnosti platforme RSO sťažovateľ vyplní elektronický formulár sťažnosti. Formulár sťažnosti je užívateľsky jednoduchý a jednoducho prístupný na platforme RSO.
+2. Informácie, ktoré má predložiť sťažovateľ, musia byť dostatočné na určenie príslušného subjektu ARS. Tieto informácie sú uvedené v prílohe k tomuto nariadeniu. Sťažovateľ môže priložiť dokumenty na podporu sťažnosti.
+3. Komisia je splnomocnená v súlade s článkom 17 tohto nariadenia prijímať delegované akty s cieľom upraviť informácie uvedené v prílohe k tomuto nariadeniu, aby zohľadnila kritériá, podľa ktorých subjekty ARS, ktoré sú uvedené v súlade s článkom 20 ods. 2 smernice 2013/11/EÚ a ktoré riešia spory, na ktoré sa vzťahuje toto nariadenie, vymedzujú svoju právomoc.
+4. Komisia stanovuje pravidlá, pokiaľ ide o záležitosti, ktoré sa týkajú elektronického formulára sťažnosti, prostredníctvom vykonávacích aktov. Uvedené vykonávacie akty sa prijímajú v súlade s konzultačným postupom uvedeným v článku 16 ods. 2.
+5. Prostredníctvom elektronického formulára sťažností a jeho príloh sa spracúvajú len údaje, ktoré sú presné, relevantné a ktorých rozsah zodpovedá účelom, na ktoré boli zhromaždené.
+
+Článok 9
+Spracúvanie a postupovanie sťažnosti
+1. Sťažnosť predložená platforme RSO sa spracúva v prípade, že boli vyplnené všetky potrebné oddiely elektronického formulára sťažnosti.
+2. Ak formulár sťažnosti nebol riadne vyplnený, sťažovateľ musí byť informovaný o tom, že sťažnosť nie je možné ďalej spracovať, pokiaľ sa neposkytnú chýbajúce informácie.
+3. Po prijatí riadne vyplneného formulára sťažnosti zašle platforma RSO bezodkladne a jednoduchou prístupnou formou respondentovi v jednom z úradných jazykov inštitúcií Únie, ktoré si respondent zvolil, sťažnosť spolu s týmito údajmi:
+a) | informáciu o tom, že účastníci sa musia dohodnúť na subjekte ARS, aby sa mu mohla žiadosť postúpiť a o tom, že v prípade, ak účastníci nedospejú k dohode alebo sa neidentifikuje príslušný subjekt ARS, sťažnosť sa ďalej nebude spracúvať;
+b) | informáciu o subjekte alebo subjektoch ARS, ktoré sú príslušné riešiť sťažnosť, ak sa takýto subjekt alebo subjekty uvádzajú v elektronickom formulári sťažnosti, alebo sa identifikovali v rámci platformy RSO na základe informácií poskytnutých vo formulári;
+c) | v prípade, že je respondentom obchodník, výzvu uviesť do 10 kalendárnych dní: — či sa obchodník zaväzuje alebo má povinnosť využiť konkrétny subjekt ARS na riešenie sporov so spotrebiteľmi a — pokiaľ obchodník nemá povinnosť využiť konkrétny subjekt ARS, či je ochotný využiť niektorý subjekt alebo subjekty ARS uvedené v písmene b);
+d) | v prípade, že je respondentom spotrebiteľ a obchodník má povinnosť využiť osobitný subjekt ARS, výzvu uviesť do 10 kalendárnych dní súhlas s týmto subjektom ARS, alebo v prípade, že obchodník nemá povinnosť využiť konkrétny subjekt ARS, výzvu vybrať si jeden alebo viacero subjektov ARS, ktoré sú uvedené v písmene b);
+e) | názov a kontaktné údaje kontaktného miesta RSO v členskom štáte, v ktorom má respondent sídlo alebo obvyklý pobyt, ako aj stručný opis funkcií uvedených v článku 7 ods. 2 písm. a).
+4. Po prijatí informácií uvedených v odseku 3 písm. c) alebo d) od sťažovateľa oznámi platforma RSO bezodkladne a jednoducho prístupnou formou respondentovi v jednom z úradných jazykov inštitúcií Únie, ktorý si vybral tieto informácie:
+a) | informácie uvedené v odseku 3 písm. a);
+b) | v prípade, že je sťažovateľom spotrebiteľ, informácie o subjekte alebo subjektoch ARS, ktoré uvedie obchodník v súlade s odsekom 3 písm. c), a výzvu dohodnúť sa do desiatich kalendárnych dní na subjekte ARS;
+c) | v prípade, že je sťažovateľom obchodník, ktorý nemá povinnosť využiť konkrétny subjekt ARS, informácie o subjekte alebo subjektoch ARS, ktoré uvedie spotrebiteľ v súlade s odsekom 3 písm. d), a výzvu dohodnúť sa do10 kalendárnych dní na subjekte ARS;
+d) | názov a kontaktné údaje kontaktného miesta RSO v členskom štáte, v ktorom má sťažovateľ sídlo alebo obvyklý pobyt, ako aj stručný opis funkcií uvedených v článku 7 ods. 2 písm. a).
+5. Informácie uvedené v odseku 3 písm. b) a odseku 4 písm. b) a c) zahŕňajú opis týchto charakteristík každého subjektu ARS:
+a) | názov, kontaktné údaje a adresa webovej stránky subjektu ARS;
+b) | prípadné poplatky za postup ARS;
+c) | jazyk alebo jazyky, v ktorých sa môže viesť postup ARS;
+d) | priemerná dĺžka postupu ARS;
+e) | záväzný alebo nezáväzný charakter výsledku postupu ARS;
+f) | dôvody, na základe ktorých môže subjekt ARS odmietnuť zaoberať sa konkrétnym sporom v súlade s článkom 5 ods. 4 smernice 2013/11/EÚ.
+6. Platforma RSO sťažnosť automaticky a bezodkladne postúpi subjektu ARS, ktorý sa účastníci dohodli využiť v súlade s odsekmi 3 a 4.
+7. Subjekt ARS, ktorému sa postúpila sťažnosť, bezodkladne informuje účastníkov o tom, či súhlasí alebo odmieta zaoberať sa sťažnosťou v súlade s článkom 5 ods. 4 smernice 2013/11/EÚ. Subjekt ARS, ktorý súhlasil, že sa bude zaoberať sťažnosťou, zároveň účastníkov informuje o svojich procedurálnych pravidlách a prípadných nákladoch na postup riešenia dotknutého sporu.
+8. Ak sa účastníci nedohodnú na subjekte ARS do 30 kalendárnych dní od podania formulára sťažnosti alebo ak sa subjekt ARS odmietne zaoberať sporom, sťažnosť sa ďalej nespracúva. Sťažovateľ je informovaný o možnosti nadviazať kontakt s poradcom pre RSO, ktorý mu poskytne všeobecné informácie o iných prostriedkoch nápravy.
+
+Článok 10
+Vyriešenie sporu
+Subjekt ARS, ktorý súhlasil zaoberať sa sťažnosťou v súlade s článkom 9 tohto nariadenia musí:
+a) | ukončiť postup ARS v lehote uvedenej v článku 8 písm. e) smernice 2013/11/EÚ;
+b) | vyžiadať si fyzickú prítomnosť účastníkov alebo ich zástupcov len v prípade, že jeho procedurálne pravidlá ustanovujú takúto možnosť a účastníci súhlasia;
+c) | bezodkladne postúpi platforme RSO tieto informácie: i) dátum prijatia spisu žiadosti; ii) predmet sporu; iii) dátum ukončenia postupu ARS; iv) výsledok postupu ARS;
+d) | nebude musieť viesť postup ARS prostredníctvom platformy RSO.
+
+Článok 11
+Databáza
+Komisia prijme potrebné opatrenia na zriadenie a udržiavanie elektronickej databázy, v ktorej uchováva informácie spracované v súlade s článkom 5 ods. 4 a článkom 10 písm. c), pričom primerane prihliadne na článok 13 ods. 2.
+
+Článok 12
+Spracúvanie osobných údajov
+1. Prístup k informáciám vrátane osobných údajov, ktoré sa týkajú sporu a ktoré sú uložené v databáze uvedenej v článku 11, sa udeľuje na účely uvedené v článku 10 iba tomu subjektu ARS, ktorému bol spor postúpený v súlade s článkom 9. Prístup k tým istým informáciám sa udeľuje tiež kontaktným miestam RSO, len pokiaľ je to potrebné na účely uvedené v článku 7 ods. 2 a 4.
+2. Komisia má prístup k informáciám spracúvaným v súlade s článkom 10, aby mohla monitorovať využívanie a fungovanie platformy RSO a vypracúvať správy uvedené v článku 21. Spracúva osobné údaje používateľov platformy RSO, len pokiaľ je to potrebné na účely prevádzky a údržby platformy RSO vrátane monitorovania využívania platformy RSO subjektmi ARS a kontaktnými miestami RSO.
+3. Osobné údaje týkajúce sa sporu sa uchovávajú v databáze uvedenej v odseku 1 tohto článku iba dovtedy, kým je to potrebné na splnenie účelov, na ktoré boli zhromaždené, a na zabezpečenie toho, aby mali dotknuté osoby prístup k svojim osobným údajom a mohli tak uplatňovať svoje práva, pričom tieto údaje sa automaticky vymažú najneskôr šesť mesiacov po dátume uzavretia sporu, ktorý bol postúpený platforme RSO v súlade s článkom 10 písm. c) bodom iii). Uvedené obdobie uchovania údajov sa vzťahuje aj na osobné údaje, ktoré vo vnútroštátnych súboroch uchováva subjekt ARS alebo kontaktné miesto RSO, ktorý riešil príslušný spor, pokiaľ nie je v procedurálnych pravidlách uplatňovaných subjektom ARS ani v iných osobitných ustanoveniach vnútroštátneho práva stanovené dlhšie obdobie ich uchovávania.
+4. Každý poradca pre RSO sa v súvislosti so svojimi činnosťami spracúvania údajov podľa tohto nariadenia považuje za kontrolóra podľa článku 2 písm. d) smernice 95/46/ES a zabezpečí súlad týchto činností s vnútroštátnymi právnymi predpismi prijatými podľa smernice 95/46/ES v členskom štáte kontaktného miesta RSO, ktoré je jeho hostiteľom.
+5. Každý subjekt ARS sa v súvislosti so svojimi činnosťami spracúvania údajov podľa tohto nariadenia považuje za kontrolóra podľa článku 2 písm. d) smernice 95/46/ES a zabezpečí súlad týchto činností s vnútroštátnymi právnymi predpismi prijatými podľa smernice 95/46/ES v členskom štáte, v ktorom má sídlo.
+6. Komisia sa v súvislosti so svojou zodpovednosťou vyplývajúcou z tohto nariadenia a s ňou spojeným spracúvaním osobných údajov považuje za prevádzkovateľa podľa článku 2 písm. d) nariadenia (ES) č. 45/2001.
+
+Článok 13
+Dôvernosť a bezpečnosť údajov
+1. Na kontaktné miesta RSO sa vťahujú pravidlá služobného tajomstva alebo iné rovnocenné povinnosti zachovávania dôvernosti stanovené v právnych predpisoch dotknutého členského štátu.
+2. Komisia prijme vhodné technické a organizačné opatrenia na zabezpečenie bezpečnosti informácií spracúvaných podľa tohto nariadenia, vrátane primeranej kontroly prístupu k údajom, bezpečnostného plánu a riadenia bezpečnostného incidentu v súlade s článkom 22 nariadenia (ES) č. 45/2001.
+
+Článok 14
+Informovanie spotrebiteľov
+1. Obchodníci so sídlom na území Únie, ktorí uzatvárajú kúpne zmluvy alebo zmluvy o službách online a obchodné miesta online so sídlom na území Únie uvádzajú na svojich webových stránkach elektronický odkaz na platformu RSO. Tento odkaz bude ľahko prístupný pre spotrebiteľov. Obchodníci so sídlom na území Únie, ktorí uzatvárajú kúpne zmluvy alebo zmluvy o službách online, uvádzajú aj svoje e-mailové adresy.
+2. Obchodníci so sídlom na území Únie, ktorí uzatvárajú kúpne zmluvy alebo zmluvy o službách online, ktorí sa na riešenie sporov so spotrebiteľmi zaviazali alebo majú povinnosť využiť jeden alebo viaceré subjekty ARS, spotrebiteľov informujú o existencii platformy RSO a možnosti využiť platformu RSO na riešenie svojich sporov. Obchodníci uvádzajú elektronický odkaz na platformu RSO na svojich webových stránkach a pokiaľ sa ponuka robí prostredníctvom e-mailu, odkaz uvádzajú v tomto e-maile. Táto informácia sa prípadne uvádza aj vo všeobecných podmienkach, ktoré sa vzťahujú na kúpne zmluvy a zmluvy o službách online.
+3. Odsekmi 1 a 2 tohto článku nie je dotknutý článok 13 smernice 2013/11/EÚ a ustanovenia o informáciách pre spotrebiteľov o mimosúdnych postupoch nápravy, ktoré obsahujú iné právne akty Únie a ktoré sa uplatňujú popri tomto článku.
+4. Zoznam subjektov ARS uvedený v článku 20 ods. 4 smernice 2013/11EÚ a jeho aktualizácia sa uverejňuje na platforme RSO.
+5. Členské štáty zabezpečia, aby subjekty ARS, centrá siete európskych spotrebiteľských centier, príslušné orgány vymedzené v článku 18 ods. 1 smernice 2013/11/EÚ, prípadne orgány určené v súlade s článkom 14 ods. 2 smernice 2013/11/EÚ, uvádzali elektronický odkaz na platformu RSO.
+6. Členské štáty zabezpečia, aby združenia spotrebiteľov a združenia podnikateľov uvádzali elektronický odkaz na platformu RSO.
+7. V prípade, že majú obchodníci povinnosť poskytovať informácie v súlade s odsekmi 1 a 2 a v súlade s ustanoveniami uvedenými v odseku 3, poskytujú podľa možnosti tieto informácie spoločne.
+
+Článok 15
+Úloha príslušných orgánov
+Príslušný orgán každého členského štátu posudzuje, či subjekty ARS zriadené v uvedenom členskom štáte spĺňajú povinnosti ustanovené v tomto nariadení.
+
+KAPITOLA III
+ZÁVEREČNÉ USTANOVENIA
+
+Článok 16
+Výbor
+1. Komisii pomáha výbor. Uvedený výbor je výborom v zmysle nariadenia (EÚ) č. 182/2011.
+2. Ak sa odkazuje na tento odsek, uplatňuje sa článok 4 nariadenia (EÚ) č. 182/2011.
+3. Ak sa odkazuje na tento odsek, uplatňuje sa článok 5 nariadenia (EÚ) č. 182/2011.
+4. Ak sa má stanovisko výboru podľa odsekov 2 a 3 získať písomným postupom, tento postup sa ukončí bez výsledku, ak tak v rámci lehoty na vydanie stanoviska rozhodne predseda výboru alebo o to požiada jednoduchá väčšina členov výboru.
+
+Článok 17
+Vykonávanie delegovania právomoci
+1. Právomoc prijímať delegované akty sa Komisii udeľuje za podmienok stanovených v tomto článku.
+2. Právomoc prijímať delegované akty uvedená v článku 8 ods. 3 sa udeľuje na dobu neurčitú od 8. júla 2013.
+3. Delegovanie právomoci uvedené v článku 8 ods. 3 môže Európsky parlament alebo Rada kedykoľvek odvolať. Rozhodnutím o odvolaní sa ukončuje delegovanie právomoci v ňom uvedenej. Rozhodnutie nadobúda účinnosť dňom nasledujúcim po jeho uverejnení v Úradnom vestníku Európskej únie alebo k neskoršiemu dátumu, ktorý je v ňom určený. Nie je ním dotknutá platnosť delegovaných aktov, ktoré už nadobudli účinnosť.
+4. Komisia oznamuje delegovaný akt Európskemu parlamentu a Rade súčasne, a to hneď po jeho prijatí.
+5. Delegovaný akt prijatý podľa článku 8 ods. 3 nadobudne účinnosť, len ak Európsky parlament alebo Rada voči nemu nevzniesli námietku v lehote dvoch mesiacov odo dňa oznámenia uvedeného aktu Európskemu parlamentu a Rade, alebo ak pred uplynutím uvedenej lehoty Európsky parlament a Rada informovali Komisiu o svojom rozhodnutí nevzniesť námietku. Na podnet Európskeho parlamentu alebo Rady sa táto lehota predĺži o dva mesiace.
+
+Článok 18
+Sankcie
+Členské štáty ustanovia pravidlá o sankciách za porušenie tohto nariadenia a prijmú všetky opatrenia potrebné na to, aby zabezpečili ich vykonávanie. Ustanovené sankcie musia byť účinné, primerané a odrádzajúce.
+
+Článok 19
+Zmena a doplnenie nariadenia (ES) č. 2006/2004
+V prílohe k nariadeniu Európskeho parlamentu a Rady (ES) č. 2006/2004 ( 12 ) sa dopĺňa tento bod:
+„21. | Nariadenie Európskeho parlamentu a Rady (EÚ) č. 524/2013 z 21. mája 2013 o riešení spotrebiteľských sporov online (nariadenie o riešení spotrebiteľských sporov online) ( Ú. v. EÚ L 165, 18.6.2013, s. 1 ): článok 14.“
+
+Článok 20
+Zmena smernice 2009/22/ES
+Smernica Európskeho parlamentu a Rady 2009/22/ES ( 13 ) sa mení takto:
+1. | V článku 1 ods. 1 a 2 a článku 6 ods. 2 písm. b) sa slová „smernice uvedené v prílohe I“ nahrádzajú slovami „akty Únie uvedené v prílohe I“ v príslušnom gramatickom tvare.
+2. | V názve prílohy I sa slová „ZOZNAM SMERNÍC“ nahrádzajú slovami „ZOZNAM AKTOV ÚNIE“.
+3. | Do prílohy I sa dopĺňa tento bod: „15. Nariadenie Európskeho parlamentu a Rady (EÚ) č. 524/2013 z 21. mája 2013 o riešení spotrebiteľských sporov online (nariadenie o riešení spotrebiteľských sporov online) ( Ú. v. EÚ L 165 18.6.2013, s. 1 ): článok 14.“
+
+Článok 21
+Správy
+1. Komisia podáva Európskemu parlamentu a Rade každoročne správy o fungovaní platformy RSO, pričom prvú správu podá rok po uvedení platformy RSO do prevádzky.
+2. Do 9. júla 2018 a potom každé tri roky Komisia predloží Európskemu parlamentu a Rade správu o uplatňovaní tohto nariadenia, a to konkrétne o jednoduchosti používania formulára sťažnosti a prípadnej potrebe úpravy informácií uvedených v prílohe k tomuto nariadeniu. K uvedenej správe sa podľa potreby priložia návrhy na úpravu tohto nariadenia.
+3. V prípade, že sa správy uvedené v odsekoch 1 a 2 majú podávať v ten istý rok, podáva sa len jedna spoločná správa.
+
+Článok 22
+Nadobudnutie účinnosti
+1. Toto nariadenie nadobúda účinnosť dvadsiatym dňom po jeho uverejnení v Úradnom vestníku Európskej únie .
+2. Toto nariadenie sa uplatňuje od 9. januára 2016 okrem týchto ustanovení:
+— | článku 2 ods. 3 a článku 7 ods. 1 a 5, ktoré sa uplatňujú od 9. júla 2015,
+— | článku 5 ods. 1 a 7, článku 6, článku 7 ods. 7, článku 8 ods. 3 a 4 a článkov 11, 16 a 17, ktoré sa uplatňujú od 8. júla 2013.
+
+Toto nariadenie je záväzné v celom rozsahu a priamo uplatniteľné vo všetkých členských štátoch.
+V Štrasburgu 21. mája 2013
+Za Európsky parlament
+predseda
+M. SCHULZ
+Za Radu
+predsedníčka
+L. CREIGHTON
+( 1 ) Ú. v. EÚ C 181, 21.6.2012, s. 99 .
+( 2 ) Pozícia Európskeho parlamentu z 12. marca 2013 (zatiaľ neuverejnená v úradnom vestníku) a rozhodnutie Rady z 22. apríla 2013.
+( 3 ) Pozri stranu 63 tohto úradného vestníka.
+( 4 ) Ú. v. EÚ L 136, 24.5.2008, s. 3 .
+( 5 ) Ú. v. EÚ L 144, 30.4.2004, s. 62 .
+( 6 ) Ú. v. ES L 281, 23.11.1995, s. 31 .
+( 7 ) Ú. v. ES L 8, 12.1.2001, s. 1 .
+( 8 ) Ú. v. EÚ L 304, 22.11.2011, s. 64 .
+( 9 ) Ú. v. EÚ L 55, 28.2.2011, s. 13 .
+( 10 ) Ú. v. EÚ C 136, 11.5.2012, s. 1 .
+( 11 ) Ú. v. ES L 178, 17.7.2000, s. 1 .
+( 12 ) Ú. v. EÚ L 364, 9.12.2004, s. 1 .
+( 13 ) Ú. v. EÚ L 110, 1.5.2009, s. 30 .
+
+PRÍLOHA
+Informácie, ktoré sa majú poskytnúť pri predložení sťažnosti
+ | 1. | či je sťažovateľom spotrebiteľ alebo obchodník;
+ | 2. | meno, e-mailová a poštová adresa spotrebiteľa;
+ | 3. | meno/názov a e-mailová, internetová a poštová adresa obchodníka;
+ | 4. | meno/názov a e-mailová a poštová adresa prípadného zástupcu sťažovateľa;
+ | 5. | jazyk(-y) sťažovateľa alebo jeho prípadného zástupcu;
+ | 6. | jazyk respondenta, ak je známy;
+ | 7. | druh tovaru alebo služby, ktorého sa sťažnosť týka;
+ | 8. | či obchodník ponúkol tovar alebo službu a spotrebiteľ si ich objednal na webovej stránke alebo prostredníctvom iných elektronických prostriedkov;
+ | 9. | cenu zakúpeného tovaru alebo služby;
+ | 10. | dátum nákupu tovaru alebo služby zo strany spotrebiteľa;
+ | 11. | či spotrebiteľ nadviazal priamy kontakt s obchodníkom;
+ | 12. | či sa sporom zaoberá alebo už zaoberal subjekt ARS alebo súd;
+ | 13. | druh sťažnosti;
+ | 14. | opis sťažnosti;
+ | 15. | ak je sťažovateľom spotrebiteľ, subjekty ARS, ktorý je obchodník povinný alebo sa zaviazal využiť v súlade s článkom 13 ods. 1 smernice 2013/11/EÚ, ak sú známe;
+ | 16. | ak je sťažovateľom obchodník, ktorý subjekt alebo subjekty ARS je povinný alebo sa zaviazal využiť.
