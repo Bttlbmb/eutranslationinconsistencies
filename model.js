@@ -3,17 +3,10 @@
  */
 import { explanationGlosses } from './explanation-glosses.js';
 
-const glossesByVariant = new Map();
-for (const gloss of explanationGlosses) {
-  const key = JSON.stringify([gloss.act, gloss.finding, gloss.language]);
-  if (!glossesByVariant.has(key)) glossesByVariant.set(key, []);
-  glossesByVariant.get(key).push(gloss);
-}
-
 /** Add English reading aids without altering any character of the reviewed explanation. */
-export function explanationSegments(explanation, { act, finding, language, quote, translation }) {
+export function explanationSegments(explanation, { act, finding, language, quote, translation }, alignments = explanationGlosses) {
   const original = String(explanation || '');
-  const entries = glossesByVariant.get(JSON.stringify([act, finding, language])) || [];
+  const entries = alignments.filter(entry => entry.act === act && entry.finding === finding && entry.language === language);
   const available = entries.filter(entry => {
     if (!quote?.normalize('NFC').toLowerCase().includes(entry.phrase.normalize('NFC').toLowerCase()) || !translation) return false;
     let cursor = 0;

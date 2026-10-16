@@ -42,8 +42,28 @@ function requireValid(condition, message) {
   if (!condition) throw new Error(message);
 }
 
+// Reject private additions even when the known evidence fields remain valid.
+// Optional source_id is retained for compatibility with existing v2 snapshots.
+const publicFields = {
+  catalogue: 'schema_version generated_at legislation',
+  act: 'id title short_title source_url celex version version_label retrieved_at status subject languages unavailable_languages failed_languages coverage passages findings notes impact_families',
+  language: 'code name source_url sha256 text_url notes coverage_incomplete',
+  availability: 'code name reason',
+  coverage: 'total_units reviewed_units total_languages reviewed_languages reviewed_language_codes',
+  passage: 'id label text source_id',
+  finding: 'id passage_id english_quote title category severity status explanation variants review',
+  variant: 'language language_name quote translation explanation source_url',
+  review: 'method models reviewed_at'
+};
+function checkFields(value, kind) {
+  const allowed = new Set(publicFields[kind].split(' '));
+  requireValid(value && typeof value === 'object' && !Array.isArray(value) &&
+    Object.keys(value).every(key => allowed.has(key)), `Unexpected ${kind} field in public snapshot.`);
+}
+
 /** Inject the archive loader so evidence checks can be tested without a server. */
 export async function validateSnapshot(catalogue, readArchive) {
+  checkFields(catalogue, 'catalogue');
   const acts = catalogueLegislation(catalogue);
   requireValid(
     acts.length === catalogue.legislation.length,
@@ -52,6 +72,7 @@ export async function validateSnapshot(catalogue, readArchive) {
   const ids = new Set();
   const archives = new Map();
   for (const act of acts) {
+    checkFields(act, 'act');
     requireValid(
       nonempty(act.id) && nonempty(act.title) && !ids.has(act.id),
       'Invalid or duplicate legislation id.'
@@ -68,6 +89,7 @@ export async function validateSnapshot(catalogue, readArchive) {
     const languageTexts = new Map();
     const languageSources = new Map();
     for (const language of act.languages) {
+      checkFields(language, 'language');
       requireValid(
         /^[a-z]{2}$/.test(language.code) && !languageTexts.has(language.code),
         `Invalid or duplicate language for ${act.id}`
@@ -88,6 +110,7 @@ export async function validateSnapshot(catalogue, readArchive) {
     requireValid(english !== undefined, `Missing English source archive for ${act.id}`);
     const passageIds = new Set();
     for (const passage of act.passages) {
+      checkFields(passage, 'passage');
       requireValid(
         nonempty(passage.id) && nonempty(passage.text) && !passageIds.has(passage.id),
         `Invalid or duplicate passage for ${act.id}`
@@ -102,6 +125,7 @@ export async function validateSnapshot(catalogue, readArchive) {
     // A missing official download must stay in the denominator. Complete labels
     // require full source and review coverage, even when there are zero findings.
     const coverage = act.coverage;
+    checkFields(coverage, 'coverage');
     requireValid(
       coverage &&
         ['total_units', 'reviewed_units', 'total_languages', 'reviewed_languages'].every(
@@ -117,6 +141,7 @@ export async function validateSnapshot(catalogue, readArchive) {
     );
     const availability = new Set(languageTexts.keys());
     for (const language of [...failed, ...unavailable]) {
+      checkFields(language, 'availability');
       requireValid(
         /^[a-z]{2}$/.test(language.code) && !availability.has(language.code),
         `Conflicting language availability for ${act.id}`
@@ -161,6 +186,8 @@ export async function validateSnapshot(catalogue, readArchive) {
     );
     const findingIds = new Set();
     for (const finding of supported) {
+      checkFields(finding, 'finding');
+      checkFields(finding.review, 'review');
       requireValid(
         nonempty(finding.id) && !findingIds.has(finding.id),
         `Duplicate finding id in ${act.id}`
@@ -182,6 +209,7 @@ export async function validateSnapshot(catalogue, readArchive) {
         `Missing review provenance in ${finding.id}`
       );
       for (const variant of finding.variants) {
+        checkFields(variant, 'variant');
         requireValid(
           variant &&
             [variant.language, variant.quote, variant.translation, variant.explanation].every(
