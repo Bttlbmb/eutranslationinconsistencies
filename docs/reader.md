@@ -4,7 +4,7 @@ Start with a law in the collection. Its card gives the number of differences in 
 
 The language count includes only non-English versions fully compared with English. Partly checked versions and failed source retrievals remain in the total but do not count as reviewed. Incomplete describes the saved coverage; it does not mean work is currently running. Review and sources gives the details.
 
-Open the law to see its English text beside a list of findings. Select highlighted wording or an item in the list to compare the language versions. Each comparison preserves the original quotation, its English translation and the explanation of the possible difference in meaning. English provides a common reference; it has no higher authority than the other official versions.
+Open the law to see its English text beside a list of findings. Select highlighted wording or an item in the list to compare the language versions. Each language starts with its name, any impact rating and a link to its official source. The official English quotation sits directly above the AI translation of that language, with differing words shaded in both; the official original follows, then the explanation of the possible difference in meaning. A potential impact section, where available, gives the effect if the reading prevails, the reasoning and its uncertainty; assessment details and the link to the whole issue are folded away. English provides a common reference; it has no higher authority than the other official versions.
 
 ## Narrow the comparison
 

@@ -616,10 +616,6 @@ function impactIssueLabel(family) {
     ? 'Impact under review'
     : impactDisplayLabel(family.impact_level);
 }
-function impactLanguageNames(family) {
-  const names = new Map((state.act.languages || []).map(language => [language.code, language.name]));
-  return family.languages.map(code => names.get(code) || code.toUpperCase()).join(' · ');
-}
 function isProvisionalRating(family) {
   return family.review_state === 'provisional' && family.rating_status !== 'needs_reassessment' && Boolean(family.impact_level);
 }
@@ -627,29 +623,24 @@ function assessmentStateLabel(family) {
   if (family.rating_status === 'needs_reassessment') return 'Earlier assessment · Awaiting reassessment';
   return { provisional: 'Provisional AI assessment', needs_review: 'Assessment under review', confirmed: 'Confirmed assessment' }[family.review_state];
 }
-function renderImpactMarker(family, { showTitle = false } = {}) {
-  const heading = node('div', 'impact-summary-heading impact-marker');
-  if (showTitle) append(heading, node('strong', '', family.title));
-  append(heading, node('span', `impact-level impact-level-${family.impact_level || 'unrated'}`, impactIssueLabel(family)));
-  append(heading, node('span', 'impact-assessment-meta', `${impactLanguageNames(family)} · ${assessmentStateLabel(family)}`));
-  return heading;
+function renderImpactBadge(family) {
+  return node('span', `impact-level impact-level-${family.impact_level || 'unrated'}`, impactIssueLabel(family));
 }
 function renderImpactSummary(family, { select = false, memberId = null, showTitle = true } = {}) {
   const block = node('section', 'impact-summary');
+  append(block, node('p', 'impact-summary-label', 'Potential impact'));
   if (showTitle) append(block, node('h3', 'impact-issue-title', family.title));
-  append(block, node('p', 'impact-assessment-meta', `${impactLanguageNames(family)} · ${assessmentStateLabel(family)}`));
-  if (family.confidence) append(block, node('p', 'impact-confidence', `Confidence in the proposed legal effect: ${family.confidence}`));
+  if (family.confidence) append(block, node('p', 'impact-confidence', `Confidence in this legal effect: ${family.confidence}`));
   const reasonLabel = family.rating_status === 'needs_reassessment' ? 'Earlier assessment reasoning'
     : family.review_state === 'needs_review'
     ? 'Why the impact is under review'
     : `Why this is rated ${impactDisplayLabel(family.impact_level).toLowerCase()}`;
   append(
     block,
-    node('h4', 'impact-section-heading', 'Potential impact if this reading prevails'),
+    node('h4', 'impact-section-heading', 'If this reading prevails'),
     node('p', 'impact-effect', family.effect),
     node('h4', 'impact-section-heading', reasonLabel)
   );
-  if (family.legal_anchor) append(block, node('p', 'impact-rule', `Affected rule: ${family.legal_anchor}`));
   if (family.rationale) append(block, node('p', 'impact-rationale', family.rationale));
   if (family.uncertainty) append(
     block,
@@ -666,10 +657,10 @@ function renderImpactSummary(family, { select = false, memberId = null, showTitl
     family.rubric_version ? `Method ${family.rubric_version}` : ''
   ].filter(Boolean).join(' · ');
   if (review) append(explanation, node('p', 'impact-review-meta', review));
-  block.append(explanation);
   if (select)
-    append(block, button('See this issue and its evidence →', 'impact-open', () =>
+    append(explanation, button('See this issue and its evidence →', 'impact-open', () =>
       changeImpactSelection(family, memberId)));
+  if (explanation.childElementCount > 1) block.append(explanation);
   return block;
 }
 function renderImpactIndex(panel, act) {
@@ -893,15 +884,6 @@ function renderComparison() {
       family.members.some((member) => selected.aliases.includes(member.id) &&
         (!state.language || member.variants.some((variant) => variant.language === state.language)))
     );
-    const markers = familiesHere.length > 1 ? node('details', 'comparison-impact-markers') : detail;
-    if (familiesHere.length > 1) {
-      const levels = [...new Set(familiesHere.map(impactIssueLabel))].join(' / ');
-      append(markers, node('summary', '', `${levels} · ${plural(familiesHere.length, 'impact assessment')}`));
-      append(detail, markers);
-    }
-    familiesHere.forEach((family) => markers.append(renderImpactMarker(family, {
-      showTitle: !state.issue && (familiesHere.length > 1 || family.title !== detailTitle)
-    })));
     if (state.issue) {
       const locations = [...new Map(state.issue.members
         .filter((member) => !state.language || member.variants.some((variant) => variant.language === state.language))
@@ -951,16 +933,20 @@ function renderComparison() {
       append(disclosure, choices);
       relatedDisclosure = disclosure;
     }
-    append(detail, node('p', 'wording-note', 'Underlining marks wording differences.'));
     variants.forEach((variant) => {
       const card = node('article', 'variant-card');
       const top = node('div', 'variant-title');
+      const languageName = variant.language_name || variant.language;
+      // A rating belongs to the language finding it assesses; a single
+      // comparison keeps any rating linked through an alias of the group.
+      const ratedHere = familiesHere.filter((family) => family.finding_ids.includes(variant.finding_id || selected.id));
+      const ratings = ratedHere.length || variants.length > 1 ? ratedHere : familiesHere;
       append(
         top,
         append(
           node('div', 'variant-language'),
-          node('span', 'language-monogram', (variant.language || '?').toUpperCase()),
-          node('h3', '', variant.language_name || variant.language)
+          node('h3', '', languageName),
+          ...ratings.map(renderImpactBadge)
         ),
         externalLink(
           'EUR-Lex ↗',
@@ -976,17 +962,18 @@ function renderComparison() {
           ? node('h4', 'variant-finding-title', variant.finding_title)
           : null;
       const originalExcerpt = append(node('section', 'quote-excerpt original-excerpt'),
-        node('div', 'translation-label', `Official ${variant.language_name || variant.language} text`), quote);
+        node('div', 'translation-label', `Official ${languageName}`), quote);
       const wording = comparedWording(selected.english_quote, variant.translation);
       const englishExcerpt = append(node('section', 'quote-excerpt english-reference'),
-        node('div', 'translation-label', 'Official English text · reading reference'),
+        node('div', 'translation-label', 'Official English'),
         wordingQuote(wording.english, 'english-reference-quote'));
       const translatedExcerpt = append(
         node('section', 'quote-excerpt'),
-        node('div', 'translation-label', `English translation of the ${variant.language_name || variant.language} text — AI-generated`),
+        node('div', 'translation-label', `AI translation of the ${languageName}`),
         wordingQuote(wording.translation, 'translated-quote')
       );
-      append(card, top, variantTitle, englishExcerpt, translatedExcerpt, originalExcerpt);
+      append(card, top, variantTitle,
+        append(node('div', 'quote-pair'), englishExcerpt, translatedExcerpt), originalExcerpt);
       append(
         card,
         append(

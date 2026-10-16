@@ -7,7 +7,7 @@
   --line: #e0e1de;
   --accent: #346c9c;
   --highlight: #c7e4fa;
-  --wording-change: #e2f0fb;
+  --wording-change: #d9ebf9;
   --complete: #2d6650;
   --progress: #865b23;
   --progress-mark: #c08a3e;
@@ -265,12 +265,9 @@ summary {
 .source-version > p { margin-top: 7px; white-space: normal; line-height: 1.4; }
 .source-scope-notes { margin-top: 6px; color: var(--muted); font: 12px/1.4 var(--sans); }
 .source-scope-notes p + p { margin-top: 4px; }
-.filter-count-note, .comparison-count-guide, .comparison-review-note, .wording-note { color: var(--muted); font-size: 12px; line-height: 1.45; margin-top: 9px; }
-.impact-assessment-meta, .impact-confidence { color: var(--muted); font-size: 12px; line-height: 1.45; margin-top: 6px; }
-.impact-summary-heading > .impact-assessment-meta { flex-basis: 100%; }
+.filter-count-note, .comparison-count-guide, .comparison-review-note { color: var(--muted); font-size: 12px; line-height: 1.45; margin-top: 9px; }
+.impact-confidence { color: var(--muted); font-size: 12px; line-height: 1.45; margin-top: 2px; }
 .impact-definition { color: var(--muted); font-size: 12px; line-height: 1.45; margin: 9px 0; }
-.comparison-impact-markers { margin: 12px 0; font-size: 12px; }
-.comparison-impact-markers > summary { cursor: pointer; color: var(--ink); }
 .document-subject { font: 400 22px/1.25 var(--serif); margin-bottom: 5px; overflow-wrap: anywhere; }
 .document-meta-row { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 14px; }
 .document-meta-row > .source-version[open] { flex-basis: 100%; }
@@ -697,15 +694,7 @@ summary {
   background: var(--highlight-soft);
 }
 .impact-index-top,
-.impact-summary-heading {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-.impact-index-top strong,
-.impact-summary-heading strong {
+.impact-index-top strong {
   font-size: 13px;
   line-height: 1.4;
 }
@@ -740,34 +729,30 @@ summary {
   font-size: 12px;
 }
 .impact-summary {
-  padding: 12px 0;
+  padding: 18px 0 12px;
   border-top: 1px solid var(--line);
 }
-.impact-marker {
-  margin: 8px 0 16px;
+.impact-summary-label,
+.impact-section-heading {
+  color: var(--muted);
+  font: 500 12px/1.4 var(--sans);
 }
 .impact-issue-title {
-  margin: 0 0 12px;
+  margin: 6px 0 4px;
   font-size: 13px;
   line-height: 1.4;
 }
 .impact-section-heading {
-  margin: 14px 0 5px;
-  font-size: 12px;
-  line-height: 1.4;
-}
-.impact-section-heading:first-child {
-  margin-top: 0;
+  margin: 16px 0 4px;
 }
 .impact-summary + .impact-summary {
   margin-top: 3px;
 }
 .impact-effect,
-.impact-rule,
 .impact-rationale,
 .impact-uncertainty {
-  margin-top: 7px;
-  font: 400 var(--comparison-text-size) / 1.55 var(--sans);
+  margin-top: 4px;
+  font: 400 15px / 1.55 var(--sans);
 }
 .impact-explanation p,
 .issue-evidence-intro {
@@ -776,18 +761,19 @@ summary {
   line-height: 1.5;
 }
 .impact-explanation {
-  margin-top: 8px;
+  margin-top: 14px;
   color: var(--accent);
-  font-size: 11px;
+  font-size: 12px;
 }
 .impact-explanation p {
   color: var(--muted);
 }
 .impact-open {
+  display: block;
   margin-top: 7px;
   padding: 0;
   background: transparent;
-  font-size: 11px;
+  font-size: 12px;
 }
 .issue-locations {
   display: flex;
@@ -921,15 +907,15 @@ summary {
 .variant-language {
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 10px;
   min-width: 0;
 }
-.variant-language .language-monogram {
-  background: var(--strip);
-  color: var(--accent);
-}
+
 .variant-language h3 {
   font: 500 14px/1.4 var(--sans);
+}
+.variant-language .impact-level {
+  font-size: 11px;
 }
 .source-link {
   flex: none;
@@ -958,7 +944,22 @@ summary {
 .english-reference-quote {
   margin-top: 7px;
 }
-.wording-change { color: inherit; background: var(--wording-change); text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.quote-pair {
+  margin: 20px 0;
+  padding-left: 14px;
+  border-left: 2px solid var(--line);
+}
+.quote-pair .quote-excerpt {
+  margin: 0;
+}
+.quote-pair .quote-excerpt + .quote-excerpt {
+  margin-top: 14px;
+}
+.original-excerpt .original-quote {
+  color: #4b545c;
+  font-size: 15px;
+}
+.wording-change { color: inherit; background: var(--wording-change); border-radius: 2px; }
 .translation-label,
 .difference-explanation > span {
   display: block;
@@ -973,8 +974,8 @@ summary {
   border-top: 1px solid var(--line);
 }
 .difference-explanation p {
-  margin-top: 7px;
-  font: 400 var(--comparison-text-size) / 1.55 var(--sans);
+  margin-top: 4px;
+  font: 400 15px / 1.55 var(--sans);
 }
 .explanation-gloss { font-weight: 500; }
 .english-anchor,
