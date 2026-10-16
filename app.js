@@ -17,7 +17,7 @@ import {
   overlappingFindings,
   selectedFromHash,
   selectionHash
-} from './model.js?v=5';
+} from './model.js?v=6';
 import {
   node,
   append,
@@ -30,8 +30,8 @@ import {
   explanationParagraph,
   renderSourceVersion,
   renderSourceScope
-} from './view.js?v=5';
-import { actIntroduction, actSummary } from './catalogue-model.js?v=7';
+} from './view.js?v=6';
+import { actIntroduction, actSummary } from './catalogue-model.js?v=8';
 
 const $ = (selector) => document.querySelector(selector);
 const state = {
@@ -238,7 +238,7 @@ function changeLanguage(code) {
   $('#focus-language-select')?.focus({ preventScroll: true });
   const selected = languages.find((language) => language.code === code);
   $('#selection-status').textContent = selected
-    ? `${selected.name}: ${plural(visibleFindings.length, 'comparison group')} shown.`
+    ? `${selected.name}: ${plural(findingCounts(visibleFindings, code).findings, 'difference')} shown.`
     : 'Findings in all languages shown.';
 }
 function changeImpact(level) {
@@ -251,7 +251,7 @@ function changeImpact(level) {
   if (disclosure) disclosure.open = true;
   control?.focus({ preventScroll: true });
   $('#selection-status').textContent = level
-    ? `${impactFocusLabel(level)}: ${plural(visibleFindings.length, 'comparison group')} shown.`
+    ? `${impactFocusLabel(level)}: ${plural(findingCounts(visibleFindings, state.language).findings, 'difference')} shown.`
     : 'Findings at all impact levels, including those without an assigned rating, shown.';
 }
 function scrollToFinding(finding, { behavior = 'smooth', onlyIfOutside = false, sourceOnly = false } = {}) {
@@ -334,22 +334,24 @@ function renderLibrary() {
   filtered.forEach((act) => {
     const findings = displayedFindings(act);
     const focus = focusedLanguage(act);
+    const differences = plural(findingCounts(findings, focus?.code || null).findings,
+      'difference in meaning', 'differences in meaning');
     let summary;
     if (state.impact && state.language && !focus)
       summary = `${state.language.toUpperCase()} not listed for this act`;
     else if (state.impact)
       summary = findings.length
-        ? `${plural(findings.length, 'comparison group')} · ${impactFocusLabel(state.impact)}${focus ? ` · ${focus.name}` : ''}`
+        ? `${differences} · ${impactFocusLabel(state.impact)}${focus ? ` · ${focus.name}` : ''}`
         : `No findings match ${impactFocusLabel(state.impact).toLowerCase()}${focus ? ` · ${focus.name}` : ''}`;
     else if (state.language)
       summary = focus
         ? findings.length
-          ? `${focus.name} · ${plural(findings.length, 'comparison group')}`
+          ? `${focus.name} · ${differences}`
           : focusedEmptyState(act, focus).summary
         : `${focusedLanguage()?.name || state.language.toUpperCase()} not listed for this act`;
     else
       summary = findings.length
-        ? plural(findings.length, 'comparison group')
+        ? differences
         : act.status === 'complete'
           ? 'Review complete · no differences identified'
           : act.status === 'partial'
@@ -388,15 +390,16 @@ function renderAct() {
   const summary = actSummary(act);
   document.title = `${introduction.label} · EU Translation Inconsistencies`;
   const identity = node('div', 'document-identity');
+  const version = renderSourceVersion(act, 'document-meta');
+  append(version, renderSourceScope(act));
+  const reviewStatus = node('span', `document-review-state status-${summary.fullyReviewed ? 'complete' : act.status === 'complete' ? 'partial' : act.status}`, `${summary.reviewState} · ${summary.reviewedLanguagesLabel}`);
+  reviewStatus.title = 'Counts non-English language versions fully compared with English. Completion applies to the selected text version and source scope; incomplete does not mean a review is running.';
   append(
     identity,
     node('h1', 'document-subject', introduction.label),
-    renderSourceVersion(act, 'document-meta'),
-    renderSourceScope(act)
+    append(node('div', 'document-meta-row'), version, reviewStatus)
   );
-  const reviewStatus = node('span', `document-review-state status-${summary.fullyReviewed ? 'complete' : act.status === 'complete' ? 'partial' : act.status}`, summary.reviewLabel);
-  reviewStatus.title = 'Counts non-English language versions fully compared with English. Completion applies to the selected text version and source scope; incomplete does not mean a review is running.';
-  append(heading, identity, reviewStatus);
+  append(heading, identity);
   renderToolbar();
   renderReader();
   renderComparison();
@@ -433,7 +436,7 @@ function renderFocusControls(act) {
   select.value = state.language || '';
   select.disabled = !languages.length && !state.language;
   select.addEventListener('change', () => changeLanguage(select.value || null));
-  append(focus, node('span', 'focus-language-label', 'Language'), select);
+  append(focus, node('span', 'focus-language-label visually-hidden', 'Language'), select);
   const impactFocus = node('label', 'focus-impact-control');
   const impactSelect = node('select', 'focus-impact-select');
   impactSelect.id = 'focus-impact-select';
@@ -456,7 +459,7 @@ function renderFocusControls(act) {
   append(impactSelect, levels, assessmentStatus);
   impactSelect.value = state.impact || '';
   impactSelect.addEventListener('change', () => changeImpact(impactSelect.value || null));
-  append(impactFocus, node('span', 'focus-impact-label', 'Impact'), impactSelect);
+  append(impactFocus, node('span', 'focus-impact-label visually-hidden', 'Impact'), impactSelect);
   const hasRatings = impactFamilies(act).length > 0;
   const filters = append(node('div', 'focus-controls'), focus);
   if (hasRatings || state.impact) filters.append(impactFocus);
@@ -617,6 +620,9 @@ function impactLanguageNames(family) {
   const names = new Map((state.act.languages || []).map(language => [language.code, language.name]));
   return family.languages.map(code => names.get(code) || code.toUpperCase()).join(' · ');
 }
+function isProvisionalRating(family) {
+  return family.review_state === 'provisional' && family.rating_status !== 'needs_reassessment' && Boolean(family.impact_level);
+}
 function assessmentStateLabel(family) {
   if (family.rating_status === 'needs_reassessment') return 'Earlier assessment · Awaiting reassessment';
   return { provisional: 'Provisional AI assessment', needs_review: 'Assessment under review', confirmed: 'Confirmed assessment' }[family.review_state];
@@ -669,7 +675,10 @@ function renderImpactSummary(family, { select = false, memberId = null, showTitl
 function renderImpactIndex(panel, act) {
   const families = displayedImpactFamilies(act);
   const intro = node('div', 'comparison-intro');
-  append(intro, node('h2', '', 'Potential impact'));
+  const heading = node('h2', families.length ? 'comparison-count-heading' : '', families.length
+    ? `${plural(families.length, 'issue')} by potential impact`
+    : 'Potential impact');
+  append(intro, heading);
   if (!families.length) {
     const focusedMessage = state.impact === 'unrated'
       ? displayedFindings(act).length
@@ -700,6 +709,10 @@ function renderImpactIndex(panel, act) {
     append(node('li'), node('strong', '', 'Limited: '), 'A narrower or ancillary legal consequence, with no supported major consequence.')
   );
   guide.append(scale);
+  if (families.some(isProvisionalRating))
+    intro.append(node('p', 'impact-provisional-note', families.every(family => isProvisionalRating(family) || !family.impact_level)
+      ? 'Ratings are provisional AI assessments.'
+      : 'Ratings without another label are provisional AI assessments.'));
   intro.append(guide);
   panel.append(intro);
   const list = node('div', 'impact-index');
@@ -713,7 +726,8 @@ function renderImpactIndex(panel, act) {
       row,
       top,
       node('span', 'impact-index-effect', family.effect),
-      node('span', 'impact-index-languages', `${names.join(' · ')} · ${assessmentStateLabel(family)}`)
+      node('span', 'impact-index-languages', isProvisionalRating(family)
+        ? names.join(' · ') : `${names.join(' · ')} · ${assessmentStateLabel(family)}`)
     );
     list.append(row);
   });
@@ -730,9 +744,8 @@ function renderFindingIntro(act, findings) {
   let title;
   let message;
   if (findings.length) {
-    title = state.impact
-      ? `${language ? `${language.name} · ` : ''}${impactFocusLabel(state.impact)} · differences in meaning`
-      : language ? `${language.name} · differences in meaning` : 'Differences in meaning';
+    const counts = findingCounts(findings, state.language);
+    title = `${plural(counts.findings, 'difference in meaning', 'differences in meaning')} at ${plural(counts.groups, 'place')} in the text`;
     message = 'Select a finding to compare language versions.';
   } else if (emptyFromImpact) {
     title = 'No differences match these filters';
@@ -754,11 +767,8 @@ function renderFindingIntro(act, findings) {
           ? 'The analysis was interrupted; no complete comparison is claimed.'
           : 'The source texts are archived. Findings will appear after review.');
   }
-  append(intro, node('h2', '', title));
-  if (findings.length) {
-    const counts = findingCounts(findings, state.language);
-    append(intro, node('p', 'comparison-counts', `${plural(counts.findings, 'difference')} · ${plural(counts.groups, 'comparison group')}`));
-  } else append(intro, node('p', '', message));
+  append(intro, node('h2', findings.length ? 'comparison-count-heading' : '', title));
+  if (!findings.length) append(intro, node('p', '', message));
   return intro;
 }
 function renderComparison() {

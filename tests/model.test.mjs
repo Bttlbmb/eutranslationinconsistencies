@@ -58,6 +58,16 @@ test('wording comparison preserves unicode and spacing and handles omitted wordi
   assert.deepEqual(comparedWording('', ''), { english: [], translation: [] });
 });
 
+test('adjacent changed words form one run, joined by their original spacing', () => {
+  const english = 'rounded to not less than three decimals';
+  const translation = 'rounded to at  most three decimal places';
+  const result = comparedWording(english, translation);
+  assert.equal(result.english.map(s => s.text).join(''), english);
+  assert.equal(result.translation.map(s => s.text).join(''), translation);
+  assert.deepEqual(result.english.filter(s => s.changed).map(s => s.text), ['not less than', 'decimals']);
+  assert.deepEqual(result.translation.filter(s => s.changed).map(s => s.text), ['at  most', 'decimal places']);
+});
+
 test('long comparisons preserve exact text while bounding matching work', () => {
   const english = `Common start ${'long quote '.repeat(400)}end`;
   const translation = `Common start ${'different wording '.repeat(400)}end`;

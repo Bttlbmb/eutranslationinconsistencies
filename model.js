@@ -271,12 +271,16 @@ export function comparedWording(english, translation) {
     }
   }
   const segments = tokens => {
+    const changed = tokens.map(token => !token.space && !unchanged.has(token));
+    // Spacing between two changed words joins them into one run ("not less than").
+    tokens.forEach((token, index) => {
+      if (token.space && changed[index - 1] && changed[index + 1]) changed[index] = true;
+    });
     const result = [];
-    for (const token of tokens) {
-      const changed = !token.space && !unchanged.has(token);
-      if (result.at(-1)?.changed === changed) result.at(-1).text += token.text;
-      else result.push({ text: token.text, changed });
-    }
+    tokens.forEach((token, index) => {
+      if (result.at(-1)?.changed === changed[index]) result.at(-1).text += token.text;
+      else result.push({ text: token.text, changed: changed[index] });
+    });
     return result;
   };
   return { english: segments(left), translation: segments(right) };

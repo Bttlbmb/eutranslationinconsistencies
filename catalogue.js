@@ -1,15 +1,15 @@
 /** The read-only catalogue front page. Requests use only the public static snapshot. */
-import { catalogueLegislation } from './model.js?v=5';
+import { catalogueLegislation } from './model.js?v=6';
 import {
   actIntroduction, actSummary, catalogueSummary, orderedActs, readerHref, legacyReaderHref,
   englishWordCount, overallLanguageSummary
-} from './catalogue-model.js?v=7';
-import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=5';
+} from './catalogue-model.js?v=8';
+import { node, append, button, prettyDate, plural, renderSourceVersion, renderSourceScope } from './view.js?v=6';
 
 const $ = selector => document.querySelector(selector);
 const number = value => new Intl.NumberFormat('en-GB').format(value);
 const impactLegendLabels = Object.freeze({
-  major: 'Major', limited: 'Limited', unrated: 'Unrated'
+  major: 'Major', limited: 'Limited', unrated: 'No impact rating yet'
 });
 
 function followLegacyLink() {
@@ -58,7 +58,7 @@ function renderOverall(acts) {
   }
   append(panel, list, node('p', 'catalogue-overall-note',
     `Each language-specific finding counts once. These counts describe this collection and do not measure overall translation quality. Languages unavailable in any included act are excluded.${summary.excludedActs ? ` ${plural(summary.excludedActs, 'other act')} excluded because review is unfinished.` : ''}`));
-  const compare = button('Compare languages ▾', 'catalogue-overall-compare');
+  const compare = button('Compare all ▾', 'catalogue-overall-compare');
   compare.setAttribute('popovertarget', panel.id);
   compare.setAttribute('aria-controls', panel.id);
   compare.setAttribute('aria-expanded', 'false');
@@ -77,9 +77,9 @@ function renderOverall(acts) {
     if (event.newState === 'open') positionPanel();
   });
   window.addEventListener('resize', positionPanel);
-  append(host, node('p', 'catalogue-overall-title', 'Differences in meaning by language'), extremes, append(node('div', 'catalogue-overall-scope'),
-    node('span', '', `${plural(summary.completedActs, 'completed act review')}`), compare),
-    panel);
+  append(extremes, compare);
+  append(host, node('p', 'catalogue-overall-title',
+    `Differences by language, across the ${plural(summary.completedActs, 'complete review')}`), extremes, panel);
 }
 
 function languageDetails(act, summary) {
@@ -97,42 +97,11 @@ function languageDetails(act, summary) {
 }
 
 function reviewStatus(act, summary) {
-  const status = node('span', 'catalogue-status', summary.reviewLabel);
-  status.title = 'Counts non-English language versions fully compared with English. Completion applies to the selected text version and source scope; incomplete does not mean a review is running.';
   const state = summary.fullyReviewed ? 'complete' : act.status === 'complete' ? 'partial' : act.status;
-  status.classList.add(`catalogue-status-${state}`);
+  const status = node('p', `catalogue-review catalogue-review-${state}`);
+  status.title = 'Counts non-English language versions fully compared with English. Completion applies to the selected text version and source scope; incomplete does not mean a review is running.';
+  append(status, append(node('span'), node('strong', '', summary.reviewState), ` · ${summary.reviewedLanguagesLabel}`));
   return status;
-}
-
-function completionBadges(act, summary) {
-  const row = node('div', 'catalogue-status-row');
-  row.setAttribute('aria-label', 'Review and impact assessment status');
-  const coverage = summary.impactAssessment;
-  const label = summary.count
-    ? coverage.count ? `Impact ratings: ${number(summary.assessedCount)} of ${number(summary.count)} findings`
-      : summary.reassessmentCount ? 'Impact reassessment needed' : 'Impact assessment not started'
-    : summary.fullyReviewed ? 'No differences to assess' : 'Impact assessment awaits findings';
-  const statusClass = `catalogue-status catalogue-status-${summary.assessedCount === summary.count && summary.count ? 'complete' : 'pending'}`;
-  const status = summary.count && !coverage.count
-    ? readerLink(act, `${label} →`, statusClass, null, 'unrated')
-    : node('span', statusClass, label);
-  let detail = coverage.total
-    ? `${number(coverage.count)} of ${number(coverage.total)} currently published findings have an impact assessment.`
-    : summary.fullyReviewed
-      ? 'There are no published findings to assess.'
-      : 'Impact assessment is pending until reviewed findings are available.';
-  if (summary.reviewingCount) {
-    detail += ` ${plural(summary.reviewingCount, 'impact issue')} ${summary.reviewingCount === 1 ? 'remains' : 'remain'} under review without an assigned rating.`;
-  }
-  if (summary.reassessmentCount)
-    detail += ` ${plural(summary.reassessmentCount, 'earlier assessment')} ${summary.reassessmentCount === 1 ? 'awaits' : 'await'} the Major/Limited scale.`;
-  status.title = detail;
-  status.setAttribute('aria-label', `${label}. ${detail}`);
-  append(row, reviewStatus(act, summary), status);
-  const notStarted = coverage.total - coverage.count;
-  if (notStarted && coverage.count)
-    append(row, node('p', 'catalogue-assessment-progress', `${number(notStarted)} awaiting assessment on this scale`));
-  return row;
 }
 
 function renderImpactDistribution(act, summary) {
@@ -142,22 +111,20 @@ function renderImpactDistribution(act, summary) {
   bar.setAttribute('aria-label', `Impact ratings among ${summary.count} published finding records: ${summary.distribution.map(segment => `${impactLegendLabels[segment.level]}: ${segment.count}`).join('; ')}.`);
   const legend = node('ul', 'catalogue-impact-legend');
   legend.setAttribute('aria-label', 'Impact');
-  const legendTitle = node('li', 'catalogue-impact-legend-title', 'Impact');
-  legendTitle.setAttribute('aria-hidden', 'true');
-  append(legend, legendTitle);
   summary.distribution.filter(segment => segment.count).forEach(segment => {
     const label = impactLegendLabels[segment.level];
     const mark = node('span', `catalogue-impact-segment impact-${segment.level}`);
     mark.style.width = `${segment.share * 100}%`;
     mark.setAttribute('aria-hidden', 'true');
     append(bar, mark);
-    if (segment.level === 'unrated') return;
-    const link = readerLink(act, '', 'catalogue-impact-key', null, segment.level);
+    const link = readerLink(act, '', `catalogue-impact-key impact-key-${segment.level}`, null, segment.level);
     if (segment.level !== 'unrated') link.href += '&view=impact';
     const swatch = node('span', `catalogue-impact-swatch impact-${segment.level}`);
     swatch.setAttribute('aria-hidden', 'true');
     append(link, swatch, node('span', '', `${label} ${number(segment.count)}`));
-    link.setAttribute('aria-label', `Open ${plural(segment.count, 'published finding')} with ${label.toLowerCase()} impact`);
+    link.setAttribute('aria-label', segment.level === 'unrated'
+      ? `Open ${plural(segment.count, 'published finding')} with no impact rating yet`
+      : `Open ${plural(segment.count, 'published finding')} with ${label.toLowerCase()} impact`);
     append(legend, append(node('li'), link));
   });
   return append(wrapper, bar, legend);
@@ -184,11 +151,13 @@ function renderAct(act) {
   const top = node('div', 'catalogue-facts-heading');
   if (summary.count) {
     const count = node('p', 'catalogue-finding-count');
-    append(count, node('strong', '', number(summary.count)), node('span', '', 'differences in meaning'));
-    append(top, count);
-    let impactNotice = null;
-    if (summary.assessedCount) impactNotice = renderImpactDistribution(act, summary);
-    else if (summary.reviewingCount) {
+    const link = readerLink(act, '', 'catalogue-count-link');
+    append(link, node('strong', '', number(summary.count)),
+      node('span', '', summary.count === 1 ? 'difference in meaning' : 'differences in meaning'),
+      node('span', 'catalogue-count-arrow', '→'));
+    append(top, append(count, link));
+    let impactNotice = renderImpactDistribution(act, summary);
+    if (!summary.assessedCount && summary.reviewingCount) {
       const notice = summary.reassessmentCount === summary.reviewingCount
         ? `${plural(summary.reassessmentCount, 'earlier assessment')} awaiting reassessment`
         : `${plural(summary.reviewingCount, 'impact issue')} awaiting rating`;
@@ -196,13 +165,11 @@ function renderAct(act) {
         'catalogue-unassessed', null, 'unrated');
       impactNotice.href += '&view=impact';
     }
-    append(facts, top, languageDetails(act, summary), completionBadges(act, summary), impactNotice);
+    append(facts, top, reviewStatus(act, summary), impactNotice, languageDetails(act, summary));
   } else {
     append(top, node('p', 'catalogue-no-findings', summary.fullyReviewed ? 'No differences identified in the completed review' : 'No differences published yet · review unfinished'));
-    append(facts, top, completionBadges(act, summary));
+    append(facts, top, reviewStatus(act, summary), readerLink(act, 'Read source text →', 'catalogue-read-link'));
   }
-  append(facts, readerLink(act,
-    summary.count ? 'View differences →' : 'Read source text →', 'catalogue-read-link'));
   return append(row, identity, facts);
 }
 

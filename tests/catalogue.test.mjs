@@ -147,6 +147,8 @@ test('complete review requires reconciled coverage and intact source expressions
     coverage: { reviewed_units: 10, total_units: 10, reviewed_languages: 2, total_languages: 2 }
   };
   assert.equal(actSummary(complete).reviewLabel, '1 of 1 languages reviewed · Complete');
+  assert.equal(actSummary(complete).reviewState, 'Complete');
+  assert.equal(actSummary(complete).reviewedLanguagesLabel, '1 of 1 languages reviewed');
   assert.equal(actSummary({ ...complete, coverage: act.coverage }).fullyReviewed, false);
   assert.equal(actSummary({ ...complete, coverage: {} }).fullyReviewed, false);
   assert.equal(actSummary({ ...complete, failed_languages: [{ code: 'fr' }] }).fullyReviewed, false);

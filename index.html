@@ -8,9 +8,9 @@
     <meta name="theme-color" content="#ffffff" />
     <title>EU Translation Inconsistencies</title>
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-    <link rel="stylesheet" href="./catalogue.css?v=11" />
+    <link rel="stylesheet" href="./catalogue.css?v=12" />
     <link rel="stylesheet" href="./site-header.css?v=1" />
-    <script type="module" src="./catalogue.js?v=15"></script>
+    <script type="module" src="./catalogue.js?v=16"></script>
   </head>
   <body>
     <a class="catalogue-skip-link" href="#catalogue-list">Skip to legislation</a>
@@ -19,12 +19,10 @@
       <button type="button" class="header-method" id="method-button" aria-haspopup="dialog">Method</button>
     </header>
     <main class="catalogue-main">
-      <div class="catalogue-intro">
-        <p>Explore differences in meaning between official language versions of EU legislation.</p>
-      </div>
       <div class="catalogue-heading">
         <div>
           <h1 class="catalogue-page-title">Legislation</h1>
+          <p class="catalogue-lede">Explore differences in meaning between official language versions of EU legislation.</p>
           <div class="catalogue-meta">
             <p id="catalogue-total" role="status">Loading the collection…</p>
           </div>
@@ -43,11 +41,25 @@
     </footer>
     <dialog id="method-dialog" class="catalogue-dialog" aria-labelledby="method-title">
       <div class="catalogue-dialog-top"><h2 id="method-title">Method</h2><button type="button" class="catalogue-dialog-close" id="close-method">Close</button></div>
-      <p>All official language versions have equal authority. English provides a common reading reference.</p>
-      <p>Published findings describe differences in meaning checked through AI discovery, separate evidence review and independent source checks. Each finding records its review method. A finding does not establish that a language version is legally wrong.</p>
-      <p>Each language-specific finding counts once. Findings quoting the same English wording in the same passage are displayed together in a comparison group; a group can contain different legal issues. Expand a language list to see each language’s count.</p>
-      <p>One comparison means one English passage checked against one other language. Coverage refers to the recorded source version. No published findings can reflect an unfinished review; a completed review does not establish equivalence of every legal reading.</p>
-      <p>Potential impact describes how much the legal outcome could change if an interpretation were accepted. Major and Limited are assigned ratings. An unresolved outcome has no rating; it does not count as Limited. A single legal issue may link several findings. Provisional AI assessments and confidence in the proposed legal effect are identified in the reader.</p>
+      <p>All official language versions have equal authority. English is shown only as a common reading reference.</p>
+      <h3>Reading a finding</h3>
+      <ul class="method-list">
+        <li>Select highlighted text to see the other language’s official wording, an AI translation into English and what differs in meaning. Underlining marks the words that differ.</li>
+        <li>Language and Impact narrow the list and the highlights. Shared links keep both.</li>
+      </ul>
+      <h3>What a finding is</h3>
+      <ul class="method-list">
+        <li>A difference in meaning found by AI review and checked against the exact source wording. Findings are provisional and do not establish that a language version is legally wrong.</li>
+        <li>Each language-specific finding counts once. Findings quoting the same English wording in the same passage are shown together.</li>
+        <li>Coverage counts each English passage checked against each other language, for the recorded text version. No findings does not prove the versions are equivalent; check coverage and the source version.</li>
+      </ul>
+      <h3>Potential impact</h3>
+      <p>How much the legal outcome could change if the differing reading were accepted. One issue can link several findings. Ratings are provisional AI assessments; confidence in the proposed legal effect is shown separately.</p>
+      <dl class="method-impact-scale">
+        <dt>Major</dt><dd>A material change to an important right, core duty or permission, eligibility, remedy, substantial financial liability or sanction.</dd>
+        <dt>Limited</dt><dd>A narrower or ancillary legal consequence, with no supported major consequence.</dd>
+        <dt>No impact rating yet</dt><dd>Not yet assessed, under review, or an earlier assessment awaiting the Major/Limited scale. It does not mean Limited.</dd>
+      </dl>
     </dialog>
   </body>
 </html>

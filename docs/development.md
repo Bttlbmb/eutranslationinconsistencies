@@ -58,6 +58,7 @@ For interface changes, exercise the real snapshot in a browser on desktop and na
 - Choose different acts; search the collection.
 - Follow a highlight, switch overlapping findings, and inspect grouped language cards.
 - Switch between Text order and Potential impact; inspect rating labels, unranked issues, confidence notes, and related evidence locations. An empty impact index must not imply low impact.
+- Check that changed wording appears as continuous runs, Major badges stay the strongest mark, and accent blue appears only on links and controls.
 - Focus on a language with findings and check its dropdown count; follow direct links to zero-finding and unavailable languages and check review-status wording.
 - Focus on each assigned impact level and No impact rating yet; combine with languages, confirm only matching original findings appear in shared quote groups, and check empty results never imply low impact.
 - Use next/previous, switch acts while focused, and follow a direct finding or focus-language link.

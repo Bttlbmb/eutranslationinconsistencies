@@ -1,7 +1,7 @@
 /** Stateless view helpers and source panels. All source wording uses textContent.
  * Navigation and selected-finding state stay in app.js; evidence rules stay in model.js.
  */
-import { officialURL, archiveURL, explanationSegments, sourceVersionInfo, targetReviewCoverage } from './model.js?v=5';
+import { officialURL, archiveURL, explanationSegments, sourceVersionInfo, targetReviewCoverage } from './model.js?v=6';
 
 export function node(tag, className, text) {
   const element = document.createElement(tag);

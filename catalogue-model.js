@@ -1,5 +1,5 @@
 /** Front-page summaries of the checked public snapshot. No research state is inferred. */
-import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel, targetReviewCoverage } from './model.js?v=5';
+import { publicFindings, substantialLanguageIndex, impactFamilies, impactDisplayLabel, targetReviewCoverage } from './model.js?v=6';
 
 // Editorial introductions to the existing acts, based on their preserved official
 // titles and scope provisions. Source metadata and legal wording stay unchanged.
@@ -148,7 +148,9 @@ export function actSummary(act) {
   // Count fully compared target versions; English is the common reference.
   // This is saved coverage, not an indication that a review is running now.
   const targets = targetReviewCoverage(act);
-  const reviewLabel = `${targets.reviewed} of ${targets.total} languages reviewed · ${fullyReviewed ? 'Complete' : 'Incomplete'}`;
+  const reviewState = fullyReviewed ? 'Complete' : 'Incomplete';
+  const reviewedLanguagesLabel = `${targets.reviewed} of ${targets.total} languages reviewed`;
+  const reviewLabel = `${reviewedLanguagesLabel} · ${reviewState}`;
   const severities = new Map();
   for (const finding of findings) {
     const severity = finding.severity || 'unspecified';
@@ -167,6 +169,8 @@ export function actSummary(act) {
     languages: substantialLanguageIndex(act),
     fullyReviewed,
     reviewLabel,
+    reviewState,
+    reviewedLanguagesLabel,
     impact,
     distribution,
     impactCount: families.length,

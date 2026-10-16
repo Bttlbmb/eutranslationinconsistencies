@@ -11,9 +11,9 @@
     <meta name="theme-color" content="#ffffff" />
     <title>EU Translation Inconsistencies</title>
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-    <link rel="stylesheet" href="./styles.css?v=20" />
+    <link rel="stylesheet" href="./styles.css?v=21" />
     <link rel="stylesheet" href="./site-header.css?v=1" />
-    <script type="module" src="./app.js?v=21"></script>
+    <script type="module" src="./app.js?v=22"></script>
   </head>
   <body>
     <a class="skip-link" href="#reader">Skip to legislation</a>
@@ -65,40 +65,25 @@
         <h2 id="method-title">Method</h2>
         <button class="icon-button" id="close-method" aria-label="Close method">×</button>
       </div>
-      <p>
-        The English text is a reading reference. All official language versions have equal
-        authority. Use Language to see only its published differences and English-text
-        highlights. Select highlighted text to see original wording, an English translation, and the
-        difference in meaning.
-      </p>
-      <p>
-        Impact narrows the findings and highlights to an assigned impact level.
-        It can be combined with Language. No impact rating yet means no level has been
-        assigned for that finding; an issue explanation may be under review. It does not mean
-        Limited impact. Earlier assessments await reassessment on the Major/Limited scale. The focus is kept in
-        shared links.
-      </p>
-      <p>
-        Published findings are supported by independent model analyses and evidence review. They
-        identify differences in meaning. Findings are provisional and do not establish that a language version is legally wrong. An
-        act with no findings is not necessarily equivalent across languages; check its review
-        coverage and source version.
-      </p>
-      <p>One comparison unit means one English passage checked against one other language.</p>
-      <p>Each language-specific finding counts as one difference in meaning. Findings quoting the same English wording in the same passage appear together in a comparison group, which can contain different legal issues. Both filter menus count findings matching the other filter; the list and navigation show comparison groups.</p>
-      <p>English translations of other language versions are AI-generated reading aids. Underlining marks wording differences between the two English quotations; the explanations describe their significance.</p>
-      <p>
-        Potential impact describes how much the legal outcome could change if an interpretation were accepted.
-        Issues needing more context have no rating. They are grouped by legal issue, which may span several highlighted
-        passages. A shared English passage may contain several distinct issues. An act without
-        impact proposals is not assessed as having no impact.
-      </p>
-      <p>Assigned ratings marked provisional are AI assessments. Confidence describes support for the proposed legal effect, separately from impact size. Review completion applies to this text version and available source scope.</p>
-      <p>The potential impact scale applies to the possible legal outcome:</p>
-      <ul class="method-impact-scale">
-        <li><strong>Major:</strong> A material change to an important right, core duty or permission, eligibility, remedy, substantial financial liability or sanction.</li>
-        <li><strong>Limited:</strong> A narrower or ancillary legal consequence, with no supported major consequence.</li>
+      <p>All official language versions have equal authority. English is shown only as a common reading reference.</p>
+      <h3>Reading a finding</h3>
+      <ul class="method-list">
+        <li>Select highlighted text to see the other language’s official wording, an AI translation into English and what differs in meaning. Underlining marks the words that differ.</li>
+        <li>Language and Impact narrow the list and the highlights. Shared links keep both.</li>
       </ul>
+      <h3>What a finding is</h3>
+      <ul class="method-list">
+        <li>A difference in meaning found by AI review and checked against the exact source wording. Findings are provisional and do not establish that a language version is legally wrong.</li>
+        <li>Each language-specific finding counts once. Findings quoting the same English wording in the same passage are shown together.</li>
+        <li>Coverage counts each English passage checked against each other language, for the recorded text version. No findings does not prove the versions are equivalent; check coverage and the source version.</li>
+      </ul>
+      <h3>Potential impact</h3>
+      <p>How much the legal outcome could change if the differing reading were accepted. One issue can link several findings. Ratings are provisional AI assessments; confidence in the proposed legal effect is shown separately.</p>
+      <dl class="method-impact-scale">
+        <dt>Major</dt><dd>A material change to an important right, core duty or permission, eligibility, remedy, substantial financial liability or sanction.</dd>
+        <dt>Limited</dt><dd>A narrower or ancillary legal consequence, with no supported major consequence.</dd>
+        <dt>No impact rating yet</dt><dd>Not yet assessed, under review, or an earlier assessment awaiting the Major/Limited scale. It does not mean Limited.</dd>
+      </dl>
     </dialog>
   </body>
 </html>
