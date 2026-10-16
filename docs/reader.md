@@ -4,6 +4,8 @@ Start with a law in the collection. Sort by review status (the default), date of
 
 The language count includes only non-English versions fully compared with English. Partly checked versions and failed source retrievals remain in the total but do not count as reviewed. Incomplete describes the saved coverage; it does not mean work is currently running. Review and sources gives the details.
 
+Individually verified findings can appear within an incomplete language review. Where the act's notes identify a finding-scoped supplement, each additional finding received an independent check that its governing context is complete and the outstanding questions cannot undermine it. Those findings do not increase the completed-coverage counts.
+
 Open the law to see its English text beside a list of findings. Select highlighted wording or an item in the list to compare the language versions. Each language starts with its name, any impact rating and a link to its official source. The official English quotation sits directly above the AI translation of that language, with differing words shaded in both; the official original follows, then the explanation of the possible difference in meaning. A potential impact section, where available, gives the effect if the reading prevails, the reasoning and its uncertainty; assessment details and the link to the whole issue are folded away. English provides a common reference; it has no higher authority than the other official versions.
 
 ## Narrow the comparison

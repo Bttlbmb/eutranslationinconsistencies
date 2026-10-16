@@ -137,7 +137,7 @@ Passages remain in reading order. The backend validates each passage against the
 
 Rejected, uncertain, invalid-evidence and unreviewed candidates remain private in the backend. They must not be included as public findings. Publication checks reject a finding whose English quote does not match, whose variant quote does not occur in its language archive, or whose variant evidence is incomplete.
 
-Accepted candidates from a batch whose coverage review has not completed remain preliminary and are excluded from the export. A publication hold suppresses all findings for the act without hiding its source texts or coverage. The backend's local hold flag itself is not a public field.
+Accepted candidates from a batch whose coverage review has not completed normally remain preliminary and are excluded from the export. Under an explicitly authorized finding-scoped release supplement, an individual finding may instead appear after a fresh independent source and dependency audit confirms complete governing context and that outstanding questions cannot undermine it. This does not add completed-passage or completed-language coverage. The act's notes disclose that distinction; private clearance records remain in the backend. A publication hold suppresses all findings for the act without hiding its source texts or coverage. The backend's local hold flag itself is not a public field.
 
 ## Potential-impact assessment
 
